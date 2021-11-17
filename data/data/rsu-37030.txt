@@ -1,0 +1,305 @@
+Exhibit 10.40 
+
+POWER INTEGRATIONS, INC. 
+
+IMMEDIATELY EXERCISABLE 
+
+
+
+(EXECUTIVE) 
+
+THIS IMMEDIATELY EXERCISABLE NONSTATUTORY STOCK OPTION AGREEMENT (the “Option Agreement”) is made and entered into as of XXXXX, by and between Power Integrations, Inc. and XXXXXX (the “Optionee”). 
+
+The Company has granted to the Optionee pursuant to the Power Integrations, Inc. 1997 Stock Option Plan (the “Plan”) an option to purchase certain shares of Stock, upon the terms and conditions set forth in this Option Agreement (the “Option”). The Option shall in all respects be subject to the terms and conditions of the Plan. 
+
+1. DEFINITIONS AND CONSTRUCTION.   
+  
+1.1 Definitions. Whenever used herein, the following terms shall have their respective meanings set forth below: 
+
+(a) “Date of Option Grant” means XXXXX. 
+
+(b) “Number of Option Shares” means XXX Stock, as adjusted from time to time pursuant to Section 9. 
+
+(c) “Exercise Price” means XXXX share of Stock, as adjusted from time to time pursuant to Section 9. 
+
+(d) “Initial Exercise Date” means the later of the Date of Option Grant or the date the Optionee’s Service commences. 
+
+(e) “Initial Vesting Date” means the date occurring six (6) months after (check one): 
+
+þ the Date of Option Grant. 
+
+¨ , 2000. 
+
+* * *
+
+(f) “Vested Shares” means, on any relevant date, that portion of the Number of Option Shares which has vested in accordance with the vesting schedule set forth above in this Option Agreement. Provided that the Optionee’s Service has not terminated prior to the relevant date, an initial installment of shares will become Vested Shares on the initial “Full Vest” date set forth in Section 1.1(e) above, and thereafter the remaining shares will become Vested Shares in substantially equal installments, with the last such installment vesting on the last “Full Vest” date set forth above. Notwithstanding the foregoing, vesting of the shares subject to the Option shall be accelerated pursuant to the relevant provisions of the Benefits Agreement (defined below). 
+
+(g) “Option Expiration Date” means the date ten (10) years after the Date of Option Grant. 
+
+(h) “Benefits Agreement” means the Executive Officer Benefits Agreement between the Company and the Optionee dated April 19, 2002, and any amendments thereto. 
+
+(i) “Board” means the Board of Directors of the Company. If one or more Committees have been appointed by the Board to administer the Plan, “Board” also means such Committee(s). 
+
+(j) “Code” means the Internal Revenue Code of 1986, as amended, and any applicable regulations promulgated thereunder. 
+
+(k) “Company” means Power Integrations, Inc., a Delaware corporation, or any successor corporation thereto. 
+
+(l) “Consultant” means any person, including an advisor, engaged by a Participating Company to render services other than as an Employee or a Director. 
+
+(m) “Director” means a member of the Board or of the board of directors of any other Participating Company. 
+
+(n) “Disability” means the inability of the Optionee, in the opinion of a qualified physician acceptable to the Company, to perform the major duties of the Optionee’s position with the Participating Company group because of the sickness or injury of the Optionee. 
+
+(o) “Employee” means any person treated as an employee (including an officer or a Director who is also treated as an employee) in the records of a Participating Company; provided, however, that neither service as a Director nor payment of a director’s fee shall be sufficient to constitute employment for purposes of the Option Agreement. 
+
+(p) “Exchange Act” means the Securities Exchange Act of 1934, as amended. 
+
+2 
+
+* * *
+
+(q) “Fair Market Value” means, as of any date, the value of a share of Stock or other property as determined by the Board, in its sole discretion, or by the Company, in its sole discretion, if such determination is expressly allocated to the Company herein, subject to the following: 
+
+(i) If, on such date, there is a public market for the Stock, the Fair Market Value of a share of Stock shall be the closing sale price of a share of Stock (or the mean of the closing bid and asked prices of a share of Stock if the Stock is so quoted instead) as quoted on the Nasdaq National Market, the Nasdaq Small-Cap Market or such other national or regional securities exchange or market system constituting the primary market for the Stock, as reported in the Wall Street Journal or such other source as the Company deems reliable. If the relevant date does not fall on a day on which the Stock has traded on such securities exchange or market system, the date on which the Fair Market Value shall be established shall be the last day on which the Stock was so traded prior to the relevant date, or such other appropriate day as shall be determined by the Board, in its sole discretion. 
+
+(ii) If, on such date, there is no public market for the Stock, the Fair Market Value of a share of Stock shall be as determined by the Board without regard to any restriction other than a restriction which, by its terms, will never lapse. 
+
+(r) “Incentive Stock Option” means an Option intended to be (as set forth in the Option Agreement) and which qualifies as an incentive stock option within the meaning of Section 422(b) of the Code. 
+
+(s) “Insider” means an officer or a Director of the Company or any other person whose transactions in Stock are subject to Section 16 of the Exchange Act. 
+
+(t) “Nonstatutory Stock Option” means an Option not intended to be (as set forth in the Option Agreement) or which does not qualify as an Incentive Stock Option. 
+
+(u) “Parent Corporation” means any present or future “parent corporation” of the Company, as defined in Section 424(e) of the Code. 
+
+(v) “Participating Company” means the Company or any Parent Corporation or Subsidiary Corporation. 
+
+(w) “Participating Company Group” means, at any point in time, all corporations collectively which are then Participating Companies. 
+
+(x) “Securities Act” means the Securities Act of 1933, as amended. 
+
+(y) “Service” means the Optionee’s employment or service with the Participating Company Group, whether in the capacity of an Employee, a Director or a Consultant. The Optionee’s Service shall not be deemed to have terminated merely because of a change in the capacity in which the Optionee renders Service to the Participating Company Group or a change in the Participating Company for which the Optionee renders such Service, provided that there is no interruption or termination of the Optionee’s Service. Furthermore, the Optionee’s Service with the Participating Company Group shall not be deemed to have 
+
+3 
+
+* * *
+
+terminated if the Optionee takes any military leave, sick leave, or other bona fide leave of absence approved by the Company; provided, however, that if any such leave exceeds ninety (90) days, on the ninety-first (91st) day of such leave the Optionee’s Service shall be deemed to have terminated unless the Optionee’s right to return to Service with the Participating Company Group is guaranteed by statute or contract. Notwithstanding the foregoing, unless otherwise designated by the Company or required by law, a leave of absence shall not be treated as Service for purposes of determining the Optionee’s Vested Ratio. The Optionee’s Service shall be deemed to have terminated either upon an actual termination of Service or upon the corporation for which the Optionee performs Service ceasing to be a Participating Company. Subject to the foregoing, the Company, in its sole discretion, shall determine whether the Optionee’s Service has terminated and the effective date of such termination. (NOTE: If the Option is exercised more than three (3) months after the date on which the Optionee ceased to be an Employee (other than by reason of death or a permanent and total disability as defined in Section 22(e)(3) of the Code), the Option will be treated as a Nonstatutory Stock Option and not as an Incentive Stock Option to the extent required by Section 422 of the Code.) 
+
+(z) “Stock” means the common stock of the Company, as adjusted from time to time in accordance with Section 9. 
+
+(aa) “Subsidiary Corporation” means any present or future “subsidiary corporation” of the Company, as defined in Section 424(f) of the Code. 
+
+1.2 Construction. Captions and titles contained herein are for convenience only and shall not affect the meaning or interpretation of any provision of this Option Agreement. Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular. Use of the term “or” is not intended to be exclusive, unless the context clearly requires otherwise. 
+
+2. TAX CONSEQUENCES.   
+  
+2.1 Tax Status of Option. This Option is intended to be a Nonstatutory Stock Option and shall not be treated as an Incentive Stock Option within the meaning of Section 422(b) of the Code. 
+
+2.2 Election Under Section 83(b) of the Code. If the Optionee exercises this Option to purchase shares of Stock that are both nontransferable and subject to a substantial risk of forfeiture, the Optionee understands that the Optionee should consult with the Optionee’s tax advisor regarding the advisability of filing with the Internal Revenue Service an election under Section 83(b) of the Code, which must be filed no later than thirty (30) days after the date on which the Optionee exercises the Option. Shares acquired upon exercise of the Option are nontransferable and subject to a substantial risk of forfeiture if, for example, (a) they are unvested and are subject to a right of the Company to repurchase such shares at the Optionee’s original purchase price if the Optionee’s Service terminates, (b) the Optionee is an Insider and, under certain circumstances, exercises the Option within six (6) months of the Date of Option Grant (if a class of equity security of the Company is registered under Section 12 of the Exchange Act), or (c) the Optionee is subject to a restriction on transfer to comply with “Pooling-of-Interests Accounting” rules. Failure to file an election under Section 83(b), if 
+
+4 
+
+* * *
+
+appropriate, may result in adverse tax consequences to the Optionee. The Optionee acknowledges that the Optionee has been advised to consult with a tax advisor prior to the exercise of the Option regarding the tax consequences to the Optionee of the exercise of the Option. AN ELECTION UNDER SECTION 83(b) MUST BE FILED WITHIN 30 DAYS AFTER THE DATE ON WHICH THE OPTIONEE PURCHASES SHARES. THIS TIME PERIOD CANNOT BE EXTENDED. THE OPTIONEE ACKNOWLEDGES THAT TIMELY FILING OF A SECTION 83(b) ELECTION IS THE OPTIONEE’S SOLE RESPONSIBILITY, EVEN IF THE OPTIONEE REQUESTS THE COMPANY OR ITS REPRESENTATIVE TO FILE SUCH ELECTION ON HIS OR HER BEHALF. 
+
+3. ADMINISTRATION.   
+  
+All questions of interpretation concerning this Option Agreement shall be determined by the Board. All determinations by the Board shall be final and binding upon all persons having an interest in the Option. Any officer of a Participating Company shall have the authority to act on behalf of the Company with respect to any matter, right, obligation, or election which is the responsibility of or which is allocated to the Company herein, provided the officer has apparent authority with respect to such matter, right, obligation, or election. 
+
+4. EXERCISE OF THE OPTION.   
+  
+4.1 Right to Exercise. Except as otherwise provided herein, the Option shall be exercisable on and after the Initial Exercise Date and prior to the termination of the Option (as provided in Section 6) in an amount not to exceed the Number of Option Shares less the number of shares previously acquired upon exercise of the Option, subject to the Optionee’s agreement that any shares purchased upon exercise are subject to the Company’s repurchase right set forth in Section 11. 
+
+4.2 Method of Exercise. Exercise of the Option shall be by written notice to the Company which must state the election to exercise the Option, the number of whole shares of Stock for which the Option is being exercised and such other representations and agreements as to the Optionee’s investment intent with respect to such shares as may be required pursuant to the provisions of this Option Agreement. The written notice must be signed by the Optionee and must be delivered in person, by certified or registered mail, return receipt requested, by confirmed facsimile transmission, or by such other means as the Company may permit, to the Chief Financial Officer of the Company, or other authorized representative of the Participating Company Group, prior to the termination of the Option as set forth in Section 6, accompanied by (i) full payment of the aggregate Exercise Price for the number of shares of Stock being purchased and (ii) an executed copy, if required herein, of the then current form of escrow agreement referenced below. The Option shall be deemed to be exercised upon receipt by the Company of such written notice, the aggregate Exercise Price, and, if required by the Company, such executed agreement. 
+
+4.3 Payment of Exercise Price.
+
+(a) Forms of Consideration Authorized. Except as otherwise provided below, payment of the aggregate Exercise Price for the number of shares of Stock for 
+
+5 
+
+* * *
+
+which the Option is being exercised shall be made (i) in cash, by check, or cash equivalent, (ii) by tender to the Company of whole shares of Stock owned by the Optionee having a Fair Market Value (as determined by the Company without regard to any restrictions on transferability applicable to such stock by reason of federal or state securities laws or agreements with an underwriter for the Company) not less than the aggregate Exercise Price, (iii) by means of a Cashless Exercise, as defined in Section 4.3(c), or (iv) by any combination of the foregoing. 
+
+(b) Tender of Stock. Notwithstanding the foregoing, the Option may not be exercised by tender to the Company of shares of Stock to the extent such tender of Stock would constitute a violation of the provisions of any law, regulation or agreement restricting the redemption of the Company’s stock. The Option may not be exercised by tender to the Company of shares of Stock unless such shares either have been owned by the Optionee for more than six (6) months or were not acquired, directly or indirectly, from the Company. 
+
+(c) Cashless Exercise. A “Cashless Exercise” means the assignment in a form acceptable to the Company of the proceeds of a sale or loan with respect to some or all of the shares of Stock acquired upon the exercise of the Option pursuant to a program or procedure approved by the Company (including, without limitation, through an exercise complying with the provisions of Regulation T as promulgated from time to time by the Board of Governors of the Federal Reserve System). The Company reserves, at any and all times, the right, in the Company’s sole and absolute discretion, to decline to approve or terminate any such program or procedure. 
+
+4.4 Tax Withholding. At the time the Option is exercised, in whole or in part, or at any time thereafter as requested by the Company, the Optionee hereby authorizes withholding from payroll and any other amounts payable to the Optionee, and otherwise agrees to make adequate provision for (including by means of a Cashless Exercise to the extent permitted by the Company), any sums required to satisfy the federal, state, local and foreign tax withholding obligations of the Participating Company Group, if any, which arise in connection with the Option, including, without limitation, obligations arising upon (i) the exercise, in whole or in part, of the Option, (ii) the transfer, in whole or in part, of any shares acquired upon exercise of the Option, (iii) the operation of any law or regulation providing for the imputation of interest, or (iv) the lapsing of any restriction with respect to any shares acquired upon exercise of the Option. The Optionee is cautioned that the Option is not exercisable unless the tax withholding obligations of the Participating Company Group are satisfied. Accordingly, the Optionee may not be able to exercise the Option when desired even though the Option is vested, and the Company shall have no obligation to issue a certificate for such shares or release such shares from any escrow provided for herein. 
+
+4.5 Certificate Registration. Except in the event the Exercise Price is paid by means of a Cashless Exercise, the certificate for the shares as to which the Option is exercised shall be registered in the name of the Optionee, or, if applicable, in the names of the heirs of the Optionee. 
+
+4.6 Restrictions on Grant of the Option and Issuance of Shares. The grant of the Option and the issuance of shares of Stock upon exercise of the Option shall be subject to compliance with all applicable requirements of federal, state or foreign law with respect to such 
+
+6 
+
+* * *
+
+securities. The Option may not be exercised if the issuance of shares of Stock upon exercise would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Stock may then be listed. In addition, the Option may not be exercised unless (i) a registration statement under the Securities Act shall at the time of exercise of the Option be in effect with respect to the shares issuable upon exercise of the Option or (ii) in the opinion of legal counsel to the Company, the shares issuable upon exercise of the Option may be issued in accordance with the terms of an applicable exemption from the registration requirements of the Securities Act. THE OPTIONEE IS CAUTIONED THAT THE OPTION MAY NOT BE EXERCISED UNLESS THE FOREGOING CONDITIONS ARE SATISFIED. ACCORDINGLY, THE OPTIONEE MAY NOT BE ABLE TO EXERCISE THE OPTION WHEN DESIRED EVEN THOUGH THE OPTION IS VESTED. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance and sale of any shares subject to the Option shall relieve the Company of any liability in respect of the failure to issue or sell such shares as to which such requisite authority shall not have been obtained. As a condition to the exercise of the Option, the Company may require the Optionee to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company. 
+
+4.7 Fractional Shares. The Company shall not be required to issue fractional shares upon the exercise of the Option. 
+
+5. TRANSFERABILITY OF THE OPTION.  
+  
+The Option may be exercised during the lifetime of the Optionee only by the Optionee or the Optionee’s guardian or legal representative and may not be assigned or transferred in any manner except by will or by the laws of descent and distribution; provided, however, that the Option may be transferred pursuant to a domestic relations order (as defined in Section 414(p) of the Code). Following the death of the Optionee, the Option, to the extent provided in Section 7, may be exercised by the Optionee’s legal representative or by any person empowered to do so under the deceased Optionee’s will or under the then applicable laws of descent and distribution. 
+
+6. TERMINATION OF THE OPTION.  
+  
+The Option shall terminate and may no longer be exercised on the first to occur of (a) the Option Expiration Date, (b) the last date for exercising the Option following termination of the Optionee’s Service as described in Section 7, or (c) a Change in Control to the extent provided in Section 8. 
+
+7. EFFECT OF TERMINATION OF SERVICE.  
+  
+7.1 Option Exercisability.
+
+(a) Disability. If the Optionee’s Service with the Participating Company Group is terminated because of the Disability of the Optionee, the Option, to the extent unexercised and exercisable on the date on which the Optionee’s Service terminated, may be 
+
+7 
+
+* * *
+
+exercised by the Optionee (or the Optionee’s guardian or legal representative) at any time prior to the expiration of six (6) months after the date on which the Optionee’s Service terminated (or such longer post-termination exercise period specified in the Benefits Agreement), but in any event no later than the Option Expiration Date. 
+
+(b) Death. If the Optionee’s Service with the Participating Company Group is terminated because of the death of the Optionee, the Option, to the extent unexercised and exercisable on the date on which the Optionee’s Service terminated, may be exercised by the Optionee’s legal representative or other person who acquired the right to exercise the Option by reason of the Optionee’s death at any time prior to the expiration of six (6) months after the date on which the Optionee’s Service terminated (or such longer post-termination exercise period specified in the Benefits Agreement), but in any event no later than the Option Expiration Date. The Optionee’s Service shall be deemed to have terminated on account of death if the Optionee dies within three (3) months after the Optionee’s termination of Service. 
+
+(c) Retirement Benefits. If the Optionee has met the requirements for and is receiving “Retirement Benefits” as defined in the Benefits Agreement, the Option, to the extent unexercised and exercisable, may be exercised for that period of time provided in the Benefits Agreement. 
+
+(d) Other Termination of Service. Except as otherwise provided in Section 7.1(a) through (c), the Option, to the extent unexercised and exercisable by the Optionee on the date on which the Optionee’s Service terminated, may be exercised by the Optionee within three (3) months (or such other longer period of time as determined by the Board, in its sole discretion) after the date on which the Optionee’s Service terminated, but in any event no later than the Option Expiration Date. 
+
+7.2 Additional Limitation on Option Exercise. Notwithstanding the provisions of Section 7.1, the Option may not be exercised after the Optionee’s termination of Service to the extent that the shares to be acquired upon exercise of the Option would be subject to the Unvested Share Repurchase Option as provided in Section 11. 
+
+7.3 Extension if Exercise Prevented by Law. Notwithstanding the foregoing, if the exercise of the Option within the applicable time periods set forth in Section 7.1 is prevented by the provisions of Section 4.6, the Option shall remain exercisable until three (3) months after the date the Optionee is notified by the Company that the Option is exercisable, but in any event no later than the Option Expiration Date. 
+
+7.4 Extension if Optionee Subject to Section 16(b). Notwithstanding the foregoing, if a sale within the applicable time periods set forth in Section 7.1 of shares acquired upon the exercise of the Option would subject the Optionee to suit under Section 16(b) of the Exchange Act, the Option shall remain exercisable until the earliest to occur of (i) the tenth (10th) day following the date on which a sale of such shares by the Optionee would no longer be subject to such suit, (ii) the one hundred and ninetieth (190th) day after the Optionee’s termination of Service, or (iii) the Option Expiration Date. 
+
+8 
+
+* * *
+
+8. CHANGE IN CONTROL.   
+  
+8.1 Definitions.
+
+(a) An “Ownership Change Event” shall be deemed to have occurred if any of the following occurs with respect to the Company: 
+
+(i) the direct or indirect sale or exchange in a single or series of related transactions by the stockholders of the Company of more than fifty percent (50%) of the voting stock of the Company; 
+
+(ii) a merger or consolidation in which the Company is a party; or 
+
+(iii) the sale, exchange, or transfer of all or substantially all of the assets of the Company; or 
+
+(iv) a liquidation or dissolution of the Company. 
+
+(b) A “Change in Control” shall mean an Ownership Change Event or a series of related Ownership Change Events (collectively, the “Transaction”) wherein the stockholders of the Company immediately before the Transaction do not retain immediately after the Transaction, in substantially the same proportions as their ownership of shares of the Company’s voting stock immediately before the Transaction, direct or indirect beneficial ownership of more than fifty percent (50%) of the total combined voting power of the outstanding voting stock of the Company or the corporation or corporations to which the assets of the Company were transferred (the “Transferee Corporation(s)”), as the case may be. For purposes of the preceding sentence, indirect beneficial ownership shall include, without limitation, an interest resulting from ownership of the voting stock of one or more corporations which, as a result of the Transaction, own the Company or the Transferee Corporation(s), as the case may be, either directly or through one or more subsidiary corporations. The Board shall have the right to determine whether multiple sales or exchanges of the voting stock of the Company or multiple Ownership Change Events are related, and its determination shall be final, binding and conclusive. 
+
+8.2 Effect of Change in Control on Option. In the event of a Change in Control, the surviving, continuing, successor, or purchasing corporation or parent corporation thereof, as the case may be (the “Acquiring Corporation”), may either assume the Company’s rights and obligations under the Option or substitute for the Option a substantially equivalent option for the Acquiring Corporation’s stock. For purposes of this Section 8.2, the Option shall be deemed assumed if, following the Change in Control, the Option confers the right to purchase in accordance with its terms and conditions, for each share of Stock subject to the Option immediately prior to the Change in Control, the consideration (whether stock, cash or other securities or property) to which a holder of a share of Stock on the effective date of the Change in Control was entitled. The Option shall terminate and cease to be outstanding effective as of the date of the Change in Control to the extent that the Option is neither assumed or substituted for by the Acquiring Corporation in connection with the Change in Control nor exercised as of the date of the Change in Control. Notwithstanding the foregoing, shares acquired upon exercise 
+
+9 
+
+* * *
+
+of the Option prior to the Change in Control and any consideration received pursuant to the Change in Control with respect to such shares shall continue to be subject to all applicable provisions of this Option Agreement except as otherwise provided herein. Furthermore, notwithstanding the foregoing, if the corporation the stock of which is subject to the Option immediately prior to an Ownership Change Event described in Section 8.1(a)(i) constituting a Change in Control is the surviving or continuing corporation and immediately after such Ownership Change Event less than fifty percent (50%) of the total combined voting power of its voting stock is held by another corporation or by other corporations that are members of an affiliated group within the meaning of Section 1504(a) of the Code without regard to the provisions of Section 1504(b) of the Code, the Option shall not terminate unless the Board otherwise provides in its sole discretion. 
+
+9. ADJUSTMENTS FOR CHANGES IN CAPITAL STRUCTURE.  
+  
+In the event of any stock dividend, stock split, reverse stock split, recapitalization, combination, reclassification, or similar change in the capital structure of the Company, appropriate adjustments shall be made in the number, Exercise Price and class of shares of stock subject to the Option. If a majority of the shares which are of the same class as the shares that are subject to the Option are exchanged for, converted into, or otherwise become (whether or not pursuant to an Ownership Change Event) shares of another corporation (the “New Shares”), the Board may unilaterally amend the Option to provide that the Option is exercisable for New Shares. In the event of any such amendment, the Number of Option Shares and the Exercise Price shall be adjusted in a fair and equitable manner, as determined by the Board, in its sole discretion. Notwithstanding the foregoing, any fractional share resulting from an adjustment pursuant to this Section 9 shall be rounded up or down to the nearest whole number, as determined by the Board, and in no event may the Exercise Price be decreased to an amount less than the par value, if any, of the stock subject to the Option. The adjustments determined by the Board pursuant to this Section 9 shall be final, binding and conclusive. 
+
+10. RIGHTS AS A SHAREHOLDER, EMPLOYEE OR CONSULTANT.  
+  
+The Optionee shall have no rights as a shareholder with respect to any shares covered by the Option until the date of the issuance of a certificate for the shares for which the Option has been exercised (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company). No adjustment shall be made for dividends, distributions or other rights for which the record date is prior to the date such certificate is issued, except as provided in Section 9. If the Optionee is an Employee, the Optionee understands and acknowledges that, except as otherwise provided in a separate, written employment agreement between a Participating Company and the Optionee, the Optionee’s employment is “at will” and is for no specified term. Nothing in this Option Agreement shall confer upon the Optionee any right to continue in the Service of a Participating Company or interfere in any way with any right of the Participating Company Group to terminate the Optionee’s Service as an Employee or Consultant, as the case may be, at any time. 
+
+10 
+
+* * *
+
+11. UNVESTED SHARE REPURCHASE OPTION.   
+  
+11.1 Grant of Unvested Share Repurchase Option. In the event the Optionee’s Service with the Participating Company Group is terminated for any reason or no reason, with or without cause, or, if the Optionee, the Optionee’s legal representative, or other holder of shares acquired upon exercise of the Option attempts to sell, exchange, transfer, pledge, or otherwise dispose of (other than pursuant to an Ownership Change Event) any shares acquired upon exercise of the Option which exceed the Vested Shares as defined in Section 11.2 below (the “Unvested Shares”), the Company shall have the right to repurchase the Unvested Shares under the terms and subject to the conditions set forth in this Section 11 (the “Unvested Share Repurchase Option”). 
+
+11.2 Unvested Shares Defined. On any given date, the “Unvested Shares” shall mean the number of shares of Stock acquired upon exercise of the Option which exceed the Vested Shares determined as of such date. 
+
+11.3 Exercise of Unvested Share Repurchase Option. The Company may exercise the Unvested Share Repurchase Option by written notice to the Optionee within sixty (60) days after (a) termination of the Optionee’s Service (or exercise of the Option, if later) or (b) the Company has received notice of the attempted disposition of Unvested Shares. If the Company fails to give notice within such sixty (60) day period, the Unvested Share Repurchase Option shall terminate unless the Company and the Optionee have extended the time for the exercise of the Unvested Share Repurchase Option. The Unvested Share Repurchase Option must be exercised, if at all, for all of the Unvested Shares, except as the Company and the Optionee otherwise agree. 
+
+11.4 Payment for Shares and Return of Shares to Company. The purchase price per share being repurchased by the Company shall be an amount equal to the Optionee’s original cost per share, as adjusted pursuant to Section 9 (the “Repurchase Price”). The Company shall pay the aggregate Repurchase Price to the Optionee in cash within thirty (30) days after the date of the written notice to the Optionee of the Company’s exercise of the Unvested Share Repurchase Option. For purposes of the foregoing, cancellation of any indebtedness of the Optionee to any Participating Company shall be treated as payment to the Optionee in cash to the extent of the unpaid principal and any accrued interest canceled. The shares being repurchased shall be delivered to the Company by the Optionee at the same time as the delivery of the Repurchase Price to the Optionee. 
+
+11.5 Assignment of Unvested Share Repurchase Option. The Company shall have the right to assign the Unvested Share Repurchase Option at any time, whether or not such option is then exercisable, to one or more persons as may be selected by the Company. 
+
+11.6 Ownership Change Event. Upon the occurrence of an Ownership Change Event, any and all new, substituted or additional securities or other property to which the Optionee is entitled by reason of the Optionee’s ownership of Unvested Shares shall be immediately subject to the Unvested Share Repurchase Option and included in the terms “Stock” and “Unvested Shares” for all purposes of the Unvested Share Repurchase Option with the same force and effect as the Unvested Shares immediately prior to the Ownership Change Event. 
+
+11 
+
+* * *
+
+While the aggregate Repurchase Price shall remain the same after such Ownership Change Event, the Repurchase Price per Unvested Share upon exercise of the Unvested Share Repurchase Option following such Ownership Change Event shall be adjusted as appropriate. For purposes of determining the Vested Ratio following an Ownership Change Event, credited Service shall include all Service with any corporation which is a Participating Company at the time the Service is rendered, whether or not such corporation is a Participating Company both before and after the Ownership Change Event. 
+
+12. ESCROW.  
+  
+12.1 Establishment of Escrow. To ensure that shares subject to the Unvested Share Repurchase Option will be available for repurchase, the Company may require the Optionee to deposit the certificate evidencing the shares which the Optionee purchases upon exercise of the Option with an agent designated by the Company under the terms and conditions of escrow and security agreements approved by the Company. If the Company does not require such deposit as a condition of exercise of the Option, the Company reserves the right at any time to require the Optionee to so deposit the certificate in escrow. Upon the occurrence of an Ownership Change Event or a change, as described in Section 9, in the character or amount of any of the outstanding stock of the corporation the stock of which is subject to the provisions of this Option Agreement, any and all new, substituted or additional securities or other property to which the Optionee is entitled by reason of the Optionee’s ownership of shares of Stock acquired upon exercise of the Option that remain, following such Ownership Change Event or change described in Section 9, subject to the Unvested Share Repurchase Option or any security interest held by the Company shall be immediately subject to the escrow to the same extent as such shares of Stock immediately before such event. The Company shall bear the expenses of the escrow. 
+
+12.2 Delivery of Shares to Optionee. As soon as practicable after the expiration of the Unvested Share Repurchase Option, but not more frequently than twice each calendar year, the escrow agent shall deliver to the Optionee the shares and any other property no longer subject to such restrictions. 
+
+12.3 Notices and Payments. In the event the shares and any other property held in escrow are subject to the Company’s exercise of the Unvested Share Repurchase Option, the notices required to be given to the Optionee shall be given to the escrow agent, and any payment required to be given to the Optionee shall be given to the escrow agent. Within thirty (30) days after payment by the Company, the escrow agent shall deliver the shares and any other property which the Company has purchased to the Company and shall deliver the payment received from the Company to the Optionee. 
+
+13. STOCK DISTRIBUTIONS SUBJECT TO OPTION AGREEMENT.  
+  
+If, from time to time, there is any stock dividend, stock split or other change, as described in Section 9, in the character or amount of any of the outstanding stock of the corporation the stock of which is subject to the provisions of this Option Agreement, then in such event any and all new, substituted or additional securities to which the Optionee is entitled by reason of the Optionee’s ownership of the shares acquired upon exercise of the Option shall be 
+
+12 
+
+* * *
+
+immediately subject to the Unvested Share Repurchase Option with the same force and effect as the shares subject to the Unvested Share Repurchase Option immediately before such event. 
+
+14. LEGENDS.  
+  
+The Company may at any time place legends referencing the Unvested Share Repurchase Option and any applicable federal, state or foreign securities law restrictions on all certificates representing shares of stock subject to the provisions of this Option Agreement. The Optionee shall, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to the Option in the possession of the Optionee in order to carry out the provisions of this Section. 
+
+15. RESTRICTIONS ON TRANSFER OF SHARES.  
+  
+No shares acquired upon exercise of the Option may be sold, exchanged, transferred (including, without limitation, any transfer to a nominee or agent of the Optionee), assigned, pledged, hypothecated or otherwise disposed of, including by operation of law, in any manner which violates any of the provisions of this Option Agreement and, except pursuant to an Ownership Change Event, until the date on which such shares become Vested Shares, and any such attempted disposition shall be void. The Company shall not be required (a) to transfer on its books any shares which will have been transferred in violation of any of the provisions set forth in this Option Agreement or (b) to treat as owner of such shares or to accord the right to vote as such owner or to pay dividends to any transferee to whom such shares will have been so transferred. 
+
+16. BINDING EFFECT.  
+  
+Subject to the restrictions on transfer set forth herein, this Option Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrators, successors and assigns. 
+
+17. TERMINATION OR AMENDMENT.  
+  
+The Board may terminate or amend the Plan or the Option at any time; provided, however, that except as provided in Section 8.2 in connection with a Change in Control, no such termination or amendment may adversely affect the Option or any unexercised portion hereof without the consent of the Optionee unless such termination or amendment is necessary to comply with any applicable law or government regulation or is required to enable the Option to qualify as an Incentive Stock Option. No amendment or addition to this Option Agreement shall be effective unless in writing. 
+
+18. INTEGRATED AGREEMENT.  
+  
+This Option Agreement and the Benefits Agreement together constitute the entire understanding and agreement of the Optionee and the Participating Company Group with respect to the subject matter contained herein and there are no agreements, understandings, restrictions, representations, or warranties among the Optionee and the Participating Company Group with respect to such subject matter other than those as set forth or provided for herein. To the extent 
+
+13 
+
+* * *
+
+contemplated herein, the provisions of this Option Agreement shall survive any exercise of the Option and shall remain in full force and effect. 
+
+19. APPLICABLE LAW.  
+  
+This Option Agreement shall be governed by the laws of the State of California as such laws are applied to agreements between California residents entered into and to be performed entirely within the State of California. 
+
+POWER INTEGRATIONS, INC. 
+
+Balu Balakrishnan 
+
+Chief Executive Officer 
+
+Address: 5245 Hellyer Avenue 
+
+San Jose, CA 95138 
+
+* * *
+
+The Optionee represents that the Optionee is familiar with the terms and provisions of this Option Agreement, including the Unvested Share Repurchase Option set forth in Section 11, and hereby accepts the Option subject to all of the terms and provisions thereof. The Optionee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Board upon any questions arising under this Option Agreement.   
+  
+OPTIONEE  
+  
+Date:  
+  
+Optionee Address:  
+  
+15 

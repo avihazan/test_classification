@@ -1,0 +1,308 @@
+* * *
+
+Exhibit 10.05
+
+2010 Long Term Incentive Plan, as Amended
+
+
+
+  
+
+
+Award Agreement, dated as of May 15, 2014, among AllianceBernstein L.P. (“Partnership”), AllianceBernstein Holding L.P. (“Holding”) and <> (“Participant­”), a member of the Board of Directors of AllianceBernstein Corporation (“Board”), the general partner of the Partnership and Holding.
+
+  
+
+
+Whereas, the Board­, pursuant to the Partnership’s 2010 Long Term Incentive Plan, as amended (“Plan”), a copy of which has been delivered to the Participant, has granted to the Participant an award (“Award”), based on an election by the Participant, that consists of either (1) an option (“Option”) to purchase the number of units representing assignments of benefi­cial ownership of limited partnership interests in Holding (“Units”) where the Option has a value of $120,000 calculated in accordance with Black-Scholes methodology, (2) the number of Units having an aggregate fair value of $120,000 based on the closing price of a Unit on May 15, 2014 as reported for New York Stock Exchange composite transactions (“May 15 Closing Price”), which Units are subject to certain restrictions described herein (“Restricted Units”), or (3) (a) an Option to purchase the number of Units where the Option has a value of $60,000 calculated in accordance with Black-Scholes methodology and (b) the number of Restricted Units having an aggregate fair value of $60,000 based on the May 15 Closing Price; and
+
+  
+
+
+Whereas, the form by which the Participant made such election is attached hereto as Schedule A; and
+
+  
+
+
+Whereas, the Board has authorized the execution and delivery of this Award Agreement;
+
+  
+
+
+Now, Therefore, in accordance with the grant of the Award, and as a condition thereto, the Partnership, Holding and the Participant agree as follows:
+
+  
+
+
+1\. Grant. Subject to and under the terms and conditions set forth in this Award Agreement and the Plan, the Board hereby awards the Participant:
+
+  
+
+
+(a) an Option to purchase from the Partnership the number of Units set forth in Section 1 of Schedule B, at the per Unit price set forth in Section 2 of Schedule B, subject to the vesting schedule set forth in Section 3 of Schedule B; and/or
+
+  
+
+
+(b) the number of Restricted Units set forth in Section 4 of Schedule B, subject to the vesting schedule set forth in Section 5 of Schedule B.
+
+1
+
+* * *
+
+2\. Term and Vesting Schedule. (a) Subject to Section 4(a) below, the Option shall not be exercisable to any extent prior to May 15, 2015 or after May 15, 2024 (“Expiration Date”). Subject to the terms and condi­tions of this Award Agreement and the Plan, the Participant shall be entitled to exercise the Option prior to the Expiration Date and to purchase Units pursuant to the Option in accordance with the schedule set forth in Section 3 of Schedule B.
+
+  
+
+
+The right to exercise the Option shall be cumulative so that to the extent the Option is not exercised when it becomes initially exercisable with respect to any Units, it shall be exercisable with respect to such Units at any time thereafter until the Expiration Date. Any Units subject to the Option that have not been purchased on or before the Expiration Date may not, thereafter, be pur­chased hereunder. A Unit shall be considered to have been purchased on or before the Expiration Date if the Partnership has been given notice of the purchase and the Partnership has actually received payment therefor pursuant to Sections 3(a) and 14, on or before the Expiration Date.
+
+  
+
+
+(b) The Restricted Units shall vest in accordance with the schedule set forth in Section 5 of Schedule B and shall be distributed to the Participant promptly after vesting.
+
+  
+
+
+3\. Notice of Exercise, Payment, Certificate and Account. (a) Exercise of the Option, in whole or in part, shall be by delivery of a written notice to the Partnership and Holding pursuant to Section 14, which specifies the number of Units being purchased and is accompanied by payment therefor in cash. The Participant may pay the Partnership as many as three business days subsequent to the exercise date through a financial intermediary designated by the Board. Promptly after receipt of such notice and purchase price, the Partnership shall cause the Partnership’s transfer agent (“Transfer Agent”), currently Computershare Shareowner Services LLC, to deliver the number of Units purchased. Units to be issued upon the exercise of the Option may be authorized and unissued Units or Units that have been reacquired by the Partnership, a subsidiary of the Partnership, Holding or a subsidiary of Holding.
+
+  
+
+
+(b) The Partnership shall establish an uncertificated account (“Account”) with the Transfer Agent representing the Restricted Units within a reasonable time after the Participant’s execution and delivery of this Award Agreement. The Partnership shall deliver to the Participant a certificate representing Units that have vested pursuant to this Award Agreement within a reasonable time after such Units vest. The Transfer Agent will adjust the Account to reflect the number of Units covered by each such certificate and will reduce the Account to the extent that any unvested Restricted Units are forfeited pursuant to the terms of this Award Agreement.
+
+2
+
+* * *
+
+4\. Termination. (a) The Option may be exercised by the Participant and the Restricted Units may be distributed to the Participant only while the Participant serves on the Board; provided, however, that upon termination of the Participant's service by reason of the Participant's voluntary mid-term resignation, declining to stand for re-election (whether as a result of the general partner’s mandatory retirement program or otherwise), becoming an employee of the Partnership or a subsidiary thereof, or because the Participant incurs a Disability, the outstanding portion of the Option held by the Participant on the date of such termination shall continue to become exercisable as specified in Section 3 of Schedule B and shall expire on the earlier of the Expiration Date and the date that is five years from the date of such termination, and the outstanding Restricted Units held by the Participant on the date of such termination shall be distributed to the Participant promptly after the date of such termination. In the event of the death of the Participant (whether before or after termination of service), the outstanding portion of the Option held by the Participant (and not previously canceled or expired) on the date of death shall be fully exercisable by the Participant's legal representative within one year of the date of death (without regard to Section 3 of Schedule B, but not later than the Expiration Date), and the outstanding Restricted Units held by the Participant on the date of death shall be distributed to the Participant’s beneficiary (or the Participant’s estate, if the Participant has not designated a beneficiary) promptly after such date. “Disability” means the Participant’s inability to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to last for a continuous period of not less than 12 months, as determined by the carrier of the long-term disability insurance program maintained by the Partnership or its affiliate that covers the Participant, if any, or such other person or entity designated by the Partnership in its sole discretion. In order to assist in the process described in this paragraph, the Participant shall, as reasonably re­quested by the Partnership or its designee, (i) be available for medical examinations by one or more physicians chosen by the long-term disability insurance provider or the Partnership and approved by the Participant, whose approval shall not unreasonably be withheld, and (ii) grant the long-term disability insurance provider, the Partnership and any such physicians access to all relevant medical information concerning the Participant, arrange to furnish copies of medical records to them, and use best efforts to cause the Participant’s own physicians to be available to discuss the Participant’s health with them.
+
+(b) The Participant shall immediately forfeit the vested and unvested portions of both the Option and the Restricted Units awarded under this Award Agreement if the Participant’s service as a Director is terminated for Cause. “Cause” shall mean the Participant’s (1) continuing willful failure to perform his duties as a Director (other than as a result of his total or partial incapacity due to physical or mental illness), (2) gross negligence or malfea­sance in the performance of his duties, (3) a finding by a court or other governmental body with proper jurisdiction that an act or acts by the Participant constitutes (A) a felony under the laws of the United States or any state thereof, or (B) a violation of federal or state securities law, by reason of which finding the Board determines in good faith that the continued service of the Participant would be seriously detrimental to the Partnership and its business, (4) in the absence of such a finding by a court or other governmental body with proper jurisdiction, such a determination in good faith by the Board by reason of such act or acts constituting such a felony, serious crime or violation, or (5) any breach by the Participant of any obliga­tion of confidentiality, non-competition, or non-solicitation to the Partner­ship.
+
+5\. No Right to Continued Directorship. The granting of the Award shall not confer upon the Participant any right to continue to be retained as a Director, and shall not interfere in any way with the right of the Partnership to terminate the service of the Participant at any time for any reason.
+
+3
+
+* * *
+
+6\. Non-Transferability. (a) The Option is not transferable other than by will or the laws of descent and distribution and, except as otherwise provided in Section 4, during the lifetime of the Participant this Option is exercisable only by the Participant; except that a Participant may transfer this Option, without consideration, subject to such rules as the Board may adopt to preserve the purposes of the Plan (including limiting such transfers to transfers by Participants who are Director Participants or senior executives), to a trust solely for the benefit of the Participant and the Participant's spouse, children or grandchildren (including adopted and stepchildren and grandchildren).
+
+  
+
+
+(b) Except as otherwise provided in this Award Agreement, the Participant may not sell, assign, transfer, pledge or otherwise dispose of or encumber any of the Units subject to the Option or any of the Restricted Units, or any interest therein, until the Participant’s rights in such Units vest in accordance with this Award Agreement. Any purported sale, assignment, transfer, pledge or other disposition or encumbrance in violation of this Award Agreement will be void and of no effect.
+
+  
+
+
+7\. Payment of Withholding Tax. (a) In the event that the Partnership or Holding determines that any federal, state or local tax or any other charge is required by law to be withheld with respect to the exercise of the Option or the grant of the Restricted Units, the Participant shall, either directly or through a financial intermediary, promptly pay to the Partnership, a subsidiary specified by the Partnership, Holding or a subsidiary specified by Holding, on four business days’ notice, an amount equal to such withholding tax or charge, or (b) if the Participant does not promptly so pay the entire amount of such withholding tax or charge in accordance with such notice, or make arrangements satisfactory to the Partnership and Holding regarding payment thereof, the Partnership, any subsidiary of the Partnership, Holding or any subsidiary of Holding may withhold the remaining amount thereof from any amount due the Participant from the Partnership, its subsidiary, Holding or its subsidiary.
+
+  
+
+
+8\. Dilution and Other Adjustments. The existence of the Award shall not impair the right of the Partnership, Holding or their respective partners to, among other things, conduct, make or effect any change in the Partnership’s or Holding’s business, any distribution (whether in the form of cash, limited partnership interests, other securities, or other property), recapitalization (including, without limitation, any subdivision or combination of limited partnership interests), reorganization, consolidation, combination, repurchase or exchange of limited partnership interests or other securities of the Partnership or Holding, issuance of warrants or other rights to purchase limited partnership interests or other securities of the Partnership or Holding, or any incorporation of the Partnership or Holding. In the event of such a change in the partnership interests of the Partnership or Holding, the Board shall make such adjustments to the Award, including the purchase price of the Option specified in Section 2 of Schedule B, as it deems appropriate and equitable. In the event of incorpo­ra­tion of the Partnership or Holding, the Board shall make such arrangements as it deems appropriate and equitable with respect to the Award for the Participant to purchase stock in the resulting corporation in place of the Units subject to the Option and the Restricted Units. Any such adjust­ment or arrangement may provide for the elimination of any fractional Unit or shares of stock that might otherwise become subject to the Option. Any decision by the Board under this Section shall be final and binding upon the Participant.
+
+4
+
+* * *
+
+9\. Rights as an Owner of a Unit. (a) The Participant (or a transferee of the Option pursuant to Sections 4 and 6 hereof) shall have no rights as an owner of a Unit with respect to any Unit covered by the Option until he or she becomes the holder of record of such Unit, which shall be deemed to occur at the time that notice of pur­chase is given and payment in full is received by the Partnership and Holding under Sections 3(a) and 14 of this Award Agreement. By such actions, the Participant (or such transferee) shall be deemed to have consented to, and agreed to be bound by, all other terms, conditions, rights and obligations set forth in the then current Amended and Restated Agreement of Limited Partnership of Holding and the then current Amended and Restated Agreement of Limited Partnership of the Partnership (“Partnership Agreement”). Except as provided in Section 8 hereof, no adjustment shall be made with respect to any Unit for any distribution for which the record date is prior to the date on which the Participant becomes the holder of record of the Unit, regardless of whether the distribution is ordinary or extraordinary, in cash, securities or other property, or of any other rights.
+
+  
+
+
+(b) Except as provided in the Partnership Agreement, as of the date of this Award Agreement, the Participant shall have all of the rights under the Partnership Agreement that a Unitholder would have with respect to the Restricted Units awarded to the Participant hereunder (including, without limitation, the right to receive quarterly distributions payable with respect to such Units on or after that date).
+
+  
+
+
+10\. Administrator. The Board shall be the Administrator.
+
+  
+
+
+11\. Governing Law. This Award Agreement shall be governed by and construed in accordance with the internal laws of the State of New York.
+
+  
+
+
+12\. Entire Agreement; Amendment. This Award Agreement supersedes any and all existing agreements between the Participant, the Partnership and Holding relating to the Option and Restricted Unit awards. It may not be amended except by a written agreement signed by both parties.
+
+  
+
+
+13\. Interpretation. The Participant accepts this Award subject to all the terms and provisions of the Plan, which shall control in the event of any conflict between any provision of the Plan and this Award Agreement, and accepts as binding, conclusive and final all decisions or interpretations of the Board upon any questions arising under the Plan and/or this Award Agreement.
+
+14\. Notices. Any notice under this Award Agreement shall be in writing and shall be deemed to have been duly given when deliv­ered personally or when deposited in the United States mail, registered, postage prepaid, and addressed, in the case of the Partnership and Holding, to the Corporate Secretary or an Assistant Secretary at 1345 Avenue of the Americas, New York, New York 10105, or if the Partnership should move its principal office, to such principal office, and, in the case of the Participant, to his last permanent address as shown on the Partnership's records, subject to the right of either party to designate some other address at any time hereafter in a notice satisfying the require­ments of this Section.
+
+5
+
+* * *
+
+15\. Sections and Headings. All section references in this Award Agreement are to sections hereof for convenience of reference only and are not to affect the meaning of any provision of this Award Agreement.
+
+  
+
+
+AllianceBernstein l.p.  
+  
+By:  
+  
+James A. Gingrich  
+  
+Chief Operating Officer  
+  
+AllianceBernstein Holding l.p.  
+  
+By:  
+  
+James A. Gingrich  
+  
+Chief Operating Officer  
+  
+/s/  
+  
+<>  
+  
+  
+
+
+6
+
+* * *
+
+Schedule A
+
+  
+
+
+AllianceBernstein 2010 Long Term Incentive Plan, As Amended
+
+2014 Equity Compensation Election Form
+
+Election Form, dated as of January 31, 2014, among AllianceBernstein L.P. (“Partnership”), AllianceBernstein Holding L.P. (“AllianceBernstein Holding”) and the undersigned (“Participant”), a member of the Board of Directors of AllianceBernstein Corporation (“Board”), the general partner of the Partnership and Holding.
+
+  
+
+
+Whereas, the Board determined at its meeting held on August 1, 2012 that the equity grant to each Non-Management Director (consisting of options and/or AllianceBernstein Holding units) shall be based on the election by each such Director, in January of each year, to receive, pursuant to the AllianceBernstein 2010 Long Term Incentive Plan, as amended, or any successor equity compensation plan, an award consisting of (1) an option to purchase the number of AllianceBernstein Holding units where the option has a value of $120,000 calculated in accordance with Black-Scholes methodology, (2) the number of AllianceBernstein Holding units having a value of $120,000 based on the closing price of AllianceBernstein Holding units on the date of grant as reported for New York Stock Exchange composite transactions, or (3) an equity grant consisting of (a) an option to purchase a number of AllianceBernstein Holding units where the option has a value of $60,000 calculated in accordance with Black-Scholes methodology and (b) the number of AllianceBernstein Holding units having a value of $60,000 based on the closing price of AllianceBernstein Holding units on the date of grant as reported for New York Stock Exchange composite transactions;
+
+  
+
+
+Now, Therefore, I hereby elect to receive my 2014 equity compensation award, pursuant to the AllianceBernstein 2010 Long Term Incentive Plan, as amended, in the following form:
+
+  
+
+
+☐ an option to purchase the number of AllianceBernstein Holding units where the option has a value of $120,000 calculated in accordance with Black-Scholes methodology;
+
+  
+
+
+☐ the number of AllianceBernstein Holding units having a value of $120,000 based on the closing price of AllianceBernstein Holding units on the date of grant as reported for New York Stock Exchange composite transactions; or
+
+7
+
+* * *
+
+☐ an equity award consisting of (a) an option to purchase the number of AllianceBernstein Holding units where the option has a value of $60,000 calculated in accordance with Black-Scholes methodology, and (b) the number of AllianceBernstein Holding units having a value of $60,000 based on the closing price of AllianceBernstein Holding units on the date of grant as reported for New York Stock Exchange composite transactions.
+
+  
+
+
+By:
+
+/s/ <>  
+  
+Name:
+
+<>  
+  
+Date:
+
+January [ ], 2014  
+  
+  
+
+
+8
+
+* * *
+
+Schedule B
+
+  
+
+
+1.
+
+The number of Units that the Participant is entitled to purchase pursuant to the Option granted under this Award Agreement is ______.  
+  
+  
+
+
+2.
+
+The per Unit price to purchase Units pursuant to the Option granted under this Award Agreement is $22.99 per Unit.  
+  
+  
+
+
+3.
+
+Percentage of Units With Respect to  
+  
+Which the Option First Becomes
+
+Exercisable on the Date Indicated 
+
+  
+
+
+1\. May 15, 2015
+
+33.3%  
+  
+2\. May 15, 2016
+
+66.6%  
+  
+3\. May 15, 2017
+
+100.0%  
+  
+  
+
+
+***
+
+  
+
+
+4. ______ Restricted Units have been awarded pursuant to this Award Agreement.  
+  
+  
+
+
+5. Restrictions lapse with respect to the Units in accordance with the following schedule:  
+  
+  
+
+
+Percentage of Units  
+  
+Vested on the  
+  
+Date
+
+Date Indicated  
+  
+May 15, 2017
+
+100.0%  
+  
+9
+
+* * *

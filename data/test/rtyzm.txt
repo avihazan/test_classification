@@ -1,0 +1,171 @@
+Exhibit 10.8.3 
+
+THE NASDAQ STOCK MARKET, INC. 
+
+
+
+RESTRICTED STOCK AWARD AGREEMENT (the “Agreement”) dated as of January 25, 2005 (the “Date of Grant”), between The Nasdaq Stock Market, Inc., a Delaware corporation (the “Company”), and «First» «Last» (the “Participant”): 
+
+R E C I T A L S: 
+
+The Company has adopted The Nasdaq Stock Market, Inc. Equity Incentive Plan (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement. Capitalized terms not otherwise defined herein shall have the meaning ascribed to them in the Plan. 
+
+The Committee has determined that it is in the best interests of the Company and its shareholders to grant the restricted stock award provided for herein to the Participant pursuant to the Plan and the terms set forth herein as an increased incentive for the Participant to contribute to the Company’s future success and prosperity. 
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties hereto agree as follows: 
+
+1. Grant of the Restricted Shares.   
+  
+(a)
+
+The Company hereby grants to the Participant an Award (the “Award”) of «RSAs» Shares of restricted stock (the “Restricted Shares”), subject to the terms and conditions set forth in this Agreement and the Plan. Subject to Section 3 hereof, the Restricted Shares shall be registered in the name of the Participant on the stock transfer books of the Company. However, any certificates issued with respect to Restricted Shares shall be held by the Company in escrow under the terms hereof, provided, that, unless the Company determines otherwise, no such certificates shall be issued prior to the date determined under Section 6(b) hereof. Any such certificates shall bear the legend set forth in Section 1(b) below or such other appropriate legend as the Committee shall determine, which legend shall be removed only on and after the date determined under Section 6(b) and if and when the Restricted Shares have become vested Restricted Shares (as defined in Section 2(a) hereof). As a condition to the issuance of Shares pursuant to this Award, the Participant shall deliver to the Company stock powers substantially in the form annexed hereto as Exhibit A duly endorsed in blank. The Participant shall be entitled to vote all Restricted Shares, and shall be entitled to receive, free of all restrictions, ordinary cash dividends and dividends in the form of Shares thereon if any. The Participant’s right to receive any extraordinary dividends or other distributions with respect to Restricted Shares prior to their becoming vested Restricted Shares shall be at the sole discretion of the Committee, but in the event of any such extraordinary dividends or distributions are paid to the holders of Company Shares, the   
+  
+* * *
+
+Committee shall take such action as may be appropriate to preserve the value of, and prevent the unintended enhancement of the value of, the Restricted Shares.   
+  
+(b) Unless otherwise determined by the Committee, any certificate issued in respect of the Restricted Shares shall bear the following legend:   
+  
+“This certificate and the shares of stock represented hereby are subject to the terms and conditions, including forfeiture provisions and restrictions against transfer (the “Restrictions”), contained in The Nasdaq Stock Market, Inc. Equity Incentive Plan and an agreement entered into between the registered owner and The Nasdaq Stock Market, Inc. Any attempt to dispose of these shares in contravention of the applicable restrictions, including by way of sale, assignment, transfer, pledge, hypothecation or otherwise, shall be null, void and without effect.” 
+
+2. Vesting.   
+  
+(a) Except as otherwise provided in this Section 2 and Sections 3 and 4 hereof, and contingent upon the Participant’s continued employment with the Company, on January 31, 2008 (the “Measurement Date”) the percent of the Restricted Shares set forth on the chart below that corresponds with the Company’s “Actual 2007 Technology Expenditures,” as defined below, shall become non-forfeitable and vested, as follows:   
+  
+Actual 2007 Technology Expenditures
+
+* * *
+
+Vested  
+Percentage  
+
+
+* * *  
+  
+Less than $104.6 million
+
+100 %  
+  
+Greater than or equal to $104.6 million, but less than $109.5 million
+
+95 %  
+  
+Greater than or equal to $109.5 million, but less than $114.4 million
+
+90 %  
+  
+Greater than or equal to $114.4 million, but less than $119.3 million
+
+80 %  
+  
+Greater than or equal to $119.3 million, but less than $124.2 million
+
+70 %  
+  
+Greater than or equal to $124.2 million, but less than $129.1 million
+
+60 %  
+  
+Greater than or equal to $129.1 million, but less than $134.2 million
+
+50 %  
+  
+Greater than or equal to $134.2 million
+
+0 %  
+  
+Any Restricted Shares that have become vested in accordance with the foregoing shall be referred to hereunder as “vested Restricted Shares.” 
+
+Any Restricted Shares that do not become vested Restricted Shares on the Measurement Date in accordance with the foregoing shall be immediately cancelled and forfeited as of the Measurement Date, without further consideration to the Participant. 
+
+For purposes of this Agreement, the term “Actual 2007 Technology Expenditures” shall mean [the actual amount of the total expenditures charged to the Company’s Operations 
+
+2 
+
+* * *
+
+and Technology department for the Company’s 2007 fiscal year, calculated in accordance with U.S. generally accepted accounting principles, and as certified by the Company’s chief financial officer in a manner and at a time to be prescribed by the Committee]. 
+
+(b) Notwithstanding any other provision of the Plan or this Agreement to the contrary, Restricted Shares (whether or not then vested) may not be transferred, assigned or otherwise encumbered other than in accordance with the applicable provisions of Section 6 hereof, prior to the completion of any registration or qualification of the Shares under applicable state and federal securities or other laws, or under any ruling or regulation of any government body, national securities exchange, or inter-dealer market system that the Committee shall in its sole discretion determine to be necessary or advisable.   
+  
+3. Termination of Employment.   
+  
+(a) If, prior to the Measurement Date, the Company terminates the Participant’s employment with the Company for any reason or the Participant voluntarily terminates his employment for any reason, all Restricted Shares shall be canceled and forfeited effective as of the date of such termination without further consideration to the Participant.   
+  
+(b) If the Participant’s employment with the Company terminates for any reason prior to the termination of all transfer restrictions applicable to the Shares imposed by Section 6(b) hereof, the Company shall have the right and option (the “Repurchase Right”), but not the obligation, to purchase from the Participant any and all vested Restricted Shares, on any date selected by the Company during the 30-day period commencing on the later of (i) the date of such termination of employment or (ii) the date that is six months following the date such Restricted Shares became vested Restricted Shares. The purchase price for such vested Restricted Shares (the “Repurchase Price”) shall be the Fair Market Value of the vested Restricted Shares on the date the Company exercises its Repurchase Right. Notwithstanding the foregoing and solely to the extent required by California “blue sky laws:” (x) the Repurchase Price shall be the Fair Market Value of the vested Restricted Shares on the date of the Participant’s termination of employment and (y) the Company’s Repurchase Right shall commence on the date of such Participant’s termination of employment and shall expire on the 90th day thereafter. The Repurchase Right shall be exercised in accordance with the following procedures:   
+  
+(i) The Company may exercise the Repurchase Right by delivering or mailing to the Participant (or his estate, if applicable) in accordance with Section 10 hereof, written notice of exercise (the “Repurchase Notice”). The Repurchase Notice shall specify the date thereof, the number of vested Restricted Shares to be purchased and the aggregate Repurchase Price.   
+  
+3 
+
+* * *
+
+(ii) Within ten days after the Participant’s receipt of the Repurchase Notice (or in the event of the Participant’s death or the termination of the Participant’s employment by the Company due to Disability, within 60 days after such receipt), the Participant (or his estate, if applicable) shall tender to the Company at its principal offices (or at such other location or through such other party as specified in such notice) the certificate or certificates, if any, representing the vested Restricted Shares that the Company has elected to purchase, duly endorsed in blank, by the Participant or with duly endorsed stock powers attached thereto, all in a form suitable for the transfer of such vested Restricted Shares to the Company. Upon its receipt of such vested Restricted Shares, the Company shall pay the Participant the aggregate Repurchase Price. The aggregate Repurchase Price may be payable, at the option of the Company, in cancellation of all or a portion of the any outstanding indebtedness of the Participant to the Company, or in cash (by check) or both.   
+  
+(iii) If the Company delivers a Repurchase Notice as to any vested Restricted Shares, then from and after the time of delivery of the Repurchase Notice (A) the Participant shall no longer have any rights as a holder of the vested Restricted Shares subject thereto (other than the right to receive payment of the Repurchase Price in accordance with this Section 3(c)) and (B) such vested Restricted Shares shall be deemed purchased in accordance with the applicable provisions hereof and the Company shall be deemed to be the owner and holder of such vested Restricted Shares.   
+  
+(iv) Any vested Restricted Shares as to which the Repurchase Right is not exercised shall remain subject to all the terms and conditions of this Agreement, including to the extent applicable the continuation of the Company’s right to exercise the Repurchase Right.   
+  
+4. Change in Control. Upon a Change in Control, all Restricted Shares that would otherwise have become vested Restricted Shares on or prior to the first anniversary of the Change in Control had the Participant remained in the employ of the Company during such one-year period shall become vested Restricted Shares; provided however, that in the event that the Participant’s employment with the Company is terminated by the Company other than for Cause within such one-year period following the Change in Control, all Restricted Shares granted to the Participant hereunder shall become vested Restricted Shares.   
+  
+5. No Right to Continued Employment. Neither the Plan nor this Agreement shall confer on the Participant any right to be retained, in any position, as an employee, consultant or director of the Company.   
+  
+4 
+
+* * *
+
+6. Transferability.   
+  
+(a) The Restricted Shares may not, at any time prior to becoming vested Restricted Shares be transferable and may not be sold, assigned, transferred, disposed of, pledged or otherwise encumbered by the Participant.   
+  
+(b) In order to comply with any applicable securities laws, the Participant agrees that the Restricted Shares shall only be sold by the Participant following registration of the Shares under the Securities Act of 1933, as amended, or pursuant to an exemption therefrom.   
+  
+7. Withholding. The Participant shall pay to the Company promptly upon request, and in any event at the time the Participant recognizes taxable income in respect of the Restricted Shares, an amount equal to the taxes the Company determines it is required to withhold under applicable tax laws with respect to the Restricted Shares. Such payment shall be made in the form of cash, Shares already owned for at least six months, delivering to the Company a portion of the Restricted Shares sufficient to satisfy the minimum withholding required with respect thereto to the extent permitted by the Company, or in a combination of such methods, as irrevocably elected by the Participant prior to the applicable tax due date with respect to such Restricted Shares. The Participant shall promptly notify the Company of any election made pursuant to Section 83(b) of the Code and shall provide the Company with a copy of such election. The Participant shall be solely responsible for properly and timely completing and filing any such election.   
+  
+8. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to the conflicts of law provisions thereof.   
+  
+9. Amendments. This Agreement may be amended or modified at any time by an instrument in writing signed by the parties hereto.   
+  
+10. Notices. Any notice, request, instruction or other document given under this Agreement shall be in writing and may be delivered by such method as may be permitted by the Company, and shall be addressed and delivered, in the case of the Company, to the Secretary of the Company at the principal office of the Company and, in the case of the Participant, to the Participant’s address as shown in the records of the Company or to such other address as may be designated in writing (or by such other method approved by the Company) by either party.   
+  
+11. Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of the Agreement shall be severable and enforceable to the extent permitted by law.   
+  
+12.
+
+Award Subject to Plan; Amendments to Award. This Award is subject to the Plan as approved by the shareholders of the Company. The terms and provisions of the Plan as it may be amended from time to time are hereby incorporated herein by reference. In the event of a   
+  
+5 
+
+* * *
+
+conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of this Agreement will govern and prevail.   
+  
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement. By execution of this Agreement, the Participant acknowledges receipt of a copy of the Plan.   
+  
+The Nasdaq Stock Market, Inc.  
+  
+Participant (Print Name)  
+  
+Participant Signature  
+  
+6 
+
+* * *
+
+Exhibit A 
+
+STOCK POWER 
+
+For value received, I hereby sell, assign and transfer unto  shares of the Common Stock of The Nasdaq Stock Market, Inc.  standing in my name on the books of said Corporation represented by Certificate(s) Number(s)  herewith, and do hereby irrevocably constitute and appoint  attorney to transfer the said stock on the books of said Corporation with full power of substitute in the premises.   
+  
+Date:  
+  
+Printed Name:  
+  
+Social Security Number:  
+  
+Signature:  
+  
+Witness Signature:  
+  
+7 

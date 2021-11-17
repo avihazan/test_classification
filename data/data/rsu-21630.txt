@@ -1,0 +1,340 @@
+Exhibit 10.4 
+
+
+
+TERMS AND CONDITIONS  
+(Rev. 2008)
+
+These Terms and Conditions constitute a part of the Stock Option Agreement, dated as of the date set forth on the Signature Page to Stock Option Agreement Terms and Conditions made a part hereof (the “Signature Page”), concerning certain Options granted by Complete Production Services, Inc., a Delaware corporation hereinafter referred to as “Company,” to the employee of the Company (or a Subsidiary of the Company) listed on the Signature Page, hereinafter referred to as “Employee.” These Terms and Conditions and the Signature Page are collectively referred to as the “Agreement.” 
+
+WHEREAS, the Company wishes to afford the Employee the opportunity to purchase shares of its $0.01 par value Common Stock; 
+
+WHEREAS, the Company wishes to carry out the Complete Production Services, Inc. 2008 Incentive Award Plan, as the same may be amended from time to time (the “Plan”), the terms of which are hereby incorporated by reference and made a part of this Agreement; and 
+
+WHEREAS, the Administrator of the Plan has determined that it would be to the advantage and best interest of the Company and its stockholders to grant the Option provided for herein to the Employee as an inducement to enter into or remain in the service of the Company or a Subsidiary of the Company and as an incentive for increased efforts during such service, and has advised the Company thereof and instructed the undersigned officers to issue said Option. 
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, receipt of which is hereby acknowledged, the parties hereto do hereby agree as follows: 
+
+ARTICLE I.
+
+DEFINITIONS
+
+Whenever the following terms are used in this Agreement, they shall have the meaning specified below unless the context clearly indicates to the contrary. The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates. Capitalized terms used but not defined in this Agreement shall have the meaning ascribed to such terms in the Plan. 
+
+Section 1.1. Administrator
+
+“Administrator” shall mean the entity that conducts the administration of the Plan (including the grant of Awards) as provided therein, and generally shall refer to the Compensation Committee of the Board, unless and to the extent (a) the Board has assumed the authority for administration of all or any part of the Plan, or (b) the Compensation Committee has delegated the authority for administration of all or part of the Plan. 
+
+Section 1.2. Board
+
+“Board” shall mean the Board of Directors of the Company. 
+
+* * *
+
+##### 
+
+Section 1.3. Change of Control
+
+“Change of Control” shall mean (a) a transaction or series of transactions whereby any “person” or related “group” of “persons” (as such terms are used in Sections 13(d) and 14(d)(2) of the Exchange Act) directly or indirectly acquires beneficial ownership (within the meaning of Rule 13d-3 under the Exchange Act) of securities of the Company possessing more than 20% of the total combined voting power of the Company’s securities outstanding immediately after such acquisition, other than:
+
+(i) an acquisition by an employee benefit plan or any trustee holding securities under any employee benefit plan (or related trust) sponsored or maintained by the Company or any person controlled by the Company; or 
+
+(ii) an acquisition by the Company or any Subsidiary; or 
+
+(iii) an acquisition pursuant to the offering of shares of Common Stock by the Company to the general public through a registration statement filed with the Securities and Exchange Commission; or 
+
+(iv) an acquisition of voting securities pursuant to a transaction described in clause (c) below that would not be a Change in Control under clause (c). 
+
+(b) individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or nomination for election by the Company’s stockholders, was approved by a vote of at least two thirds of the directors then comprising the Incumbent Board shall be considered to be members of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office was a result of an actual or threatened election contest with respect to the election or removal of directors; or 
+
+(c) the consummation by the Company (whether directly involving the Company or indirectly involving the Company through one or more intermediaries or subsidiaries) of (x) a merger, consolidation, reorganization, or business combination, including without limitation, a reverse or forward triangular merger, or (y) the acquisition of assets or stock of another entity, in each case, other than a transaction, which results in the Company’s stockholders prior to such transaction owning at least 55% of the outstanding voting securities of the surviving or resulting corporation or entity. 
+
+(d) a tender offer or exchange offer is made and consummated by a person or group of persons other than the Company for the ownership of 20% or more of the Company’s voting securities; or 
+
+(e) a disposition, transfer, sale or exchange of all or substantially all of the Company’s assets, or the Company’s stockholders approve a plan of liquidation or dissolution of the Company. 
+
+For purposes of subsection (a) above, the calculation of voting power shall be made as if the date of the acquisition were a record date for a vote of the Company’s stockholders, and for purposes of subsection (c) above, the calculation of voting power shall be made as if the date of the consummation of the transaction or at the consummation of the last of a series of related transactions were a record date for a vote of the Company’s stockholders. 
+
+Section 1.4. Code
+
+“Code” shall mean the Internal Revenue Code of 1986, as amended. 
+
+2
+
+* * *
+
+##### 
+
+Section 1.5.  Common Stock
+
+“Common Stock” shall mean the common stock of the Company, par value $0.01 per share. 
+
+Section 1.6. Company
+
+“Company” shall mean Complete Production Services, Inc., a Delaware corporation, or any successor corporation. 
+
+Section 1.7. DRO
+
+“DRO” shall mean a qualified domestic relations order as defined by the Code or Title I of the Employee Retirement Income Security Act of 1974, as amended, or the rules thereunder. 
+
+Section 1.8. Employee
+
+“Employee” shall mean shall mean any officer or other employee (as determined in accordance with Section 3401(c) of the Code and the Treasury Regulations thereunder) of the Company or of any Subsidiary. 
+
+Section 1.9. Exchange Act
+
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended. 
+
+Section 1.10. Holder
+
+“Holder” shall mean a person who has been granted an Option. 
+
+Section 1.11. Option
+
+“Option” shall mean a non-qualified stock option and/or incentive stock option granted under this Agreement and Article V of the Plan, as specified on the Signature Page. 
+
+Section 1.12. Plan
+
+“Plan” shall mean the Complete Production Services, Inc. 2008 Incentive Award Plan, as amended and/or restated from time to time. 
+
+Section 1.13. Rule 16b-3
+
+“Rule 16b-3” shall mean that certain Rule 16b-3 under the Exchange Act, as such Rule may be amended from time to time. 
+
+Section 1.14. Secretary
+
+“Secretary” shall mean the Secretary of the Company. 
+
+Section 1.15. Securities Act
+
+“Securities Act” shall mean the Securities Act of 1933, as amended. 
+
+3
+
+* * *
+
+##### 
+
+Section 1.16. Subsidiary
+
+“Subsidiary” shall mean any entity (other than the Company), whether domestic or foreign, in an unbroken chain of entities beginning with the Company if each of the entities other than the last entity in the unbroken chain beneficially owns, at the time of the determination, securities or interests representing more than fifty percent (50%) of the total combined voting power of all classes of securities or interests in one of the other entities in such chain. 
+
+Section 1.17. Termination of Service
+
+“Termination of Service” as to an Employee, the time when the employee-employer relationship between a Holder and the Company or any Subsidiary is terminated for any reason, including, without limitation, a termination by resignation, discharge, death, disability or retirement; but excluding terminations where the Holder simultaneously commences or remains in employment or service with the Company or any Subsidiary. . The Administrator, in its absolute discretion, shall determine the effect of all matters and questions relating to Termination of Service, including, but not by way of limitation, the question of whether a Termination of Service resulted from a discharge for cause, and all questions of whether particular leaves of absence constitute Termination of Service. Notwithstanding any other provision of the Plan or this Agreement, the Company or any Subsidiary has an absolute and unrestricted right to terminate the Employee’s employment at any time for any reason whatsoever, with or without cause, except to the extent expressly provided otherwise in writing. 
+
+ARTICLE II.
+
+GRANT OF OPTION
+
+Section 2.1. Grant of Option
+
+Effective as of the Grant Date set forth on the Signature Page, the Company irrevocably grants to the Employee the option to purchase any part or all of the aggregate number of shares of its Common Stock set forth on the Signature Page, all upon the terms and conditions set forth in this Agreement. On the Signature Page, the Company has indicated for this Option to be either a non-qualified or incentive stock option, or to apportion the Option shares between the two. 
+
+Section 2.2. Purchase Price
+
+The per share purchase price of the shares of Common Stock covered by the Option is set forth on the Signature Page, and shall not be subject to commission or other charge. 
+
+Section 2.3. Consideration to Company
+
+In consideration of the granting of this Option by the Company, the Employee (i) agrees to render faithful and efficient services to the Company or its any Subsidiary, with such duties and responsibilities as the Company or any Subsidiary shall from time to time prescribe, for a period of at least one (1) year from the date this Option is granted, (ii) agrees not disclose or use, directly or indirectly, any proprietary or confidential information concerning the Company or any Subsidiary so long as such information is proprietary and/or confidential, except any disclosure or use that is for the benefit of the Company or such Subsidiary and incidental to the Employee’s employment, and (iii) agrees to abide by all of the terms and conditions of this Agreement and the Plan. Nothing in the Plan or this Agreement shall confer upon the Employee any right to continue in the employ of the Company or any Subsidiary, or shall interfere with or restrict in any way the rights of the Company and any Subsidiary, which are hereby 
+
+4
+
+* * *
+
+##### 
+
+expressly reserved, to discharge the Employee at any time for any reason whatsoever, with or without good cause. 
+
+Section 2.4. Adjustments in Option
+
+(a) In the event that the outstanding shares of the stock subject to the Option are changed into or exchanged for a different number or kind of shares of the Company or other securities of the Company, or of another corporation, by reason of reorganization, merger, consolidation, recapitalization, reclassification, stock split-up, stock dividend or combination of shares, or other distribution of shares of Common Stock, the Administrator shall make equitable adjustments, if any, in the number and kind of shares as to which the Option, or portions thereof then unexercised, shall be exercisable, to the end that after such event the Employee’s proportionate interest shall be maintained as before the occurrence of such event. Such adjustment in the Option may include any necessary corresponding adjustment in the Option price per share, but shall be made without change in the total price applicable to the unexercised portion of the Option (except for any change in the aggregate price resulting from rounding-off of share quantities or prices). Any such adjustment made by the Administrator shall be final and binding upon the Employee, the Company and all other interested persons. 
+
+(b) Notwithstanding the foregoing, in the event of a Change of Control, the Option shall be assumed or an equivalent Option substituted by the successor corporation or a parent or subsidiary of the successor corporation. In the event that the successor corporation refuses to assume or substitute for the Option, the Administrator may cause any or all of such Options to become fully exercisable immediately prior to the consummation of such transaction and all forfeiture restrictions on any or all of such Options to lapse. If an Option is exercisable in lieu of assumption or substitution in the event of a Change in Control, the Administrator shall notify the Employee that the Option shall be fully exercisable for a period of fifteen (15) days from the date of such notice, and the Option shall terminate upon the expiration of such period. 
+
+ARTICLE III.
+
+PERIOD OF EXERCISABILITY
+
+Section 3.1. Commencement of Exercisability
+
+The Option shall become exercisable in the time and manner set forth on the Signature Page. Except as otherwise may be provided by the Administrator, no portion of the Option that is unexercisable at Termination of Service shall thereafter become exercisable. 
+
+Section 3.2. Duration of Exercisability
+
+The installments provided for in the Signature Page are cumulative. Each such installment that becomes exercisable pursuant to the Signature Page shall remain exercisable until it becomes unexercisable under Section 3.3. 
+
+Section 3.3. Expiration of Option
+
+Except to the extent otherwise set forth in the Signature Page or any other agreement between the Company and the Employee, if applicable, the Option may not be exercised to any extent by anyone after the first to occur of the following events: 
+
+5
+
+* * *
+
+##### 
+
+(a) The expiration of ten (10) years from the date the Option was granted, as set forth on the Signature Page; 
+
+(b) The expiration of three (3) months following the date of the Employee’s Termination of Service, other than a Termination of Service due to Employee’s death or disability (within the meaning of Section 22(e)(3) of the Code), unless the Employee dies within said three-month period; 
+
+(c) The expiration of one (1) year from the date of the Employee’s Termination of Service by reason of his disability (within the meaning of Section 22(e)(3) of the Code); or 
+
+(d) The expiration of one (1) year from the date of the Employee’s death. 
+
+Section 3.4. Special Tax Consequences
+
+The Employee acknowledges that, to the extent that the aggregate fair market value of stock with respect to which “incentive stock options” (within the meaning of Section 422 of the Code, but without regard to Section 422(d) of the Code), including all or such portion of the Option as noted on the Signature Page to be treated as an incentive stock option, are exercisable for the first time by the Employee during any calendar year (under the Plan and all other incentive stock option plans of the Company and any Subsidiary of the Company) exceeds $100,000, such options shall be treated for all purposes as not qualifying under Section 422 of the Code and therefore shall be subject to taxation as non-qualified options. The Employee further acknowledges that the rules set forth in the preceding sentence shall be applied by taking options into account in the order in which they were granted. 
+
+ARTICLE IV.
+
+EXERCISE OF OPTION
+
+Section 4.1. Person Eligible to Exercise
+
+During the lifetime of the Employee, only he or she may exercise the Option or any portion thereof, or, to the extent the Option or any portion thereof is transferred in accordance with the terms of the Plan, such permitted transferee may exercise the Option or such portion thereof so transferred. After the death of the Employee, any exercisable portion of the Option may, prior to the time when the Option becomes unexercisable under Section 3.3, be exercised by his or her personal representative or by any person empowered to do so under the Employee’s will or under the then applicable laws of descent and distribution. 
+
+Section 4.2. Partial Exercise
+
+Any exercisable portion of the Option or the entire Option, if then wholly exercisable, may be exercised in whole or in part at any time prior to the time when the Option or portion thereof becomes unexercisable under Section 3.3; provided, however, that each partial exercise shall be for not less than one hundred (100) shares (or the minimum installment set forth in Section 3.1, if a smaller number of shares) and shall be for whole shares only. 
+
+Section 4.3. Manner of Exercise
+
+The Option, or any exercisable portion thereof, may be exercised solely by delivery to the Secretary or his office of all of the following prior to the time when the Option or such portion becomes unexercisable under Section 3.3: 
+
+6
+
+* * *
+
+##### 
+
+(a) Notice in writing signed by the Employee or the other person then entitled to exercise the Option or portion, stating that the Option or portion is thereby exercised, such notice complying with all applicable rules established by the Administrator or its designee; 
+
+(b) Full payment to the Company of the aggregate exercise price, which payment shall be by any of the following, or a combination thereof: 
+
+(i) In cash or check; 
+
+(ii) Through the delivery of a notice that the Employee has placed a market sell order with a broker with respect to the shares of Common Stock then issuable upon exercise of the Option, and the broker pays a sufficient portion of the net proceeds of the sale to the Company in satisfaction of the Option exercise price; or 
+
+(iii) With the consent of the Administrator, through the surrender of shares of Common Stock then issuable upon exercise of the Option having a Fair Market Value on the date of Option exercise equal to the aggregate exercise price of the Option or exercised portion thereof; or 
+
+(iv) With the consent of the Administrator, through the delivery (actually or constructively) of shares of Common Stock to the Company with a Fair Market Value on the date of Option exercise equal to the aggregate exercise price of the Option or exercised portion thereof; or 
+
+(v) With the consent of the Administrator, through any other consideration permitted under the Plan and applicable law; 
+
+(c) Full payment to the Company (or Subsidiary employer) of all amounts which, under federal, state, local or foreign tax law, it is required to withhold upon exercise of the Option, which, with the consent of the Administrator, may be in the form of consideration used by the Employee to pay for such shares under Section 4.3(b); provided, however, that if such payment is in the form of shares of Common Stock withheld from exercise or delivered (actually or constructively) by the Employee, the Fair Market Value of such shares shall not exceed the sums necessary to pay the tax withholding based on the minimum statutory withholding rates for federal and state tax purposes, including payroll taxes, that are applicable to such supplemental taxable income; and 
+
+(d) In the event the Option or portion shall be exercised pursuant to Section 4.1 by any person or persons other than the Employee, appropriate proof of the right of such person or persons to exercise the Option. 
+
+(e) Such representations and documents as the Administrator, in its sole discretion, deems necessary or advisable to effect compliance with all applicable provisions of the Securities Act and any other federal, state or foreign securities laws or regulations. 
+
+Section 4.4. Conditions to Issuance of Stock Certificates
+
+The shares of stock deliverable upon the exercise of the Option, or any portion thereof, may be either previously authorized but unissued shares or issued shares, which have then been reacquired by the Company. Such shares shall be fully paid and nonassessable. The Company shall not be required to issue or deliver any certificate or certificates for shares of stock purchased upon the 
+
+7
+
+* * *
+
+##### 
+
+exercise of the Option or portion thereof prior to fulfillment of all of the following conditions, in addition to any other conditions recited in the Plan: 
+
+(a) The admission of such shares to listing on all stock exchanges on which such class of stock is then listed; 
+
+(b) The completion and continued availability of any registration or other qualification of such shares, or an exemption for issuance of such shares, under any state or federal law or under rulings or regulations of the Securities and Exchange Commission or of any other governmental regulatory body, which the Administrator shall, in its absolute discretion, deem necessary or advisable; 
+
+(c) The obtaining of any approval or other clearance from any state or federal governmental agency which the Administrator shall, in its absolute discretion, determine to be necessary or advisable; 
+
+(d) The receipt by the Company (or Subsidiary employer) of full payment for such shares, including payment of all amounts which, under federal, state or local tax law, it is required to withhold upon exercise of the Option; and 
+
+(e) The lapse of such reasonable period of time following the exercise of the Option as the Administrator may from time to time establish for reasons of administrative convenience. 
+
+Section 4.5. Rights as Stockholder
+
+The Employee shall not be, nor have any of the rights or privileges of, a stockholder of the Company in respect of any shares purchasable upon the exercise of any part of the Option unless and until such shares of Common Stock shall have been issued by the Company to the Employee, as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company, or by the issuance of a stock certificate in Employee’s name. 
+
+ARTICLE V.
+
+OTHER PROVISIONS
+
+Section 5.1. Administration
+
+The Administrator shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Administrator in good faith shall be final and binding upon the Employee, the Company and all other interested persons. No member of the Administrator shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Option. In its absolute discretion, the Board may at any time and from time to time exercise any and all rights and duties of the Administrator under this Plan except with respect to matters which under Rule 16b-3 or Section 162(m) of the Code, or any regulations or rules issued thereunder, are required to be determined in the sole discretion of the Administrator. 
+
+Section 5.2. Option Not Transferable
+
+(a) Subject to Section 5.2(b) and except to the extent permitted by the Plan, neither the Option nor any interest or right therein or part thereof shall be liable for the debts, contracts or 
+
+8
+
+* * *
+
+##### 
+
+engagements of the Employee or his successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect; provided, however, that this Section 5.2(a) shall not prevent transfers by will or by the applicable laws of descent and distribution or, to the extent not prohibited by the Code, pursuant to a DRO. 
+
+(b) Notwithstanding the foregoing provisions of Section 5.2(a), the Administrator, in its sole discretion, may permit the transfer of the Option by the Employee, by gift or contribution, to a “family member” of the Employee (as defined under the instructions to use of Form S-8). Any Option that has been so transferred or transferred pursuant to a DRO shall continue to be subject to all of the terms and conditions as applicable to the original Employee, and the transferee shall execute any and all such documents requested by the Administrator in connection with the transfer, including without limitation to evidence the transfer and to satisfy any requirements for an exemption for the transfer under applicable federal and state securities laws. 
+
+Section 5.3. Shares to Be Reserved
+
+The Company shall at all times during the term of the Option reserve and keep available such number of shares of stock as will be sufficient to satisfy the requirements of this Agreement. 
+
+Section 5.4. Notices
+
+Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its Secretary, and any notice to be given to the Employee shall be addressed to him at the address given beneath his signature hereto. By a notice given pursuant to this Section 5.4, either party may hereafter designate a different address for notices to be given to him. Any notice, which is required to be given to the Employee, shall, if the Employee is then deceased, be given to the Employee’s personal representative if such representative has previously informed the Company of his status and address by written notice under this Section 5.4. Any notice shall be deemed duly given when delivered in person or enclosed in a properly sealed envelope or wrapper addressed as aforesaid, deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service. 
+
+Section 5.5. Titles
+
+Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement. 
+
+Section 5.6. Construction
+
+This Agreement shall be administered, interpreted and enforced under the laws of the State of Delaware. 
+
+Section 5.7. Conformity to Securities Laws
+
+The Employee acknowledges that the Plan and this Agreement are intended to conform to the extent necessary with all provisions of the Securities Act and the Exchange Act and any and all regulations and rules promulgated by the Securities and Exchange Commission thereunder, including without limitation Rule 16b-3. Notwithstanding anything herein to the contrary, the Plan shall be 
+
+9
+
+* * *
+
+##### 
+
+administered, and the Option is granted and may be exercised, only in such a manner as to conform to such laws, rules and regulations. To the extent permitted by applicable law, the Plan and this Agreement shall be deemed amended to the extent necessary to conform to such laws, rules and regulations. 
+
+Section 5.8. Notification of Disposition
+
+If this Option is designated as an Incentive Stock Option, the Employee shall give prompt notice to the Company of any disposition or other transfer of any shares of Common Stock acquired under this Agreement if such disposition or transfer is made (a) within two years from the grant date with respect to such shares or (b) within one year after the transfer of such shares to the Employee. Such notice shall specify the date of such disposition or other transfer and the amount realized, in cash, other property, assumption of indebtedness or other consideration, by Employee in such disposition or other transfer. 
+
+Section 5.9. Arbitration
+
+In exchange for the option granted herein and the other promises exchanged herein, the parties agree to submit any and all disputes, claims or controversies arising out of, or relating to, Employee’s employment, to final and binding arbitration before the American Arbitration Association in accordance with its rules relating to the resolution of employment disputes, in effect at the time of the demand for arbitration. THE COMPANY AND THE EMPLOYEE UNDERSTAND AND AGREE THAT BY AGREEING TO THE PROVISIONS OF THIS SECTION 5.9 THEY ARE WAIVING THEIR RIGHT TO A JURY OR COURT TRIAL.
+
+This Section 5.9 expressly applies to all claims arising out of and relating to Employee’s employment, including without limitation to, any claims of employment discrimination, harassment, retaliation and any other employment related claim. This Section 5.9 expressly applies, but is not limited, to claims brought under Title VII of the Civil Rights Act, the Age Discrimination in Employment Act, the Family Medical Leave Act, the Americans with Disabilities Act, the California Labor Code, the Texas Labor Code, the Fair Employment and Housing Act, and all other state and local laws. This Section 5.9 does not apply to those claims where expressly prohibited by law, such as claims arising under the National Labor Relations Act, claims for medical and disability benefits under applicable Workers’ Compensation statues and claims for unemployment benefits. Employees, officers, Board members and anyone else acting as an agent of the Company or any Subsidiary are intended beneficiaries of this Section 5.9 and the parties agree that any claim against an intended beneficiary of this Section 5.9 arising out of or relating to Employee’s employment will be subject to this Section 5.9. 
+
+This Section 5.9 may be enforced by any court of competent jurisdiction, and the party seeking enforcement shall be entitled to an award of all costs, fees and expenses, including attorney’s fees, to be paid by the party against whom enforcement is ordered. 
+
+The arbitration shall be held at the office of the American Arbitration Association in Harris County, Texas before a single neutral arbitrator. The Company shall assume responsibility for any costs payable to the American Arbitration Association in connection with the arbitration, including the costs and fees of the arbitrator. However, the arbitrator shall make such orders with respect to attorneys’ fees and other costs in accordance with applicable law. 
+
+The award or decision of the arbitrator shall be final and binding on the parties and judgment on the arbitrator’s decision may be entered in any court having jurisdiction. Each of the parties consents to the exercise of personal jurisdiction over such person by such court and to the propriety of 
+
+10
+
+* * *
+
+##### 
+
+venue of such court for the purpose of carrying out this provision; and each waives any objections that such person would otherwise have to the same. 
+
+This Section 5.9 shall in no way affect Employee’s or the Company’s right to seek emergency injunctive relief from a court of competent jurisdiction, which relief may remain in full force and effect pending the outcome of the arbitration proceedings. 
+
+Notwithstanding the foregoing, the provisions of this Section 5.9 shall be deemed modified and/or superceded to the extent necessary to be consistent with any applicable terms contained in any employment agreement or other agreement between the Company and the Employee, which agreement shall take precedence over this Section 5.9. 
+
+Section 5.10. Amendments
+
+This Agreement may not be modified or amended in any way that adversely affects the Employee’s rights hereunder, except by an instrument in writing signed by the Employee or such other person as may be permitted to exercise the Option pursuant to Section 4.1 and by a duly authorized representative of the Company. 
+
+11

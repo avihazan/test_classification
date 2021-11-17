@@ -1,0 +1,227 @@
+##### 
+
+Exhibit 10.3 
+
+THOR INDUSTRIES, INC.  
+2006 EQUITY INCENTIVE PLAN
+
+
+
+This Stock Option Agreement (the “Agreement”) is made and entered into as of the date of grant set forth below (the “Date of Grant”) by and between Thor Industries, Inc., a Delaware corporation (the “Company”), and the participant named below (“Participant”). Capitalized terms not defined herein shall have the meaning ascribed to them in the Company’s 2006 Equity Incentive Plan (the “Plan”).   
+  
+Participant:  
+  
+Address:  
+  
+Total Option Shares:  
+  
+Exercise Price Per Share:  
+  
+Date of Grant:  
+  
+Expiration Date:  
+  
+Type of Stock Option  
+  
+(Check One):
+
+o Incentive Stock Option  
+  
+o Nonstatutory Stock Option  
+  
+1\. Grant of Option. The Company hereby grants to Participant an option (this “Option”) to purchase the total number of shares of Common Stock of the Company set forth above as Total Option Shares (the “Shares”) at the Exercise Price Per Share set forth above (the “Exercise Price”), subject to all of the terms and conditions of this Agreement and the Plan. If designated as an Incentive Stock Option above, the Option is intended to qualify as an “incentive stock option” (an “ISO”) within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”), although the Company makes no representation or guarantee that such Option will qualify as an ISO. To the extent that the aggregate Fair Market Value (determined at the time of grant) of Common Stock with respect to which Incentive Stock Options are exercisable for the first time by Participant during any calendar year (under all plans of the Company and its Affiliates) exceeds $100,000, the Options or portions thereof which exceed such limit (according to the order in which they were granted) shall be treated as Nonstatutory Stock Options. 
+
+2\. Exercise Period; Vesting. Unless expired as provided in Section 3 of this Agreement, this Option may be exercised from time to time after the Date of Grant set forth above to the extent the Option has vested in accordance with the vesting schedule set forth herein. The Shares issued upon exercise of the Option will be subject to the restrictions on transfer set forth in Section 10 below. Provided Participant continues to provide Continuous Service to the Company or any Affiliate, the Option will become vested and exercisable with 
+
+1
+
+* * *
+
+##### 
+
+respect to 33 1/3% of the Shares subject thereto on each of the next three anniversaries of the Date of Grant until the Option is 100% vested. 
+
+A vested Option may not be exercised for less than a full share. If application of the vesting percentage causes a fractional Share to otherwise become exercisable, such Share shall be rounded down to the nearest whole Share for each year except for the last year in such vesting period, at the end of which vesting period this Option shall become exercisable for the full remainder of the unexercised Shares subject to the Option. Except as provided in the Plan, upon the occurrence of a Change in Control, the Option shall become 100% vested and exercisable. 
+
+3\. Expiration. The Option shall expire on the Expiration Date set forth above or earlier as provided in Section 4 below or under the terms of the Plan. 
+
+4\. Termination of Continuous Service. 
+
+4.1 Forfeiture of Unvested Options. If Participant’s Continuous Service is terminated for any reason other than Cause, the unvested portion of the Option shall terminate at the close of business on the date of such termination, and Participant may exercise the vested portion as provided in this Section 4. If Participant’s Continuous Service terminates for Cause, outstanding Options (whether or not vested) shall terminate at the beginning of business on the date of such termination. 
+
+4.2 Termination for Any Reason Except Death, Disability or Cause. If Participant’s Continuous Service is terminated for any reason, except death, Disability or Cause, the Option, to the extent (and only to the extent) that it would have been exercisable by Participant immediately prior to termination of Continuous Service, may be exercised by Participant until the earlier of the Expiration Date or, except as set forth in Section 4.4 below, the date that is three (3) months following the termination of Participant’s Continuous Service and the Option shall thereafter terminate and cease to be exercisable. 
+
+4.3 Termination Because of Death or Disability. Except as provided in Section 4.4 below, if Participant’s Continuous Service is terminated because of death or Disability of Participant, the Option, to the extent that it is exercisable by Participant on the date of termination, may be exercised by Participant (by Participant’s estate, by a person who acquired the right to exercise the Option by bequest or inheritance, or by a person designated to exercise the Option upon Participant’s death) no later than twelve (12) months after the date of termination, but in any event no later than the Expiration Date. 
+
+4.4 Extension of Termination Date. If the exercise of the Option following the termination of Participant’s Continuous Service would be prohibited at any time solely because the issuance of Shares of Common Stock would violate the registration requirements under the Securities Act or any other state or federal securities law, or the rules of any securities exchange or interdealer quotation system on which the Company’s shares are listed or traded, then the Option shall terminate on the earlier of (a) the Expiration Date or (b) the expiration of a period after termination of Participant’s Continuous Service that is three (3) months after the end of the period during which the exercise of the Option would be in violation of such registration or other securities law requirements or rules. If permitted by this Section 4.4, any exercise of an ISO 
+
+2
+
+* * *
+
+##### 
+
+beyond (a) three (3) months after the date of termination when the termination is for any reason other than Participant’s death or Disability or (b) twelve (12) months after the date of termination when the termination is for Participant’s Disability will cause the Option to be deemed a Nonstatutory Stock Option and not an ISO. 
+
+4.5 No Obligation to Employ. Nothing in the Plan or this Agreement shall confer on Participant any right to provide Continuous Service, or limit in any way the right of the Company or any Affiliate to terminate Participant’s employment or other relationship at any time, with or without Cause. 
+
+5\. Manner of Exercise. 
+
+5.1 Stock Option Exercise Agreement. To exercise this Option, Participant (or in the case of exercise after Participant’s death or incapacity, Participant’s executor, administrator, heir or legatee, as the case may be) must deliver to the Company an executed stock option exercise agreement in the form attached hereto as Exhibit A, or in such other form as may be approved by the Administrator from time to time (the “Exercise Agreement”), which shall set forth, inter alia, (a) Participant’s election to exercise the Option, (b) the number of Shares being purchased, (c) any restrictions imposed on the Shares and (d) any representations, warranties and agreements regarding Participant’s investment intent and access to information as may be required by the Company to comply with applicable securities laws. If someone other than Participant exercises the Option, then such person must submit documentation reasonably acceptable to the Company verifying that such person has the legal right to exercise the Option. The entire Exercise Price of this Option to purchase Shares of Common Stock issued under the Plan shall be payable in full, to the extent permitted by applicable statutes and regulations, in cash or by certified or bank check at the time of exercise for an amount equal to the aggregate Exercise Price Per Share for the number of Shares being purchased or any other form of legal consideration that may be acceptable to the Administrator. 
+
+5.2 Tax Withholding. Prior to the issuance of the Shares upon exercise of the Option, Participant must pay or provide for any applicable federal, state and local withholding obligations of the Company. The Company has the right to withhold from any compensation paid to Participant. If the Administrator permits, Participant also may provide for payment of withholding taxes upon exercise of the Option by tendering a cash payment. 
+
+5.3 Issuance of Shares. Provided that the Exercise Agreement and payment are in form and substance satisfactory to counsel for the Company, the Company shall issue the Shares registered in the name of Participant, Participant’s authorized assignee, or Participant’s legal representative, and shall deliver certificates representing the Shares with the appropriate legends affixed thereto. 
+
+6\. Notice Of Disqualifying Disposition Of ISO Shares. If the Option is an ISO, and if Participant sells or otherwise disposes of any of the Shares acquired pursuant to the ISO on or before the later of (a) the date two (2) years after the Date of Grant, and (b) the date one (1) year after transfer of such Shares to Participant upon exercise of the Option, Participant shall immediately notify the Company in writing of such disposition. In the event any such disposition causes the Company to incur additional federal, state, or local tax withholding 
+
+3
+
+* * *
+
+##### 
+
+obligations, Participant will satisfy any such obligations in cash or out of the current wages or other compensation payable to Participant. 
+
+7\. Compliance With Laws And Regulations. The exercise of the Option and the issuance and transfer of Shares shall be subject to compliance by the Company and Participant with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company’s Common Stock may be listed at the time of such issuance or transfer. Participant understands that the Company is under no obligation to register or qualify the Shares with the SEC, any state securities commission or any stock exchange to effect such compliance. 
+
+8\. Nontransferability of Option. If the Option is an ISO, the Option may not be transferred in any manner other than by will or by the laws of descent and distribution and may be exercised during the lifetime of Participant only by Participant. If the Option is not an ISO, upon written approval by the Administrator in its sole discretion, it may be transferred (a) by gift or domestic relations order to a member of Participant’s immediate family (child, stepchild, grandchild, parent, stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law, including adoptive relationships), any person sharing Participant’s household (other than a tenant or employee), a trust in which these persons have more than 50% of the beneficial interest, a foundation in which these persons (or Participant) control the management of assets, and any other entity in which these persons (or Participant) own more than 50% of the voting interests; (b) to third parties designated by the Administrator in connection with a program established and approved by the Administrator pursuant to which Participants may receive a cash payment or other consideration in consideration for the transfer of such Option; or (c) to such other transferee as permitted by the Administrator in its sole discretion. Notwithstanding the foregoing, Participant may, by delivering written notice to the Company, in a form satisfactory to the Company, designate a third party who, in the event of Participant’s death, shall be entitled to exercise the Option. 
+
+9\. Privileges of Stock Ownership. Participant shall not have any of the rights of a Stockholder with respect to any Shares unless and until the Shares are issued to Participant. 
+
+10\. Securities Law Restrictions on Transfer. Regardless of whether the offering and sale of Shares under the Plan have been registered under the Securities Act or have been registered or qualified under the securities laws of any state, the Company at its discretion may impose restrictions upon the sale, pledge or other transfer of such Shares (including the placement of appropriate legends on stock certificates or the imposition of stop-transfer instructions) if, in the judgment of the Company, such restrictions are necessary or desirable in order to achieve compliance with the Securities Act, the securities laws of any state or any other law. 
+
+11\. Adjustments Upon Changes in Stock. This Award is subject to the adjustment provisions set forth in the Plan. 
+
+4
+
+* * *
+
+##### 
+
+12\. Restrictive Covenants
+
+12.1 Confidentiality. In consideration of the Option, Participant agrees to keep confidential all information of a proprietary or confidential nature belonging to the Company or any of its Affiliates, including but not limited to, business plans, files, records, data, documents, plans, research, development, policies, customer or client lists, price lists, the name and address of suppliers, customers or representatives, or any other matters of any kind or description, relating to the products, devices, suppliers, customers, clientele, sales or business of the Company or any of its Affiliates (i) obtained by Participant during Continuous Service and (ii) not otherwise public knowledge (other than by reason of an unauthorized act by Participant). After termination of Continuous Service, Participant shall not, without the prior written consent of the Company, unless compelled pursuant to an order of a court or other body having jurisdiction over such matter, communicate or divulge any such information, knowledge or data to anyone other than the Company and those designated by it. 
+
+12.2 Non-solicitation and Non-competition. In consideration of the Option, Participant agrees not to (i) directly or indirectly, solicit or recruit any individual employed by the Company or its Affiliates for the purpose of being employed directly or indirectly by Participant or by any competitor of the Company on whose behalf Participant is acting as an agent, representative or employee, or convey any confidential information or trade secrets regarding other employees of the Company or its Affiliates to any other person during Continuous Service and for a period of eighteen (18) months thereafter; or (ii) directly or indirectly, influence or attempt to influence customers of the Company or any of its Affiliates to direct their business to any competitor of the Company during Continuous Service and for a period of eighteen (18) months thereafter; or (iii) compete with the Company in the recreational vehicle business or the bus business while Participant is in Continuous Service and for a period of eighteen (18) months thereafter. 
+
+13\. General. 
+
+13.1 Interpretation. Any dispute regarding the interpretation of this Agreement shall be submitted by Participant or the Company to the Administrator for review. The resolution of such a dispute by the Administrator shall be final and binding on the Company and Participant. 
+
+13.2 Entire Agreement. The Plan is incorporated herein by reference. This Agreement and the Plan constitute the entire agreement of the parties and supersede all prior undertakings and agreements with respect to the subject matter hereof. If any inconsistency should exist between the nondiscretionary terms and conditions of this Agreement and the Plan, the Plan shall govern and control. 
+
+13.3 Notices. Any notice required to be given or delivered to the Company under the terms of this Agreement shall be in writing and addressed to the Corporate Secretary of the Company at its principal corporate offices. Any notice required to be given or delivered to Participant shall be in writing and addressed to Participant at the address indicated above or to 
+
+5
+
+* * *
+
+##### 
+
+such other address as such party may designate in writing from time to time to the Company. All notices shall be deemed to have been given or delivered upon: (a) personal delivery; (b) five (5) days after deposit in the United States mail by certified or registered mail (return receipt requested); (c) two (2) business days after deposit with any return receipt express courier (prepaid); or (d) one (1) business day after transmission by facsimile. 
+
+13.4 Successors and Assigns. The Company may assign any of its rights under this Agreement. This Agreement shall be binding upon and inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer set forth herein, this Agreement shall be binding upon and shall inure to the benefit of Participant and Participant’s heirs, executors, administrators, legal representatives, successors and assigns. 
+
+13.5 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware without giving effect to its conflict of law principles. If any provision of this Agreement is determined by a court of law to be illegal or unenforceable, then such provision will be enforced to the maximum extent possible and the other provisions will remain fully effective and enforceable. 
+
+14\. Acceptance. Participant hereby acknowledges receipt of a copy of the Plan and this Agreement. Participant has read and understands the terms and provisions thereof, and accepts the Option subject to all the terms and conditions of the Plan and this Agreement. Participant acknowledges that there may be adverse tax consequences upon exercise of the Option or disposition of the Shares and that Participant should consult a tax advisor prior to such exercise or disposition. 
+
+15\. Section 409A Limitation. In the event the Administrator determines at any time that this Option has been granted with an exercise price less than Fair Market Value of the Shares subject to the Option on the date the Option is granted (regardless of whether or not such exercise price is intentionally or unintentionally priced at less than Fair Market Value, or is materially modified at a time when the Fair Market Value exceeds the exercise price), or is otherwise determined to constitute “nonqualified deferred compensation” within the meaning of Section 409A of the Code, notwithstanding any provision of the Plan or this Agreement to the contrary, the Option shall satisfy the additional conditions applicable to nonqualified deferred compensation under Section 409A of the Code, in accordance with Section 8 of the Plan. The specified exercise date and term shall be the default date and term specified in Section 8 of the Plan. Notwithstanding the foregoing, the Company shall have no liability to any Participant or any other person if an Option designated as an Incentive Stock Option fails to qualify as such at any time or if an Option is determined to constitute “nonqualified deferred compensation” within the meaning of Section 409A of the Code and the terms of such Option do not satisfy the additional conditions applicable to nonqualified deferred compensation under Section 409A of the Code and Section 8 of the Plan. 
+
+[signature page follows] 
+
+6
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized representative and Participant has executed this Agreement, effective as of the Date of Grant.   
+  
+THOR INDUSTRIES, INC. PARTICIPANT  
+  
+By:  
+  
+Name:  (Signature)  
+  
+Title:  
+  
+(Please print name)  
+  
+7
+
+* * *
+
+##### 
+
+EXHIBIT A
+
+FORM OF STOCK OPTION EXERCISE AGREEMENT  
+  
+o Incentive Stock Option 
+
+Optionee:   
+  
+o Nonstatutory Stock Option 
+
+Date:   
+  
+STOCK OPTION EXERCISE NOTICE
+
+Thor Industries, Inc.  
+419 W. Pike Street  
+Jackson Center, Ohio 45334-0629  
+Attention: Chief Financial Officer 
+
+Ladies and Gentlemen: 
+
+1\. Option. I was granted an option (the “Option”) to purchase shares of the common stock (the “Shares”) of Thor Industries, Inc., a Delaware corporation (the “Company”), pursuant to the Company’s 2006 Equity Incentive Plan (the “Plan”) and my Stock Option Agreement (the “Stock Option Agreement”) as follows:   
+  
+Date of Option Grant:   
+  
+Number of Option Shares:  
+  
+Exercise Price per Share: 
+
+$   
+  
+2\. Exercise of Option. I hereby elect to exercise the Option to purchase the following number of Shares, all of which are vested Shares in accordance with the Stock Option Agreement: 
+
+Total Shares Purchased: 
+
+Total Exercise Price (Total Shares X Price per Share) $ 
+
+3\. Payments. I enclose payment in full of the total exercise price for the Shares in the following form(s), as authorized by my Stock Option Agreement: 
+
+Cash: $ 
+
+* * *
+
+##### 
+
+Check: $ 
+
+4\. Tax Withholding. I authorize payroll withholding and otherwise will make adequate provision for the federal, state, local and foreign tax withholding obligations of the Company, if any, in connection with the Option.
+
+5\. Optionee Information.
+
+My address is:
+
+My Social Security Number is:
+
+6\. Notice of Disqualifying Disposition. If the Option is an Incentive Stock Option, I agree that I will promptly notify the Treasurer of the Company if I transfer any of the Shares within one (1) year from the date I exercise all or part of the Option or within two (2) years of the Date of Option Grant.
+
+7\. Binding Effect. I agree that the Shares are being acquired in accordance with and subject to the terms, provisions and conditions of the Stock Option Agreement to all of which I hereby expressly assent. This letter shall inure to the benefit of and be binding upon my heirs, executors, administrators, successors and assigns.
+
+I understand that I am purchasing the Shares pursuant to the terms of the Plan and my Stock Option Agreement, copies of which I have received and carefully read and understand.  
+  
+Very truly yours,  
+(Signature)   
+  
+Receipt of the above is hereby acknowledged.  
+THOR INDUSTRIES, INC.  
+By:  
+Name:  
+Title:  
+Dated:

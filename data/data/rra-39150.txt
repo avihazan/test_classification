@@ -1,0 +1,415 @@
+EXHIBIT 10.7 
+
+SECOND AMENDED AND RESTATED 
+
+
+
+This Second Amended and Restated Registration Rights Agreement (as amended, this “Agreement”) is made as of December 28, 2005, among North American Technologies Group, Inc., a Delaware corporation (the “Company”), and the stockholders listed on Exhibit A hereto (each individually a “Stockholder” and collectively the “Stockholders”). 
+
+RECITALS 
+
+WHEREAS, the Stockholders or their affiliates have acquired or will acquire either shares of the Company’s common stock, par value $.001 per share (the “Common Stock”), or securities convertible into shares of the Common Stock pursuant to either (i) that certain Common Stock Purchase Agreement dated as of November 8, 2004, by and among Avalanche Resources, Ltd. and the Purchasers named therein (the “Stock Purchase Agreement”); (ii) that certain Exchange Agreement dated as of November 8, 2004, by and between the Company and Sponsor Investments, LLC (the “Exchange Agreement”); (iii) that certain Securities Purchase Agreement dated July 7, 2005, among the Company and certain Purchasers (as defined therein) (the “July Securities Purchase Agreement”); (iv) that certain Securities Purchase Agreement dated December 28, 2005, among the Company and certain Purchasers (as defined therein) (the “Securities Purchase Agreement”) and (v) those certain Loan Documents as such term is defined in that certain Construction Loan Agreement dated as of February 5, 2004, as amended from time to time, among the Company, Tietek LLC, Tietek Technologies, Inc. and Opus 5949 LLC (the “Opus Loan Agreement”); and (vi) as the same may be amended from time to time; and 
+
+WHEREAS, in order to induce the Stockholders or their affiliates to enter into the Stock Purchase Agreement, the Exchange Agreement, the July Securities Purchase Agreement, the Securities Purchase Agreement or the Opus Loan Agreement, as the case may be, the Company has agreed to provide the Stockholders with certain rights to register Shares of the Company’s Common Stock, as provided herein. 
+
+AGREEMENT 
+
+NOW, THEREFORE, in consideration of the promises and the mutual agreements herein contained, the Stockholders and the Company hereby agree as follows: 
+
+1\. Demand Registrations. 
+
+(a) Requests for Registration. The Initiating Holders may request registration under the Securities Act of all or any portion of their Registrable Securities on Form S-1 or any similar long-form registration (“Long-Form Registrations”), and any Holders may request registration under the Securities Act of all or any portion of their Registrable Securities on Form S-2 or S-3 or any similar short-form registration (“Short-Form Registrations”) if the Company 
+
+1 
+
+* * *
+
+is eligible to use any such short-form. All registrations requested pursuant to this Section 1(a) are referred to herein as “Demand Registrations.” The Initiating Holders and any Holders may request a Demand Registration no earlier than one (1) year from the date of this Agreement. Each request for a Demand Registration shall specify the approximate number of Registrable Securities requested to be registered and the anticipated per share price range for such offering. Within ten days after receipt of any such request, the Company shall give written notice of such requested registration to all other holders of Registrable Securities and, subject to Section 1(d) below, shall include in such registration all Registrable Securities with respect to which the Company has received written requests for inclusion therein within 15 days after the receipt of the Company’s notice. 
+
+(b) Long-Form Registrations. The Initiating Holders shall be entitled to request six (6) Long-Form Registrations in which the Company shall pay all Registration Expenses (the “Company-Paid Long-Form Registrations”); provided, however, that each of the Group A and the Group B shall be limited to three (3) such requests which do not include a member of the other as one of the Initiating Holders. Any sales by the Initiating Holders pursuant to a registration statement that has been filed with the Commission but that has not been declared effective as of the date hereof shall count as one of the permitted Long-Form Registrations. A registration shall not count as one of the permitted Long-Form Registrations until it has become effective and the holders of Registrable Securities initially requesting the Long-Form Registration are able to register and sell at least 90% of the Registrable Securities requested to be included in such registration by such holders; provided that in any event the Company shall pay all Registration Expenses in connection with any registration initiated as a Long-Form Registration whether or not it has become effective and whether or not the holders of Registrable Securities have been able to register and sell at least 90% of the Registrable Securities to be included in such registration by such holders. All Long-Form Registrations shall be underwritten registrations. 
+
+(c) Short-Form Registrations. In addition to the Long-Form Registrations provided pursuant to Section 1(b), the Holders shall be entitled to request unlimited Short-Form Registrations in which the Company shall pay all Registration Expenses provided, however, that Shares representing at least 15% of the Company’s issued and outstanding Common Stock will be included in such registration. Demand Registrations shall be Short-Form Registrations whenever the Company is eligible to use any applicable short form. The Company shall use its best efforts to qualify and/or maintain qualification for registration on Form S-3 or any comparable or successor form. 
+
+(d) Priority on Demand Registrations. The Company shall not include in any Demand Registration any securities which are not Registrable Securities without the prior written consent of the Holders owning more than 50% of the Registrable Securities being requested to be registered. If a Demand Registration is an underwritten offering and the managing underwriters advise the Company in writing that in their opinion the number of Registrable Securities and, if permitted hereunder other securities requested to be included in such offering, exceeds the number of Registrable Securities and other securities, if any, which can be sold in an orderly manner in such offering within a price range acceptable to the Holders owning more than 50% of the Registrable Securities being requested to be registered, then the Company shall include in such registration before the inclusion of any securities which are not Registrable Securities (other 
+
+2 
+
+* * *
+
+than securities requested to be included in such registration pursuant to contractual obligations with the Company) the number of Registrable Securities requested to be included which in the opinion of such underwriters can be sold in an orderly manner within the price range of such offering, pro rata among the respective holders thereof on the basis of the amount of Registrable Securities owned by each such holder. Any Persons other than holders of Registrable Securities who participate in Demand Registrations which are not at the Company’s expense must pay their share of the Registration Expenses as provided in Section 4 hereof. 
+
+(e) Selection of Underwriters. The selection of investment banker(s) and manager(s) for any Demand Registration must be approved by the Holders owning more than 50% of the Registrable Securities being requested to be registered. 
+
+(f) Other Registration Rights. Except as provided in this Agreement, the Company shall not grant to any Persons the right to request the Company to register any equity securities of the Company, or any securities convertible or exchangeable into or exercisable for such securities, without the prior written consent of Holders owning more than 50% of the Registrable Securities; provided that the Company may grant rights to other Persons to participate in Piggyback Registrations so long as such rights are subordinate to the rights of the holders of Registrable Securities with respect to such Piggyback Registrations. 
+
+2\. Piggyback Registrations. 
+
+(a) Right to Piggyback. Whenever the Company proposes to register any of its securities under the Securities Act (other than pursuant to a Demand Registration or any registration on Form S-4 or Form S-8) and the registration form to be used may be used for the registration of Registrable Securities (a “Piggyback Registration”), the Company shall give prompt written notice to all Holders of Registrable Securities of its intention to effect such a registration and, subject to Sections 2(c) and 2(d) below, shall include in such registration all Registrable Securities with respect to which the Company has received written requests for inclusion therein within 20 days after the receipt of the Company’s notice. 
+
+(b) Piggyback Expenses. The Registration Expenses of the holders of Registrable Securities shall be paid by the Company in all Piggyback Registrations. 
+
+(c) Priority on Primary Registrations. If a Piggyback Registration is an underwritten primary registration on behalf of the Company, and the managing underwriters advise the Company in writing that in their opinion the number of securities requested to be included in such registration exceeds the number which can be sold in such offering without adversely affecting the marketability of the offering, the Company shall include in such registration (i) first, the securities the Company proposes to sell, (ii) second, the Registrable Securities requested to be included in such registration and other securities requested in such registration pursuant to contractual obligations with the Company, pro rata among the holders of such Registrable Securities and other securities on the basis of the number of shares owned by each such holder, and (iii) third, other securities requested to be included in such registration. 
+
+(d) Priority on Secondary Registrations. If a Piggyback Registration is an underwritten secondary registration on behalf of holders of the Company’s securities, and the 
+
+3 
+
+* * *
+
+managing underwriters advise the Company in writing that in their opinion the number of securities requested to be included in such registration exceeds the number which can be sold in such offering without adversely affecting the marketability of the offering, the Company shall include in such registration (i) first, the securities requested to be included therein by the holders requesting such registration, the Registrable Securities requested to be included in such registration and other securities requested to be included in such registration pursuant to contractual obligations with the Company, pro rata among the holders of such securities on the basis of the number of securities owned by each such holder and (ii) other securities requested to be included in such registration. 
+
+(e) Other Registrations. If the Company has previously filed a registration statement with respect to Registrable Securities pursuant to Section 1 or Registrable Securities pursuant to this Section 2, and if such previous registration has not been withdrawn or abandoned, the Company shall not file or cause to be effected any other registration of any of its equity securities or securities convertible or exchangeable into or exercisable for its equity securities under the Securities Act (except on Form S-8 or any successor form), whether on its own behalf or at the request of any holder or holders of such securities, until a period of at least 90 days has elapsed from the effective date of such previous registration. 
+
+3\. Registration Procedures. Whenever the holders of Registrable Securities have requested that any Registrable Securities be registered pursuant to this Agreement, the Company shall use its best efforts to effect the registration and the sale of such Registrable Securities in accordance with the terms of this Agreement and the intended method of disposition thereof, and pursuant thereto the Company shall as expeditiously as possible: 
+
+(a) prepare and file with the Securities and Exchange Commission a registration statement with respect to such Registrable Securities and use its best efforts to cause such registration statement to become effective; provided that before filing a registration statement or prospectus or any amendments or supplements thereto, the Company shall, if requested, furnish to the counsel selected by the Initiating Holders in the event of a Company-Paid Long-Form Registration or by Holders owning more than 50% of the Registrable Securities prepared to be registered under any other registration hereunder, copies of all such documents proposed to be filed (excluding exhibits); 
+
+(b) notify each holder of Registrable Securities of the effectiveness of each registration statement filed hereunder and prepare and file with the Securities and Exchange Commission such amendments and supplements to such registration statement and the prospectus used in connection therewith as may be necessary to keep such registration statement effective for a period of not less than 180 days and comply with the provisions of the Securities Act with respect to the disposition of all securities covered by such registration statement during such period in accordance with the intended methods of disposition by the sellers thereof set forth in such registration statement; 
+
+(c) furnish to each seller of Registrable Securities such number of copies of such registration statement, each amendment and supplement thereto, the prospectus included in such registration statement (including each preliminary prospectus), and such other documents as such seller may reasonably request in order to facilitate the disposition of the Registrable Securities owned by such seller; 
+
+4 
+
+* * *
+
+(d) use its best efforts to register or qualify such Registrable Securities under such other securities or blue sky laws of such jurisdictions as any seller reasonably requests and do any and all other acts and things which may be reasonably necessary or advisable to enable such seller to consummate the disposition in such jurisdictions of the Registrable Securities owned by such seller; provided that the Company shall not be required to (i) qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify but for this subparagraph, (ii) subject itself to taxation in any such jurisdiction, or (iii) consent to general service of process in any such jurisdiction; 
+
+(e) notify each seller of such Registrable Securities, at any time when a prospectus relating thereto is required to be delivered under the Securities Act, of the happening of any event as a result of which the prospectus included in such registration statement contains an untrue statement of a material fact or omits any fact necessary to make the statements therein not misleading, and, at the request of the holders of a majority of the sellers of such Registrable Securities, the Company shall prepare a supplement or amendment to such prospectus so that, as thereafter delivered to the purchasers of such Registrable Securities, such prospectus shall not contain an untrue statement of a material fact or omit to state any fact necessary to make the statements therein not misleading; 
+
+(f) cause all such Registrable Securities to be listed on each securities exchange on which similar securities issued by the Company are then listed and, if not so listed, to be listed on the NASD automated quotation system and, if listed on the NASD automated quotation system, use its best efforts to secure designation of all such Registrable Securities covered by such registration statement as a NASDAQ “national market system security” within the meaning of Rule 11Aa2-1 of the Securities and Exchange Commission or, failing that, to secure NASDAQ authorization for such Registrable Securities; 
+
+(g) provide a transfer agent and registrar for all such Registrable Securities not later than the effective date of such registration statement; 
+
+(h) enter into such customary agreements (including underwriting agreements in customary form) as the holders of a majority of the Registrable Securities being sold and the underwriters, if any, reasonably request in order to expedite or facilitate the disposition of such Registrable Securities; 
+
+(i) make available for inspection by any seller of Registrable Securities, any underwriter participating in any disposition pursuant to such registration statement and any attorney, accountant, or other agent retained by any such seller or underwriter, all information reasonably requested by any such seller, underwriter, attorney, accountant, or agent, so as to permit such Persons to comply with their respective due diligence obligations under the Securities Act; 
+
+(j) otherwise use its best efforts to comply with all applicable rules and regulations of the Securities and Exchange Commission, and make available to its security holders, as soon as reasonably practicable, an earnings statement covering the period of at least 
+
+5 
+
+* * *
+
+twelve months beginning with the first day of the Company’s first full calendar quarter after the effective date of the registration statement, which earnings statement shall satisfy the provisions of Section 11(a) of the Securities Act and Rule 158 thereunder; and 
+
+(k) in the event of the issuance of any stop order suspending the effectiveness of a registration statement, or of any order suspending or preventing the use of any related prospectus or suspending the qualification of any common stock included in such registration statement for sale in any jurisdiction, the Company shall use its best efforts promptly to obtain the withdrawal of such order. 
+
+4\. Registration Expenses. 
+
+(a) All expenses incident to the Company’s performance of or compliance with this Agreement, including, without limitation, all registration and filing fees, fees and expenses of compliance with securities or blue sky laws, printing expenses, messenger and delivery expenses, fees and disbursements of custodians, and fees and disbursements of counsel for the Company and all independent certified public accountants, underwriters (excluding discounts and commissions), and other Persons retained by the Company (all such expenses being herein called “Registration Expenses”), shall be borne as provided in this Agreement, except that the Company shall, in any event, pay its internal expenses (including, without limitation, all salaries and expenses of its officers and employees performing legal or accounting duties), the expense of any annual audit or quarterly review, the expense of any liability insurance, and the expenses and fees for listing the securities to be registered on each securities exchange on which similar securities issued by the Company are then listed or on the NASD automated quotation system. Notwithstanding the foregoing, the holders of Registrable Securities (and not the Company) shall pay all underwriting discounts and commissions with respect to the Registrable Securities. 
+
+(b) In connection with each Company-Paid Long-Form Registration, each Short-Form Registration, and each Piggyback Registration, the Company shall reimburse the holders of Registrable Securities included in such registration for the reasonable fees and disbursements of one counsel chosen by the Initiating Holders in the event of a Company-Paid Long Form Registration and the Required Holders in the event of any other registration hereunder. 
+
+(c) To the extent Registration Expenses are not required to be paid by the Company and unless otherwise approved by the Company’s board of directors, each holder of securities included in any registration hereunder shall pay those Registration Expenses allocable to the registration of such holder’s securities so included or otherwise incurred by such holder, and any Registration Expenses not so allocable shall be borne by all sellers of securities included in such registration in proportion to the aggregate selling price of the securities to be so registered. 
+
+5\. Termination of Previous Registration Rights. The Stockholders acknowledge and agree that this Agreement terminates all previously existing rights of the Stockholders to register shares of the Company’s common stock. 
+
+6 
+
+* * *
+
+6\. Indemnification. 
+
+(a) The Company agrees to indemnify, to the extent permitted by law, each holder of Registrable Securities, its officers and directors, and each Person who controls such holder (within the meaning of the Securities Act) against all losses, claims, damages, liabilities, and expenses caused by any untrue or alleged untrue statement of material fact contained in any registration statement, prospectus, or preliminary prospectus or any amendment thereof or supplement thereto or any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein not misleading, except insofar as the same are caused by or contained in any information furnished in writing to the Company by such holder expressly for use therein or by such holder’s failure to deliver a copy of the registration statement or prospectus or any amendments or supplements thereto after the Company has furnished such holder with a sufficient number of copies of the same. In connection with an underwritten offering, the Company shall indemnify such underwriters, their officers and directors, and each Person who controls such underwriters (within the meaning of the Securities Act) to the same extent as provided above with respect to the indemnification of the holders of Registrable Securities, except with respect to any information supplied by any underwriter for use in such registration statement, prospectus, or other offering document and except that with respect to any untrue statement or omission or alleged untrue statement or omission made in any preliminary prospectus, the indemnity agreement contained in this Section shall not inure to the benefit of the underwriter from whom the Person asserting any such losses, claims, damages, liabilities, or expenses purchased shares concerned (or to the benefit of any person controlling such underwriter) to the extent that any such loss, claim, damage, liability, or expense of the underwriter or controlling person results from an untrue statement or omission in the preliminary prospectus which was corrected in the prospectus if a copy of the prospectus was not sent or given to such Person as required by the Securities Act. 
+
+(b) In connection with any registration statement in which a holder of Registrable Securities is participating, each such holder shall furnish to the Company in writing such information and affidavits as the Company reasonably requests for use in connection with any such registration statement or prospectus and, to the extent permitted by law, shall indemnify the Company, its directors and officers and each Person who controls the Company (within the meaning of the Securities Act) against any losses, claims, damages, liabilities, and expenses resulting from any untrue or alleged untrue statement of material fact contained in the registration statement, prospectus, or preliminary prospectus or any amendment thereof or supplement thereto or any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein not misleading, but only to the extent that such untrue statement or omission is contained in any information or affidavit so furnished in writing by such holder; provided that the obligation to indemnify shall be individual, not joint and several, for each holder and shall be limited to the net amount of proceeds received by such holder from the sale of Registrable Securities pursuant to such registration statement. 
+
+(c) Any Person entitled to indemnification hereunder shall (i) give prompt written notice to the indemnifying party of any claim with respect to which it seeks indemnification (provided that the failure to give prompt notice shall not impair any Person’s right to indemnification hereunder, except to the extent such failure has prejudiced the indemnifying party) and (ii) unless in such indemnified party’s reasonable judgment a conflict of interest between such indemnified and indemnifying parties may exist with respect to such claim, permit such indemnifying party to assume the defense of such claim with counsel reasonably satisfactory to the indemnified party. 
+
+7 
+
+* * *
+
+If such defense is assumed, the indemnifying party shall not be subject to any liability for any settlement made by the indemnified party without its consent (but such consent shall not be unreasonably withheld). An indemnifying party who is not entitled to, or elects not to, assume the defense of a claim shall not be obligated to pay the fees and expenses of more than one counsel for all parties indemnified by such indemnifying party with respect to such claim, unless in the reasonable judgment of any indemnified party a conflict of interest may exist between such indemnified party and any other of such indemnified parties with respect to such claim. 
+
+(d) The indemnification provided for under this Agreement shall remain in full force and effect regardless of any investigation made by or on behalf of the indemnified party or any officer, director, or controlling Person of such indemnified party and shall survive the transfer of securities. The indemnifying parties also agree to make such provisions as are reasonably requested by any indemnified party for contribution to such party in the event the indemnification provided hereunder is called for under the terms hereof but is unavailable for any reason. 
+
+(e) Participation in Underwritten Registrations. No Person may participate in any registration hereunder which is underwritten unless such Person (i) agrees to sell such Person’s securities on the basis provided in any underwriting arrangements approved by the Person or Persons entitled hereunder to approve such arrangements, (ii) completes and executes all questionnaires, powers of attorney, indemnities, underwriting agreements, and other documents required under the terms of such underwriting arrangements; provided that no holder of Registrable Securities included in any underwritten registration shall be required to make any representations or warranties to the Company (other than representations and warranties regarding such holder and such holder’s intended method of distribution) or to undertake any indemnification obligations to the Company with respect thereto, except as otherwise provided in Section 6 hereof, and (iii) upon the request of the Company, agrees to enter into agreements to not sell any of its equity securities for a specified period prior to or following the effective date of the Company’s filing and effectiveness of any registration statement. 
+
+(f) Holdback Agreement. No Holder shall effect any public sale, public distribution (including sales pursuant to Rule 144 under the Securities Act), or public offering of any Holder’s shares or of any other capital stock or equity securities of the Company, or any securities convertible into or exchangeable or exercisable for such stock or securities, during the seven days before and the 180-day period or other period designated by the underwriter after the beginning on the effective date of an underwritten public offering (except as part of any such registration), unless the underwriters managing such registration agree otherwise in writing. 
+
+9\. Definitions. 
+
+“Board” means the board of directors of the Company. 
+
+“Commission” means the Securities and Exchange Commission or any other federal agency at the time administering the Securities Act. 
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, or any similar successor federal statute, and the rules and regulations thereunder, all as the same shall be in effect from time to time. 
+
+8 
+
+* * *
+
+“Group A” means Crestview Capital Master, LLC., Big Bend XI Investments, Ltd., HLT FFT, LLC, Midsummer Investment Ltd., Islandia, L.P., Rooster LP, Toibb Investment, LLC, Michael Toibb, Scott M. and Cheryl Hergott Living Trust and Richard Kiphart, and their successor and assigns. 
+
+“Group B” means Sponsor Investments, LLC, Herakles Investments, Inc., Astraea Investment Management, L.P., Opus 5949 LLC and Paul Pottinger, Christopher Bancroft, Michael Jordan, John M. Pigott, Goh Yong Siang, Pat Long, David Kellogg, Charles Jarvie and David Pasahow, as individuals, and their successors and assigns. 
+
+“Holder” means (i) any Stockholder holding Registrable Securities and (ii) any person holding Registrable Securities to whom the rights under this Agreement have been transferred. 
+
+“Initiating Holders” means any Holder or Holders who in the aggregate hold not less than twenty percent (20%) of the Registrable Securities then outstanding and who propose to register securities representing not less than ten percent (10%) of the Registrable Securities then outstanding. 
+
+The terms “register”, “registered” and “registration” refer to a registration effected by preparing and filing a registration statement in compliance with the Securities Act, and the declaration or ordering of the effectiveness of such registration statement. 
+
+“Registrable Securities” shall mean (i) the Common Stock issued to any person who is a party hereto, (ii) any Common Stock issued or issuable with respect to the Common Stock referred to in clause (i) above by way of a stock dividend or stock split or in connection with a combination of shares, recapitalization, merger, consolidation, or other reorganization, and (iii) any other shares of Common Stock held by Persons holding securities described in clauses (i) or (ii) above. As to any particular Registrable Securities, such securities shall cease to be Registrable Securities when they have been distributed to the public pursuant to an offering registered under the Securities Act or sold to the public through a broker, dealer, or market maker in compliance with Rule 144 under the Securities Act (or any similar rule then in force) or repurchased by the Company or any subsidiary. For purposes of this Agreement, a Person shall be deemed to be the holder of Registrable Securities, and the Registrable Securities shall be deemed to be in existence, whenever such Person has the right to acquire such Registrable Securities (upon conversion or exercise or otherwise, but disregarding any restrictions or limitations upon exercise of such right), whether or not the acquisition has actually been effected, and such Person shall be entitled to exercise the rights of a holder of Registrable Securities hereunder. 
+
+“Required Holders” means Holders owning a majority of Registrable Securities which are requested to be registered stock hereunder. 
+
+“Rule 144” means Rule 144 as promulgated by the Commission under the Securities Act, as such Rule may be amended from time to time, or any similar successor rule that may be promulgated by the Commission. 
+
+9 
+
+* * *
+
+“Rule 145” means Rule 145 as promulgated by the Commission under the Securities Act, as such Rule may be amended from time to time, or any similar successor rule that may be promulgated by the Commission. 
+
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder or any similar federal statute and the rules and regulations of the Commission thereunder, all as the same shall be in effect at the time. 
+
+“Shares” means the Company’s Common Stock or any securities exercisable and/or convertible into the Company’s Common Stock. 
+
+10\. Miscellaneous. 
+
+(a) No Inconsistent Agreements. Except in compliance with Section 8(c) hereof, the Company shall not hereafter enter into any agreement with respect to its securities which is inconsistent with or violates the rights granted to the holders of Registrable Securities in this Agreement. 
+
+(b) Remedies. Any Person having rights under any provision of this Agreement shall be entitled to enforce such rights specifically to recover damages caused by reason of any breach of any provision of this Agreement and to exercise all other rights granted by law. The parties hereto agree and acknowledge that money damages may not be an adequate remedy for any breach of the provisions of this Agreement and that any party may in its sole discretion apply to any court of law or equity of competent jurisdiction (without posting any bond or other security) for specific performance and for other injunctive relief in order to enforce or prevent violation of the provisions of this Agreement. 
+
+(c) Amendments and Waivers. Except as otherwise provided herein, the provisions of this Agreement may be amended or waived only upon the prior written consent of each of the Company, the Initiating Holders, and the holders of a majority of the Registrable Securities. It is acknowledged that the Holders executing this Second Amended and Restated Registration Rights Agreement are amending the July 2005 Amended and Restated Registration Rights Agreement pursuant to the provisions thereof. 
+
+(d) Successors and Assigns. All covenants and agreements in this Agreement by or on behalf of any of the parties hereto shall bind and inure to the benefit of the respective successors and assigns of the parties hereto whether so expressed or not. In addition, whether or not any express assignment has been made, the provisions of this Agreement which are for the benefit of purchasers or holders of Registrable Securities are also for the benefit of, and enforceable by, any subsequent holder of such Registrable Securities. 
+
+(e) Severability. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement. 
+
+10 
+
+* * *
+
+(f) Counterparts. This Agreement may be executed simultaneously in two or more counterparts (including by means of telecopied signature pages), any one of which need not contain the signatures of more than one party, but all such counterparts taken together shall constitute one and the same Agreement. 
+
+(g) Descriptive Headings. The descriptive headings of this Agreement are inserted for convenience only and do not constitute a part of this Agreement. 
+
+(h) Governing Law. The corporate law of the State of Delaware shall govern all issues and questions concerning the relative rights and obligations of the Company and its stockholders. All other issues and questions concerning the construction, validity, interpretation and enforcement of this Agreement and the schedules hereto shall be governed by, and construed in accordance with, the laws of the State of New York, without giving effect to any choice of law or conflict of law rules or provisions (whether of the State of New York or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of New York. 
+
+(i) Notices. All notices and other communications required or permitted hereunder shall be in writing and shall be mailed by registered or certified mail, postage prepaid, return receipt requested, or otherwise delivered by hand or by messenger, addressed (a) if to a Stockholder, at such Stockholder’s address set forth on Exhibit A, or at such other address as such Stockholder shall have furnished to the Company in writing, or (b) if to the Company, at its address set forth on the signature page of this Agreement addressed to the attention of the Corporate Secretary, or at such other address as the Company shall have furnished to the Stockholders. Unless specifically stated otherwise, if notice is provided by mail, it shall be deemed to be delivered upon proper deposit in a mailbox, and if notice is delivered by hand or by messenger, it shall be deemed to be delivered upon actual delivery. 
+
+11 
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.   
+  
+NORTH AMERICAN TECHNOLOGIES GROUP, INC. CRESTVIEW CAPITAL MASTER, LLC  
+By: /s/ HENRY W. SULLIVAN  By: /s/  
+Henry W. Sullivan  
+  
+Its:
+
+President
+
+Its:  
+  
+MIDSUMMER INVESTMENT, LTD.
+
+SPONSOR INVESTMENTS, LLC
+
+By: Herakles Investments, Inc., Managing Member  
+  
+By: /s/ By: /s/  
+  
+Its:
+
+Its:  
+  
+OPUS 5949 LLC
+
+By: Sammons VPC, Inc., Managing Member
+
+TOIBB INVESTMENT LLC
+
+By: Toibb Management LLC, Manager  
+  
+By: /s/ By:  
+Harris Toibb  
+  
+Its:
+
+Its:
+
+Manager  
+MICHAEL TOIBB SCOTT M. AND CHERYL L. HERGOTT LIVING TRUST  
+By: By:  
+  
+Its:  
+  
+* * *  
+  
+ASTRAEA INVESTMENT MANAGEMENT, L.P. BIG BEND XI INVESTMENTS, LTD.  
+By: By:  
+  
+Its:
+
+Its:  
+  
+HLT FFT, LLC HERAKLES INVESTMENTS, INC.  
+By: By:  
+  
+Its:
+
+Its:  
+  
+ISLANDIA, LP RICHARD KIPHART  
+By: By:  
+  
+Its:
+
+Its:  
+  
+ROOSTER LP  
+By:  
+  
+Its:  
+  
+* * *  
+  
+CHRISTOPHER BANCROFT, Individually CHARLES JARVIE, Individually  
+By: By:  
+MICHAEL JORDAN, Individually DAVID KELLOGG, Individually  
+By: By:  
+PAT LONG, Individually DAVID PASAHOW, Individually  
+By: By:  
+JOHN M. PIGOTT, Individually PAUL POTTINGER, Individually  
+By: By:  
+GOH YONG SIANG, Individually  
+By:  
+  
+* * *
+
+EXHIBIT A 
+
+SCHEDULE OF STOCKHOLDERS 
+
+CRESTVIEW CAPITAL MASTER, LLC 
+
+95 Revere Drive, Suite A 
+
+Northbrook, Illinois 60062 
+
+Attn: Richard Levy 
+
+TEL: (847) 418-8303
+
+FAX: (847) 559-5807
+
+For all notices to Crestview Capital Master, LLC, provide a copy to: 
+
+FELDMAN WEINSTEIN, LLP 
+
+The Graybar Building 
+
+420 Lexington Ave 
+
+New York, New York 10170-0002 
+
+Attn: Joseph Smith 
+
+TEL: (212) 931-8719 
+
+FAX: (212) 997-4242 
+
+SPONSOR INVESTMENTS, LLC 
+
+Two Lincoln Centre 
+
+5420 LBJ Freeway, Suite 1450 
+
+Dallas, Texas 75240 
+
+Attn: Bruce Leadbetter 
+
+TEL: (972) 490-2360 
+
+FAX: (972) 490-2345
+
+For all notices to Sponsor Investments, LLC, provide a copy to: 
+
+LATHAM & WATKINS LLP 
+
+233 South Wacker Drive 
+
+Sears Tower, Suite 5800 
+
+Chicago, Illinois 60606 
+
+Attn: Richard S. Meller 
+
+TEL: (312) 876-7700 
+
+FAX: (312) 993-9767 
+
+SAMMONS CORPORATION 
+
+5949 Sherry Lane, Suite 1900 
+
+Dallas, Texas 75225 
+
+Attn: Legal Department 
+
+TEL: (214) 210-5058 
+
+FAX: (214) 210-508 
+
+* * *
+
+BIG BEND XI INVESTMENTS, LTD. 
+
+Attn: Steven D. Leeke 
+
+TEL: 214-443-1945 
+
+FAX: 214-443-1980 
+
+HLT FFT, LLC 
+
+ISLANDIA, LP 
+
+MIDSUMMER INVESTMENT, LTD. 
+
+485 Madison Avenue, 23rd floor 
+
+New York, New York 10022 
+
+Attn: Michel A. Amsalem 
+
+TEL: (212) 584-2140 
+
+FAX: (212) 584-2142 
+
+OPUS 5949 LLC 
+
+TOIBB INVESTMENT LLC 
+
+Attn: Howard Smuckler 
+
+TEL: (818) 883-3098 
+
+FAX: (818) 883-0858 
+
+MICHAEL TOIBB 
+
+Attn: Howard Smuckler 
+
+TEL: (818) 883-3098 
+
+FAX: (818) 883-0858 
+
+SCOTT M. AND CHERYL L. HERGOTT LIVING TRUST 
+
+Attn: Howard Smuckler 
+
+TEL: (818) 883-3098 
+
+FAX: (818) 883-0858 
+
+RICHARD KIPHART 
+
+ROOSTER LP 
+
+A-1 

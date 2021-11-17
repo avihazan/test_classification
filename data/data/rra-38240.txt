@@ -1,0 +1,325 @@
+  
+QuickLinks \-- Click here to rapidly navigate through this document
+
+  
+EXHIBIT 10.31   
+
+
+
+
+
+This Registration Rights Agreement (the "Agreement") is entered into as May 21, 2001 by and among Tetra Tech, Inc., a Delaware corporation ("Tetra Tech"), and the parties listed on Schedule A attached hereto (each, a "Holder" and collectively, the "Holders"). 
+
+  
+R E C I T A L S   
+
+
+A. Tetra Tech and the Holders are parties to the Agreement and Plan of Reorganization of even date (the "Reorganization Agreement"), pursuant to which VES Acquisition Corporation, a Delaware corporation and wholly-owned subsidiary of Tetra Tech, will merge with and into Vertex Engineering Services, In., a Massachusetts corporation (the "Company"). 
+
+B. Pursuant to the Reorganization Agreement, the shareholders of the Company will receive shares of the common stock, $.01 par value, of Tetra Tech ("Tetra Tech Common Stock"); and 
+
+C. This Agreement is the Registration Rights Agreement referred to in Section 6.2 of the Reorganization Agreement and, pursuant thereto, must be entered into by the parties in connection with the consummation of the transactions contemplated by the Reorganization Agreement. 
+
+  
+A G R E E M E N T   
+
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+1. Certain Definitions. As used in this Agreement, the following terms shall have the following respective meanings: 
+
+"Exchange Act" shall mean the Securities Exchange Act of 1934, as amended from time to time. 
+
+"Form S-3" shall mean such form under the Securities Act as in effect on the date hereof or any successor registration form under the Securities Act subsequently adopted by the SEC which permits inclusion or incorporation of substantial information by reference to other documents filed by Tetra Tech with the SEC. 
+
+"Prospectus" shall mean the prospectus included in any Registration Statement, as amended or supplemented by any prospectus supplement, with respect to the terms of the offering of any portion of the Registrable Securities covered by the Registration Statement and by all other amendments and supplements to the prospectus, including post-effective amendments and all material incorporated by reference in such Prospectus. 
+
+"Register", "registered" and "registration" shall mean and refer to a registration effected by preparing and filing a Registration Statement and taking all other actions that are necessary or appropriate in connection therewith, and the declaration or ordering of effectiveness of such Registration Statement by the SEC. 
+
+"Registration Expenses" shall have the meaning set forth in Section 4. 
+
+"Registrable Securities" shall mean the shares of Tetra Tech Common Stock (i) issued pursuant to the Reorganization Agreement, and (ii) issued as a dividend or other distribution with respect to or in exchange for or in replacement of the shares referenced in (i) above; provided, however, that Registrable Securities shall not include any shares of Tetra Tech Common Stock that have previously been registered or sold to the public or have been sold pursuant to Rule 144 (or similar successor Rule). 
+
+"Registration Statement" shall mean any registration statement of Tetra Tech in compliance with the Securities Act that covers Registrable Securities pursuant to the provisions of this Agreement, including, without limitation, the Prospectus, all amendments and supplements to such Registration 
+
+* * *
+
+Statement, including all post-effective amendments, all exhibits and all material incorporated by reference in such Registration Statement. 
+
+"Rule 144" shall mean Rule 144 promulgated under the Securities Act or any similar successor rule, as the same shall be in effect from time to time. 
+
+"Rule 144A" shall mean Rule 144A promulgated under the Securities Act or any similar successor rule, as the same shall be in effect from time to time. 
+
+"Rule 415" shall mean Rule 415 promulgated under the Securities Act, or any similar successor rule, as the same shall be in effect from time to time. 
+
+"Securities Act" shall mean the Securities Act of 1933, as amended from time to time. 
+
+"SEC" shall mean the Securities and Exchange Commission. 
+
+"Underwritten offering" shall mean a registration in which securities of Tetra Tech are sold to an underwriter or through an underwriter as agent for reoffering to the public. 
+
+2. Registration for Holders.
+
+(a) Tetra Tech shall file a Registration Statement on Form S-3, providing for the sale by the Holders, pursuant to Rule 415, and/or any similar rule that may be adopted by the SEC, of the Registrable Securities. Tetra Tech shall use commercially reasonable efforts to cause such Registration Statement to become effective on or before June 21, 2001, subject to review by the SEC, and to keep such Registration Statement continuously effective for a period ending on the date on which all such Holders are eligible to sell Registrable Securities under Rule 144 (or similar successor rule) without any volume limitation. Tetra Tech represents and warrants that it is currently eligible to file a Registration Statement on Form S-3. However, if, at the time Tetra Tech is required to file a Registration Statement pursuant to this  Section 3(a), Tetra Tech is not eligible to file a Registration Statement on Form S-3 to register resales by stockholders, Tetra Tech shall initially file a Registration Statement on Form S-1 and shall comply with the provisions of the immediately preceding sentence. Upon becoming eligible to use the Registration Statement on Form S-3 to register resales by stockholders (whether pursuant to a ruling or waiver from the SEC or otherwise), Tetra Tech shall promptly file a Registration Statement on Form S-3 or convert the existing Registration Statement to Form S-3 relating to the offer and sale of Registrable Securities by the Holders from time to time. Thereafter, Tetra Tech shall use commercially reasonable efforts to cause such new or amended Registration Statement to be declared effective by the SEC as promptly as practicable. 
+
+(b) No Holder shall have the right to register securities under this Agreement unless such Holder provides and/or confirms in writing prior to or after the filing of the Registration Statement such information (including, without limitation, information as to the number of Registrable Securities that such Holder has sold pursuant to any such Registration Statement from time to time) as Tetra Tech reasonably requests in connection with such Registration Statement. 
+
+(c) Notwithstanding the foregoing, for a period not to exceed 90 days, Tetra Tech shall not be obligated to prepare and file the Registration Statement required hereunder if Tetra Tech, in its good faith judgment, reasonably believes that the filing of such Registration Statement would require the disclosure of material non-public information regarding Tetra Tech and, accordingly, that the filing thereof, at the time requested, or the offering of Tetra Tech Common Stock pursuant thereto, would materially and adversely affect (i) a pending or scheduled public offering or private placement of securities of Tetra Tech, (ii) an acquisition, merger, consolidation or similar transaction by or of Tetra Tech, (iii) preexisting and continuing negotiations, discussions or pending proposals with respect to any of the foregoing transactions, or (iv) the financial condition of Tetra Tech in view of the disclosure of any pending or threatened litigation, claim, assessment or governmental investigation which might be required thereby. 
+
+2
+
+* * *
+
+In the event that Tetra Tech, in good faith, reasonably believes that such conditions are continuing after such 90-day period, it may, with the consent of the Holders of a majority of the Registrable Securities subject (or to be subject) to the Registration Statement, which consent shall not be unreasonably withheld, extend such 90-day period for an additional 30 days. Any further delay shall require the consent of the Holders of all such shares. 
+
+In the event of any delay in the filing of the Registration Statement pursuant to this subparagraph (c), Tetra Tech will effect such filing as soon as practicable. 
+
+3. Registration Procedures. In connection with Tetra Tech's registration obligations pursuant to  Section 2 hereof, Tetra Tech will use commercially reasonable efforts to effect such registration to permit the sale of the Registrable Securities covered thereby in accordance with the intended method or methods of disposition thereof, and pursuant thereto Tetra Tech will: 
+
+(a) prepare and file with the SEC a Registration Statement with respect to such Registrable Securities and use its commercially reasonable efforts to cause such Registration Statement to become effective; provided that, before filing any Registration Statement or Prospectus or any amendments or supplements thereto, Tetra Tech will furnish to the Holders of the Registrable Securities covered by such Registration Statement and their counsel, copies of all such documents proposed to be filed at least ten days prior thereto, and Tetra Tech will not file any such Registration Statement or amendment thereto or any Prospectus or any supplement thereto to which any such Holder shall reasonably object within such ten day period; provided, further, that Tetra Tech will not name or otherwise provide any information with respect to any Holder in any Registration Statement or Prospectus without the express written consent of such Holder, unless required to do so by the Securities Act and the rules and regulations thereunder; 
+
+(b) prepare and file with the SEC such amendments, post-effective amendments and supplements to the Registration Statement and the Prospectus as may be necessary to comply with the provisions of the Securities Act and the rules and regulations thereunder with respect to the disposition of all securities covered by such Registration Statement; 
+
+(c) notify the selling Holders (i) when the Prospectus or any Prospectus supplement or post-effective amendment has been filed, and, with respect to the Registration Statement or any post-effective amendment, when the same has become effective, (ii) of any request by the SEC for amendments or supplements to the Registration Statement or the Prospectus or for additional information, (iii) of the issuance by the SEC of any stop order suspending the effectiveness of the Registration Statement or the initiation of any proceedings for that purpose, (iv) of the receipt by Tetra Tech of any notification with respect to the suspension of the qualification of the Registrable Securities for sale in any jurisdiction or the initiation or threatening of any proceeding for such purpose and (v) of the happening of any event which makes any statement made in the Registration Statement, the Prospectus or any document incorporated therein by reference untrue or which requires the making of any changes in the Registration Statement, the Prospectus or any document incorporated therein by reference in order to make the statements therein not misleading in light of the circumstances then existing; 
+
+(d) make every commercially reasonable effort to obtain the withdrawal of any order suspending the effectiveness of the Registration Statement at the earliest possible moment; 
+
+(e) deliver to each selling Holder, without charge, such reasonable number of conformed copies of the Registration Statement (and any post-effective amendment thereto) and such number of copies of the Prospectus (including each preliminary prospectus) and any amendment or supplement thereto (and any documents incorporated by reference therein) as such Holder may reasonably request. Tetra Tech consents to the use of the Prospectus or any amendment or supplement thereto by each of the 
+
+3
+
+* * *
+
+selling Holders in connection with the offer and sale of the Registrable Securities covered by the Prospectus or any amendment or supplement thereto; 
+
+(f) prior to any offering of Registrable Securities covered by a Registration Statement, register or qualify or cooperate with the selling Holders in connection with the registration or qualification of such Registrable Securities for offer and sale under the securities or blue sky laws of such jurisdictions as any such selling Holder reasonably requests, and use commercially reasonable efforts to keep each such registration or qualification effective, including through new filings, or amendments or renewals, during the period such Registration Statement is required to be kept effective pursuant to the terms of this Agreement; and do any and all other acts or things necessary or advisable to enable the disposition in all such jurisdictions reasonably requested by the Holders of the Registrable Securities covered by such Registration Statement, provided that under no circumstances shall Tetra Tech be required in connection therewith or as a condition thereof to qualify to do business or to file a general consent to service of process in any such states or jurisdictions; 
+
+(g) cooperate with the selling Holders to facilitate the timely preparation and delivery of certificates representing Registrable Securities to be sold, free of any and all restrictive legends, such certificates to be in such denominations and registered in such names as the Holders may request; 
+
+(h) upon the occurrence of any event contemplated by Section 3(c)(v) above, prepare a supplement or post-effective amendment to the Registration Statement or the Prospectus or any document incorporated therein by reference or file any other required document so that, as thereafter delivered to the purchasers of the Registrable Securities, the Prospectus will not contain an untrue statement of a material fact or omit to state any material fact necessary to make the statements therein, in light of the circumstances under which they were made, not misleading; 
+
+(i) make generally available to the holders of Tetra Tech's outstanding securities earnings statements satisfying the provisions of Section 11(a) of the Securities Act, no later than 60 days after the end of any 12 month period (or 90 days, if such period is a fiscal year) beginning with the first month of Tetra Tech's first fiscal quarter commencing after the effective date of the Registration Statement, which statements shall cover said 12 month period; 
+
+(j) provide and cause to be maintained a transfer agent and registrar for all Registrable Securities covered by each Registration Statement from and after a date not later than the effective date of such Registration Statement; 
+
+(k) use its best efforts to cause all Registrable Securities covered by each Registration Statement to be listed, subject to notice of issuance, prior to the date of the first sale of such Registrable Securities pursuant to such Registration Statement, on each securities exchange on which the Tetra Tech Common Stock is then listed, and admitted to trading on the Nasdaq Stock Market, if the Tetra Tech Common Stock is then admitted to trading on the Nasdaq Stock Market; and 
+
+(l) enter into such agreements (including underwriting agreements in customary form containing, among other things, reasonable and customary indemnities) and take such other actions as a majority of the Holders shall reasonably request in order to expedite or facilitate the disposition of such Registrable Securities; and 
+
+(m) cooperate with the selling Holders and the managing underwriter or underwriters in their marketing efforts with respect to the sale of the Registrable Securities, including participation by Tetra Tech management in "road show" presentations. 
+
+Each Holder agrees that, upon receipt of any notice from Tetra Tech of the happening of any event of the kind described in  Section 3(c)(v) hereof, such Holder will forthwith discontinue disposition of Registrable Securities under the Prospectus related to the applicable Registration Statement until such Holder's receipt of the copies of the supplemented or amended Prospectus contemplated by 
+
+4
+
+* * *
+
+Section 3(h) hereof, or until it is advised in writing by Tetra Tech that the use of the Prospectus may be resumed. 
+
+It shall be a condition precedent to the obligations of Tetra Tech to take any action pursuant to this Section 3 with respect to the Registrable Securities of any selling Holder that such Holder shall furnish to Tetra Tech such information regarding itself and the Registrable Securities held by it as shall be required by the Securities Act to effect the registration of such Holder's Registrable Securities. 
+
+4. Registration Expenses. All expenses incident to any registration to be effected hereunder and incident to Tetra Tech's performance of or compliance with this Agreement, including without limitation all registration and filing fees, fees and expenses of compliance with securities or blue sky laws, printing expenses, messenger and delivery expenses, National Association of Securities Dealers, Inc., stock exchange and qualification fees, fees and disbursements of Tetra Tech's counsel and of independent certified public accountants of Tetra Tech (including the expenses of any special audit required by or incident to such performance), the fees and disbursements of one counsel and one accountant representing the Holders in such offering, expenses of the underwriters that are customarily requested in similar circumstances by such underwriters (excluding discounts, commissions or fees of underwriters, selling brokers, dealer managers or similar securities industry professionals relating to the distribution of the Registrable Securities, which will be borne by the Holders), all such expenses being herein called "Registration Expenses," will be borne by Tetra Tech. Tetra Tech will also pay its internal expenses, the expense of any annual audit and the fees and expenses of any person retained by Tetra Tech. 
+
+5. Indemnification.
+
+(a) Indemnification by Tetra Tech. Tetra Tech agrees to indemnify and hold harmless each Holder of Registrable Securities, its officers, directors, partners and employees and each person who controls such Holder (within the meaning of Section 15 of the Securities Act) from and against any and all losses, claims, damages and liabilities (including any investigation, legal or other expenses reasonably incurred in connection with, and any amount paid in settlement of, any action, suit or proceeding or any claim asserted) (collectively, "Damages") to which such Holder may become subject under the Securities Act, the Exchange Act or other federal or state securities law or regulation, at common law or otherwise, insofar as such Damages arise out of or are based upon (i) any untrue statement or alleged untrue statement of a material fact contained in any Registration Statement, Prospectus or preliminary prospectus or any amendment or supplement thereto, (ii) the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading and (iii) any violation or alleged violation by Tetra Tech of the Securities Act, the Exchange Act or any state securities or blue sky laws in connection with the Registration Statement, Prospectus or preliminary prospectus or any amendment or supplement thereto,  provided that Tetra Tech will not be liable to any Holder to the extent that such Damages arise from or are based upon any untrue statement or omission (x) based upon written information furnished to Tetra Tech by such Holder expressly for the inclusion in such Registration Statement, (y) made in any preliminary prospectus if such Holder failed to deliver a copy of the Prospectus with or prior to the delivery of written confirmation of the sale by such Holder to the party asserting the claim underlying such Damages and such Prospectus would have corrected such untrue statement or omission and (z) made in any Prospectus if such untrue statement or omission was corrected in an amendment or supplement to such Prospectus and such Holder failed to deliver such amendment or supplement prior to or concurrently with the sale of Registrable Securities to the party asserting the claim underlying such Damages. 
+
+(b) Indemnification by Holder of Registrable Securities. Each Holder of Registrable Securities whose Registrable Securities are sold under a Prospectus which is a part of a Registration Statement agrees to indemnify and hold harmless Tetra Tech, its directors and each officer who signed such Registration Statement and each person who controls Tetra Tech (within the meaning of Section 15 of 
+
+5
+
+* * *
+
+the Securities Act), and each other Holder of Registrable Securities whose Registrable Securities are sold under the Prospectus which is a part of such Registration Statement (and such Holder's officers, directors and employees and each person who controls such Holder within the meaning of Section 15 of the Securities Act), under the same circumstances as the foregoing indemnity from Tetra Tech to each Holder of Registrable Securities to the extent that such losses, claims, damages, liabilities or actions arise out of or are based upon any untrue statement of a material fact or omission of a material fact that was made in the Prospectus, the Registration Statement, or any amendment or supplement thereto, in reliance upon and in conformity with information relating to such Holder furnished in writing to Tetra Tech by such Holder expressly for use therein, provided that in no event shall the aggregate liability of any selling Holder of Registrable Securities exceed the amount of the net proceeds received by such Holder upon the sale of the Registrable Securities giving rise to such indemnification obligation. Tetra Tech and the selling Holders shall be entitled to receive indemnities from underwriters, selling brokers, dealer managers and similar securities industry professionals participating in the distribution, to the same extent as customarily furnished by such persons in similar circumstances. 
+
+(c) Conduct of Indemnification Proceedings. Any person entitled to indemnification hereunder will (i) give prompt notice to the indemnifying party of any claim with respect to which it seeks indemnification and (ii) permit such indemnifying party to assume the defense of such claim with counsel reasonably satisfactory to the indemnified party; provided, however, that any person entitled to indemnification hereunder shall have the right to employ separate counsel and to participate in the defense of such claim, but the fees and expenses of such counsel shall be at the expense of such person and not of the indemnifying party unless (A) the indemnifying party has agreed to pay such fees or expenses, (B) the indemnifying party shall have failed to assume the defense of such claim and employ counsel reasonably satisfactory to such person or (C) in the reasonable judgment of such person and the indemnifying party, based upon advice of their respective counsel, a conflict of interest may exist between such person and the indemnifying party with respect to such claims (in which case, if the person notifies the indemnifying party in writing that such person elects to employ separate counsel at the expense of the indemnifying party, the indemnifying party shall not have the right to assume the defense of such claim on behalf of such person). If such defense is not assumed by the indemnifying party, the indemnifying party will not be subject to any liability for any settlement made without its consent (but such consent will not be unreasonably withheld). No indemnified party will be required to consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by all claimants or plaintiffs to such indemnified party of a release from all liability in respect to such claim or litigation. Any indemnifying party who is not entitled to, or elects not to, assume the defense of a claim will not be obligated to pay the fees and expenses of more than one counsel for all parties indemnified by such indemnifying party with respect to such claim. As used in this  Section 5(c), the terms "indemnifying party", "indemnified party" and other terms of similar import are intended to include only Tetra Tech (and its officers, directors and control persons as set forth above) on the one hand, and the Holders (and their officers, directors, partners, employees, attorneys and control persons as set forth above) on the other hand, as applicable. 
+
+(d) Contribution. If for any reason the foregoing indemnity is unavailable, then the indemnifying party shall contribute to the amount paid or payable by the indemnified party as a result of such losses, claims, damages, liabilities or expenses (i) in such proportion as is appropriate to reflect the relative fault of the indemnifying party and the indemnified party in connection with the statements or omissions which resulted in such losses, claims, damages, liabilities or expenses, as well as any other relevant equitable considerations. The relative fault of such indemnifying party and indemnified party shall be determined by reference to, among other things, whether the untrue statement or alleged untrue statement of a material fact or omission or alleged omission to state a material fact relates to information supplied by such indemnifying party or by such indemnified party, and the parties' relative intent, knowledge, access to information and opportunity to correct or prevent such statement or 
+
+6
+
+* * *
+
+omission. The parties acknowledge and agree that it would not be just and equitable if contribution pursuant to this Section 5(d) were determined by pro rata allocation or by any other method of allocation which does not take into account the equitable considerations referred to in this Section 5(d). Notwithstanding the foregoing, no Holder shall be required to contribute any amount in excess of the amount such Holder would have been required to pay to an indemnified party if the indemnity under  Section 5(b) hereof was available. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. The obligation of any person to contribute pursuant to this  Section 5(d) shall be several and not joint. 
+
+(e) Timing of Payments. An indemnifying party shall make payments of all amounts required to be made pursuant to the foregoing provisions of this Section 5 to or for the account of the indemnified party from time to time promptly upon receipt of bills or invoices relating thereto or when otherwise due or payable. 
+
+(f) Survival. The indemnity and contribution agreements contained in this  Section 5 shall remain in full force and effect, regardless of any investigation made by or on behalf of Tetra Tech, a participating Holder, its officers, directors, partners, attorneys, agents or any person, if any, who controls Tetra Tech or such Holder as aforesaid, and shall survive the transfer of such Registrable Securities by such Holder. 
+
+6. Preparation; Reasonable Investigation. In connection with the preparation and filing of a Registration Statement pursuant to the terms of this Agreement: 
+
+(a) Tetra Tech shall, with respect to a Registration Statement filed pursuant to Section 2, give the Holders of such Registrable Securities so registered, their underwriters, if any, and their respective counsel and accountants the opportunity to participate in the preparation of such Registration Statement (other than reports and proxy statements incorporated therein by reference and properly filed with the SEC) and each Prospectus included therein or filed with the SEC, and each amendment thereof or supplement thereto; and 
+
+(b) Tetra Tech shall give the Holders of such Registrable Securities so registered, their underwriters, if any, and their respective counsel and accountants such reasonable access to its books and records and such opportunities to discuss the business of Tetra Tech with its officers and the independent public accountants who have certified its financial statements as shall be necessary, in the opinion of such Holders or such underwriters, to conduct a reasonable investigation within the meaning of Section 11(b)(3) of the Securities Act. 
+
+7. Rule 144. Tetra Tech covenants that it will use commercially reasonable efforts to file, on a timely basis, the reports required to be filed by it under the Securities Act and the Exchange Act and the rules and regulations adopted by the SEC thereunder, and it will take such further action as any Holder may reasonably request (including, without limitation, compliance with the current public information requirements of Rule 144(c) and Rule 144A), all to the extent required from time to time to enable such Holder to sell Registrable Securities without registration under the Securities Act within the limitation of the conditions provided by Rule 144, Rule 144A or any similar rule or regulation hereafter adopted by the SEC. Upon the request of any Holder, Tetra Tech will promptly deliver to such Holder a written statement verifying that it has complied with such information and requirements. 
+
+8. Specific Performance. Each Holder, in addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages, will be entitled to specific performance of its rights under this Agreement. Tetra Tech agrees that monetary damages would not be adequate compensation for any loss incurred by reason of a breach by it of the provisions of this Agreement and hereby agrees to waive the defense in any action for specific performance that a remedy at law would be adequate. 
+
+7
+
+* * *
+
+9. Notices. All notices and other communications required or permitted hereunder shall be in writing and shall be mailed by United States first-class mail, postage prepaid, sent by facsimile or delivered personally by hand or nationally recognized courier addressed (a) if to a Holder, as indicated on the list of Holders attached hereto as Schedule A, or at such other address as such Holder or permitted assignee shall have furnished to Tetra Tech in writing, or (b) if to Tetra Tech, at such address or facsimile number as Tetra Tech shall have furnished to each Holder in writing. All such notices and other written communications shall be effective on the date of mailing, facsimile transfer or delivery. 
+
+10. Successors and Assigns: Assignment of Rights. The rights and benefits of a Holder hereunder may not be assigned to a transferee or assignee without the consent of Tetra Tech; provided, however, that, no later than the 10th day prior to the filing of the Registration Statement under Section 2 hereof, the rights and benefits of a Holder hereunder may be transferred in connection with a transfer or assignment of any Registrable Securities held by such Holder (i) by gift to immediate family members of such Holder, or trusts or other entities for the sole benefit thereof, or (ii) by gift to any entity in which such Holder, his or her immediate family members, or trusts or other entities for the sole benefit thereof beneficially own all of the voting securities;  provided, however, that in each case, the transferee executes an instrument pursuant to which the transferee agrees to be bound by the terms and conditions hereof as a Holder, and such other documents as Tetra Tech or its counsel may reasonably require, after which, such transferee shall be deemed a "Holder" hereunder. Any transfer of Registrable Securities, and rights hereunder, shall be subject to compliance with applicable securities laws and the restrictions contained in the Investment Letter executed by each Holder pursuant to the Reorganization Agreement. 
+
+11. Severability. In the event that any one or more of the provisions contained herein, or the application thereof in any circumstance, is held invalid, illegal or unenforceable, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions contained herein shall not be affected or impaired thereby. 
+
+12. Entire Agreement; Amendment; Waiver. This Agreement, the Reorganization Agreement and the other agreements contemplated thereby constitute the full and entire understanding and agreement among the parties with regard to the subjects hereof and thereof. Without limiting the foregoing, the rights of the Holders to registration pursuant to the terms of this Agreement shall be subject to the limitations on resale contained in the Investment Letter (as defined in the Reorganization Agreement). Neither this Agreement nor any term hereof may be amended, waived, discharged or terminated, except by a written instrument signed by Tetra Tech and the holders of at least 51% of the Registrable Securities and any such amendment, waiver, discharge or termination shall be binding upon all the parties hereto, but in no event shall the obligation of any party hereto be materially increased, except upon the written consent of such party. 
+
+13. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be original, and all of which together shall constitute one instrument. 
+
+14. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of California without giving effect to principles of conflicts of laws thereof. 
+
+15. No Third Party Beneficiaries. The covenants and agreements set forth herein are for the sole and exclusive benefit of the parties hereto and their respective successors and assigns and such covenants and agreements shall not be construed as conferring, and are not intended to confer, any rights or benefits upon any other persons. 
+
+8
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written. 
+
+TETRA TECH, INC.  
+  
+  
+  
+  
+  
+  
+  
+  
+By:   
+/s/ LI-SAN HWANG
+
+* * *
+
+Li-San Hwang  
+Chairman, Chief Executive Officer and President  
+  
+  
+  
+  
+  
+  
+  
+  
+/s/ WILLIAM J. MCCONNELL, SR.
+
+* * *
+
+William J. McConnell, Sr.  
+  
+  
+  
+  
+  
+  
+  
+  
+/s/ WILLIAM J. MCCONNELL, JR.
+
+* * *
+
+William J. McConnell, Jr.  
+  
+  
+  
+  
+  
+  
+  
+  
+/s/ JEFFREY E. PICARD
+
+* * *
+
+Jeffrey E. Picard  
+  
+  
+  
+  
+  
+  
+  
+  
+/s/ JAMES O'BRIEN
+
+* * *
+
+James O'Brien  
+  
+  
+9
+
+* * *
+
+  
+SCHEDULE A   
+
+
+SCHEDULE OF HOLDERS   
+
+
+Holder's Name/Address/Facsimile No.  
+
+
+* * *
+
+Number of Shares of Tetra Tech Common  
+Stock Issued Pursuant  
+to the Reorganization Agreement
+
+* * *  
+  
+  
+William J. McConnell, Sr.  
+20 Idylwilde Cr.  
+Marshfield, MA  
+Facsimile:    
+  
+98,846  
+  
+William J. McConnell, Jr.  
+20 Idylwilde Cr.  
+Marshfield, MA  
+Facsimile:    
+  
+98,846  
+  
+Jeffrey E. Picard  
+94 Flames Rd.  
+Marshfield, MA  
+Facsimile:    
+  
+50,921  
+  
+James O'Biren  
+14 Windsor Rd.  
+Sandwich, MA  
+Facsimile:    
+  
+50,921  
+  
+10
+
+* * *
+
+  
+
+
+  
+QuickLinks  
+
+
+EXHIBIT 10.31  
+
+REGISTRATION RIGHTS AGREEMENT  
+R E C I T A L S  
+A G R E E M E N T  
+
+
+SCHEDULE A  
+
+SCHEDULE OF HOLDERS  
+

@@ -1,0 +1,262 @@
+* * *
+
+* * *
+
+Exhibit 10(b)
+
+Form of
+
+  
+
+
+  
+
+
+
+
+  
+
+
+under the
+
+  
+
+
+NEXTERA ENERGY, INC. 2011 LONG TERM INCENTIVE PLAN
+
+  
+
+
+This Non-Qualified Stock Option Agreement (“Agreement”), between NextEra Energy, Inc. (hereinafter called the “Company”) and the grantee identified on Schedule 1 attached hereto (the “Grantee”) is dated ______ ___, 20___. All capitalized terms used in this Agreement which are not defined herein shall have the meanings ascribed to such terms in the NextEra Energy, Inc. 2011 Long Term Incentive Plan, as amended from time to time (the “Plan”).
+
+  
+
+
+1\. Grant of Option. In accordance with and subject to the terms and conditions of (a) the Plan, and (b) this Agreement, the Company hereby grants to the Grantee a non-qualified stock option (the “Option”) to purchase the number of shares of Stock set forth in Schedule 1 attached hereto ("Schedule 1"), at the Option Price per share set forth in Schedule 1.
+
+  
+
+
+2\. Acceptance by Grantee. The exercise of the Option or any portion thereof is conditioned upon acceptance by the Grantee of the terms and conditions of this Agreement, as evidenced by the Grantee's execution of Schedule 1 and the delivery of an executed copy of Schedule 1 to the Company.
+
+  
+
+
+3\. Vesting of Option. Subject to the terms and provisions hereof, including section 5 hereof, and the Plan, the Option shall vest and the Grantee may exercise the Option in accordance with the vesting schedule set forth in Schedule 1 (the “Vesting Schedule”).
+
+  
+
+
+Notwithstanding the foregoing or any other provision of this Agreement or the Plan, if (i) the Grantee is a party to an Executive Retention Employment Agreement with the Company (as amended from time to time, “Retention Agreement”) and has not waived his or her rights, either entirely or in pertinent part, under the Retention Agreement, and (ii) the Effective Date (as defined in the Retention Agreement) has occurred and the Employment Period (as defined in the Retention Agreement) has commenced and has not terminated pursuant to section 3(b) of the Retention Agreement, then, so long as the Grantee is providing Service, the then-unvested portion of the Option shall vest upon a Change of Control (as defined in the Retention Agreement ), instead of in accordance with the vesting schedule set forth in Schedule 1.
+
+  
+
+
+Notwithstanding the foregoing or any other provision of this Agreement or the Plan, if (i) the Grantee is not a party to a Retention Agreement with the Company, upon the occurrence of a Change in Control (as defined, as of the date hereof, in the Plan for all purposes of this Agreement) then, so long as the Grantee is still providing Service on the date of such occurrence, the then-unvested portion of the Option shall vest upon such Change in Control, instead of in accordance with the vesting schedule set forth in Schedule 1, and (ii) the Grantee’s Service is terminated other than for Cause during the 24-month period following a Change in Control, the portion of the Option that remains outstanding on the date of such termination may thereafter be exercised by the Grantee until the earlier of the second anniversary of the date of such termination or the expiration of the term of the Option.
+
+  
+
+
+If, as a result of a Change in Control, the shares of Stock are exchanged for or converted into a different form of equity security and/or the right to receive other property (including cash), the Option may be exercised, to the maximum extent practicable, in the same form.
+
+  
+
+
+4\. Expiration of Option. The Option shall expire on the date set forth in Schedule 1 (the “Expiration Date”), unless terminated earlier as set forth in section 5 hereof, and may not be exercised after the earlier of (i) the Expiration Date and (ii) the earlier termination date established in accordance with section 5 hereof.
+
+  
+
+
+5\. Termination of Service. Except as otherwise set forth herein, with respect to any portion of the Option, the Grantee must remain in continuous Service (including to any successors to the Company or an Affiliate) from the effective date of this Agreement through the relevant vesting date for such portion of the Option as set forth in (or determined in accordance with) Schedule 1 hereof in order for such portion of the Option to vest. Except as otherwise set forth (a) herein, (b) in the Plan in connection with a Change in Control if the Grantee is not a party to a Retention Agreement, (c) in a Retention Agreement to which the Grantee is a party in connection with a Change of Control (as defined in such Retention Agreement), or [for Mr. Hay only] (d) in the Employment Letter (as hereinafter defined), in the event that the Grantee’s Service (including to any successors to the Company or an Affiliate) terminates for any reason prior to vesting of any portion of the Option, the Grantee’s rights hereunder shall be determined as follows:
+
+  
+
+
+(a)
+
+If the Grantee’s termination of Service is due to resignation, discharge or retirement prior to age 65 not meeting the condition set forth in section 5(c) hereof, all rights to exercise the Option (or any portion thereof) which is not then vested shall be immediately forfeited, and all rights to exercise the vested portion of the Option shall expire on [for executive officers with Retention Agreements] the Expiration Date [for other executive officers] the earlier to occur of (i) the Expiration Date and (ii) sixty (60) days after the date of termination of Service.  
+  
+  
+
+
+(b)
+
+If the Grantee’s termination of Service is due to (1) Disability, (2) death or (3) retirement on or after age 65 not meeting the condition set forth in section 5(c) hereof, a pro rata share of the then-unvested portion of the Option (determined as follows: (A) with respect to any unvested portion of the Option which vests on the First Vest Date (as defined in Schedule 1 hereto), the product of (x) the quotient (which shall not exceed 1.0) of (a) the total number of full days of the Grantee’s Service completed from the Grant Date of the Option through termination of Service divided by (b) 365, multiplied by (y) such unvested portion of the Option, and rounded to the nearest share of Stock; (B) with respect to any unvested portion of the Option which vests on the Second Vest Date (as defined in Schedule 1 hereto), the product of (x) the quotient (which shall not exceed 1.0) of (a) the total number of full days of the Grantee’s Service completed from the Grant Date of the Option through termination of Service divided by (b) 730, multiplied by (y) such unvested portion of the Option, and rounded to the nearest share of Stock; and (C) with respect to any unvested portion of the Option which vests on the Third Vest Date (as defined in Schedule 1 hereto), the product of (x) the quotient (which shall not exceed 1.0) of (a) the total number of full days of the Grantee’s Service completed from the Grant Date of the Option through termination of Service divided by (b) 1,095, multiplied by (y) such unvested portion of the Option, and rounded to the nearest share of Stock) shall vest on the date of termination, based upon the number of completed days of service during the vesting period, and the vested portion of the Option shall be exercisable until [for executive officers with Retention Agreements] the Expiration Date [for other executive officers] the earlier to occur of (i) the Expiration Date and (ii) one (1) year after the date of termination of Service. For purposes of this section 5(b), 0.5 of a share of Stock shall be rounded up to the nearest share. The portion of the Option which does not so vest shall be forfeited effective on the date of termination of Service.  
+  
+  
+
+
+(c)
+
+If the Grantee’s termination of Service is due to retirement on or after age 50, and if, but only if, such retirement is evidenced by a writing which specifically acknowledges that this provision shall apply to such retirement and is executed by the Company’s chief executive officer (or, if the Grantee is an executive officer, by a member of the Committee or the chief executive officer at the direction of the Committee, other than with respect to himself), the then-unvested portion of the Option shall vest on the date of termination and the then-unexercised portion of the Option shall be exercisable until [for executive officers with Retention Agreements] the Expiration Date [for other executive officers] the earlier to occur of (i) the Expiration Date and (ii) one (1) year after the date of termination of Service.  
+  
+  
+
+
+(d)
+
+If a Grantee's Service is terminated for any reason other than as set forth in sections 5(a), (b) and (c) hereof, or if an ambiguity exists as to the interpretation of those sections, the Committee shall determine whether the Grantee's then-unvested Option shall be forfeited or whether the Grantee shall be entitled to full vesting or to pro rata vesting based upon completed [days] of Service during the vesting period, and shall also determine the period during which the Grantee may exercise any vested portion of the Option.  
+  
+  
+
+
+[the following applies only to Mr. Hay] Notwithstanding the foregoing, if the Employment Period (as defined in the Retention Agreement) is not then in effect, and the Grantee terminates Service for Good Reason (as defined in the Grantee’s Amended and Restated Employment Letter with the Company (such Amended and Restated Employment Letter, as amended from time to time, the “Employment Letter”) or the Company terminates the Grantee’s Service without Cause (as defined in the Employment Letter), then the Grantee shall continue to vest in any theretofore unvested portion of the Option on the Vesting Schedule until the date which is two (2) years after the date on which the Grantee’s Service is terminated, and the vested portion of the Option may be exercised until the Expiration Date. The portion of the Option which is scheduled to vest after the date which is two (2) years after the date on which the Grantee’s Service is terminated shall be forfeited effective on the date on which the Grantee’s Service is terminated.
+
+  
+
+
+6\. Procedure for Exercise. Subject to this Agreement and the Plan, the Option may be exercised in whole or in part by the transmittal of a written notice to the Company at its principal place of business. Such notice shall specify the number of shares of Stock which the Grantee elects to purchase, shall be signed by the Grantee and shall be accompanied by payment of the Option Price for the shares of Stock which the Grantee elects to purchase. Except as otherwise provided by the Committee before the Option is exercised, such payment may be made in whole or in part (i) in cash or cash equivalents acceptable to the Company in the amount of the Option Price plus applicable tax withholding; (ii) by the tender or attestation to the Company of shares of Stock owned by the Grantee which, if acquired from the Company, have been owned for at least six months and acceptable to the Committee having an aggregate Fair Market Value (valued on the date of exercise) that is equal to the amount of cash that would otherwise be required for payment; or (iii) by authorizing a Company-approved third party to remit to the Company a sufficient portion of the sale proceeds to pay the entire Option Price and any tax withholding from such exercise. The Option shall not be exercisable if and to the extent the Company determines that such exercise would violate any provision of Applicable Laws, including applicable state or federal securities laws or the rules of any Stock Exchange on which the Stock is listed. If any Applicable Laws require the Company to take any action with respect to the shares of Stock specified in the written notice of exercise, or if any action remains to be taken under the Articles of Incorporation or Bylaws of the Company, as in effect at the time, to effect due issuance of such shares, then the Company shall take such action and the day for delivery of such shares shall be extended for the period necessary to take such action. No Grantee shall have any of the rights of a shareholder of the Company under the Option unless and until shares of Stock are fully paid and duly issued upon exercise of the Option.
+
+  
+
+
+7\. Non-Transferability of Stock Options. The Option granted hereunder to the Grantee shall not be assignable or transferable by the Grantee otherwise than by will or the laws of descent and distribution, and such Option shall be exercisable, during the lifetime of the Grantee, only by the Grantee (or, in the event of the Grantee's legal incapacity or incompetency, the Grantee's guardian or legal representative).
+
+  
+
+
+8\. Effect Upon Employment. This Agreement is not to be construed as giving any right to the Grantee for continuous employment by the Company or a Subsidiary or other Affiliate. The Company and its Subsidiaries and other Affiliates retain the right to terminate the Grantee at will and with or without cause at any time (subject to any rights the Grantee may have under the Grantee’s Retention Agreement [for Mr. Hay only] and the Grantee’s Employment Letter).
+
+  
+
+
+9\. Protective Covenants. In consideration of the Option granted under this Agreement, the Grantee covenants and agrees as follows (the “Protective Covenants”):
+
+(a) 
+
+During the Grantee's Service with the Company, and for a two-year period following the termination of the Grantee's Service with the Company, the Grantee agrees not to (i) compete or attempt to compete for, or act as a broker or otherwise participate in, any projects in which the Company has at any time done any work or undertaken any development efforts, or (ii) directly or indirectly solicit any of the Company’s customers, vendors, contractors, agents, or any other parties with which the Company has an existing or prospective business relationship, for the benefit of the Grantee or for the benefit of any third party, nor shall the Grantee accept consideration or negotiate or enter into agreements with such parties for the benefit of the Grantee or any third party.  
+  
+(b) 
+
+During the Grantee's Service with the Company and for a two-year period following the termination of the Grantee's Service with the Company, the Grantee shall not, directly or indirectly, on behalf of the Grantee or for any other business, person or entity, entice, induce or solicit or attempt to entice, induce or solicit any employee of the Company or its Subsidiaries or other Affiliates to leave the Company's employ (or the employ of such Subsidiary or other Affiliate) or to hire or to cause any employee of the Company to become employed for any reason whatsoever.  
+  
+(c) 
+
+The Grantee shall not, at any time or in any way, disparage the Company or its current or former officers, directors, and employees, orally or in writing, or make any statements that may be derogatory or detrimental to the Company’s good name or business reputation.  
+  
+(d) 
+
+The Grantee acknowledges that the Company would not have an adequate remedy at law for monetary damages if the Grantee breaches these Protective Covenants. Therefore, in addition to all remedies to which the Company may be entitled for a breach or threatened breach of these Protective Covenants, including but not limited to monetary damages, the Company shall be entitled to specific enforcement of these Protective Covenants and to injunctive or other equitable relief as a remedy for a breach or threatened breach. In addition, upon any breach of these Protective Covenants or any separate confidentiality agreement or confidentiality provisions between the Company and the Grantee, all the Grantee’s rights to exercise the Option as to theretofore unvested shares under this Agreement shall be forfeited.  
+  
+(e) 
+
+For purposes of this section 9, the term “Company” shall include all Subsidiaries and other Affiliates of the Company (such Subsidiaries and other Affiliates being hereinafter referred to as the “NextEra Entities”). The Company and the Grantee agree that each of the NextEra Entities is an intended third-party beneficiary of this section 9, and further agree that each of the NextEra Entities is entitled to enforce the provisions of this section 9 in accordance with its terms.  
+  
+(f) 
+
+Notwithstanding anything to the contrary contained in this Agreement, the terms of these Protective Covenants shall survive the termination of this Agreement and shall remain in effect.  
+  
+10\. Successorsand Assigns. This Agreement shall inure to the benefit of and shall be binding upon the Company and the Grantee and their respective heirs, successors and assigns.
+
+11\. Adjustments. If the number of outstanding shares of Stock is increased or decreased or the shares of Stock are changed into or exchanged for a different number of shares or kind of capital stock or other securities of the Company on account of any recapitalization, reclassification, stock split, reverse stock split, spin-off, combination of stock, exchange of stock, stock dividend or other distribution payable in capital stock, or other increase or decrease in shares of Stock effected without receipt of consideration by the Company, then the number of shares granted under this Option and the Option Price shall be adjusted proportionately. No adjustment shall be made in connection with the payment by the Company of any cash dividend on its Stock or in connection with the issuance by the Company of any warrants, rights, or options to acquire additional shares of Stock or of securities convertible into Stock.
+
+  
+
+
+12\. Governing Law/Jurisdiction/Waiver of Jury Trial. This Agreement shall be construed and interpreted in accordance with the laws of the State of Florida, without regard to its conflict of laws principles. All suits, actions, and proceedings relating to this Agreement or the Plan shall be brought only in the courts of the State of Florida located in Palm Beach County or in the United States District Court for the Southern District of Florida in West Palm Beach, Florida. The Company and the Grantee hereby consent to the personal jurisdiction of the courts described in this section 12 for the purpose of all suits, actions, and proceedings relating to the Agreement or the Plan. The Company and the Grantee each waive all objections to venue and to all claims that a court chosen in accordance with this section 12 is improper based on a venue or a forum non conveniens claim.
+
+  
+
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE PARTIES HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT WHICH ANY PARTY MAY HAVE TO TRIAL BY JURY IN RESPECT OF ANY PROCEEDING, LITIGATION OR COUNTERCLAIM BASED ON, OR ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT.
+
+  
+
+
+13\. Incorporation of Plan's Terms; Other Governing Provisions. This Agreement is made under and subject to the provisions of the Plan, and all the provisions of the Plan are also provisions of this Agreement, provided, however, (a) if there is a difference or conflict between the provisions of this Agreement and the mandatory provisions of the Plan, such mandatory provisions of the Plan shall govern, (b) if there is a difference or conflict between the provisions of this Agreement and the non-mandatory provisions of the Plan, the provisions of this Agreement shall govern, and (c) if there is a difference or conflict between the provisions of this Agreement and/or a provision of the Plan with a provision of a Retention Agreement or the Employment Letter, as applicable, such provision of such Retention Agreement or the Employment Letter, as the case may be, shall govern. Any Retention Agreement and the Employment Letter, as applicable, each constitute “another agreement with the Grantee” within the meaning of the Plan (including without limitation sections 17.3 and 17.4 thereof). The Company and Committee retain all authority and powers granted by the Plan and not expressly limited by this Agreement. The Grantee acknowledges that he or she may not and shall not rely on any statement of account or other communication or document issued in connection with the Plan other than the Plan, this Agreement, and any document signed by an authorized representative of the Company that is designated as an amendment of the Plan or this Agreement.
+
+  
+
+
+14\. Interpretation. The Committee shall have the authority to interpret and construe all provisions of this Agreement, and any such interpretation or construction, and any other determination contemplated to be made under the Plan or this Agreement, by the Committee shall be final, binding and conclusive, absent manifest error.
+
+  
+
+
+15. Amendment. This Agreement may be amended, in whole or in part and in any manner not inconsistent with the provisions of the Plan, at any time and from time to time, by written agreement between the Company and the Grantee.
+
+  
+
+
+16\. Data Privacy. By entering into this Agreement, the Grantee: (i) authorizes the Company or any of the NextEra Entities, and any agent of the Company or any of the NextEra Entities administering the Plan or providing Plan recordkeeping services, to disclose to the Company or any of the NextEra Entities such information and data as the Company or any such NextEra Entities shall reasonably request in order to facilitate the administration of this Agreement; and (ii) authorizes the Company or any of the NextEra Entities to store and transmit such information in electronic form, provided such information is appropriately safeguarded in accordance with Company policy.
+
+  
+
+
+By signing this Agreement, the Grantee accepts and agrees to all of the foregoing terms and provisions and to all the terms and provisions of the Plan incorporated herein by reference and confirms that the Grantee has received a copy of the Plan.
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed as of the Grant Date set forth in Schedule 1.
+
+  
+
+
+NEXTERA ENERGY, INC.  
+  
+By:  
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+Schedule 1
+
+Non-Qualified Stock Option Agreement  
+  
+Name of Grantee:  
+  
+Grant Date:  
+  
+Number of Shares:
+
+_______ shares of Stock  
+  
+Option Price Per Share:
+
+$______  
+  
+Expiration Date:
+
+________ (subject to earlier termination in accordance with the attached Agreement)  
+  
+Vesting Schedule:
+
+The shares of Stock subject to this Option shall vest according to the following schedule:
+
+______ shares on ______, 20___ (“First Vest Date”),
+
+______ shares on ______, 20___ (“Second Vest Date”) and
+
+______ shares on ______, 20___ (“Third Vest Date”)
+
+subject to the terms and conditions set forth in the Agreement of which this Schedule is a part, including without limitation the terms and conditions related to vesting upon the occurrence of a Change in Control and forfeiture under certain circumstances.  
+  
+The undersigned agrees to the terms and conditions of the Non-Qualified Stock Option Agreement of which this Schedule 1 is a part.  
+  
+  
+
+
+  
+
+
+Date Accepted:
+
+By:  
+  
+  
+
+
+  
+

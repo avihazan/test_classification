@@ -1,0 +1,129 @@
+Exhibit 10.02 Updated Restricted Stock Agreement
+
+  
+
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (the “Agreement”) is made on this ____ day of _________, 20__ between Symmetry Medical Inc., a Delaware corporation (the “Company”), and __________________ (“Grantee”).
+
+WHEREAS, the Grantee is an employee of the Company whose continued employment and high achievement have the ability to impact the Company’s performance; and
+
+WHEREAS, the commitment to grant shares of restricted stock pursuant to the Company’s Amended and Restated 2004 Equity Incentive Plan, as amended from time to time by the Company’s shareholders (the “Plan”) to the Grantee under the terms hereof has been approved by the Company’s Compensation Committee (the “Committee”).
+
+NOW, THEREFORE, pursuant to the Plan, the Company hereby commits to grant to Grantee ________ shares of Common Stock, par value $.0001, (“Common Stock”) of the Company (the grant in whole or in part is collectively referred to herein as the “Restricted Shares”) effective as of the date set forth in Section 2 hereof (the “Date of Grant”), subject to the terms and conditions of the Plan and this Agreement.
+
+1\. 
+
+Definitions. All capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to them in the Plan.  
+  
+  
+
+
+2\. 
+
+Restrictions on Transfer of Shares.  
+  
+  
+
+
+(a) The Restricted Shares may not be sold, assigned, transferred, conveyed, pledged, exchanged or otherwise encumbered or disposed of (each, a “Transfer”) by the Grantee, except to the Company, unless and until they have become nonforfeitable as provided herein. Any purported encumbrance or disposition in violation of the provisions of this Section 2 shall be void AB INITIO, and the recipient of any Restricted Shares transferred in contravention hereof shall not obtain any rights to or interest in the Restricted Shares. Notwithstanding the foregoing, Grantee may not Transfer Restricted Shares which have become nonforfeitable as provided in Sections 3 and 4 hereof unless and until the Restricted Shares are registered pursuant to the Securities Act of 1933 (the “Securities Act”), are sold under Rule 144 promulgated under the Securities Act or unless the Restricted Shares are not required to be registered under the Securities Act or the Transfer of the Restricted Shares is not subject to Rule 144.
+
+  
+
+
+(b) Any Grantee who is also an Executive Officer of the Company, and who is included in the Summary Compensation Table of the Company’s Proxy Statement for the annual meeting of shareholders immediately preceding the Vesting Date, agrees not to Transfer the Restricted Shares for six (6) months following the Vesting Date. Any purported Transfer in violation of the provisions of this Section shall be void AB INITIO, and the recipient of any Restricted Shares transferred in contravention hereof shall not obtain any rights to or interest in the Restricted Shares.
+
+3\. Vesting of Shares.
+
+(a) Subject to Section 4 hereof, the Restricted Shares, if any, granted on the Date of Grant shall vest and become nonforfeitable if the Grantee remains an employee of the Company through January 31, 2013.
+
+(b) Notwithstanding the provisions of Section 4(a) above, in connection with a Change in Control, the provisions set forth in Section 13 of the Plan shall govern with respect to the acceleration of the vesting of the Restricted Shares.
+
+4\. Forfeiture of Shares. If the Grantee ceases to be an employee of the Company due to death or Disability during any period of restriction, any non-vested Restricted Shares shall immediately vest and all restrictions on the Restricted Shares shall lapse and certificate(s) representing such Restricted Shares shall be delivered by the Company reasonably promptly upon a request by the Grantee. If the Grantee ceases to be an employee of the Company for any other reason, any non-vested Restricted Shares shall be forfeited by the Grantee and the certificate(s) representing the non-vested portion of the Restricted Shares so forfeited shall be canceled.
+
+* * *
+
+5\. Dividend, Voting and Other Rights. Except as otherwise provided in this Agreement, from and after the Date of Grant, the Grantee shall have all of the rights of a stockholder with respect to the Restricted Shares, including the right to vote the Restricted Shares and receive any dividends that may be paid thereto, provided, however, that any additional Common Stock or other securities that the Grantee may become entitled to receive as a result of his/her ownership of the Restricted Shares pursuant to a stock dividend, stock split, recapitalization, combination of shares, merger, consolidation, separation or reorganization or any other change in the capital structure of the Company shall be subject to the same risk of forfeiture, certificate delivery provisions and restrictions on transfer as the Restricted Shares in respect of which they are issued or transferred and shall become Restricted Shares for the purposes of this Agreement. Cash dividends declared shall accumulate unpaid and be subject to the same risk of forfeiture, certificate delivery provisions and restrictions on transfer as the forfeitable Restricted Shares as set forth in Sections 4 and 5 until such time as the Restricted Shares vest. Such dividends are not intended to be subject to IRS Code Section 409A and are intended to meet the short term deferral rule. Cash dividends will be paid to Grantee at the date of the Restricted Shares’ vesting pursuant to Sections 3 and 4.
+
+6\. Retention of Stock Certificate(s) by the Company. The certificate(s) representing the Restricted Shares shall be held in custody by the Company or in book format by its transfer agent until such shares have become nonforfeitable in accordance with Sections 3 and 4.
+
+7\. Compliance with Laws. The Company shall make reasonable efforts to comply with all applicable federal and state securities laws, provided, however, notwithstanding any other provision of this Agreement, the Company shall not be obligated to issue or release from restrictions on transfer any Restricted Shares pursuant to this Agreement if such issuance or release would result in a violation of any such law.
+
+8\. Withholding Taxes. If the Company shall be required to withhold any federal, state, local or foreign tax in connection with any issuance or vesting of Restricted Shares pursuant to this Agreement, the Grantee shall provide the Company with full and complete payment for any such obligations or estimated obligations, as calculated by Company in its sole discretion. The Grantee may elect to satisfy all or any part of any such withholding obligation by surrendering to the Company a portion of the Restricted Shares that become nonforfeitable hereunder, and the Restricted Shares so surrendered by the Grantee shall be credited against any such withholding obligation at the average of the Fair Market Value of the Restricted Shares over the five trading days immediately preceding the date they are tendered to the Company to satisfy any withholding obligations. All withholding obligations of the Company’s Grantee Officers shall be satisfied prior to or on the Vesting Date.
+
+  
+
+
+9\. Covenants Not To Compete. In consideration for the Restricted Shares, during Grantee's employment with the Company and for a period of twelve (12) months immediately after the termination of employment, regardless of the reason for that termination, Grantee will not, directly or indirectly, without the prior written consent of the Board of Directors (which consent will not be unreasonably withheld):
+
+(a) 
+
+accept employment with, or perform any services for any Competitor of the Company. For the purposes of this Section 9(a), the term "Competitor" means a company that manufactures orthopedic products that compete in the marketplace with products or services that the Company provides at the time Grantee's employment ends;  
+  
+(b) 
+
+accept employment with or perform any services for any of the Company's customers with whom Grantee had contact within the last twelve (12) months of his employment, if doing so would in any way reduce the level of business the customer does with the Company or otherwise adversely affect the Company's business relationship with the customer;  
+  
+(c) 
+
+accept employment with or perform any services for any Competitor anywhere within the Restricted Geographic Area in the same or similar capacity or function to that in which Grantee worked for the Company or in any other capacity in which Grantee's knowledge of the Company's confidential information or the customer goodwill Grantee helped to develop on behalf of the Company would facilitate or support Grantee's work. For purposes of this Agreement, the term "Restricted Geographic Area" means (i) each and every State of the United States of America in which the Company is manufacturing or selling any of its products or services at the time Grantee's employment ends; and (ii) each and every country in which the Company is manufacturing or selling any of its products and services at the time Grantee's employment ends. However, if the Competitor has separate divisions, business units or segments, some of which are not competitive with the business of the Company, nothing herein shall prohibit Grantee from being employed by or working for only that segment of the business that is not competitive with the business of the Company, provided Grantee's work does not involve any products or services that compete with the Company's products and services;  
+  
+* * *
+
+(d) 
+
+urge, induce or seek to induce any of the Company's customers to reduce or terminate their business with the Company or in any manner interfere with the Company's business relationships with its customers;  
+  
+(e) 
+
+urge, induce or seek to induce any of the Company's customers with whom Grantee had contact during the last twelve (12) months of his employment with the Company, to reduce or terminate their business with the Company or in any manner interfere with the Company's business relationships with its customers;  
+  
+(f) 
+
+acquire or maintain an ownership interest in any Competitor, except passive ownership of up to two percent (2%) of any publicly traded securities;  
+  
+(g) 
+
+either on his own account or for any other person, firm or company solicit, hire, employ or attempt to solicit, hire or employ, or endeavor to cause any employee of the Company to leave his employment, or to induce or attempt to induce any such employee to breach any employment agreement with the Company.  
+  
+(h) 
+
+urge, induce or seek to induce any of the Company's independent contractors, subcontractors, consultants, vendors or suppliers to reduce, terminate or modify in any way their relationship with the Company;  
+  
+(i) 
+
+disparage the Company, its directors, officers, employees, products, facilities or other persons or things associated with the Company or otherwise publish or communicate any information or opinions that would reasonably be considered to be derogatory or critical of the Company, its Directors, officers, employees, products, facilities or other persons or things associated with the Company.  
+  
+  
+
+
+10\. Conformity with Plan. This Agreement and the Restricted Shares granted pursuant hereto are intended to conform in all respects with, and are subject to all applicable provisions of, the Plan (which is incorporated herein by reference). Inconsistencies between this Agreement and the Plan shall be resolved in accordance with the terms of the Plan. By executing this Agreement, Grantee acknowledges and agrees to be bound by all of the terms of this Agreement and the Plan. The Plan is administered by the Committee, and determinations and interpretations of the Committee on all matters relating to the Plan and this Agreement, shall be in compliance with the Plan and shall be conclusive and binding on the Grantee and the Company.
+
+11\. Amendments. The provisions of this Agreement may be amended and waived only with the prior written consent of the Company, Committee and the Grantee.
+
+12\. Severability. In the event that one or more of the provisions of this Agreement shall be invalidated for any reason by a court of competent jurisdiction, any provision so invalidated shall be deemed to be separable from the other provisions hereof, and the remaining provisions hereof shall continue to be valid and fully enforceable.
+
+13\. Successors and Assigns. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the successors, administrators, heirs, legal representatives and assigns of the Grantee and the successors and assigns of the Company.
+
+14\. Notices. Any notice to the Company provided for herein shall be in writing to the attention of the Secretary of the Company at Symmetry Medical Inc., 3724 N. State Road 15, Warsaw, Indiana 46582, and any notice to the Grantee shall be addressed to the Grantee at the address currently on file with the Company. Except as otherwise provided herein, any written notice shall be deemed to be duly given if and when hand delivered, or five business days after having been mailed by United States registered or certified mail, return receipt requested, postage prepaid, or three business days after having been sent by a nationally recognized overnight courier service, addressed as aforesaid. Any party may change the address to which notices are to be given hereunder by written notice to the other party as herein specified, except that notices of changes of address shall be effective only upon receipt.
+
+15\. Governing Law. The laws of the State of Indiana, without giving effect to the principles of conflict of laws thereof, shall govern the interpretation, performance and enforcement of this Agreement. The parties hereby submit to the exclusive venue in and jurisdiction of the state or federal courts located in Ft. Wayne, Indiana over any dispute related to this Agreement.
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first set forth above.
+
+SYMMETRY MEDICAL INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+ACKNOWLEDGED AND AGREED:  
+  
+(Signature of Grantee)  
+  
+* * *

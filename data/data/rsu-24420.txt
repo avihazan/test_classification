@@ -1,0 +1,246 @@
+Exhibit 10.37 
+
+
+
+THIS RESTRICTED STOCK AWARD AGREEMENT (this “Agreement”), is entered into as of this 1st day of October, 2004, by and between WMG Parent Corp., a Delaware corporation (“Parent”), and Alex Zubillaga (the “Executive”). 
+
+R E C I T A L S: 
+
+WHEREAS, Warner Music Group Inc., a Delaware corporation (the “Company”), an indirect majority owned subsidiary of Parent, or one of its direct or indirect subsidiaries, employs the Executive; and 
+
+WHEREAS, the Board of Directors of Parent (the “Board”) has determined to sell to the Executive on the date hereof (the “Effective Date”) the restricted stock provided for herein (the “Restricted Stock Award”), such sale to be subject to the terms and conditions set forth herein. 
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties hereto agree as follows: 
+
+1\. Purchase of Restricted Stock. Subject to the terms and conditions set forth in this Agreement, Parent hereby sells to the Executive, and the Executive hereby purchases from Parent, effective as of the Effective Date (which is the date hereof), 104.9382716 shares of Class A Common Stock of Parent (the “Restricted Shares”) for an aggregate purchase price of $123,722.22. The Board acknowledges to the Executive that such purchase price is the fair market value of the Restricted Shares on the Effective Date (the “Initial Value”), determined without regard to any restrictions applicable thereto other than restrictions which by their terms do not lapse. The Restricted Shares shall vest in accordance with Section 2 and Section 5 hereof. 
+
+* * *
+
+2\. Vesting. 
+
+(a) Service-Based Restricted Stock. Except as otherwise provided in this Agreement, one-third of the Restricted Shares (the “Service-Based Restricted Stock”), shall vest and become non-forfeitable in four equal installments on the day prior to each of the first, second, third and fourth anniversaries of the Effective Date provided that the Executive remains employed with the Company on each such date, such that one hundred percent (100%) of the Service-Based Restricted Stock shall be vested and non-forfeitable on the day prior to the fourth anniversary of the Effective Date; provided that any unvested Service-Based Restricted Stock shall become vested and non-forfeitable upon a termination of the Executive’s employment with the Company (A) due to his death, or (B) by the Company due to his “Disability” (as defined below) or without Cause (as defined below), in each case on or after a “Change in Control” (as defined in Section 2(b)(iii)(6)) or, in the case of a termination by the Company without Cause in anticipation of a Change in Control (a termination described in the foregoing proviso being referred to hereinafter as a “CIC Termination”). “Disability” shall mean that Executive has become physically or mentally incapacitated from performing his duties as an employee, and such incapacity has continued for a period of three (3) consecutive months or more or for shorter periods aggregating three months or more in any twelve-month period. “Cause” shall mean termination of Executive’s employment for malfeasance, misfeasance or nonfeasance in connection with the performance of his duties. 
+
+(b) Performance-Based Restricted Stock. Except as otherwise provided in this Agreement, two-thirds of the Restricted Shares (the “Performance-Based Restricted Stock”) shall contingently vest in equal installments on the day prior to each of the first, second, third and fourth anniversary of the Effective Date provided that the Executive remains employed with the Company on each such date (the “Service Condition”), but shall not be considered to be fully vested until and unless the condition described in Section 2(b)(i) or 2(b)(ii), as applicable, has been satisfied (each such condition, a “Performance Condition”). 
+
+(i) With respect to one-half of the Performance-Based Restricted Stock, the Performance Condition shall be the occurrence of a 2X Restricted Stock Liquidity Event. 
+
+(ii) With respect to the other one-half of the Performance-Based Restricted Stock, the Performance Condition shall be the occurrence of a 3X Restricted Stock Liquidity Event. 
+
+(iii) For purposes of this Section 2(b), and also as and if used elsewhere in this Agreement, the following terms shall have the following meanings: 
+
+(1) “2X Investor Equity Value” shall mean (X) two times the Investment minus (Y) the aggregate amount of cash and “Fair Market Value” (as defined below) of readily marketable securities or other assets (determined at the time of receipt) received by the Investors in respect of the Investor Equity prior to or coincident with the time of determination. 
+
+2 
+
+* * *
+
+(2) “3X Investor Equity Value ” shall mean (X) three times the Investment minus (Y) the aggregate amount of cash and Fair Market Value of readily marketable securities or other assets (determined at the time of receipt) received by the Investors in respect of the Investor Equity prior to or coincident with the time of determination. 
+
+(3) “2X Restricted Stock Liquidity Event” shall mean (A) the first sale in an underwritten offering of Parent’s Class A Common Stock pursuant to a registration statement on Securities and Exchange Commission (“SEC”) Form S-l or otherwise under the Securities Act of 1933, as amended (the “Securities Act”) (an “IPO”), at a per share price which implies an aggregate value of the Investor Equity at the time of the IPO of at least the 2X Investor Equity Value, (B) following an IPO, or any transaction other than an IPO which causes Parent’s Class A Common Stock, or all or substantially all of the securities into which such Class A Common Stock is converted or for which it is exchanged, to be listed for trading on a national securities exchange or quoted on an automated quotation system, the average closing price of Parent’s Class A Common Stock, or such securities into which Class A Common Stock is converted or for which it is exchanged, on the primary exchange on which, or system over which, it is traded over any 20 consecutive trading days is such that the implied aggregate value of the Investor Equity at the end of such 20 consecutive trading days, based on such average price, is at least the 2X Investor Equity Value, determined as of the first of such 20 consecutive trading days, or (C) a Bonus Liquidity Event occurs which results in a combination of cash and readily marketable securities being paid or provided to the Investors having an aggregate value (as determined by the Board in good faith as of the time of receipt) of at least the 2X Investor Equity Value. 
+
+(4) “3X Restricted Stock Liquidity Event” has the same meaning as a 2X Restricted Stock Liquidity Event, except that the term “2X Investor Equity Value” each time it appears in Section 2(b)(iii)(3) above shall be replaced with “3X Investor Equity Value.” 
+
+(5) “Bonus Liquidity Event” shall mean a Change in Control, or other event (e,g., a leveraged recapitalization in which the proceeds are paid out to the Investors as dividends and/or redemptions), in which consideration is paid to Investors in respect of the Investor Equity in the form of cash, readily marketable securities or a combination of both. 
+
+3 
+
+* * *
+
+(6) “Change in Control” shall mean a “Change of Control,” as defined in the certificate of incorporation of Parent, as amended from time to time. 
+
+(7) “Fair Market Value” shall mean the price at which the asset in question would change hands in an arms’ length sale between a willing buyer and a willing seller, with neither being under any compunction to buy or sell and each with full knowledge of all relevant facts, as determined by the Board in good faith; provided that, in determining Fair Market Value of the securities of any member of the Parent Group, the Board shall take into account the free cash flow, revenue and EBITDA and such other methodologies and characteristics as it may determine to be relevant, and shall (A) adjust the Fair Market Value of the securities to take into account the illiquidity of securities which are not publicly traded and (B) make no adjustment on account of any control premium. Notwithstanding the above, the Fair Market Value of any freely tradable security which is of a class listed for trading on an established securities market or established trading system shall be the average of the high and low trading prices of such class of securities, as reported on the primary market or trading system on which such securities are listed on the date Fair Market Value is determined. 
+
+(8) “Investment” shall mean $1.25 billion. 
+
+(9) “Investor Equity” shall mean all equity securities of all members of the Parent Group, including common and preferred stock and warrants, options and other instruments convertible or exercisable into, or redeemable for, common or preferred stock, either (A) purchased or otherwise received by the Investors on or prior to the Effective Date or (B) received by the Investors following the Effective Date, without cost to the Investors, in respect of the equity securities described in the preceding clause (A). 
+
+(10) “Investors” shall mean all of (i) Thomas H. Lee Equity Fund V, L.P., (ii) Thomas H. Lee Parallel Fund V, L.P., (iii) Thomas H. Lee Equity (Cayman) Fund V, L.P., (iv) Putnam Investments Holdings, LLC, (v) Putnam Investments Employees’ Securities Company I LLC, (vi) Putnam Investments Employees’ Securities Company II LLC, (vii) 1997 Thomas H. Lee Nominee Trust, (viii) Thomas H. Lee Investors Limited Partnership, (ix) Bain Capital Partners Integral Investors, LLC, (x) 
+
+4 
+
+* * *
+
+Bain Capita VII Coinvestment Fund, LLC, (xi) BCIP TCV, LLC, (xii) Providence Equity Partners IV, L.P., (xiii) Providence Equity Operating Partners IV, L.P. and (xiv) Lexa Partners LLC, or any affiliate of any of them, in each case which purchases Investor Equity on or prior to the Effective Date. 
+
+(11) “Parent Group” shall mean Parent, the Company and each direct or indirect subsidiary of any of them. 
+
+Notwithstanding anything in this Agreement to the contrary, the Service Condition applicable to each share of Performance-Based Restricted Stock shall be deemed to have been attained upon a CIC Termination. 
+
+(c) The term “Vested Restricted Shares,” as used herein, shall mean (i) each share of Service-Based Restricted Stock on and following the time that the vesting condition set forth in Section 2(a) hereof has been actually or deemed satisfied as to such share, (ii) each share of Performance-Based Restricted Stock on and following the time that both the Service Condition and the Performance Condition have been actually or deemed satisfied as to such share and (iii) each share of Performance-Based Restricted Stock not described in the immediately preceding clause (ii) on an following the day prior to the seventh anniversary of the Effective Date, so long as the Executive remains employed by the Company on such day. Restricted Shares which have not become Vested Restricted Shares jure hereinafter referred to as “Unvested Restricted Shares.” 
+
+3\. Taxes. The Executive shall pay to the Company or Parent promptly upon request, and in any event at the time the Executive recognizes taxable income in respect of the Restricted Stock Award, an amount equal to the taxes the Company or Parent determines it is required to withhold under applicable tax laws with respect to the Restricted Shares. Such payment shall be made in the form of cash. As a condition to the effectiveness of the Restricted Stock Award, the Executive shall make a timely and valid election pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the “Code”) to realize taxable income in respect of the grant of the Restricted Stock Award, in an amount equal to the Initial Value less the purchase price paid for the Restricted Shares. Notwithstanding the above, because the Company and the Executive acknowledge that the purchase price for the Restricted Shares is equal to the Initial Value, so long as the Executive makes a timely and valid Code Section 83(b) election in respect of the Restricted Shares the Company and the Executive agree that no tax is due, and no withholding is necessary, upon or on account of the Executive’s purchase of the Restricted Shares. 
+
+4\. Certificates. Certificates evidencing the Restricted Shares shall be issued by Parent and shall be registered in the Executive’s name on the stock transfer books of Parent promptly after the date hereof, but shall remain in the physical custody of Parent or its designee at all times prior to, in the case of any particular Restricted Shares, the date such Restricted Shares become Vested Restricted Shares. As a condition to the receipt of this Restricted Stock Award, the Executive shall deliver to Parent a stock power, duly endorsed in blank, relating to the Restricted Shares. 
+
+5 
+
+* * *
+
+5\. Effect of Termination of Employment. 
+
+(a) Upon the termination of the Executive’s employment with the Company for any reason, the Restricted Shares shall be subject to the Call Option described in Section 5(b) below. For purposes of this Agreement, such a termination may be (i) by the Company for Cause or on account of the Executive’s Disability, by the Executive without Good Reason or on account of the Executive’s death (a “5(a)(i) Termination”) or (ii) by the Company without Cause (a “5(a)(ii) Termination”). 
+
+(b) Call Option. 
+
+(i) Other than as set forth in the second sentence of Section 5(b)(ix), upon the termination of the Executive’s employment with the Company for any reason (or no reason), Parent shall have the right and option (the “Call Option”), but not the obligation, to purchase, or to cause any member of the Parent Group designated by Parent (the “Call Assignee”) to purchase, from the Executive, on and after the Initial Call Date any or all of the Restricted Shares. The purchase price (the “Call Price”) of the Restricted Shares subject to purchase under this provision (the “Called Shares”) shall be as follows: 
+
+(1) In the event of a 5(a)(i) Termination, (A) as to each Called Share which is an Unvested Restricted Share immediately prior to the Initial Call Date of such share, the lower of the Fair Market Value of such share on the date of the applicable “Call Notice” (as defined below) or the Initial Value of such share, and (B) as to each Called Share which is a Vested Restricted Share immediately prior to the Initial Call Date of such share, the Fair Market Value of such share on the date of the applicable Call Notice. 
+
+(2) In the event of a 5(a)(ii) Termination, as to each Called Share of Service-Based Restricted Stock and Performance-Based Restricted Stock which is a Vested Restricted Share immediately prior to the Initial Call Date of such share, or which becomes a Vested Restricted Share upon termination of employment solely because such termination is a CIC Termination, the Fair Market Value of such share on the date of the applicable Call Notice 
+
+(3) In the event of a 5(a)(ii) Termination, as to each Called Share of Service-Based Restricted Stock and Performance-Based Restricted Stock which is an Unvested Restricted Share immediately prior to the Initial Call Date of such share (other than such a share which becomes a Vested Restricted Share upon termination of employment solely because such termination is a CIC Termination), the lower of the Fair Market Value of such share on the date of the applicable Call Notice or the Initial Value of such share. 
+
+6 
+
+* * *
+
+(ii) The “Initial Call Date” shall mean (A) with respect to each share of Performance-Based Restricted Stock as to which the Service Condition, but not the Performance Condition, has been attained at the time of a 5(a)(ii) Termination, the earlier of (I) the date the Performance Condition is first attained with respect to such share and (II) the six-month anniversary of the 5(a)(ii) Termination, or (B) in all other cases, the date of termination of the Executive’s employment with the Company. 
+
+(iii) For purposes of Section 5(b)(i), in the event that the Executive enters into an employment agreement with Parent or one of its direct or indirect subsidiaries (an “Employment Agreement”), (A) the termination of the Executive’s employment at the end of the term of the Employment Agreement following the failure of the Company to offer the Executive continued employment at a base salary not less than that in effect at the end of such term shall be deemed to be a 5(a)(ii) Termination and (B) the termination of the Executive’s employment at the end of the term of the Employment Agreement following the Company’s offering the Executive continued employment at a base salary not less than that in effect at the end of such term shall be deemed to be a 5(a)(i) Termination. 
+
+(iv) Parent or the Call Assignee, as applicable, may exercise the Call Option by delivering or mailing to the Executive (or to his estate, if applicable), in accordance with Section 16 of this Agreement, written notice of exercise (a “Call Notice”) at any time following the Initial Call Date. The Call Notice shall specify the date thereof, the number of Called Shares and the Call Price. 
+
+(v) Within ten (10) days after his receipt of the Call Notice, the Executive (or his estate) shall tender to Parent or the Call Assignee, as applicable, at its principal office the certificate or certificates representing the Called Shares, duly endorsed in blank by the Executive (or his estate) or with duly endorsed stock powers attached thereto, all in form suitable for the transfer of such shares to Parent or the Call Assignee, as applicable. Upon its receipt of such shares, Parent or the Call Assignee, as applicable, shall pay to the Executive the aggregate Call Price therefore, in cash. 
+
+(vi) Parent or the Call Assignee, as applicable, will be entitled to receive customary representations and warranties from the Executive regarding the sale of the Called Shares pursuant to the exercise of the Call Option as may reasonably requested by Parent or the Call Assignee, as applicable, including but not limited to the representation that the Executive has good and marketable title to the Called Shares to be transferred free and clear of all liens, claims and other encumbrances. 
+
+7 
+
+* * *
+
+(vii) If Parent or the Call Assignee, as applicable, delivers a Call Notice, then from and after the time of delivery of the Call Notice the Executive shall no longer have any rights as a holder of the Called Shares subject thereto (other than the right to receive payment of the Call Price as described above), and such Called Shares shall be deemed purchased in accordance with the applicable provisions hereof and Parent or the Call Assignee, as applicable, shall be deemed to be the owner and holder of such Called Shares. 
+
+(viii) Any Restricted Shares as to which the Call Option is not exercised will remain subject to all terms and conditions of this Agreement, including the continuation of Parent’s or the Call Assignee’s, as applicable, right to exercise the Call Option. 
+
+(ix) This Section 5(b) is in addition to, and not in lieu of, any rights and obligations of the Executive and Parent in respect of the Restricted Shares contained in the “Stockholders’ Agreement” (as defined below). Notwithstanding the above, this Section 5(b) shall be ineffective as to each Vested Restricted Share on and following the later of (I) an IPO or any other event which causes the Class A Common Stock, or other securities for which all or substantially all of the Class A Common Stock may have been exchanged, to be or become listed for trading on or over an established securities market or established trading system and (II) the date on which such share becomes a Vested Restricted Share. 
+
+6\. Rights as a Stockholder; Dividends. 
+
+(a) The Executive shall be the record owner of the Restricted Shares unless and until such shares are sold or otherwise disposed of, and as record owner shall be entitled to all rights of a common stockholder of Parent, including, without limitation, voting rights, if any, with respect to the Restricted Shares; provided that (i) any cash or in-kind dividends paid with respect to Restricted Shares which are not Vested Restricted Shares shall be withheld by Parent and shall be paid to the Executive, without interest, only when, and if, such Restricted Shares shall become Vested Restricted Shares (provided, however, that in the event of a rights offering in which the Restricted Shares are entitled to participate, the Executive shall be entitled to subscribe for and purchase any securities made available in such rights offering with respect to all Restricted Shares, whether or not such Restricted Shares are Vested Restricted Shares), and (ii) the Restricted Shares shall be subject to the limitations on transfer and encumbrance set forth in this Agreement and the stockholders’ agreement executed and entered into by and between Parent, the Investors and the other parties thereto prior to the Effective Date (such stockholders’ agreement, as it may be amended, superceded or replaced from time to time, the “Stockholders’ Agreement”). A copy of the Stockholders’ Agreement, as in effect on the date hereof, is annexed hereto as Exhibit A. 
+
+8 
+
+* * *
+
+As soon as practicable following the vesting of any Restricted Shares, certificates for such Vested Restricted Shares shall be delivered to the Executive or to the Executive’s legal representative along with the stock powers relating thereto. 
+
+(b) At or promptly following an IPO or any other transaction which makes Parent eligible to use SEC Form S-8, Parent shall register all of the Restricted Shares (whether or not vested) on Form S-8 or an equivalent registration statement (including, at Parent’s option, on the Form S-1 filed in connection with an IPO), and use reasonable commercial efforts to keep such registration effective so long as the Executive continues to hold any of the Restricted Shares. 
+
+7\. Restrictive Legend. All certificates representing Restricted Shares shall have affixed thereto a legend in substantially the following form, in addition to any other legends that may be required under federal or state securities laws, unless and to the extent determined inapplicable or unnecessary by Parent: 
+
+THE SHARES OF STOCK REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO RESTRICTIONS ON TRANSFER AND AN OPTION TO PURCHASE SET FORTH IN A CERTAIN RESTRICTED STOCK AWARD AGREEMENT BETWEEN WMG PARENT CORP. AND THE REGISTERED OWNER OF THIS CERTIFICATE (OR HIS PREDECESSOR IN INTEREST) AND A STOCKHOLDERS’ AGREEMENT TO WHICH WMG PARENT CORP. AND THE REGISTERED OWNER OF THIS CERTIFICATE (OR HIS PREDECESSOR IN INTEREST) ARE PARTIES, WHICH AGREEMENTS ARE BINDING UPON ANY AND ALL OWNERS OF ANY INTEREST IN SAID SHARES. SAID AGREEMENTS ARE AVAILABLE FOR INSPECTION WITHOUT CHARGE AT THE PRINCIPAL OFFICE OF WMG PARENT CORP. AND COPIES THEREOF WILL BE FURNISHED WITHOUT CHARGE TO ANY OWNER OF SAID SHARES UPON REQUEST. 
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR APPLICABLE STATE SECURITIES LAWS. THESE SECURITIES HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO DISTRIBUTION OR RESALE, AND MAY NOT BE SOLD, MORTGAGED, PLEDGED, HYPOTHECATED OR OTHERWISE TRANSFERRED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT FOR SUCH SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED AND ANY APPLICABLE STATE SECURITIES LAWS, UNLESS WMG PARENT CORP. HAS RECEIVED AN OPINION OF COUNSEL, WHICH OPINION IS REASONABLY SATISFACTORY TO IT, TO THE EFFECT THAT SUCH REGISTRATIONS ARE NOT REQUIRED. 
+
+9 
+
+* * *
+
+8\. Transferability. 
+
+(a) The Restricted Shares may not, at any time prior to becoming Vested Restricted Shares, be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Executive and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Parent; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance; and provided further that the foregoing restriction shall not apply to a sale of Restricted Shares in compliance with the obligations, if any, of the holder thereof to sell such shares pursuant to the “drag along” provisions of the Stockholders’ Agreement. 
+
+(b) Prior to an IPO, neither the Executive nor any transferee of the Executive (including any beneficiary, executor or administrator) shall assign, alienate, pledge, attach, sell or otherwise transfer or encumber the Restricted Shares upon or subsequent to their vesting, except in accordance with the applicable provisions of this Agreement and the Stockholders’ Agreement; provided, that, subject to the provisions of the Stockholders’ Agreement, Vested Restricted Shares may be transferred (i) by will or the laws of descent, or (ii) with the Board’s approval (which maybe granted or withheld at its sole discretion), by the Executive without consideration to (A) any person who is a “family member” of the Executive, as such term is used in the instructions to SEC Form S-8 (collectively, the “Immediate Family Members”); (B) a trust solely for the benefit of the Executive and/or Immediate Family Members; or (C) any other transferee as may be approved by the Board in its sole discretion (collectively, the “Permitted Transferees”); provided, that, the Executive gives the Board advance written notice describing the terms and conditions of the proposed transfer and the Board notifies the Executive in writing that such a transfer is in compliance with the terms of this Agreement: provided, further, that, the restrictions upon any Vested Restricted Shares transferred in accordance with this Section 8(b) shall apply to the Permitted Transferee, such transfer shall be subject to the acceptance by the Permitted Transferee of the terms and conditions hereof and of the Stockholders’ Agreement, and any reference in this Agreement or the Stockholders’ Agreement to the Executive shall be deemed to refer to the Permitted Transferee, except that (a) prior to an IPO, Permitted Transferees shall not be entitled to transfer any Vested Restricted Shares other than by will or the laws of descent and distribution or, with the Board’s approval (which may be granted or withheld at its sole discretion), to a trust solely for the benefit of the Permitted Transferee, and (b) the consequences of the termination of the Executive’s employment with the Company under the terms of this Agreement shall continue to be applied with respect to the Permitted Transferee to the extent specified in this Agreement. 
+
+9\. Securities Laws. The Executive represents, warrants and covenants as follows: 
+
+(a) The Executive is acquiring the Restricted Shares for his own account and not with a view to, or for sale in connection with, any distribution of the Restricted Shares in violation of the Securities Act or any rule or regulation under the Securities Act or in violation of any applicable state securities law. 
+
+10 
+
+* * *
+
+(b) The Executive has had such opportunity as he has deemed adequate to obtain from representatives of Parent such information as is necessary to permit him to evaluate the merits and risks of his investment in the Parent. 
+
+(c) The Executive has sufficient experience in business, financial and investment matters to be able to evaluate the risks involved in acquiring of the Restricted Shares and to make an informed investment decision with respect to such investment. 
+
+(d) The Executive can afford the complete loss of the value of the Restricted Shares and is able to bear the economic risk of holding such shares for an indefinite period. 
+
+(e) The Executive understands that (i) the Restricted Shares have not been registered under the Securities Act and are “restricted securities” within the meaning of Rule 144 under the Securities Act; (ii) the Restricted Shares cannot be sold, transferred or otherwise disposed of unless they are subsequently registered under the Securities Act or an exemption from registration is then available; (iii) in any event, the exemption from registration under Rule 144 will not be available for at least one (1) year and even then will not be available unless a public market then exists for such shares, adequate information concerning Parent is then available to the public, and other terms and conditions of Rule 144 are complied with and (iv) there is now no registration statement on file with the SEC with respect to the Restricted Shares and, except as set forth in Section 6(b) hereof or in the Stockholders’ Agreement, there is no commitment on the part of Parent to make any such filing. 
+
+(f) In addition, upon any Restricted Shares becoming Vested Restricted Shares, the Executive will make or enter into such other written representations, the warranties and agreements as the Board may reasonably determine are legally required in order to comply with applicable securities laws. 
+
+10\. Adjustments for Stock Splits, Stock Dividends, etc. 
+
+(a) If from time to time during the term of this Agreement there is any stock split-up, stock dividend, stock distribution or other reclassification of Parent’s Class A Common Stock, any and all new, substituted or additional securities to which the Executive is entitled by reason of his ownership of the Restricted Shares shall be immediately subject to the terms of this Agreement. 
+
+(b) If the Parent’s Class A Common Stock is converted into or exchanged for, or stockholders of Parent receive by reason of any distribution in total or partial liquidation, securities of another corporation, or other property (including cash), pursuant to any merger of Parent or acquisition of its assets, then the rights of Parent under this Agreement shall inure to the benefit of Parent’s successor and this Agreement shall apply to the securities or other property received upon such conversion, exchange or distribution in the same manner and to the same extent as the Restricted Shares. 
+
+11 
+
+* * *
+
+11\. Confidentiality of the Agreement. The Executive agrees to keep confidential the terms of this Agreement. This provision does not prohibit the Executive from providing this information on a confidential and privileged basis to the Executive’s attorneys or accountants for purposes of obtaining legal or tax advice or as otherwise required by law, regulation or stock exchange rule. 
+
+12\. Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of the Agreement shall be severable and enforceable to the extent permitted by law. 
+
+13\. Waiver. Any right of Parent contained in the Agreement may be waived in writing by the Board. No waiver of any right hereunder by any party shall operate as a waiver of any other right, or as a waiver of the same right with respect to any subsequent occasion for its exercise, or as a waiver of any right to damages. No waiver by any party of any breach of this Agreement shall be held to constitute a waiver of any other breach or a waiver of the continuation of the same breach. 
+
+14\. No Rights to Employment. Nothing contained in this Agreement shall be construed as giving the Executive any right to be retained, in any position, as an employee, consultant or director of the Company or its affiliates or shall interfere with or restrict in any way the right of the Company or its affiliates, which are hereby expressly reserved, to remove, terminate or discharge the Executive at any time for any reason whatsoever. 
+
+15\. Entire Agreement. This Agreement contains the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersedes all prior communications, representations and negotiations in respect thereto. No change, modification or waiver of any provision of this Agreement shall be valid unless the same be in writing and signed by the parties hereto. 
+
+16\. Notices. Any notice, consent, request or other communication made or given in accordance with this Agreement shall be in writing and shall be deemed to have been duly given when actually received or, if mailed, three days after mailing by registered or certified mail, return receipt requested, or one business day after mailing by a nationally recognized express mail delivery service with instructions for next-day delivery, to those persons listed below at their following respective addresses or at such other address or person’s attention as each may specify by notice to the others: 
+
+To Parent: 
+
+WMG Parent Corp. 
+
+75 Rockefeller Plaza 
+
+New York, New York 10019 
+
+Attention: General Counsel 
+
+12 
+
+* * *
+
+with a copy to: 
+
+Paul, Weiss, Rifkind, Wharton & Garrison LLP 
+
+1285 Avenue of the Americas 
+
+New York, New York 10019 
+
+Attention: Michael J. Segal, Esq. 
+
+To the Executive: 
+
+The most recent address for the Executive in the records of Parent or the Company. The Executive hereby agrees to promptly provide Parent and the Company with written notice of any change in the Executive’s address for so long as this Agreement remains in effect. 
+
+17\. Beneficiary. The Executive may file with the Board a written designation of a beneficiary on such form as may be prescribed by the Board and may, from time to time, amend or revoke such designation. If no designated beneficiary survives the Executive, the executor or administrator of the Executive’s estate shall be deemed to be the Executive’s beneficiary. The Executive’s beneficiary shall succeed to the rights and obligations of the Executive hereunder upon the Executive’s death, except as maybe otherwise described herein. 
+
+18\. Successors. The terms of this Agreement shall be binding upon and inure to the benefit of Parent, its successors and assigns, and of the Executive and the beneficiaries, executors, administrators, heirs and successors of the Executive. 
+
+19\. Modifications. No change, modification or waiver of any provision of this Agreement shall be valid unless the same be in writing and signed by the parties hereto. 
+
+20\. Restricted Stock Award Subject to the Stockholders’ Agreement. By entering into this Agreement the Executive agrees and acknowledges that the Executive has received and read the Stockholders’ Agreement. The Stockholders’ Agreement as it may be amended from time to time is hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and any terms or provisions of the Stockholders’ Agreement, the applicable terms and provisions of the Stockholders’ Agreement will govern and prevail except with respect to Section 5(b) hereof. Notwithstanding the above, Section 4.1 of the Stockholders’ Agreement (“Tag-Along”) shall not apply to Unvested Restricted Shares. 
+
+21\. GOVERNING LAW; CONSENT TO JURISDICTION. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO AGREEMENTS MADE AND TO BE WHOLLY PERFORMED WITHIN THAT STATE. ANY ACTION TO ENFORCE THIS AGREEMENT MUST BE BROUGHT IN A COURT SITUATED IN, AND THE PARTIES HEREBY CONSENT TO THE JURISDICTION OF, COURTS SITUATED IN NEW YORK COUNTY, NEW YORK. EACH PARTY HEREBY WAIVES THE RIGHTS TO CLAIM THAT ANY SUCH COURT IS AN INCONVENIENT FORUM FOR THE RESOLUTION OF ANY SUCH ACTION. 
+
+13 
+
+* * *
+
+22\. JURY TRIAL WAIVER. THE PARTIES EXPRESSLY AND KNOWINGLY WAIVE ANY RIGHT TO A JURY TRIAL IN THE EVENT ANY ACTION ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT IS LITIGATED OR HEARD IN ANY COURT. 
+
+23\. Interpretation. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement. The term “Company” as used herein with reference to the employment of the Executive or the termination thereof shall refer to the Company and each member of the “Parent Group” (as defined in Section 2(b)(11). 
+
+24\. Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. The parties hereto confirm that any facsimile copy of another party’s executed counterpart of this Agreement (or its signature page thereof) will be deemed to be an executed original thereof. 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first set forth above.   
+  
+WMG PARENT CORP.  
+  
+/s/ David H. Johnson  
+  
+By: David H. Johnson  
+Title: Executive Vice President & General Counsel  
+  
+/s/ Alex Zubillaga  
+  
+Alex Zubillaga  
+  
+14 

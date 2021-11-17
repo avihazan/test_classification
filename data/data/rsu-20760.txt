@@ -1,0 +1,116 @@
+Exhibit 10.31 
+
+THE HANOVER INSURANCE GROUP, INC. 
+
+2006 LONG-TERM INCENTIVE PLAN 
+
+
+
+This Restricted Stock Unit Agreement (the “Agreement”) is effective as of  (the “Grant Date”) by and between The Hanover Insurance Group, Inc., a Delaware corporation (the “Company”), and  (the “Participant” or “you”). Capitalized terms used without definition herein shall have the meanings set forth in The Hanover Insurance Group, Inc. 2006 Long-Term Incentive Plan (the “Plan”). 
+
+P R E A M B L E 
+
+WHEREAS, pursuant to the Plan and subject to the terms of this Agreement, the Administrator has agreed to grant to the Participant an Award of restricted stock units (the “RSUs”). 
+
+NOW, THEREFORE, for and in consideration of the foregoing and the mutual covenants and promises hereinafter set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+1. RSUs. The Administrator hereby grants to the Participant  RSUs, each representing the right to receive one share of Stock upon and subject to the restrictions, terms and conditions set forth below. The Stock issued upon vesting of the RSUs, if any, shall be referred to hereinafter as the “Shares”.   
+  
+2. Vesting. One-half (50%) of the RSUs shall vest on the third anniversary of the Grant Date (the “Three-Year Vesting Date”) and the remaining one half (50%) of the RSUs shall vest on the fourth anniversary of the Grant Date (the “Four-Year Vesting Date”, together with the Three-Year Vesting Date, the “Vesting Date”); provided Participant is continuously an Employee of the Company or one of its subsidiaries or affiliates (the Company and its subsidiaries and affiliates hereinafter referred to as “THG”) throughout the period from the Grant Date until the applicable Vesting Date.   
+  
+As soon as reasonably practicable following vesting of the RSUs, but in no event later than 60 days following vesting, the Company shall make delivery of the Shares. In the event the applicable Time-Based Vesting Date falls on a non-business day (weekend or holiday on which banks are not generally open in the Commonwealth of Massachusetts), the Vesting Date shall be the next following business day. 
+
+3. Termination. Except as provided in Sections 4, 5 and 6, upon the termination of Participant's Employment with THG for whatever reason, whether with or without Cause, for good reason or otherwise, any non-vested RSUs shall be automatically cancelled and forfeited and be returned to the Company for no consideration.   
+  
+4. Disability. Subject to the remainder of this Section 4, if the Participant is placed in a long term disability status (as such term is defined in the Company’s Long-Term Disability Program, as in effect at such time)(“LTD Status”), and provided Participant remains in LTD Status through such date, the RSUs shall continue to vest in accordance with this Agreement until the first anniversary of the date Participant was placed in LTD Status (the “LTD Extension Period”). At the expiration of the LTD Extension Period (i) a pro-rated portion of the RSUs shall automatically vest, and (ii) the remaining unvested RSUs shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of this subsection, the pro-ration of the RSUs that vest on the expiration of the LTD Extension Period, shall be determined by dividing the number of days since the Grant Date by 1,461 and applying this percentage to the RSUs. In the event the Participant had already vested in 50% of such RSUs on the Three-Year Vesting Date, the number of RSUs that Participant shall receive on the expiration of the LTD Extension Period shall be determined by calculating the pro-rata number of RSUs that Participant is otherwise entitled to, determined as set forth above, and deducting from this amount the number of RSUs that had already vested on the Three-Year Vesting Date. Any fractional units shall be rounded up such that only whole shares are issued.   
+  
+* * *
+
+If, prior to the expiration of the LTD Extension Period, Participant is removed from LTD Status and immediately thereafter returns to active Employment with THG, Participant shall be treated (for the purposes of this Agreement) as if he/she were never placed in LTD Status and remained an active Employee of THG, shall be given credit toward vesting for the period Participant was in LTD Status and this Agreement shall remain in full force and effect in accordance with its terms. 
+
+5. Death. If Participant dies (i) a pro-rated portion of the RSUs shall automatically vest, and (ii) the remaining unvested RSUs shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of this subsection, the pro-ration of the RSUs that vest upon Participant’s death shall be determined by dividing the number of days that the Participant was an active Employee since the Grant Date by 1,461 and applying this percentage to the RSUs. In the event the Participant had already vested in 50% of such RSUs on the Three-Year Vesting Date, the number of RSUs that Participant shall receive upon death shall be determined by calculating the pro-rata number of RSUs that Participant is otherwise entitled to, determined as set forth above, and deducting from this amount the number of RSUs that had already vested on the Three-Year Vesting Date. Any fractional units shall be rounded up such that only whole shares are issued.   
+  
+6. Covered Transaction/Change in Control. In the event of a Covered Transaction (other than a Change in Control, whether or not it is a Covered Transaction), the RSUs shall be fully governed by the applicable provisions of Section 7(a) of the Plan. Notwithstanding the terms of the Plan, in the event of a Change in Control (whether or not it is a Covered Transaction), the following rules shall apply:   
+  
+(a) Except as provided below in Section 6(b), in the event of a Change in Control the Participant shall automatically vest in 100% of the RSUs. 
+
+(b) Notwithstanding Section 6(a), no acceleration of vesting shall occur with respect to the RSUs if the Administrator reasonably determines in good faith prior to the occurrence of a Change in Control that this Award of RSUs shall be honored or assumed, or new rights substituted therefor (such honored, assumed or substituted award hereinafter called an “Alternative Award”), by Participant's employer (or the parent or a subsidiary of such employer) immediately following the Change in Control, provided that any such Alternative Award must: 
+
+(i) be based on stock which is traded, or will be traded upon consummation of the Change in Control, on an established securities market; 
+
+(ii) provide such Participant (or each Participant in a class of Participants) with rights and entitlements substantially equivalent to or better than the rights, terms and conditions applicable under this Award, including, but not limited to, an identical or better vesting schedule; 
+
+(iii) have substantially equivalent economic value to this Award (determined at the time of the Change in Control); and 
+
+(iv) have terms and conditions which provide that in the event that the Participant's employment is involuntarily terminated (other than for Cause) or Participant terminates employment for “Good Reason” (as defined below) prior to the second anniversary of the Change in Control, the Participant shall automatically vest in 100% of the Alternative Award and any conditions on a Participant's rights under, or any restrictions on transfer or exercisability applicable to, the vested portion of such Alternative Award shall be waived or shall lapse. 
+
+-2- 
+
+* * *
+
+For this purpose, “Good Reason” shall mean the occurrence of one or more of the events listed below following a Change in Control: 
+
+(x) to the extent you are “Participant” (as that term is defined in the CIC Plan) in the Company’s Amended and Restated Employment Continuity Plan or its successor plan (the “CIC Plan”), the occurrence of any of the events enumerated under the definition of “Good Reason” applicable to Participant’s “Tier” level as set forth in the CIC Plan; or 
+
+(y) if you are not a “Participant” in the CIC Plan, the occurrence of any of the following (A) a reduction in your rate of annual base salary as in effect immediately prior to such Change in Control; (B) a reduction in your annual short-term incentive compensation plan target award (but excluding the conversion of any cash incentive arrangement into an equity incentive arrangement of commensurate value or vice versa) from that which was in effect immediately prior to such Change in Control; or (C) any requirement that you relocate to an office more than 35 miles from the facility where you were located immediately prior to the Change in Control. 
+
+(c) In the event a Participant believes that a “Good Reason” event has been triggered, the Participant must give the Company written notice within 30 days of the occurrence of such triggering event and a proposed termination date which shall be not sooner than 60 days nor later than 90 days after the date of such notice. Such notice shall specify the Participant’s basis for determining that “Good Reason” has been triggered. The Company shall have the right to cure a purported “Good Reason” within 30 days of receipt of said notice 
+
+(d) Notwithstanding Sections 6(a) and (b) above, the Administrator may elect, in its sole discretion, exercised prior to the effective date of the Change in Control, to accelerate all, or a greater percentage of the RSUs, than is otherwise required pursuant to the terms of this Section 6. 
+
+(e) Upon vesting under Section 6(a) or upon a termination as provided herein, any remaining unvested RSUs, if any, shall be automatically cancelled and forfeited and returned to the Company for no consideration. 
+
+7. Notices. Notices hereunder shall be in writing and, if to the Company, shall be delivered personally to the Human Resources Department or such other party as designated by the Company or mailed to its principal office and, if to the Participant, shall be delivered personally or mailed to the Participant at his or her address on the records of the Company.   
+  
+8. Dividend and Voting Rights. The Participant will not be entitled to any dividends (or dividend equivalency rights) upon the RSUs or have any voting rights until and to the extent the RSUs vest and are exchanged for Shares.   
+  
+9. Non-Hire/Solicitation/Confidentiality. As a condition of Participant’s eligibility to receive the RSUs and regardless of whether such RSUs vest, Participant agrees that he or she will (i) not, directly or indirectly, during the term of your employment with THG, and for a period of one year thereafter, hire, solicit, entice away or in any way interfere with THG’s relationship with, any of its officers or employees, or in any way attempt to do so or participate with, assist or encourage a third party to do so, and (ii) neither disclose any of THG’s confidential and proprietary information to any third party, nor use such information for any purpose other than for the benefit of THG and in accordance with THG policy. The terms of this Section 9 shall survive the expiration or earlier termination of this Agreement.  
+  
+10. Damages/Specific Performance.   
+  
+(a) The Participant hereby acknowledges and agrees that in the event of any breach of Section 9 of this Agreement, the Company would be irreparably harmed and could not be made whole by 
+
+-3- 
+
+* * *
+
+monetary damages. The Participant accordingly agrees to waive the defense in any action for injunctive relief or specific performance that a remedy at law would be adequate and that the Company, in addition to any other remedy to which it may be entitled at law or in equity, shall be entitled to an injunction or to compel specific performance of Section 9. 
+
+(b) In addition to any other remedy to which the Company may be entitled at law or in equity (including the remedy provided in the preceding paragraph), the Participant hereby acknowledges and agrees that in the event of any breach of Section 9 of this Agreement, Participant shall be required to refund to the Company the value received by Participant upon vesting of the RSUs; provided, however, that the Company makes any such claim, in writing, against Participant alleging a violation of Section 9 not later than two years following your termination of employment with the Company. 
+
+11. Successors. The provisions of this Agreement will benefit and will be binding upon the permitted assigns, successors in interest, personal representatives, estates, heirs and legatees of each of the parties hereto. However, the RSUs are non-assignable, except as may be permitted by the Plan.   
+  
+12. Interpretation. The terms of the RSUs are as set forth in this Agreement and in the Plan. The Plan is incorporated into this Agreement by reference, which means that this Agreement is limited by and subject to the express terms and provisions of the Plan. In the event of a conflict between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall control.   
+  
+13. Governing Law. This Agreement shall be construed and applied (except as to matters governed by the Delaware General Corporation Law, as to which Delaware law shall apply) in accordance with the laws of the Commonwealth of Massachusetts.   
+  
+14. Facsimile and Electronic Signature. The parties may execute this Agreement by means of a facsimile or electronic signature.   
+  
+15. Entire Agreement; Counterparts. This Agreement and the Plan contains the entire understanding between the parties concerning the subject contained in this Agreement. Except for the Agreement and the Plan, there are no representations, agreements, arrangements, or understandings, oral or written, between or among the parties hereto, relating to the subject matter of this Agreement, that are not fully expressed herein. This Agreement may be signed in one or more counterparts, all of which shall be considered one and the same agreement.   
+  
+16. Further Assurances. Each party to this Agreement agrees to perform all further acts and to execute and deliver all further documents as may be reasonably necessary to carry out the intent of this Agreement.   
+  
+17. Severability. In the event that any of the provisions, or portions thereof, of this Agreement are held to be unenforceable or invalid by any court of competent jurisdiction, the validity and enforceability of the remaining provisions, or portions thereof, will not be affected, and such unenforceable provisions shall be automatically replaced by a provision as similar in terms as may be valid and enforceable.   
+  
+18. Construction. Whenever used in this Agreement, the singular number will include the plural, and the plural number will include the singular, and the masculine or neuter gender shall include the masculine, feminine, or neuter gender. The headings of the Sections of this Agreement have been inserted for purposes of convenience and shall not be used for interpretive purposes. The Administrator shall have full discretion to interpret and administer this Agreement. Any actions or decisions by the Administrator in connection with this Agreement shall be conclusive and binding upon the Participant.   
+  
+19. No Effect on Employment. Nothing contained in this Agreement shall be construed to limit or restrict the right of THG to terminate the Participant’s employment at any time, with or without cause, or to increase or decrease the Participant’s compensation from the rate of compensation in existence at the time this Agreement is executed.   
+  
+-4- 
+
+* * *
+
+20. Taxes. If at the time the RSUs vest the Company determines that under applicable law and regulations it could be liable for the withholding of any federal, state or local tax, Participant shall remit to the Company any amounts determined by the Company to be required to be withheld or the Company may, at its option, withhold from such units, or the Shares which such units represent, a sufficient number of units/Shares to satisfy the minimum federal, state and local tax withholding due, if any, and remit the balance of the units/Shares to the Participant.   
+  
+The Company makes no representations to Participant with respect to the tax treatment of any amount paid or payable pursuant to this Award. While this Award is intended to be interpreted and operated to the extent possible so that any such amounts shall be exempt from the requirements of Section 409A of the Internal Revenue Code (“Section 409A”), in no event shall the Company be liable to Participant for or with respect to any taxes, penalties and/or interest which may be imposed upon any such amounts pursuant to Section 409A or any other federal or state tax law. To the extent that any such amount should be subject to Section 409A (or any other federal or state tax law), the Participant shall bear the entire risk of any such taxes, penalties and or interest. 
+
+IN WITNESS WHEREOF, the parties hereto have entered into this Agreement as of the Grant Date.   
+  
+THE HANOVER INSURANCE GROUP, INC.  
+By:  
+  
+Name: Bryan D. Allen
+
+Title: Vice President & Chief Human Resources Officer  
+  
+-5- 

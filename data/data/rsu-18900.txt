@@ -1,0 +1,167 @@
+Exhibit 10.24
+
+
+
+under the
+
+Hexcel Corporation 2003 Incentive Stock Plan
+
+This Restricted Stock Unit Agreement (the “Agreement”), is entered into as of the Grant Date, by and between Hexcel Corporation, a Delaware corporation (the “Company”), and the Grantee.
+
+Pursuant to the Hexcel Corporation 2003 Incentive Stock Plan (the “Plan”), the Compensation Committee (the “Committee”) of the Board of Directors of the Company (the “Board”) has determined that the Grantee shall be granted Restricted Stock Units (“RSUs”) upon the terms and subject to the conditions hereinafter contained. Capitalized terms used but not defined herein shall have the meanings assigned to them in the Plan.
+
+1\. Notice of Grant; Incorporation of Plan. A Notice of Grant is attached hereto as Annex A and incorporated by reference herein. Unless otherwise provided herein, capitalized terms used in this Agreement and set forth in the Notice of Grant shall have the meanings ascribed to them in the Notice of Grant and capitalized terms used in this Agreement and set forth in the Plan shall have the meanings ascribed to them in the Plan. The Plan is incorporated by reference and made a part of this Agreement, and this Agreement shall be subject to the terms of the Plan, as the Plan may be amended from time to time, provided that any such amendment of the Plan must be made in accordance with Section IX of the Plan. The RSUs granted herein constitute an Award within the meaning of the Plan.
+
+2\. Terms of Restricted Stock Units. The grant of RSUs provided in Section 1 hereof shall be subject to the following terms, conditions and restrictions:
+
+(a) The Grantee shall not possess any incidents of ownership (including, without limitation, dividend and voting rights) in shares of the Common Stock in respect of the RSUs until such RSUs have vested and been distributed to the Grantee in the form of shares of Common Stock.
+
+(b) Except as provided in this Section 2(b), the RSUs and any interest therein may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of, except by will or the laws of descent and distribution, prior to the distribution of the Common Stock in respect of such RSUs and subject to the conditions set forth in the Plan and this Agreement. Any attempt to transfer RSUs in contravention of this Section is void ab initio. RSUs shall not be subject to execution, attachment or other process. Notwithstanding the foregoing, the Grantee shall be permitted to transfer RSUs to members of his or her immediate family (i.e., children, grandchildren or spouse), trusts for the benefit of such family members, and partnerships or other entities whose only partners or equity owners are such family members; provided, however, that no consideration can be paid for the transfer of the RSUs and the transferee of the RSUs musts agree to be subject to all conditions applicable to the RSUs (including all of the terms and conditions of this Agreement) prior to transfer.
+
+* * *
+
+  
+
+
+(c) Forfeiture of RSUs on Certain Conditions.
+
+(i) Notwithstanding anything to the contrary contained in this Agreement, should the Grantee while an employee or after termination of employment fail to comply with the “Protective Condition” (as defined in Section 2(c)(ii)), then the RSUs, to the extent not already converted into shares of Common Stock distributed to the Grantee, shall immediately expire upon the Grantee’s failure to meet such condition.
+
+(ii) “Protective Condition” shall mean that the Grantee (A) complies with all terms and provisions of any obligation of confidentiality to the Company contained in a written agreement signed by the Grantee, and (B) does not engage, in any capacity, directly or indirectly, including but not limited to as employee, agent, consultant, manager, executive, owner or stockholder (except as a passive investor holding less than a 5% equity interest in any enterprise) in any business entity engaged in competition with the business conducted by the Company on the date of the Grantee’s termination of employment with the Company anywhere in the world (except that the Grantee may be employed by a competitor of the Company so long as the Grantee’s duties and responsibilities do not relate directly or indirectly to the business segment of the new employer which is competitive with the business conducted by the Company).
+
+3. Vesting and Conversion of RSUs. Subject to Section 4, the RSUs shall vest and be converted into an equivalent number of shares of Common Stock that will be immediately distributed to the Grantee at the rate of 33-1/3% of the RSUs on each of the first three anniversaries of the Grant Date.
+
+4\.  Termination of Employment; Change of Control.
+
+(a) For purposes of the grant hereunder, any transfer of employment by the Grantee among the Company and its Subsidiaries shall not be considered a termination of employment. Any change in employment that does not constitute a “separation from service” within the meaning of Section 1.409A-1(h) of the Treasury Regulations (or any successor provision) shall not be considered a termination of employment. Any change in employment that does constitute a “separation from service” within the meaning of Section 1.409A-1(h) of the Treasury Regulations (or any successor provision) shall be considered a termination of employment.
+
+(b) If the Grantee dies or terminates employment due to Disability (as defined in the last Section hereof), all RSUs shall immediately vest, be converted into shares of Common Stock and be distributed to the Grantee within 30 days of the date of such termination; provided, however, that if the Grantee is a “specified employee” within the meaning of Section 409A(a)(2)(B)(i) of the Internal Revenue Code of 1986, as amended (the “Code”) as of the date of such termination, all RSUs shall immediately vest but shall not be converted into shares of Common Stock and distributed to the Grantee until the earlier of (i) the date which is six months after the date of the Grantee’s termination of employment and (ii) the date of the Grantee’s death. If the Grantee’s employment with the Company terminates due to the Grantee’s Retirement (as defined in the last Section hereof), all RSUs shall continue to vest (and be converted into an equivalent number of shares of Common Stock that will be distributed to the Grantee) in accordance with Section 3 above. If the Grantee dies during the three year period immediately following the Retirement of the Grantee, then all RSUs shall immediately vest, be converted into 
+
+* * *
+
+  
+
+
+shares of Common Stock and be distributed to the Grantee’s personal representative within 30 days of the date of such death.
+
+(c) Subject to Section 4(d), if the Grantee’s employment terminates for any reason other than death, Disability or Retirement, the Grantee shall forfeit all RSUs.
+
+(d) Notwithstanding any other provision contained herein or in the Plan, in the event of a Change in Control (as defined in the last Section hereof) or of the termination of this Agreement within twelve months of a complete liquidation or dissolution of the Company that is taxed under Section 331 of the Code, all RSUs shall immediately vest, be converted into shares of Common Stock and be distributed to the Grantee within 30 days of the date of such event or (in the event of a complete liquidation or dissolution of the Company) as soon as administratively practicable thereafter.
+
+5\. Equitable Adjustment. The aggregate number of shares of Common Stock subject to the RSUs shall be proportionately adjusted for any increase or decrease in the number of issued shares of Common Stock resulting from a subdivision or consolidation of shares or other capital adjustment, or the payment of a stock dividend or other increase or decrease in such shares, effected without the receipt of consideration by the Company, or other change in corporate or capital structure. The Committee shall also make the foregoing changes and any other changes, including changes in the classes of securities available, to the extent reasonably necessary or desirable to preserve the intended benefits under this Agreement in the event of any other reorganization, recapitalization, merger, consolidation, spin-off, extraordinary dividend or other distribution or similar transaction involving the Company.
+
+6\. Issuance of Shares. Any shares of Common Stock to be issued to the Grantee under this Restricted Stock Unit Agreement may be issued in either certificated form, or in uncertificated form (via the Direct Registration System or otherwise).
+
+7\. Taxes. The Grantee shall pay to the Company or a Subsidiary promptly upon request any taxes the Company reasonably determines it or a Subsidiary is required to withhold under applicable tax laws with respect to the vesting and/or conversion of the RSUs. Such payment shall be made as provided in Section VIII(f) of the Plan.
+
+8 No Guarantee of Employment. Nothing set forth herein or in the Plan shall confer upon the Grantee any right of continued employment for any period by the Company, or shall interfere in any way with the right of the Company to terminate such employment.
+
+9 Section 409A
+
+(a) It is intended that this Agreement comply in all respects with the requirements of Sections 409A(a)(2) through (4) of the Code and applicable Treasury Regulations and other generally applicable guidance issued thereunder (collectively, the “Applicable Regulations”), and this Agreement shall be interpreted for all purposes in accordance with this intent.
+
+(b) Notwithstanding any term or provision of this Agreement (including any term or provision of the Plan incorporated herein by reference), the parties hereto agree 
+
+* * *
+
+  
+
+
+that, from time to time, the Company may, without prior notice to or consent of the Grantee, amend this Agreement to the extent determined by the Company, in the exercise of its discretion in good faith, to be necessary or advisable to prevent the inclusion in the Grantee’s gross income pursuant to the Applicable Regulations of any compensation intended to be deferred hereunder. The Company shall notify the Grantee as soon as reasonably practicable of any such amendment affecting the Grantee.
+
+(c) In the event that the amounts payable under this Agreement are subject to any taxes, penalties or interest under the Applicable Regulations, the Grantee shall be solely liable for the payment of any such taxes, penalties or interest.
+
+(d) Except as otherwise specifically provided herein, the time for distribution of the RSUs as provided in Sections 3, 4(b) and 4(c) shall not be accelerated or delayed for any reason, unless to the extent necessary to comply with or permitted under the Applicable Regulations.
+
+10 Notices. Any notice required or permitted under this Agreement shall be deemed given when delivered personally, or when deposited in a United States Post Office, postage prepaid, addressed, as appropriate, to the Grantee at the last address specified in Grantee’s employment records, or such other address as the Grantee may designate in writing to the Company, or to the Company, Attention: Corporate Secretary, or such other address as the Company may designate in writing to the Grantee.
+
+11 Failure To Enforce Not a Waiver. The failure of either party hereto to enforce at any time any provision of this Agreement shall in no way be construed to be a waiver of such provision or of any other provision hereof.
+
+12 Governing Law. This Agreement shall be governed by and construed according to the laws of the State of Delaware, without regard to the conflicts of laws provisions thereof.
+
+13 Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be an original but all of which together shall represent one and the same agreement.
+
+14 Miscellaneous. This Agreement cannot be changed or terminated orally. This Agreement and the Plan contain the entire agreement between the parties relating to the subject matter hereof. The section headings herein are intended for reference only and shall not affect the interpretation hereof.
+
+15 Definitions. For purposes of this Agreement:
+
+(a) “Affiliate” of any Person shall mean any other Person that directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with, such first Person. The term “Control” shall have the meaning specified in Rule 12b-2 under the Exchange Act;
+
+(b) “Beneficial Owner” (and variants thereof) shall have the meaning given in Rule 13d-3 promulgated under the Exchange Act and, only to the extent such meaning 
+
+* * *
+
+  
+
+
+is more restrictive than the meaning given in Rule 13d-3, the meaning determined in accordance with Section 318(a) of the Code;
+
+(c) “Cause” shall mean (i) the willful and continued failure by the Grantee to substantially perform the Grantee’s duties with the Company (other than any such failure resulting from the Grantee’s incapacity due to physical or mental illness) after a written demand for substantial performance is delivered to the Grantee by the Company, which demand specifically identifies the manner in which the Company believes that the Grantee has not substantially performed the Grantee’s duties, or (ii) the willful engaging by the Grantee in conduct which is demonstrably and materially injurious to the Company or its subsidiaries, monetarily or otherwise. For purposes of clauses (i) and (ii) of this definition, no act, or failure to act, on the Grantee’s part shall be deemed “willful” unless done, or omitted to be done, by the Grantee not in good faith and without the reasonable belief that the Grantee’s act, or failure to act, was in the best interest of the Company;
+
+(d) “Change in Control” shall mean any of the following events:
+
+(i) any Person is or becomes the Beneficial Owner, directly or indirectly, of more than 50% of either (A) the combined fair market value of the then outstanding stock of the Company (the “Total Fair Market Value”) or (B) the combined voting power of the then outstanding securities entitled to vote generally in the election of directors of the Company (the “Total Voting Power”); excluding, however, the following: (I) any acquisition by the Company or any of its Controlled Affiliates, (II) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Company or any of its Controlled Affiliates, (III) any Person who becomes such a Beneficial Owner in connection with a transaction described in the exclusion within paragraph (iv) below and (IV) any acquisition of additional stock or securities by a Person who owns more than 50% of the Total Fair Market Value or Total Voting Power of the Company immediately prior to such acquisition; or
+
+(ii) any Person is or becomes the Beneficial Owner, directly or indirectly, of securities of the Company that, together with any securities acquired directly or indirectly by such Person within the immediately preceding twelve-consecutive month period, represent 40% or more of the Total Voting Power of the Company; excluding, however, any acquisition described in subclauses (I) through (IV) of subsection (i) above; or
+
+(iii) a change in the composition of the Board such that the individuals who, as of the effective date of this Agreement, constitute the Board (such individuals shall be hereinafter referred to as the “Incumbent Directors”) cease for any reason to constitute at least a majority of the Board; provided, however, for purposes of this definition, that any individual who becomes a director subsequent to such effective date, whose election, or nomination for election by the Company’s stockholders, was made or approved by a vote of at least a majority of the Incumbent Directors (or directors whose election or nomination for election was previously so approved) shall be considered an Incumbent Director; but, provided, further, that any such individual whose initial assumption of office occurs as a result of either an actual or threatened election contest (as such terms are used in Rule 14a-11 of Regulation 14A promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a person or legal entity other than the Board shall not be considered an 
+
+* * *
+
+  
+
+
+Incumbent Director; provided finally, however, that, as of any time, any member of the Board who has been a director for at least twelve consecutive months immediately prior to such time shall be considered an Incumbent Director for purposes of this definition, other than for the purpose of the first proviso of this definition; or
+
+(iv) there is consummated a merger or consolidation of the Company or any direct or indirect Subsidiary of the Company or a sale or other disposition of all or substantially all of the assets of the Company (“Corporate Transaction”); excluding, however, such a Corporate Transaction (A) pursuant to which all or substantially all of the individuals and entities who are the Beneficial Owners, respectively, of the outstanding Common Stock of the Company and Total Voting Power immediately prior to such Corporate Transaction will Beneficially Own, directly or indirectly, more than 50%, respectively, of the outstanding common stock and the combined voting power of the then outstanding common stock and the combined voting power of the then outstanding securities entitled to vote generally in the election of directors of the company resulting from such Corporate Transaction (including, without limitation, a company which as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership immediately prior to such Corporate Transaction of the Outstanding Common Stock and Total Voting Power, as the case may be, and (B) immediately following which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors of the company resulting from such Corporate Transaction (including, without limitation, a company which as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries);
+
+provided, however, that notwithstanding anything to the contrary in subsections (i) through (iv) above, an event which does not constitute a change in the ownership of the Company, a change in the effective control of the Company, or a change in the ownership of a substantial portion of the assets of the Company, each as defined in Section 1.409A-3(i)(5) of the Treasury Regulations (or any successor provision), shall not be considered a Change in Control for purposes of this Agreement;
+
+(e) “Disability” shall mean that, as a result of the Grantee’s incapacity due to physical or mental illness or injury, the Grantee shall not have performed all or substantially all of the Grantee’s usual duties as an employee of the Company for a period of more than one-hundred-fifty (150) days in any period of one-hundred-eighty (180) consecutive days;
+
+(f) “Person” shall have the meaning given in Section 3(a)(9) of the Exchange Act, as modified and used in Sections 13(d) and 14(d) of the Exchange Act, and, only to the extent such meaning is more restrictive than the meaning given in Section 3(a)(9) of the Exchange Act (as modified as above), the meaning determined in accordance with Sections 1.409A-3(i)(5)(v)(B), (vi)(D) or (vii)(C) of the Treasury Regulations (or any successor provisions), as applicable.
+
+(g) “Retirement” shall mean termination of the Grantee’s employment, other than by reason of death or Cause, either (A) at or after age 65 or (B) at or after age 55 after five (5) years of employment by the Company (or a Subsidiary thereof).
+
+* * *
+
+  
+
+
+Annex A
+
+NOTICE OF GRANT
+
+RESTRICTED STOCK UNITS
+
+HEXCEL CORPORATION 2003 INCENTIVE STOCK PLAN
+
+The following employee of Hexcel Corporation, a Delaware corporation, or a Subsidiary, has been granted restricted stock units in accordance with the terms of this Notice of Grant and the Agreement to which this Notice of Grant is attached.
+
+The terms below shall have the meanings ascribed to them below when used in the Agreement.
+
+Grantee  
+  
+Address of Grantee  
+  
+Foreign Sub Plan, if applicable  
+  
+Grant Date
+
+January 26, 2009  
+  
+Aggregate Number of RSUs Granted  
+  
+IN WITNESS WHEREOF, the parties hereby agree to the terms of this Notice of Grant and the Agreement to which this Notice of Grant is attached and execute this Notice of Grant and the Agreement as of the Grant Date.
+
+HEXCEL CORPORATION  
+  
+Grantee  
+  
+By:  
+  
+Ira J. Krakower  
+  
+Senior Vice President  
+  
+* * *

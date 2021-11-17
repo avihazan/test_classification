@@ -1,0 +1,243 @@
+# Exhibit 10.2
+
+# APRIA HEALTHCARE GROUP INC.   
+2003 PERFORMANCE INCENTIVE PLAN  
+
+
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Award Agreement”) dated _____________________ by and between APRIA HEALTHCARE GROUP INC., a Delaware corporation (the “Corporation”), and ___________________________ (the “Grantee”) evidences the award (the “Award”) of restricted stock units (“Stock Units”) granted by the Corporation to the Grantee as to the number of Stock Units first set forth below. 
+
+* * *  
+  
+Number of Stock Units:1 _____ Award Date: March 7, 2007  
+  
+Performance-Based Vesting Period: 1,2 January 1, 2007 – December 31, 2007  
+  
+Time-Based Vesting Date: 1,2 March 7, 2007 – February 16, 2010  
+  
+* * *  
+  
+The Award is granted under the Apria Healthcare Group Inc. 2003 Performance Incentive Plan (the “Plan”) and subject to the Terms and Conditions of Restricted Stock Units (the “Terms”) attached to this Award Agreement (incorporated herein by this reference) and to the Plan. The Award has been granted to the Grantee in addition to, and not in lieu of, any other form of compensation otherwise payable or to be paid to the Grantee. Capitalized terms are defined in the Plan if not defined herein. The parties agree to the terms of the Award set forth herein. Without limiting the generality of the foregoing, the Grantee specifically acknowledges and agrees to Section 20 of the Terms (affecting the change in control provisions of certain of the Grantee’s other outstanding awards), Section 21 of the Terms (regarding the application of the Grantee’s Noncompetition and Nonsolicitation Agreement) and Section 22 of the Terms (regarding the Corporation’s Stock Ownership Requirements.) The Grantee acknowledges receipt of a copy of the Terms and the Plan. 
+
+“GRANTEE”  
+  
+______________________________________  
+Signature  
+  
+______________________________________  
+Print Name APRIA HEALTHCARE GROUP INC.  
+a Delaware corporation  
+  
+  
+By:__________________________________  
+  
+Print Name:___________________________  
+  
+Title:________________________________   
+  
+  
+
+
+CONSENT OF SPOUSE
+
+In consideration of the Corporation’s execution of this Award Agreement, the undersigned spouse of the Grantee agrees to be bound by all of the terms and provisions hereof and of the Plan. 
+
+__________________________________   
+Signature of Spouse ______________________  
+Date  
+  
+_________________   
+1 Subject to adjustment under Section 7 of the Terms and Section 7.1 of the Plan.   
+2 Subject to early termination under Sections 2, 5 and 8 of the Terms and Section 7.4 of the Plan. 
+
+* * *
+
+# TERMS AND CONDITIONS OF RESTRICTED STOCK UNITS 
+
+1. Stock Units; Vesting. 
+
+1.1 Stock Units. As used herein, a “Stock Unit” is a non-voting unit of measurement which is deemed for bookkeeping purposes to be equivalent in value to one outstanding share of Common Stock of the Corporation. The Stock Units shall be used solely as a device for the determination of any payment to eventually be made to the Grantee if and when such Stock Units vest pursuant to this Section 1. One-third (1/3) of the Stock Units subject to the Award shall be subject to the time-based vesting requirements set forth in Section 1.2 (“Time-Based Units”). Two-thirds of the Stock Units subject to the Award shall be subject to the performance-based and time-based vesting requirements set forth in Section 1.3 (“Performance-Based Units”). 
+
+1.2 Time-Based Units. Subject to Sections 2 and 5 below, one hundred percent (100%) of the Time-Based Units subject to the Award shall vest and become nonforfeitable on the last day of the Time-Based Vesting Period (as set forth on the cover page of this Award Agreement) (the “Time-Based Unit Vesting Date”). 
+
+1.3 Performance-Based Units.  The Performance-Based Units subject to the Award shall be subject to the vesting requirements set forth in both Section 1.3.1 and Section 1.3.2. 
+
+1.3.1 Performance-Based Vesting . Subject to Sections 1.3.2, 2 and 5 below, promptly following the conclusion of the Performance-Based Vesting Period (as set forth on the cover page of this Award Agreement), the Compensation Committee of the Corporation’s Board of Directors (the “Committee”) shall determine the number of Performance-Based Units subject to the Award (if any) that have become vested for purposes of this Section 1.3.1 based on the actual performance of the Corporation during the Performance-Based Vesting Period (“Actual Performance”) relative to the performance threshold (“Performance Threshold”) and performance target (“Performance Target”) for each of the performance measures (each, a “Performance Measure”) established by the Committee for such period as set forth on Schedule A attached hereto. Subject to Section 1.3.2, Stock Units shall vest for purposes of this Section 1.3.1 as of the conclusion of the Performance Period, with respect to each Performance Measure, as follows: 
+
+•
+
+if Actual Performance for that Performance Measure equals or exceeds the Performance Target, 30% or 20%, depending on the assigned weighting for that Performance Measure, of the Performance-Based Units will vest on February 16, 2008, or as soon thereafter as the achievement can practicably be determined;   
+  
+  
+  
+•
+
+if Actual Performance for that Performance Measure equals but does not exceed the Performance Threshold, 15% or 10%, respectively (depending on the weighting) of the Performance-Based Units will vest on February 16, 2008, or as soon thereafter as the achievement can practicably be determined;   
+  
+  
+  
+•
+
+if Actual Performance for that Performance Measure has exceeded the Performance Threshold but the Performance Target for that Performance Measure has not been achieved, between 15% and 30%, or between 10% and 20%, respectively (depending on the weighting), of the restricted stock units will vest on a linear basis (e.g., if the actual revenue performance is exactly between the threshold level and the target level for that performance measure, 22.5% of the Performance-Based Units for revenue will vest), in each case on February 16, 2008 or as soon thereafter as the achievement can practicably be determined; and   
+  
+  
+  
+•
+
+if the Performance Threshold for that Performance Measure has not been achieved, 0% of the Performance-Based Units will vest as a result of performance.   
+  
+  
+No more than 30% of the total number of Performance-Based Units subject to the Award shall vest with respect to any particular Performance Measure. Vesting pursuant to this Section 1.3.1 is cumulative as to all Performance Measures (that is, the total number of Performance-Based Units subject to the Award that vest with respect to one Performance Measure shall be added to the total number of Performance-Based Units subject to the Award that vest with respect to each other Performance Measure to determine the total number of Performance-Based Units subject to the Award that vest pursuant to this Section 1.3.1). Performance-Based Units subject to the Award that do not vest in accordance with this Section 1.3.1 shall be forfeited without payment therefor as of the date that vesting is determined. 
+
+1.3.2 Time-Based Vesting of Performance-Based Units. Subject to Sections 2 and 5 below and notwithstanding anything to the contrary in Section 1.3.1, (a) one-half (1/2) of the number of Performance-Based Units subject to the Award that become vested for purposes of Section 1.3.1 shall become vested for purposes of this Section 1.3.2 as of the earlier of the date the Corporation’s 2007 financial results are audited and February 28, 2008, and (b) the remaining one-half of the Performance-Based Units subject to the Award that become vested for purposes of Section 1.3.1 shall become vested for purposes of this Section 1.3.2 as of February 16, 2009 (the applicable vesting date referred to in clause (a) above and February 16, 2009 are each referred to in this Award Agreement as a “Performance-Based Unit Vesting Date”). In the event that the Corporation’s 2007 financial results have not been audited as of February 28, 2008, the number of Performance-Based Units that become vested for purposes of Section 1.3.1 and clause (a) of this Section 1.3.2 shall be determined by the Committee in good faith based on the financial information then available. For avoidance of doubt, subject to Sections 2 and 5 below, Performance-Based Units subject to the Award shall not become payable, and there shall be no Distribution Date (as defined in Section 4 below) with respect thereto, unless and until such Performance-Based Units have become vested for purposes of both Section 1.3.1 and this Section 1.3.2. 
+
+# 2\. Termination of Employment/Service; No Employment/Service Commitment. 
+
+2.1 Continuance of Employment/Service Required. The vesting of Time-Based Units and Performance-Based Units subject to the Award and the rights and benefits under this Award Agreement require continued employment or service through the applicable Distribution Date (as defined in Section 4) applicable to such units. Except as expressly provided in this Section 2 or in Section 5, employment or service for only a portion of the vesting period, even if a substantial portion, will not entitle the Grantee to any proportionate vesting or avoid or mitigate a termination of rights and benefits upon or following a termination of employment or services as provided herein or under the Plan. 
+
+2.2 Possible Vesting upon Termination of Employment/Service. If the Grantee ceases to be employed by or ceases to provide services to the Corporation or a Subsidiary, unless the provisions of Section 5 apply in which case the provisions of that section shall prevail, the following rules shall apply (the last day that the Grantee is employed by or provides services to the Corporation or a Subsidiary is referred to as the Grantee’s “Severance Date”). The Committee shall be the sole judge of whether the Grantee continues to render employment or services for purposes of this Award Agreement. 
+
+2.2.1 Termination Due to Death, Disability or Retirement Prior to End of Time-Based Vesting Period. In the event the Grantee’s employment or services terminate due to the Grantee’s death, Disability (as defined below) or Retirement (as defined below) prior to the conclusion of the Time-Based Vesting Period, the Time-Based Units subject to this Award shall vest on a pro rata basis as of the Grantee’s Severance Date. The number of Time-Based Units that shall so vest shall equal (i) the number of Time-Based Units subject to the Award (to the extent such units are not then vested), multiplied by (ii) a fraction, the numerator of which shall be the number of whole months during the Time-Based Vesting Period the Grantee was employed by or rendered services to the Corporation or a Subsidiary, and the denominator of which shall be the number of whole months in the Time-Based Vesting Period. If this Section 2.2.1 applies, any Time-Based Units subject to the Award that do not vest in accordance with the foregoing provisions shall terminate as of the Grantee’s Severance Date. 
+
+2.2.2 Termination Due to Death, Disability or Retirement Prior to End of Performance-Based Vesting Period. In the event the Grantee’s employment or services terminate due to the Grantee’s death, Disability or Retirement prior to the conclusion of the Performance-Based Vesting Period, the number of Performance-Based Units subject to the Award that shall become vested as of the conclusion of the Performance-Based Vesting Period shall equal (a) the number of Performance-Based Units subject to the Award that would have vested as of the conclusion of the Performance-Based Vesting Period in accordance with Section 1.3.1 above (assuming no termination of employment or services had occurred), multiplied by (b) a fraction, the numerator of which shall be the number of whole months during the Performance-Based Vesting Period the Grantee was employed by or rendered services to the Corporation or a Subsidiary, and the denominator of which shall be the number of whole months in the Performance-Based Vesting Period (the “Pro-Rata Fraction”). If this Section 2.2.2 applies, any Performance-Based Units subject to the Award that do not vest in accordance with the foregoing provisions shall terminate as of the conclusion of the Performance-Based Vesting Period. 
+
+2.2.3 Termination Due to Death, Disability or Retirement after Performance-Based Vesting Period. In the event the Grantee’s employment or services terminate due to the Grantee’s death, Disability or Retirement after the conclusion of the Performance-Based Vesting Period, the aggregate number of Performance-Based Units subject to the Award that became vested as of the conclusion of the Performance-Based Vesting Period in accordance with Section 1.3.1 above shall become vested as of the Grantee’s Severance Date (to the extent outstanding and not otherwise vested on or before such date pursuant to Section 1.3.2). 
+
+2.2.4 Termination for Any Reason Other than Death, Disability or Retirement. Subject to Section 5 below, in the event the Grantee’s employment or services terminate for any reason other than the Grantee’s death, Disability or Retirement, the Award and any Stock Units subject to the Award, to the extent not vested (pursuant to Sections 1.2 and 1.3) on the Severance Date, shall terminate as of the Severance Date. 
+
+2.2.5 Definitions. For purposes of this Award Agreement, “Disability” means a permanent and total disability (within the meaning of Section 22(e)(3) of the Code or as otherwise determined by the Committee). For purposes of this Award Agreement, “Retirement” means a termination of employment by the Grantee that occurs both (a) upon or after the Grantee’s attainment of age 55 and (b) upon or after the date when the sum of the Grantee’s age and the Grantee’s years of service to the Corporation and its Subsidiaries (such years of service determined in accordance with the rules for determining years of service under the Corporation’s 401(k) Plan) is at least 60. 
+
+2.3 No Employment/Service Commitment. Nothing contained in this Award Agreement or the Plan constitutes a continued employment or service commitment by the Corporation or any of its Subsidiaries, affects the Grantee’s status, if he or she is an employee, as an employee at will who is subject to termination without cause, confers upon the Grantee any right to remain employed by or in service to the Corporation or any Subsidiary, interferes in any way with the right of the Corporation or any Subsidiary at any time to terminate such employment or service, or affects the right of the Corporation or any Subsidiary to increase or decrease the Grantee’s other compensation. 
+
+# 3\. No Stockholder Rights. 
+
+The Grantee shall have no rights as a stockholder of the Corporation, no dividend rights and no voting rights with respect to the Stock Units or any shares of Common Stock issuable in respect of such Stock Units, until shares of Common Stock are actually issued to and held of record by the Grantee. No adjustments will be made for dividends or other rights of a holder for which the record date is prior to the date of issuance of the stock certificate evidencing the shares. 
+
+# 4\. Timing and Manner of Distribution of Stock Units. 
+
+Stock Units subject to the Award that vest (pursuant to Section 1.2 or 1.3) will be paid in an equivalent number of shares of Common Stock (either by delivering one or more certificates for such shares or by entering such shares in book entry form, as determined by the Corporation in its discretion) no later than seventy (70) days after the applicable Distribution Date with respect to such Stock Units. Such payment shall be subject to the tax withholding provisions of Section 9 below and Section 8.5 of the Plan and subject to adjustment as contemplated by Section 7 below and Section 7.1 of the Plan and shall be in complete satisfaction of such vested Stock Units. The Grantee or other person entitled under the Plan to receive the shares shall deliver to the Corporation any representations or other documents or assurances required pursuant to Section 8.1 of the Plan. Delivery of any certificates will be made to the Grantee’s last address reflected on the books of the Corporation or its Subsidiaries unless the Corporation is otherwise instructed in writing. 
+
+The “Distribution Date” for the Stock Units that vest pursuant to the Award shall be determined pursuant to this paragraph. The Distribution Date for Time-Based Units that vest pursuant to Section 1.2 shall be the Time-Based Unit Vesting Date. The Distribution Date for Performance-Based Units that vest pursuant to Section 1.3 shall be the applicable Performance-Based Unit Vesting Date. The Distribution Date for Performance-Based Units that vest pursuant to Section 2.2.2 shall be the last day of the Performance-Based Vesting Period. The Distribution Date for Stock Units that vest pursuant to either Section 2.2.1 or Section 2.2.3 shall be the date on which the Grantee’s employment or services terminate. The Distribution Date for Stock Units that vest pursuant to Section 5.1 shall be the date on which the event giving rise to accelerated vesting of such units occurs. The Distribution Date for Stock Units that vest pursuant to Section 5.2 shall be the later of the date on which the Grantee’s employment or services terminate or the date of the related Change in Control Event. 
+
+# 5\. Changes in Control. 
+
+5.1 Possible Acceleration upon Change in Control. Upon a dissolution of the Corporation or other event described in Section 7.1 of the Plan (which generally covers certain mergers or similar reorganizations) that the Corporation does not survive (or does not survive as a public company in respect of its Common Stock), or upon a Change in Control Event (as defined in the Plan), then if the Stock Units subject to the Award are not then otherwise fully vested (and have not previously terminated), they shall automatically become vested immediately prior to the occurrence of such event; provided that such acceleration provision shall not apply, unless otherwise expressly provided by the Committee, to the extent that the Committee has made a provision for the substitution, assumption, exchange or other continuation or settlement of the Award, or the Award would otherwise continue in accordance with the terms of this Award Agreement, in the circumstances. Any acceleration of the Stock Units shall comply with applicable legal requirements. The Committee may reinstate the original terms of the Award if an event described in this Section 5.1 giving rise to the acceleration of Stock Units subject to the Award does not actually occur. Subject to Section 5.2 below, if an acceleration of the outstanding Stock Units subject to the Award is triggered by this Section 5.1 but the Grantee’s employment terminated prior to the event triggering such acceleration in circumstances covered by Section 2.2.2 and the number of Performance-Based Units that are to vest pursuant to Section 2.2.2 has not yet been determined as of the date of such event, the number of Performance-Based Units subject to the Award which shall vest in accordance with such event shall equal the number of Performance-Based Units outstanding subject to the Award immediately prior to such event multiplied by the Pro-Rata Fraction, and the balance of the Performance-Based Units subject to the Award (the portion not so vested) shall thereupon terminate. The preceding sentence shall control in the event of any discrepancy with Section 2.2.2. 
+
+5.2 Termination of Employment in Connection with a Change in Control. The following provisions of this Section 5.2 supersede any inconsistent provision of Section 2.2. The Stock Units subject to the Award, to the extent such Stock Units are outstanding and have not previously become vested in accordance with the terms hereof, shall be deemed to be fully vested as of the Grantee’s Severance Date if the Grantee incurs a Qualifying Termination. The Grantee shall be deemed to have incurred a “Qualifying Termination” for this purpose if any of the following events occur: 
+
+•
+
+the Grantee's employment is terminated by the Corporation or a Subsidiary without Cause within the period that ends with a Change in Control Event and begins with the first to occur of (i) the initial public announcement of the Change in Control Event, or (ii) the 90th day preceding the Change in Control Event,   
+  
+  
+  
+•
+
+the Grantee's employment is terminated by the Corporation or a Subsidiary for any reason other than Cause (and other than due to the Grantee's death or Disability) upon or at any time within two years following the Change in Control Event, or   
+  
+  
+  
+•
+
+the Grantee terminates employment with the Corporation or a Subsidiary for Good Reason upon or at any time within two years following the Change in Control Event.   
+  
+  
+For purposes of this Award Agreement, “Cause” means the occurrence of either or both of the following: (1) the Grantee’s conviction for committing an act of fraud, embezzlement, theft, or other act constituting a felony (other than traffic related offenses or as a result of vicarious liability); or (2) the willful engaging by the Grantee in misconduct that is significantly injurious to the Corporation. However, no act or failure to act, on the Grantee’s part shall be considered “willful” unless done, or omitted to be done, by the Grantee not in good faith and without reasonable belief that the Grantee’s action or omission was in the best interest of the Corporation. 
+
+For purposes of this Award Agreement, “Good Reason” means, without the Grantee’s express written consent, the occurrence of any one or more of the following: (1) a material reduction in the nature, status or scope of the Grantee’s authorities, duties, and/or responsibilities (when such authorities, duties, and/or responsibilities are viewed in the aggregate) from their level in effect on the day immediately prior to the Change in Control Event (provided, however, that neither (i) a change in the Grantee’s title or reporting relationships, nor (ii) an adjustment in the nature of the Grantee’s duties and responsibilities, that in either case does not remove from him/her the authority with respect to the Corporation’s functional area, employees or products and services that the Grantee had immediately prior to such change or adjustment, shall constitute “Good Reason”); (2) a reduction in the Grantee’s base salary from its highest level in effect at any point in the three months preceding the Change in Control Event or a significant reduction in the Grantee’s aggregate incentive opportunities under the Corporation’s short and/or long-term incentive programs, as such opportunities exist immediately prior to the Change in Control Event; (3) the failure of the Corporation to maintain the Grantee’s relative level of coverage and accruals (as compared to other executives with similar titles) under the Corporation’s employee benefit and/or retirement plans, policies, practices, or arrangements in which the Grantee participates immediately prior to the Change in Control Event, both in terms of the amount of benefits provided and amounts accrued. For this purpose, the Corporation may eliminate and/or modify existing programs and coverage levels; provided, however, that the Grantee’s level of coverage under all such programs must be at least as great as is provided to executives who have the same or lesser levels of reporting responsibilities within the Corporation’s organization; or (4) the Grantee is informed by the Corporation that his/her principal place of employment for the Corporation will be relocated to a location that will result in an increase of more than thirty (30) miles in the Grantee’s one-way commute (as compared to the Grantee’s one-way commute immediately prior to the Change in Control Event). 
+
+5.3 Section 280G. Notwithstanding anything else contained in this Section 5 to the contrary, in no event shall the Award be accelerated to an extent or in a manner which would not be fully deductible by the Corporation for federal income tax purposes because of Section 280G of the Code. If the Grantee would be entitled to benefits or payments hereunder and under any other plan or program that would constitute “parachute payments” as defined in Section 280G of the Code, then the Grantee may by written notice to the Corporation designate the order in which such parachute payments will be reduced or modified so that the Corporation is not denied federal income tax deductions for any “parachute payments” because of Section 280G of the Code. Notwithstanding the foregoing, if the Grantee is a party to an employment or other agreement with the Corporation, or is a participant in a severance program sponsored by the Corporation, that contains express provisions regarding Section 280G and/or Section 4999 of the Code (or any similar successor provision), the Section 280G and/or Section 4999 provisions of such employment or other agreement or plan, as applicable, shall control as to the Award (for example, and without limitation, the Grantee may be a party to an employment agreement with the Corporation that provides for a “gross-up” as opposed to a “cut-back” in the event that the Section 280G thresholds are reached or exceeded in connection with a change in control and, in such event, the Section 280G and/or Section 4999 provisions of such employment agreement shall control as to the Award). 
+
+6. Non-Transferability. 
+
+Prior to the time the Stock Units are vested and paid, neither the Stock Units comprising the Award nor any other rights of the Grantee under this Award Agreement or the Plan may be transferred, except as expressly provided in Section 5.7 of the Plan. No specific exception to the general transfer prohibitions set forth in Section 5.7 of the Plan has been authorized by the Committee. 
+
+7. Adjustments. 
+
+Upon the occurrence of an Event (as defined below), the Committee shall make adjustments as it deems appropriate in the number and kind of securities or other consideration that may become payable with respect to the Award. If an Event shall occur and the Award has not been fully vested and paid upon such Event or prior thereto, the Award may become payable in securities or other consideration (the “Restricted Property”) rather than in the Common Stock otherwise payable in respect of the Award. Such Restricted Property shall become payable at the times set forth in Section 4 above or such earlier time as the Committee may authorize pursuant to Section 8 below. Notwithstanding the foregoing, to the extent that the Restricted Property includes any cash, the commitment hereunder shall become an unsecured promise to pay an amount equal to such cash (with earnings attributable thereto as if such amount had been invested, pursuant to policies established by the Committee, in interest bearing, FDIC insured (subject to applicable insurance limits) deposits of a depository institution selected by the Committee) at such times and in such proportions as the Award becomes payable in accordance with Section 4 above. Notwithstanding the foregoing, the Award and any Common Stock or other securities or property payable in respect of the Award shall continue to be subject to proportionate and equitable adjustments (if any) under this Section 7 consistent with the effect of such events on stockholders generally, as the Committee determines to be necessary or appropriate, and in the number, kind and/or character of shares of Common Stock or other securities, property and/or rights payable in respect of Stock Units granted under the Plan. All rights of the Grantee hereunder are subject to those adjustments. For purposes of this Award Agreement, “Event” means a liquidation, dissolution, Change in Control Event, merger, consolidation, or other combination, reorganization, stock split, stock dividend, reverse stock split, or a recapitalization, reclassification, extraordinary dividend or other distribution (including a split up or a spin off of the Corporation or any significant Subsidiary), or a sale or other distribution of all or substantially all the assets of the Corporation as an entirety. 
+
+The Committee shall adjust the Performance Measures, Performance Thresholds and Targets, relative weights of the measures, and other provisions of this Award Agreement to the extent (if any) it determines that the adjustment is necessary or advisable to preserve the intended incentives and benefits to reflect (1) any material change in corporate capitalization, any material corporate transaction (such as a reorganization, combination, separation, merger, acquisition, or any combination of the foregoing), or any complete or partial liquidation of the Corporation, (2) any change in accounting policies or practices, (3) the effects of any special charges to the Corporation’s earnings, (4) the effects of any unbudgeted changes in government reimbursement rates or (5) any other similar special circumstances. Notwithstanding the foregoing, the Committee will not make any change or adjustment under the Plan to the extent it would cause Plan bonuses to cease to qualify as “performance-based compensation” within the meaning of Section 162(m). No adjustments may be made on or following the occurrence of a Change in Control Event, except by the Committee as constituted immediately prior to such Change in Control Event within a reasonable period of time following the occurrence of such Change in Control Event. 
+
+8. Possible Early Settlement of Award. 
+
+The Committee retains the right to accelerate the vesting and distribution dates of the outstanding and previously unvested Stock Units subject to the Award in connection with an Event, a Change in Control Event, or the termination of the Grantee’s employment with the Corporation or one of its Subsidiaries. This Section 8 is not intended to prevent vesting of the Award pursuant to Section 2 or Section 5 above or an adjustment to the Award as provided in the Plan or Section 7 above. 
+
+9. Tax Withholding. 
+
+Upon or in connection with the vesting of the Stock Units, the distribution of shares of Common Stock in respect of the Stock Units, and/or other event that triggers a tax withholding obligation with respect to the Stock Units, the Corporation and each of its Subsidiaries shall have the right at its or their option to (a) require the Grantee (or the Grantee’s beneficiary, as the case may be) to pay or provide for payment in cash of the amount of any taxes which such entity (or entities) may be required to withhold with respect to such vesting, payment or distribution or (b) deduct from any amount otherwise payable to the Grantee (with respect to the Stock Units or otherwise) the amount of any taxes which such entity (or entities) may be required to withhold with respect to such vesting, payment or distribution. In any case where a tax is required to be withheld in connection with the delivery of shares of Common Stock under this Award Agreement, the Committee may, but is not required to, reduce the number of shares to be delivered by (or otherwise reacquire) the appropriate number of shares valued at their then fair market value (as determined under Section 5.6 of the Plan), to satisfy such withholding obligation. 
+
+10. Notices. 
+
+Any notice to be given under the terms of this Award Agreement shall be in writing and addressed to the Corporation at its principal office to the attention of the Secretary, and to the Grantee at the address last reflected on the Corporation’s payroll records. Any notice shall be delivered in person or shall be enclosed in a properly sealed envelope, addressed as aforesaid, registered or certified, and deposited (postage and registry or certification fee prepaid) in a post office or branch post office regularly maintained by the United States Government. Any such notice shall be deemed to be “given” only when actually received, but if the Grantee is no longer an Eligible Person, shall be deemed to have been duly “given” as of the date mailed in accordance with the foregoing provisions of this Section 10. 
+
+11. Limitation on Grantee’s Rights. 
+
+The Stock Units create no fiduciary duty to the Grantee and shall create only a contractual obligation on the part of the Corporation to make distributions, subject to vesting and the other terms and conditions hereof, as provided in Sections 3 and 4 above. The Stock Units shall not be treated as property or as a trust fund of any kind. No assets have been secured or set aside by the Corporation with respect to the Award and, if amounts become distributable or payable to the Grantee pursuant to this Award Agreement, the Grantee’s rights with respect to such amounts shall be no greater than the rights of any general unsecured creditor of the Corporation. 
+
+12. Plan. 
+
+The Award and all rights of the Grantee under this Award Agreement are subject to all of the terms and conditions of the Plan, incorporated herein by this reference. The Grantee agrees to be bound by the terms of the Plan and this Award Agreement (including these Terms). The Grantee acknowledges having read and understanding the Plan, the Prospectus for the Plan, and this Award Agreement. Unless otherwise expressly provided in other sections of this Award Agreement, provisions of the Plan that confer discretionary authority on the Board or the Committee do not and shall not be deemed to create any rights in the Grantee unless such rights are expressly set forth herein or are otherwise in the sole discretion of the Board or the Committee so conferred by appropriate action of the Board or the Committee under the Plan after the date hereof. 
+
+# 13\. Entire Agreement. 
+
+This Award Agreement (including these Terms) and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Award Agreement may be amended pursuant to Section 8.6 of the Plan. Such amendment must be in writing and signed by the Corporation. The Corporation may, however, unilaterally waive any provision hereof in writing to the extent such waiver does not adversely affect the interests of the Grantee hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof. 
+
+14. Governing Law. 
+
+This Award Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Delaware without regard to conflict of law principles thereunder. 
+
+# 15\. Arbitration. 
+
+Any dispute or controversy arising under or in connection with this Award Agreement shall be settled exclusively by arbitration, conducted before a single neutral arbitrator in accordance with the American Arbitration Association’s National Rules for Resolution of Employment Disputes as then in effect. Judgment may be entered on the arbitrator’s award in any court having jurisdiction. The fees and expenses of the arbitrator shall be borne by the Company. 
+
+# 16\. Construction. 
+
+This Award Agreement shall be construed and interpreted to comply with Section 409A of the Code. The Corporation reserves the right to amend this Award Agreement to the extent it reasonably determines is necessary in order to preserve the intended tax consequences of the Stock Units in light of Section 409A of the Code and any regulations or other guidance promulgated thereunder. 
+
+17. Effect of this Agreement. 
+
+This Award Agreement shall be assumed by, be binding upon and inure to the benefit of any successor or successors to the Corporation. 
+
+# 18\. Counterparts. 
+
+This Award Agreement may be executed simultaneously in any number of counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. 
+
+# 19\. Section Headings. 
+
+The section headings of this Award Agreement are for convenience of reference only and shall not be deemed to alter or affect any provision hereof. 
+
+20. Change in Control Provisions of Other Awards. 
+
+By accepting the Award and executing this Award Agreement, the Grantee acknowledges and agrees that the definition of Change in Control Event set forth in Section 7.3 of the Plan shall (1) apply to the Award and to the Grantee’s other awards under the Plan, (2) apply to any award outstanding as of the Award Date that has been granted to the Grantee under the Corporation’s 1998 Nonqualified Stock Incentive Plan or 1997 Stock Incentive Plan (in place of the term “Change in Control Event” as otherwise defined under the applicable plan), and (3) apply to any award outstanding as of the Award Date that has been granted to the Grantee under the Corporation’s 1992 Stock Incentive Plan (in place of the term “Corporate Change” as otherwise defined under that plan, and all references to “Corporate Change” in that plan or any such award shall be a reference to Change in Control Event). The intent of this amendment is that all such awards shall be governed by a single “Change in Control Event” definition. The other terms and conditions of such awards shall not be affected by this change. 
+
+21. Agreements Regarding Noncompetition and Nonsolicitation. 
+
+Notwithstanding anything else contained herein to the contrary, the right of the Grantee to the Award, as well as the right of the Grantee to or with respect to any Common Stock or cash that is payable or has, at the relevant time, previously been paid with respect to the Award (or any consideration received in respect thereof, as the case may be) is subject to the terms and conditions of the Grantee’s “Noncompetition and Nonsolicitation Agreement” with the Corporation (or any similar or successor agreement, as applicable), including any such agreement that may be entered into after the Award Date (the Grantee’s “Noncompetition and Nonsolicitation Agreement”). This Restricted Stock Unit Award Agreement is one of the Grantee’s Incentive Compensation Agreements as defined in such Noncompetition and Nonsolicitation Agreement. By accepting the Award, and again by accepting any payment of Common Stock or cash with respect to the Award, the Grantee affirms his or her representations, covenants and agreements set forth in his or her Noncompetition and Nonsolicitation Agreement and agrees that his or her rights with respect to the Award and any such payment (or any consideration received in respect thereof, as the case may be) are and shall continue thereafter to be subject to such Noncompetition and Nonsolicitation Agreement. 
+
+22. Stock Ownership Requirements. 
+
+The Award and all rights of Grantee under this Award Agreement or in connection with any shares of the Corporation’s Common Stock acquired pursuant to this Award Agreement are and shall be subject to, and Grantee agrees to be bound by, all of the terms and conditions of the Corporation’s Stock Ownership Requirements as in effect from time to time. 
+
+* * *
+
+SCHEDULE A  
+  
+2007 PERFORMANCE MEASURES
+
+Performance  
+Measure1 Performance  
+Threshold2   
+Performance Target2   
+Weight  
+  
+* * *  
+  
+  
+[confidential financial performance measure omitted]   
+20%  
+[confidential financial performance measure omitted] 30%  
+[confidential financial performance measure omitted] 30%  
+[confidential financial performance measure omitted] 20%  
+  
+  
+1 For purposes of this Agreement, each Performance Measure shall be determined on a consolidated basis in accordance with generally accepted accounting principles as applied in the Corporation’s financial reporting.  
+2 Subject to adjustment in accordance with Section 7 of this Agreement. 

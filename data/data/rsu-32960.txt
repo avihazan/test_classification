@@ -1,0 +1,87 @@
+Exhibit 10.4
+
+Option No.
+
+TRANS1 INC.
+
+
+
+Type of Option (check one): o Incentive  o Nonqualified
+
+This Stock Option Agreement (the “Agreement”) is entered into as of  , by and between TranS1 Inc., a Delaware corporation (the “Company”), and  (the “Optionee”) pursuant to the Company’s 2007 Stock Incentive Plan (the “Plan”). Any capitalized term not defined herein shall have the same meaning ascribed to it in the Plan.
+
+1\. Grant of Option. The Company hereby grants to Optionee an option (the “Option”) to purchase all or any portion of a total of  ( ) shares (the “Shares”) of the Common Stock of the Company at a purchase price of  ($ ) per share (the “Exercise Price”), subject to the terms and conditions set forth herein and the provisions of the Plan. If the box marked “Incentive” above is checked, then this Option is intended to qualify as an “incentive stock option” as defined in Section 422 of the Internal Revenue Code of l986, as amended (the “Code”). If this Option fails in whole or in part to qualify as an incentive stock option, or if the box marked “Nonqualified” is checked, then this Option shall to that extent constitute a nonqualified stock option.
+
+2\. Vesting of Option. The right to exercise this Option shall vest in installments, and this Option shall be exercisable from time to time in whole or in part as to any vested installment. This Option shall be vested  % on  , following Optionee’s completion of  months of Continuous Service, and thereafter commencing on  , upon Optionee’s completion of each additional month of Continuous Service, the remaining  shares shall vest in  ( ) equal monthly installments.
+
+No additional shares shall vest after the date of termination of Optionee’s Continuous Service, but this Option shall continue to be exercisable in accordance with Section 3 hereof with respect to that number of shares that have vested as of the date of termination of Optionee’s Continuous Service.
+
+3\. Term of Option. The right of the Optionee to exercise this Option shall terminate upon the first to occur of the following:
+
+(a) the expiration of ten (10) years from the date of this Agreement;
+
+(b) the expiration of three (3) months from the date of termination of Optionee’s Continuous Service if such termination occurs for any reason other than permanent disability, death or voluntary resignation; provided, however, that if Optionee dies during such three-month period the provisions of Section 3(e) below shall apply;
+
+(c) the expiration of one (1) month from the date of termination of Optionee’s Continuous Service if such termination occurs due to voluntary resignation; provided, however, that if Optionee dies during such one-month period the provisions of Section 3(e) below shall apply;
+
+(d) the expiration of one (1) year from the date of termination of Optionee’s Continuous Service if such termination is due to permanent disability of the Optionee (as defined in Section 22(e)(3) of the Code);
+
+(e) the expiration of one (1) year from the date of termination of Optionee’s Continuous Service if such termination is due to Optionee’s death or if death occurs during either the three-month or one-month period following termination of Optionee’s Continuous Service pursuant to Section 3(b) or 3(c) above, as the case may be; or
+
+(f) upon the consummation of a Change in Control, unless such Option is otherwise assumed or replaced with a new option of comparable value or other New Incentives pursuant to Section 8 below.
+
+4\. Exercise of Option. On or after the vesting of any portion of this Option in accordance with Sections 2 or 8 hereof, and until termination of the right to exercise this Option in accordance with Section 3 above, the portion of this Option which has vested may be exercised in whole or in part by the Optionee (or, after his or her death, by the person designated in Section 5 below) upon delivery of the following to the Company at its principal executive offices:  
+  
+(a) a written notice of exercise which identifies this Agreement and states the number of Shares then being purchased (but no fractional Shares may be purchased);
+
+(b) a check or cash in the amount of the Exercise Price (or payment of the Exercise Price in such other form of lawful consideration as the Administrator may approve from time to time under the provisions of Section 5.4 of the Plan);
+
+(c) a check or cash in the amount reasonably requested by the Company to satisfy the Company’s withholding obligations under federal, state or other applicable tax laws with respect to the taxable income, if any, recognized by the Optionee in connection with the exercise of this Option (unless the Company and Optionee shall have made other arrangements for deductions or withholding from Optionee’s wages, bonus or other compensation payable to Optionee, or by the withholding of Shares issuable upon exercise of this Option or the delivery of Shares owned by the Optionee in accordance with Section 12.1 of the Plan, provided such arrangements satisfy the requirements of applicable tax laws); and
+
+(d) a letter, if requested by the Company, in such form and substance as the Company may require, setting forth the investment intent of the Optionee, or person designated in Section 5 below, as the case may be.
+
+5\. Death of Optionee; No Assignment. The rights of the Optionee under this Agreement may not be assigned or transferred except by will or by the laws of descent and distribution, and may be exercised during the lifetime of the Optionee only by such Optionee. Any attempt to sell, pledge, assign, hypothecate, transfer or dispose of this Option in contravention of this Agreement or the Plan shall be void and shall have no effect. If the Optionee’s Continuous Service terminates as a result of his or her death, and provided Optionee’s rights hereunder shall have vested pursuant to Section 2 hereof, Optionee’s legal representative, his or her legatee, or the person who acquired the right to exercise this Option by reason of the death of the Optionee (individually, a “Successor”) shall succeed to the Optionee’s rights and obligations under this Agreement. After the death of the Optionee, only a Successor may exercise this Option.
+
+6\. Representation of Optionee. Optionee acknowledges receipt of a copy of the Plan and understands that all rights and obligations connected with this Option are set forth in this Agreement and the Plan.
+
+7\. Adjustments Upon Changes in Capital Structure. In the event that the outstanding shares of Common Stock of the Company are hereafter increased or decreased or changed into or exchanged for a different number or kind of shares or other securities of the Company by reason of a recapitalization, stock split, reverse stock split, reclassification, stock dividend or other change in the capital structure of the Company, then appropriate adjustment shall be made by the Administrator to the aggregate number and kind of Shares subject to the unexercised portion of this Option and to the Exercise Price per share, in order to preserve, as nearly as practical, but not to increase, the benefits of the Optionee under this Option, in accordance with the provisions of Section 4.2 of the Plan.
+
+8\. Change in Control. In the event of a Change in Control:
+
+(a) The vesting of this Option shall accelerate automatically effective as of immediately prior to the consummation of the Change in Control unless the Options are to be assumed by the acquiring or successor entity (or parent thereof) or new options under a new stock incentive program (“New Incentives”) are to be issued in exchange therefor, as provided in subsection (b) below. If vesting of outstanding Options will accelerate pursuant to this subsection (a), the Administrator in its discretion may provide, in connection with the Change in Control transaction, for the purchase or exchange of each Option for an amount of cash or other property having a value equal to the difference (or “spread”) between: (x) the value of the cash or other property that the Optionee would have received pursuant to the Change in Control transaction in exchange for the shares issuable upon exercise of the Option had the Option been exercised immediately prior to the Change in Control, and (y) the Exercise Price of the Option.
+
+(b) The vesting of this Option shall not accelerate if and to the extent that: (i) this Option (including the unvested portion thereof) is to be assumed by the acquiring or successor entity (or parent thereof) or a new option of comparable value is to be issued in exchange therefor pursuant to the terms of the Change in Control transaction, or (ii) in the event the consideration to be received by the stockholders of the Company in connection with the Change in Control does not consist of securities, this Option (including the unvested portion thereof) is to be replaced by the acquiring or successor entity (or parent thereof) with other incentives of comparable value containing such terms and provisions as the Administrator in its discretion may consider equitable. If this Option is assumed, or if a new option of comparable value is issued in exchange therefor, then this Option or the new option shall be appropriately adjusted, concurrently with the Change in Control, to apply to the number and class of securities or other property that the Optionee would have received pursuant to the Change in Control transaction in exchange for the Shares issuable upon exercise of this Option had this Option been exercised immediately prior to the Change in Control, and appropriate adjustment also shall be made to the Exercise Price such that the aggregate Exercise Price of this Option or the new option shall remain the same as nearly as practicable.  
+  
+(c) If this Option is assumed by an acquiring or successor entity (or parent thereof) or a New Incentive is issued in exchange therefor pursuant to the terms of a Change in Control transaction, the vesting of the Option or the New Incentive shall accelerate if and at such time as the Optionee’s service as an employee, director, officer, consultant or other service provider to the acquiring or successor entity (or a parent or subsidiary thereof) is Terminated Without Cause within twelve (12) months following consummation of the Change in Control.
+
+9\. No Employment Contract Created. Neither the granting of this Option nor the exercise hereof shall be construed as granting to the Optionee any right with respect to continuance of employment by the Company or any of its subsidiaries. The right of the Company or any of its subsidiaries to terminate at will the Optionee’s employment at any time (whether by dismissal, discharge or otherwise), with or without cause, is specifically reserved.
+
+10\. Rights as Stockholder. The Optionee shall have no rights as a stockholder with respect to any Shares covered by this Option until such person has duly exercised this Option, paid the Exercise Price and become a holder of record of the Shares purchased.
+
+11\. “Market Stand-Off” Agreement. Optionee agrees that, if requested by the Company or the managing underwriter of any proposed public offering of the Company’s securities, Optionee will not sell or otherwise transfer or dispose of any Shares held by Optionee without the prior written consent of the Company or such underwriter, as the case may be, during such period of time, not to exceed 180 days following the effective date of the registration statement filed by the Company with respect to such offering, as the Company or the underwriter may specify, but only if all directors, officers and affiliates of the Company are similarly restricted.
+
+12\. Interpretation. This Option is granted pursuant to the terms of the Plan, and shall in all respects be interpreted in accordance therewith. The Administrator shall interpret and construe this Option and the Plan, and any action, decision, interpretation or determination made in good faith by the Administrator shall be final and binding on the Company and the Optionee.
+
+13\. Limitation of Liability for Nonissuance. During the term of the Plan, the Company agrees at all times to reserve and keep available, and to use its reasonable best efforts to obtain from any regulatory body having jurisdiction any requisite authority in order to issue and sell, such number of shares of its Common Stock as shall be sufficient to satisfy its obligations hereunder and the requirements of the Plan. Inability of the Company to obtain, from any regulatory body having jurisdiction, authority deemed by the Company’s counsel to be necessary for the lawful issuance and sale of any shares of its Common Stock hereunder and under the Plan shall relieve the Company of any liability in respect of the nonissuance or sale of such shares as to which such requisite authority shall not have been obtained.
+
+14\. Notices. Any notice, demand or request required or permitted to be given under this Agreement shall be in writing and shall be deemed given when delivered personally or three (3) days after being deposited in the United States mail, as certified or registered mail, with postage prepaid, (or by such other method as the Administrator may from time to time deem appropriate), and addressed, if to the Company, at its principal place of business, Attention: the Chief Financial Officer, and if to the Optionee, at his or her most recent address as shown in the employment or stock records of the Company.
+
+15\. Governing Law. The validity, construction, interpretation, and effect of this Option shall be governed by and determined in accordance with the laws of the State of Delaware.
+
+16\.  Severability. Should any provision or portion of this Agreement be held to be unenforceable or invalid for any reason, the remaining provisions and portions of this Agreement shall be unaffected by such holding.
+
+17\. Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall be deemed one instrument.
+
+18\. Tax Consequences and Reporting Obligation Upon Sale of Shares. If this Option is an “incentive stock option,” the tax benefits afforded to incentive stock options will be obtained by the Optionee only if the Shares received upon exercise of this Option are held for at least one year after the date of exercise of this Option and two years after the date this Option was granted to the Optionee. If the Optionee sells or otherwise transfers the Shares before the expiration of either of these one- or two-year periods, the sale or transfer will be treated for tax purposes as a “disqualifying disposition,” resulting in the following tax consequences: (a) the Optionee will not obtain the tax benefits afforded to incentive stock options, (b) the “spread” as of the date of exercise will be taxed to the Optionee at ordinary income tax rates, and (c) the amount of ordinary income resulting from the disqualifying disposition will be included in the Optionee’s W-2. These tax consequences are described in more detail in the prospectus that relates to the Company’s 2007 Stock Incentive Plan, as amended, a copy of which was delivered to the Optionee with this Option. To assure that the Company has the information necessary to comply with its tax reporting obligations, Optionee agrees to promptly notify the Company if any Shares are sold or transferred less than one year after the date of exercise or less than two years after the date this Option was granted, and report information regarding the disqualifying disposition in accordance with procedures established by the Company for this purpose.
+
+[The balance of this page intentionally left blank]  
+  
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.   
+  
+TRANS1 INC., OPTIONEE  
+a Delaware corporation  
+By:   
+(Signature)  
+Name:  
+(Type or print name)  
+Its:  Address:

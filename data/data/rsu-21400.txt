@@ -1,0 +1,226 @@
+Exhibit 10.8 
+
+Employee 
+
+
+
+THIS AGREEMENT, dated as of , 200 , is made by QC Holdings, Inc., a Kansas corporation (the “Corporation”), and , an employee of the Corporation or a Subsidiary of the Corporation (the “Optionee”). 
+
+WHEREAS, the Board of Directors of the Corporation (the “Board”) has adopted the QC Holdings, Inc. 2004 Equity Incentive Plan (the “Plan”); and 
+
+WHEREAS, the Plan provides for the granting of stock options by the Compensation Committee of the Board (the “Committee”) to eligible employees of the Corporation or any Subsidiary of the Corporation to purchase shares of the common stock of the Corporation, par value $.01 per share (the “Common Stock”), in accordance with the terms and provisions thereof; and 
+
+WHEREAS, the Committee considers the Optionee to be an employee who is eligible for a grant of stock options pursuant to the Plan, and has determined that it would be in the best interests of the Corporation to grant the option documented herein. 
+
+NOW, THEREFORE, the parties agree as follows: 
+
+1. Grant of Option.   
+  
+The Corporation hereby grants to the Optionee, subject to the terms and conditions of the Plan, and also subject to the terms and conditions of this Agreement, the right and option to purchase from the Corporation all or any part of an aggregate shares of the Common Stock (the “Shares”), at an exercise price of $ per share (the “Exercise Price”). This option (the “Option”) is intended to be and will be treated as a non-qualified stock option, and not as an incentive stock option within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended. 
+
+The number of Shares and the Exercise Price are each subject to adjustment under certain circumstances, as more fully set forth in Article XIII of the Plan and in Section 7 hereof. The term “Common Stock” includes any other class of stock or other securities resulting from such adjustment. 
+
+2. Option Expiration Date.   
+  
+Unless otherwise provided in this Agreement or in the Plan, the Option, to the extent it has not been previously exercised, shall expire as of 11:59 p.m. on , 20 (the “Option Expiration Date”), such date being 10 years from the Date of Grant. 
+
+-1- 
+
+* * *
+
+3. Option Exercise Limitations.   
+  
+Except to the extent otherwise provided in this Agreement and in the Plan, the Option may be exercised in accordance with the following schedule:   
+  
+On or After This Date
+
+The Option May be Exercised  
+with Respect to the Following  
+Cumulative Number of Shares  
+  
+[*1st Anniversary*]
+
+[*25%*]  
+  
+[*2nd Anniversary*]
+
+[*50%*]  
+  
+[*3rd Anniversary*]
+
+[*75%*]  
+  
+[*4th Anniversary*]
+
+[*100%*]  
+  
+4. Option Exercise Procedure.   
+  
+Subject to the limitations set forth in the Plan and in Section 3 hereof, the Option may be exercised in whole or in installments, and shall be exercised by the timely delivery to the Corporation, in the manner described in Section 15 hereof, of a written Notice of Election to Exercise Option in substantially the form attached hereto as Exhibit A. The Notice of Election to Exercise Option shall be accompanied by payment of the Exercise Price for the shares of Common Stock with respect to which the Option is being exercised, together with payment of any necessary withholding taxes. The Corporation may also require as a condition to the exercise of the Option that the Optionee sign and deliver to the Corporation a market standoff agreement in such form as provided by the Corporation. 
+
+5. Payment of the Exercise Price.   
+  
+The Exercise Price shall be paid (a) in cash, or by check, bank draft or money order payable to the order of the Corporation; (b) in shares of previously acquired Common Stock that have been owned by the Optionee for more than six months, duly endorsed and free of any restrictions and encumbrances; or (c) in any combination of the foregoing. Common Stock used to pay the Exercise Price shall be valued at its Fair Market Value as of the date of such exercise. In addition to the foregoing, if the Shares have been registered under the Securities Act of 1933 and are listed upon the Nasdaq National or SmallCap Markets, the Option may be exercised by a broker-dealer acting on behalf of the Optionee if (A) the broker-dealer is a member of the National Association of Securities Dealers, (B) the broker-dealer has received from the Optionee a fully- and duly-endorsed agreement evidencing such Option and instructions signed by the Optionee requesting the Corporation to deliver the shares of Common Stock subject to such Option to the broker-dealer on behalf of the Optionee and specifying the account into which such shares should be deposited, (C) adequate provision has been made with respect to the payment of any withholding taxes due upon such exercise, and (D) the broker-dealer and the Optionee have otherwise complied with Section 220.3(e)(4) of Regulation T, 12 CFR, Part 220 and any successor rules and regulations applicable to such exercise (“Cashless Exercise”). 
+
+-2- 
+
+* * *
+
+6. Restrictions on Transfer.   
+  
+The Option shall not be subject in any manner to alienation, anticipation, sale, transfer, assignment, pledge, or encumbrance, except for transfer by will or the laws of descent and distribution. Any attempt to transfer, assign, pledge, hypothecate or otherwise dispose of the Option, or to subject the Option to execution, attachment or similar process, contrary to the provisions hereof, shall be void and ineffective, shall give no right to any purported transferee, and may, at the discretion of the Committee, result in forfeiture of the Option. 
+
+7. Adjustments.   
+  
+If the shares of Common Stock, as constituted on the date of this Agreement, are changed into or exchanged for a different number or kind of shares of stock or other securities of the Corporation or of another corporation (whether by reason of merger, consolidation, recapitalization, reclassification, stock split, combination of shares or otherwise), or if the number of such shares of Common Stock is increased through the payment of a stock dividend, or a dividend on the shares of Common Stock or rights or warrants to purchase securities of the Corporation is made, then there shall be substituted for or added to each share subject to the Option, the number and kind of shares of stock or other securities into which each outstanding share of Common Stock shall be so changed or for which each such share shall be exchanged or to which each such share shall be entitled, as the case may be, and the Exercise Price shall be adjusted as necessary. In the event there is any other change in the number or kind of the outstanding shares of Common Stock, or any stock or other securities into which the Common Stock shall have been changed or for which it shall have been exchanged, or an extraordinary cash dividend (as determined by the Committee) is paid on the Common Stock, then if the Committee shall, in its sole discretion, determine that such change or event equitably requires an adjustment in the number or Exercise Price of shares subject to the Option, such adjustment shall be made in accordance with such determination and in accordance with Article XIII of the Plan. 
+
+No fractional shares of Common Stock or units of other securities shall be issued pursuant to any such adjustment, and any fractions resulting from any such adjustment shall be eliminated in each case by rounding downward to the nearest whole share. 
+
+8. Other Option Conditions.   
+  
+(a) If the Optionee’s employment with the Corporation or a Subsidiary of the Corporation is terminated before the Option Expiration Date for any reason other than (i) the death of the Optionee, (ii) the “disability” (as defined in Internal Revenue Code Section 22(e)(3)) of the Optionee or (iii) on account of any act of fraud, intentional misrepresentation, embezzlement, misappropriation, or conversion of assets or opportunities of the Corporation or any of its Subsidiaries, then the Option may be exercised, to the extent the Optionee was able to do so as of the date of such termination of employment, within a period ending on the earlier to occur of (A) the date that is three months following the termination of employment, or (B) the Option Expiration Date.   
+  
+(b) If the Optionee dies before the Option Expiration Date and is employed by the Corporation or a Subsidiary of the Corporation at the time of death, the Option may be exercised, to the extent the Optionee was entitled to exercise the Option at the date of his or her death, within a period of one year following the date of death (if otherwise prior to the Option Expiration Date), by the executor or the administrator of the estate of the Optionee, or by the person or persons who shall have acquired the Option directly from the Optionee by bequest or inheritance.   
+  
+-3- 
+
+* * *
+
+(c) If the Optionee’s employment is terminated because of the “disability” (as defined in Internal Revenue Code Section 22(e)(3)) of the Optionee, the Option may be exercised within a period ending on the earlier to occur of (A) the date that is one year following the termination of employment, or (B) the Option Expiration Date.   
+  
+(d) Notwithstanding anything herein to the contrary, if the employment of the Optionee is terminated prior to the Option Expiration Date on account of fraud, intentional misrepresentation, embezzlement, misappropriation, or conversion of assets or opportunities of the Corporation or any of its Subsidiaries, then the Option, to the extent it has not been previously exercised, shall automatically and immediately expire, regardless of the extent to which it would have been otherwise exercisable at such time, as of the date of such termination of employment.   
+  
+(e) Upon termination of the Optionee’s employment with the Corporation or a Subsidiary for any reason, that portion of the Option which had not become exercisable at such date shall automatically and immediately expire.   
+  
+(f) In connection with a Change of Control Event, the Option may be assumed, converted or replaced by the successor corporation (if any), which assumption, conversion or replacement will be binding on the Optionee. In the alternative, the successor corporation may substitute equivalent Options. In the event such successor corporation (if any) does not assume or substitute Options, as provided above, pursuant to a Change of Control Event, the Option will become exercisable in full immediately prior to the consummation of such Change of Control Event, (provided, however, that no acceleration shall occur if the Optionee is part of the group that is attempting to initiate the Change of Control Event), and if the Option is not exercised at or prior to the consummation of the Change of Control Event, the Option shall terminate immediately upon the consummation of such event.   
+  
+9. Government Regulations, Registration and Listing of Stock.   
+  
+(a) This Agreement, the grant and exercise of the Option, and the Corporation’s obligation to sell and deliver Common Stock pursuant to the exercise of the Option, shall be subject to all applicable federal, state and local laws, rules and regulations and to such approvals which may be required by regulatory or governmental agencies.   
+  
+(b)
+
+Whether or not a registration statement under the Securities Act of 1933 (the “Securities Act”) is then in effect with respect to shares of Common Stock distributable upon the exercise of the Option, or the offer and sale of such shares is exempt from the registration provisions of the Securities Act, the Corporation may in its discretion require that, as a condition precedent to the exercise of the Option, the person exercising the Option give to the Corporation a written representation and undertaking, satisfactory in form and substance to the Corporation, that he is acquiring   
+  
+-4- 
+
+* * *
+
+the shares for his own account for investment and not with a view to the distribution or resale thereof and otherwise establish to the Corporation’s satisfaction that the offer or sale of the shares issuable upon exercise of the Option will not constitute or result in any breach or violation of the Securities Act or any similar act or statute or any rules or regulations thereunder. In the event a registration statement under the Securities Act is not then in effect with respect to shares of Common Stock issuable upon exercise of the Option, the Corporation may place upon any stock certificate an appropriate legend referring to the restrictions on disposition under the Securities Act.   
+  
+(c) If the class of shares issuable upon exercise of the Option is listed on any national securities exchange, the Corporation shall not be required to issue or deliver any certificate for shares upon the exercise of the Option prior to the listing of the shares so issuable on such national securities exchange and prior to the registration of the same under the Securities Act.   
+  
+10. Withholding Taxes.   
+  
+The Corporation’s obligation to deliver shares of Common Stock upon the exercise of the Option shall be subject to the Optionee’s satisfaction of all applicable federal, state and local tax withholding requirements arising out of the exercise of the Option. In addition to the foregoing, if the Optionee disposes of any Shares within the two-year period following the Date of Grant, or within the one-year period following the date of exercise of the Option, the Corporation shall have the right to require the Optionee to remit to the Corporation an amount sufficient to satisfy all federal, state, and local withholding tax requirements. The Corporation may allow the Optionee to pay the amount of taxes required by law to be withheld (i) in cash, or by check, bank draft or money order payable to the order of the Corporation or (ii) by allowing the Optionee to deliver to the Corporation shares of Common Stock having a Fair Market Value on the date of payment equal to the minimum amount of such required withholding taxes determined on the date that the amount of tax to be withheld is determined. 
+
+To the extent the Optionee fails to satisfy the above withholding obligation, the Corporation shall, to the extent permitted by law, have the right to deduct from any payments of any kind otherwise due to the Optionee, any such withholding taxes. 
+
+11. No Stockholder Rights.   
+  
+The Optionee shall have no rights as a stockholder with respect to any shares of Common Stock subject to the Option prior to the date of issuance to him or her of a certificate for such shares. 
+
+-5- 
+
+* * *
+
+12. No Other Rights Created.   
+  
+Neither this Agreement nor the Option herein granted shall constitute an employment agreement nor shall they confer upon the Optionee any right to remain in the employ of the Corporation or any Subsidiary thereof. The Optionee shall remain subject to termination of his or her employment to the same extent as though this Agreement did not exist. 
+
+13. Beneficiaries. The Optionee may, in the form attached hereto as Exhibit B, file with the Corporation the written designation of one or more persons as the beneficiary (the “Beneficiary”) who shall be entitled to exercise the Optionee’s Options, if any, exercisable hereunder upon his or her death. An Optionee may, from time to time, revoke or change his or her Beneficiary designation without the consent of any prior Beneficiary by filing a new designation with the Corporation. The last such designation received by the Corporation shall be controlling; provided, however, that no designation, or change or revocation hereto, shall be effective unless received by the Corporation prior to the Optionee’s death, and in no event shall be effective as of a date prior to such receipt.   
+  
+If such Beneficiary designation is not in effect at the time of the Optionee’s death, or if no designated Beneficiary survives the Optionee, or such designation conflicts with law, the Options exercisable hereunder upon his or her death may be exercised by the Optionee’s estate. If the Corporation is in doubt as to the right of any person to exercise such Options, the Corporation may postpone the exercise, without liability or any interest thereon, until the rights thereon are determined. 
+
+14. Binding Effect.   
+  
+The Optionee hereby acknowledges receipt of a copy of the Plan and agrees to be bound by all of the terms and provisions of the Plan. The terms of the Plan as it presently exists, and as it may hereafter be amended, are deemed incorporated herein by reference, and any conflict between the terms of this Agreement and the terms and provisions of the Plan shall be resolved by the Committee, whose determination shall be final and binding on all parties. In general, and except as otherwise determined by the Committee, the provisions of the Plan shall be deemed to supersede the provisions of this Agreement to the extent of any conflict between the Plan and this Agreement. Terms that have their initial letter capitalized but that are not otherwise defined in this Agreement shall have the meanings given to them in the Plan in effect as of the date of this Agreement. 
+
+15. Notices.   
+  
+Any notice hereunder to the Corporation shall be addressed to it at QC Holdings, Inc., Attention: Chief Financial Officer, 9401 Indian Creek Parkway, Suite 1500, Overland Park, Kansas 66210. Any notice hereunder to the Optionee shall be addressed to him or her at the address set forth below, subject to the right of either party at any time hereafter to designate in writing a different address. 
+
+-6- 
+
+* * *
+
+16. Amendment.   
+  
+The Committee may at any time unilaterally amend the terms and conditions pertaining to the Option, provided, however that any such amendment which is adverse to the Optionee shall require the Optionee’s written consent. Any other amendment of this Agreement shall require a written agreement executed by both parties. 
+
+17. Miscellaneous.   
+  
+This Agreement contains a complete statement of all the arrangements between the parties with respect to its subject matter. This Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Kansas applicable to agreements made and to be performed exclusively in the State of Kansas. The headings in this Agreement are solely for convenience of reference and shall not affect its meaning or interpretation. 
+
+IN WITNESS WHEREOF, the Corporation has caused this Non-Qualified Stock Option Agreement to be executed by its duly authorized officer and the Optionee has executed this Agreement as of the day and year first above written.   
+  
+QC HOLDINGS, INC.  
+By:  
+  
+ACCEPTED AND AGREED TO:  
+  
+Optionee  
+  
+Address:  
+  
+-7- 
+
+* * *
+
+EXHIBIT A 
+
+QC Holdings, Inc. 
+
+9401 Indian Creek Parkway, Suite 1500 
+
+Overland Park, Kansas 66210 
+
+Attn: Chief Financial Officer 
+
+Subject: Notice of Intention to Exercise Option Under the QC Holdings, Inc. 2004 Equity Incentive Plan 
+
+As the “Optionee” under the Non-Qualified Stock Option Agreement entered into with QC Holdings, Inc. (the “Corporation”) dated , 200 (the “Option Agreement”), I hereby provide the Corporation with written notice that I elect to exercise my option to purchase shares as follows: 
+
+Number of Shares to be Acquired: 
+
+Method of Payment of Exercise Price: 
+
+I understand and agree that the determination of the Fair Market Value of the shares issued upon this exercise (and the shares, if any, used in the payment of the exercise price and/or withholding taxes) shall be made as of the day that this Notice of Intention to Exercise is received by the Corporation in accordance with Sections 6.2 and 14.5 of the QC Holdings, Inc. 2004 Equity Incentive Plan and Sections 5 and 10 of the Option Agreement. Concurrently herewith, I hereby pay, in the manner indicated immediately below, the amount, if any, required to be withheld to satisfy the applicable tax withholding as a result of the exercise of my option: 
+
+Method of Payment of Withholding Taxes: 
+
+The certificate for the shares should be forwarded to me at: 
+
+Address: 
+
+Signed: 
+
+Print or Type Name: 
+
+Date: 
+
+A-1 
+
+* * *
+
+EXHIBIT B 
+
+QC HOLDINGS, INC. 
+
+2004 EQUITY INCENTIVE PLAN 
+
+BENEFICIARY DESIGNATION 
+
+Pursuant to Section 14.11 of the QC Holdings, Inc. 2004 Equity Incentive Plan and my Non-Qualified Stock Option Agreement thereunder, I hereby designate the following person or persons as Beneficiary(ies), to receive any and all Options which may be exercisable pursuant to the Plan following my death: 
+
+Primary Beneficiary(ies) [include address and relationship]   
+  
+Secondary Beneficiary(ies) [include address and relationship]   
+  
+I hereby revoke any and all beneficiary designations previously made by me with respect to the Plan, and I reserve the right to revoke or to change in the future any beneficiary designation made hereunder by filing a new designation with the Corporation. 
+
+By the filing of this designation, I acknowledge that any Options exercisable pursuant to the Plan following my death shall be exercisable by the Primary Beneficiary(ies), if he or she survives me, and if no Primary Beneficiary survives me, then by the Secondary Beneficiary(ies); and if no Beneficiary survives me, then the Options shall be exercisable by my estate in accordance with the provisions of the Plan.   
+  
+Date Signature of Participant  
+  
+B-1 

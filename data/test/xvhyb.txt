@@ -1,0 +1,237 @@
+Exhibit 10.3
+
+FORM OF
+
+CLOUD PEAK ENERGY INC.
+
+2009 LONG TERM INCENTIVE PLAN
+
+
+
+THIS AGREEMENT, made as of the day of , 2013 (the “Grant Date”), between Cloud Peak Energy Inc., a Delaware corporation (the “Company”), and (the “Grantee”).
+
+WHEREAS, the Company has adopted the Cloud Peak Energy Inc. 2009 Long Term Incentive Plan, as amended from time to time (the “Plan”), in order to provide an additional incentive to certain employees and directors of the Company and its Subsidiaries; and
+
+WHEREAS, the Committee responsible for administration of the Plan has determined to grant Restricted Stock Units to the Grantee as provided herein.
+
+NOW, THEREFORE, the parties hereto agree as follows:
+
+1. Grant of Restricted Stock Units.
+
+1.1. The Company hereby grants to the Grantee, and the Grantee hereby accepts from the Company, Shares of Restricted Stock Units subject to, and in accordance with, the terms and conditions set forth in this Agreement. Each Restricted Stock Unit corresponds to one Share. The Restricted Stock Units shall be settled solely by delivery of a corresponding number of Shares at the times specified herein.
+
+1.2. This Agreement shall be construed in accordance with and consistent with, and subject to, the provisions of the Plan (the provisions of which are incorporated herein by reference); and, except as otherwise expressly set forth herein, the capitalized terms used in this Agreement shall have the same definitions as set forth in the Plan.
+
+2. Dividend Equivalent Rights.
+
+During the period that the Restricted Stock Units are outstanding, the Grantee shall be entitled to Dividend Equivalent Rights with respect to the Restricted Stock Units, in an amount equivalent to the dividends paid by the Company on a corresponding number of Shares. Dividend equivalents amounts credited in lieu of cash or stock dividends will be deemed to be reinvested in additional Shares based on the Fair Market Value of a Share on the date the dividend is paid (with any fractional Share resulting therefrom rounded up to a whole Share) and a corresponding additional number of Restricted Stock Units will be subject to the Award hereunder. Such additional Restricted Stock Units will be settled in Shares at the same time as the Restricted Stock Units to which the dividend equivalents relate.
+
+* * *
+
+  
+
+
+3. Vesting and Lapse of Restrictions.
+
+The Grantee may not sell, transfer, assign, exchange, pledge, encumber or otherwise dispose of any Restricted Stock Units or any Shares underlying such Restricted Stock Units prior to such Vesting Date (defined below) or as may otherwise be set forth within this Agreement, and the Restricted Stock Units are also restricted in the sense that they may be forfeited to the Company (together, the “Restrictions”). Subject to Sections 4 and 5 hereof, provided that the Grantee continues to serve as an employee of the Company or any of its Subsidiaries, all Restrictions shall lapse and the Restricted Stock Units shall vest on the third anniversary of the Grant Date (such date the “Vesting Date”).
+
+4. Effect of Certain Terminations of Employment.
+
+4.1. Termination—Generally. Except in the case of a termination described in Sections 4.2, 4.3 or 5 hereof, in the event the Grantee’s employment with the Company or any of its Subsidiaries is terminated on or after the Grant Date and prior to the Vesting Date, all Restricted Stock Units on which the Restrictions have not yet lapsed shall immediately be forfeited to the Company in their entirety without payment of consideration therefor to the Grantee.
+
+4.2. Qualifying Terminations. If the Grantee’s employment with the Company or any of its Subsidiaries is terminated for any of the reasons set forth below (and subject to Section 5 hereof), in each case if such termination occurs prior to the Vesting Date, a Pro Rata Portion (as defined below) of the Restricted Stock Units shall vest, and the Restrictions on such Restricted Stock Units shall lapse, as of the date of such termination, and the remaining Restricted Stock Units on which the Restrictions have not yet lapsed shall immediately be forfeited to the Company in their entirety without payment of consideration therefor to the Grantee. The “Pro Rata Portion” shall mean the total number of Restricted Stock Units multiplied by a fraction, the numerator of which is the number of days between (A) the Grant Date and (B) the date of the Grantee’s termination of employment, and the denominator of which is 1,095.
+
+(a) Death
+
+(b) Disability (as defined in the Plan)
+
+(c) Redundancy (as defined below)
+
+(d) If the Grantee is not subject to an Employment Agreement, termination for any other reason, other than a termination by the Company for Cause (as defined in the Plan), if there are exceptional circumstances and the Committee so decides prior to the date of the termination of the Grantee’s employment.
+
+(e) If the Grantee is subject to an Employment Agreement, termination by the Company for any reason other than for Cause as defined therein.
+
+2
+
+* * *
+
+  
+
+
+(f) If the Grantee is subject to an Employment Agreement, termination by the Grantee for Good Reason as defined therein.
+
+4.3. Retirement. If the Grantee’s employment with the Company or any of its Subsidiaries is terminated due to the Grantee’s Retirement (subject to Section 5 hereof) prior to the Vesting Date, a portion (as calculated below) of the Restricted Stock Units shall vest as of the date of such termination and the remaining Restricted Stock Units on which the Restrictions have not yet lapsed shall immediately be forfeited to the Company in their entirety without payment of consideration therefor to the Grantee. Solely for purposes of determining which portion of the Restricted Stock Units will vest upon the Grantee’s termination of employment due to a Retirement, the Restricted Stock Units will be divided into three separate tranches and service periods as set forth in the table below; provided, however, that the table below is not intended to modify the original Vesting Date set forth in Section 3 above:
+
+Percentage of Restricted Stock  
+Units Assigned to Tranche
+
+Period of Service  
+Assigned to  
+Restricted Stock Units
+
+“Date of  
+Nonforfeitability”  
+for Tranche  
+  
+Tranche 1
+
+One-Third (1/3)
+
+Grant Date to 3/11/2014
+
+3/11/2014  
+  
+Tranche 2
+
+One-Third (1/3)
+
+3/12/2014 to 3/11/2015
+
+3/11/2015  
+  
+Tranche 3
+
+One-Third (1/3)
+
+3/12/2015 to 3/11/2016
+
+3/11/2016  
+  
+If the Grantee’s employment with the Company or any of its Subsidiaries is terminated due to the Grantee’s Retirement prior to any Date of Nonforfeitability for a tranche set forth above, the Restricted Stock Units assigned to that tranche shall be forfeited to the Company in its entirety without payment of consideration to the Grantee. If the Grantee’s employment with the Company or any of its Subsidiaries is terminated due to the Grantee’s Retirement on or following the Date of Nonforfeitability for a tranche set forth above, the Restricted Stock Units assigned to the tranche will become immediately vested and all Restrictions on such Restricted Stock Units shall lapse.
+
+For example, if the Grantee terminates his employment due to a Retirement on March 20, 2015, he will become immediately vested in Tranche 1 and Tranche 2 of his Restricted Stock Units. All Restricted Stock Units assigned to Tranche 3 will be forfeited.
+
+By accepting the Restricted Stock Units, the Grantee acknowledges his understanding that if the Grantee becomes Retirement eligible prior to the Vesting Date, the Retirement provisions within this Section 4.3 may result in one or more tranches of the Restricted Stock Units being deemed to have vested for certain tax purposes prior to the time that this Agreement contractually vests the Restricted Stock Units.
+
+4.4. Definitions. For purposes of this Agreement:
+
+(a) “Employment Agreement” means an effective, written employment agreement between the Grantee and the Company. Notwithstanding any provision herein to the contrary, in the event of any inconsistency between this Section 4 or Section 5 and any Employment Agreement, the terms of the Employment Agreement shall control.
+
+3
+
+* * *
+
+  
+
+
+(b) “Redundancy” means the Company or any of its Subsidiaries, as applicable, has ceased, or intends to cease, to carry on the business or particular business function for the purposes of which the Grantee is or was employed by it, or has ceased, or intends to cease, to carry on that business or particular business function in the place where the Grantee is or was employed.
+
+(c) “Retirement” means retirement at or after age 65, or early retirement at or after age 55 with 10 years of service with the Company or any of its Subsidiaries.
+
+5. Effect of a Termination Following a Change in Control.
+
+If, within the two (2) year period following a Change in Control, the Grantee’s employment with the Company or any of its Subsidiaries is terminated (i) by the Company or any of its Subsidiaries without Cause (as defined in the Plan or, if applicable, an Employment Agreement) or (ii) if the Grantee is subject to an Employment Agreement, by the Grantee for Good Reason as defined therein, all outstanding Restricted Stock Units which have not become vested in accordance with Section 3 hereof shall vest, and the Restrictions on such Restricted Stock Units shall lapse in their entirety as of the date of such termination.
+
+6. Settlement of Restricted Stock Units and Issuance of Shares.
+
+6.1. Except as otherwise provided within this Agreement, not more than thirty (30) days after the date of the Vesting Date (or such earlier date of vesting as described in Sections 4 or 5 above), the Company will deliver to the Grantee (or in the case of the Grantee’s death, the Grantee’s Beneficiary or, if none, the Grantee’s estate) one Share for each vested Restricted Stock Unit subject to this Agreement, subject to the satisfaction of Section 11 below. The value of any fractional Restricted Stock Units, if any, shall be rounded down at the time Shares are issued to the Grantee in connection with the Restricted Stock Units. No fractional Shares, nor the cash value of any fractional Shares, will be issuable or payable to the Grantee pursuant to this Agreement. The value of such shares of Stock shall not bear any interest owing to the passage of time. Neither this Section 6 nor any action taken pursuant to or in accordance with this Section 6 shall be construed to create a trust or a funded or secured obligation of any kind.
+
+6.2. Notwithstanding any provision of this Agreement to the contrary, the issuance of Shares will be subject to compliance with all applicable requirements of federal, state, or foreign law with respect to such securities and with the requirements of any stock exchange or market system upon which the Shares may then be listed. No Shares will be issued hereunder if such issuance would constitute a violation of any applicable federal, state, or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Shares may then be listed. In addition, Shares will not be issued hereunder unless (a) a registration statement under the Securities Act is at the time of issuance in effect with respect to the shares issued or (b) in the opinion of legal counsel to the Company, the shares issued may be issued in accordance with the terms of an applicable exemption from the registration requirements of the Securities Act. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel
+
+4
+
+* * *
+
+  
+
+
+to be necessary to the lawful issuance and sale of any Shares subject to the Restricted Stock Units will relieve the Company of any liability in respect of the failure to issue such Shares as to which such requisite authority has not been obtained. As a condition to any issuance hereunder, the Company may require the Grantee to satisfy any qualifications that may be necessary or appropriate to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect to such compliance as may be requested by the Company. From time to time, the Board and appropriate officers of the Company are authorized to take the actions necessary and appropriate to file required documents with governmental authorities, stock exchanges, and other appropriate persons to make Shares available for issuance.
+
+6.3. The Grantee may receive, hold, sell or otherwise dispose of those Shares delivered to him or her pursuant to this Section 6 hereof free and clear of the Restrictions, but subject to compliance with all federal, state and other similar securities laws and the Company’s insider trading policies and stock ownership requirements.
+
+7. Rights of the Grantee.
+
+The Grantee shall have no rights as a stockholder of the Company with respect to the Restricted Stock Units until Shares are issued to the Grantee upon settlement of the Award. The Grantee’s rights in respect of the unvested Restricted Stock Units shall be limited to those of a general unsecured creditor of the Company.
+
+8. Grantee Bound by the Plan.
+
+The Grantee hereby acknowledges receipt of a copy of the Plan and agrees to be bound by all the terms and provisions thereof.
+
+9. No Right to Continued Employment.
+
+Nothing in this Agreement or the Plan shall be interpreted or construed to confer upon the Grantee any right with respect to continuance of employment by the Company, any Subsidiary or any Division, nor shall this Agreement or the Plan interfere in any way with the right of the Company, any Subsidiary or any Division to terminate the Grantee’s employment therewith at any time.
+
+10. Securities Laws or Dodd-Frank Clawback Policies.
+
+This Agreement is subject to any written clawback policies the Company, with the approval of the Board of Directors of Cloud Peak Energy Inc., may adopt. These clawback policies may subject the Grantee’s rights and benefits under this Agreement to reduction, cancellation, forfeiture or recoupment if certain specified events and wrongful conduct occur, including, but not limited to, an accounting restatement due to the Company’s material noncompliance with financial reporting regulations or other events and wrongful conduct specified in any such clawback policies adopted by the Company, with the approval of the Board of Directors of Cloud Peak Energy Inc., to conform to the Dodd-Frank Act and resulting
+
+5
+
+* * *
+
+  
+
+
+rules issued by the Securities and Exchange Commission and that the Company determines should apply to this Agreement.
+
+11. Withholding of Taxes.
+
+The Grantee shall pay to the Company, or the Company and the Grantee shall agree on such other arrangements necessary for the Grantee to pay, the applicable federal, state and local income taxes required by law to be withheld (the “Withholding Taxes”), if any, upon the vesting or delivery of the Shares, as applicable. The Company shall have the right to deduct from any distribution of cash to any Grantee, an amount equal to the Withholding Taxes with respect to the Restricted Stock Units. In satisfaction of the obligation to pay Withholding Taxes to the Company upon the lapse of Restrictions on any Restricted Stock Units, the Grantee may make a written election which may be accepted or rejected in the discretion of the Company, to have withheld a portion of the Shares then deliverable to the Grantee having an aggregate Fair Market Value as of the date such Restrictions lapse equal to the Withholding Taxes.
+
+12. Signature in Counterpart.
+
+This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signature thereto and hereto were upon the same instrument.
+
+13. Modification of Agreement.
+
+This Agreement may be modified, amended, suspended or terminated, and any terms or conditions may be waived, but only by a written instrument executed by the parties hereto. No waiver by either party hereto of any breach by the other party hereto of any provision of this Agreement to be performed by such other party shall be deemed a waiver of similar or dissimilar provisions at the time or at any prior or subsequent time.
+
+14. Severability.
+
+Should any provision of this Agreement be held by a court of competent jurisdiction to be unenforceable or invalid for any reason, the remaining provisions of this Agreement shall not be affected by such holding and shall continue in full force in accordance with their terms.
+
+15. Governing Law.
+
+Except as to matters of federal law, the validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of Delaware without giving effect to the conflicts of laws principles thereof.
+
+16. Notice.
+
+All notices required or permitted under this Agreement must be in writing and personally delivered or sent by mail and shall be deemed to be delivered on the date on which it is actually received by the person to whom it is properly addressed or if earlier the date it is sent via certified United States mail. Any person entitled to notice hereunder may waive such notice in
+
+6
+
+* * *
+
+  
+
+
+writing.
+
+17. Successors in Interest.
+
+This Agreement shall inure to the benefit of and be binding upon any successor to the Company. This Agreement shall inure to the benefit of the Grantee’s legal representatives. All obligations imposed upon the Grantee and all rights granted to the Company under this Agreement shall be final, binding and conclusive upon the Grantee’s beneficiaries, heirs, executors, administrators and successors.
+
+18. Resolution of Disputes.
+
+Any dispute or disagreement which may arise under, or as a result of, or in any way relate to, the interpretation, construction or application of this Agreement shall be determined by the Committee. Any determination made hereunder shall be final, binding and conclusive on the Grantee and the Company for all purposes; provided, however, that this dispute resolution provision shall not interfere with Grantee’s rights to pursue and protect his or her legal rights in a court of competent jurisdiction.
+
+19. Information Confidential.
+
+As partial consideration for the granting of the Award hereunder, the Grantee hereby agrees to keep confidential all information and knowledge, except that which has been disclosed in any public filings required by law, that the Grantee may have relating to the terms and conditions of this Agreement; provided, however, that such information may be disclosed as required by law and may be given in confidence to the Grantee’s spouse and tax and financial advisors. In the event any breach of this promise comes to the attention of the Company, it shall take into consideration that breach in determining whether to recommend the grant of any future similar award to the Grantee, as a factor weighing against the advisability of granting any such future award to the Grantee.
+
+20. Sections and Other Headings.
+
+The section and other headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+
+7
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, this Agreement has been executed as of the date first written above.
+
+CLOUD PEAK ENERGY INC.
+
+GRANTEE  
+  
+By: Colin Marshall
+
+Print Name:  
+  
+Title: President and Chief Executive Officer  
+  
+8
+
+* * *

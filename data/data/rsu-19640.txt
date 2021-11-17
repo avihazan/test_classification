@@ -1,0 +1,85 @@
+Exhibit 10.4
+
+
+
+(Nonstatutory Stock Option Under 
+
+Stericycle, Inc. 2000 Nonstatutory Stock Option Plan)
+
+Subject to the attached terms, Stericycle, Inc., a Delaware corporation (the "Company"), grants to the following employee of the Company or one of its subsidiaries (the "Employee"), as of the following grant date (the "Option Grant Date"), a nonstatutory stock option (the "Option") to purchase the following number of shares of the Company's Common Stock, par value $.01 per share (the "Option Shares"), at the following purchase price per share (the "Exercise Price"), exercisable in installments in accordance with the following vesting schedule, subject to the following terms:
+
+Employee: [name]
+
+Grant Date: [date]
+
+Number of Option Shares: [number of shares]
+
+Exercise Price Per Share: [price]
+
+Vesting Schedule:
+
+(1) 20% of the Option Shares vest on the first day of the first month following the month in which the first anniversary of the Option Grant Date occurs.
+
+(2) 80% of the Option Shares vest in 48 equal monthly installments beginning on the first day of the second month following the month in which the first anniversary of the Option Grant Date occurs and continuing on the first day of each of the next 47 months. (Note: because of rounding, the number of Option Shares vesting with the 48th installment may differ from the number vesting with the prior 47 installments.)
+
+Expiration Date of Option: [date]
+
+Terms of Option
+
+1\. Plan. This Option has been granted under the Stericycle, Inc. 2000 Nonstatutory Stock Option Plan (the "Plan"), which is incorporated in this Agreement by reference. Capitalized terms used in this Agreement without being defined (for example, the term "Plan Administrator") have the same meanings that they have in the Plan.
+
+2\. Exercisability. The Option may be exercised in whole or in part at any time prior to its Expiration Date to the extent that it is vested at the time of exercise. The Option shall not continue to vest after the Employee's Termination Date. Any portion of the Option that remains unexercised shall expire on the Expiration Date. The Option shall be subject to earlier expiration as provided in Paragraph 5.
+
+The Option shall become fully vested upon a Change in Control, as provided in Paragraph 8.2 of the Plan.
+
+3\. Manner of Exercise. The Option may be exercised in respect of a whole number of Option Shares (and only in respect of a whole number) by:
+
+(a) written notice of exercise to the Plan Administrator (or its designee) at the Company's principal executive offices (which are currently located at 28161 North Keith Drive, Lake Forest, Illinois 60045), which is received prior to the Option's Expiration Date;
+
+(b) full payment of the Exercise Price of the Option Shares in respect of which the Option is exercised; and
+
+(c) full payment of an amount equal to the Company's federal, state and local withholding tax obligation, if any, in connection with the exercise.
+
+In addition, the exercise of the Option shall be subject to any procedures and policies that the Plan Administrator has adopted to administer the Plan, which may be in effect at the time of exercise.
+
+4\. Manner of Payment. The Employee's payment of the Exercise Price of the Option Shares in respect of which the Option is exercised, and his or her payment of the Company's withholding tax obligation, if any, in connection with the exercise, shall be made by certified or bank cashier's check or by a wire transfer of immediately available funds.
+
+Payment also may be made by means of a "cashless" net exercise through a broker approved by the Plan Administrator for the purpose, pursuant to which the full amount due to the Company is remitted directly by the broker from the net proceeds of the sale of a sufficient number of Option Shares. In addition, payment may be made in any other manner authorized by the Plan and specifically permitted by the Plan Administrator at the time of exercise.
+
+5\. Early Expiration of Option. If the Employee ceases to serve as an employee of the Company or a Subsidiary, the unvested portion of the Option shall terminate on the Employee's Termination Date. The vested portion of the Option shall expire shall expire 90 days after the Employee's Termination Date (or if the Employee's employment terminated by reason of his or her death or Disability, on the first anniversary of the Termination Date), unless the exercisability of the Option is extended by the Plan Administrator (in the Plan Administrator's sole discretion). The Plan Administrator may extend the exercisability of the Option to any date ending on or before the Option's Expiration Date.
+
+6\. Transferability. The Option may not be transferred, assigned or pledged (whether by operation of law or otherwise), except as provided by will or the applicable intestacy laws; and the Option shall not be subject to execution, attachment or similar process. The Option may be exercised only by the Employee or, in the case of his or her death, by the person or persons to whom the Option passes by the Employee's will or the applicable intestacy laws (or by the legal representative of the Employee's estate).
+
+7\. Interpretation. This Agreement is subject to the terms of the Plan, as the Plan may be amended (but except as required by applicable law, no amendment of the Plan after the Option Grant Date shall adversely affect the Employee's rights in respect of the Option without the Employee's consent). If there is a conflict or inconsistency between this Agreement and the Plan, the terms of the Plan shall control. The Plan Administrator's interpretation of this Agreement and the Plan shall be final and binding.
+
+8\. No Employment Right. Nothing in this Agreement shall be considered to confer on the Employee any right to continue in the employ of the Company or a Subsidiary or to limit the right of the Company or a Subsidiary to terminate the Employee's employment.
+
+9\. No Stockholder Rights. The Employee shall not have any rights as a stockholder of the Company in respect of any of the Option Shares unless and until Option Shares are issued to the Employee upon the exercise of one or more installments of the Option.
+
+10\. Governing Law. This Agreement shall be governed in accordance with the laws of the State of Illinois.
+
+11\. Binding Effect. This Agreement shall be binding on the Company and the Employee and on the Employee's heirs, legatees and legal representatives.
+
+12\. Effective Date. This Agreement shall not become effective until the Employee accepts this Agreement by returning a copy to the Company completed and signed on the first page by the Employee. When the Employee so accepts this Agreement, this Agreement shall become effective, retroactive to the Option Grant Date, without the necessity of further action by either the Company or the Employee.
+
+undersigned, thereunto duly authorized. 
+
+Stericycle, Inc.
+
+By 
+
+Mark C. Miller
+
+President and Chief Executive Officer
+
+Acceptance by Employee
+
+I accept this Stock Option Agreement and agree to be bound by all of its terms. I acknowledge receipt of a copy of the Stericycle, Inc. 2000 Nonstatutory Stock Option Plan. In consideration, in part, of the option granted to me under this Stock Option Agreement, I have signed a Confidentiality and Noncompetition Agreement with the Company, dated as of the Option Grant Date.
+
+Employee's Signature: 
+
+Name (please print): 
+
+Address: 
+
+Social Security Number: 

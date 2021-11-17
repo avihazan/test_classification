@@ -1,0 +1,318 @@
+Exhibit 10.40
+
+
+
+Dated as of September 21, 2007
+
+by and between
+
+AGILITY CAPITAL, LLC
+
+as Agility
+
+and
+
+NORTH AMERICAN SCIENTIFIC, INC., a Delaware corporation and
+
+NORTH AMERICAN SCIENTIFIC, INC., a California corporation
+
+collectively, as Borrower
+
+TOTAL CREDIT AMOUNT: Up to $750,000
+
+Maturity Date:
+
+November 20, 2007  
+  
+Formula: 
+
+None  
+  
+Facility Origination Fee: 
+
+$20,000  
+  
+Interest: 
+
+Prime plus 6%, variable  
+  
+Warrants:
+
+Described in the Warrant Document  
+  
+  
+
+
+The information set forth above is subject to the terms and conditions set forth in the balance of this Agreement. The parties agree as follows:
+
+* * *
+
+1. Advances and Payments.
+
+(a) Advances. Borrower may request one or more advances (each, an “Advance” and collectively, the “Advances”), up to the following maximum outstanding amounts:
+
+(i)
+
+Advance in the principal amount of up to $500,000 upon the execution of all loan documents.  
+  
+(ii)
+
+Advance of up to $250,000 upon receipt of a term sheet acceptable to Agility from a lead investor acceptable to Agility, in each case in its sole discretion in respect of a PIPE financing arranged by CIBC World Markets (“CIBC”).  
+  
+Agility’s obligation to make any Advance or Advances under this Agreement is subject to (i) Agility’s reasonable determination, in its sole discretion, that there has not occurred a circumstance or circumstances that have a Material Adverse Effect, and (ii) receipt of a subordination agreement and account control agreement from Silicon Valley Bank reasonably acceptable to Agility, (iii) receipt of Borrower’s engagement letter from CIBC and copies of the documents effecting the sale of Nomos Radiation Oncology, (iv) receipt of evidence of the termination of the financing statement of Partners for Growth, and (v) the execution, delivery and filing of such instruments and agreements, as Agility reasonably deems appropriate.
+
+(b) Interest. Borrower shall pay interest on the outstanding principal balance of the Advance and other monetary Obligations at a floating rate per annum equal to Six Percent (6.0%) above the Prime Rate quoted in The Wall Street Journal, to be adjusted from time to time as such rate changes. Interest shall be calculated on the basis of a 360-day year for the actual number of days elapsed, and shall be payable in arrears on the first day of each month. Any partial month shall be prorated on the basis of a 30-day month based on the actual number of days outstanding.
+
+(c) Fees. Borrower shall pay Agility an origination fee of $20,000 on the date of this Agreement, which may be net-funded from the first Advance. 
+
+(d) Warrants. Borrower is concurrently issuing to Agility a Warrant to Purchase Stock on the terms and conditions set forth therein (the “Warrant”).
+
+(e) Maturity Date. All amounts outstanding hereunder are due and payable on November 20, 2007 (the “Maturity Date”). Borrower may prepay all or any part of the Advance without penalty or premium.
+
+(f) Late Payment. Prior to the Maturity Date, if any payment of interest or any other amount owing to Agility is not made within ten (10) days after the due date, Borrower shall pay Agility a late payment fee equal to $1,000. If any amount is outstanding under this Agreement on the day after the Maturity Date, Borrower shall pay Agility a fee of $5,000. After the occurrence and during the continuance of an Event of Default, the Obligations shall bear interest at a rate equal to 18% per annum. The terms of this paragraph shall not be construed as Agility’s consent to Borrower’s failure to pay any amounts in strict accordance with this Agreement, and Agility’s charging any such fees and/or acceptance of any such payments shall not restrict Agility’s exercise of any remedies arising out of any such failure.
+
+2. Security Interest. As security for all present and future indebtedness, guarantees, liabilities, and other obligations of Borrower to Agility under this Agreement, including all fees specified in Section 1 (collectively, the “Obligations”), Borrower grants Agility a security interest in all of Borrower’s personal property, whether now owned or hereafter acquired, including without limitation the property described on Exhibit A attached hereto, and all products, proceeds and insurance proceeds of the foregoing (collectively, the “Collateral”). Borrower authorizes Agility to execute such documents and take such actions as Agility reasonably deems appropriate from time to time to perfect or continue the security interest granted hereunder.
+
+2.
+
+* * *
+
+3. Representations and Warranties. Borrower represents to Agility as follows (which shall be deemed continuing throughout the term of this Agreement):
+
+(a) Authorization. Borrower is and will continue to be, duly organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation, and Borrower is and will continue to be qualified and licensed to do business in all jurisdictions in which it is required to do so; the execution, delivery and performance by Borrower of this Agreement, and all other documents contemplated hereby have been duly and validly authorized by all necessary corporate action, and do not violate Borrower’s Articles of Incorporation or by-laws, or any law or any material agreement or instrument which is binding upon Borrower or its property. Borrower has no wholly owned or partially owned subsidiaries and is not a partner or joint venturer in any partnership or joint venture.
+
+(b) State of Incorporation; Places of Business; Locations of Collateral. Borrower is a corporation incorporated and in good standing under the laws of the state of its incorporation, as corporation number _________. The address set forth in this Agreement under Borrower’s signature is Borrower’s chief executive office. Other than the chief executive office, the Collateral is located at the address(es) set forth on Exhibit B.
+
+(c) Title to Collateral; Permitted Liens. Borrower is now, and will at all times in the future be, the sole owner of all the Collateral. The Collateral now is and will remain free and clear of any and all liens, security interests, encumbrances and adverse claims, except for (i) purchase money security interests in specific items of Equipment; (ii) leases of specific items of Equipment; (iii) liens for taxes, fees, assessments or other governmental charges or levies, either not delinquent or being contested in good faith by appropriate proceedings, provided the same have no priority over any of Agility’s security interests; (iv) liens of materialmen, mechanics, warehousemen, carriers, or other similar liens arising in the ordinary course of business and securing obligations that are not delinquent; (v) the first priority security interest of Silicon Valley Bank; and (vi) those liens set forth Exhibit B.
+
+(d) Financial Condition, Statements and Reports. The financial statements provided to Agility by Borrower have been prepared in accordance with generally accepted accounting principles, consistently applied (“GAAP”). All financial statements now or in the future delivered to Agility will fairly reflect the financial condition of Borrower, at the times and for the periods therein stated. Between the last date covered by any such statement provided to Agility and the date hereof, there has been no circumstance that could constitute or give rise to a Material Adverse Effect. Borrower has timely filed, and will timely file, all tax returns and reports required by applicable law, and Borrower has timely paid, and will timely pay, all applicable taxes, assessments, deposits and contributions now or in the future owed by Borrower. 
+
+(e) Compliance with Law. Borrower has complied, and will comply, in all material respects, with all provisions of all applicable laws and regulations.
+
+(f) Information. All information provided to Agility by or on behalf of Borrower on or prior to the date of this Agreement is true and correct in all material respects, and no representation or other statement made by Borrower to Agility contains any untrue statement of a material fact or omits to state a material fact necessary to make any statements made to Agility not misleading at the time made.
+
+3.
+
+* * *
+
+(g) Litigation. Except as disclosed on Exhibit B, there is no claim or litigation pending or (to best of Borrower’s knowledge) threatened against Borrower. Borrower will promptly inform Agility in writing of any claim or litigation in the future which, either separately or in the aggregate.
+
+(h) Subsidiaries. Except as disclosed on Exhibit B, Borrower has no wholly-owned or partially owned subsidiaries and Exhibit B sets forth all loans by Borrower to, and all investments by Borrower in, any person, entity, corporation partnership or joint venture.
+
+(i) Deposit and Investment Accounts. Borrower maintains only the operating, savings, deposit, securities and investment accounts listed on Exhibit B. 
+
+4. Covenants.
+
+(a) Reports. Borrower will provide to Agility in form and substance acceptable to Agility (i) monthly unaudited financial statements, prepared in accordance with GAAP, consistently applied, within thirty (30) days after the last day of each month; (ii) within fifteen (15) days after the last day of each month, copies of all reports and statements received by Borrower from any of its banks or other financial institutions (in lieu of such requirement, Borrower may grant Agility on-line “view only” access to all of its accounts on terms acceptable to Agility); (iii) annual audited financial statements prepared in accordance with GAAP, consistently applied, together with an unqualified upon thereon of an independent certified public accountant, and copies of Borrower’s tax returns for such year, within one hundred twenty (120) days of the last day of such year; (iv) copies of borrowing base and compliance certificates and financial statements that Borrower delivers to Silicon Valley Bank, when delivered to Silicon Valley Bank; and (v) upon request, such other information relating to Borrower’s operations and condition, including information on the status of any acquisitions or equity investments or sales of Borrower’s securities, as Agility may reasonably request from time to time. Agility shall have the right to audit and inspect the Collateral, from time to time, upon reasonable notice to Borrower. Agility or its officers, employees, or agents shall have a right to visit Borrower’s premises and interview Borrower’s officers at Borrower’s expense, such expense to be approved in advance by Borrower.
+
+(b) Insurance. Borrower will maintain insurance on the Collateral and Borrower’s business, in amounts and of a type that are customary to businesses similar to Borrower’s, and Agility will be named in a Agility’s loss payable endorsement in favor of Agility, in form reasonably acceptable to Agility.
+
+(c) Negative Covenants. Without Agility’s prior written consent, Borrower shall not do any of the following: (i) permit or suffer a merger, change of control, or acquisition of all or substantially all of Borrower’s assets other than in a transaction, the terms of which provide for immediate payment of all amounts outstanding under this Agreement; (ii) acquire any assets outside the ordinary course of business; (iii) sell, lease, license, encumber or transfer any Collateral except for sales in the ordinary course of business and for sales of assets publicly announced prior to the date hereof (in which case Agility shall release its security interest in the part of the Collateral that is sold, effective immediately prior to such sale, but retains its security interest in the proceeds of such disposition); (iv) pay or declare any dividends on Borrower’s stock; (v) redeem, purchase or otherwise acquire, any of Borrower’s stock, except for stock from terminated employees or contractors, to the extent required or permitted under any employment or contractor agreements; (vi) make any investments in, or loans or advances to, any person, including without limitation any investments in, or downstreaming of funds to, any subsidiary or affiliate of Borrower; (vii) incur any indebtedness, other than trade debt and capital lease obligations incurred in the ordinary course of business, and indebtedness of up to $3,000,000 to Silicon Valley Bank; (viii) make any payment on any of Borrower’s indebtedness that is subordinate to the Obligations, other than in accordance with the subordination agreement, if any, in favor of Agility relating thereto; (ix) make any deposits or investments into any investment or depository accounts unless they are subject to an account control agreement acceptable to Agility, or (x) agree to do any of the foregoing.
+
+4.
+
+* * *
+
+5. Events of Default. Any one or more of the following shall constitute an Event of Default under this Agreement:
+
+(a) Borrower shall fail to pay any principal of or interest on any Loans or any other monetary Obligations within ten days after the date due; or
+
+(b) Borrower shall fail to comply with any other provision of this Agreement, which failure is not cured within ten days after the sooner of (i) the date that Borrower has knowledge of that failure or (ii) Borrower’s receipt of notice from Agility; or
+
+(c) Any warranty, representation, statement, report or certificate made or delivered to Agility by Borrower or on Borrower’s behalf shall be untrue or misleading in a material respect as of the date given or made, or shall become untrue or misleading in a material respect after the date hereof which cannot be corrected after notice to the satisfaction of Agility, acting reasonably; or
+
+(d) A default or event of default shall occur under any agreement to which Borrower is a party or by which it is bound (i) resulting in a right by the other party or parties, whether or not exercised, to accelerate the maturity of any indebtedness or (ii) that could have a Material Adverse Effect, as defined below; or
+
+(e) Any portion of Borrower’s assets is attached, seized or levied upon, or a judgment for more than $50,000 is awarded against Borrower and is not stayed within ten days; or
+
+(f) Dissolution or termination of existence of Borrower; or appointment of a receiver, trustee or custodian, for all or any material part of the property of, assignment for the benefit of creditors by, or the commencement of any proceeding by or against Borrower under any reorganization, bankruptcy, insolvency, arrangement, readjustment of debt, dissolution or liquidation law or statute of any jurisdiction, now or in the future in effect (except that, in the case of a proceeding commenced against Borrower, Borrower shall have 60 days after the date such proceeding was commenced to have it dismissed, provided Agility shall have no obligation to make any Loans during such period); or
+
+(g) The occurrence of a “Material Adverse Effect”, which shall mean (i) a material adverse change in the business, prospects, operations, results of operations, assets, liabilities or financial or other condition of Borrower, (ii) the material impairment of Borrower’s ability to perform its Obligations or of Agility’s ability to enforce the Obligations or realize upon the Collateral, or (iii) a material adverse change in the value of the Collateral.
+
+5.
+
+* * *
+
+6. Remedies.
+
+(a) Remedies. Upon the occurrence and during the continuance of any Event of Default, Agility, at its option, may do any one or more of the following: (a) Accelerate and declare the Obligations to be immediately due, payable, and performable; (b) Take possession of any or all of the Collateral wherever it may be found, and for that purpose Borrower hereby authorizes Agility to enter Borrower’s premises without interference to search for, take possession of, keep, store, or remove any of the Collateral, and remain on the premises or cause a custodian to remain on the premises in exclusive control thereof, without charge by Borrower for so long as Agility reasonably deems it necessary in order to complete the enforcement of its rights under this Agreement or any other agreement; provided, however, that should Agility seek to take possession of any of the Collateral by Court process, Borrower hereby waives: (i) any bond and any surety or security relating thereto; (ii) any demand for possession prior to the commencement of any suit or action to recover possession thereof; and (iii) any requirement that Agility retain possession of, and not dispose of, any such Collateral until after trial or final judgment; (c) Require Borrower to assemble any or all of the Collateral and make it available to Agility at places designated by Agility; (d) Complete the processing of any Collateral prior to a disposition thereof and, for such purpose and for the purpose of removal, Agility shall have the right to use Borrower’s premises, equipment and all other property without charge by Borrower; (e) Collect and dispose of and realize upon any investment property, including withdrawal of any and all funds from any deposit or securities accounts; (f) Dispose of any of the Collateral, at one or more public or private sales, in lots or in bulk, for cash, exchange or other property, or on credit, and to adjourn any such sale from time to time without notice other than oral announcement at the time scheduled for sale; and (g) Demand payment of, and collect any accounts, general intangibles or other Collateral and, in connection therewith, Borrower irrevocably authorizes Agility to endorse or sign Borrower’s name on all collections, receipts, instruments and other documents, and, in Agility’s good faith business judgment, to grant extensions of time to pay, compromise claims and settle accounts, general intangibles and the like for less than face value; Borrower grants Agility a license, exercisable from and after an Event of Default has occurred, to use and copy any trademarks, service marks and other intellectual property in which Borrower has an interest to effect any of the foregoing remedies. All reasonable attorneys’ fees, expenses, costs, liabilities and obligations incurred by Agility with respect to the foregoing shall be added to and become part of the Obligations, and shall be due on demand.
+
+(b) Application of Proceeds. All proceeds realized as the result of any sale or other disposition of the Collateral shall be applied by Agility first to the reasonable costs, expenses, liabilities, obligations and attorneys’ fees incurred by Agility in the exercise of its rights under this Agreement, second to any fees and Obligations other than interest and principal, third to the interest due upon any of the Obligations, and fourth to the principal of the Obligations, in such order as Agility shall determine in its sole discretion. Any surplus shall be paid to Borrower or other persons legally entitled thereto; Borrower shall remain liable to Agility for any deficiency.
+
+(c) Remedies Cumulative. In addition to the rights and remedies set forth in this Agreement, Agility shall have all the other rights and remedies accorded a secured party under the California Uniform Commercial Code and under all other applicable laws, and under any other instrument or agreement now or in the future entered into between Agility and Borrower, and all of such rights and remedies are cumulative and none is exclusive. Exercise or partial exercise by Agility of one or more of its rights or remedies shall not be deemed an election, nor bar Agility from subsequent exercise or partial exercise of any other rights or remedies. The failure or delay of Agility to exercise any rights or remedies shall not operate as a waiver thereof, but all rights and remedies shall continue in full force and effect until all of the Obligations have been fully paid and performed.
+
+(d) Power of Attorney. After the occurrence and during the continuance of an Event of Default, Borrower irrevocably appoints Agility (and any of Agility’s designated employees or agents) as Borrower’s true and lawful attorney in fact to: endorse Borrower’s name on any checks or other forms of payment; make, settle and adjust all claims under and decisions with respect to Borrower’s policies of insurance; settle and adjust disputes and claims respecting accounts, general intangibles and other Collateral; execute and deliver all notices, instruments and agreements in connection with the perfection of the security interest granted in this Agreement; sell, lease or otherwise dispose of all or any part of the Collateral; and take any other action or sign any other documents required to be taken or signed by Borrower, or reasonably necessary to enforce Agility’s rights or remedies or otherwise carry out the purposes of this Agreement. The appointment of Agility as Borrower’s attorney in fact, and each of Agility’s rights and powers, being coupled with an interest, are irrevocable until all Obligations owing to Agility have been paid and performed in full.
+
+6.
+
+* * *
+
+7. Exit Fee. If Borrower ceases to do business, or is dissolved, or liquidated, in each case before payment in full of the Obligations, Agility may require that Borrower pay Agility a fee equal to the greater of (i) $250,000 or (ii) the amount that Agility would have been entitled to receive in connection with such transaction had Agility exercised the Warrant immediately before the consummation of such transaction.
+
+8. Waivers. The failure of Agility at any time or times to require Borrower to strictly comply with any of the provisions of this Agreement or any other present or future agreement between Borrower and Agility shall not waive or diminish any right of Agility later to demand and receive strict compliance therewith. Any waiver of any default shall not waive or affect any other default, whether prior or subsequent, and whether or not similar. None of the provisions of this Agreement or any other agreement shall be deemed to have been waived except by a specific written waiver signed by an authorized officer of Agility. Borrower waives demand, protest, notice of protest and notice of default or dishonor, notice of payment and nonpayment, release, compromise, settlement, extension or renewal of any commercial paper, instrument, account, general intangible, document or guaranty at any time held by Agility on which Borrower is or may in any way be liable, and notice of any action taken by Agility, unless expressly required by this Agreement.
+
+9. Indemnity. Borrower shall indemnify Agility for any costs or liabilities, including reasonable attorneys’ fees, incurred by Agility in connection with this Agreement.
+
+10. Confidentiality. In handling any confidential non-public information provided to Agility by Borrower, Agility shall exercise the same degree of care that it exercises with respect to its own proprietary information of the same types to maintain the confidentiality of the same, except that disclosure of such information may be made (i) to subsidiaries or affiliates of Agility in connection with their present or prospective business relations with Borrower, (ii) to prospective transferees or purchasers of any interest in the Obligations, provided that they have entered into a comparable confidentiality agreement with respect thereto, (iii) as required by law, regulations, rule or order, subpoena, judicial order or similar order, (iv) as may be required in connection with the examination, audit or similar investigation of Agility, and (v) as Agility may deem appropriate in connection with the exercise of any remedies hereunder. Confidential information shall not include information that either: (a) is in the public domain, or becomes part of the public domain, after disclosure to Agility through no fault of Agility; or (b) is disclosed to Agility by a third party, provided Agility does not have actual knowledge that such third party is prohibited from disclosing such information.
+
+11. Governing Law; Jurisdiction; Venue. This Agreement and all acts and transactions hereunder and all rights and obligations of Agility and Borrower shall be governed by the internal laws (and not the conflict of laws rules) of the State of California. As a material part of the consideration to Agility to enter into this Agreement, Borrower (i) agrees that all actions and proceedings relating directly or indirectly to this Agreement shall, at Agility’s option, be litigated in courts located within California, and that the exclusive venue therefor shall be Santa Barbara County; (ii) consents to the jurisdiction and venue of any such court and consents to service of process in any such action or proceeding by personal delivery or any other method permitted by law; and (iii) waives any and all rights Borrower may have to object to the jurisdiction of any such court, or to transfer or change the venue of any such action or proceeding.
+
+7.
+
+* * *
+
+12. MUTUAL WAIVER OF JURY TRIAL BORROWER AND AGILITY EACH WAIVE THE RIGHT TO TRIAL BY JURY IN ANY ACTION OR PROCEEDING BASED UPON, ARISING OUT OF, OR IN ANY WAY RELATING TO, THIS AGREEMENT OR ANY OTHER PRESENT OR FUTURE INSTRUMENT OR AGREEMENT BETWEEN AGILITY AND BORROWER, OR ANY CONDUCT, ACTS OR OMISSIONS OF AGILITY OR BORROWER OR ANY OF THEIR DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, ATTORNEYS OR ANY OTHER PERSONS AFFILIATED WITH AGILITY OR BORROWER, IN ALL OF THE FOREGOING CASES, WHETHER SOUNDING IN CONTRACT, TORT OR OTHERWISE. IF THIS JURY WAIVER IS FOR ANY REASON UNENFORCEABLE, THE PARTIES AGREE TO RESOLVE ALL CLAIMS, CAUSES AND DISPUTES THROUGH JUDICIAL REFERENCE PURSUANT TO CODE OF CIVIL PROCEDURE SECTION 638 ET SEQ BEFORE A MUTUALLY ACCEPTABLE REFEREE SITTING WITHOUT A JURY OR, IF NO AGREEMENT ON THE REFEREE IS REACHED, BEFORE A REFEREE SELECTED BY THE PRESIDING JUDGE OF THE CALIFORNIA SUPERIOR COURT FOR SANTA BARBARA COUNTY. THIS PROVISION SHALL NOT RESTRICT A PARTY FROM EXERCISING NONJUDICIAL REMEDIES UNDER THE CODE.
+
+13. Co-Borrowers. Solely for purposes of this Section 13, NORTH AMERICAN SCIENTIFIC, INC., a Delaware corporation and NORTH AMERICAN SCIENTIFIC, INC., a California corporation are each referred to individually, as a “Borrower” and, collectively, the “Borrowers”.
+
+(a) Co-Borrowers. Borrowers are jointly and severally liable for the Obligations and Agility may proceed against one Borrower to enforce the Obligations without waiving its right to proceed against the other Borrower. This Agreement and the Loan Documents are a primary and original obligation of each Borrower and shall remain in effect notwithstanding future changes in conditions, including any change of law or any invalidity or irregularity in the creation or acquisition of any Obligations or in the execution or delivery of any agreement between Agility and any Borrower. Each Borrower shall be liable for existing and future Obligations as fully as if all of the Advance was advanced to such Borrower. Agility may rely on any certificate or representation made by any Borrower as made on behalf of, and binding on, all Borrowers. Each Borrower appoints each other Borrower as its agent with all necessary power and authority to give and receive notices, certificates or demands for and on behalf of both Borrowers, to act as disbursing agent for receipt of any loans on behalf of each Borrower and to apply to Agility on behalf of each Borrower for the Advance, any waivers and any consents. This authorization cannot be revoked, and Agility need not inquire as to one Borrower’s authority to act for or on behalf of another Borrower.
+
+(b) Subrogation and Similar Rights. Each Borrower irrevocably waives, until all Obligations are satisfied, all rights that it may have at law or in equity (including, without limitation, any law subrogating the Borrower to the rights of Agility under the Loan Documents) to seek contribution, indemnification, or any other form of reimbursement from any other Borrower, or any other Person now or hereafter primarily or secondarily liable for any of the Obligations, for any payment made by the Borrower with respect to the Obligations in connection with the Loan Documents or otherwise and all rights that it might have to benefit from, or to participate in, any security for the Obligations as a result of any payment made by the Borrower with respect to the Obligations in connection with the Loan Documents or otherwise. Any agreement providing for indemnification, reimbursement or any other arrangement prohibited under this Section shall be null and void. If any payment is made to a Borrower in contravention of this Section, such Borrower shall hold such payment in trust for Agility and such payment shall be promptly delivered to Agility for application to the Obligations, whether matured or unmatured.
+
+8.
+
+* * *
+
+(c) Waivers of Notice. Each Borrower waives, to the extent permitted by law, notice of acceptance hereof; notice of the existence, creation or acquisition of any of the Obligations; notice of an Event of Default except as set forth herein; notice of the amount of the Obligations outstanding at any time; notice of any adverse change in the financial condition of any other Borrower or of any other fact that might increase the Borrower’s risk; presentment for payment; demand; protest and notice thereof as to any instrument; and all other notices and demands to which the Borrower would otherwise be entitled by virtue of being a co-borrower or a surety. Each Borrower waives any defense arising from any defense of any other Borrower, or by reason of the cessation from any cause whatsoever of the liability of any other Borrower. Agility’s failure at any time to require strict performance by any Borrower of any provision of the Loan Documents shall not waive, alter or diminish any right of Agility thereafter to demand strict compliance and performance therewith. Each Borrower also waives any defense arising from any act or omission of Agility that changes the scope of the Borrower’s risks hereunder. Each Borrower hereby waives any right to assert against Agility any defense (legal or equitable), setoff, counterclaim, or claims that such Borrower individually may now or hereafter have against another Borrower or any other Person liable to Agility with respect to the Obligations in any manner or whatsoever.
+
+(d) Subrogation Defenses. Until all Obligations are paid in full and Agility has no further obligation to make Credit Extensions to Borrowers, each Borrower hereby waives any defense based on impairment or destruction of its subrogation or other rights against any other Borrower and waives all benefits which might otherwise be available to it under California Civil Code Sections 2809, 2810, 2819, 2839, 2845, 2848, 2849, 2850, 2899, and 3433 and California Code of Civil Procedure Sections 580a, 580b, 580d and 726, as those statutory provisions are now in effect and hereafter amended, and under any other similar statutes now and hereafter in effect.
+
+(e) Right to Settle, Release.
+
+(i) The liability of Borrowers hereunder shall not be diminished by (i) any agreement, understanding or representation that any of the Obligations is or was to be guaranteed by another Person or secured by other property, or (ii) any release or unenforceability, whether partial or total, of rights, if any, which Agility may now or hereafter have against any other Person, including another Borrower, or property with respect to any of the Obligations.
+
+(ii) Without notice to any given Borrower and without affecting the liability of any given Borrower hereunder, Agility may (i) compromise, settle, renew, extend the time for payment, change the manner or terms of payment, discharge the performance of, decline to enforce, or release all or any of the Obligations with respect to any other Borrower by written agreement with such other Borrower, (ii) grant other indulgences to another Borrower in respect of the Obligations, (iii) modify in any manner any documents relating to the Obligations with respect to any other Borrower by written agreement with such other Borrower, (iv) release, surrender or exchange any deposits or other property securing the Obligations, whether pledged by a Borrower or any other Person, or (v) compromise, settle, renew, or extend the time for payment, discharge the performance of, decline to enforce, or release all or any obligations of any guarantor, endorser or other Person who is now or may hereafter be liable with respect to any of the Obligations.
+
+(f) Subordination. All indebtedness of a Borrower now or hereafter arising held by another Borrower is subordinated to the Obligations and the Borrower holding the indebtedness shall take all actions reasonably requested by Agility to effect, to enforce and to give notice of such subordination.
+
+9.
+
+* * *
+
+14. General. This Agreement and such other written agreements, documents and instruments as may be executed in connection herewith are the final, entire and complete agreement between Borrower and Agility and supersede all prior and contemporaneous negotiations and oral representations and agreements, all of which are merged and integrated in this Agreement. There are no oral understandings, representations or agreements between the parties which are not set forth in this Agreement or in other written agreements signed by the parties in connection herewith. The terms and provisions of this Agreement may not be waived or amended, except in a writing executed by Borrower and a duly authorized officer of Agility. Agility may assign all or any part of its interest in this Agreement and the Obligations to any person or entity, or grant a participation in, or security interest in, any interest in this Agreement, with notice to, but without consent of, Borrower. Borrower may not assign any rights under or interest in this Agreement without Agility’s prior written consent. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which shall constitute one agreement.
+
+15. Publicity. Borrower authorizes Agility to use Borrower’s tradenames and logos in Agility’s marketing materials in respect of the transactions evidenced by this Agreement.
+
+AGILITY CAPITAL, LLC
+
+NORTH AMERICAN
+
+SCIENTIFIC, INC.
+
+NORTH AMERICAN
+
+SCIENTIFIC, INC.  
+  
+By: 
+
+/s/Jeffrey Carmody
+
+By:
+
+/s/James W. Klingler
+
+By:
+
+/s/James W. Klingler  
+  
+Title:
+
+Chief Operating Officer
+
+Title:
+
+Sr.VP & CFO
+
+Title:
+
+Sr.VP & CFO  
+  
+  
+
+
+Address for notices:
+
+Address for notices:
+
+Address for notices:  
+  
+Agility Capital, LLC
+
+226 E. Canon Perdido Street, Suite F
+
+Santa Barbara, CA 93101
+
+Attn: Jeff Carmody
+
+Fax: 805-568-0427
+
+North American Scientific, Inc.
+
+20200 Sunburst Street
+
+Chatsworth, CA 91311
+
+Attn: James Klingler
+
+Fax: (818) 734-5223
+
+North American Scientific, Inc.
+
+20200 Sunburst Street
+
+Chatsworth, CA 91311
+
+Attn: James Klingler
+
+Fax: (818) 734-5223  
+  
+  
+
+
+10.
+
+* * *
+
+  
+
+
+Exhibit A
+
+COLLATERAL DESCRIPTION ATTACHMENT
+
+TO LOAN AND SECURITY AGREEMENT
+
+  
+
+
+All personal property of Borrower (herein referred to as “Borrower” or “Debtor”) whether presently existing or hereafter created or acquired, and wherever located, including, but not limited to:
+
+(a)  all accounts (including health-care-insurance receivables), chattel paper (including tangible and electronic chattel paper), deposit accounts, documents (including negotiable documents), equipment (including all accessions and additions thereto), general intangibles (including copyrights, patents, trademarks, goodwill and all intellectual property, payment intangibles and software), goods (including fixtures), instruments (including promissory notes), inventory (including all goods held for sale or lease or to be furnished under a contract of service, and including returns and repossessions), investment property (including securities and securities entitlements), letter of credit rights, money, and all of Debtor’s books and records with respect to any of the foregoing, and the computers and equipment containing said books and records; and 
+
+(b)  any and all cash proceeds and/or noncash proceeds of any of the foregoing, including, without limitation, insurance proceeds, and all supporting obligations and the security therefor or for any right to payment. All terms above have the meanings given to them in the California Uniform Commercial Code, as amended or supplemented from time to time.
+
+The property sold pursuant to a sale announced before the date of this Agreement will be released from the security interest granted under this Agreement immediately before consummation of that sale, provided Collateral will include all proceeds of that sale.
+
+11.
+
+* * *
+
+Exhibit B
+
+Places of Business and Locations of Collateral (Section 3(b)):  
+
+
+Permitted Liens (Section 3(c))  
+
+
+Litigation (Section 3(h)):  
+
+
+Subsidiaries and partnerships and joint ventures (Section 3(i)):  
+
+
+Accounts (Section 3(j))
+
+12.
+
+* * *

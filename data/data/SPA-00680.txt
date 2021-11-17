@@ -1,0 +1,251 @@
+Exhibit 10.4
+
+
+
+STOCK PURCHASE AGREEMENT (this “Agreement”) made as of this 22nd day of September, 2009 between Hicks Acquisition Company I, Inc., a Delaware corporation (“Buyer” or “HACI”) and the signatory on the execution page hereof (“Seller”). 
+
+WHEREAS, Buyer was organized for the purpose of acquiring, through a merger, capital stock exchange, asset acquisition or other similar business combination, an operating business (“Business Combination”); and 
+
+WHEREAS, Buyer consummated an initial public offering in October, 2007 (“IPO”) in connection with which it raised net proceeds of approximately $529.1 million, a significant portion of which was placed in a trust account pending the consummation of a Business Combination, or the dissolution and liquidation of Buyer in the event it is unable to consummate a Business Combination on or prior to September 28, 2009 (or October 5, 2009 in the event that the Acquisition is approved by Buyer stockholders); and 
+
+WHEREAS, Buyer has entered into that certain Purchase and IPO Reorganization Agreement dated as of August 2, 2009, by and among HACI, Resolute Energy Corporation, a Delaware corporation (the “REC”), Resolute Subsidiary Corporation, a Delaware corporation, Resolute Aneth, LLC, a Delaware limited liability company, Resolute Holdings, LLC, a Delaware limited liability company, Resolute Holdings Sub, LLC, a Delaware limited liability company (“Holdings Sub”), and HH-HACI, L.P., a Delaware limited partnership (collectively, the “Acquisition”), pursuant to which, through a series of transactions, HACI stockholders will acquire a majority of the outstanding common stock of REC, par value $0.0001 per share (the “REC Common Stock”), and REC will acquire HACI and the business and operations of Holdings Sub; and 
+
+WHEREAS, the approval of the Acquisition is contingent upon, among other things, the affirmative vote of holders of a majority of the outstanding common shares of HACI at the special meeting called to approve the Acquisition; and 
+
+WHEREAS, pursuant to certain provisions in Buyer’s certificate of incorporation, a holder of shares of Buyer’s common stock issued in the IPO may, if it votes against the Acquisition, demand that Buyer convert such common shares into cash (“Conversion Rights”); and 
+
+WHEREAS the Acquisition cannot be consummated if holders of 30% or more of HACI common stock issued in the IPO exercise their Conversion Rights; and 
+
+WHEREAS, Seller has agreed to sell to Buyer and Buyer has agreed to purchase from Seller the common shares set forth on the execution page of this Agreement (“Shares”) for the purchase price per share set forth therein (“Purchase Price Per Share”) and for the aggregate purchase price set forth therein (“Aggregate Purchase Price”). 
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows: 
+
+1\. Purchase. Subject to Section 7, Seller hereby sells to Buyer and Buyer hereby purchases from Seller at the Closing (as defined in Section 4(c)) the Shares at the Purchase Price Per Share, for the Aggregate Purchase Price. 
+
+1
+
+* * *
+
+##### 
+
+2\. Agreement not to Convert; Appointment of Proxy and Attorney-in-Fact. In further consideration of the Aggregate Purchase Price, Seller hereby agrees it has not and will not exercise its Conversion Rights or, if it has already exercised its Conversion Rights, it hereby withdraws and revokes such exercise and will execute all necessary documents and take all actions required in furtherance of such revocation. Seller acknowledges that the record date to vote on the proposals set forth in the proxy statement/prospectus (the “Proxy Statement”) filed by Buyer with the U.S. Securities Exchange Commission (the “SEC”) has passed. Accordingly, solely with respect to the vote for the Acquisition and the other proposals set forth in the Proxy Statement, Seller hereby agrees to upon request of Buyer vote in favor of the Acquisition and such other proposals and appoints Joseph B. Armes and Robert M. Swartz and each of them each with full power of substitution, as his proxy and attorney-in-fact, to the full extent of Seller’s rights with respect to the Shares (and any and all other shares or securities or rights issued or issuable in respect thereof) to vote in such manner as each such person or his substitute shall in his sole discretion deem proper, and to otherwise act (including without limitation acting by written consent) with respect to all the Shares at any meeting of stockholders (whether annual or special and whether or not an adjourned meeting) of Buyer held on or prior to September 28, 2009. This proxy is coupled with an interest and is irrevocable. Execution by Seller of this Agreement shall revoke, without further action, all prior proxies granted by Seller at any time with respect to the Shares (and such other shares or other securities) and no subsequent proxies will be given by Seller (and if given will be deemed not to be effective). 
+
+3\. No Right to Additional Shares. HACI’s stockholders of record are entitled to receive one share of REC Common Stock for each share of HACI common stock owned immediately prior to the consummation of the Acquisition (the “Exchange”). Although Seller will be a stockholder of record immediately prior to the Acquisition, Seller hereby acknowledges that Seller irrevocably waives any right, title or interest it may have in receiving any such REC Common Stock distributed pursuant to the Exchange. Seller hereby acknowledges that by virtue of the sale hereunder, Seller will not become a stockholder of REC, and the Shares shall automatically be cancelled and shall cease to exist and shall represent only the right to receive the Aggregate Purchase Price there for in accordance with the terms of this Agreement. Additionally, each of Buyer and Seller hereby agree and acknowledge that this provision is material to this Agreement and a significant consideration in Buyer’s willingness to enter into this Agreement. 
+
+4\. Closing Matters. 
+
+(a) Within two business days of the date of this Agreement, (i) Seller shall provide Buyer with a true and correct copy of the voting instruction form with respect to the Shares held by Seller indicating the financial institution through which such shares are held and the control number provided by Broadridge Financial Solutions (or other similar service provider) regarding the voting of the Shares or written confirmation of such information as would appear on the voting instruction form; and (ii) Buyer shall send the notice attached as Annex 1 hereto to HACI’s transfer agent. 
+
+(b) Prior to the Closing, Seller shall deliver or cause to be delivered to Buyer appropriate instructions for book entry transfers of ownership of the Shares from Seller to Buyer; provided, that the instructions shall not be effective until Closing. 
+
+(c) The closing of the purchase and sale of the Shares (“Closing”) will occur on the date on which Buyer’s trust account is liquidated after the Acquisition is consummated (the “Closing Date”). The Company shall use commercially reasonable efforts to cause the trust account to be liquidated on the Closing Date but in no event shall such liquidation occur more than one business day after the Closing Date. At the Closing, Buyer shall pay Seller the Aggregate Purchase Price by wire transfer from HACI’s trust account of immediately available funds to an account specified by Seller and 
+
+2
+
+* * *
+
+##### 
+
+Seller against the delivery of the Shares shall deliver the Shares to Buyer electronically using the Depository Trust Company’s DWAC (Deposit/Withdrawal at Custodian) System to an account specified by Buyer. In the event the trust account does not contain sufficient funds to satisfy the Purchase Price on the Closing Date, Buyer shall pay Seller, by wire transfer, such additional amounts from sources other than the trust account to satisfy the Purchase Price. It shall be a condition to the obligation of Buyer on the one hand and Seller on the other hand, to consummate the transfer of the Shares contemplated hereunder that the other party’s representations and warranties are true and correct on the Closing Date with the same effect as though made on such date, unless waived in writing by the party to whom such representations and warranties are made. 
+
+5\. Representations and Warranties of the Seller. Seller hereby represents and warrants to Buyer on the date hereof and on the Closing that: 
+
+(a) Sophisticated Seller. Seller is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the sale of Shares to Buyer. 
+
+(b) Independent Investigation. Except for the representations contained in this Agreement, Seller, in making the decision to sell the Shares to Buyer, has not relied upon any oral or written representations or assurances from Buyer or any of its officers, directors or employees or any other representatives or agents of Buyer. Seller has had access to all of the filings made by HACI and REC with the SEC, pursuant to the Securities Exchange Act of 1934 (the “Exchange Act”) and the Securities Act of 1933 in each case to the extent available publicly via the SEC’s Electronic Data Gathering, Analysis and Retrieval system. 
+
+(c) Authority. This Agreement has been validly authorized, executed and delivered by Seller and, assuming the due authorization, execution and delivery thereof by Buyer, is a valid and binding agreement enforceable in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Seller does not and will not conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Seller is a party which would prevent Seller from performing its obligations hereunder or (ii) any law, statute, rule or regulation to which Seller is subject. 
+
+(d) No Legal Advice from Buyer. Seller acknowledges that it has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Seller’s own legal counsel and investment and tax advisors. Except for the representations contained in this Agreement, Seller is not relying on any statements or representations of Buyer or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by the Agreement. 
+
+(e) Ownership of Shares. Seller is the legal and beneficial owner of the Shares and will transfer to Buyer on the Closing Date good and marketable title to the Shares free and clear of any liens, claims, security interests, options, charges or any other encumbrance whatsoever. The Seller beneficially owned all of the Shares as of the close of the trading day on August 31, 2009 and has the sole right to exercise conversion rights with respect to all of the Shares. 
+
+(f) Number of Shares. The Shares being transferred pursuant to this Agreement represent all the common stock owned by Seller as of the date hereof. 
+
+3
+
+* * *
+
+##### 
+
+(g) Seller Taxes. Seller understands that Seller (and not the Buyer) shall be responsible for any and all tax liabilities of Seller that may arise as a result of the transactions contemplated by this Agreement. 
+
+(h) Aggregate Purchase Price Negotiated. Seller represents that both the amount of Shares and the Aggregate Purchase Price were negotiated figures by the parties and that the terms and conditions by the parties of this Agreement may differ from arrangements entered into with other holders of Buyer’s common stock. 
+
+6\. Representations and Warranties of Buyer. Buyer hereby represents to the Seller that: 
+
+(a) Organization and Authority. Buyer is a corporation, duly incorporated, validly existing and in good standing in the jurisdiction of its incorporation. Buyer has the requisite corporate power and authority to execute, deliver and carry out the terms of this Agreement and to consummate the transactions contemplated hereby and thereby. 
+
+(b) Governmental Approvals. All consents, approvals, orders, authorizations, registrations, qualifications, designations, declarations or filings with any governmental or other authority on the part of Buyer required in connection with the consummation of the transactions contemplated in the Agreement have been or shall have been obtained prior to and be effective as of the Closing. 
+
+(c) Sophisticated Buyer. Buyer is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the purchase of Shares from Seller. 
+
+(d) Independent Investigation. Buyer, in making the decision to purchase the Shares from Seller, has not relied upon any oral or written representations or assurances from Seller or any of its officers, directors, partners or employees or any other representatives or agents of Seller. 
+
+(e) Authority. This Agreement has been validly authorized, executed and delivered by Buyer and, assuming the due authorization, execution and delivery thereof by Seller, is a valid and binding agreement enforceable in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Buyer does not and will not conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Buyer is a party which would prevent Buyer from performing its obligations hereunder, (ii) any law, statute, rule or regulation to which Buyer is subject or (iii) Buyer’s certificate of incorporation, bylaws and other organizational and constituent documents. 
+
+(f) No Brokers. No broker, investment banker, financial advisor, finder or other person has been retained by or is authorized to act on behalf of Buyer that will be entitled to any fee or commission for which the Seller will be liable in connection with the execution of this Agreement or the consummation of the transactions contemplated hereby. 
+
+(g) Trust Account. After taking into account all liabilities and other obligations of the Buyer, the trust account contains sufficient funds to satisfy the Purchase Price. 
+
+(h) No Legal Advice from Seller. Buyer acknowledges that it has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Buyer’s own legal counsel and investment and tax advisors. Buyer is relying solely on such counsel and advisors 
+
+4
+
+* * *
+
+##### 
+
+and not on any statements or representations of Seller or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by this Agreement. 
+
+(i) Best Price. Buyer has made no Purchase Price Per Share offer to any other party in excess of such Purchase Price Per Share being offered to Seller. If Buyer offers a Purchase Price Per Share to any party in excess of the Purchase Price Per Share offered to Seller (such offer, a “Greater Offer”), Buyer shall (a) inform Seller in writing of the Greater Offer and (b) pay to Seller the difference between (i) the Greater Offer and (ii) the Purchase Price Per Share offered to Seller. For purposes of this Section 6(i), “Purchase Price Per Share” shall not include any fees paid to a third party “aggregator” engaged by the Buyer to buy shares from Buyer stockholders who have indicated an intention to convert their shares and/or vote against the Acquisition. 
+
+7\. Termination. Notwithstanding any provision in this Agreement to the contrary, this Agreement shall become null and void and of no force and effect upon the earlier to occur of (a) the termination of the Acquisition and (b) 11:59 pm, eastern daylight time, on September 28, 2009 (or October 5, 2009 in the event that the Acquisition is approved by Buyer stockholders) if the Acquisition has not been consummated by such time. Notwithstanding any provision in this Agreement to the contrary, Buyer’s obligation to purchase the Shares from Seller shall be conditioned on the consummation of the Acquisition. 
+
+8\. Covenant of Seller. After the execution of this Agreement and prior to Closing, Seller shall not acquire any common stock, warrants or other securities of HACI or effect any derivative transactions with respect thereto. 
+
+9\. Covenant of Buyer. Buyer hereby covenants and agrees that it shall comply with all filing obligations, if any, under the Exchange Act, as amended, with respect to its ownership of the Shares, or the transactions contemplated hereby. 
+
+10\. Acknowledgement; Waiver. Seller (i) acknowledges that Buyer may possess or have access to material non-public information which has not been communicated to Seller; (ii) hereby waives any and all claims, whether at law, in equity or otherwise, that he, she, or it may now have or may hereafter acquire, whether presently known or unknown, against Buyer or any of its officers, directors, employees, agents, affiliates, subsidiaries, successors or assigns relating to any failure to disclose any non-public information in connection with the transaction contemplated by this Agreement, including, without limitation, any claims arising under Rule 10-b(5) of the Exchange Act; and (iii) is aware that Buyer is relying on the truth of the representations set forth in Section 5 of this Agreement and the foregoing acknowledgement and waiver in clauses (i) and (ii) above, respectively, in connection with the transactions contemplated by this Agreement. 
+
+11\. Counterparts; Facsimile. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same instrument. This Agreement or any counterpart may be executed via facsimile transmission, and any such executed facsimile copy shall be treated as an original. 
+
+12\. Governing Law. This Agreement shall for all purposes be deemed to be made under and shall be construed in accordance with the laws of the State of New York. Each of the parties hereby agrees that any action, proceeding or claim against it arising out of or relating in any way to this Agreement shall be brought and enforced in the courts of the State of New York or the United States District Court for the Southern District of New York, and irrevocably submits to such jurisdiction, which jurisdiction shall be exclusive. Each of the parties hereby waives any objection to such exclusive jurisdiction and that such courts represent an inconvenient forum. 
+
+5
+
+* * *
+
+##### 
+
+13\. Remedies. Each of the parties hereto acknowledges and agrees that, in the event of any breach of any covenant or agreement contained in this Agreement by the other party, money damages may be inadequate with respect to any such breach and the non-breaching party may have no adequate remedy at law. It is accordingly agreed that each of the parties hereto shall be entitled, in addition to any other remedy to which they may be entitled at law or in equity, to seek injunctive relief and/or to compel specific performance to prevent breaches by the other party hereto of any covenant or agreement of such other party contained in this Agreement. 
+
+14\. Binding Effect; Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective legal representatives, successors and permitted assigns. This Agreement shall not be assigned by either party without the prior written consent of the other party hereto. 
+
+15\. Headings. The descriptive headings of the Sections hereof are inserted for convenience only and do not constitute a part of this Agreement. 
+
+16\. Entire Agreement; Changes in Writing. This Agreement constitutes the entire agreement among the parties hereto and supersedes and cancels any prior agreements, representations and warranties, whether oral or written, among the parties hereto relating to the transaction contemplated hereby. Neither this Agreement nor any provision hereof may be changed or amended orally, but only by an agreement in writing signed by the other party hereto. 
+
+17\. Seller W-9. Seller agrees to provide to Buyer an Internal Revenue Service Request for Taxpayer Identification Number and Certification Form W-9. 
+
+[Signature Page Follows] 
+
+6
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date set forth on the first page of this Agreement.   
+  
+HICKS ACQUISITION COMPANY I, INC.  
+  
+By:  
+Name:  /s/ Joseph B. Armes 
+
+Joseph B. Armes   
+  
+Title:  CEO  
+  
+FIR TREE SPAC HOLDINGS I, LLC  
+  
+By:  
+Name:  /s/ Brian Meyer 
+
+Brian Meyer   
+  
+Title:  Authorized Person  
+  
+Purchase Price Per Share: 
+
+$9.76 (subject to adjustment at Closing so that such amount will be an amount per share equal to the amount per share converting stockholders receive pursuant to Section 9.3 of Buyer’s amended and restated certificate of incorporation)  
+  
+Number of Shares: 
+
+2,207,185   
+  
+Signature Page to  
+Stock Purchase Agreement
+
+* * *
+
+##### 
+
+Annex 1
+
+HICKS ACQUISITION COMPANY I, INC.  
+100 CRESCENT COURT, SUITE 1200  
+DALLAS, TEXAS 75201
+
+September 22, 2009 
+
+Continental Stock Transfer & Trust Company  
+17 Battery Place  
+New York, New York 10004 
+
+Attn: Steven Nelson 
+
+Re: Hicks Acquisition Company I, Inc. Trust Account No. 530-065681 
+
+Gentlemen: 
+
+Hicks Acquisition Company I, Inc. (the “Company”) is providing these irrevocable instructions to you in connection with the above described Trust Account established in connection with and pursuant to an Investment Management Trust Agreement, dated as of September 27, 2007 between the Company and Continental Stock Transfer & Trust Company as Trustee (the “Trust Agreement”). Upper case terms used herein shall have the meanings ascribed to such terms in the Trust Agreement. 
+
+In the event (i) the Company delivers to you a Termination Letter substantially in the form of Exhibit A to the Trust Agreement and (ii) the Consummation Date (as defined in such Exhibit A) occurs, in addition to the other documents required to be delivered pursuant to Exhibit A of the Trust Agreement, assuming you are the Trustee on such date, then, in consideration for the electronic transfer of 2,207,185 shares of the Company’s common stock, using the Depository Trust Company’s DWAC (Deposit/Withdrawal at Custodian) System, to an account specified by the Company, on the Consummation Date you are irrevocably instructed to deliver as the initial distribution of funds the sum of $21,542,125.60, which must be delivered to Fir Tree, Inc. in accordance with the bank wire instructions provided to you below: 
+
+1
+
+* * *
+
+##### 
+
+Annex 1
+
+The address for Fir Tree, Inc. is [ADDRESS]. The contact person for Fir Tree, Inc. is Mary Ferrer. She can be reached at (212) 659-4905. 
+
+Kindly acknowledge where indicated below, your receipt and understanding of these instructions and return a copy to Akin Gump Strauss Hauer & Feld LLP, attention: James A. Deeken, facsimile number (214) 969-4343. 
+
+A facsimile signed and electronically delivered copy of this letter shall be deemed an original.   
+  
+Very truly yours,  
+  
+HICKS ACQUISITION COMPANY I, INC.  
+  
+By:  
+Name:  /s/ Joseph B. Armes 
+
+Joseph B. Armes   
+  
+Title:  CEO  
+  
+Acknowledged and Agreed: 
+
+CONTINENTAL STOCK TRANSFER &   
+TRUST COMPANY   
+  
+By:
+
+/s/ Steven Nelson  
+  
+Name: 
+
+Steven Nelson  
+  
+Title:
+
+Chairman, President, Secretary  
+  
+FIR TREE SPAC HOLDINGS I, LLC  
+  
+By:   
+Name: 
+
+/s/ Brian Meyer 
+
+Brian Meyer   
+  
+Title: 
+
+Authorized Person  
+  
+2

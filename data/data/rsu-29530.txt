@@ -1,0 +1,118 @@
+Exhibit 10.20 
+
+SANDERSON FARMS, INC. 
+
+
+
+This PERFORMANCE SHARE AGREEMENT (this “Agreement”), made and entered into as of the 1st day of November, 2013 (the “Grant Date”), by and between (the “Participant”) and Sanderson Farms, Inc. (together with its subsidiaries and affiliates, the “Company”), sets forth the terms and conditions of a Performance Share Award issued pursuant to the Sanderson Farms, Inc. and Affiliates Stock Incentive Plan, as amended and restated on February 17, 2011 (the “Plan”) and this Agreement. Any capitalized term used but not defined herein shall have the meaning ascribed to such term in the Plan. 
+
+1. Grant and Issuance of Performance Shares; Definition of Restricted Period.  
+  
+(a) As a reward for past service and in consideration of and as an incentive to the Participant’s performance of future services on behalf of the Company, and for no additional consideration, the Company hereby grants to the Participant, as of the Grant Date, the right to receive at the end of the Restricted Period (hereinafter defined) that certain number of shares of the Company’s common stock, par value $1.00 per share (the “Performance Shares”), determined in accordance with Section 2 below, subject to the further terms and conditions set forth herein and in the Plan. The right to receive Performance Shares is subject to forfeiture as provided herein and may not be sold, exchanged, transferred, pledged, hypothecated or otherwise disposed of by the Participant, other than by will or by the laws of descent and distribution of the state in which the Participant resides on the date of his death. The “Performance Period” means the two fiscal years of the Company commencing November 1, 2013. The “Restricted Period” means the three fiscal years of the Company commencing November 1, 2013. 
+
+(b) Except as otherwise provided in this Agreement or the Plan, the right to receive Performance Shares shall vest and no longer be subject to forfeiture or any transfer restrictions hereunder at the end of the Restricted Period, so long as the Participant has remained continuously employed by the Company from the Grant Date through such date. 
+
+(c) In the event of (i) the Participant’s termination of employment with the Company by reason of death or Disability, (ii) his termination of employment with the Company after his attainment of eligibility for retirement (as determined by the Board from time to time) by reason of retirement, or (iii) a Change of Control prior to the end of the Restricted Period, the Participant shall be entitled to receive, at the end of the Restricted Period, a pro rata portion of the number of Performance Shares to which he otherwise would have been entitled, determined in accordance with the ratio that the number of months the Participant was employed with the Company during the Performance Period bears to the total number of months in the Performance Period. If the Participant’s employment with the Company is terminated for any other reason, voluntarily or involuntarily, prior to the expiration of the Restricted Period, then the right to receive Performance Shares at the end of the Restricted Period shall immediately be forfeited. 
+
+(d) If the Board determines in good faith that the Participant has engaged in any Detrimental Activity during the period that the Participant is employed by the Company or during the two-year period following the Participant’s voluntary termination of employment or his termination by the Company for Cause, then as of the date of the Board determination the Participant’s right to receive Performance Shares shall be forfeited or, if the Performance Shares have already been issued, the Participant shall repay to the Company the fair market value of the Performance Shares as of their issue date. 
+
+2. Issuance of Performance Shares.  
+  
+(a) The Participant’s Performance Share Award is a function of his “Target ROE Award” and his “Target ROS Award,” calculated as set forth below. The Participant’s Target ROE Award is Shares. The Participant’s Target ROS Award is Shares. 
+
+1 
+
+* * *
+
+(b) At the end of the Performance Period, the Board (or its permitted delegate) will calculate the Company’s Return on Equity for each of its fiscal years during the Performance Period and divide the sum by that number of years (the “Average ROE”). “Return on Equity” means (i) the Company’s net after-tax income for the fiscal year in question, divided by (ii) the average of the shareholders’ equity as of the end of the preceding fiscal year and the shareholders’ equity as of the end of the fiscal year in question, in each case as shown in the Company’s audited financial statements (provided that if there is any change in accounting standards used by the Company after the Grant Date, Return on Equity will be calculated without regard to such change). The Participant’s “Threshold ROE” is 9.3 percent; his “Target ROE” is 10.7 percent; and his “Maximum ROE” is 21.4 percent. If, at the end of the Performance Period, the Company’s Average ROE is equal to the Threshold ROE, the Participant will be entitled to receive 50 percent of the Target ROE Award; if the Company’s Average ROE is equal to the Target ROE, the Participant will be entitled to receive 100 percent of the Target ROE Award; and if the Company’s Average ROE is equal to or greater than the Maximum ROE, the Participant will be entitled to receive 200 percent of the Target ROE Award. If the Company’s Average ROE is otherwise between the Threshold ROE and the Maximum ROE, the number of Performance Shares that the Participant is entitled to receive will be calculated using a straight-line interpolation. If the Company’s Average ROE is less than the Threshold ROE, the Participant will not be entitled to receive any Shares as part of his Target ROE Award. In no event will the Participant be entitled to receive pursuant to this Agreement more than 200 percent of the Target ROE Award. 
+
+(c) Likewise, at the end of the Performance Period, the Board (or its permitted delegate) will calculate the Company’s Return on Sales for each of its fiscal years during the Performance Period and divide the sum by that number of years (the “Average ROS”). “Return on Sales” means the Company’s net after-tax income for the fiscal year in question divided by its net sales for such fiscal year, in each case as shown in the Company’s audited financial statements (provided that if there is any change in accounting standards used by the Company after the Grant Date, Return on Sales will be calculated without regard to such change). The Participant’s “Threshold ROS” is 2.6 percent; his “Target ROS” is 3.5 percent; and his “Maximum ROS” is 4.8 percent. If, at the end of the Performance Period, the Company’s Average ROS is equal to the Threshold ROS, the Participant will be entitled to receive 50 percent of the Target ROS Award; if the Company’s Average ROS is equal to the Target ROS, the Participant will be entitled to receive 100 percent of the Target ROS Award; and if the Company’s Average ROS is equal to or greater than the Maximum ROS, the Participant will be entitled to receive 200 percent of the Target ROS Award. If the Company’s Average ROS is otherwise between the Threshold ROS and the Maximum ROS, the number of Performance Shares that the Participant is entitled to receive will be calculated using a straight-line interpolation. If the Company’s Average ROS is less than the Threshold ROS, the Participant will not be entitled to receive any Shares as part of his Target ROS Award. In no event will the Participant be entitled to receive pursuant to this Agreement more than 200 percent of the Target ROS Award. 
+
+(d) Within 30 days of the end of the Restricted Period, certificates representing the Performance Shares that the Participant is entitled to receive shall be registered in the Participant’s name and be delivered to the Participant (or an appropriate book entry shall be made), subject to Section 6 pertaining to the withholding of taxes and Section 14 pertaining to the Securities Act of 1933, as amended (the “Securities Act”); provided, however, that the Board may cause such legend or legends to be placed on any such certificates as it may deem advisable under Applicable Law. Fractional shares will be issued where necessary. Upon issuance, Performance Shares will be fully vested and transferable, except to the extent that their transfer is restricted by Applicable Law. 
+
+(e) If this Performance Share Award is intended to satisfy the requirements of Section 162(m) of the Internal Revenue Code of 1986, as amended (the “Code”), then prior to the issuance of the Performance Shares, the Compensation Committee of the Board shall certify in writing that the performance goals and any other material terms of the Award were in fact satisfied. 
+
+3. No Rights as a Stockholder.  
+  
+Except as otherwise provided in this Agreement or the Plan, until the issuance of Performance Shares to him, the Participant shall have, with respect to the Performance Shares, none of the rights of a stockholder of the Company, including the right to vote the Performance Shares and the right to receive any dividends or other distributions with respect thereto. 
+
+2 
+
+* * *
+
+4. Adjustments.  
+  
+If any change in corporate capitalization, such as a stock split, reverse stock split, stock dividend, or any corporate transaction such as a reorganization, reclassification, merger or consolidation or separation, including a spin-off of the Company or sale or other disposition by the Company of all or a portion of its assets, any other change in the Company’s corporate structure, or any distribution to stockholders (other than a cash dividend) results in the outstanding Shares, or any securities exchanged therefor or received in their place, being exchanged for a different number or class of shares or other securities of the Company, or for shares of stock or other securities of any other corporation, or new, different or additional shares or other securities of the Company or of any other corporation being received by the holders of outstanding Shares, then the number of Performance Shares to which the Participant is entitled pursuant to this Agreement shall be adjusted in the same manner as other outstanding Shares of the Company. 
+
+5. Validity of Share Issuance.  
+  
+The Performance Shares have been duly authorized by all necessary corporate action of the Company and when issued will be validly issued, fully paid and non-assessable. 
+
+6. Taxes and Withholding.  
+  
+As soon as practicable on or after the date as of which an amount first becomes includible in the gross income of the Participant for federal income tax purposes with respect to this Award of Performance Shares, the Participant shall pay to the Company, or make arrangements satisfactory to the Company regarding the payment of, or the Company may deduct or withhold from any cash or property payable to the Participant, an amount equal to all federal, state, local and foreign taxes that are required by Applicable Law to be withheld with respect to such includible amount. Notwithstanding anything to the contrary contained herein, the Participant may, if the Company consents, discharge this withholding obligation by directing the Company to withhold Performance Shares having a Fair Market Value on the date that the withholding obligation is incurred equal to the amount of tax required to be withheld in connection therewith, as determined by the Board. 
+
+7. Notices.  
+  
+Any notice to the Company provided for in this Agreement shall be in writing and shall be addressed to it in care of its Secretary at its principal executive offices, and any notice to the Participant shall be addressed to the Participant at the current address shown on the payroll records of the Company. Any notice shall be deemed to be duly given if and when properly addressed and posted by registered or certified mail, postage prepaid. 
+
+8. Legal Construction.  
+  
+Severability. If any provision of this Agreement is or becomes or is deemed invalid, illegal or unenforceable in any jurisdiction, or would disqualify the Plan or this Agreement under any law with respect to which the Plan or this Agreement is intended to qualify, or would cause compensation deferred under the Plan to be includible in a Plan participant’s gross income pursuant to Section 409A(a)(1) of the Code, as determined by the Board, such provision shall be construed or deemed amended to conform to Applicable Law or, if it cannot be construed or deemed amended without, in the determination of the Board, materially altering the intent of the Plan or the Agreement, it shall be stricken and the remainder of this Agreement shall remain in full force and effect. 
+
+Gender and Number. Where the context admits, words in any gender shall include the other gender, words in the singular shall include the plural and words in the plural shall include the singular. 
+
+3 
+
+* * *
+
+Governing Law. To the extent not preempted by federal law, this Agreement shall be construed in accordance with and governed by the laws of the State of Mississippi. 
+
+9. Incorporation of Plan.  
+  
+This Agreement and the Performance Share Award made pursuant hereto are subject to, and this Agreement hereby incorporates and makes a part hereof, all terms and conditions of the Plan that are applicable to Agreements and Awards generally and to Performance Share Awards in particular. The Board has the right to interpret, construe and administer the Plan, this Agreement and the Performance Share Award made pursuant hereto. All acts, determinations and decisions of the Board (including its Compensation Committee) made or taken pursuant to grants of authority under the Plan or with respect to any questions arising in connection with the administration and interpretation of the Plan, including the severability of any and all of the provisions thereof and the calculation of the Average ROE, Average ROS and the number of Performance Shares that the Participant is entitled to receive pursuant to this Agreement, shall be in the Board’s sole discretion and shall be conclusive, final and binding upon all parties, including the Company, its stockholders, Participants, Eligible Participants and their estates, beneficiaries and successors. The Participant acknowledges that he has received a copy of the Plan. 
+
+10. No Implied Rights.  
+  
+Neither this Agreement nor the issuance of any Performance Shares shall confer on the Participant any right with respect to continuance of employment or other service with the Company. Except as may otherwise be limited by a written agreement between the Company and the Participant, and acknowledged by the Participant, the right of the Company to terminate at will the Participant’s employment with it at any time (whether by dismissal, discharge, retirement or otherwise) is specifically reserved by the Company. 
+
+11. Integration.  
+  
+This Agreement and the other documents referred to herein, including the Plan, or delivered pursuant hereto, contain the entire understanding of the parties with respect to their subject matter. There are no restrictions, agreements, promises, representations, warranties, covenants or undertakings with respect to the subject matter hereof other than those expressly set forth herein and restrictions imposed by the Securities Act and applicable state securities laws . This Agreement, including the Plan, supersedes all prior agreements and understandings between the parties with respect to its subject matter. 
+
+12. Counterparts.  
+  
+This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but which together constitute one and the same instrument. 
+
+13. Amendments.  
+  
+The Board may, at any time, without consent of or receiving further consideration from the Participant, amend this Agreement and the Performance Share Award made pursuant hereto in response to, or to comply with changes in, Applicable law. To the extent not inconsistent with the terms of the Plan, the Board may, at any time, amend this Agreement in a manner that is not unfavorable to the Participant without the consent of the Participant. The Board may amend this Agreement and the Performance Share Award made pursuant hereto otherwise with the written consent of the Participant. 
+
+4 
+
+* * *
+
+14. Securities Act.  
+  
+(a) The issuance and delivery of the Performance Share Award to the Participant have been registered under the Securities Act by a Registration Statement on Form S-8 that has been filed with the Securities and Exchange Commission (“SEC”) and has become effective. The Participant acknowledges receipt from the Company of its Prospectus dated February 17, 2011, relating to the Performance Share Award. 
+
+(b) If the Participant is an “affiliate” of the Company, which generally means a director, executive officer or holder of 10% or more of its outstanding shares, at the time certificates representing Performance Shares are delivered to the Participant, such certificates shall bear the following legend, or other similar legend then being generally used by the Company for certificates held by its affiliates: 
+
+“THESE SHARES MUST NOT BE OFFERED FOR SALE, SOLD, ASSIGNED OR TRANSFERRED EXCEPT IN A TRANSACTION WHICH, IN THE OPINION OF COUNSEL FOR THE ISSUER, IS EXEMPT FROM REGISTRATION THROUGH COMPLIANCE WITH RULE 144 OR WITH ANOTHER EXEMPTION FROM REGISTRATION.” 
+
+The Company shall remove such legend upon request by the Participant if, at the time of such request, the shares are eligible for sale under SEC Rule 144(b)(1), or any provision that has replaced it, in the opinion of the Company’s counsel. 
+
+15. Arbitration.  
+  
+Any controversy or claim arising out of or relating to this Performance Share Agreement shall be settled by arbitration administered by the American Arbitration Association under its Commercial Arbitration Rules and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. 
+
+IN WITNESS WHEREOF, the Participant has executed this Agreement on his own behalf, thereby representing that he has carefully read and understands this Agreement and the Plan as of the day and year first written above, and the Company has caused this Agreement to be executed in its name and on its behalf, all as of the day and year first written above.   
+  
+SANDERSON FARMS, INC.  
+By:  
+  
+Name: Mike Cockrell  
+Title: CFO and Treasurer  
+PARTICIPANT  
+  
+5 

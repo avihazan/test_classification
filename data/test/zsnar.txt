@@ -1,0 +1,292 @@
+2016 Nonstatutory Stock Option Agreement 
+
+  
+
+
+  
+
+
+PAR PACIFIC HOLDINGS, INC.   
+
+
+THIS AGREEMENT is made and entered into as of this 16th day of February, 2016 (the “Grant Date”) by and between Par Pacific Holdings, Inc., a Delaware corporation (the “Company”), and Jim Yates (the “Participant”), pursuant to the Par Pacific Holdings, Inc. 2012 Long Term Incentive Plan (the “Plan”). This Agreement and the award contained herein are subject to the terms and conditions set forth in the Plan, which are incorporated by reference herein, and the following terms and conditions:
+
+WITNESSETH:
+
+WHEREAS, the Participant is an employee of, or is engaged to provide Services to, the Company or its Subsidiaries or Affiliates;
+
+WHEREAS, the Company has adopted the Plan in order to advance the interests of the Company and its stockholders by providing an incentive to attract, retain and reward persons performing Services for the Company and by motivating such persons to contribute to the growth and profitability for the Company;
+
+WHEREAS, the Compensation Committee of the Board (the “Committee”) of the Board of Directors of the Company (the “Board”) has determined that it is in the best interests of the Company to grant a Nonstatutory Stock Option under the Plan to the Participant on the terms and conditions set forth below to encourage the Participant to remain in the employ of, or continue to provide Services to, the Company or its Subsidiaries or Affiliates and to reward the Participant for the Participant’s continued Service; and
+
+WHEREAS, the Participant is entrusted with knowledge of the confidential and proprietary information and particular business methods of the Company and its Subsidiaries and Affiliates (the “Company Group”) and the clients of the Company Group, and the Participant is trained and instructed in the Company Group’s particular operations, all of which is exceptionally valuable to the Company Group and vital to the success of the Company Group’s business.
+
+NOW, THEREFORE, in consideration of the various covenants and agreements herein contained, and intending to be legally bound hereby, the parties hereto agree as follows:
+
+1.Grant of Option. In consideration for the continued Service of the Participant to any member of the Company Group, and as part of the Plan, the Company hereby grants to the Participant, subject to the further terms and conditions set forth in this Agreement, the option (the “Option”) to purchase all or part of an aggregate of 9,787 shares of its common stock, $0.01 par value per share (the “Stock”), as of the Grant Date. The Option is a Nonstatutory Stock Option and is not intended to qualify as an “incentive stock option” as that term is used in Code Section 422.
+
+  
+
+
+1
+
+* * *
+
+  
+
+
+  
+
+
+2\. Exercise Price. The per share purchase price of the Stock issuable upon exercise of the Option shall be $22.99 (the “Exercise Price”), which shall not be less than 100% of the Fair Market Value on the Grant Date.
+
+3\. Term. The Option shall not be exercisable after the Company’s close of business on the last business day that occurs prior to the earliest to occur of:
+
+(a) the eighth (8th) anniversary of the Grant Date (the “Expiration Date”);
+
+(b) the first (1st) anniversary of the Participant’s death;
+
+(c) the date that is one (1) year following the Participant’s termination of Service due to Disability; 
+
+(d) the date that is three (3) months following the Participant’s termination of Service due to resignation or by the Company for reasons other than Cause; or 
+
+(e) the date the Participant’s termination of Service by the Company for Cause;
+
+provided, however, that except in the case of the expiration of the Option pursuant to Section 3(a) or Section 3(d) above, if the exercise of the Option on the last business day prior to the expiration date is prevented by any requirement of federal, state or foreign law with respect to securities or any other applicable law, regulation or requirement of any stock exchange or market system upon which the Stock is listed or traded, the Option shall remain exercisable until thirty (30) days after the date the Participant is notified by the Company that the Option is exercisable, but in any event no later than the Expiration Date.
+
+Notwithstanding the foregoing, other than in the case of the expiration of the Option pursuant to Section 3(a) or Section 3(d) above, if a sale of shares of Stock acquired upon the exercise of the Option within the applicable time periods set forth in Section 3(b) or Section 3(c) above would subject the Participant to suit under Section 16(b) of the Exchange Act, the Option (if exercisable) shall remain exercisable until the earliest to occur of (i) the tenth (10th) day following the date on which a sale of such shares by the Participant would no longer be subject to such suit, (ii) three (3) months after the Participant’s termination of Service, or (iii) the Expiration Date.
+
+4\. Vesting and Exercise. 
+
+(a) Subject to any forfeiture provisions in this Agreement or in the Plan, the Option shall vest and become exercisable in accordance with the following schedule provided that the Participant has not had a termination of Service for any reason prior to the applicable vesting date:
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+  
+  
+Vesting Date
+
+Cumulative Vested Percentage of the Option  
+  
+First anniversary of the Grant Date
+
+25% of the shares covered by the Option  
+  
+Second anniversary of the Grant Date
+
+50% of the shares covered by the Option  
+  
+Third anniversary of the Grant Date
+
+75% of the shares covered by the Option  
+  
+Fourth anniversary of the Grant Date
+
+100% of the shares covered by the Option  
+  
+(b) If the application of the vesting schedule in Section 4(a) would yield a fractional share covered by the Option, such fractional share shall be rounded down to the next whole share if it is less than 0.5 and rounded up to the next whole share if it is 0.5 or more.
+
+(c) To the extent that a portion of the Option has not vested prior to the Participant’s termination of Service (including by reason of the Participant’s death), the Participant shall forfeit all rights hereunder with respect to that unvested portion of the Option as of the date of such termination.
+
+(d) In the event of the Participant’s termination of Service by the Company for Cause, the Participant shall forfeit all rights hereunder with respect to the entire Option (i.e., both vested and unvested portions) as of the date of such termination.
+
+(e) Notwithstanding anything to the contrary in this Section 4, (x) in the event of a Change in Control in which the resulting entity does not assume, continue, convert or replace this Agreement, the Option shall become 100% vested and exercisable effective as of immediately prior to the Change in Control, or (y) in the event of a Change in Control there is an involuntary termination of the Participant’s employment for any reason other than Cause (as defined in the Plan) within twenty-four (24) months following the Change in Control, the Option shall become 100% vested and exercisable upon such termination. For purposes of this Agreement, the Option awarded hereunder will not be considered to be assumed, continued, converted or replaced by the resulting entity in connection with the Change in Control unless (i) the Option is adjusted to prevent dilution of the Participant’s rights hereunder as a result of the Change in Control, and (ii) immediately after the Change in Control, the Option relates to shares of common stock in the resulting entity which are publicly traded and listed on a national securities exchange.
+
+For purposes of this Agreement, a “Change in Control” means any of the following events occurring with respect to the Company:
+
+(i) any Person (other than the Company, any trustee or other fiduciary holding securities under any employee benefit plan of the Company, or any company owned, directly or indirectly, by the stockholders of the Company immediately prior to the occurrence with respect to which the evaluation is being made in substantially the same proportions as their ownership of the common stock of the Company) acquires securities of the Company and immediately thereafter is the beneficial owner (except that 
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+  
+
+
+a Person shall be deemed to be the beneficial owner of all shares that any such Person has the right to acquire pursuant to any agreement or arrangement or upon exercise of conversion rights, warrants or options or otherwise, without regard to the sixty (60)-day period referred to in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Company representing 50% or more of the combined voting power of the Company’s then outstanding securities;
+
+(ii) during any period of two consecutive years, individuals who at the beginning of such period constitute the Board, and any new director (other than a director designated by a person who has entered into an agreement with the Company to effect a transaction described in clause (i), (iii), or (iv) of this paragraph) whose election by the Board or nomination for election by the Company’s stockholders was approved by a vote of at least a majority of the directors then still in office who either were directors at the beginning of the two-year period or whose election or nomination for election was previously so approved but excluding for this purpose any such new director whose initial assumption of office occurs as a result of either an actual or threatened election contest (as such terms are used in Rule 14a-11 of Regulation 14A promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of an individual, corporation, partnership, group, associate or other entity or Person other than the Board, cease for any reason to constitute at least a majority of the Board;
+
+(iii) the consummation of a merger or consolidation of the Company with any other entity, other than a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving or resulting entity) more than 50% of the combined voting power of the surviving or resulting entity outstanding immediately after such merger or consolidation; or
+
+(iv) the stockholders of the Company approve a plan or agreement for the sale or disposition of all or substantially all of the consolidated assets of the Company (other than such a sale or disposition immediately after which such assets will be owned directly or indirectly by the stockholders of the Company, in substantially the same proportions as their ownership of the common stock of the Company immediately prior to such sale or disposition) in which case the Board shall determine the effective date of the Change in Control resulting therefrom; provided, however, that a transaction described in this clause (iv) shall not be deemed a Change in Control unless and until such transaction is consummated.
+
+5\. Method of Exercising Option. 
+
+(a) Subject to the terms and conditions of this Agreement, the Option may be exercised by written notice delivered to the Company or its designated representative in the manner and at the address for notices set forth in Section 12 hereof. Such notice shall state that the Option is being exercised thereby and shall specify the number of shares of Stock for which 
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+the Option is being exercised. The notice shall be signed by the person or persons exercising the Option and shall be accompanied by payment in full of the Exercise Price for such shares of Stock being acquired upon the exercise of the Option. Payment of such Exercise Price may be made by one of the following methods, subject to approval by the Company:
+
+(i) in cash;
+
+(ii) by a certified or bank check;
+
+(iii) by tender to the Company, or attestation to the ownership, of shares of Stock owned by the Participant having a Fair Market Value not less than the Exercise Price;
+
+(iv) delivery of a properly executed exercise notice together with such other documentation as the Committee and a qualified broker, if applicable shall require to effect an exercise of the Option and delivery to the Company of the proceeds required to pay the Exercise Price;
+
+(v) by causing the Company to withhold from the shares of Stock issuable upon the exercise of the Option the number of whole shares of Stock having a Fair Market Value, as determined by the Company, not less than the Exercise Price;
+
+(vi) by such other consideration as may be approved by the Committee from time to time to the extent permitted by applicable law; or
+
+(vii) by any combination of (i)-(vi) thereof.
+
+(b) The Participant shall have no rights of a stockholder with respect to shares of Stock to be acquired by the exercise of the Option until the date of issuance of a certificate or certificates representing such shares. Except as otherwise expressly provided in the Plan, no adjustment shall be made for dividends or other rights for which the record date is prior to the date such stock certificate is issued. All shares of Stock purchased upon the exercise of the Option as provided herein shall be fully paid and non-assessable.
+
+6\. Non-Transferability. The Option may not be sold, pledged, assigned, hypothecated, transferred or disposed of in any manner other than (i) by will or the laws of descent or distribution or (ii) pursuant to a qualified domestic relations order (as defined in the Code or Title I of the Employee Retirement Income Security Act of 1974, as amended, or the rules thereunder). The Option may be exercised, during the lifetime of the Participant, only by the Participant, his or her guardian or his or her legal representative, or by an alternate payee pursuant to a qualified domestic relations order. Any attempt to assign, pledge or otherwise transfer the Option or of any right or privilege conferred thereby, contrary to the Plan, or the sale or levy or similar process upon the rights and privileges conferred hereby, shall be void.
+
+7\. Adjustment Provisions. In the event of any stock dividend or extraordinary cash dividend, stock split, reverse stock split, recapitalization, combination, reclassification or similar 
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+  
+
+
+change in the capital structure of the Company, the Committee shall make or cause to be made an appropriate and equitable substitution, adjustment or treatment with respect to the Option in accordance with Section 4.2 of the Plan. Any securities, awards or rights issued pursuant to this Section 8 shall be subject to the same restrictions as the Option.
+
+8\. Tax Withholding. The Participant agrees that no later than the date as of which an amount first becomes includible in his gross income for federal income tax purposes with respect to the Option, the Participant shall pay to the Company, or make arrangements satisfactory to the Company regarding the payment of, any federal, state, local or foreign taxes of any kind required by law to be withheld with respect to such amount. Withholding obligations may be settled with shares of Stock, including Shares that are acquired upon exercise of the Option. The obligations of the Company under this Agreement and the Plan shall be conditional on such payment or arrangements, and the Company, and its Subsidiaries and Affiliates shall, to the extent permitted by law, have the right to deduct any such taxes from any payment otherwise due to the Participant. 
+
+9\. Conditions upon Issuance of Option. As a condition to the exercise of the Option, the Company may require the Participant to (i) represent and warrant at the time of any such exercise that the shares of Stock are being purchased only for investment and without any present intention to sell or distribute such shares if, in the opinion of legal counsel for the Company, such a representation is required by any relevant provision of law; and (ii) enter into a lock-up or similar agreement with the Company with respect to such shares prohibiting, for up to ninety (90) days, the disposition of such shares.
+
+10\. No Right to Continued Employment or Engagement. In no event shall the granting of the Option or the other provisions hereof or the acceptance of the Option by the Participant interfere with or limit in any way the right of the Company, a Subsidiary or Affiliate to terminate the Participant’s employment or engagement as a Service provider at any time, nor confer upon the Participant any right to continue in the employ or Service of the Company, a Subsidiary or an Affiliate for any period of time or to continue his or her present or any other rate of compensation.
+
+11\. Confidential Information, etc. The Participant hereby acknowledges that, during and solely as a result of the Participant’s employment by, or engagement as a Service provider with, the Company or its Subsidiaries or Affiliates, the Participant has received and will continue to receive special training and education with respect to the operations of such entity(ies) and access to confidential information and business and professional contacts, all of which is exceptionally valuable to the Company Group and vital to the success of the Company Group’s business and other related matters. In consideration of such special and unique opportunities afforded to the Participant as a result of the Participant’s employment or engagement and the grant of the Option, the Participant hereby agrees to be bound by and acknowledges the reasonableness of the following covenants, which are specifically relied upon by the Company in entering into this Agreement and as a condition to the grant of the Option. The Participant acknowledges and agrees that each of the individual provisions of this Section 11 constitutes a 
+
+  
+
+
+6
+
+* * *
+
+  
+
+
+  
+
+
+separate and distinct obligation of the Participant to the Company Group, individually enforceable against the Participant.
+
+(a) Covenant of Confidentiality. At any time during the term of the Participant’s employment with, or engagement to provide Services to, the Company or its Subsidiaries or Affiliates (pursuant to this Agreement or otherwise), and for a period of five (5) years after the termination of the Participant’s employment with the Company or its Subsidiaries or Affiliates, as applicable, for any reason, the Participant shall not, except in furtherance of the Business of the Company Group or otherwise with the prior authorization of the Company, in any form or manner, directly or indirectly, divulge, disclose or communicate to any person, entity, firm, corporation or any other third party (other than in the course of the Participant’s employment or engagement), or utilize for the Participant’s personal benefit or for the benefit of any competitor or customer of the Company Group any Confidential Information. For purposes of this Agreement, “Confidential Information” shall mean, but shall not be limited to, any technical or non-technical data, formulae, patterns, compilations, programs, devices, methods, techniques, drawings, designs, processes, procedures, improvements, models or manuals of any member of the Company Group or which are licensed by any member of the Company Group, any financial data or lists of actual or potential customers or suppliers (including contacts thereat) of the Company Group, and any information regarding the contracts, marketing and sales plans, which is not generally known to the public through legitimate origins of the Company Group. The parties hereto each acknowledge and agree that such Confidential Information is extremely valuable to the Company Group and shall be deemed to be a “trade secret.” In the event that any part of the Confidential Information becomes generally known to the public through legitimate origins (other than by the breach of this Agreement by the Participant or by misappropriation), or is required to be disclosed by legal, administrative or judicial process (provided that the Participant has provided to the Company reasonable prior notice of such request and the Company has had a reasonable opportunity, at its expense, to dispute, defend or limit such request for the Confidential Information), that part of the Confidential Information shall no longer be deemed Confidential Information for purposes of this Agreement, but the Participant shall continue to be bound by the terms of this Agreement as to all other Confidential Information.
+
+(b) Return of Property. Upon termination of the Participant’s employment or engagement to provide Services for any reason, the Participant shall promptly deliver to the Company or its Subsidiaries or Affiliates all correspondence, drawings, blueprints, manuals, letters, notes, notebooks, reports, programs, plans, proposals, financial documents or any other documents, including all copies in any form or media, concerning the Company Group’s Customers, marketing strategies, products or processes which contain any Confidential Information.
+
+(c) Assignment of Inventions. Any and all writings, inventions, improvements, processes, procedures and/or techniques now or hereafter acquired, made, conceived, discovered or developed by the Participant, either solely or jointly with any other person or persons, whether or not during working hours and whether or not at the request or upon the suggestion of the Company or its Subsidiaries or Affiliates, which relate to or are useful in 
+
+  
+
+
+7
+
+* * *
+
+  
+
+
+  
+
+
+connection with any business now or hereafter carried on or contemplated by the Company Group, including developments or expansions of its present fields of operations, shall be the sole and exclusive property of the Company or its Subsidiaries or Affiliates, as applicable. The Participant shall make full disclosure to the Company or its Subsidiaries or Affiliates of all such writings, inventions, improvements, processes, procedures, techniques, or any other material of a proprietary nature, including, without limitation, any ideas, inventions, discoveries, improvements, developments, designs, methods, systems, computer programs, trade secrets or other intellectual property whether or not patentable or copyrightable and specifically including, but not limited to, copyright and mask works, formulae, compositions, products, processes, apparatus, and new uses of existing materials or machines (collectively, “Inventions”), made, conceived or first reduced to practice by the Participant solely or jointly with others while employed by the Company or its Subsidiaries or Affiliates and which relate to or result from the actual or anticipated business, work, research or investigation of the Company Group or which are suggested by or result from any task assigned to or performed by the Participant for the Company Group; and the Participant shall do everything necessary or desirable to vest the absolute title thereto in the Company or its Subsidiaries or Affiliates, as applicable. The Participant shall write and prepare all descriptions, specifications and procedures regarding the Inventions as may be required by the Company or its Subsidiaries or Affiliates to protect the Company’s or its Subsidiaries or Affiliates rights in and to the Inventions, and otherwise aid and assist the Company or its Subsidiaries or Affiliates so that the Company or its Subsidiaries or Affiliates can prepare and present applications for copyright or letters patent therefor and can secure such copyright or letters patent wherever possible, as well as reissues, renewals, and extensions thereof, and can obtain the record title to such copyright or patents so that the Company or its Subsidiaries or Affiliates shall be the sole and absolute owner thereof in all countries in which it may desire to have copyright or patent protection. The Participant will, at the Company’s or its Subsidiaries or Affiliates request, execute any and all assignment, patent or copyright forms and the like, deemed reasonably necessary by the Company or its Subsidiaries or Affiliate. The Company’s or its Subsidiaries or Affiliates rights hereunder shall not be limited to this country but shall extend to any country in the world and shall attach to each Invention notwithstanding that it is perfected, improved, reduced to specific form or used after termination the Participant’s employment. The Participant agrees to lend such assistance as he or she may be able, at the Company’s or its Subsidiaries or Affiliates request in connection with any proceedings relating to such letters of patent, trade secrets, copyright or application thereof, as may be determined by the Company or its Subsidiaries or Affiliates to be reasonably necessary. The Company, in its sole discretion, may agree to pay the Participant a reasonable fee to defray any costs or time incurred by the Participant in providing such assistance. The Participant shall not be entitled to any additional or special compensation or reimbursement regarding any and all such writings, inventions, improvements, processes, procedures and techniques.
+
+(d) Equitable Remedies. In the event that the Participant breaches any of the terms or conditions set forth in this Section 11, the Participant stipulates that such breach will result in immediate and irreparable harm to the business and goodwill of the Company and/or its Subsidiaries or Affiliates and that damages, if any, and remedies at law for such breach would be inadequate. The Company and/or its Subsidiaries or Affiliates shall therefore be entitled to seek for and receive from any court of competent jurisdiction a temporary restraining order, 
+
+  
+
+
+8
+
+* * *
+
+  
+
+
+  
+
+
+preliminary and permanent injunctive relief and/or an order for specific performance to protect its rights and interests and to restrain any violation of this Agreement and such further relief as the court may deem just and proper, each without the necessity of posting bond. Following judgment or other final determination by such court, the non-prevailing party in such proceeding shall pay the costs and expenses (including court costs and reasonable attorneys’ fees) of the prevailing party. The Company and/or its Subsidiaries or Affiliates may elect to seek such remedies at its sole discretion on a case by case basis. Failure to seek any or all remedies in one case shall not restrict the Company and/or its Subsidiaries or Affiliates from seeking any remedies in another situation. Such action by the Company and/or its Subsidiaries or Affiliates shall not constitute a waiver of any of its rights.
+
+(e) Continuing Obligation. During the Participant’s employment or engagement to provide Services and upon termination of the Participant’s employment for any reason the obligations, duties and liabilities of the Participant pursuant to Sections 11(a) and 11(b) of this Agreement are continuing, and for the periods set forth in such provisions hereof are absolute and unconditional, and shall survive and remain in full force and effect as provided in each such Section. Notwithstanding anything else contained in this Agreement to the contrary, the parties hereto agree that in the event, and at the moment, the Participant breaches any of the terms, duties or obligations contained in Sections 11(a) and 11(b) of this Agreement, the Option (both vested and unvested portions) will immediately be cancelled and forfeited.
+
+12\. Construction.
+
+(a) Successors. This Agreement and all the terms and provisions hereof shall be binding upon and shall inure to the benefit of the parties hereto and their respective legal representatives, heirs and successors, except as expressly herein otherwise provided.
+
+(b) Entire Agreement; Modification. This Agreement contains the entire understanding between the parties with respect to the matters referred to herein. Subject to Section 3.3 of the Plan, this Agreement may be amended by the Committee at any time.
+
+(c) Capitalized Terms; Headings; Pronouns; Governing Law. Capitalized terms used and not otherwise defined herein are deemed to have the same meanings as in the Plan. The descriptive headings of the respective sections and subsections of this Agreement are inserted for convenience of reference only and shall not be deemed to modify or construe the provisions which follow them. Any use of any masculine pronoun shall include the feminine and vice-versa and any use of a singular, the plural and vice-versa, as the context and facts may require. This Agreement shall be interpreted, construed and constructed in accordance with the laws of the State of Delaware without regard to its conflicts of law provisions, except as may be superseded by applicable laws of the United States.
+
+(d) Notices. Each notice relating to this Agreement shall be in writing and shall be sufficiently given if delivered by registered or certified mail, or by a nationally recognized overnight delivery service, with postage or charges prepaid, to the address hereinafter provided in this Section 12. Any such notice or communication given by first-class mail shall be deemed to have been given two business days after the date so mailed, and such notice or 
+
+  
+
+
+9
+
+* * *
+
+  
+
+
+  
+
+
+communication given by overnight delivery service shall be deemed to have been given one business day after the date so sent, provided such notice or communication arrives at its destination. Each notice to the Company shall be addressed to it at its offices at 800 Gessner Road, Suite 875, Houston, Texas 77024 (attention: Chief Financial Officer), with a copy to the Secretary of the Company or to such other designee of the Company. Each notice to the Participant shall be addressed to the Participant at the Participant’s address shown on the signature page hereof.
+
+(e) Severability. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement or the application thereof to any party or circumstance shall be prohibited by or invalid under applicable law, such provision shall be ineffective to the minimal extent of such provision or the remaining provisions of this Agreement or the application of such provision to other parties or circumstances.
+
+(f) Counterpart Execution. This Agreement may be executed in counterparts, each of which shall constitute an original and all of which, when taken together, shall constitute the entire document.  
+  
+PAR PACIFIC HOLDINGS, INC.
+
+By:/s/ James Matthew Vaughn   
+Title: Senior Vice President and General Counsel  
+  
+Accepted this 16th day of   
+February, 2016.  
+  
+/s/ Jim Yates   
+  
+  
+  
+
+
+  
+
+
+10

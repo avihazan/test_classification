@@ -1,0 +1,198 @@
+* * *
+
+  
+
+
+Exhibit 10.2
+
+  
+
+
+
+
+UNDER
+
+JACK HENRY & ASSOCIATES, INC. RESTRICTED STOCK PLAN
+
+(Performance-Based RSUs)
+
+  
+
+
+  
+
+
+THIS AGREEMENT is made as of the ____ day of ___________, 20__, and is between Jack Henry & Associates, Inc., a Delaware corporation (hereinafter called the “Company”), and ___________________ (hereinafter called “Awardee”).
+
+  
+
+
+WHEREAS, the Board of Directors of the Company (“Board”) has adopted the Jack Henry & Associates, Inc. Restricted Stock Plan (“Plan”) pursuant to which restricted stock and restricted stock units may be granted to employees of the Company; and 
+
+  
+
+
+WHEREAS, the Company desires to make a restricted stock unit award to Awardee relating to __________________________ (_____) shares of the Company’s Common Stock (“Award”) under the terms hereinafter set forth;
+
+  
+
+
+NOW, THEREFORE, in consideration of the premises and of the mutual agreements hereinafter set forth, the parties to this Agreement agree as follows:
+
+  
+
+
+1.
+
+Award Subject to Plan. This Award is made under and is expressly subject to all the terms and provisions of the Plan, a copy of which Awardee acknowledges has been given to Awardee, and which terms are incorporated herein by reference. Awardee agrees to be bound by all the terms and provisions of the Plan. Terms not defined herein shall have the meaning ascribed thereto in the Plan.
+
+  
+
+
+2.
+
+Grant of Award. Pursuant to the action of the Board, which action was taken on ________________, 20_____ (“Date of Award”), the Company awards to Awardee ________________________ (_____) Restricted Stock Units (which directly relate to that same number of shares of Common Stock). Subject to the other terms and conditions of the Plan and this Agreement, settlement of each RSU as provided in Section 4 entitles Awardee to the issuance of one share of Common Stock, or, if permitted under the Plan and where the Board elects to settle an RSU for cash, a cash payment equal to the fair market value of the share underlying the RSU the Board elects to settle for cash. 
+
+3.
+
+Restrictions. Except as may be permitted under the Plan or by the Board, the RSUs are not transferable by sale, assignment, disposition, gift, exchange, pledge, hypothecation, or otherwise. Any attempted disposition of the RSUs, or the levy of any execution, attachment or similar process upon the RSUs prior to settlement, shall be null and void and without effect. Holding RSUs does not give Awardee the rights of a shareholder (including without limitation the right to vote or receive dividends or other distributions) with respect to shares of Common Stock underlying the RSUs that the Company may issue under the terms and conditions of this Agreement. 
+
+  
+
+
+4.
+
+Settlement, Forfeiture and Share Issuance. 
+
+(a)
+
+Appendix A Performance Measures. The performance measures applicable to the RSUs (the “Performance Measures”) are set forth in Appendix A to this Agreement. By accepting the terms and conditions of this Agreement, Awardee shall be deemed to have consented to Appendix A, and at all times, Appendix A, its Performance Measures, terms and conditions are incorporated herein by reference. The Performance Measures relate to the Company's 2011, 2012 and 2013 fiscal years (each a “Performance Year”, and collectively the “Performance Period”). Appendix A also sets forth the “Scheduled Settlement Date”, which, if it occurs due to achievement of one or more of the Performance Measures, shall follow the meeting of the Compensation Committee of the Company's Board of Directors (the "Committee") at which financial results are determined for Award purposes (“Applica ble Committee Meeting”). At the Applicable Committee Meeting following the 2013 Performance Year, the Committee shall conduct an objective analysis as to whether one or more of the Performance Measures have been satisfied. If one or more of such Performance Measures have been satisfied, the Committee shall certify such achievement (“Certification”) and instruct the Company to begin the RSU settlement process. 
+
+(b)
+
+Performance Settlement. 
+
+(i)
+
+The RSUs shall be settled in connection with Certification (as provided in Appendix A, but no earlier than any Scheduled Settlement Date). Settlement shall not occur if Certification does not occur at the Applicable Committee Meeting in 2013 (the “Deadline”), and if Certification does not occur by the Deadline, all RSUs granted under this Agreement shall be forfeited as of the Deadline. 
+
+(ii)
+
+To the extent that the settlement of RSUs would result in the issuance of one or more shares in excess of the limitations set forth in Section 6(b) of the Plan (which relates to the terms and conditions for satisfaction of the performance-based compensation exception to Section 162(m) of the Internal Revenue Code, as amended (the "Code")), issuance of such excess shares shall be delayed until the first taxable year in which the delivery of such shares can be made in accordance with Section 6(b) of the Plan and the tax deduction for such payment will not be barred by application of Code section 162(m). 
+
+(iii)
+
+To the extent permissible under the Plan, the Committee, in its sole discretion, may elect to settle an RSU by making a cash payment to Awardee in an amount equal to the then fair market value of the share of Common Stock underlying the RSU being settled, less any amounts necessary to satisfy the Company's tax withholding obligations. 
+
+  
+
+
+(c) 
+
+Other Settlement. 
+
+(i)
+
+Effect of Change in Control on Settlement.  Upon a Change in Control of the Company, all RSUs shall be settled, regardless of whether one or more Performance Measures are achieved. In such event, settlement of the RSUs shall occur as soon as practicable following the Change in Control, but in no event later than the 90th day following such event, and in no event shall Awardee have any discretion to direct when the RSUs shall be settled.
+
+(ii)
+
+Effect of Death, Incapacity and Retirement on Settlement. Upon Awardee's death or termination of employment due to Incapacity or “Retirement”, no forfeiture or accelerated settlement of the RSUs shall occur. Rather, on the Scheduled Settlement Date following the Applicable Committee Meeting, if Certification occurs, a pro rata portion of the RSUs subject to this Agreement shall be settled based on the period of time in the Performance Period that elapsed prior to Awardee's termination of employment. 
+
+  
+
+
+The pro rata portion of the RSUs being settled shall be determined by (A) dividing the aggregate number of RSUs Awardee would have been entitled to receive had he or she been employed through the end of the Performance Period by 3 (i.e., the number of calendar years in the Performance Period), and then (B) multiplying the quotient obtained in (A) by the number of whole years elapsed from the commencement of the 2011 fiscal year to the date of Awardee's death or termination of employment due to Incapacity or Retirement. For purposes of this pro rata calculation, Awardee must have been actively employed as a full-time employee for an entire calendar year in the Performance Period to receive credit that that year. 
+
+For purposes of this Agreement, a "Retirement" means an Awardee's termination of employment for the express reason of retirement, as determined by the Board or Committee in its sole discretion, either (A) following a minimum of thirty (30) years of employment with the Company or (B) on or after age 57 and following a minimum of fifteen (15) years of employment with the Company. Unless otherwise determined by the Board or the Committee, Awardee must have been actively employed as a full-time employee for an entire calendar year to receive credit for such year of employment for purposes of this definition of "Retirement." 
+
+d. 
+
+Forfeiture. Subject to the other provisions of this Section 4, all non-settled RSUs shall be forfeited if either (A) Certification does not occur prior to or on the Deadline, or (B) Awardee ceases to be employed by the Company during the Performance Period. Awardee is not deemed to have terminated employment through, and the RSUs shall not be forfeited solely as a result of, any change in Awardee's duties or position or Awardee's temporary leave of absence approved by the Company. Upon any such forfeiture, under no circumstances will the Company be obligated to make any payment to Awardee, and no shares of Common Stock shall be issued, as a result of such forfeited RSUs. 
+
+e.
+
+Share Issuance. Except as otherwise provided herein, upon the settlement of a specific number of RSUs for shares of Common Stock as provided in Paragraphs 4(b) or (c), the Company shall issue a corresponding number of shares of Common Stock to Awardee on the Settlement Date, provided that tax withholding obligations have been satisfied as provided in Section 5. The Company’s transfer agent may issue shares of Common Stock in certificated or book entry form as determined by the Company’s Corporate Secretary. Upon issuance of the Shares, Awardee shall have all rights of a shareholder with respect thereto including the right to vote and receive all dividends or other distributions made or paid with respect to the shares of Common Stock. 
+
+f.
+
+Payments to Third Party. Upon death of Awardee followed by a valid written request for payment, the shares of Common Stock, to the extent eligible to be issued, shall be issued as soon as administratively practical to Awardee’s beneficiary named in a written beneficiary designation filed with the Company’s Corporate Secretary on a form for the Plan or, if there is no such designated beneficiary, to Awardee’s executor or administrator or other personal representative acceptable to the Corporate Secretary. Any request to pay any person or persons other than Awardee shall be accompanied by such documentation as the Company may reasonably require, including without limitation, evidence satisfactory to the Company of the authority of such person or persons to receive the payment. 
+
+  
+
+
+5.
+
+Tax Withholding. Awardee understands and agrees that, at the time any tax withholding obligation arises in connection with the issuance of a share of Common Stock or, if permitted under the Plan, a cash payment, the Company may withhold, in shares of Common Stock if a valid election applies under this Section 5 or in cash from payroll or other amounts the Company owes or will owe Awardee, any applicable withholding, payroll and other required tax amounts due upon the issuance of shares of Common Stock or cash payment. Tax withholding may be made by any means permitted under the Plan, as approved by the Committee, and as permitted under the law. The valuation of the RSUs, and any shares of Common Stock that the Company may issue attributable to RSUs, for tax and other purposes shall be determined in accordance with all applicable laws and regulations. In the absence of the satisfaction of tax obligations, the Company may re fuse to issue shares of Common Stock or make any other payment hereunder. 
+
+  
+
+
+6.
+
+Dividends and Voting. Prior to an RSU settlement date, Awardee shall have no right to receive any dividends or dividend equivalent payments with respect to the RSUs. Awardee will have no voting rights with respect to any of the RSUs.
+
+  
+
+
+7.
+
+Administration. This Award has been made pursuant to a determination made by the Board, or a committee authorized by the Board, subject to the express terms of this Agreement, and the Board or such committee shall have plenary authority to interpret any provision of this Agreement and to make any determinations necessary or advisable for the administration of this Agreement and may waive or amend any provisions hereof in any manner not adversely affecting the rights granted to Awardee by the express terms hereof
+
+  
+
+
+8.
+
+No Right to Continued Service. Nothing in this Agreement shall be deemed to create any limitation or restriction on such rights as the Company otherwise would have to terminate the employment of Awardee.
+
+  
+
+
+9\. 
+
+Choice of Law. This Agreement shall be governed by the laws of the State of Delaware, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of the Agreement to the substantive law of another jurisdiction. Awardee is deemed to submit to the exclusive jurisdiction and venue of the federal or state courts of Missouri to resolve any and all issues that may arise out of or relate to this agreement.
+
+  
+
+
+  
+
+
+The Company has caused this Agreement to be executed on its behalf, and Awardee has signed this Agreement to evidence Awardee’s acceptance of the terms hereof, all as of the date first above written.
+
+  
+
+
+JACK HENRY & ASSOCIATES, INC.
+
+  
+
+
+By: 
+
+  
+
+
+Title: ___________________________
+
+  
+
+
+  
+
+
+AWARDEE
+
+  
+
+
+  
+
+
+Name: ________________________
+
+  
+  
+  
+

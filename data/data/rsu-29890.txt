@@ -1,0 +1,428 @@
+  
+
+
+Exhibit 10.28
+
+IRON MOUNTAIN INCORPORATED
+
+
+
+Stock Option Agreement
+
+This Stock Option Agreement and the associated grant award information (the “Customizing Information”), which Customizing Information is provided in written form or is available in electronic form from the recordkeeper for the Iron Mountain Incorporated 2014 Stock and Cash Incentive Plan, as amended and in effect from time to time (the “Plan”), made as of the date shown as the “Grant Date” in the Customizing Information (the “Grant Date”) by and between Iron Mountain Incorporated, a Delaware corporation (the “Company”), and the individual identified in the Customizing Information (the “Optionee”). This instrument and the Customizing Information are collectively referred to as the “Option Agreement.”
+
+WITNESSETH THAT:
+
+WHEREAS, the Company has instituted the Plan; and
+
+WHEREAS, the Compensation Committee (the “Committee”) has authorized the grant of a stock option upon the terms and conditions set forth below and pursuant to the Plan, a copy of which is incorporated herein; and
+
+WHEREAS, the Optionee acknowledges that he or she has carefully read this Option Agreement and agrees, as provided in Section 17(a) below, that the terms and conditions of the Option Agreement reflect the entire understanding between himself or herself and the Company regarding this stock option (and the Optionee has not relied upon any statement or promise other than the terms and conditions of the Option Agreement with respect to this stock option);
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants and agreements herein contained and for other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the Company and the Optionee agree as follows.
+
+1\. Grant. Subject to the terms of the Plan and this Option Agreement, the Company hereby grants to the Optionee a stock option (the “Option”) to purchase from the Company the amount of Common Stock (“Stock”) shown in the Customizing Information under “Shares Granted.” If so provided in the “Grant Type” shown in the Customizing Information, this Option is intended to constitute for United States income tax purposes an Incentive Stock Option and to qualify for special United States federal income tax treatment under Section 422 of the Code and upon exercise, the maximum number of shares that can be treated as Incentive Stock Options shall be so treated, and the remainder shall be treated as Nonstautory Stock Options.
+
+2\. Grant Price. This Option may be exercised at the “Grant Price” per share shown in the Customizing Information, subject to adjustment as provided herein and in the Plan.
+
+3\. Term and Exercisability of Option. This Option shall expire at 4:00 p.m. Eastern Time on the “Expiration Date” shown in the Customizing Information, unless the Option expires earlier pursuant to this Section 3 or any provision of the Plan. At any time before its expiration, this Option may be exercised to the extent vested, as shown in the Customizing Information, provided that:
+
+1
+
+* * *
+
+  
+
+
+(a) at the time of exercise the Optionee is not in violation of any confidentiality, inventions and/or non-competition agreement with the Company;
+
+(b) the Optionee’s employment, contractual or other service relationship with the Company (“Relationship”) must be in effect on a given date in order for any scheduled increment in vesting, as set forth in the “Vesting Schedule” shown in the Customizing Information, to become effective;
+
+(c) this Option may not be exercised after the sixtieth (60th) day following the date of termination of the Relationship between the Optionee and the Company, except that (i) if the Relationship terminates by reason of the Optionee’s death or total and permanent disability (as determined by the Board on the basis of medical advice satisfactory to it), the unexercised portion of the Option that is otherwise exercisable on the date of termination of the Relationship shall remain exercisable thereafter for one (1) year and (ii) if the Relationship ends on or after the Optionee has attained age fifty-five (55) and completed ten (10) Years of Credited Service (calculated on the same basis as “Years of Credited Service” are calculated for purposes of The Iron Mountain Companies 401(k) Plan or any successor thereto), the unexercised portion of the Option that is otherwise exercisable when the Relationship ends shall remain exercisable thereafter for three (3) years; and
+
+(d) in the event the Relationship is terminated for any reason (whether voluntary or involuntary), (i) the Optionee’s right to vest in the Option will, except as provided in Section 9(c) of the Plan or otherwise explicitly provided by the Committee, terminate as of the date of termination of the Relationship (and such right shall not be extended by any notice period mandated under local law), (ii) the Optionee’s continuing right (if any) to exercise the Option after termination of the Relationship will be measured from the date of termination of the Relationship (and such right will not be extended by any notice period mandated under local law) and (iii) the Committee shall have the exclusive discretion to determine when the Relationship has terminated for purposes of this Option (including determining when the Optionee is no longer considered to be providing active service while on a leave of absence).
+
+For purposes of this Section 3, the term “Company” refers to the Company as defined in the last sentence of Section 1 of the Plan.
+
+It is the Optionee’s responsibility to be aware of the date that the Option expires.
+
+4\. Method of Exercise. Prior to its expiration and to the extent that the right to purchase shares of Stock has vested hereunder, this Option may be exercised in whole or in part from time to time by notice provided in a manner consistent with the requirements of Section 5(e) of the Plan, accompanied by payment in full of the Grant Price by means of payment acceptable to the Company in accordance with Section 5(f) of the Plan.
+
+As soon as practicable after its receipt of notice, the Company shall, without transfer or issue tax to the Optionee (or other person entitled to exercise this Option), (i) deliver to the Optionee (or other person entitled to exercise this Option), at the principal executive offices of
+
+2
+
+* * *
+
+  
+
+
+the Company or such other place as shall be mutually acceptable, a stock certificate or certificates for such shares out of theretofore authorized but unissued shares or treasury shares of its Stock as the Company may elect or (ii) issue shares of its Stock in book entry form; provided, however, that the time of delivery or issuance may be postponed by the Company for such period as may be required for it with reasonable diligence to comply with any applicable requirements of law; and provided, further, that any shares delivered or issued shall remain subject to any applicable securities law or trading restrictions imposed pursuant to the terms of this Option Agreement and the Plan.
+
+If the Optionee (or other person entitled to exercise this Option) fails to pay for and accept delivery of all of the shares specified in the notice upon tender of delivery thereof, his or her right to exercise this Option with respect to such shares not paid for may be terminated by the Company.
+
+5\. Withholding Taxes. The Optionee hereby agrees, as a condition to any exercise of this Option, to provide to the Company (or a subsidiary employing the Optionee, as applicable) an amount sufficient to satisfy the Company’s and/or subsidiary’s obligation to withhold any and all federal, state, local or provincial income tax, social security, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items or statutory withholdings related to the Optionee’s participation in the Plan (the “Withholding Amount”), if any, by (a) authorizing the Company and/or any subsidiary employing the Optionee, as applicable, to withhold the Withholding Amount from the Optionee’s cash compensation or (b) remitting the Withholding Amount to the Company (or a subsidiary employing the Optionee, as applicable) in cash; provided, however, that to the extent that the Withholding Amount is not provided by one or a combination of such methods, the Company may at its election withhold from the Stock that would otherwise be delivered upon exercise of this Option that number of shares having a Fair Market Value on the date of exercise sufficient to eliminate any deficiency in the Withholding Amount; and provided, further, that the Fair Market Value of Stock withheld shall not exceed an amount in excess of the minimum required withholding. Regardless of any action that the Company and/or subsidiary takes with respect to any or all federal, state, local or provincial income tax, social security, social insurance, payroll tax, fringe benefits tax, payment on account or other tax-related items or statutory withholdings related to the Optionee’s participation in the Plan, the Optionee acknowledges that he or she, and not the Company and/or any subsidiary, has the ultimate liability for any such items. Further, if the Optionee becomes subject to tax in more than one jurisdiction between the Grant Date and the date of any relevant taxable or tax withholding event, the Optionee acknowledges that the Company and/or subsidiary may be required to withhold or account for such tax-related items in more than one jurisdiction.
+
+6\. Non-assignability of Option. This Option shall not be assignable or transferable by the Optionee except by will or by the laws of descent and distribution or as permitted by the Committee in its discretion pursuant to the terms of the Plan. During the life of the Optionee, this Option shall be exercisable only by him or her, by a conservator or guardian duly appointed for him or her by reason of the Optionee’s incapacity or by the person appointed by the Optionee in a durable power of attorney acceptable to the Company’s counsel.
+
+7\. Compliance with Securities Act; Lock-Up Agreement. The Company shall not be obligated to sell or issue any shares of Stock or other securities pursuant to the exercise of this
+
+3
+
+* * *
+
+  
+
+
+Option unless the shares of Stock or other securities with respect to which this Option is being exercised are at that time effectively registered or exempt from registration under the Securities Act and applicable state or provincial securities laws. In the event shares or other securities shall be issued that shall not be so registered, the Optionee hereby represents, warrants and agrees that he or she will receive such shares or other securities for investment and not with a view to their resale or distribution, and will execute an appropriate investment letter satisfactory to the Company and its counsel. The Optionee further hereby agrees that as a condition to the purchase of shares upon exercise of this Option, he or she will execute an agreement in a form acceptable to the Company to the effect that the shares shall be subject to any underwriter’s lock-up agreement in connection with a public offering of any securities of the Company that may from time to time apply to shares held by officers and employees of the Company, and such agreement or a successor agreement must be in full force and effect.
+
+8\. Legends. The Optionee hereby acknowledges that the stock certificate or certificates (or entries in the case of book entry form) evidencing shares of Stock or other securities issued pursuant to any exercise of this Option may bear a legend (or provide a restriction) setting forth the restrictions on their transferability described in Section 7 hereof, if such restrictions are then in effect.
+
+9\. Rights as Stockholder. The Optionee shall have no rights as a stockholder with respect to any shares covered by this Option until the date of issuance of a stock certificate (or appropriate entry is made in the case of book entry form) to him or her for such shares. No adjustment shall be made for dividends or other rights for which the record date is prior to the date such stock certificate is issued (or appropriate entry is made in the case of book entry form).
+
+10\. Effect Upon Employment and Performance of Services. Nothing in this Option or the Plan shall be construed to impose any obligation upon the Company or any subsidiary to employ or utilize the services of the Optionee or to retain the Optionee in its employ or to engage or retain the services of the Optionee.
+
+11\. Time for Acceptance. Unless the Optionee shall evidence his or her acceptance of this Option by electronic or other means prescribed by the Committee within sixty (60) days after its delivery, the Option shall be null and void (unless waived by the Committee).
+
+12\. Notice of Disqualifying Disposition. If the “Grant Type” shown in the Customizing Information indicates that the Option is an Incentive Stock Option, the Optionee agrees to notify the Company promptly in the event that he or she sells, transfers, exchanges or otherwise disposes of any shares of Stock issued upon exercise of the Option before the later of (a) the second anniversary of the date of grant of the Option and (b) the first anniversary of the date the shares were issued upon his or her exercise of the Option.
+
+13\. Right of Repayment. In the event that the Optionee accepts employment with or provides services for a competitor of the Company within two (2) years after the date of exercise of this Option or any portion of it, the Optionee shall pay to the Company an amount equal to the /excess of the Fair Market Value of the Stock as of the date of exercise over the price paid for such shares; provided, however, that the Committee in its discretion may release the Optionee from the requirement to make such payment, if the Committee determines that the Optionee’s
+
+4
+
+* * *
+
+  
+
+
+acceptance of such employment or performance of such services is not inimical to the best interests of the Company. In accordance with applicable law, the Company may deduct the amount of payment due under the preceding sentence from any compensation or other amount payable by the Company to the Optionee. For purposes of this Section 13, the term “Company” refers to the Company as defined in the last sentence of Section 1 of the Plan.
+
+14\. Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to current or future participation in the Plan by electronic means. The Optionee consents to receive such documents by electronic delivery and agrees to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+
+15\. Nature of Award. By accepting this Option, the Optionee acknowledges, understands and agrees that:
+
+(a) the Plan is established voluntarily by the Company, is discretionary in nature and may be modified, amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan and this Option Agreement;
+
+(b) the grant of this Option is voluntary and occasional and does not create any contractual or other right to receive future awards under the Plan or benefits in lieu of Plan awards, even if Options or other Plan awards have been granted in the past;
+
+(c) all decisions with respect to future Option grants or Plan awards will be at the sole discretion of the Committee;
+
+(d) he or she is voluntarily participating in the Plan;
+
+(e) the future value of shares of Stock underlying the Option is unknown and cannot be predicted with certainty;
+
+(f) if the underlying shares of Stock do not increase in value, the Option, as measured by the difference between the fair market value of the Stock and the Grant Price, will have no value;
+
+(g) if the Optionee exercises the Option and acquires shares of Stock, the value of such shares may increase or decrease in value;
+
+(h) if the Optionee resides and/or works outside the United States, the following additional provisions shall apply:
+
+(i) the Option and any shares of Stock acquired under the Plan do not replace any pension or retirement rights or compensation;
+
+(ii) the Option and any shares of Stock acquired under the Plan (including the value attributable to each) do not constitute compensation of any kind for services of any kind rendered to the Company and/or any subsidiary thereof and are outside the scope of the Optionee’s employment contract, if any;
+
+5
+
+* * *
+
+  
+
+
+(iii) the Option and any shares of Stock acquired under the Plan (including the value attributable to each) are not part of normal or expected compensation or salary, including, but not limited to, for purposes of calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, service awards, pension or retirement or welfare benefits or similar payments unless such other arrangement explicitly provides to the contrary;
+
+(iv) no claim or entitlement to compensation or damages shall arise from forfeiture of the Option resulting from a termination of the Relationship for any reason and in consideration of the grant of the Option, the Optionee irrevocably agrees never to institute a claim against the Company and/or any subsidiary, waives his or her ability to bring such claim and releases the Company and/or its subsidiaries from any claim; if, notwithstanding the foregoing, such claim is allowed by a court of competent jurisdiction, then by accepting this Option, the Optionee is deemed irrevocably to have agreed not to pursue such claim and agrees to execute any and all documents necessary to request dismissal or withdrawal of such claims; and
+
+(i) the Company shall not be liable for any foreign exchange rate fluctuation between the Optionee’s local currency and the United States dollar that may affect the value of the Option or any amounts due pursuant to the exercise of the Option or the subsequent sale of any shares of Stock acquired upon settlement.
+
+16\. Appendix. Notwithstanding any provision in this Option Agreement, the Option grant shall be subject to any special terms and conditions set forth in any Appendix to this Option Agreement for the Optionee’s country of residence or in which the Optionee works. Moreover, if the Optionee relocates to one of the countries included in the Appendix, the special terms and conditions for such country will apply to the Optionee, to the extent the Company determines that the application of such terms and conditions is necessary or advisable in order to comply with local law or facilitate the administration of the Plan. The Appendix constitutes part of this Option Agreement.
+
+17\. General Provisions.
+
+(a) Amendment; Waivers. This Option Agreement, including the Plan, contains the full and complete understanding and agreement of the parties hereto as to the subject matter hereof, and except as otherwise permitted by the express terms of the Plan, this Option Agreement and applicable law, it may not be modified or amended nor may any provision hereof be waived without a further written agreement duly signed by each of the parties; provided, however, that a modification or amendment that does not materially diminish the rights of the Optionee hereunder, as they may exist immediately before the effective date of the modification or amendment, shall be effective upon written notice of its provisions to the Optionee, to the extent permitted by applicable law. The waiver by either of the parties hereto of any provision hereof in any instance shall not operate as a waiver of any other provision hereof or in any other instance. The Optionee shall have the right to receive, upon request, a written confirmation from the Company of the Customizing Information.
+
+6
+
+* * *
+
+  
+
+
+(b) Binding Effect. This Option Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrators, representatives, successors and assigns.
+
+(c) Governing Law. This Option Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, without regard to the principles of conflicts of law.
+
+(d) Construction. This Option Agreement is to be construed in accordance with the terms of the Plan. In case of any conflict between the Plan and this Option Agreement, the Plan shall control. The titles of the sections of this Option Agreement and of the Plan are included for convenience only and shall not be construed as modifying or affecting their provisions. The masculine gender shall include both sexes; the singular shall include the plural and the plural the singular unless the context otherwise requires. Capitalized terms not defined herein shall have the meanings given to them in the Plan.
+
+(e) Language. If the Optionee receives this Option Agreement, or any other document related to the Option and/or the Plan translated into a language other than English and if the meaning of the translated version is different than the English version, the English version will control.
+
+(f) Data Privacy. By entering into this Option Agreement and except as otherwise provided in any data transfer agreement entered into by the Company, the Optionee: (i) authorizes the Company, and any agent of the Company administering the Plan or providing Plan recordkeeping services, to disclose to the Company such information and data as the Company shall request in order to facilitate the grant of options and the administration of the Plan; (ii) waives any data privacy rights he or she may have with respect to such information; and (iii) authorizes the Company to store and transmit such information in electronic form. For purposes of this Section 17(f), the term “Company” refers to the Company as defined in the last sentence of Section 1 of the Plan.
+
+(g) Notices. Any notice in connection with this Option Agreement shall be deemed to have been properly delivered if it is delivered in the form specified by the Committee as follows:
+
+To the Optionee:
+
+To his or her last address provided to the Company  
+  
+To the Company:
+
+Iron Mountain Incorporated  
+  
+One Federal Street  
+  
+Boston, Massachusetts 02110  
+  
+Attn: Chief Financial Officer  
+  
+(h) Version Number. This document is Version 1 of the Iron Mountain Incorporated 2014 Stock and Cash Incentive Plan Stock Option Agreement.
+
+7
+
+* * *
+
+IRON MOUNTAIN INCORPORATED
+
+Iron Mountain Incorporated 2014 Stock and Cash Incentive Plan
+
+Stock Option Agreement
+
+Appendix  
+Country-Specific Provisions
+
+Terms and Conditions
+
+This Appendix includes additional, or if so indicated replaces certain, terms and conditions that govern an Option granted under the Plan if an Optionee resides or works in one of the countries listed below. Capitalized terms used but not defined in this Appendix have the meanings set forth in the Plan and/or the Option Agreement.
+
+Notifications
+
+The information contained herein is general in nature and may not apply to each particular Optionee’s situation and the Company is not in a position to assure an Optionee of any particular result. Accordingly, the Optionee is advised to seek appropriate professional advice as to how the relevant laws in a particular country may apply to his or her situation.
+
+If the Optionee is a citizen or resident of a country other than the one in which the Optionee is currently working, transfers employment or service location after the Grant Date or is considered a resident of another country for local law purposes, the information contained herein may not apply to the Optionee, and the Company shall, in its discretion, determine to what extent the terms and conditions contained herein shall apply.
+
+Belgium
+
+Time for Acceptance. This provision replaces Section 11 of the Option Agreement:
+
+Unless the Optionee shall evidence his or her written acceptance of this Option by electronic or other means prescribed by the Committee within ninety (90) days after its delivery, the Option shall be null and void (unless waived by the Committee).
+
+Canada
+
+Grant Type. In no event shall the Option be intended to constitute for United States income tax purposes an Incentive Stock Option or to qualify for special United States federal income tax treatment under section 422 of the Code.
+
+Term and Exercisability of Option.
+
+For purposes of Section 3 of the Option Agreement, the date of termination of the Relationship will occur on the date active and actual employment or the provision of other services ceases, irrespective of whether such termination of employment or services
+
+Updated as of February 18, 2015
+
+1
+
+* * *
+
+  
+
+
+is wrongful or otherwise, and will not be extended by any period of notice or compensation in lieu thereof.
+
+Time for Acceptance. This provision supplements Section 11 of the Option Agreement:
+
+The Optionee agrees that his acceptance of this Option and participation in the Plan is voluntary and has not been induced by the promise of employment or continued employment with the Company or any subsidiary.
+
+France
+
+Information and Disclaimer. Please be mindful that:
+
+(1) This offer does not require a prospectus to be submitted for approval to the Autorité des Marchés Financiers (“AMF”);
+
+(2) The Optionee may take part in the offer solely for his or her own account; and
+
+(3) Any financial instruments thus acquired cannot be distributed directly or indirectly to the public otherwise than in accordance with Articles L. 411-1, L. 411-2, L. 412-1 and L. 621-8 to L. 621-8-3 of the Monetary and Financial Code.
+
+The information provided to the Optionee in this Option Agreement, the Plan or other documents supplied to the Optionee in connection with the offer to the Optionee of stock options is provided as factual information only and as such is not intended to induce the Optionee to accept to enter into this Option Agreement. Any such information does not give or purport to give any indication of the likely future financial success or performance of the Company and historical financial information gives no indication of future financial performance.
+
+The value of a share of Stock of the Company may go down as well as up and the Optionee must make his or her own decision as to whether he or she wishes to receive shares of Stock of the Company in the conditions set forth in the Plan. Should the Optionee be in any doubt as to the contents of the offer of this Option award or what course of action to take in relation to the offer, the Optionee is recommended to seek immediately his or her own personal financial advice from his or her stockbroker, bank manager, solicitor, accountant or other independent financial advisor duly authorized by the competent authorities or bodies.
+
+Term and Exercisability of Option. Section 3(a) of the Option Agreement shall not apply to the Option. With respect to Section 3(b) of the Option Agreement, and for the avoidance of doubt, no further vesting shall occur after the date of dismissal, resignation or mutual termination, without regard to the Date of Termination Notification, as defined in Section 3(c) of the Option Agreement, as modified. Section 3(c) of the Option Agreement shall be modified by replacing the phrase “this Option may not be exercised after the sixtieth (60th) day following the date of termination of the Relationship between the Optionee and the Company” with the phrase “this Option may not be exercised after the sixtieth (60th) day following the date of sending the dismissal letter or resignation letter or date of signature reflecting mutual termination (“Date of Termination Notification”).”
+
+Right of Repayment. Section 13 of the Option Agreement shall not apply to the Option.
+
+2
+
+* * *
+
+  
+
+
+Data Privacy. This provision supplements Section 17(f) of the Option Agreement:
+
+The Optionee acknowledges that his or her data will be transferred to the Company in the United States, where the Company is registered under Safe Harbour, for the purpose of the grant of Options and the administration of the Plan. The Optionee may exercise his or her right of access, opposition and rectification to his or her data by contacting the Reward Director, Iron Mountain International (08445 60 70 80).
+
+Hungary
+
+Grant. Any shares acquired under the Plan are deemed as privately placed under Act No. CXX of 2011 on the Capital Market.
+
+Data Privacy. This provision replaces Section 17(f) of the Option Agreement in its entirety:
+
+The Optionee gives his or her consent to the Company for handling his or her personal data in accordance with the provisions of Act CXII of 2012 on the Information Autonomy and Freedom of Information, and to process the personal data only for the purposes of and to the extent it is necessary for fulfilling the Company’s rights or obligations deriving from the Optionee’s participation in the Plan. In connection with this consent, the Company may forward the Optionee’s personal data to service providers that perform services for the Company in connection with bookkeeping and taxation. The Optionee gives his or her consent that his or her personal data may be transferred abroad for the same purposes. The Company is entitled to forward the personal data of the Optionee to an affiliate of the Company or that provides services to the Company in the scope of exercising the rights and performing the obligations arising from and/or connected to the Optionee’s participation in the Plan (especially its reporting and recording obligations). The Optionee personal data may be forwarded to countries that do not offer the same level of protection as jurisdictions within the EEA. Optionee, by entering into this Option Agreement, gives his or her express consent for the processing and forwarding of his or her data as defined in this Section.
+
+The Netherlands
+
+Effect Upon Employment and Performance of Services. This provision supplements Section 10 of the Option Agreement:
+
+Options shall not form part of the employment or services conditions of the Optionee, nor shall they be treated (either at the time when it might apply or in any period prior thereto or any period thereafter) as remuneration for the purpose of pension arrangements nor shall they form any other employment or services related entitlement. Options shall not be included in the calculation of a possible severance payment and the Optionee waives all rights (if any) that he or she may have in this regard.
+
+3
+
+* * *
+
+  
+
+
+Poland
+
+Right of Repayment. The right of repayment provided in Section 13 of this Option Agreement shall be subject to concluding a non-competition agreement, according to the relevant provisions of Polish law.
+
+Governing Law. This provision supplements Section 17(c) of the Option Agreement:
+
+Any disputes resulting from this Option Agreement shall be settled exclusively by United States federal courts in the Commonwealth of Massachusetts.
+
+Language. This provision replaces Section 17(e) of the Option Agreement:
+
+This Option Agreement was executed in two (2) identical counterparts, each in Polish and English versions, and one for each of the Company and the Optionee. In the case of any discrepancy between the Polish and English version, the Polish version will prevail.
+
+United Kingdom
+
+Applicable Sub-Plan. This Option shall be subject to the United Kingdom Appendix for Unapproved Options to the Plan for grants to Optionees resident in the United Kingdom.
+
+Grant Type. In no event shall the Option be intended to constitute for United States income tax purposes an Incentive Stock Option or to qualify for special United States federal income tax treatment under section 422 of the Code, nor is the Option intended to qualify for special tax treatment under Schedule 4 to the Income Tax (Earnings and pensions) Act 2003. Section 12 of the Option Agreement shall be inapplicable.
+
+Term of Option. This provision replaces Section 3(c) of the Option Agreement:
+
+(c) this Option may not be exercised after the sixtieth (60th) day following the date of termination of the Relationship between the Optionee and the Company, except that (i) if the Relationship terminates by reason of the Optionee’s death or total and permanent disability (as determined by the Board on the basis of medical advice satisfactory to it), the unexercised portion of the Option that is otherwise exercisable on the date of termination of the Relationship shall remain exercisable thereafter for one (1) year and (ii) if the Relationship ends due to retirement on or after the Optionee has attained age fifty-five (55), or an earlier age with the agreement of the Company, and completed ten (10) Years of Credited Service (calculated on the same basis as “Years of Credited Service” are calculated for purposes of The Iron Mountain Companies 401(k) Plan or any successor thereto), or such shorter period of Credited Service as the Committee may, in its absolute discretion, permit for these purposes, the unexercised portion of the Option that is otherwise exercisable when the Relationship ends shall remain exercisable thereafter for three (3) years.
+
+Withholding Taxes. This provision replaces Section 5 of the Option Agreement:
+
+If a liability arises in connection with the exercise of an Option under which the Company or any subsidiary employing the Optionee is obliged to account for the tax
+
+4
+
+* * *
+
+  
+
+
+and/or primary social security contributions (otherwise known as employee’s National Insurance contributions) (“Employee Tax Liability”), then unless
+
+(a) the relevant Optionee has indicated in the form of exercise that he or she will make a payment to his or her employer or the Company of an amount equal to the Employee Tax Liability and
+
+(b) the Optionee does, within seven (7) days of being notified by his or her employer or the Company of the amount of the Employee Tax Liability, make such payment to his or her employer or the Company,
+
+the Company may sell sufficient of the shares of Common Stock resulting from the exercise of the Option on behalf of the Optionee and arrange payment to the employing subsidiary on which the Employee Tax Liability falls of an amount equal to the Employee Tax Liability out of the proceeds of sale by way of reimbursement to the relevant subsidiary.
+
+Effect Upon Employment and Performance of Services. This provision supplements Section 10 of the Option Agreement:
+
+The Optionee shall have no entitlement to compensation or damages in consequence of the termination of his or her employment with the Company or any employing subsidiary for any reason whatsoever and whether or not in breach of contract, in so far as such entitlement arises or may arise from his or her ceasing to have rights under or to be entitled to exercise the Option as a result of such termination or from the loss or diminution in value of the same and, upon grant, the Optionee shall be deemed irrevocably to have waived such entitlement.
+
+5
+
+* * *
+
+IRON MOUNTAIN INCORPORATED 2014 STOCK AND CASH INCENTIVE PLAN
+
+Stock Option Schedule
+
+<>
+
+<>
+
+<>, <> >
+
+In accordance with the Stock Option Agreement, of which this Stock Option Schedule is a part (which together, constitute the “Option Agreement”), the Company hereby grants to <> (the “Optionee”) the following Option to purchase shares of Stock.
+
+Grant Date:
+
+<>  
+  
+Expiration Date:
+
+<>  
+  
+Shares Granted:
+
+<>  
+  
+Grant Price:
+
+<>  
+  
+Grant Type:
+
+<>  
+  
+Stock Option Agreement Version:
+
+<>  
+  
+Vesting Schedule:  
+  
+Percentage of Total Option  
+  
+Shares Subject to Exercise  
+  
+Incremental
+
+Cumulative  
+  
+Date
+
+Amount
+
+Amount  
+  
+<>(1)
+
+<>
+
+<>  
+  
+<>
+
+<>
+
+<>  
+  
+<>
+
+<>
+
+<>  
+  
+<>
+
+<>
+
+<>  
+  
+<>
+
+<>
+
+<>  
+  
+ACCEPTANCE BY OPTIONEE
+
+IN WITNESS WHEREOF, the Company has caused this Option Document to be issued as of the date set forth above.
+
+Date:  
+  
+(Signature of Optionee)  
+  
+Notice Address:  
+  
+* * *
+
+(1) [This would be a phrase like “On or after February 20, 2016”]
+
+* * *
+
+  
+

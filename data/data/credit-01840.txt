@@ -1,0 +1,185 @@
+Exhibit 10.1
+
+# SECOND AMENDMENT TO  
+
+
+# 
+
+This SECOND AMENDMENT TO CREDIT AGREEMENT (this “Amendment”), effective as of August 1, 2006, is entered into by and among Asbury Automotive Group, Inc. (the “Company”), each of the subsidiaries of the Company listed on the signature pages hereof (the “Floor Plan Borrowers”), each of the Lenders listed on the signature pages hereof (the “Lenders”), JPMorgan Chase Bank, N.A., as Administrative Agent for the Lenders (the “Agent”), JPMorgan Chase Bank, N.A., as Floor Plan Agent for the Lenders (the “Floor Plan Agent”) and Bank of America, N.A., as Syndication Agent.
+
+# PRELIMINARY STATEMENT
+
+# 
+
+WHEREAS, the Company, the Floor Plan Borrowers, the Lenders, the Agent, the Floor Plan Agent and the Syndication Agent entered into that certain Revolving Credit Agreement dated March 23, 2005 (as amended, the “Credit Agreement”), under the terms of which such Lenders agreed to make available to the Company (a) a revolving credit commitment not to exceed at any time $150,000,000.00 and (b) a floor plan loan commitment not to exceed $650,000,000.00; and
+
+WHEREAS, pursuant to the First Amendment to Credit Agreement and Waiver, effective March 1, 2006, all the parties thereto agreed to reduce the revolving credit commitment to $125,000,000 and the floor plan commitment to $425,000,000; and
+
+WHEREAS, the Company and the Floor Plan Borrowers have requested the Lenders, the Agent and the Floor Plan Agent to amend certain provisions of the Credit Agreement; and
+
+WHEREAS, the Lenders, the Agent and the Floor Plan Agent have agreed to do so to the extent reflected in this Amendment.
+
+NOW, THEREFORE, in consideration of the premises and for other good and valuable consideration and the mutual benefits, covenants and agreements herein expressed, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows:
+
+1. Defined Terms. All capitalized terms used in this Amendment and not otherwise defined herein shall have the meanings ascribed to such terms in the Credit Agreement.
+
+2. Amendment to Section 1.1. Section 1.1 of the Credit Agreement is hereby amended by restating the definition of “Applicable Margin” contained therein to decrease the Eurodollar Margin and the Alternate Base Rate Margin applicable to Revolving Credit Loans, to read as follows:
+
+“Applicable Margin” means, on any date, with respect to Eurodollar Loans or Alternate Base Rate Loans that are Revolving
+
+* * *
+
+  
+
+
+Credit Loans, the applicable percentages set forth below based upon the Total Leverage Ratio in effect as of such date.
+
+Total Leverage  
+Ratio
+
+Eurodollar  
+Margin
+
+Alternate Base  
+Rate Margin
+
+Commitment  
+Fee Rate  
+  
+Level 1
+
+x > 4.00
+
+2.75
+
+%
+
+1.25
+
+%
+
+.375
+
+%  
+  
+Level 2
+
+3.50 < x < 4.00
+
+2.50
+
+%
+
+1.00
+
+%
+
+.375
+
+%  
+  
+Level 3
+
+3.00 < x < 3.50
+
+2.25
+
+%
+
+0.75
+
+%
+
+.375
+
+%  
+  
+Level 4
+
+2.50 < x < 3.00
+
+2.00
+
+%
+
+0.50
+
+%
+
+.375
+
+%  
+  
+Level 5
+
+x < 2.50
+
+1.75
+
+%
+
+0.25
+
+%
+
+.375
+
+%  
+  
+3. Amendment to Section 5.2(b)(ii). Section 5.2(b)(ii) of the Credit Agreement is amended and restated in its entirety to decrease the Margin applicable to Eurodollar Loans that are Floor Plan Loans, to read as follows:
+
+“(ii) each Eurodollar Loan which is a Floor Plan Loan (excluding Swing Line Loans) shall bear interest at a rate per annum (computed on the basis of the actual number of days elapsed over a year of 360 days) equal to the LIBO Rate for the Interest Period in effect for such Loan plus: (A) 1.00% if such Loan is to finance New Motor Vehicles or Demonstrators and (B) 1.125% if such Loan is to finance Used Motor Vehicles or Rental Motor Vehicles.”
+
+4. Amendment to Section 5.4(a)(i). Section 5.4(a)(i) of the Credit Agreement is amended to reduce the Floor Plan Loan Commitment Fee by replacing the reference to “twenty-five-one-hundredths of one percent (0.25%)” with “twenty-one-hundredths of one percent (0.20%)”.
+
+5. Ratification. The Company and each of the Floor Plan Borrowers hereby ratify all of its Obligations under the Credit Agreement and each of the Loan Documents to which it is a party, and agrees and acknowledges that the Credit Agreement and each of the Loan Documents to which it is a party are and shall continue to be in full force and effect as amended and modified by this Amendment. Nothing in this Amendment extinguishes, novates or releases any right, claim, lien, security interest or entitlement of any of the Lenders, the Agent or the Floor Plan Agent created by or contained in any of such documents nor is the Company nor any Floor Plan Borrower released from any covenant, warranty or obligation created by or contained herein or therein.
+
+6. Representations and Warranties. The Company and each of the Floor Plan Borrowers hereby represents and warrants to the Administrative Agent and the Lenders that (a) this Amendment has been duly executed and delivered on behalf of the Company and each of the Floor Plan Borrowers, (b) this Amendment constitutes a valid and legally binding agreement enforceable against the Company and each of the Floor Plan Borrowers in accordance with its
+
+* * *
+
+  
+
+
+terms, subject to applicable bankruptcy, insolvency, fraudulent transfer, reorganization, moratorium or other laws affecting creditors’ rights generally and subject to general principles of equity, regardless of whether considered in a proceeding in equity or at law, (c) the representations and warranties contained in the Credit Agreement and the Loan Documents are true and correct on and as of the date hereof in all material respects as though made as of the date hereof, except as heretofore otherwise disclosed in writing to the Agent, (d) no Default or Event of Default exists under the Credit Agreement or under any Loan Document and (e) the execution, delivery and performance of this Amendment has been duly authorized by the Company and each of the Floor Plan Borrowers.
+
+7. Conditions to Effectiveness. This Amendment shall be effective upon the execution and delivery hereof by all parties to the Agent and receipt by the Agent of the following in form satisfactory to the Agent:
+
+### (a) this Amendment;
+
+### 
+
+### (b) a certificate of an officer and of the secretary or an assistant secretary of each of the Company, and each Floor Plan Borrower certifying, inter alia, (i) copies of each of the articles or certificate of incorporation or organization, as amended and in effect, of such Person, the bylaws or Operating Agreement or regulations, as amended and in effect, of such Person (or a statement that such documents have not changed) and the resolutions adopted by the Board of Directors or Managers of such Person (A) authorizing the execution, delivery and performance by such Person of the Loan Documents to which it is or will be a party, and (B) approving the form of this Amendment and (ii) the incumbency and specimen signatures of the officers of such Person executing any documents on its behalf;
+
+### 
+
+### (c) the payment to the Agent of all fees and expenses (including the fees and disbursements of Andrews Kurth LLP) and all fees payable to the Lenders in connection with this Amendment;
+
+### 
+
+### (d) such other consents, approvals, opinions or documents as the Agent or the Lenders may reasonably request.
+
+### 
+
+8. Release and Indemnity. (a) The Company does hereby release and forever discharge the Agent, Floor Plan Agent and each of the Lenders and each affiliate thereof and each of their respective employees, officers, directors, trustees, agents, attorneys, successors, assigns or other representatives from any and all claims, demands, damages, actions, cross-actions, causes of action, costs and expenses (including legal expenses), of any kind or nature whatsoever, whether based on law or equity, which any of said parties has held or may now or in the future own or hold, whether known or unknown, for or because of any matter or thing done, omitted or suffered to be done on or before the actual date upon which this Amendment is signed by any of such parties (a) arising directly or indirectly out of the Loan Documents, or any other documents, instruments or any other transactions relating thereto and/or (b) relating directly or indirectly to all transactions by and between the Company, the Floor Plan Borrowers, or their representatives and the Agent, the Floor Plan Agent and each Lender or any of their respective directors, officers, agents, employees, attorneys or other representatives. Such release, waiver, acquittal and discharge shall and does include, without limitation, any claims of usury, fraud,
+
+* * *
+
+  
+
+
+duress, misrepresentation, lender liability, control, exercise of remedies and all similar items and claims, which may, or could be, asserted by the Company or any Floor Plan Borrower.
+
+### (b) The Company and each Floor Plan Borrower hereby ratifies the indemnification provisions contained in the Loan Documents, including, without limitation, Section 13.4 of the Credit Agreement, and agrees that this Amendment and losses, claims, damages and expenses related thereto shall be covered by such indemnities.
+
+### 
+
+9. Counterparts. This Amendment may be signed in any number of counterparts, which may be delivered in original or facsimile form each of which shall be construed as an original, but all of which together shall constitute one and the same instrument.
+
+10. Governing Law. This Amendment, all Notes, the other Loan Documents and all other documents executed in connection herewith shall be deemed to be contracts and agreements under the laws of the State of New York and of the United States of America and for all purposes shall be construed in accordance with, and governed by, the laws of New York and of the United States.
+
+11. Final Agreement of the Parties. Any previous agreement among the parties with respect to the subject matter hereof is superseded by the Credit Agreement, as amended by this Amendment. Nothing in this Amendment, express or implied is intended to confer upon any party other than the parties hereto any rights, remedies, obligations or liabilities under or by reason of this Amendment.
+
+[Signatures on Separate Pages]
+
+* * *

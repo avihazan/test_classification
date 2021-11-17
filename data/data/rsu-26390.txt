@@ -1,0 +1,106 @@
+Exhibit 10.1
+
+THIS OPTION AND THE SECURITIES ISSUABLE UPON EXERCISE HEREOF HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR APPLICABLE STATE SECURITIES LAWS. THIS OPTION, AND THE SECURITIES ISSUABLE UPON EXERCISE HEREOF, MAY NOT BE SOLD, MORTGAGED, PLEDGED, HYPOTHECATED OR OTHERWISE TRANSFERRED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT AND ANY APPLICABLE STATE SECURITIES LAWS, OR THE AVAILABILITY OF AN EXEMPTION FROM THE REGISTRATION PROVISIONS OF THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS.
+
+MRI INTERVENTIONS, INC.
+
+
+
+THIS NON-QUALIFIED STOCK OPTION AGREEMENT (this “Agreement”) is made effective as of the 30th day of March, 2015, by and between MRI INTERVENTIONS, INC., a Delaware corporation (the “Company”), and HAROLD A. HURWITZ (the “Optionee”).
+
+WHEREAS, the Company desires to afford the Optionee an opportunity to purchase shares of the Company’s common stock, par value $.01 per share (the “Shares”), subject to the terms and conditions hereinafter set forth;
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows:
+
+1\. Grant of Option.
+
+(a) The Company grants as of the date of this Agreement the right and option (the “Stock Option”) to purchase 450,000 Shares, in whole or in part (the “Option Shares”), at an exercise price of $1.06 per Share (the “Option Exercise Price Per Share”), on the terms and conditions set forth in this Agreement.
+
+(b) The Stock Option shall be a non-qualified stock option. The Stock Option is not intended to be an “incentive stock option” under Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”). In order to comply with all applicable federal or state tax laws or regulations, the Company may take such action as it deems appropriate to insure that, if necessary, all applicable federal, state or other taxes are withheld or collected from the Optionee. This Agreement is not subject to, and the Stock Option is not granted under, the Company’s 2013 Incentive Compensation Plan.
+
+2\. Exercisability Schedule. No portion of the Stock Option may be exercised until such portion shall have become exercisable. Except as set forth below, and subject to the discretion of the Company’s Board of Directors or a duly authorized committee thereof (in either case, the “Board”) to accelerate the exercisability schedule hereunder, the Stock Option shall be exercisable with respect to the following number of Option Shares on the dates indicated:  
+  
+Incremental Number of
+
+Option Shares Exercisable
+
+Exercisability Date  
+  
+150,000 March 30, 2016  
+150,000 March 30, 2017  
+150,000 March 30, 2018  
+  
+Once exercisable, the Stock Option shall continue to be exercisable at any time or times prior to the close of business on the Expiration Date (as defined below). Notwithstanding anything herein to the contrary, in the event of a Change of Control, the Stock Option shall become fully exercisable as of the effective time of the Change of Control. For purposes of this Agreement, the term “Change of Control” shall have the same meaning given to that term in the Company’s 2013 Incentive Compensation Plan.
+
+3\. Manner of Exercise.
+
+(a) The Optionee may exercise the Stock Option only in the following manner:
+
+From time to time on or prior to the Expiration Date (as defined below), the Optionee may give written notice to the Company of his election to purchase some or all of the Option Shares purchasable at the time of such notice. This notice shall specify the number of Option Shares to be purchased.
+
+Payment of the purchase price for the Option Shares may be made by one or more of the following methods: (i) in cash or its equivalent (e.g., by personal check) at the time the Stock Option is exercised; (ii) in Shares having a Fair Market Value equal to the aggregate Option Exercise Price Per Share for the Option Shares being purchased and satisfying such other requirements as may be imposed by the Board; provided, that such Shares have been held by the Optionee for no less than six months (or such other period as established from time to time by the Board in order to avoid adverse accounting treatment applying generally accepted accounting principles); (iii) partly in cash and partly in Shares (as described in the preceding clause (ii)); (iv) if there is a public market for the Shares at such time, through the delivery of irrevocable instructions to a broker to sell Shares obtained upon the exercise of the Stock Option and to deliver promptly to the Company an amount out of the proceeds of such sale equal to the aggregate Option Exercise Price Per Share for the Option Shares being purchased, provided that in the event the Optionee chooses to pay the Option Exercise Price Per Share as so provided, the Optionee and the broker shall comply with such procedures and enter into such agreements of indemnity and other agreements as the Board shall prescribe as a condition of such payment procedure; or (v) through “net settlement” in Shares. In the case of a “net settlement” of the Stock Option, the Company will not require a cash payment of the Option Exercise Price Per Share for the Option Shares being purchased, but will reduce the number of Shares issued upon the exercise by the largest number of whole Shares that have a Fair Market Value that does not exceed the aggregate Option Exercise Price Per Share for the Option Shares set forth in this Agreement. With respect to any remaining balance of the aggregate Option Exercise Price Per Share for the Option Shares, the Company shall accept a cash payment. Payment instruments will be received subject to collection.
+
+2
+
+The transfer to the Optionee on the records of the Company or of the transfer agent of the Option Shares will be contingent upon (i) the Company’s receipt from the Optionee of the full purchase price for such Option Shares, as set forth above, (ii) the fulfillment of any other requirements contained herein or in any other applicable agreement or applicable laws and regulations, and (iii) the receipt by the Company of any agreement, statement or other evidence that the Company may require to satisfy itself that the issuance of the Shares pursuant to the exercise of the Stock Option and any subsequent resale of such Shares will be in compliance with applicable laws and regulations.
+
+(b) The Shares purchased upon exercise of the Stock Option shall be transferred to the Optionee on the records of the Company or of the transfer agent upon compliance to the satisfaction of the Board with all requirements under applicable laws or regulations in connection with such transfer and with the requirements hereof. The determination of the Board as to such compliance shall be final and binding on the Optionee. The Optionee shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any Shares subject to the Stock Option unless and until the Stock Option shall have been exercised pursuant to the terms hereof, the Company or the transfer agent shall have transferred the Shares to the Optionee, and the Optionee’s name shall have been entered as the stockholder of record on the books of the Company.
+
+(c) The minimum number of Shares with respect to which the Stock Option may be exercised at any one time shall be 100 Shares, unless the number of Shares with respect to which the Stock Option is being exercised is the total number of Shares subject to exercise under the Stock Option at the time.
+
+(d) Notwithstanding any other provision hereof, no portion of the Stock Option shall be exercisable after the Expiration Date hereof.
+
+4\. Termination of Employment. If the Optionee’s employment by the Company (or any affiliate of the Company) is terminated, the period within which to exercise the Stock Option may be subject to earlier termination as set forth below.
+
+(a) Termination Due to Death. If the Optionee’s employment terminates by reason of the Optionee’s death, any portion of the Stock Option outstanding on such date may be exercised, to the extent exercisable on the date of Optionee’s death, by the Optionee’s legal representative or legatee for a period of 12 months from the date of death or until the Expiration Date, if earlier. Any portion of the Stock Option that is not exercisable on the date of death shall terminate immediately and be of no further force or effect.
+
+(b) Termination Due to Disability. If the Optionee’s employment terminates by reason of the Optionee’s Disability, any portion of the Stock Option outstanding on such date may be exercised, to the extent exercisable on the date of Disability, by the Optionee, or the Optionee’s legal representative or guardian, as applicable, for a period of 12 months from the date of Disability or until the Expiration Date, if earlier. Any portion of the Stock Option that is not exercisable on the date of Disability shall terminate immediately and be of no further force or effect.
+
+3
+
+(c) Termination for Cause; Voluntary Resignation. If the Optionee’s employment with the Company (or any affiliate thereof) terminates for Cause or if the Optionee voluntarily terminates his employment, any portion of the Stock Option outstanding on such date shall terminate immediately and be of no further force or effect. For purposes of this Agreement, “Cause” shall mean: (i) gross negligence or willful misconduct by the Optionee in the performance of the Optionee’s duties to the Company where such gross negligence or willful misconduct has resulted or is likely to result in substantial and material damage to the Company; (ii) any breach by the Optionee of any non-compete agreement or similar agreement between the Optionee and the Company; (iii) any material breach by the Optionee of any confidentiality agreement or similar agreement between the Optionee and the Company; (iv) a material violation by the Optionee of any federal or state law or regulation or the Company’s compliance program in the performance of the Optionee’s duties; (v) commission by the Optionee of any act of fraud with respect to the Company; (vi) the Optionee’s conviction of, or the Optionee’s entry of a guilty plea or plea of nolo contendere with respect to, a felony; (vii) the Optionee’s failure to perform duties consistent with the Optionee’s position or to follow or comply with the reasonable directives of the Board or the Optionee’s supervisor(s), provided that (A) the Optionee shall have received written notice that specifically identifies the manner in which the Company believes that the Optionee has engaged in such failure and (B) the Optionee shall not have cured such failure within thirty (30) days following receipt of such notice, provided further that such opportunity to cure a failure shall not apply if the Optionee has received more than one notice with respect to the same or similar conduct pursuant to this clause (vii) during any twelve (12) consecutive month period; or (viii) any act or omission that would constitute “cause” under any employment agreement or similar agreement between the Optionee and the Company (or any affiliate thereof).
+
+(d) Other Termination. If the Optionee’s employment terminates for any reason other than the Optionee’s voluntary termination, the Optionee’s death, the Optionee’s Disability or for Cause, and unless otherwise determined by the Board, any portion of the Stock Option outstanding on such date may be exercised, to the extent exercisable on the date of termination, for a period of three months from the date of termination or until the Expiration Date, if earlier. Any portion of the Stock Option that is not exercisable on the date of termination shall terminate immediately and be of no further force or effect.
+
+The Board’s determination of the reason for termination of the Optionee’s employment shall be conclusive and binding on the Optionee and his representatives or legatees.
+
+5\. Termination of Option. The Option will expire as of 5:00 pm (Central time) on March 30, 2025 (the “Expiration Date”) with respect to any then unexercised portion thereof, unless terminated earlier as set forth herein.
+
+6\. Adjustments. In the event that any unusual or non-recurring transactions, including an unusual or non-recurring dividend or other distribution (whether in the form of an extraordinary cash dividend, dividend of Shares, other securities or other property), recapitalization, stock split, reverse stock split, reorganization, merger, consolidation, split-up, spin-off, combination or other similar corporate transaction or event affects the Shares, then the Company shall, depending on the particular circumstances, in an equitable and proportionate manner (and, as applicable, in such equitable and proportionate manner as is consistent with Section 409A of the Code and the regulations thereunder) either: (a) adjust any or all of (i) the number of Shares or other securities of the Company (or number and kind of other securities or property) subject to the Stock Option, provided that the number of Shares subject to the Stock Option shall always be a whole number; and (ii) the Option Exercise Price Per Share with respect to the Stock Option; (b) provide for an equivalent award in respect of securities of the surviving entity of any merger, consolidation or other transaction or event having a similar effect; or (c) make provision for a cash payment to the Optionee in lieu of the Stock Option.
+
+4
+
+7\. No Obligation to Continue Employment. Neither the Company nor any of its affiliates is obligated by or as a result of this Agreement to continue the Optionee in employment and this Agreement shall not interfere in any way with the right of the Company or any of its affiliates to terminate the employment of the Optionee at any time.
+
+8\. Amendments to Stock Option. The Company may waive any conditions or rights under, amend any terms of, or alter, suspend, discontinue, cancel or terminate, the Stock Option, prospectively or retroactively; provided that any such waiver, amendment, alteration, suspension, discontinuance, cancellation or termination that would adversely affect the rights of the Optionee or any holder or beneficiary of the Option shall not to that extent be effective without the consent of the Optionee, holder or beneficiary affected.
+
+9\. Limited Transferability. Unless otherwise approved by the Board, this Agreement is personal to the Optionee, is non-assignable and is not transferable in any manner, by operation of law or otherwise, other than by will or the laws of descent and distribution. Except as provided in Section 4(b) of this Agreement, the Stock Option is exercisable, during the Optionee’s lifetime, only by the Optionee, and thereafter, only by the Optionee’s legal representative or legatee.
+
+10\. Reservation of Shares. At all times during the term of the Stock Option, the Company shall use its best efforts to reserve and keep available such number of Shares as shall be sufficient to satisfy the requirements of this Agreement.
+
+11\. Severability. If any provision of this Agreement is, or becomes, or is deemed to be, invalid, illegal, or unenforceable in any jurisdiction or to either party, such provision shall be construed or deemed amended to conform to the applicable laws, or if it cannot be construed or deemed amended without, in the determination of the Board, materially altering the intent of this Agreement, such provision shall be stricken as to such jurisdiction or party, and the remainder of this Agreement shall remain in full force and effect.
+
+12\. Tax Withholding. The Optionee shall, not later than the date as of which the exercise of the Stock Option becomes a taxable event for federal income tax purposes, pay to the Company or make arrangements satisfactory to the Committee for payment of any federal, state, and local taxes required by law to be withheld on account of such taxable event. The minimum required tax withholding obligation may be satisfied, in whole or in part, by the Company withholding from the Option Shares to be issued a number of Shares with an aggregate Fair Market Value that would satisfy the withholding amount due.
+
+13\. Notices. Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Optionee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing.
+
+14\. Certain Defined Terms. Although the Stock Option is not granted under the Company’s 2013 Incentive Compensation Plan, for purposes of this Agreement, the terms “Change of Control,” “Disability” and “Fair Market Value” shall have the same meanings given to those terms in such 2013 Incentive Compensation Plan.
+
+5
+
+15\. Governing Law. The validity, construction and effect of this Agreement shall be determined in accordance with the laws of the State of Delaware without giving effect to conflicts of laws principles.
+
+16\. Successors in Interest. This Agreement shall inure to the benefit of and be binding upon any successor to the Company. This Agreement shall inure to the benefit of the Optionee’s administrators, executors, heirs and legal representatives. All obligations imposed upon the Optionee and all rights granted to the Company under this Agreement shall be binding upon the Optionee’s administrators, executors, heirs and legal representatives.
+
+[The next page is the signature page]
+
+6
+
+IN WITNESS WHEREOF, the parties have executed this Non-Qualified Stock Option Agreement to be effective as of the day and year first above written.  
+  
+MRI INTERVENTIONS, INC.  
+By: /s/ Francis P. Grillo  
+Francis P. Grillo  
+Chief Executive Officer  
+/s/ Harold A. Hurwitz  
+Harold A. Hurwitz

@@ -1,0 +1,170 @@
+Exhibit 10.2
+
+
+
+(Time-Based)
+
+THIS AGREEMENT (the “Agreement”), is made, effective as of [DATE] (the “Grant Date”) between Information Services Group, Inc., a Delaware corporation (“ISG”) (hereinafter called the “Company”), and [NAME], an employee of the Company or an Affiliate of the Company, hereinafter referred to as the “Participant”.
+
+WHEREAS, the Company desires to grant the Participant a restricted stock unit award as provided for hereunder (the “Restricted Stock Unit Award”), ultimately payable in shares of common stock of the Company, par value $0.01 per share (the “Common Stock” or “Shares”), pursuant to the terms set forth herein and to the 2007 Information Services Group, Inc. Equity Incentive Plan (the “Plan”), the terms of which are hereby incorporated by reference and made a part of this Agreement (capitalized terms not otherwise defined herein shall have the same meanings as in the Plan);
+
+WHEREAS, the committee of the Company’s board of directors appointed to administer the Plan (the “Committee”), has determined that it would be to the advantage and best interest of the Company and its shareholders to grant the Restricted Stock Unit Award provided for herein to the Participant as an incentive for increased efforts during his or her term of office with the Company or its Affiliates, and has advised the Company thereof and instructed the undersigned officers to grant said Restricted Stock Unit Award.
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, receipt of which is hereby acknowledged, the parties hereto do hereby agree as follows:
+
+### 1\. Grant of Restricted Stock Units; Conditions to Grant.
+
+### 
+
+### (a) Subject to the terms and conditions of the Plan and the additional terms and conditions set forth in this Agreement, effective as of the Grant Date, the Company hereby grants to the Participant [AMOUNT] Restricted Stock Units (the “RSUs”). Each RSU represents the right to receive one share of Common Stock upon the vesting of such RSUs in accordance with Section 2 hereof.
+
+### 
+
+(b) Participant, by signing and accepting the Restricted Stock Unit Award, hereby waives all rights, if any, under any Employment or other agreement entered into with the Company or any of its Affiliates, with respect to any Participant benefits or equity-based compensation (other than any previously vested rights earned under any benefit plan). Receipt of this grant is conditional on Participant’s aforementioned waiver; absent such a waiver, this grant shall be null and void.
+
+(c) Notwithstanding any other provision of this Agreement to the contrary, Participant’s rights to vest under this Agreement will be subject at all times to the Participant’s compliance with that certain Restrictive Covenant Agreement entered into by and between Participant and the Company on even date herewith, and Participant, by executing this Agreement, agrees and acknowledges that this Award, any Shares received hereunder and any proceeds received in respect of the sale of such Shares may be subject to forfeiture.
+
+### 2\. Vesting; Delivery of Shares
+
+### 
+
+###### (a) Unless otherwise provided in this Agreement, the RSUs shall vest (and become exercisable) with respect to twenty-five percent (25%) of the RSUs on each of the first, second, third and
+
+* * *
+
+  
+
+
+###### fourth anniversaries of the Grant Date, so long as the Participant remains employed with the Company or any of its affiliates on each such date.
+
+###### 
+
+###### (b) Upon any termination of the Participant’s Employment, any unvested RSUs shall be forfeited by the Participant without payment therefor.
+
+###### 
+
+###### (c) In no event shall the Participant receive any distribution of Shares subject to any RSUs until such RSUs become vested in accordance with Section 2(a) hereof, at which time the Company shall, as promptly as administratively practicable, deliver such Shares to the Participant.
+
+###### 
+
+### 3\. No Dividend Equivalents. Unless and until Participant is the record holder of the Common Stock subject to the RSUs, he or she is not entitled to the payment of any dividends (or dividend equivalents) with respect to the RSUs or the Shares subject thereto.
+
+### 
+
+### 4\. Change in Capitalization; Corporate Transactions. If there occurs an event as described in Section 9 of the Plan, the provisions of Section 9 shall govern the treatment of this RSU Award.
+
+### 
+
+### 5\. Limitation on Obligations. The Company’s obligation with respect to the RSUs granted hereunder is limited solely to the delivery to the Participant of shares of Common Stock on the date when such shares are due to be delivered hereunder, and in no way shall the Company become obligated to pay cash in respect of such obligation unless otherwise provided under Section 9 of the Plan and permitted under Section 409A of the Code. This RSU Award shall not be secured by any specific assets of the Company or any of its Affiliates, nor shall any assets of the Company or any of its Affiliates be designated as attributable or allocated to the satisfaction of the Company’s obligations under this Agreement.
+
+### 
+
+### 6\. Rights as a Stockholder. The Participant shall not have any rights of a common stockholder of the Company unless and until the Participant becomes entitled to receive the shares of Common Stock pursuant to Section 2 above.
+
+### 
+
+### 7\. Transferability; Successors and Assigns. The RSUs may not be assigned, alienated, pledged, attached, sold, transferred, encumbered, hypothecated or otherwise disposed of by the Participant and any such purported assignment, alienation, pledge, attachment, sale, transfer, encumbrance, hypothecation or disposition shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. This Section 7 shall not prevent transfers by will or by the applicable laws of descent and distribution. The shares of Common Stock acquired by the Participant pursuant to Section 2 of this Agreement may not at any time be assigned, alienated, pledged, attached, sold, transferred, encumbered, hypothecated or otherwise disposed of by the Participant other than in compliance with applicable securities laws. This Agreement shall be binding on all successors and assigns of the Company and the Participant, including without limitation, the estate of such Participant and the executor, administrator or trustee of such estate, or any receiver or trustee in bankruptcy or representative of the Participant’s creditors.
+
+### 
+
+### 8\. No Right to Continued Employment or Other Equity Awards. The granting of the RSUs evidenced hereby and this Agreement shall impose no obligation on the Company or any Affiliate to (a) continue the Employment of the Participant and shall not lessen or affect the Company’s or its Affiliate’s right to terminate the Employment of such Participant or (b) to make any future Share or 
+
+2
+
+* * *
+
+  
+
+
+### 
+
+### Share-based awards to the Participant, and this grant of RSUs does not constitute any increase of annual compensation or benefits to be provided to the Participant.
+
+### 
+
+### 9\. Withholding. It shall be a condition of the obligation of the Company upon delivery of Common Stock to the Participant pursuant to Section 2 above that the Participant pay to the Company such amount as may be requested by the Company for the purpose of satisfying any liability for any federal, state or local income or other taxes required by law to be withheld with respect to such Common Stock. The Company shall be authorized to take such action as may be necessary, in the opinion of the Company’s counsel (including, without limitation, withholding Common Stock otherwise deliverable to the Participant hereunder and/or withholding amounts from any compensation or other amount owing from the Company to the Participant), to satisfy the obligations for payment of the minimum amount of any such taxes. In addition, if the Company’s accountants determine that there would be no adverse accounting implications to the Company, or if the Company otherwise in its discretion allows the following to be so, the Participant may be permitted to elect to use Common Stock otherwise deliverable to the Participant hereunder to satisfy any such obligations, subject to such procedures as the Company’s accountants may require. The Participant is hereby advised to seek his or her own tax counsel regarding the taxation of the grant of RSUs made hereunder.
+
+### 
+
+### 10\. Securities Laws. Upon the delivery of any Common Stock to the Participant, the Company may require the Participant to make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement. The delivery of the Common Stock hereunder shall be subject to all applicable laws, rules and regulations and to such approvals of any governmental agencies as may be required.
+
+### 
+
+### 11\. Section 409A of the Code. In the event that it is reasonably determined by the Company that, as a result of the deferred compensation tax rules under Section 409A of the Internal Revenue Code of 1986, as amended (and any related regulations or other pronouncements thereunder) (“the Deferred Compensation Tax Rules”), benefits that the Participant is entitled to under the terms of this Agreement may not be made at the time contemplated by the terms hereof or thereof, as the case may be, without causing Participant to be subject to tax under the Deferred Compensation Tax Rules, the Company shall, in lieu of providing such benefit when otherwise due under this Agreement, instead provide such benefit on the first day on which such provision would not result in the Participant incurring any tax liability under the Deferred Compensation Tax Rules; which day, if the Participant is a “specified employee” within the meaning of the Deferred Compensation Tax Rules, may, in the event the benefit to be provided constitutes deferred compensation under the Deferred Compensation Tax Rules and is due to the Participant’s separation from service with the Company and its Affiliates, be the first day following the six-month period beginning on the date of such separation from service.
+
+### 
+
+### 12\. Notices. Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its General Counsel at the principal executive office of the Company, and any notice to be given to the Participant shall be addressed to him or her at the address appearing in the personnel records of the Company for the Participant. By a notice given pursuant to this Section 12, either party may hereafter designate a different address for notices to be given to him or her. Any notice which is required to be given to the Participant shall, if the Participant is then deceased, be given to the Participant’s personal representative if such representative has previously informed the Company of his or her status and address by written notice under this Section 12. Any notice shall have been deemed duly given when delivered by hand or courier or when enclosed in a properly sealed envelope or wrapper addressed as aforesaid, deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service.
+
+3
+
+* * *
+
+  
+
+
+### 
+
+### 13\. Governing Law. The laws of the State of Delaware (or if the Company reincorporates in another state, the laws of that state) shall govern the interpretation, validity and performance of the terms of this Agreement regardless of the law that might be applied under principles of conflicts of laws.
+
+### 
+
+14\. Restricted Stock Unit Award Subject to Plan. The Restricted Stock Unit Award and the RSUs granted hereunder are subject to the Plan. The terms and provisions of the Plan as it may be amended from time to time are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail.
+
+15\. Amendment. This Agreement may be amended only by a writing executed by the parties hereto which specifically states that it is amending this Agreement.
+
+### 16\. Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+### 
+
+### [Signatures on next page.]
+
+4
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company and the Participant have duly executed and delivered this Agreement as of the day and year first above written.
+
+INFORMATION SERVICES GROUP, INC.:  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+Restricted Stock Unit Award Agreement
+
+(Time-Based-[Grant Date])
+
+Signature Page
+
+5
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company and the Participant have duly executed and delivered this Agreement as of the day and year first above written.
+
+PARTICIPANT:  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+Restricted Stock Unit Award Agreement
+
+(Time-Based-[Grant Date])
+
+Signature Page
+
+6
+
+* * *

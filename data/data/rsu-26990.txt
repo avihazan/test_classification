@@ -1,0 +1,29 @@
+Exhibit 10.20 
+
+50% Acceleration if Terminated within 12 months 
+
+ADDENDUM 
+
+TO 
+
+
+
+The following provisions are hereby incorporated into, and are hereby made a part of, that certain Stock Option Agreement (the “Option Agreement”) by and between Borland Software Corporation (the “Corporation”) and [ ] (“Optionee”) evidencing the stock option (the “Option”) granted to Optionee under the terms of the Corporation’s 2002 Stock Incentive Plan, and such provisions are effective immediately. All capitalized terms in this Addendum, to the extent not otherwise defined herein, shall have the meanings assigned to them in the Option Agreement. 
+
+SPECIAL ACCELERATION 
+
+1\. To the extent the Option is assumed in connection with a Change in Control or otherwise continued in effect or replaced with a substitute option, the Option (or such substitute option) shall not accelerate to any extent upon the occurrence of that Change in Control, and the Option (or such substitute option) shall accordingly continue, over Optionee’s period of Service after the Change in Control, to become exercisable for the Option Shares in one or more installments in accordance with the provisions of the Option Agreement. However, upon termination of Optionee’s status as an Employee of the Corporation for any reason other than for [Misconduct/Cause] as such term is defined in Optionee’s offer letter dated [ ] (the “Offer Letter”) or upon Optionee’s [Involuntary Termination/Constructive Termination] (as defined in the Offer Letter) within twelve (12) months following such a Change in Control, then fifty percent (50%) of the unvested shares under such Option (or such substitute option), shall automatically accelerate and such Option (or substitute option) may be exercised for any or all of those accelerated Option Shares (or other securities) as fully-vested shares, together with any other Option Shares (or other securities) for which the Option has already become vested and exercisable in accordance with the normal Vesting Schedule. 
+
+2\. In the event of any conflict, ambiguity, or inconsistency between the provisions of the Option Agreement and the provisions of this Addendum, to the extent possible such provisions will be interpreted so as to resolve any such conflict, ambiguity, or inconsistency, and if that is not possible, the provisions of the this Addendum will prevail. 
+
+IN WITNESS WHEREOF, Borland Software Corporation has caused this Addendum to be executed by its duly authorized officer as of the Effective Date specified below.   
+  
+BORLAND SOFTWARE CORPORATION  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+EFFECTIVE DATE: 

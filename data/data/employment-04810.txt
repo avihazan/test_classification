@@ -1,0 +1,297 @@
+EXHIBIT 10.6
+
+
+
+of
+
+MARK F. ALBINO
+
+THIS EMPLOYMENT AGREEMENT (the “Agreement”) dated as of December 15, 2008 and effective as of the Effective Date (as defined below) is made between OMEGA FLEX, INC., a Pennsylvania corporation (the “Company”), and Mark F. Albino (“Executive”).
+
+WHEREAS, the Company has employed the Executive pursuant to an Employment Agreement (the “Employment Agreement”) made as of the 22nd day of April, 1996; and
+
+WHEREAS, the Company and the Executive now wish to enter into a new Agreement, superseding the Employment Agreement, as set forth below;
+
+NOW, THEREFORE, in consideration of the mutual agreements set forth below and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Company agrees to employ Executive and Executive agrees to serve the Company as an employee pursuant to the terms and subject to the conditions that follow.
+
+DEFINITIONS
+
+“Affiliates of the Company” shall mean any other person controlling, controlled by, or under common control with the Company.
+
+“Cause” shall mean any of the following, in the good faith determination of the Board of Directors: a) the willful and continued failure of Executive to perform substantially the Executive’s duties with the Company or one of its Affiliates (other than any such failure resulting from incapacity due to physical or mental illness), after written notice and a demand for substantial performance is delivered to Executive by the Board of Directors, which specifically identifies the manner in which the Board of Directors believes that Executive has not substantially performed Executive’s duties and such failures have not been cured by the Executive within thirty (30) days after receipt of the notice and demand; b) willful or gross misconduct; c) conviction of or made a plea of guilty or nolo contendere to, a felony; or d) a material breach of his or her obligations under Section 7 or Section 8 hereof. For purposes of this definition of “Cause”, no act or failure to act on the part of Executive shall be considered “willful” unless it is done, or omitted to be done, by the Executive in bad faith or without the reasonable belief that Executive’s actions or omission was in the best interests of the Company. 
+
+“Change of Control” shall mean the occurrence of one or more of the following events:
+
+(A) the consummation of a merger or consolidation of the Company with or into any other corporation or other entity in which holders of the Company’s voting securities 
+
+1
+
+immediately prior to such merger or consolidation will not, directly or indirectly, continue to hold at least a majority of the voting power of the outstanding voting securities of the Company;
+
+(B) a sale, lease, exchange or other transfer (in one transaction or a related series of transactions) of all or substantially all of the Company’s assets;
+
+(C) the acquisition by any person or any group of persons, acting together in any transaction or related series of transactions, of such quantity of the Company’s voting securities which causes such person, or group of persons, to own beneficially, directly or indirectly, as of the time immediately after such transaction or series of transactions, 50% or more of the combined voting power of the outstanding voting securities of the Company other than as a result of an acquisition of securities by the Company which by reducing the voting securities outstanding increases the proportionate voting power represented by the voting securities owned by any such person or group of persons to 50% or more of the combined voting power of such voting securities;
+
+(D) a change in the composition of the Board within any two (2) year period such that a majority of the members of the Board are not Continuing Directors. As used herein, the term “Continuing Directors” shall mean as of any date of determination, any member of the Board of Directors of the Company who (i) was a member of the Board of Directors of the Company as of the Effective Date, or (ii) was nominated for election or elected to the Company’s Board of Directors with the approval of, or whose election to the Board of Directors was ratified by, at least a majority of the Continuing Directors who were members of the Company’s Board of Directors at the time of that nomination or election; or
+
+(E) the liquidation or dissolution of the Company; provided, however, that in no case shall (1) the public offering and sale of the Company’s Common Stock by its stockholders pursuant to a registered secondary offering or (2) the voluntary or involuntary bankruptcy of the Company constitute a Change in Control.
+
+“Company Failure to Renew” shall mean the delivery by the Company of a notice of intent not to renew pursuant to Section 1.
+
+“Confidential Information” shall mean any information relating directly or indirectly to the business of the Company and its Affiliates which is not generally known to the public and which the Company or its Affiliates protect as proprietary including inventions, improvements, concepts, structures, formulae, techniques, processes, apparata, know how, trade secrets, customer requirements, plans, records and data, and may also include customer lists and knowledge about the general business affairs of the Company; whether conveyed in written, graphic, aural, physical or electronic form; however, Confidential Information does not include information which Executive can demonstrate was known to or was in the possession of Executive prior to disclosure by the Company or its Affiliates, was generally available to the public or was otherwise part of the public domain after the time of disclosure to Executive by the Company or its Affiliates or became so through no act or omission of Employee, or was properly provided to Executive by an independent third party who has or had no obligation of secrecy to the Company or its Affiliates.
+
+2
+
+“Effective Date” shall mean the date of execution of this Agreement.
+
+“Good Reason” shall mean in the absence of written consent of Executive (i) a reduction by the Company in the Executive’s annual base salary from such Executive’s annual base salary then in effect; (ii) a material diminution in bonus compensation related to factors other than business or economic conditions, poor performance by the Executive, limits on executive compensation imposed by law or regulation, or new requirements in the Internal Revenue Code or Employee Retirement Income Security Act (“ERISA”); (iii) a forced relocation of the Executive’s place of employment to a location greater than twenty five (25) miles from his or her place of employment as of the Effective Date or (iv) a material diminution in the Executive’s principal duties and responsibilities. A change or restructuring of the reporting structure of the Company or of the person to whom Executive directly reports shall not, in and of itself, constitute a material diminution of Executive’s duties and responsibilities for purposes of clause (iv). Notwithstanding the foregoing, in the event that Executive provides written notice of termination for Good Reason in reliance upon this provision, the Company shall have the opportunity to cure such circumstances within thirty (30) days of receipt of such notice.
+
+“Permanent Disability” shall mean a physical or mental incapacity or disability which renders Executive unable to render the services required hereunder (A) for one hundred eighty (180) days in any twelve (12) month period or (B) for a period of ninety (90) consecutive days.
+
+“Person” shall mean any natural person or any corporation, partnership, joint venture, trust, firm or other entity.
+
+“Retirement” shall mean when Executive is fifty-five (55) years of age or older and has been employed by the Company for five (5) or more years and such Executive terminates employment for no other reason.
+
+“Severance Period” shall mean as applicable, the period beginning on the date of termination of Executive’s employment pursuant to Section 5(d), 5(e), or a Company Failure to Renew, and ending on the date which is one (1) year thereafter.
+
+“Special Severance” shall mean an amount equal to the average Incentive Bonus paid or earned but unpaid to Executive in respect of the three (3) previous fiscal years.
+
+“Successor” shall mean with respect to the Company, any other corporation or other business entity which, by merger, consolidation, purchase of the assets, or otherwise, acquires all or a material part of its assets. 
+
+1. Employment. The Company hereby agrees to employ Executive, and Executive hereby agrees to accept employment with the Company, upon the terms and conditions contained in this Agreement, effective as of the Effective Date. Executive’s employment with the Company shall continue, subject to earlier termination of such employment pursuant to the terms hereof, until the second (2nd) anniversary of the Effective Date and thereafter shall automatically renew each year thereafter for an additional one (1) year period, unless a notice of intent not to 
+
+3
+
+renew shall be delivered in accordance with Section 13 by the Company, at least six (6) months prior to such anniversary date or prior to the expiration of each additional one year renewal period, as the case may be (such term, as and when so extended, the “Employment Period”). Executive represents to the Company that he has no present intention to terminate employment with the Company.
+
+2. Duties. During the Employment Period, Executive shall serve on a full-time basis as Executive Vice President and Chief Operating Officer of the Company. Executive’s duties and responsibilities shall include those duties and responsibilities customarily associated with an officer with a similar title or as may be assigned to him from time to time by the President and CEO. Executive shall report directly to the President and CEO of the Company. Executive shall devote his full business time, attention and energies and use his best efforts in his employment with the Company; provided, however, that this Agreement shall not be interpreted as prohibiting Executive from, in accordance with the policies and procedures of the Company, managing his personal affairs or engaging in charitable or civic activities, so long as, in each case, such activities do not interfere in any material respect with the performance of Executive’s duties and responsibilities hereunder. Additionally, the Executive may establish a principal place of residence outside of the State of Connecticut, provided that the location of such residence does not interfere in any material respect with the performance of Executive’s duties and responsibilities hereunder.
+
+3. Compensation and Benefits. In consideration of entering into this Agreement and as full compensation for Executive’s services hereunder, during the Employment Period, Executive shall receive the following compensation and benefits:
+
+(a) Base Salary. The Company shall pay to Executive a base salary (“Base Salary”) of $260,590 per year, payable in accordance with the payroll policies from time to time in effect at the Company. Executive’s Base Salary may be subject to increase (but shall not be subject to decrease) on an annual basis as the Board of Directors of the Company or any committee thereof (the “Board of Directors”) shall determine.
+
+(b) Incentive Bonuses. Executive shall be entitled to participate in such incentive bonus programs as the Board of Directors may adopt from time to time (“Incentive Bonus”).
+
+(c) Vacation. Executive shall be entitled to twenty (20) days of paid vacation per calendar year, accrued in accordance with the usual vacation policies in effect at the Company, and to all paid holidays.
+
+(d) Other Benefits. Executive shall participate in and be eligible to receive, but without duplication, all other benefits (i.e., benefits other than those of the types covered in Sections 3(a) - (c)) offered to senior executives of the Company, including, without limitation, retirement income plans, health and welfare plans, and short and long term disability plans, under and in accordance with the provisions of any employee benefit plan adopted or to be adopted by the Company (collectively, the “Benefit Plans”) other than any severance benefits offered to senior executives in accordance with any such plan. Except as set forth herein, Executive shall not be entitled to any other benefits.
+
+4
+
+(e) Car Allowance. Executive shall be entitled to a car allowance (“Car Allowance”) in the amount of $800 monthly.
+
+4. Reimbursement for Expenses. During the Employment Period, Executive shall be entitled to incur on behalf of the Company reasonable and necessary expenses in connection with his duties in accordance with Company’s policies and the Company shall pay for or reimburse Executive for all such expenses upon presentation of proper receipts therefore. The Executive shall comply with such reasonable limitations and reporting requirements with respect to such expenses as the Board of Directors may establish from time to time.
+
+5. Termination. Executive’s employment hereunder may be terminated as follows (each, a “Termination Event”):
+
+(a)
+
+Automatically in the event of the death of Executive;  
+  
+(b) At the option of the Company, by the Board of Directors (acting through the Chairman or Secretary) or by written notice to Executive, in the event of the Permanent Disability of Executive. 
+
+(c)
+
+At the option of the Company at any time for Cause;  
+  
+(d) At the option of the Company without Cause, on thirty (30) days prior written notice to the Company, subject to the Company’s obligations under Section 6(c) hereof;
+
+(e) At the option of Executive for Good Reason, on thirty (30) days prior written notice to the Company but no later than ninety (90) days after the Executive becomes aware, or reasonably should be aware, of the occurrence of events giving rise to such “Good Reason”;
+
+(f) At the option of Executive, at any time, for any reason other than “Good Reason” under Section 5(e), on ninety (90) days prior written notice to the Company;
+
+(g)
+
+At the option of Executive upon Retirement; or  
+  
+(h)
+
+Upon a Company Failure to Renew.  
+  
+6.
+
+Payments.  
+  
+(a) Death. If the Termination Event is due to Executive’s death, Executive’s legal representatives shall be entitled to receive, as soon as practicable following the date of termination:
+
+(i) any accrued but unpaid Base Salary through the date of termination, plus
+
+(ii) any accrued and unpaid vacation pay or other benefits which may be owing in accordance with the Company policies and applicable law, plus
+
+5
+
+(iii) the Special Severance, pro-rated for the period from the beginning of the then current fiscal year and ending on the date of termination.
+
+(b) Permanent Disability. If the Termination Event is due to Executive’s Permanent Disability, Executive or his legal representatives shall be entitled to receive, as soon as practicable following the date of termination:
+
+(i) any accrued but unpaid Base Salary payable through the date of termination, plus
+
+(ii) any accrued and unpaid vacation pay or other benefits which may be owing in accordance with Company policies and applicable law, plus
+
+(iii) the Special Severance, pro-rated for the period from the beginning of the then current fiscal year and ending on the date of termination.
+
+(c) Termination Without Cause or for Good Reason. If the Termination Event is termination by the Company at any time during the Employment Period without Cause or by the Executive at any time during the Employment Period for Good Reason, Executive shall be entitled to:
+
+(i) any accrued but unpaid Base Salary through the date of termination, plus
+
+(ii) the Special Severance payable as soon as practicable following the date of termination, plus
+
+(iii) any accrued and unpaid vacation pay, unreimbursed expenses, or other benefits which may be applicable to and owing in accordance with Company policies or applicable law, plus
+
+(iv) the Base Salary (which shall be the Base Salary as of the date of termination) payable during the Severance Period in accordance with the payroll practices then in effect at the Company, plus
+
+(v) the continuation of all health benefits during the Severance Period at the same cost to Executive as though Executive continued his employment with the Company, plus
+
+(vi)
+
+the Car Allowance during the Severance Period.  
+  
+(d) Termination for Cause or Voluntary Termination by Executive. If the Termination Event is termination by the Company for Cause pursuant to Section 5(c) or termination by Executive pursuant to Section 5(f), except for Base Salary payable through the day on which Executive’s employment was terminated and any accrued and unpaid vacation pay, unreimbursed expenses, or other benefits which may be owing in accordance with the Company’s policies or applicable law, Executive shall not be entitled to receive severance or any other compensation or benefits after the last date of employment with the Company. 
+
+6
+
+(e) Termination Upon Retirement. If the Termination Event is due to the Retirement of Executive, Executive shall be entitled to receive, as soon as practicable following the date of termination:
+
+(i) any accrued but unpaid Base Salary through the date of termination, plus
+
+(ii) any accrued and unpaid vacation pay, unreimbursed expenses, or other benefits which may be owing in accordance with Company policies and applicable law.
+
+(f) Company Failure to Renew. If the Termination Event is Company Failure to Renew, Executive shall be entitled to receive:
+
+(i) any accrued but unpaid Base Salary through the date of termination, plus
+
+(ii) the Special Severance, payable as soon as practicable following the date of termination, plus
+
+(iii) any accrued and unpaid vacation pay, unreimbursed expenses, or other benefits which may be owing in accordance with Company policies and applicable law, plus
+
+(iv) the Base Salary (which shall be the Base Salary as of the date of termination) payable during the Severance Period, in accordance with the payroll practices then in effect at the Company, plus 
+
+(v)
+
+the Car Allowance during the Severance Period, plus  
+  
+(vi) the continuation of all health benefits during the Severance Period at the same cost to Executive as though Executive continued his employment with the Company.
+
+(g)
+
+Change of Control.  
+  
+(i) If, at any time during the eighteen (18) month period following a Change of Control, the Executive’s employment is terminated (i) without Cause, (ii) by the Executive for Good Reason, or (iii) in connection with a Company Failure to Renew, subject to Section 11, the Executive will receive in addition to those payments and benefits he is entitled to receive pursuant to Section 6(c), (A) an amount equal to two times Base Salary (which shall be the Base Salary as of the date of termination), payable in a lump sum as soon as practicable following the date of termination, plus (B) an amount equal to two times the average Incentive Bonus paid or earned but unpaid to Executive in respect of the three (3) previous years, payable as soon as practicable following the date of termination. 
+
+(h) Short Term Deferral. Any payment required to be paid under this Section 6 shall be paid no later than March 15th of the next succeeding year after the occurrence of events giving rise to the obligation of the Company to make such payment; provided, however, if the 
+
+7
+
+Executive is a “specified employee” as defined in 409A, the sixth month deferral rule set forth in Section 10 hereto shall apply.
+
+(i) Condition to Payment. All payments and benefits due to Executive under this Section 6 which are not otherwise required by law shall be contingent upon (i) execution by Executive (or Executive’s beneficiary or estate) of a general release of all claims to the maximum extent permitted by law against the Company, its Affiliates and their current and former stockholders, directors, employees and agents, in such form as determined by the Company in its sole discretion and (ii) compliance by Executive with his obligations under any stockholders, restricted stock or other agreement to which the Company and Executive are a party.
+
+(j) No Other Severance. Executive hereby acknowledges and agrees that, other than the severance payments described in this Section 6, upon termination, Executive shall not be entitled to any other severance under any Company benefit plan or severance policy generally available to the Company’s employees or otherwise.
+
+(k) Survival. Section 6 shall survive a Change of Control regardless whether this Agreement is terminated in connection with a Change of Control or expires by its terms following a Change of Control. 
+
+7.
+
+Confidentiality.  
+  
+The Executive agrees that Confidential Information was and shall be made available in connection with the Executive’s employment with the Company. The Executive acknowledges that the Confidential Information that he develops or invents or earlier developed or invented in connection with his employment by or services to the Company or has obtained or will obtain in connection therewith is the property of the Company and will be promptly returned to the Company upon a Termination Event. The Executive agrees that he will not disclose any Confidential Information to any other Person, except that Confidential Information may be disclosed: (i) to the extent required by applicable law, rule or regulation (including complying with any oral or written questions, interrogatories, requests for information or documents, subpoena, civil investigative demand or similar process to which the Executive is subject); provided that the Executive gives the Company prompt notice of such requests, to the extent practicable, so that the Company may seek an appropriate protective order or similar relief (and the Executive shall cooperate with such efforts by the Company at Company expense, and shall in any event make only the minimum disclosure required by such law, rule or regulation unless the Executive reasonably believes that other disclosure is necessary or advisable in order to avoid adverse consequences to the Executive), (ii) if the prior written consent of the Board of Directors shall have been obtained, or (iii) to such Persons to the extent necessary in the reasonable judgment of the Executive to perform his duties as an employee of the Company and, in his reasonable judgment, such disclosure is not harmful to the Company.
+
+8.
+
+Restrictive Covenants.  
+  
+(a) During the term of employment and for a period of one (1) year after the effective date of the Termination Event, Executive shall not, directly or indirectly (i) cause, 
+
+8
+
+solicit, induce or encourage any employees, consultants or contractors of the Company to leave such employment or service, or hire, employ or otherwise engage any such individual, or (ii) cause, solicit, induce or encourage any customer, supplier or licensor of the Company, or any other Person who has a material business relationship with the Company, to terminate or modify any such relationship.
+
+(b) During the term of employment and for a period of one (1) year after the effective date of the Termination Event, Executive shall not, directly or indirectly alone or as a partner, officer, director, shareholder, member, sole proprietor, employee or consultant of any other firm or entity, personally engage or participate in any Restricted Business, as such term is defined below, as a material portion of his responsibilities.
+
+(c) “Restricted Business” shall mean (i) the manufacture and sale of flexible metal hose and braid products, or (ii) any other material line or business engaged in by the Company at the effective date of the Termination Event.
+
+(d) The restrictions in Section 8(b) above shall extend to any place where the Company is doing business at the effective date of the Termination Event.
+
+(e) Nothing in this Agreement shall prohibit Executive from acquiring or holding any securities of any company listed on a national securities exchange or quoted on the automated quotation system of the National Association of Securities Dealers, Inc., provided that Executive and members of his immediate family do not own more than five percent (5%) of any voting securities of any company engaged in any Restricted Business.
+
+(f) The parties hereto agree that, if any court of competent jurisdiction in a final nonappealable judgment determines that a specified time period, a specified business limitation or any other relevant feature of this Section 8 is unreasonable, arbitrary or against public policy, then a lesser time period, business limitation or other relevant feature which is determined to be reasonable, not arbitrary and not against public policy may be enforced against the applicable party.
+
+(g) Executive hereby acknowledges that a breach of Sections 7 or 8 of this Agreement may result in material irreparable injury to the Company for which there in no adequate remedy at law, that it will not be possible to measure damages for such a breach, and that in the event of such a breach or threat thereof the Company shall be entitled to obtain a temporary restraining order, a preliminary injunction, a permanent injunction or other equitable relief restraining Executive from engaging in activities prohibited by this Agreement. Executive further acknowledges that in the event of such a breach or threat thereof the Company shall be entitled to obtain such other or further relief as may be required to specifically enforce any of the covenants of this Agreement. 
+
+(h) The Board of Directors shall, in its sole discretion, have the authority and discretion to waive any provision of this Section 8 or to make a determination that a business is not a Restricted Business for purposes hereof.
+
+9
+
+9. Withholding Taxes. Executive acknowledges and agrees that the Company may directly or indirectly withhold from any payments under this Agreement all federal, state, city or other taxes that will be required pursuant to any law or governmental regulation.
+
+10. Section 409A. To the extent applicable, this Agreement shall be interpreted in accordance with Section 409A (“Section 409A”) of the Internal Revenue Code (the “Code”). Notwithstanding any provision of the Agreement to the contrary, (i) if, at the time of Executive’s termination of employment with the Company, Executive is a “specified employee” as defined in Section 409A and the deferral of the commencement of any payments or benefits otherwise payable hereunder as a result of such termination of employment is necessary in order to prevent any accelerated or additional tax under Section 409A, then the Company will defer the commencement of the payment of any such payments or benefits hereunder (without any reduction in such payments or benefits ultimately paid or provided to Executive) until the date that is six months following Executive’s termination of employment with the Company (or the earliest date as is permitted under Section 409A) and (ii) if any other payments of money or other benefits due to Executive hereunder could cause the application of an accelerated or additional tax under Section 409A, the Company may (a) adopt such amendments to the Agreement, including amendments with retroactive effect, that the Company determines necessary or appropriate to preserve the intended tax treatment of the benefits provided by the Agreement and/or (b) take such other actions as the Company determines necessary or appropriate to comply with the requirements of Section 409A. Any amounts which would have been paid or provided but for the application of the six (6) month deferral under this Section 10, shall be accumulated and paid promptly after the end of the six (6) month deferral period. The Company shall consult with Executive in good faith regarding the implementation of this Section 10; provided that none of the Company, any of its Affiliates, or any of their employees or representatives shall have any liability to Executive with respect thereto.
+
+11. Section 4999 Excise Tax Cutback. Notwithstanding any other provision herein or any other employment, severance, change in control, or similar agreement to the contrary, to the extent that any payment or distribution of any type to or for the benefit of Executive by the Company or any of its Affiliates, whether paid or payable or distributed or distributable pursuant to the terms of this Agreement or otherwise (collectively, the "Total Payments") is or will be subject to the excise tax imposed under Section 4999 of the Code, then the Total Payments shall be reduced (but not below zero) so that the maximum amount of the Total Payments (after reduction) shall be one dollar ($1.00) less than the amount which would cause the Total Payments to be subject to the excise tax imposed by Section 4999 of the Code. Unless the Company and the Executive otherwise agree in writing, any determination required under this Section shall be made in writing by a mutually acceptable independent person or firm, (the “Independent Reviewer”), whose determination shall be conclusive and binding upon the Company and the Executive for all purposes. For purposes of making the calculations required by this Section, the Independent Reviewer may make reasonable assumptions and approximations concerning applicable taxes and may rely on reasonable, good faith interpretations concerning the application of Sections 280G and 4999 of the Code. The Company and the Executive shall furnish to the Independent Reviewer such information and documents as the Independent Reviewer may reasonably request in order to make a determination under this Section. The Company shall bear all costs the Independent Reviewer may reasonably incur in connection with any calculations contemplated by this Section. In the event and to the extent 
+
+10
+
+that any Total Payments made or anticipated to be made to the Executive shall be determined by the Independent Reviewer to result in the imposition of any tax under Section 4999 of the Code unless withheld or refunded to the Company, the Executive shall promptly repay to the Company the minimum amount of such Total Payments necessary to avoid the imposition of the excise tax under Section 4999, together with interest on such amount (at the same rate as is applied to determine the present value of payments under Section 280G) from the date the reimbursable payment was received by the Executive to the date the same is repaid to the Company.
+
+12. Effect of Prior Agreements. This Agreement constitutes the sole and entire agreement and understanding between Executive and the Company with respect to the matters covered hereby and thereby, and there are no other promises, agreements, representations, warranties or other statements between Executive and the Company in respect to such matters not expressly set forth in this Agreement. This Agreement supersedes all prior and contemporaneous agreements, understandings or other arrangements, whether written or oral, concerning the subject matter thereof, including without limitation, the Employment Agreement made as of April 22, 1996.
+
+13. Notices. Any notice required, permitted, or desired to be given pursuant to any of the provisions of this Agreement shall be deemed to have been sufficiently given or served for all purposes when telecopied, when delivered by hand or received by registered or certified mail, postage prepaid, or by nationally reorganized overnight courier service addressed to the party to receive such notice at the following address or any other address substituted therefore by notice pursuant to these provisions:
+
+If to the Company, at:
+
+Omega Flex, Inc.
+
+213 Court Street, Suite 701
+
+Middleton, Connecticut 06457
+
+Attention: Timothy P. Scanlan,
+
+General Counsel  
+  
+Facsimile: 860-704-6830
+
+If to Executive, at:
+
+Mark F. Albino
+
+____________________
+
+____________________
+
+14. Assignability. The obligations of Executive may not be delegated and Executive may not, without the Company’s written consent thereto, assign, transfer, convey, pledge, encumber, hypothecate or otherwise dispose of this Agreement or any interest herein. Any such attempted delegation or disposition shall be null and void and without effect. The Company and Executive agree that this Agreement and all of the Company’ rights and obligations hereunder 
+
+11
+
+may be assigned or transferred by the Company to and may be assigned by and become binding upon and may inure to the benefit of any Affiliate of or Successor to the Company. The term “Successor” shall mean, with respect to the Company, any other corporation or other business entity which, by merger, consolidation, purchase of the assets, or otherwise, acquires all or a material part of its assets. Any assignment by the Company of its rights or obligations hereunder to any Affiliate of or Successor of the Company shall not be a termination of employment for purposes of this Agreement.
+
+15. Modification. This Agreement may not be modified or amended except in writing signed by the parties. No term or condition of this Agreement will be deemed to have been waived except in writing by the party charged with waiver. A waiver will operate only as to the specific term or condition waived and will not constitute a waiver for the future or act on anything other than that which is specifically waived.
+
+16. Governing Law. This Agreement has been executed and delivered in the State of Connecticut and its validity, interpretation, performance and enforcement will be governed by the laws of that state applicable to contacts made and to be performed entirely within that state.
+
+17. Severability. All provisions of this Agreement are intended to be severable. In the event any provision or restriction contained herein is held to be invalid or unenforceable in any respect, in whole or in part, such finding will in no way affect the validity or enforceability of any other provision of this Agreement. The parties hereto further agree that any such invalid or unenforceable provision will be deemed modified so that it will be enforced to the greatest extent permissible under law, and to the extent that any court of competent jurisdiction determines any restriction herein to be unreasonable in any respect, such court may limit this Agreement to render it reasonable in the light of the circumstances in which it was entered into and specifically enforce this Agreement as limited.
+
+18. No Waiver. No course of dealing or any delay on the part of the Company or Executive in exercising any rights hereunder shall operate as a waiver of any such rights. No waiver of any default or breach of this Agreement shall be deemed a continuing waiver of any other breach or default.
+
+19. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original by the party executing the same but all of which together will constitute one and the same instrument.
+
+20. Acknowledgment. Executive acknowledges that before entering into this Agreement, Executive has had the opportunity to consult with any attorney or other advisor of Executive’s choice and that this provision constitutes advice from the Company to do so if Executive chooses. Executive further acknowledges that Executive has entered into this Agreement of Executive’s own free will, and that no promises or representations have been made to Executive by any person to induce Executive to enter into this Agreement other than the express terms set forth herein. Executive further acknowledges that Executive has read this Agreement and understands all of its terms.
+
+12
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed as of the day written above.  
+  
+OMEGA FLEX, INC.  
+  
+By: /s/ Edward J. Trainor  
+  
+Name: Edward J. Trainor  
+  
+Title: Vice Chairman  
+  
+MARK F. ALBINO  
+  
+/s/ Mark F. Albino  
+  
+SIGNATURE PAGE TO THE EMPLOYMENT AGREEMENT OF MARK F. ALBINO
+
+13

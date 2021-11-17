@@ -1,0 +1,521 @@
+Exhibit 10.23e
+
+AMENDMENT NO. 6
+
+(dated and effective December 14, 2007)
+
+to
+
+
+
+(that was dated as of September 14, 2004)
+
+by and among
+
+LASALLE BANK NATIONAL ASSOCIATION,
+
+as Administrative Agent and Co-Lead Arranger,
+
+WACHOVIA CAPITAL MARKETS, LLC, as Co-Lead Arranger,
+
+WACHOVIA BANK, NATIONAL ASSOCIATION, as Syndication Agent,
+
+the LENDERS,
+
+and CENTENE CORPORATION,
+
+as Company
+
+  
+
+
+  
+
+
+  
+
+
+In consideration of their mutual agreements herein and for other sufficient consideration, the receipt of which is hereby acknowledged, CENTENE CORPORATION, a Delaware corporation (Company), LASALLE BANK NATIONAL ASSOCIATION (Administrative Agent), and the Lenders agree as follows:
+
+1. Definitions; Section References. 
+
+The term Original Loan Agreement means the Credit Agreement dated as of September 14, 2004 among Company, Administrative Agent, and the Lenders party thereto, as amended by that certain Amendment No. 1 thereto dated as of July 18, 2005, as further amended by that certain Amendment No. 2 thereto dated as of September 9, 2005, as further amended by that certain Amendment No. 3 thereto dated as of November 7, 2005, as further amended by that certain Amendment No. 4 thereto dated as of April 7, 2006, as further amended by that certain Amendment No. 5 thereto dated as of September 22, 2006. The term this Amendment means this Amendment No. 6. The term Loan Agreement means the Original Loan Agreement as amended by this Amendment. Capitalized terms used and not otherwise defined herein have the meanings defined in the Loan Agreement. Section and Exhibit references are to sections of, and exhibits to, respectively, the Original Loan Agreement unless otherwise specified.
+
+2. Conditions to Effectiveness of this Amendment. 
+
+This Amendment is effective as of December 14, 2007, but only if (i) this Amendment has been duly executed by Company, Administrative Agent, and Required Lenders, and (ii) Company has paid Administrative Agent’s costs and expenses (including payment of Lewis, Rice & Fingersh invoice).
+
+3. Consent and Waiver of Notice Period. 
+
+Company has notified Administrative Agent that Company intends to change the name of its Wholly-Owned Subsidiary Cardium Health Services, Inc. to Nurtur Health, Inc. Administrative Agent and the Lenders hereby consent to such name change and waive the requirement under Section 10.1.6(f) that notice of such name change be provided at least 15 days prior to such change.
+
+4. Amendments to Original Loan Agreement. 
+
+The Original Loan Agreement is hereby amended as follows:
+
+4.1. Notice of Name Change. 
+
+Section 11.1.6(f) is amended by deleting the phrase “15 days” and replacing it with the following: “5 days (or such lesser period of time to which Administrative Agent may agree in writing)”.
+
+4.2. Restricted Payments. 
+
+Section 11.4 is amended by deleting the date “November 7, 2007” and replacing it with the date “April 1, 2011”.
+
+4.3. Centene Plaza Project. 
+
+The definition of “Centene Plaza Project” in Section 1 is deleted in its entirety and replaced with the following:
+
+Centene Plaza Project means the development and construction of an office building complex project to be used as Company’s headquarters in Clayton, Missouri, St. Louis, Missouri, or other location determined by Company and located in one of the 48 contiguous states of the United States.
+
+4.4. Annex A. 
+
+Annex A is deleted in its entirety and replaced with Annex A attached hereto.
+
+4.5. Annex B. 
+
+Annex B is deleted in its entirety and replaced with Annex B attached hereto.
+
+5. Representations and Warranties. 
+
+Company hereby represents and warrants to Administrative Agent and each Lender that (i) this Amendment and each and every other document and instrument delivered by Company in connection with this Amendment (each, an Amendment Document and, collectively, the Amendment Documents) has been duly authorized by its Board of Directors, (ii) no consents are necessary from any third Person for its execution, delivery or performance of the Amendment Documents to which it is a party which have not been obtained and a copy thereof delivered to Administrative Agent, (iii) each of the Amendment Documents to which it is a party constitutes its legal, valid and binding obligation enforceable against it in accordance with its terms, except to the extent that the enforceability thereof against it may be limited by bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium or similar laws affecting the enforceability of creditors’ rights generally or by equitable principles of general application (whether considered in an action at law or in equity), (iv) all of the representations and warranties contained in the Loan Agreement, as amended hereby, are true and correct with the same force and effect as if made on and as of the effective date of this Amendment, except that with respect to the representations and warranties made regarding financial data, such representations and warranties are hereby made with respect to the most recent financial statements and other financial data (in the form required by the Original Loan Agreement) delivered by it to Administrative Agent, and (v) there exists no Unmatured Event of Default or Event of Default under the Original Loan Agreement.
+
+6. Effect of Amendment. 
+
+The execution, delivery and effectiveness of this Amendment shall not operate as a waiver of any right, power or remedy of Administrative Agent or the Lenders under the Original Loan Agreement or any of the other Loan Documents, nor constitute a waiver of any provision of the Original Loan Agreement or any of the other Loan Documents or any Unmatured Event of Default or Event of Default, nor act as a release or subordination of the Liens (if any) of Administrative Agent under the Loan Documents, except as expressly provided herein. Each reference in the Original Loan Agreement to the Agreement, hereunder, hereof, herein, or words of like import, shall be read as referring to the Original Loan Agreement as amended hereby. Each reference in the other Loan Documents to the Loan Agreement shall be read as referring to the Original Loan Agreement, as amended hereby.
+
+7. Reaffirmation. 
+
+Company hereby acknowledges and confirms that (i) except as expressly amended hereby, the Original Loan Agreement and other Loan Documents remain in full force and effect, (ii) the Loan Agreement, as amended hereby, is in full force and effect, (iii) it has no defenses to its obligations under the Loan Agreement or any of the other Loan Documents to which it is a party, (iv) the Liens of Administrative Agent under the Loan Documents (if any) continue in full force and effect and have the same priority as before this Amendment except as expressly provided herein, and (v) it has no claim against Administrative Agent or any Lender arising from or in connection with the Loan Agreement or the other Loan Documents.
+
+8. Counterparts. 
+
+This Amendment may be executed by the parties hereto on any number of separate counterparts, each of which shall be deemed an original, but all of which counterparts taken together shall constitute one and the same instrument. It shall not be necessary in making proof of this Amendment to produce or account for more than one counterpart signed by the party to be charged.
+
+9. Counterpart Facsimile Execution. 
+
+This Amendment, or a signature page thereto intended to be attached to a copy of this Amendment, signed and transmitted by electronic mail, facsimile machine or telecopier shall be deemed and treated as an original document. The signature of any Person thereon, for purposes hereof, is to be considered as an original signature, and the document transmitted is to be considered to have the same binding effect as an original signature on an original document. At the request of any party hereto, any electronic mail, facsimile or telecopy document is to be re-executed in original form by the Persons who executed the electronic mail, facsimile or telecopy document. No party hereto may raise the use of electronic mail, facsimile machine or telecopier or the fact that any signature was transmitted through the use of electronic mail or a facsimile or telecopier machine as a defense to the enforcement of this Amendment.
+
+10. Governing Law. 
+
+This Amendment and the rights and obligations of the parties hereunder shall be governed by and construed and interpreted in accordance with the internal laws of the State of Illinois applicable to contracts made and to be performed wholly within such state, without regard to choice or conflict of laws provisions.
+
+11. Section Titles. 
+
+The section titles in this Amendment are for convenience of reference only and shall not be construed so as to modify any provisions of this Amendment.
+
+12. Incorporation By Reference. 
+
+Administrative Agent, the Lenders, and Company hereby agree that all of the terms of the Loan Documents are incorporated in and made a part of this Amendment by this reference.
+
+13. Statutory Notice - Oral Commitments. 
+
+Nothing contained in such notice shall be deemed to limit or modify the terms of the Loan Documents or this Amendment:
+
+ORAL AGREEMENTS OR COMMITMENTS TO LOAN MONEY, EXTEND CREDIT OR TO FORBEAR FROM ENFORCING REPAYMENT OF A DEBT INCLUDING PROMISES TO EXTEND OR RENEW SUCH DEBT ARE NOT ENFORCEABLE. TO PROTECT YOU (COMPANY) AND US (CREDITOR) FROM MISUNDERSTANDING OR DISAPPOINTMENT, ANY AGREEMENTS WE REACH COVERING SUCH MATTERS ARE CONTAINED IN THIS WRITING, WHICH IS THE COMPLETE AND EXCLUSIVE STATEMENT OF THE AGREEMENT BETWEEN US, EXCEPT AS WE MAY LATER AGREE IN WRITING TO MODIFY IT.
+
+COMPANY ACKNOWLEDGES THAT THERE ARE NO OTHER AGREEMENTS BETWEEN ADMINISTRATIVE AGENT OR ANY LENDER AND COMPANY, ORAL OR WRITTEN, CONCERNING THE SUBJECT MATTER OF THE LOAN DOCUMENTS, AND THAT ALL PRIOR AGREEMENTS CONCERNING THE SAME SUBJECT MATTER, INCLUDING ANY PROPOSAL, TERM SHEET OR LETTER, ARE MERGED INTO THE LOAN DOCUMENTS AND THEREBY EXTINGUISHED.
+
+{remainder of page intentionally left blank}
+
+IN WITNESS WHEREOF, the parties have caused this Amendment to be executed by appropriate duly authorized officers as of the date first above written.
+
+Company:
+
+CENTENE CORPORATION
+
+By: /s/ J P Brodin 
+
+Name: Per Brodin 
+
+Title: SVP 
+
+Administrative Agent:
+
+LASALLE BANK NATIONAL ASSOCIATION
+
+By: /s/ Alysa Trakas 
+
+Name: Alysa Trakas 
+
+Title: Vice President 
+
+Lenders:
+
+LASALLE BANK NATIONAL ASSOCIATION
+
+By: /s/ Alysa Trakas 
+
+Name: Alysa Trakas 
+
+Title: Vice President 
+
+WACHOVIA BANK, NATIONAL ASSOCIATION
+
+By: /s/ Jeanette A. Griffin 
+
+Name: Jeanette A. Griffin 
+
+Title: Director 
+
+  
+
+
+NATIONAL CITY BANK (formerly National City Bank of the Midwest)
+
+By: /s/ S Farris Tzinberg 
+
+Name: S Farris Tzinberg 
+
+Title: Vice President
+
+  
+
+
+SUNTRUST BANK
+
+By: /s/ William D. Priester 
+
+Name: William D. Priester 
+
+Title: Managing Director
+
+  
+
+
+REGIONS BANK
+
+By: /s/ Anne D. Silvestri 
+
+Name: Anne D. Silvestri 
+
+Title: SVP
+
+  
+
+
+MERRILL LYNCH CAPITAL CORPORATION
+
+By: /s/ Arminee Bowler 
+
+Name: Arminee Bowler 
+
+Title: Vice President  
+
+
+BANK OF AMERICA, N.A.
+
+By: /s/ Alysa Trakas 
+
+Name: Alysa Trakas 
+
+Title: Vice President   
+
+
+* * *
+
+ANNEX A
+
+  
+
+
+LENDERS AND PRO RATA SHARES
+
+  
+
+
+  
+
+
+Lender
+
+Revolving
+
+Commitment Amount
+
+Pro Rata Share  
+  
+LaSalle Bank National Association
+
+$60,000,000.00
+
+20.000000000%  
+  
+Wachovia Bank, National Association
+
+$55,000,000.00
+
+18.333333333%  
+  
+National City Bank
+
+$35,000,000.00
+
+11.666666667%  
+  
+SunTrust Bank
+
+$35,000,000.00
+
+11.666666667%  
+  
+Regions Bank
+
+$35,000,000.00
+
+11.666666667%  
+  
+Merrill Lynch Capital Corporation
+
+$40,000,000.00
+
+13.333333332%  
+  
+Bank of America, N.A.
+
+$40,000,000.00
+
+13.333333333%  
+  
+TOTALS
+
+$300,000,000.00
+
+100.000000000%  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+ANNEX B
+
+  
+
+
+ADDRESSES FOR NOTICES
+
+  
+
+
+CENTENE CORPORATION
+
+7711 Carondelet Avenue, Suite 800
+
+Clayton, Missouri 63105
+
+Attention: J. Per Brodin, Chief Financial Officer
+
+Telephone: 314-725-4477
+
+Facsimile: 314-725-5180
+
+LASALLE BANK NATIONAL ASSOCIATION, as Administrative Agent, Co-Lead Arranger, Issuing Lender and a Lender
+
+Notices of Borrowing , Conversion, and Continuation
+
+135 South LaSalle Street
+
+Chicago, Illinois 60603
+
+Attention: Israel Balaguer
+
+Telephone: (312) 992-2843
+
+Facsimile: (312) 904-4448
+
+  
+
+
+Notices of Letter of Credit Issuance
+
+  
+
+
+135 South LaSalle Street
+
+Chicago, Illinois 60603
+
+Attention: Bryen Zimmerman
+
+Telephone: (312) 904-7745
+
+Facsimile: (312) 904-6303
+
+  
+
+
+All Other Notices
+
+Bank of America
+
+100 North Tryon Street
+
+NC1-007-17-15
+
+Charlotte, North Carolina 28255
+
+Attention: Alysa A. Trakas
+
+Telephone: (704) 387-2640
+
+Facsimile: (704) 409-0936
+
+  
+
+
+  
+
+
+WACHOVIA BANK, NATIONAL ASSOCIATION, as Syndication Agent, Co-Lead Arranger, and a Lender
+
+  
+
+
+301 South College Street
+
+Charlotte, North Carolina 28288
+
+Attention: James Hill
+
+Telephone: (704) 383-6234
+
+Facsimile: (704) 383-7992
+
+  
+
+
+  
+
+
+With a copy to:
+
+1 S. Broad Street, PA4152
+
+Philadelphia, Pennsylvania 19107
+
+Jeanette Griffin
+
+Telephone: (267) 321-6615
+
+Facsimile: (267) 321-6700
+
+  
+
+
+  
+
+
+NATIONAL CITY BANK, as a Lender
+
+  
+
+
+120 S. Central Avenue
+
+Locator 56-SLWB08
+
+Clayton, Missouri 63105
+
+Attention: S. Farris Tzinberg
+
+Telephone: (314) 898-1215
+
+Facsimile: (314) 898-1401
+
+  
+
+
+  
+
+
+SUNTRUST BANK, as a Lender
+
+  
+
+
+201 4th Avenue, North
+
+Nashville, Tennessee 37219
+
+Attention: William Priester
+
+Telephone: (615) 748-5969
+
+Facsimile: (615) 748-5269
+
+  
+
+
+REGIONS BANK, as a Lender
+
+8182 Maryland Avenue
+
+St. Louis, Missouri 63105
+
+Attention: Anne Silvestri
+
+Telephone: (314) 615-2372
+
+Facsimile: (314) 615-2355
+
+  
+
+
+  
+
+
+MERRILL LYNCH CAPITAL CORPORATION, as a Lender
+
+  
+
+
+4 World Financial Center (22nd Floor)
+
+New York, New York 10080
+
+Attention: John Rowland
+
+Telephone: (212) 449-1351
+
+Facsimile: (212) 738-1186
+
+  
+
+
+  
+
+
+BANK OF AMERICA, N.A., as a Lender
+
+  
+
+
+100 North Tryon Street
+
+NC1-007-17-15
+
+Charlotte, North Carolina 28255
+
+Attention: Alysa A. Trakas
+
+Telephone: (704) 387-2640
+
+Facsimile: (704) 409-0936
+
+  
+
+
+  
+
+
+  
+

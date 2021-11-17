@@ -1,0 +1,84 @@
+EXHIBIT 10.3
+
+HARDINGE INC.  
+
+Amendment One Effective January 1, 2009
+
+AMENDMENT dated as of January 1, 2009 (the “Amendment”) of an Employment Agreement dated as of April 1, 1995 (the “Agreement”), between HARDINGE INC., a New York corporation (the “Company”) and DOUGLAS C. TIFFT (the “Executive”).
+
+WHEREAS, the Company entered into the Agreement as of April 1, 1995 (which Agreement has been periodically renewed according to the terms thereof) in order to engage the Executive to provide services pursuant to the terms of the Agreement; and
+
+WHEREAS, this Amendment is intended to revise the Agreement effective January 1, 2009 to include provisions intended to comply with final regulations promulgated under Internal Revenue Code (“Code”) Section 409A and shall be construed to the extent practicable so as to avoid causing any amounts payable to the Executive under the Agreement to be includable in his gross income under Code Section 409A(a)(1).
+
+NOW, THEREFORE, in consideration of the covenants and agreements hereinafter set forth, the parties hereto agree as follows:
+
+1. Section 5.1, entitled “Termination Without Cause; Resignation for Good Reason” is amended effective January 1, 2009 to read as follows:
+
+5.1.1 Prior to a Change in Control. If, prior to the expiration of the Employment Term, the Executive’s employment is terminated by the Company without Cause, or the Executive resigns from his employment hereunder for Good Reason, in either case at any time prior to a Change in Control, the Company shall continue to pay the Executive the Base Salary (at the rate in effect immediately prior to such termination) for the greater of (i) 6 months or (ii) the remainder of the Employment Term (such period being referred to hereinafter as the “Severance Period”). The payments shall occur in installments in the same amount and at the same regular payment intervals as the Executive’s Base Salary was being paid on January 1, 2009 and such installments shall be deemed a series of separate payments within the meaning of Treas. Reg. §1.409A-2(b)(2)(iii). Installments which in the aggregate do not exceed Executive’s Base Salary payable over 6 months shall be paid in a lump sum within 60 days following Executive’s termination of employment. The remaining installments, if any, shall be paid in regular payment intervals with the first such installment paid on the first payment date occurring on or after the day following the 6-month anniversary of the Executive’s termination of employment. In addition, the Executive shall be entitled to
+
+* * *
+
+  
+
+
+continue to participate during the Severance Period in all employee welfare benefit plans that the Company provides and continues to provide generally to its employees, provided that the Executive is entitled to continue to participate in such plans under the terms thereof. The Executive shall have no further right to receive any other compensation or benefits after such termination or resignation of employment except as determined in accordance with the terms of the employee benefit plans or programs of the Company. In the event of the Executive’s death during the Severance Period, Base Salary continuation payments under this Section 5.1.1 shall continue to be made during the remainder of the Severance Period to the beneficiary designated in writing for this purpose by the Executive or, if no such beneficiary is specifically designated, to the Executive’s estate.
+
+If, during the Severance Period, the Executive breaches his obligations under Section 8 of this Agreement, the Company may, upon written notice to the Executive, terminate the Severance Period and cease to make any further payments or provide any benefits described in this Section 5.1.1.
+
+5.1.2 Within 6 Months Following a Change in Control. If , prior to the expiration of the Employment Term, the Executive’s employment is terminated by the Company without Cause, or the Executive terminates his employment hereunder for Good Reason, in either case within 6 months following a Change in Control, the Company shall pay to the Executive cash payments equal to 1.5 times the sum of (i) his Base Salary (at the rate in effect immediately prior to such termination or, if higher, as in effect immediately prior to the Change in Control) and (ii) his average annual bonus earned during the three fiscal years immediately preceding the Change in Control. The payment based on the Executive’s Base Salary shall occur in installments in the same amount and at the same regular payment intervals as the Executive’s Base Salary was being paid on January 1, 2009 and such installments shall be deemed a series of separate payments within the meaning of Treas. Reg. §1.409A-2(b)(2)(iii). Installments which in the aggregate do not exceed Executive’s Base Salary payable over 6 months shall be paid in a lump sum within 60 days following Executive’s termination of employment. The remaining installments shall be paid in regular payment intervals with the first such installment paid on the first payment date occurring on or after the day following the 6-month anniversary of the Executive’s termination of employment. The payment based on the Executive’s average annual bonus, which shall be deemed a separate “payment” within the meaning of Treas. Reg. §1.409A-2(b)(2) from the payment based on Base Salary, shall be paid in a lump sum within 60 days following the Executive’s termination of employment. In addition, the Executive shall be entitled to continue to participate for a period of three years following such termination in all employee welfare benefit plans that the Company provides and continues to provide generally to its executive employees (or, if the Executive is not entitled to participate in any such plan under the terms thereof, in a comparable substitute arrangement provided by the Company) provided, however, that for the first six months following the Executive’s termination of employment, the Executive shall pay the premiums of any welfare benefit plans to the extent that the payment of such premiums by the Company would have constituted gross income to the Executive. The Company shall reimburse 
+
+2
+
+* * *
+
+  
+
+
+the Executive for any premiums or other expenses incurred by the Executive with respect to his participation and that of any of his dependents in any such employee benefit welfare plan.
+
+5.1.3 After 6 Months Following a Change in Control. If, prior to the expiration of the Employment Term, the Executive resigns from his employment for any reason at any time later than six months following a Change in Control, the Company shall pay to the Executive a lump sum cash payment equal to 1.5 times the sum of (i) his Base Salary (at the rate in effect immediately prior to such termination or, if higher, as in effect immediately prior to the Change in Control) and (ii) his average annual bonus earned during the three fiscal years immediately preceding the Change in Control. The payment based on the Executive’s Base Salary shall occur in installments in the same amount and at the same payment intervals as the Executive’s Base Salary was being paid on January 1, 2009 provided, however, that no such installment shall be paid before the day following the 6-month anniversary of the Executive’s termination of employment. The payment based on the Executive’s average annual bonus, which shall be deemed a separate “payment” within the meaning of Treas. Reg. §1.409A-2(b)(2) from the payment based on Base Salary, shall be paid in a lump sum on the day following the 6-month anniversary of the Executive’s termination of employment. In addition, the Executive shall be entitled to continue to participate for a period of three years following such termination in all employee welfare benefit plans that the Company provides and continues to provide generally to its executive employees (or, if the Executive is not entitled to participate in any such plan under the terms thereof, in a comparable substitute arrangement provided by the Company) provided, however, that for the first six months following the Executive’s termination of employment, the Executive shall pay the premiums of any welfare benefit plans to the extent that the payment of such premiums by the Company would have constituted gross income to the Executive. The Company shall reimburse the Executive for any premiums or other expenses incurred by the Executive with respect to his participation and that of any of his dependents in any such employee benefit welfare plan.
+
+2. Section 5.4, entitled “Good Reason” is amended effective January 1, 2009 to read as follows:
+
+5.4 Good Reason. For purposes of this Agreement, “Good Reason” shall mean the occurrence of one or more of the following events provided that, the Executive shall give the Company a written notice, within 90 days following the initial occurrence of the event, describing the event that the Executive claims to be Good Reason and stating the Executive’s intention to terminate employment unless the Company takes appropriate corrective action:
+
+(i) a material decrease in the Executive’s Base Salary or a failure by the Company to pay material compensation due and payable to the Executive in connection with his employment;
+
+3
+
+* * *
+
+  
+
+
+(ii) the Company’s failure to assign to the Executive duties that are generally consistent with the Executive’s position and title;
+
+(iii) a material diminution in benefits provided by the Company to the Executive except for a diminution applicable to substantially all of the Company’s senior executives;
+
+(iv) the Company’s requiring the Executive to relocate to an office or location more than 50 miles from the Company’s facilities in Elmira, New York;
+
+(v) a failure or refusal of any successor company to assume the Company’s obligations under this Agreement; or
+
+(vi) the Company’s material breach of any material term of this Agreement.
+
+The Company shall have 30 days from the date of receipt of the written notice from the Executive stating his claim of Good Reason in which to take appropriate corrective action. If the Company does not cure the Good Reason, the Good Reason will be deemed to have occurred at the end of the 30-day period. This section shall apply with respect to any successor of the Company following a Change in Control as if such successor were the Company.
+
+IN WITNESS WHEREOF, the Company has caused this Amendment of the Agreement to be duly executed and the Executive has hereunto set his hand, as of the day and year first above written.
+
+HARDINGE INC.  
+  
+By
+
+/S/ RICHARD L. SIMONS  
+  
+Name: Richard L. Simons  
+  
+Title: President and CEO  
+  
+/S/ DOUGLAS C. TIFFT  
+  
+Douglas C. Tifft  
+  
+4
+
+* * *

@@ -1,0 +1,315 @@
+Exhibit 10.3
+
+
+
+This RESTRICTED STOCK UNIT AGREEMENT (the “Agreement”), dated as of the Grant Date set forth on the signature page hereof, is entered into by and between Hertz Global Holdings, Inc., a Delaware corporation (the “Company”), and the individual whose name is set forth on on the participant section of the signature page hereof (the “Participant”).
+
+# 1\. Grant of Restricted Stock Units. The Company hereby evidences and confirms its grant to the Participant, effective as of the Grant Date, of the number of restricted stock units (the “Restricted Stock Units”) set forth on the signature page hereof. This Agreement is subordinate to, and the terms and conditions of the Restricted Stock Units granted hereunder are subject to, the terms and conditions of the Hertz Global Holdings, Inc. 2008 Omnibus Incentive Plan (the “Plan”), which are incorporated by reference herein. If there is any inconsistency between the terms hereof and the terms of the Plan, the terms of the Plan shall govern. Any capitalized terms used herein without definition shall have the meanings set forth in the Plan.
+
+# 
+
+# 2\. Vesting of Restricted Stock Units.
+
+# 
+
+## (a) Vesting. Except as otherwise provided in this Section 2, the Restriction Period applicable to the Restricted Stock Units shall lapse, if at all, on the dates (each a “Vesting Date”) and in the percentages set forth on the signature page hereof, subject to the continued employment of the Participant by the Company or any Subsidiary thereof through each such Vesting Date.
+
+## 
+
+## (b) Termination of Employment.
+
+## 
+
+### (i) Death or Disability. If the Participant’s employment is terminated due to death or Disability, the Restriction Period shall lapse immediately upon such termination with respect to a portion of the Restricted Stock Units equal to the number of Restricted Stock Units that would have vested on the next following Vesting Date (assuming the Participant’s employment had continued through such Vesting Date) multiplied by a fraction, the numerator of which is the number of days elapsed since (x) the Grant Date, if the termination occurs prior to the first Vesting Date, or (y) the most recent prior Vesting Date, if the termination occurs after the first Vesting Date, and the denominator of which is 365. Such Restricted Stock Units shall be settled as provided in Section 3. Any Restricted Stock Units still subject to restriction after giving effect to the preceding sentence shall immediately be forfeited and canceled effective as of the date of the Participant’s termination.
+
+1
+
+* * *
+
+  
+
+
+### 
+
+### (ii) Any Other Reason. If the Participant’s employment terminates (whether by the Participant or the Company or a Subsidiary) for any reason other than death or Disability, any outstanding Restricted Stock Units shall immediately be forfeited and canceled effective as of the date of the Participant’s termination.
+
+### 
+
+## (c) Change in Control.
+
+## 
+
+### (i) In the event of a Change in Control, the Restriction Period applicable to any outstanding Restricted Stock Units shall lapse immediately prior to such Change in Control and shall settled as set forth in Section 3.
+
+### 
+
+### (ii) Notwithstanding section 2(c)(i), no cancellation, termination, lapse of Restriction Period or settlement or other payment shall occur with respect to the Restricted Stock Units if the Committee (as constituted immediately prior to the Change in Control) reasonably determines, in good faith, prior to the Change in Control that the Restricted Stock Units shall be honored or assumed or new rights substituted therefor by an Alternative Award, in accordance with the terms of Section 9.2 of the Plan.
+
+### 
+
+## (d) Committee Discretion. Notwithstanding anything contained in this Agreement to the contrary, the Committee, in its sole discretion, may accelerate the vesting with respect to any Restricted Stock Units under this Agreement, at such times and upon such terms and conditions as the Committee shall determine.
+
+## 
+
+# 3\. Settlement of Restricted Stock Units. Subject to Section 9(g), not later than 30 days after the lapse of the Restriction Period with respect to any Restricted Stock Units, the Company shall issue to the Participant one share of Common Stock underlying each Restricted Stock Unit as to which the Restriction Period has lapsed, or, if the Committee so determines in its sole discretion, an amount in cash equal to the Fair Market Value of such shares of Common Stock or any combination of shares of Common Stock and cash having an aggregate Fair Market Value equal to such shares of Common Stock. Upon issuance, such shares of Common Stock may be sold, transferred, pledged, assigned or otherwise alienated or hypothecated in compliance with applicable law, this Agreement and any other agreement to which such shares are subject. The Participant’s settlement rights pursuant to this Agreement shall be no greater than the right of any unsecured general creditor of the Company.
+
+# 
+
+# 4\. Forfeiture. Notwithstanding anything in the Plan or this Agreement to the contrary, if, during the Covered Period, the Participant engages in Wrongful Conduct, then any Restricted Stock Units for which the Restriction Period has not then lapsed shall automatically terminate and be canceled upon the date on which the Participant first engaged in such Wrongful Conduct. If the Participant engages in Wrongful Conduct or if the Participant’s employment is terminated for Cause, the Participant shall pay to the 
+
+2
+
+* * *
+
+  
+
+
+# 
+
+# Company in cash any Restriction-Based Financial Gain the Participant realized from the lapse of the Restriction Period applicable to all or a portion of the Restricted Stock Units with respect to which the Restriction Period lapsed within the Wrongful Conduct Period. By entering into this Agreement, the Participant hereby consents to and authorizes the Company and the Subsidiaries to deduct from any amounts payable by such entities to the Participant any amounts the Participant owes to the Company under this Section 4 to the extent permitted by law. This right of set-off is in addition to any other remedies the Company may have against the Participant for the Participant’s breach of this Section 4. The Participant’s obligations under this Section 4 shall be cumulative (but not duplicative) of any similar obligations the Participant has under the Plan, this Agreement, any Company policy, standard or code (including, without limitation, the Company’s Standards of Business Conduct), or any other agreement with the Company or any Subsidiary.
+
+# 
+
+# 5\. Effect of Financial Restatements. In the event that the Participant commits misconduct, fraud or gross negligence (whether or not such misconduct, fraud or gross negligence is deemed or could be deemed to be an event constituting Cause) and as a result of, or in connection with, such misconduct, fraud or gross negligence the Company restates any of its financial statements, then the Committee may require any or all of the following:
+
+# 
+
+## (a) that the Participant forfeit some or all of the Restricted Stock Units subject to this Agreement held by the Participant at the time of such restatement,
+
+## 
+
+## (b) that the Participant forfeit (or pay to the Company) some or all of the cash or shares of Common Stock held by the Participant at the time of such restatement that had been received in settlement of Restricted Stock Units subject to this Agreement during the twelve-month period prior to the financial restatement (or such other period as determined by the Committee), and
+
+## 
+
+## (c) that the Participant pay to the Company in cash all or a portion of the proceeds that the Participant realized from the sale of shares of Common Stock that had been received in settlement of any Restricted Stock Units subject to this Agreement within the period commencing twelve months prior to the financial restatement (or such other period as determined by the Committee).
+
+## 
+
+# 6\. Issuance of Shares.
+
+# 
+
+## (a) Notwithstanding any other provision of this Agreement, the Participant may not sell the shares of Common Stock acquired upon vesting of the Restricted Stock Units unless such shares are registered under the Securities Act of 1933, as amended (the “Securities Act”), or, if such shares are not then so registered, such sale would be exempt from the registration requirements of the Securities Act. The sale of such shares must 
+
+3
+
+* * *
+
+  
+
+
+## 
+
+## also comply with other applicable laws and regulations governing the Common Stock and Participant may not sell the shares of Common Stock if the Company determines that such sale would not be in material compliance with such laws and regulations.
+
+## 
+
+## (b) The shares of Common Stock issued in settlement of the Restricted Stock Units shall be registered in the Participant’s name, or, if applicable, in the names of the Participant’s heirs or estate. In the Company’s discretion, such shares may be issued either in certificated form or in uncertificated, book entry form. The certificate or book entry account shall bear such restrictive legends or restrictions as the Company, in its sole discretion, shall require. If delivered in certificate form, the Company may deliver a share certificate to the Participant, or deliver shares electronically or in certificate form to the Participant’s designated broker on the Participant’s behalf. If the Participant is deceased (or if Disabled and if necessary) at the time that a delivery of share certificates is to be made, the certificates will be delivered to the Participant’s estate, executor, administrator, legally authorized guardian or personal representative (as applicable).
+
+## 
+
+## (c) The grant of the Restricted Stock Units and issuance of shares of Common Stock upon settlement of the Restricted Stock Units will be subject to and in compliance with all applicable requirements of federal, state or foreign law with respect to such securities. No shares of Common Stock may be issued hereunder if the issuance of such shares would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Common Stock may then be listed. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance of any shares subject to the Restricted Stock Units shall relieve the Company of any liability in respect of the failure to issue such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the Restricted Stock Units, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company.
+
+## 
+
+## (d) The Company will not be required to issue fractional shares of Common Stock upon settlement of the Restricted Stock Units.
+
+## 
+
+## (e) The Company may postpone the issuance and delivery of any shares of Common Stock provided for under this Agreement for so long as the Company determines to be necessary or advisable to satisfy the following: (1) the completion or amendment of any registration of such shares or satisfaction of any exemption from registration under any securities law, rule, or regulation; (2) compliance with any requests for representations; and receipt of proof satisfactory to the Company that a person seeking such shares on the Participant’s behalf upon the Participant’s Disability (if 
+
+4
+
+* * *
+
+  
+
+
+## 
+
+## necessary), or upon the Participant’s estate’s behalf after the death of the Participant, is appropriately authorized.
+
+## 
+
+# 7\. Participant’s Rights with Respect to the Restricted Stock Units.
+
+# 
+
+## (a) Restrictions on Transferability. The Restricted Stock Units granted hereby may not be sold, transferred, pledged, assigned, or otherwise alienated or hypothecated other than with the consent of the Company or by will or by the laws of descent and distribution to the estate of the Participant upon the Participant’s death; provided that any such permitted transferee shall acknowledge and agree in writing, in a form reasonably acceptable to the Company, to be bound by the provisions of this Agreement and the Plan as if such beneficiary or the estate were the Participant. Any attempt by the Participant, directly or indirectly, to offer, transfer, sell, pledge, hypothecate or otherwise dispose of any Restricted Stock Units or any interest therein or any rights relating thereto without complying with the provisions of the Plan and this Agreement, including this Section 7(a), shall be void and of no effect. The Company will not be required to recognize on its books any action taken in contravention of these restrictions.
+
+## 
+
+## (b) No Rights as Stockholder. The Participant shall not have any rights as a stockholder of the Company with respect to any shares of Common Stock corresponding to the Restricted Stock Units granted hereby unless and until shares of Common Stock are issued to the Participant in respect thereof.
+
+## 
+
+# 8\. Adjustment in Capitalization. In the event of any Adjustment Event affecting the Common Stock, the Committee shall make an equitable and proportionate anti-dilution adjustment to offset any resultant change in the pre-share price of the Common Stock and preserve the intrinsic value of any Awards granted under the Plan. Such mandatory adjustment may include a change in any or all of the number and kind of shares of Common Stock or other equity interests underlying the Restricted Stock Units. In addition, the Committee may make provisions for a cash payment to a Participant or a person who has an outstanding Award in such event. The number of shares of Common Stock or other equity interests underlying the Restricted Stock Units shall be rounded to the nearest whole number. Any such adjustment shall be consistent with section 162(m) of the Code to the extent the Restricted Stock Units are subject to such section of the Code and shall not result in adverse tax consequences to the Participant under section 409A of the Code.
+
+# 
+
+# 9\. Miscellaneous.
+
+# 
+
+## (a) Binding Effect; Benefits. This Agreement shall be binding upon and inure to the benefit of the parties to this Agreement and their respective successors and assigns. Nothing in this Agreement, express or implied, is intended or shall be construed to give any person other than the parties to this Agreement or their respective successors or 
+
+5
+
+* * *
+
+  
+
+
+## 
+
+## assigns any legal or equitable right, remedy or claim under or in respect of any agreement or any provision contained herein.
+
+## 
+
+## (b) Assignability. Neither this Agreement nor any right, remedy, obligation or liability arising hereunder or by reason hereof shall be assignable by the Company or the Participant without the prior written consent of the other party.
+
+## 
+
+## (c) No Right to Continued Employment. Nothing in the Plan or this Agreement shall interfere with or limit in any way the right of the Company or any of its Subsidiaries to terminate the Participant’s employment at any time, or confer upon the Participant any right to continue in the employ of the Company or any of its Subsidiaries (regardless of whether such termination results in (1) the failure of any Award to vest; (2) the forfeiture of any unvested or vested portion of any Award; and/or (3) any other adverse effect on the individual’s interests under the Plan). Nothing in the Plan or this Agreement shall confer on the Participant the right to receive any future Awards under the Plan.
+
+## 
+
+## (d) Notices. All notices and other communications required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given if delivered personally or sent by certified or express mail, return receipt requested, postage prepaid, or by any recognized international equivalent of such delivery, to the Company or the Participant, as the case may be, at the following addresses or to such other address as the Company or the Participant, as the case may be, shall specify by notice to the other:
+
+## 
+
+If to the Company, to it at:
+
+Hertz Global Holdings, Inc.
+
+c/o The Hertz Corporation
+
+225 Brae Boulevard
+
+Park Ridge, New Jersey 07656
+
+Attention: General Counsel
+
+Fax: (201) 594-3122
+
+If to the Participant, to the Participant at his or her most recent address as shown on the books and records of the Company or Subsidiary employing the Participant.
+
+All such notices and communications shall be deemed to have been received on the date of delivery if delivered personally or on the third business day after the mailing thereof.
+
+## (e) Amendment. This Agreement may be amended from time to time by the Committee in its discretion; provided, however, that this Agreement may not be modified 
+
+6
+
+* * *
+
+  
+
+
+## 
+
+## in a manner that would have a materially adverse effect on the Restricted Stock Units as determined in the discretion of the Committee, except as provided in the Plan, or in any other written document signed by the Participant and the Company. This Agreement may not be amended, modified or supplemented orally.
+
+## 
+
+## (f) Interpretation. The Committee shall have full power and discretion to construe and interpret the Plan (and any rules and regulations issued thereunder) and this Award. Any determination or interpretation by the Committee under or pursuant to the Plan or this Award shall be final and binding and conclusive on all persons affected hereby.
+
+## 
+
+## (g) Tax Withholding. The Company shall have the right and power to deduct from all amounts paid to the Participant in cash or shares (whether under the Plan or otherwise) or to require the Participant to remit to the Company promptly upon notification of the amount due, an amount (which may include shares of Common Stock) to satisfy the minimum federal, state or local or foreign taxes or other obligations required by law to be withheld with respect thereto with respect to the Restricted Stock Units. No shares of Common Stock shall be issued unless and until arrangements satisfactory to the Committee shall have been made to satisfy the statutory minimum withholding tax obligations applicable with respect to such Restricted Stock Units. The Company may defer payments of cash or issuance or delivery of Common Stock until such requirements are satisfied. Without limiting the generality of the foregoing, the Participant may elect to tender shares of Common Stock (including shares of Common Stock issuable in respect of the Restricted Stock Units) to satisfy, in whole or in part, the amount required to be withheld (provided that such amount shall not be in excess of the minimum amount required to satisfy the statutory withholding tax obligations).
+
+## 
+
+## (h) Applicable Law. This Agreement shall be governed by and construed in accordance with the law of the State of Delaware regardless of the application of rules of conflict of law that would apply the laws of any other jurisdiction.
+
+## 
+
+## (i) Limitation on Rights; No Right to Future Grants; Extraordinary Item of Compensation. By entering into this Agreement and accepting the Restricted Stock Units evidenced hereby, the Participant acknowledges: (a) that the Plan is discretionary in nature and may be suspended or terminated by the Company at any time; (b) that the Award does not create any contractual or other right to receive future grants of Awards; (c) that participation in the Plan is voluntary; (d) that the value of the Restricted Stock Units is not part of normal or expected compensation for purposes of calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments; and (e) that the future value of the Common Stock is unknown and cannot be predicted with certainty.
+
+7
+
+* * *
+
+  
+
+
+## 
+
+## (j) Employee Data Privacy. The Participant authorizes any Affiliate of the Company that employs the Participant or that otherwise has or lawfully obtains personal data relating to the Participant to divulge or transfer such personal data to the Company or to a third party, in each case in any jurisdiction, if and to the extent appropriate in connection with this Agreement or the administration of the Plan.
+
+## 
+
+## (k) Consent to Electronic Delivery. By entering into this Agreement and accepting the Restricted Stock Units evidenced hereby, the Participant hereby consents to the delivery of information (including, without limitation, information required to be delivered to the Participant pursuant to applicable securities laws) regarding the Company and the Subsidiaries, the Plan, this Agreement and the Restricted Stock Units via Company web site or other electronic delivery.
+
+## 
+
+## (l) Compensation Recovery Policy. Without limiting any other provision of this Agreement, the Restricted Stock Units granted hereunder shall be subject to the Compensation Recovery Policy under the Company’s Standards of Business Conduct (as amended from time to time, and including any successor or replacement policy or standard) to the extent applicable.
+
+## 
+
+## (m) Company Rights. The existence of the Restricted Stock Units does not affect in any way the right or power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company’s capital structure or its business, including that of its Affiliates, or any merger or consolidation of the Company or any Affiliate, or any issue of bonds, debentures, preferred or other stocks with preference ahead of or convertible into, or otherwise affecting the Common Stock or the rights thereof, or the dissolution or liquidation of the Company or any Affiliate, or any sale or transfer of all or any part of the Company’s or any Affiliate’s assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise.
+
+## 
+
+## (n) Severability. If a court of competent jurisdiction determines that any portion of this Agreement is in violation of any statute or public policy, then only the portions of this Agreement which violate such statute or public policy shall be stricken, and all portions of this Agreement which do not violate any statute or public policy shall continue in full force and effect. Further, it is the parties’ intent that any court order striking any portion of this Agreement should modify the terms as narrowly as possible to give as much effect as possible to the intentions of the parties’ under this Agreement.
+
+## 
+
+## (o) Further Assurances. The Participant agrees to use his or her reasonable and diligent best efforts to proceed promptly with the transactions contemplated herein, to fulfill the conditions precedent for the Participant’s benefit or to cause the same to be fulfilled and to execute such further documents and other papers and perform such further 
+
+8
+
+* * *
+
+  
+
+
+## 
+
+## acts as may be reasonably required or desirable to carry out the provisions hereof and the transactions contemplated herein.
+
+## 
+
+## (p) Headings and Captions. The section and other headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+
+## 
+
+## (q) Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all of which together shall constitute one and the same instrument.
+
+## 
+
+[signature page follows]
+
+9
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company and the Participant have executed this Agreement as of the day of (the “Grant Date”).
+
+HERTZ GLOBAL HOLDINGS, INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+PARTICIPANT  
+  
+«Name»  
+  
+By:  
+  
+Restricted Stock Units granted hereby:  
+  
+Vesting Date
+
+Percentage Vesting  
+on such Vesting Date  
+  
+10
+
+* * *

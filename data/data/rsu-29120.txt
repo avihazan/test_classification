@@ -1,0 +1,131 @@
+Exhibit 10.46 
+
+FIRST INDUSTRIAL REALTY TRUST, INC. 
+
+[ ] STOCK INCENTIVE PLAN 
+
+
+
+THIS RESTRICTED STOCK AWARD AGREEMENT (“Award Agreement”) is effective as of [ ], 201[ ] (the “Grant Date”), by and between First Industrial Realty Trust, Inc. (the “Company”) and Bruce W. Duncan (the “Grantee”). 
+
+WHEREAS, the Company maintains the First Industrial Realty Trust, Inc. [DATE] Stock Incentive Plan, as amended (the “Plan”), which is incorporated into and forms a part of this Award Agreement; 
+
+WHEREAS, the Grantee has been selected by the Committee to receive an award of Restricted Stock under the Plan; and 
+
+WHEREAS, this Award Agreement is subject to the terms of the Plan and capitalized terms not otherwise defined herein have the meanings ascribed to such terms in the Plan. 
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein, and for other good and valuable consideration, the Company and the Grantee hereby agree, freely and with full knowledge and consent, as follows: 
+
+1\. Grant. The Company hereby grants to the Grantee [ ] “Covered Shares” of Restricted Stock pursuant to the Plan (“Award”), where each Covered Share represents the right of the Grantee to enjoy, subject to the terms and conditions set forth in this Award Agreement and the Plan, one (1) share of Stock free of restrictions once the Restricted Period ends. The Covered Shares are granted as of the Grant Date. 
+
+2\. Vesting. 
+
+(a) The “Restricted Period” for each installment of Covered Shares set forth in the table immediately below (each, an “Installment”) shall begin on the Grant Date and end as described in the table immediately below:   
+  
+Installment
+
+Restricted Period shall end on:  
+  
+33.33% of Covered Shares
+
+[DATE]  
+  
+33.33% of Covered Shares
+
+[DATE]  
+  
+33.33% of Covered Shares
+
+[DATE]  
+  
+(b) Upon the consummation of a Change in Control Event prior to the Grantee’s Termination of Service, the Restricted Period for all the Covered Shares shall cease and such Covered Shares shall become fully vested as of the effective date of the Change in Control Event. 
+
+* * *
+
+(c) Notwithstanding the foregoing provisions of this Section 2, the Restricted Period for all the Covered Shares shall cease immediately and such Covered Shares shall become fully vested immediately upon the Grantee’s Termination of Service due to the Grantee’s Disability or the Grantee’s death. 
+
+(d) If before the expiration of one or more Restricted Periods, the Grantee’s Termination of Service occurs for any reason, other than due to termination by the Company for Cause (which shall be covered by paragraph (e) below) or due to the Grantee’s death or Disability (which shall be covered by paragraph (c) above), then the Grantee shall continue to vest in Covered Shares in accordance with the schedule set forth in (a) above, subject to the Grantee’s compliance in all material respects with Section 9(b), (c) and (d) of the Employment Agreement, provided that solely for purposes of applying this Section 2(d), the Restrictive Period shall be extended by one (1) additional year to a period of two (2) years. 
+
+(e) If prior to the expiration of one or more Restricted Periods, (1) the Grantee’s Termination of Service occurs due to termination by the Company for Cause, or (2) after the Grantee’s Termination of Service occurs for any reason the Grantee violates the Restrictive Covenants of Section 9(b), (c), and (d) of the Employment Agreement, then the Grantee shall forfeit all right, title and interest in and to any Installment(s) still subject to a Restricted Period as of such Termination of Service. 
+
+3\. Share Delivery. Delivery of Stock or other amounts under this Award Agreement and the Plan shall be subject to the following: 
+
+(a) To the extent that this Award Agreement and the Plan provide for the issuance of Stock, such issuance may be effected on a non-certificated basis, to the extent not prohibited by applicable law or the applicable rules of any securities exchange or similar entity. 
+
+(b) Notwithstanding any other term of this Award Agreement or the Plan, the Company shall have no obligation to deliver any Stock or make any other distribution of benefits under this Award Agreement or the Plan unless such delivery or distribution complies with all applicable laws and the applicable rules of any securities exchange or similar entity. 
+
+4\. Dividends. The Grantee shall be entitled to receive dividends and distributions paid on any Installment during the Restricted Period; provided, however, that no dividends or distributions shall be payable to or for the benefit of the Grantee with respect to record dates for such dividends or distributions occurring before the Grant Date or on or after the date, if any, on which the Grantee has forfeited the respective Covered Shares. 
+
+5\. Voting Rights. The Grantee shall be entitled to vote the Covered Shares during the Restricted Period; provided, however, that the Grantee shall not be entitled to vote Covered Shares with respect to record dates occurring before the Grant Date or on or after the date, if any, on which the Grantee has forfeited the respective Covered Shares. 
+
+6\. Registration of Restricted Stock Award. All Stock issued with respect to Covered Shares shall be registered in the name of the Grantee. 
+
+* * *
+
+7\. Corporate Transactions. To the extent permitted under Section 409A of the Code, if applicable, in the event of a corporate transaction involving the Company or the shares of Stock of the Company (including any stock dividend, stock split, extraordinary cash dividend, recapitalization, reorganization, merger, consolidation, split-up, spin-off, combination or exchange of shares), this Award shall automatically be adjusted to proportionately and uniformly reflect such transaction (but only to the extent that such adjustment will not affect the status of this Award intended to qualify as “performance-based compensation” under Section 162(m) of the Code, if applicable); provided, however, that the Committee may otherwise adjust this Award (or prevent such automatic adjustment) as it deems necessary, in its sole discretion, to preserve the benefits or potential benefits of this Award and the Plan. 
+
+8\. Transferability. This Award shall be fully transferrable by the Grantee, but the Grantee shall remain subject to an obligation to deliver to the Company the full number of shares, or an amount of cash equal to the after-tax value, after taking into account all available deductions, of the then fair market value of the shares, that are not vested on the date such shares would otherwise have been forfeited pursuant to Section 2. Notwithstanding the foregoing, the Grantee agrees to hold during the Employment Period the number of shares having an aggregate value on the Grant Date equal to the after-tax value, as determined on the Grant Date, of the shares subject to this Award. 
+
+9\. Withholding. The Grantee shall make appropriate arrangements with the Company, consistent with the provisions of Section 12 of the Plan, for satisfaction of any applicable tax withholding requirements, or similar requirements, arising out of this Award Agreement. 
+
+10\. Administration. The authority to manage and control the operation and administration of this Award Agreement and the Plan shall be vested in the Committee, and the Committee shall have all powers with respect to this Award Agreement as it has with respect to the Plan. Any interpretation of this Award Agreement or the Plan by the Committee and any decision made by it with respect to this Award Agreement or the Plan shall be final and binding on all persons. 
+
+11\. Plan Governs. Notwithstanding anything in this Award Agreement to the contrary, this Award Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Grantee from the office of the Secretary of the Company; and this Award Agreement shall be subject to all interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan. Notwithstanding anything in this Award Agreement to the contrary, in the event of any discrepancies between the Plan and this Award Agreement, the Plan shall control. Further notwithstanding anything in this Award Agreement to the contrary, in the event of any discrepancies between the corporate records of the Company and this Award Agreement, the corporate records shall control. 
+
+12\. Not an Employment Contract. The grant of this Award shall not confer on the Grantee any right with respect to continuance of service with the Company or any Affiliate or Subsidiary, nor shall such grant confer any right to future grants of Restricted Stock, or any other awards in lieu thereof, while employed by the Company or any Affiliate or Subsidiary. The 
+
+* * *
+
+grant shall not interfere in any way with the right of the Company or any Affiliate or Subsidiary to terminate the Grantee’s service at any time. 
+
+13\. Validity. If any provision of this Award Agreement is determined to be illegal or invalid for any reason, said illegality or invalidity shall not affect the remaining parts hereof, but this Award Agreement shall be construed and enforced as if such illegal or invalid provision had never been included herein. 
+
+14\. References. References herein to rights and obligations of the Grantee shall apply, where appropriate, to the Grantee’s legal representative or estate without regard to whether specific reference to such legal representative or estate is contained in a particular provision of this Award Agreement. 
+
+15\. Notice. Any notice required or permitted to be given under this Award Agreement shall be in writing and shall be deemed to have been given when delivered personally or by courier, or sent by certified or registered mail, postage prepaid, return receipt requested, duly addressed to the party concerned at the address indicated below or to such changed address as such party may subsequently by similar process give notice of:   
+  
+If to the Company:
+
+First Industrial Realty Trust, Inc.
+
+311 South Wacker Drive, Suite 3900
+
+Chicago, Illinois 60606
+
+Attn: John Lee, General Counsel  
+  
+If to the Grantee:
+
+At the most recent address on file at the Company.  
+  
+16\. Counterparts. This Award Agreement may be executed in counterparts, each of which shall constitute one and the same instrument. 
+
+17\. Amendment. This Award Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Grantee and the Company without the consent of any other person. 
+
+18\. Governing Law. This Award Agreement shall be governed by and construed in accordance with the laws of the State of Illinois without reference to the principles of conflict of laws, except to the extent such law is preempted by federal law. 
+
+19\. Data Privacy. The Grantee agrees to the collection, use, processing and transfer (collectively, the “Use”) of certain personal data such as the Grantee’s name, salary, job title, and position evaluation rating, along with details of all past awards and current awards outstanding and awarded under the Plan or otherwise (collectively, the “Data”), for the purpose of administering the Plan, a copy of which the Grantee acknowledges having received and understood. The Grantee further acknowledges and agrees that the Company and its Affiliates and Subsidiaries may make Use of the Data amongst themselves and/or with any other third parties assisting the Company in the administration of the Plan (collectively, the “Data Recipients”). The Grantee hereby further authorizes any Data Recipients, including any Data Recipients located in foreign jurisdictions, to continue to make Use of the Data, in electronic or other form, for the purposes of administering the Plan, including without limitation, any 
+
+* * *
+
+necessary Use of such Data as may be required for the subsequent holding of Stock on the Grantee’s behalf by a broker or other third party with whom the Grantee may elect to deposit any Stock acquired through the Plan or otherwise. The Company shall, at all times, take all commercially reasonable efforts to ensure that appropriate safety measures shall be in place to ensure the confidentiality of the Data, and that no Use shall be made of the Data for any purpose other than the administration of the Plan. The Grantee may, at any time, review his or her Data and request necessary amendments to such Data. The Grantee may withdraw consent to the Use of the Data herein by notifying the Company in writing; provided, however, that because the Data is essential to the Company’s ability to administer the Plan and to assess employee admissibility under the Plan, by withdrawing consent to the Use of the Data, the Grantee may affect his or her eligibility to participate in the Plan. The Grantee hereby releases and forever discharges the Company from any and all claims, demands, actions, causes of action, damages, liabilities, costs, losses and expenses arising out of, or in connection with, the Use of the Data for purposes of administering the Plan, including without limitation, any and all claims for invasion of privacy, infringement of the Grantee’s right of publicity, defamation and any other personal, moral and/or property rights. 
+
+20\. Clawback Policy Prior to a Change in Control. This Award, and any amount or benefit received hereunder shall be subject to potential cancellation, recoupment, rescission, payback or other action in accordance with the terms of any applicable Company clawback policy, as it may be amended from time to time (the “Policy”) and any applicable law. The Grantee’s acceptance of this Award constitutes the Grantee’s acknowledgment of and consent to the Company’s application, implementation and enforcement of (a) the Policy or any similar policy established by the Company that may apply to the Grantee and (b) any provision of applicable law relating to cancellation, rescission, payback or recoupment of compensation, as well as the Grantee’s express agreement that the Company may take such actions as are necessary to effectuate the Policy, any similar policy (as applicable to the Grantee) or applicable law, without further consideration or action, it being understood and agreed that this Section 20 shall not apply after a Change in Control Event. 
+
+(Signature page to follow) 
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned has executed this Award Agreement as of the Grant Date.   
+  
+FIRST INDUSTRIAL REALTY TRUST, INC.   
+  
+By:  
+  
+I hereby acknowledge that I have received a copy of the Plan (the terms of which are incorporated by reference into this Award Agreement) and am familiar with the terms set forth therein. I agree to accept as binding, conclusive and final all decisions and interpretations of the Committee. As a condition to the receipt of this Award, I hereby authorize the Company to withhold from any regular cash compensation payable to me by the Company any taxes required to be withheld under any applicable law as a result of this Award.   
+  
+GRANTEE  
+  
+By:   
+  
+Date: 

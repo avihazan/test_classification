@@ -1,0 +1,83 @@
+##### 
+
+Exhibit 10.3
+
+
+UNDER THE  
+PINNACLE WEST CAPITAL CORPORATION  
+2007 LONG-TERM INCENTIVE PLAN
+
+THIS AWARD AGREEMENT is made and entered into as of _______________, ______ (the “Date of Grant”), by and between Pinnacle West Capital Corporation (the “Company”), and «Name» (“Employee”). 
+
+BACKGROUND
+
+A. The Board of Directors of the Company (the “Board of Directors”) has adopted, and the Company’s shareholders have approved, the Pinnacle West Capital Corporation 2007 Long-Term Incentive Plan (the “Plan”), pursuant to which awards of Restricted Stock may be granted to employees of the Company and its Subsidiaries and certain other individuals.  
+B. The Company desires to grant Restricted Stock to Employee under the terms of the Plan.  
+C. Pursuant to the Plan, the Company and Employee agree as follows:  
+  
+AGREEMENT
+
+1. Grant of Award. Pursuant to action of the Committee, which was taken on the Date of Grant, the Company grants to Employee «Number» shares of Restricted Stock (the “Restricted Shares”) and Dividend Equivalents based on the dividends declared on the Restricted Shares.  
+2. Award Subject to Plan. This Restricted Stock Award is granted under and is expressly subject to all of the terms and provisions of the Plan, which terms are incorporated herein by reference, and this Award Agreement.  
+3. Restrictions on Restricted Shares. Employee agrees to not sell, transfer, pledge, exchange, hypothecate, grant any security interest in, or otherwise dispose of, any Restricted Shares before the date on which the restrictions lapse under Section 4, or enter into any agreement or make any commitment to do so. Any attempted sale, transfer, pledge, exchange, hypothecation or disposition of the Restricted Shares shall be null and void, and the Company shall not recognize or give effect to such transaction on its books and records (including the books and records of the Company’s transfer agent) or recognize the person or persons to whom such sale, transfer, pledge, exchange, hypothecation or disposition has been made as the legal or beneficial owner of the Restricted Shares.  
+4. Lapse of Restrictions. Subject to the other conditions in this Agreement, the restrictions on the Restricted Shares described in Section 3 will lapse and the Restricted Shares will vest and no longer be subject to forfeiture under this Award Agreement on ____________ “Vesting Dates” as follows:  
+  
+[To be determined] 
+
+* * *
+
+##### 
+
+For avoidance of doubt, no acceleration of vesting of the Restricted Shares will occur on a Change of Control of the Company or upon Employee’s Retirement. For purposes of this Award Agreement, “Retirement” means a termination of employment which constitutes an “Early Retirement” or a “Normal Retirement” under the Pinnacle West Capital Corporation Retirement Plan. 
+
+5. Acknowledgements and Representation of Employee. By accepting the Restricted Shares, Employee hereby acknowledges the following:  
+  
+(a) Further Limitations on Disposition. Employee understands and acknowledges that Employee may not make any sale, assignment, transfer or other disposition (including transfer by gift or operation of law) of all or any portion of the Restricted Shares except in accordance with this Award Agreement. 
+
+(b) Section 83(b) Election. Employee understands that Section 83 of the Code taxes as ordinary income the difference between the amount paid for the Restricted Shares and the Fair Market Value of the Restricted Shares as of the date any restrictions on the Restricted Shares lapse. In this context, “restriction” means the restrictions set forth in Section 3 hereof. Employee understands that Employee may elect to be taxed at the time the Restricted Shares are granted rather than when and as the restrictions on the Restricted Shares lapse and the Restricted Shares vest by filing an election under Section 83(b) of the Code with the Internal Revenue Service within 30 days from the Date of Grant. Employee understands that failure to make this filing timely shall result in the recognition of ordinary income by Employee on the Fair Market Value of the Restricted Shares at the time such restrictions lapse and the Restricted Shares vest. 
+
+EMPLOYEE ACKNOWLEDGES THAT IT IS EMPLOYEE’S SOLE RESPONSIBILITY, AND NOT THE COMPANY’S, TO TIMELY FILE THE ELECTION UNDER SECTION 83(b) OF THE CODE, EVEN IF EMPLOYEE REQUESTS THAT THE COMPANY OR ITS REPRESENTATIVES MAKE THIS FILING ON EMPLOYEE’S BEHALF.
+
+6. Transfer and Payment.  
+  
+(a) Time and Form of Payment. As permitted by the Plan, the Company will not deliver to Employee any certificates or other evidence of ownership with respect to the Restricted Shares. Subject to the provisions of this Award Agreement and the Plan, when the restrictions on a Restricted Share lapse on the Vesting Date described in Section 4 above, the Company shall transfer to Employee in exchange for such Restricted Share one unrestricted, fully transferable share of Stock. The transfer shall be made within 60 days of the applicable Vesting Date.  
+(b) Dividend Equivalents. In satisfaction of the Dividend Equivalent Award made pursuant to Section 1, at the time of the Company’s delivery of fully transferable shares of Stock to Employee pursuant to Section 6(a), the Company also will deliver to Employee a cash payment equal to the amount of dividends, if any, declared on the number of shares of Stock equal to the number of fully transferable shares of Stock delivered to Employee from the Date of Grant to the date of the payment, plus interest on such amount at the rate of ___ percent compounded quarterly, as determined pursuant to the Plan.  
+  
+7. Termination of Award. In the event of the termination of Employee’s active employment with the Company or any of its Subsidiaries, whether due to voluntary or involuntary termination, death, disability or otherwise, Employee’s right to receive  
+  
+* * *
+
+##### 
+
+and/or vest in any additional Restricted Shares under the Plan, if any, will terminate. Any unvested Restricted Shares and the related Dividend Equivalents will be forfeited effective as of the date that Employee terminates active employment with the Company or any of its Subsidiaries.  
+  
+8. Section 409A Compliance.  
+  
+(a) Purpose of this Provision. Section 409A of the Code imposes a number of requirements on “non-qualified deferred compensation” plans and arrangements. Based on regulations issued by the Internal Revenue Service, the Company has concluded that the award of Restricted Shares under this Award Agreement is not subject to Section 409A. In addition, the Dividend Equivalent Award is exempt from the requirements of Section 409A pursuant to the short-term deferral exception.  
+(b) Short-Term Deferral Exception to Section 409A. The Company intends that the Dividend Equivalents payable pursuant to Section 6(b) will comply with the short-term deferral exception to the requirements of Section 409A of the Code, as described in Treas. Reg. § 1.409A-1(b)(4). In order to meet the requirements of the short-term deferral exception, despite any other provision of this Award Agreement to the contrary, the Dividend Equivalent payments due pursuant to this Award Agreement shall be paid at the time stated in Section 6(b). Payment of Dividend Equivalents under this Award Agreement may be delayed only in accordance with regulations issued pursuant to Section 409A.  
+(c) Ban on Acceleration or Deferral. Under no circumstances may the time or schedule of any Dividend Equivalent payment provided under Section 6(b) of this Award Agreement be accelerated or subject to a further deferral except as otherwise permitted or required pursuant to regulations and other guidance issued pursuant to Section 409A of the Code.  
+(d) No Elections. Employee does not have any right to make any election regarding the time or form of any Dividend Equivalent payment due under this Award Agreement.  
+(e) Compliant Operation and Interpretation. The Plan and this Award Agreement shall be administered in compliance with Section 409A and each provision of the Award Agreement and the Plan shall be interpreted, to the extent possible, to comply with Section 409A or an exception thereto.  
+  
+9. Tax Withholding. Any and all transfers of Stock and payments of Dividend Equivalents made pursuant to this Award Agreement shall be subject to applicable tax withholding requirements and employment taxes. Employee’s tax withholding obligation with respect to Dividend Equivalents will be satisfied through the Company’s withholding from the Dividend Equivalent payment. Employee must pay, or make arrangements acceptable to the Company for the payment of, any and all required federal, state, and local income and payroll tax withholding attributable to any and all transfers of Stock. Employee may satisfy any such tax withholding obligation attributable to any and all transfers of Stock by paying the amount in cash or by check or by directing the Company to withhold shares of Stock having a Fair Market Value on the date of withholding sufficient to cover the withholding obligation attributable to any and all transfers of Stock. Within 30 days after the Date of Grant, Employee must elect, by providing written notice to the Company, to satisfy any tax  
+  
+* * *
+
+##### 
+
+withholding obligation attributable to any and all transfers of Stock by paying the amount in cash, by check, or by having the Company withhold shares of Stock having a Fair Market Value on the date of withholding sufficient to cover the withholding obligation. In the absence of a timely election by Employee, Employee’s tax withholding obligation with respect to transferred Stock will be satisfied through the Company’s withholding shares of Stock as set forth above.  
+  
+10. Continued Employment. Nothing in the Plan or this Award Agreement shall be interpreted to interfere with or limit in any way the right of the Company to terminate Employee’s employment or services at any time. In addition, nothing in the Plan or this Award Agreement shall be interpreted to confer upon Employee the right to continue in the employ or service of the Company.  
+11. Voting Rights. Employee is [not] entitled to voting rights with respect to the Restricted Shares by virtue of this Award.  
+12. Non-Transferability. Neither this Award nor any rights under this Award Agreement may be assigned, transferred, or in any manner encumbered except by will or the laws of descent and distribution, and any attempted assignment, transfer, mortgage, pledge or encumbrance, except as herein authorized, will be void and of no effect.  
+13. Definitions: Copy of Plan and Plan Prospectus. To the extent not specifically defined in this Award Agreement, all capitalized terms used in this Award Agreement will have the same meanings ascribed to them in the Plan. Employee will receive a copy of the Plan and the related Plan Prospectus. In the event of any conflict between the terms and conditions of this Award Agreement and the Plan, the provisions of the Plan shall control.  
+14. Amendment. Except as otherwise provided in the Plan, this Award Agreement may be amended only by a written agreement executed by the Company and Employee.  
+15. Choice of Law. This Award Agreement will be governed by the laws of the State of Arizona, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Award Agreement to another jurisdiction.  
+  
+An authorized representative of the Company has signed this Award Agreement as of the Date of Grant.   
+  
+PINNACLE WEST CAPITAL CORPORATION  
+  
+By:  
+  
+Its: 

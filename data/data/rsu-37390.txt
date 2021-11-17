@@ -1,0 +1,267 @@
+  
+
+
+Exhibit 10.7
+
+
+
+RESTRICTED STOCK UNIT AGREEMENT
+
+This Restricted Stock Unit Agreement (the “Agreement”) is made between Hospira, Inc., a Delaware corporation (the “Company”), and the Participant specified below. The Agreement is subject to the provisions of the Hospira 2004 Long-Term Stock Incentive Plan (the “Plan”), the terms of which are incorporated herein by reference.
+
+1.Terms of Award. The following terms used in this Agreement shall have the meanings set forth in this paragraph 1:
+
+(a) The “Participant” is ______________________.
+
+(b) The “Grant Date” is ______________.  
+  
+(c)
+
+The number of “Restricted Stock Units” awarded under this Agreement is __________. “Restricted Stock Units” are units of shares of Stock representing the right to receive an equal number of shares of Stock on a Delivery Date.  
+  
+(d)
+
+The "Delivery Dates" are the respective dates on which Restricted Stock Units vest and the shares of Stock represented by the Restricted Stock Units become deliverable to the Participant pursuant to paragraph 4 below. The shares of Stock shall be delivered in an equal whole number of shares of Stock (plus cash equal to the Fair Market Value of any fractional share) to the Participant, or to his/her personal representative in the event of the Participant’s death or Disability, on the Delivery Date or within 30 days following such Delivery Date.   
+  
+Except where the context clearly implies to the contrary, any capitalized term in this award shall have the meaning ascribed to that term under the Plan. Other words and phrases used in this Agreement are defined pursuant to paragraph 9 or elsewhere in this Agreement.
+
+2\. Award. The Participant is hereby awarded the number of Restricted Stock Units set forth in paragraph 1.
+
+3\. Dividends and Voting Rights. Prior to each applicable Delivery Date of the shares of Stock represented by Restricted Stock Units: (a) the Participant shall not be treated as a shareholder as to those shares, and shall only have contractual rights to receive them, unsecured by any assets of the Company or its subsidiaries; (b) the Participant shall not be permitted to vote the Restricted Stock Units; (c) neither dividends nor dividend equivalents shall be paid or accrued with respect to the Restricted Stock Units; and (d) the Participant's right to receive shares with respect to the Restricted Stock Units shall be subject to the adjustment provisions relating to mergers, reorganizations and similar events set forth in the Plan. 
+
+4\. Forfeiture Period.   
+  
+(a)
+
+The Restricted Stock Units shall be subject to forfeiture pursuant to paragraph 4(d) for a period (the "Forfeiture Period") commencing with the date of the award and ending on the earliest to occur of the events described in paragraphs 4(b) and 4(c).  
+  
+(b)
+
+The Restricted Stock Units shall vest on each consecutive anniversary date of the Grant Date with respect to one-third of the Restricted Stock Units (each such anniversary date a “Delivery Date”).  
+  
+  
+  
+  
+  
+
+
+* * *
+
+  
+  
+  
+(c)
+
+The Restricted Stock Units to the extent they have not vested in accordance with paragraph 4(b) and to the extent they have not previously been forfeited, shall vest upon the date of a Change in Control that occurs on or before the Date of Termination if the successor company (or parent thereof) has not either (i) assumed the Restricted Stock Units effective on the date of the Change in Control, without any modifications except as provided in the next sentence, or (ii) replaced it with comparable restricted stock units as of such date having the same intrinsic value as the Restricted Stock Units, and the same vested percentage and vesting schedule as the Restricted Stock Units. The Restricted Stock Units (if assumed) or the replacement restricted stock units shall provide for full vesting if, within the first 24 months following the date of the Change in Control, the Participant is involuntarily terminated for any or no reason or if the Participant terminates with Good Reason.  
+  
+(d)
+
+The Restricted Stock Units shall be automatically forfeited upon the earliest to occur of the following: (i) the Participant’s Date of Termination for any reason other than death, Disability or Retirement; or (ii) subject to the provisions of Section 5, the date the Participant engages in conduct which constitutes Restricted Activity.   
+  
+5\. Restricted Activity.  
+  
+(a)
+
+The Participant shall not, while employed by the Company and for a period of one year following his/her Date of Termination:   
+  
+(i)
+
+without the prior written consent of the Committee, directly or indirectly engage or assist any person engaging in any Competitive Business individually, or as an officer, director, employee, agent, consultant, owner, partner, lender, manager, member, principal or in any other capacity, or render any services to any entity that is engaged in any Competitive Business; provided, however, that the Participant’s ownership of 1% of any class of equity security of any entity engaged in any Competitive Business shall not be deemed a breach of this paragraph 5(a) provided such securities are listed on a national securities exchange or quotation system or have been registered under Section 12(g) of the Securities Exchange Act of 1934, as amended; or   
+  
+(ii)
+
+directly or indirectly divert, take away, solicit, or assist others in soliciting any current or prospective customer, supplier, independent contractor or service provider of the Company or any subsidiary or otherwise interfere with the relationship between the Company or any subsidiary and any current or prospective customer, service provider, supplier, independent contractor or stockholder; or   
+  
+(iii)
+
+directly or indirectly induce any person to leave employment with the Company, or solicit for employment other than on behalf of the Company, offer employment to, or employ, any person who was an employee of the Company, in each case within six months of such inducement, solicitation or offer.  
+  
+(b)
+
+If the Participant engages in any activity described in paragraph 5(a) without the written consent of the Committee, the Company, as determined by the Committee in its sole discretion, may terminate this Agreement and forfeit all of the Restricted Stock Units (whether vested or unvested), and the Participant shall immediately pay to the Company in cash the amount of any Financial Gain realized by the Participant from the vesting of the Restricted Stock Units, provided that such vesting occurred within one year from the date that the Participant engaged in such Restricted Activity. The Committee may, in its sole discretion, recover any amount owed by the Participant by setting off such amount   
+  
+  
+  
+  
+2  
+  
+  
+  
+
+
+* * *
+
+  
+
+
+against any amount or award that would otherwise be granted or paid by the Company to the Participant, reducing any future compensation or benefit to the Participant or any combination thereof. 
+
+6\. Other Right to Correct Payments. Subject to the Company’s Executive Compensation Recovery Policy, and notwithstanding anything in the Agreement to the contrary, if the Committee determines, in its sole discretion, that the number or value of Restricted Stock Units awarded under the Agreement was based on the Company’s published financial statements that have been restated then, at the Committee’s discretion, the Company may, but in no case later than 60 months of such restatement:   
+  
+(a)
+
+cancel all Restricted Stock Units (whether vested or unvested) that were based upon the financial performance in the published financial statements that was subsequently restated;   
+  
+(b)
+
+rescind any delivery of shares of Stock that was based upon the financial performance in the published financial statements that was subsequently restated; and   
+  
+(c) 
+
+if any amount or value has been realized from the vesting of the Restricted Stock Units that would have been lower had the financial results been properly reported, recover all or any Financial Gain realized by the Participant, as determined by the Committee in its sole discretion, that resulted from the financial results that were subsequently restated, and the Participant agrees to repay and return any such Financial Gain to the Company. The Committee may, in its sole discretion, effect any such recovery by obtaining repayment directly from the Participant, setting off the amount owed to the Company against any amount or award that would otherwise be granted by the Company to the Participant, reducing any future compensation or benefit to the Participant or any combination thereof.   
+  
+7\. Award Not Transferable. The Restricted Stock Units may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of, whether by operation of law or otherwise, and shall not be subject to execution, attachment or similar process. Any attempt at assignment, transfer, pledge or hypothecation, or other disposition of the Restricted Stock Units contrary to the provisions hereof, and the levy of any attachment or similar process upon the Restricted Stock Units, shall be null and void and without effect.
+
+8\. Withholding. The Company is entitled to withhold an amount equal to the Company’s required statutory withholding taxes for the respective tax jurisdiction attributable to any share of Common Stock or cash deliverable in connection with the Restricted Stock Units. Subject to such limitations as the Company may establish from time to time, the Participant may satisfy any withholding obligation in whole or in part by making a cash payment equal to the amount required to be withheld. 
+
+9\. Definitions. For purposes of this Agreement, the terms used in this Agreement shall be subject to the following:  
+  
+(a)
+
+Competitive Business. The term “Competitive Business” means any business activity in which the Company or any subsidiary is actively engaged on the Participant’s Date of Termination. For these purposes, entities deemed to be engaged in Competitive Business include, by way of example and not limitation, Abraxis BioScience, Inc., Baxter International Inc., Teva Pharmaceuticals, Becton, Dickinson and Company, B. Braun Melsungen AG, Cardinal Healthcare Inc., Fresenius Medical Care AG, Terumo Medical Corporation, Patheon, Inc., and Edwards Lifesciences Corporation.  
+  
+(b)
+
+Date of Termination. The term “Date of Termination” means the first day occurring on or after the Grant Date on which the Participant is not employed by the Company or any of its subsidiaries, regardless of the reason for the termination of employment; provided that   
+  
+  
+  
+  
+3  
+  
+  
+  
+
+
+* * *
+
+  
+
+
+a termination of employment shall not be deemed to occur by reason of a transfer of the Participant between the Company and a subsidiary or between two subsidiaries; and further provided that the Participant’s employment shall not be considered terminated while the Participant is on a leave of absence from the Company or a subsidiary approved by the Participant’s employer. If, as a result of a sale or other transaction, the Participant’s employer ceases to be a subsidiary (and the Participant’s employer is or becomes an entity that is separate from the Company), and the Participant is not, at the end of the 30‑day period following the transaction, employed by the Company or an entity that is then a subsidiary, then the occurrence of such transaction shall be treated as the Participant’s Date of Termination caused by the Participant being discharged by the employer.  
+  
+(c)
+
+Disability. The term “Disability” means the Participant either is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months; or by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, the Participant is receiving income replacement benefits for a period of not less than three months under an accident and health plan covering employees of the Company or a subsidiary.  
+  
+(d)
+
+Financial Gain. The term “Financial Gain” means the Fair Market Value of the Common Stock on the Delivery Date that the Restricted Stock Unit is deemed vested, multiplied by the number of shares of Stock actually distributed pursuant to this Agreement, reduced by any taxes paid in countries other than the United States, to the extent that such taxes are not otherwise eligible for refund from the taxing authorities.  
+  
+(e)
+
+Good Reason. The term “Good Reason” means the occurrence of any of the following circumstances without the Participant's express written consent:  
+  
+(i)
+
+a significant adverse change in the nature, scope or status of the Participant's position, authorities or duties from those in effect immediately prior to the Change in Control, including, without limitation, if the Participant was, immediately prior to the Change in Control, an executive officer of a public company, the Participant ceasing to be an executive officer of a public company;  
+  
+(ii)
+
+the failure by the Company to pay the Participant any portion of the Participant's current compensation;   
+  
+(iii)
+
+a reduction in the Participant's annual base salary (or a material change in the frequency of payment) as in effect immediately prior to the Change in Control as the same may be increased from time to time;  
+  
+(iv)
+
+the failure by the Company to award the Participant an annual bonus in any year which is at least equal to the annual bonus, awarded to the Participant under the annual bonus plan of the Company for the year immediately preceding the year of the Change in Control;   
+  
+(v)
+
+the failure by the Company to award the Participant equity-based incentive compensation (such as stock options, shares of restricted stock, or other equity-based compensation) on a periodic basis consistent with the Company's practices with respect to timing, value and terms prior to the Change in Control;  
+  
+  
+  
+  
+4  
+  
+  
+  
+
+
+* * *
+
+  
+  
+  
+(vi)
+
+the failure by the Company to continue to provide the Participant with the welfare benefits, fringe benefits and perquisites enjoyed by the Participant immediately prior to the Change in Control under any of the Company's plans or policies, including, but not limited to, those plans and policies providing pension, life insurance, medical, dental, prescription, health and accident, disability, vacation, and other executive perquisites;   
+  
+(vii)
+
+the relocation of the Company's principal executive offices to a location more than thirty-five miles from the location of such offices immediately prior to the Change in Control or the Company requiring the Participant to be based anywhere other than the Company's principal executive offices except for required travel to the Company's business to an extent substantially consistent with the Participant's business travel obligations immediately prior to the Change in Control; or   
+  
+(viii)
+
+the failure of the Company to obtain a satisfactory agreement from any successor to the Company to assume and agree to perform this Agreement as contemplated by paragraph 4.   
+  
+For purposes of any determination regarding the existence of Good Reason, any good faith determination by the Participant that Good Reason exists shall be conclusive.  
+  
+(f)
+
+Retirement. “Retirement” of the Participant means, the occurrence of the Participant’s Date of Termination on or after the date that the Participant reaches the age of 55 and has 10 years of combined service with the Company or its subsidiaries (or with Abbott Laboratories and its affiliates, provided that the Participant transitioned employment from Abbott to the Company in conjunction with the distribution of the Company’s common stock to the Abbott shareholders) (as determined by the Committee).  
+  
+10\. Successors. This Agreement shall be binding upon, and inure to the benefit of, the Company and its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. 
+
+11\. Not An Employment Contract. Restricted Stock Units do not confer on the Participant any right with respect to continuance of employment or other service with the Company or any of its subsidiaries, nor will it interfere in any way with any right the Company or any of its subsidiaries would otherwise have to terminate or modify the terms of such Participant’s employment or other service at any time.
+
+12\. Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of the Agreement by the Committee and any decision made by it with respect to the Agreement is final and binding.
+
+13\. Notices. Any written notice from one party to the other that is related to this Agreement shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant's address indicated by the Company's records, or if to the Company, at the Company's principal executive office.
+
+14\. Plan Governs. Notwithstanding anything in this Agreement to the contrary, the terms of this Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company.
+
+  
+  
+  
+5  
+  
+  
+  
+
+
+* * *
+
+  
+
+
+15\. Amendment. This Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Participant and the Company without the consent of any other person. Notwithstanding the foregoing, the terms of the Agreement may be amended by Hospira as it shall deem necessary and appropriate in order to comply with the requirements of Section 409A of the Internal Revenue Code of 1986, as amended, and any proposed, temporary or final regulations promulgated thereunder.
+
+* * * * * * *
+
+IN WITNESS WHEREOF, the Participant has executed this Agreement, and the Company has caused these presents to be executed in its name and on its behalf, all as of the Grant Date.
+
+Participant
+
+  
+
+
+  
+
+
+  
+
+
+Hospira, Inc.
+
+  
+
+
+By: 
+
+Its: Chief Executive Officer 
+
+  
+
+
+  
+  
+  
+6  
+  
+  
+  
+

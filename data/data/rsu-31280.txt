@@ -1,0 +1,130 @@
+##### 
+
+Exhibit 10.8
+
+
+
+THIS RESTRICTED STOCK AWARD AGREEMENT (this “Agreement”) is made as of the 6th day of March, 2008, between DYNEGY INC., a Delaware corporation (“Dynegy”), and all of its Affiliates (collectively, the “Company”), and Jason Hochberg (the “Employee”). A copy of the Dynegy Inc. 2000 Long Term Incentive Plan (the “Plan”) is annexed to this Agreement and shall be deemed a part hereof as if fully set forth herein. Unless the context otherwise requires, all terms that are not defined in this Agreement but which are defined in the Plan shall have the same meaning given to them in the Plan when used herein. 
+
+1\. Award. Pursuant to the Plan, as of the date of this Agreement (the “Grant Date”), 23,396 restricted shares (the “Restricted Shares”) of Dynegy’s Class A common stock, $0.01 par value per share (“Common Stock”), shall be issued as hereinafter provided in the Employee’s name subject to certain restrictions thereon. The Restricted Shares shall be issued upon acceptance hereof by the Employee and upon satisfaction of the conditions of this Agreement. The Employee acknowledges receipt of a copy of the Plan, and agrees that this award of Restricted Shares shall be subject to all of the terms and provisions of the Plan, including future amendments thereto, if any, pursuant to the terms thereof, and to all of the terms and conditions of this Agreement. If it is subsequently determined by the Committee, in its sole discretion, that the terms and conditions of this Agreement and/or the Plan are not compliant with Code Section 409A, or any Treasury regulations or Internal Revenue Service guidance promulgated thereunder, this Agreement and/or the Plan may be amended accordingly. 
+
+2\. Restricted Shares. The Employee hereby accepts the Restricted Shares when issued and agrees with respect thereto as follows: 
+
+(a) Forfeiture Restrictions. The Restricted Shares may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or otherwise disposed of (any such sale, assignment, pledge, exchange, hypothecation or other transfer, encumbrance or disposition being referred to herein as a “Transfer”) to the extent then subject to the Forfeiture Restrictions (as hereinafter defined), and in the event of termination of the Employee’s employment with the Company for any reason whatsoever, the Employee shall, for no consideration, forfeit to the Company all Restricted Shares then subject to the Forfeiture Restrictions, except to the extent that such Forfeiture Restrictions lapse upon such termination in accordance with Section 2(b) hereof. The prohibition against Transfer and the obligation to forfeit and surrender Restricted Shares to the Company upon termination of employment are herein referred to as the “Forfeiture Restrictions.” The Forfeiture Restrictions shall be binding upon and enforceable against any transferee of Restricted Shares. For purposes of this Agreement, the following terms shall have the meanings indicated below: 
+
+(i) “Base Salary” shall mean the regular base salary of Employee but excluding all bonuses, expense reimbursements, benefits paid under any plan maintained by the Company and all equity awards of any type. 
+
+1 
+
+1 
+
+* * *
+
+##### 
+
+(ii) “Cause” shall mean, and hence arise where, as determined by the Committee in its sole discretion, the Employee (A) has been convicted of a misdemeanor involving moral turpitude or a felony; (B) has failed to substantially perform the duties of such Employee to the Company (other than such failure resulting from the Employee’s incapacity due to physical or mental condition) which results in a materially adverse effect upon the Company, financial or otherwise; (C) has refused without proper legal reason to perform the Employee’s duties and responsibilities to the Company; or (D) has breached any material corporate policy maintained and established by the Company that is applicable to the Employee, provided such breach results in a materially adverse effect upon the Company, financial or otherwise. 
+
+(iii) “Change in Control” shall mean the occurrence of any of the following events: (A) a merger of Dynegy with another entity, a consolidation involving Dynegy, or the sale of all or substantially all of the assets or equity interests of Dynegy to another entity if, in any such case, (I) the holders of equity securities of Dynegy immediately prior to such event do not beneficially own immediately after such event equity securities of the resulting entity entitled to fifty-one percent (51%) or more of the votes then eligible to be cast in the election of directors (or comparable governing body) of the resulting entity in substantially the same proportions that they owned the equity securities of Dynegy immediately prior to such event or (II) the persons who were members of the Board immediately prior to such event do not constitute at least a majority of the board of directors of the resulting entity immediately after such event; (B) the dissolution or liquidation of Dynegy, but excluding a reorganization pursuant to chapter 11 of Title 11, U.S. Code, as amended; (C) a circumstance where any person or entity, including a “group” as contemplated by Section 13(d)(3) of the Exchange Act, acquires or gains ownership or control (including, without limitation, power to vote) of fifty percent (50%) or more of the combined voting power of the outstanding securities of, (I) if Dynegy has not engaged in a merger or consolidation, Dynegy, or (II) if Dynegy has engaged in a merger or consolidation, the resulting entity; (D) circumstances where, as a result of or in connection with, a contested election of directors, the persons who were members of the Board immediately before such election shall cease to constitute a majority of the Board; or (E) the Board (or the Committee) adopts a resolution declaring that a Change in Control has occurred. For purposes of the “Change in Control” definition, (1) “resulting entity” in the context of an event that is a merger, consolidation or sale of all or substantially all of the subject assets or equity interests shall mean the surviving entity (or acquiring entity in the case of an asset or equity interest sale), unless the surviving entity (or acquiring entity in the case of an asset sale) is a subsidiary of another entity and the holders of common stock of Dynegy receive capital stock of such other entity in such transaction or event, in which event the resulting entity shall be such other entity, and (2) subsequent to the consummation of a merger or consolidation that does not constitute a Change in Control, the term “Dynegy” shall refer to the resulting entity and the term “Board” shall refer to the board of directors (or comparable governing body) of the resulting entity. 
+
+2 
+
+2 
+
+* * *
+
+##### 
+
+(iv) “Change in Control Termination” shall mean Employee’s employment is terminated by the Company (or a successor thereto) without Cause, or by Employee following: (A) a significant diminution in Employee’s responsibilities, authority or duties; (B) a material reduction in Employee’s Base Salary; or (C) relocation of Employee’s position outside the Houston, Texas metropolitan area, all as determined by the Committee in its sole discretion. 
+
+(v) “Committee” shall mean the committee that administers the Plan. 
+
+(vi) “Involuntary Termination” shall have the same meaning as specified in the Dynegy Inc. Executive Severance Pay Plan (as amended and restated effective January 1, 2008). 
+
+(b) Lapse of Forfeiture Restrictions. The Forfeiture Restrictions shall lapse as to 100% of the Restricted Shares on the third anniversary of the Grant Date, provided that the Employee has been continuously employed by the Company from the date of this Agreement through such lapse date. Notwithstanding the foregoing: 
+
+(i) if the Employee is determined to be disabled (as defined in the Company’s long term disability program or plan in which the Employee is a participant or, if the Employee does not participate in any such plan, as defined in the Dynegy Inc. Long Term Disability Plan, as amended, or the successor plan thereto) or in the event of the death of the Employee, then the Forfeiture Restrictions shall lapse with respect to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such determination or death, as applicable; and 
+
+(ii) if the Employee’s employment with the Company terminates by reason of resignation by the Employee (except as otherwise provided in Sections 2(b)(iv), (v) or (vii) below) or dismissal by the Company for Cause, then the Employee shall immediately, for no consideration, forfeit to the Company all Restricted Shares to the extent then subject to the Forfeiture Restrictions; and 
+
+(iii) if the Employee’s employment with the Company terminates by reason of retirement by the Employee following (A) the date on which such Employee has reached sixty (60) years of age and (B) at least ten (10) years of service as an employee of the Company, then the Forfeiture Restrictions shall lapse as to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such termination; and 
+
+3 
+
+3 
+
+* * *
+
+##### 
+
+(iv) if the Employee’s employment with the Company terminates by reason of Involuntary Termination, then the Forfeiture Restrictions shall lapse with respect to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such termination; and 
+
+(v) if the Employee’s employment with the Company terminates as a result of a Change in Control Termination occurring in connection with, but in no event earlier than sixty (60) days prior to, a Change in Control, then the Forfeiture Restrictions shall lapse with respect to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such Change in Control; and 
+
+(vi) if the Employee is employed by the Company (or a successor thereto) on the date of a Change in Control, then the Forfeiture Restrictions shall lapse with respect to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such Change in Control; and 
+
+(vii) if the Employee’s employment with the Company terminates as a result of a mutually satisfactory resignation, as determined by the Committee in its sole discretion, then the Forfeiture Restrictions shall lapse as to 100% of the Restricted Shares awarded to the Employee hereunder as of the date of such termination. 
+
+Any shares with respect to which the Forfeiture Restrictions do not lapse in accordance with the preceding provisions of this Section 2(b) shall be forfeited to the Company for no consideration as of the date of the termination of the Employee’s employment with the Company. 
+
+(c) Shareholder Rights & Certificates. The Employee shall have all of the rights of a shareholder of the Company with respect to the Restricted Shares, including, without limitation, voting rights and the right to receive dividends (provided, however, that dividends paid in shares of the Company’s stock shall be subject to the Forfeiture Restrictions), but the Employee may not Transfer the Restricted Shares until the Forfeiture Restrictions have expired, and a breach of the terms of this Agreement or the Plan shall cause a forfeiture of the Restricted Shares. Any certificate issued by the Company evidencing the Restricted Shares shall bear appropriate legends in accordance with Section 4 below and shall be delivered upon issuance to the Secretary of the Company or to such other depository as may be designated by the Committee as a depository for safekeeping until the forfeiture of such Restricted Shares occurs or the Forfeiture Restrictions lapse pursuant to the terms of the Plan and this award. In the event a certificate evidencing the Employee’s Restricted Shares is issued by the Company prior to the lapse of the Forfeiture Restrictions, the Employee shall promptly deliver to the Company a stock power, endorsed in blank, relating to the Restricted Shares. Upon the lapse of the Forfeiture Restrictions without forfeiture, the Company shall, promptly following receipt of a written request from the Employee, cause a certificate or certificates evidencing the shares of Common Stock awarded to the Employee hereunder (and with respect to which the Forfeiture Restrictions have lapsed) to be issued without legend (except for any legend required pursuant to applicable securities laws or any other agreement to which the Employee is a party) in the name of the Employee in exchange for the certificate, if any, evidencing the Restricted Shares. 
+
+4 
+
+4 
+
+* * *
+
+##### 
+
+(d) Corporate Acts. The existence of the Restricted Shares shall not affect in any way the right or power of the Board of Directors of the Company or the shareholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, any merger or consolidation of the Company, any issue of debt or equity securities, the dissolution or liquidation of the Company or any sale, lease, exchange or other disposition of all or any part of its assets or business or any other corporate act or proceeding. The prohibitions of Section 2(a) hereof shall not apply to the Transfer of Restricted Shares pursuant to a plan of reorganization of the Company, but the stock, securities or other property received in exchange therefore shall also become subject to the Forfeiture Restrictions and provisions governing the lapsing of such Forfeiture Restrictions applicable to the original Restricted Shares for all purposes of this Agreement and the certificates, if any, representing such stock, securities or other property shall be legended to show such restrictions. 
+
+3\. Withholding of Tax. To the extent that the receipt of the Restricted Shares or the lapse of any Forfeiture Restrictions results in compensation income to the Employee for federal or state income tax purposes, the Employee shall deliver to the Company at the time of such receipt or lapse, as the case may be, such amount of money as the Company may require to meet its obligation under applicable tax laws or regulations, and if the Employee fails to do so, the Company is authorized to withhold from any cash or stock remuneration (including withholding any Restricted Shares distributable to the Employee under this Agreement) then or thereafter payable to the Employee any tax required to be withheld by reason of such resulting compensation income. 
+
+4\. Status of Stock. The Employee agrees that the Restricted Shares issued under this Agreement will not be sold or otherwise disposed of in any manner which would constitute a violation of any applicable federal or state securities laws. The Employee also agrees that (a) in the event a certificate representing the Restricted Shares is issued, such certificate may bear such legend or legends as the Committee deems appropriate in order to reflect the Forfeiture Restrictions and to assure compliance with applicable securities laws, (b) the Company may refuse to register the Transfer of the Restricted Shares on the stock transfer records of the Company if such proposed Transfer would constitute a violation of the Forfeiture Restrictions or, in the opinion of counsel satisfactory to the Company, of any applicable securities law, and (c) the Company may give related instructions to its transfer agent, if any, to stop registration of the Transfer of the Restricted Shares. 
+
+5 
+
+5 
+
+* * *
+
+##### 
+
+5\. Employment Relationship. For purposes of this Agreement, the Employee shall be considered to be in the employment of the Company as long as the Employee remains an employee of either the Company or an Affiliate (as such term is defined in the Plan). Nothing in the adoption of the Plan or the award of the Restricted Shares thereunder pursuant to this Agreement shall confer upon the Employee the right to continued employment by the Company or affect in any way the right of the Company to terminate such employment at any time. Unless otherwise provided in a written employment agreement or by applicable law, the Employee’s employment by the Company shall be on an at-will basis, and the employment relationship may be terminated at any time by either the Employee or the Company for any reason whatsoever, with or without cause. Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee, and its determination shall be final. 
+
+6\. Notices. Any notices or other communications provided for in this Agreement shall be sufficient if in writing. In the case of the Employee, such notices or communications shall be effectively delivered when hand delivered to the Employee at his or her principal place of employment or when sent by registered or certified mail to the Employee at the last address the Employee has filed with the Company. In the case of the Company, such notices or communications shall be effectively delivered when sent by registered or certified mail to the Company at its principal executive offices. 
+
+7\. Entire Agreement; Amendment. This Agreement replaces and merges all previous agreements and discussions relating to the same or similar subject matters between the Employee and the Company and constitutes the entire agreement between the Employee and the Company with respect to the subject matter of this Agreement. This Agreement may not be modified in any respect by any verbal statement, representation or agreement made by any employee, officer, or representative of the Company or by any written agreement unless signed by an officer of the Company who is expressly authorized by the Company to execute such document. 
+
+8\. Binding Effect. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under the Employee. 
+
+9\. Miscellaneous. In the event of any conflict or inconsistency between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall be controlling. In the event of any conflict or inconsistency between the terms of this Agreement and the terms of the Dynegy Inc. Executive Severance Pay Plan, including any amendments or supplements thereto, or the Dynegy Inc. Severance Pay Plan, including any amendments or supplements thereto, the terms of this Agreement shall be controlling. 
+
+[Remainder of page intentionally left blank]
+
+6 
+
+6 
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be duly executed by an officer thereunto duly authorized, and the Employee has agreed to and accepted the terms of this Agreement*, all as of the date first above written. 
+
+DYNEGY INC.   
+![-s- J. Kevin Blodgett](c73185c731851.jpg)   
+By: 
+
+Name: J. Kevin Blodgett 
+
+Title: General Counsel & EVP, Administration 
+
+Accepted By: 
+
+  
+Jason Hochberg Date 
+
+7 
+
+7 

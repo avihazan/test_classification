@@ -1,0 +1,128 @@
+##### 
+
+Exhibit 10.23(B) 
+
+YAHOO! INC.  
+1995 STOCK PLAN  
+(AS AMENDED AND RESTATED JUNE 12, 2007)  
+
+
+THIS RESTRICTED STOCK AWARD AGREEMENT, (the “Agreement”), dated as of ___, 2007 (the “Date of Grant”), is made by and between Yahoo! Inc., a Delaware corporation (the “Company”), and ___(the “Grantee”). 
+
+WHEREAS, the Company has adopted the Yahoo! Inc. 1995 Stock Plan, as amended (the “Plan”), pursuant to which the Company may grant Restricted Stock; 
+
+WHEREAS, the Company desires to grant to the Grantee the number of shares of Restricted Stock provided for herein; 
+
+NOW, THEREFORE, in consideration of the recitals and the mutual agreements herein contained, the parties hereto agree as follows: 
+
+Section 1. Grant of Restricted Stock Award
+
+(a) Grant of Restricted Stock. The Company hereby grants to the Grantee ___shares of Restricted Stock (the “Award”) on the terms and conditions set forth in this Agreement and as otherwise provided in the Plan. 
+
+(b) Incorporation of Plan; Capitalized Terms. The provisions of the Plan are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement shall be construed in accordance with the provisions of the Plan and any capitalized terms not otherwise defined in this Agreement shall have the definitions set forth in the Plan. The Administrator shall have final authority to interpret and construe the Plan and this Agreement and to make any and all determinations thereunder, and its decision shall be binding and conclusive upon the Grantee and his/her legal representative in respect of any questions arising under the Plan or this Agreement. 
+
+Section 2. Terms and Conditions of Award
+
+The grant of Restricted Stock provided in Section 1(a) shall be subject to the following terms, conditions and restrictions: 
+
+(a) Ownership of Shares. Subject to the restrictions set forth in the Plan and this Agreement, the Grantee shall possess all incidents of ownership of the Restricted Stock granted hereunder, including the right to receive or reinvest dividends with respect to such Restricted Stock and the right to vote such Restricted Stock. 
+
+(b) Restrictions. Restricted Stock and any interest therein, may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of, except by will or the laws of 
+
+* * *
+
+##### 
+
+descent and distribution, during the Restricted Period. Any attempt to dispose of any Restricted Stock in contravention of the above restriction shall be null and void and without effect. 
+
+(c) Certificate; Book Entry Form; Legend. The Company shall issue the shares of Restricted Stock either (i) in certificate form or (ii) in book entry form, registered in the name of the Grantee, with legends, or notations, as applicable, referring to the terms, conditions and restrictions applicable to the Award. Grantee agrees that any certificate issued for Restricted Stock prior to the lapse of any outstanding restrictions relating thereto shall be inscribed with the following legend: 
+
+This certificate and the shares of stock represented hereby are subject to the terms and conditions, including forfeiture provisions and restrictions against transfer (the “Restrictions”), contained in the Yahoo! Inc. 1995 Stock Plan, as amended, and an agreement entered into between the registered owner and the Company. Any attempt to dispose of these shares in contravention of the Restrictions, including by way of sale, assignment, transfer, pledge, hypothecation or otherwise, shall be null and void and without effect. 
+
+(d) Lapse of Restrictions. [Vesting provisions to be determined at the time of grant.] 
+
+Upon the lapse of restrictions relating to any shares of Restricted Stock, the Company shall, as applicable, either remove the notations on any such shares of Restricted Stock issued in book-entry form or deliver to the Grantee or the Grantee’s personal representative a stock certificate representing a number of shares of Common Stock, free of the restrictive legend described in Section 2(c), equal to the number of shares of Restricted Stock with respect to which such restrictions have lapsed. If certificates representing such Restricted Stock shall have theretofore been delivered to the Grantee, such certificates shall be returned to the Company, complete with any necessary signatures or instruments of transfer prior to the issuance by the Company of such unlegended shares of Common Stock. 
+
+(e) Termination of Employment. Notwithstanding Section 2(b), in the event of the termination of Grantee’s employment or service with the Company, Parent or any Subsidiary for any reason prior to the lapsing of restrictions in accordance with Section 2(d) with respect to any portion of the Restricted Stock granted hereunder, such portion of the Restricted Stock held by the Grantee shall be automatically forfeited by the Grantee as of the date of termination. 
+
+Shares of Restricted Stock forfeited pursuant to this Section 2(e) shall be transferred to, and reacquired by, the Company without payment of any consideration by the Company, and neither the Grantee nor any of the Grantee’s successors, heirs, assigns or personal representatives shall thereafter have any further rights or interests in such shares. If certificates for any such shares containing restrictive legends shall have theretofore been delivered to the Grantee (or his/her legatees or personal representative), such certificates shall be returned to the Company, complete with any necessary signatures or instruments of transfer. 
+
+(f) Corporate Transactions. The following provisions shall apply to the corporate transactions described below: 
+
+2
+
+* * *
+
+##### 
+
+(i) In the event of a proposed dissolution or liquidation of the Company, the Award will terminate and be forfeited immediately prior to the consummation of such proposed transaction, unless otherwise provided by the Administrator. 
+
+(ii) In the event of a proposed sale of all or substantially all of the assets of the Company, or the merger of the Company with or into another corporation, the Award shall be assumed or substituted with an equivalent award by such successor corporation, parent or subsidiary of such successor corporation; provided that the Administrator may determine, in the exercise of its sole discretion, that in lieu of such assumption or substitution, the Award shall be vested and non-forfeitable and any conditions or restrictions on the Award shall lapse, as to all or any part of the Award, including Shares as to which the Award would not otherwise be non-forfeitable. 
+
+(g) Income Taxes. The Grantee shall pay to the Company promptly upon request, and in any event at the time the Grantee recognizes taxable income in respect of the Restricted Stock (whether in connection with the grant or vesting of the Restricted Stock, the making of an election under Section 83(b) of the Code in connection with the grant of the Restricted Stock as described in Section 2(h) below, or otherwise), an amount equal to the taxes the Company determines it is required to withhold under applicable tax laws with respect to the Restricted Stock. Such payment may be made by any of, or a combination of, the following methods: (i) cash or check; (ii) out of the Grantee’s current compensation; (iii) if permitted by the Administrator in its discretion, surrender of other shares of Common Stock of the Company which (a) in the case of shares initially acquired from the Company (upon exercise of a stock option or otherwise), have been owned by the Grantee for such period (if any) as may be required to avoid a charge to the Company’s earnings, and (b) have a Fair Market Value on the date of surrender equal to the amount required to be withheld; or (iv) if permitted by the Administrator in its discretion, by electing to have the Company withhold or otherwise reacquire from the Grantee Shares of Restricted Stock that vest pursuant to the terms hereof having a Fair Market Value equal to the minimum statutory amount required to be withheld in connection with the vesting of such Shares. For these purposes, the Fair Market Value of the Shares to be withheld or repurchased, as applicable, shall be determined on the date that the amount of tax to be withheld is to be determined (the “Tax Date”). 
+
+All elections by the Grantee to have Shares withheld or repurchased to satisfy tax withholding obligations shall be made in writing in a form acceptable to the Administrator and shall be subject to the following restrictions: 
+
+(i) the election must be made on or prior to the applicable Tax Date; 
+
+(ii) once made, the election shall be irrevocable as to the particular Shares as to which the election is made; 
+
+(iii) all elections shall be subject to the consent or disapproval of the Administrator; and 
+
+(iv) if the Grantee is subject to Section 16 of the Exchange Act, the election must comply with the applicable provisions of Rule 16b-3 promulgated under the Exchange 
+
+3
+
+* * *
+
+##### 
+
+Act and shall be subject to such additional conditions or restrictions as may be required thereunder to qualify for the maximum exemption from Section 16 of the Exchange Act with respect to Plan transactions. 
+
+(h) Section 83(b) Election. The Grantee hereby acknowledges that he or she may file an election pursuant to Section 83(b) of the Code to be taxed currently on the fair market value of the shares of Restricted Stock (less any purchase price paid for the shares), provided that such election must be filed with the Internal Revenue Service no later than thirty (30) days after the grant of such Restricted Stock. The Grantee will seek the advice of his or her own tax advisors as to the advisability of making such a Section 83(b) election, the potential consequences of making such an election, the requirements for making such an election, and the other tax consequences of the Restricted Stock award under federal, state, and any other laws that may be applicable. The Company and its affiliates and agents have not and are not providing any tax advice to the Grantee. 
+
+Section 3. Miscellaneous
+
+(a) Notices. Any and all notices, designations, consents, offers, acceptances and any other communications provided for herein shall be given in writing and shall be delivered either personally or by registered or certified mail, postage prepaid, which shall be addressed, in the case of the Company to both the Chief Financial Officer and the General Counsel of the Company at the principal office of the Company and, in the case of the Grantee, to the Grantee’s address appearing on the books of the Company or to the Grantee’s residence or to such other address as may be designated in writing by the Grantee. 
+
+(b) No Right to Continued Employment. Nothing in the Plan or in this Agreement shall confer upon the Grantee any right to continue in the employ of the Company, a Parent or any Subsidiary or shall interfere with or restrict in any way the right of the Company, Parent or any Subsidiary, which is hereby expressly reserved, to remove, terminate or discharge the Grantee at any time for any reason whatsoever, with or without Cause and with or without advance notice. 
+
+(c) Bound by Plan. By signing this Agreement, the Grantee acknowledges that he/she has received a copy of the Plan and has had an opportunity to review the Plan and agrees to be bound by all the terms and provisions of the Plan. 
+
+(d) Successors. The terms of this Agreement shall be binding upon and inure to the benefit of the Company, its successors and assigns, and of the Grantee and the beneficiaries, executors, administrators, heirs and successors of the Grantee. 
+
+(e) Invalid Provision. The invalidity or unenforceability of any particular provision thereof shall not affect the other provisions hereof, and this Agreement shall be construed in all respects as if such invalid or unenforceable provision had been omitted. 
+
+(f) Modifications. No change, modification or waiver of any provision of this Agreement shall be valid unless the same is in writing and signed by the parties hereto. 
+
+4
+
+* * *
+
+##### 
+
+(g) Entire Agreement. This Agreement and the Plan contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and therein and supersede all prior communications, representations and negotiations in respect thereto. 
+
+(h) Governing Law. This Agreement and the rights of the Grantee hereunder shall be construed and determined in accordance with the laws of the State of Delaware. 
+
+(i) Headings. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement. 
+
+(j) Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto as of the ___day of ___, 2007.   
+  
+YAHOO! INC.  
+  
+By:  
+  
+Its:  
+  
+[Insert Name]  
+  
+Signature:  
+  
+Printed Name:  
+  
+Address:  
+  
+5

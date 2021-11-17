@@ -1,0 +1,155 @@
+Exhibit 10.3
+
+  
+
+
+FORUM ENERGY TECHNOLOGIES, INC.
+
+2010 STOCK INCENTIVE PLAN
+
+  
+
+
+
+
+This Restricted Stock Unit Agreement (this “Agreement”) is made as of the ___ day of ___________, 2013 (the “Date of Grant”), between Forum Energy Technologies, Inc., a Delaware corporation (the “Company”), and _________________ (the “Employee”). 
+
+1.Award. Pursuant to the Forum Energy Technologies, Inc. 2010 Stock Incentive Plan (the “Plan”), the Employee is hereby awarded __________ units (the “RSUs”) evidencing the right to receive an equivalent number of shares of the Company’s common stock, par value $.01 per share (the “Common Stock”), subject to certain restrictions thereon. The Employee acknowledges receipt of a copy of the Plan, and agrees that this award of RSUs shall be subject to all of the terms and provisions of the Plan, including future amendments thereto, if any, pursuant to the terms thereof. Capitalized terms used in this Agreement that are not defined herein shall have the meanings given to them in the Plan. 
+
+2. Forfeiture Restrictions and Assignment.
+
+(a) Restrictions. The RSUs may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or disposed of, and except as otherwise provided in Section 3, in the event of the Employee’s termination of employment for any reason whatsoever, the Employee shall, for no consideration, forfeit all unvested RSUs. The obligation to forfeit unvested RSUs upon termination of employment as provided in the preceding sentence is herein referred to as the “Forfeiture Restrictions.” 
+
+(b) Lapse of Forfeiture Restrictions. Provided that the Employee has been continuously employed by the Company or any of its Affiliates (collectively, the “Company Group”) from the Date of Grant through the lapse date set forth in the following schedule, the Forfeiture Restrictions shall lapse and the RSUs shall otherwise become vested with respect to a percentage of the RSUs determined in accordance with the following schedule:  
+  
+Vesting Date
+
+Additional Percentage of Total Number of RSUs Vesting on Vesting Date  
+  
+First Anniversary of Date of Grant
+
+25%  
+  
+Second Anniversary of Date of Grant
+
+25%  
+  
+Third Anniversary of Date of Grant
+
+25%  
+  
+Fourth Anniversary of Date of Grant
+
+25%  
+  
+Notwithstanding the foregoing, if a Change in Control occurs and the Employee has remained continuously employed by a member of the Group Company from the Date of Grant to the date upon which such Change in Control occurs, then the Forfeiture Restrictions shall lapse with respect to 100% of the RSUs on the date upon which such Change in Control occurs and the shares of Common Stock in respect of the vested RSUs shall be issued to the Employee thirty (30) days after 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+the effective date of the Change in Control. Except as otherwise provided in Section 3, any RSUs with respect to which the Forfeiture Restrictions do not lapse in accordance with the preceding provisions of this Section 2(b) shall be forfeited to the Company for no consideration as of the date of the termination of the Employee’s employment with the Company.
+
+3. Termination of Employment. 
+
+(a) Death or Disability. If the Employee’s employment with the Company Group is terminated by reason of death or the Employee becomes Disabled (as defined below), to the extent not previously vested pursuant to Section 2(a) above, each quarter of the RSUs described in Section 2(a) that are unvested as of the date of the Employee’s death or Disability, as applicable, shall become vested in a pro rata amount determined by a fraction with respect to each unvested quarter of the RSUs, the numerator of which shall be the number of months (not including any partial months) that have elapsed for the period beginning on the Date of Grant and ending on the date of the Employee’s death or Disability, as applicable, and the denominator of which shall be the number of months for the period beginning on the Date of Grant and ending on the corresponding anniversary of the date on which each such unvested quarter of the RSUs would have vested pursuant to Section 2(a). Any remaining unvested RSUs shall be forfeited. The shares of Common Stock in respect of the vested RSUs shall be issued to the Employee thirty (30) days after the Employee’s death or Disability, as applicable. For purposes of this Section 3(a), an Employee shall become “Disabled” or have a “Disability” on the date that the Employee becomes eligible for long-term disability benefits pursuant to the Company’s long-term disability plan.
+
+(b) Retirement. If the Employee’s employment with the Company Group is terminated by reason of Retirement (as defined below), to the extent not previously vested pursuant to Section 2(a) above, each quarter of the RSUs described in Section 2(a) that are unvested as of the date of the Employee’s Retirement shall become vested in a pro rata amount determined by a fraction with respect to each unvested quarter of the RSUs, the numerator of which shall be the number of months (not including any partial months) that have elapsed for the period beginning on the Date of Grant and ending on the date of the Employee’s Retirement, and the denominator of which shall be the number of months for the period beginning on the Date of Grant and ending on the corresponding anniversary of the date on which each such unvested quarter of the RSUs would have vested pursuant to Section 2(a). The shares of Common Stock in respect of the vested RSUs shall be issued to the Employee thirty (30) days after the date of the Employee’s Retirement. For purposes of this Section 3(b), “Retirement” shall mean termination of the Employee’s service relationship with all members of the Company Group which is specifically determined by the Committee to constitute Retirement.
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+4. Settlement and Delivery of Stock. Except as otherwise provided in Section 2(b) or 3, settlement of RSUs shall be made no later than 15 days after the lapse of Forfeiture Restrictions. Settlement will be made by issuance of shares of Common Stock. Notwithstanding the foregoing, the Company shall not be obligated to issue any shares of Common Stock if counsel to the Company determines that such sale or delivery would violate any applicable law or any rule or regulation of any governmental authority or any rule or regulation of, or agreement of the Company with, any securities exchange or association upon which the Common Stock is listed or quoted. The Company shall in no event be obligated to take any affirmative action in order to cause the issuance of shares of Common Stock to comply with any such law, rule, regulation or agreement.
+
+5. Shareholder Rights. The Employee shall have no rights to dividends or other rights of a shareholder with respect to shares of Common Stock subject to this award of RSUs unless and until such time as the award has been settled by the issuance of shares of Common Stock to the Employee. The Employee shall have the right to receive a cash dividend equivalent payment with respect to the RSUs for the period beginning on the Date of Grant and ending on the date the shares of Common Stock are issued to the Employee in settlement of the RSUs, which shall be payable at the same time as cash dividends on Common Stock are paid to Company stockholders.
+
+6. Corporate Acts. The existence of the RSUs shall not affect in any way the right or power of the Board or the stockholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, any merger or consolidation of the Company, any issue of debt or equity securities, the dissolution or liquidation of the Company or any sale, lease, exchange or other disposition of all or any part of its assets or business or any other corporate act or proceeding. The prohibitions of Section 2(a) hereof shall not apply to the transfer of RSUs pursuant to a plan of reorganization of the Company, but the stock, securities or other property received in exchange therefor shall also become subject to the Forfeiture Restrictions. 
+
+7. Withholding of Tax. To the extent that the settlement of RSUs results in compensation income or wages to the Employee for federal, state, local or foreign tax purposes, the Company shall withhold an appropriate number of shares of Common Stock, having a Fair Market Value determined in accordance with the Plan, equal to the amount necessary to satisfy the minimum federal, state, local and foreign tax withholding obligation with respect to the settled RSUs. The issuance of shares of Common Stock described in Section 4 will be net of such shares of Common Stock that are withheld to satisfy applicable taxes pursuant to this Section 7. In lieu of withholding of shares of Common Stock, the Committee may, in its discretion, authorize tax withholding to be satisfied by a cash payment to the Company, by withholding an appropriate amount of cash from base pay, or by such other method as the Committee determines may be appropriate to satisfy all obligations for withholding of such taxes. The Employee acknowledges and agrees that the Company is making no representation or warranty as to the tax consequences to the Employee as a result of the receipt of the RSUs, the lapse of any Forfeiture Restrictions or the issuance of shares of Common Stock pursuant thereto, or the forfeiture of any RSUs pursuant to the Forfeiture Restrictions. 
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+8. Employment Relationship. For purposes of this Agreement, the Employee shall be considered to be in the employment of the Company as long as the Employee remains an employee of the Company Group. Without limiting the scope of the preceding sentence, it is specifically provided that the Employee shall be considered to have terminated employment with the Company Group at the time of the termination of the “Affiliate” status of the entity or other organization that employs the Employee. Nothing in the adoption of the Plan, nor the award of the RSUs thereunder pursuant to this Agreement, shall confer upon the Employee the right to continued employment by the Company Group or affect in any way the right of the Company Group to terminate such employment at any time. Unless otherwise provided in a written employment agreement or by applicable law, the Employee’s employment by the Company shall be on an at-will basis, and the employment relationship may be terminated at any time by either the Employee or the Company Group for any reason whatsoever, with or without cause or notice. Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee or its delegate, and its determination shall be final. 
+
+9. Section 409A. The award of RSUs is intended to be (i) exempt from Section 409A of the Code (“Section 409A”) including, but not limited to, by reason of compliance with the short-term deferral exemption as specified in Treas. Reg. § 1.409A-1(b)(4); or (ii) in compliance with Section 409A, and the provisions of this Agreement shall be administered, interpreted and construed accordingly. If the Employee is identified by the Company as a “specified employee” within the meaning of Section 409A(a)(2)(B)(i) of the Code on the date on which the Employee has a “separation from service” (other than due to death) within the meaning of Section 1.409A-1(h) of the Treasury Regulations, notwithstanding the provisions of Sections 2 or 3 hereof, any transfer of shares payable on account of a separation from service that are deferred compensation shall take place on the earlier of (i) the first business day following the expiration of six months from the Employee’s separation from service or (ii) such earlier date as complies with the requirements of Section 409A. To the extent required to comply with Section 409A, (i) the Employee shall be considered to have terminated employment with the Company Group when the Employee incurs a “separation from service” with a member of the Company Group within the meaning of Section 409A(a)(2)(A)(i) of the Code, and (ii) to the extent the settlement of the RSUs constitutes non-exempt “deferred compensation” for purposes of Section 409A by reason of the occurrence of a Change in Control, such amount would not be payable or distributable to the Employee unless the circumstances giving rise to such Change in Control meets any description or definition of “change in control event” in Section 409A and applicable regulations. The Company makes no commitment or guarantee to the Employee that any federal or state tax treatment shall apply or be available to any person eligible for benefits under this Agreement. 
+
+10. Binding Effect; Survival. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under the Employee. 
+
+11. Amendment. Any modification of this Agreement shall be effective only if it is in writing and signed by both the Employee and an authorized officer of the Company. 
+
+12. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to conflicts of law principles thereof. 
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be duly executed by an officer thereunto duly authorized, and the Employee has executed this Agreement, all as of the date first above written. 
+
+FORUM ENERGY TECHNOLOGIES, INC.
+
+  
+
+
+By:_____________________________________
+
+Name:___________________________________ 
+
+Title:_____________________________________
+
+  
+
+
+  
+
+
+  
+
+
+EMPLOYEE
+
+__________________________________________
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+5

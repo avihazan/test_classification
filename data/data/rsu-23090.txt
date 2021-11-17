@@ -1,0 +1,96 @@
+Exhibit 10.2(b)
+
+
+UNDER THE  
+2005 DIRECTORS STOCK PLAN  
+(May 8, 2009 Grants to the Seven Continuing Directors)
+
+This RESTRICTED STOCK AGREEMENT (this “Agreement”) is made as of May 8, 2009, by and between CenturyTel, Inc. (“CenturyTel”) and «Director_Name» (“Award Recipient”).
+
+WHEREAS, CenturyTel maintains the 2005 Directors Stock Plan (the “Plan”), under which the Compensation Committee (the “Committee”) of the Board of Directors of CenturyTel (the “Board”), may, among other things, grant restricted shares of CenturyTel’s common stock, $1.00 par value per share (the “Common Stock”), to outside directors of CenturyTel, subject to such terms, conditions, or restrictions as it may deem appropriate; and
+
+WHEREAS, pursuant to the Plan the Committee has awarded to the Award Recipient restricted shares of Common Stock on the terms and conditions specified below;
+
+NOW, THEREFORE, the parties agree as follows:
+
+1\. AWARD OF SHARES
+
+Upon the terms and conditions of the Plan and this Agreement, the Committee as of the date of this Agreement hereby awards to the Award Recipient 3,676 restricted shares of Common Stock (the “Restricted Stock”) that vest, subject to Sections 2, 3 and 4 hereof, in installments as follows:
+
+Scheduled Vesting Date
+
+Number of Shares of Restricted Stock  
+  
+May 15, 2010
+
+1,225  
+  
+May 15, 2011
+
+1,225  
+  
+May 15, 2012
+
+1,226  
+  
+2\. AWARD RESTRICTIONS
+
+Section 2.1 In addition to the conditions and restrictions provided in the Plan, neither the shares of Restricted Stock nor the right to vote the Restricted Stock, to receive dividends thereon or to enjoy any other rights or interests thereunder or hereunder may be sold, assigned, donated, transferred, exchanged, pledged, hypothecated or otherwise encumbered prior to vesting. Subject to the restrictions on transfer provided in this Section 2.1, the Award Recipient shall be entitled to all rights of a shareholder of CenturyTel with respect to the Restricted Stock, including the right to vote the shares and receive all dividends and other distributions declared thereon.
+
+Section 2.2 To the extent the shares of Restricted Stock have not already vested in accordance with Section 1 above, all of the shares of Restricted Stock shall vest and all restrictions set forth in Section 2.1 shall lapse on the earlier of:
+
+(a) the date on which the Award Recipient’s service on the Board terminates as a result of (i) death, (ii) disability within the meaning of Section 22(e)(3) of the Internal Revenue Code or (iii) the ineligibility to stand for re-election due to CenturyTel’s mandatory retirement policy;
+
+(b) the date, if any, that the Committee elects, in its sole discretion, to accelerate the vesting of such unvested Restricted Stock in the case of retirement from the Board of an Award Recipient on or after attaining the age of 55 with at least six full years of prior service on the Board; or
+
+(c) the occurrence of a Change of Control of CenturyTel, as described in Section 11.12 of the Plan; provided, however, that, notwithstanding anything in this Agreement and the Plan to the contrary, (i) neither the execution, delivery, approval or performance of the Merger Agreement dated as of October 26, 2008, among Embarq Corporation, CenturyTel and Cajun Acquisition Company (the “Merger Agreement”), nor the consummation of the merger of Cajun Acquisition Company into Embarq Corporation (the “Merger”) or any other transaction contemplated thereunder, shall be deemed to constitute a Change of Control of CenturyTel and (ii) the shares of Restricted Stock will not vest solely as a result of the consummation of the Merger or any other transaction contemplated by the Merger Agreement (including as a result of the execution of the Merger Agreement or the approval of the Merger Agreement by the Board of Directors of CenturyTel).
+
+3\. TERMINATION OF BOARD SERVICE
+
+Except as otherwise provided in Section 2.2 above, termination of the Award Recipient’s service on the Board for any reason shall automatically result in the termination and forfeiture of all unvested Restricted Stock.
+
+4\. FORFEITURE OF AWARD
+
+Section 4.1 If, at any time during the Award Recipient’s tenure as a director of the Company or within 18 months after termination of such tenure, the Award Recipient engages in any activity in competition with any activity of CenturyTel or its subsidiaries (collectively, the “Company”), or inimical, contrary or harmful to the interests of the Company, including but not limited to: (a) conduct relating to the Award Recipient’s service on the Board for which either criminal or civil penalties against the Award Recipient may be sought, (b) conduct or activity that results in removal of the Award Recipient from the Board for cause, (c) violation of the Company’s policies, including, without limitation, the Company’s insider trading policy or corporate compliance program, (d) accepting employment after the date hereof with, acquiring a 5% or more equity or participation interest in, serving as a consultant, advisor, director or agent of, directly or indirectly soliciting or recruiting any officer of the Company who was employed at any time during the Award Recipient’s service on the Board, or otherwise assisting in any other capacity or manner any company or enterprise that is directly or indirectly in competition with or acting against the interests of the Company or any of its lines of business (a “competitor”), except for (A) any employment, investment, service, assistance or other activity that is undertaken at the request or with the written permission of the CenturyTel Board of Directors or (B) any assistance of a competitor that is provided in the ordinary course of the Award Recipient engaging in his or her principal occupation in the good faith and reasonable belief that such assistance will neither harm the Company’s interests in any substantial manner or violate any of the Award Recipient’s duties or responsibilities under the Company’s policies or applicable law, (e) disclosing or misusing any confidential information or material concerning the Company, (f) engaging in, promoting, assisting or otherwise participating in a hostile takeover attempt of the Company or any other transaction or proxy contest that could reasonably be expected to result in a Change of Control (as defined in the Plan) not approved by the CenturyTel Board of Directors or (g) making any statement or disclosing any information to any customers, suppliers, lessors, lessees, licensors, licensees, regulators, employees or others with whom the Company engages in business that is defamatory or derogatory with respect to the business, operations, technology, management, or other employees of the Company, or taking any other action that could reasonably be expected to injure the Company in its business relationships with any of the foregoing parties or result in any other detrimental effect on the Company, then (i) all unvested shares of Restricted Stock granted hereunder shall automatically terminate and be forfeited effective on the date on which the Award Recipient first engages in such activity and (ii) all shares of Common Stock acquired by the Award Recipient upon vesting of the Restricted Stock hereunder after the date that precedes by one year the date on which the Award Recipient’s tenure as a director of the Company terminated or the date the Award Recipient first engaged in such activity if no such termination occurs (or other securities into which such shares have been converted or exchanged) shall be returned to the Company or, if no longer held by the Award Recipient, the Award Recipient shall return to the Company, without interest, all cash, securities or other assets received by the Award Recipient upon the sale or transfer of such stock or securities.
+
+Section 4.2 If the Award Recipient owes any amount to the Company under Section 4.1 above, the Award Recipient acknowledges that the Company may, to the fullest extent permitted by applicable law, deduct such amount from any amounts the Company owes the Award Recipient from time to time for any reason (including without limitation amounts owed to the Award Recipient as directors fees, reimbursements, retirement payments, or other compensation or benefits). Whether or not the Company elects to make any such set-off in whole or in part, if the Company does not recover by means of set-off the full amount the Award Recipient owes it, the Award Recipient hereby agrees to pay immediately the unpaid balance to the Company.
+
+Section 4.3 The Award Recipient may be released from the Award Recipient’s obligations under Sections 4.1 and 4.2 above only if the CenturyTel Board of Directors determines in its sole discretion that such action is in the best interests of the Company.
+
+5\. STOCK CERTIFICATES
+
+Section 5.1 No stock certificate evidencing the Restricted Stock shall be issued by CenturyTel until the lapse of restrictions under the terms hereof. Upon the lapse of restrictions on shares of Restricted Stock, CenturyTel may, in its discretion, issue the vested shares of Restricted Stock (either through book-entry issuances or delivery of a stock certificate) in the name of the Award Recipient or his or her nominee within 30 days, subject to the other terms and conditions hereof. Upon the lapse of such restrictions, the Award Recipient is free to hold or dispose of the newly-issued shares, subject to (i) applicable securities laws, (ii) CenturyTel’s insider trading policy and (iii) any applicable stock retention policies that CenturyTel may adopt in the future.
+
+6\. MISCELLANEOUS
+
+Section 6.1 Anything in this Agreement to the contrary notwithstanding, if, at any time prior to the vesting of the Restricted Stock in accordance with Section 1 or 2 hereof, CenturyTel further determines, in its sole discretion, that the listing, registration or qualification (or any updating of any such document) of the shares of Common Stock issuable pursuant hereto is necessary on any securities exchange or under any federal or state securities or blue sky law, or that the consent or approval of any governmental regulatory body is necessary or desirable as a condition of, or in connection with the issuance of shares of Common Stock pursuant thereto, or the removal of any restrictions imposed on such shares, such shares of Common Stock shall not be issued, in whole or in part, or the restrictions thereon removed, unless such listing, registration, qualification, consent or approval shall have been effected or obtained free of any conditions unacceptable to CenturyTel. CenturyTel agrees to use commercially reasonable efforts to issue all shares of Common Stock issuable hereunder on the terms provided herein.
+
+Section 6.2 Nothing in this Agreement shall confer upon the Award Recipient any right to continue to serve on the Board, or to interfere in any way with the right of the Company to remove the Award Recipient as a director at any time.
+
+Section 6.3 Upon being duly executed and delivered by CenturyTel and the Award Recipient, this Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrators, legal representatives and successors. Without limiting the generality of the foregoing, whenever the term “Award Recipient” is used in any provision of this Agreement under circumstances where the provision appropriately applies to the heirs, executors, administrators or legal representatives to whom this award may be transferred by will or by the laws of descent and distribution, the term “Award Recipient” shall be deemed to include such person or persons.
+
+Section 6.4 The shares of Restricted Stock granted hereby are subject to the terms, conditions, restrictions and other provisions of the Plan as fully as if all such provisions were set forth in their entirety in this Agreement. If any provision of this Agreement conflicts with a provision of the Plan, the Plan provision shall control, except that the provisions of Section 2.2(c) shall prevail over any contrary provisions in the Plan. The Award Recipient acknowledges receipt from CenturyTel of a copy of the Plan and a prospectus summarizing the Plan, and further acknowledges that the Award Recipient was advised to review such materials prior to entering into this Agreement. The Award Recipient waives the right to claim that the provisions of the Plan are not binding upon the Award Recipient and the Award Recipient’s heirs, executors, administrators, legal representatives and successors.
+
+Section 6.5 Should any party hereto retain counsel for the purpose of enforcing, or preventing the breach of, any provision hereof, including, but not limited to, the institution of any action or proceeding in court to enforce any provision hereof, to enjoin a breach of any provision of this Agreement, to obtain specific performance of any provision of this Agreement, to obtain monetary or liquidated damages for failure to perform any provision of this Agreement, or for a declaration of such parties’ rights or obligations hereunder, or for any other judicial remedy, then the prevailing party shall be entitled to be reimbursed by the losing party for all costs and expenses incurred thereby, including, but not limited to, attorneys’ fees (including costs of appeal).
+
+Section 6.6 This Agreement shall be governed by and construed in accordance with the laws of the State of Louisiana.
+
+Section 6.7 If any term or provision of this Agreement, or the application thereof to any person or circumstance, shall at any time or to any extent be invalid, illegal or unenforceable in any respect as written, the Award Recipient and CenturyTel intend for any court construing this Agreement to modify or limit such provision so as to render it valid and enforceable to the fullest extent allowed by law. Any such provision that is not susceptible of such reformation shall be ignored so as to not affect any other term or provision hereof, and the remainder of this Agreement, or the application of such term or provision to persons or circumstances other than those as to which it is held invalid, illegal or unenforceable, shall not be affected thereby and each term and provision of this Agreement shall be valid and enforced to the fullest extent permitted by law.
+
+Section 6.8 The Plan and this Agreement contain the entire agreement between the parties with respect to the subject matter contained herein and may not be modified, except as provided in the Plan, as it may be amended from time to time in the manner provided therein, or in this Agreement, as it may be amended from time to time by a written document signed by each of the parties hereto. Any oral or written agreements, representations, warranties, written inducements, or other communications with respect to the subject matter contained herein made prior to the execution of the Agreement shall be void and ineffective for all purposes.
+
+IN WITNESS WHEREOF, the parties hereto have caused this Restricted Stock Agreement to be duly executed and delivered on the day and year first above written.
+
+CenturyTel, Inc.  
+  
+By:   
+  
+Glen F. Post, III  
+  
+Chairman of the Board and  
+  
+Chief Executive Officer  
+  
+«Director Name»  
+  
+Award Recipient

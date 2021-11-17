@@ -1,0 +1,238 @@
+Exhibit 10.4 
+
+WYETH 
+
+
+
+UNDER THE WYETH 2005 AMENDED 
+
+AND RESTATED STOCK INCENTIVE PLAN   
+  
+DATE OF GRANT 
+
+NUMBER OF SHARES SUBJECT 
+
+TO TARGET AWARD: [####]  
+  
+Name 
+
+Address 1 
+
+Address 2 
+
+The Company hereby awards you a performance share award consisting of stock units (the “Units”) representing Restricted Stock in the amount set forth above (the “Target Award”). The Units are subject to the terms and restrictions set forth in the Plan and this Agreement. Each Unit corresponds to one share of Restricted Stock. Upon the full or partial satisfaction by the Company of certain performance criteria described in Paragraph 3, the Units shall be converted into shares of Restricted Stock on the terms and conditions set forth herein. Capitalized words not otherwise defined in the text of this Agreement or in Paragraph 8 shall have the same meanings as in the Plan. 
+
+By signing this Agreement (or otherwise acknowledging, as instructed, your agreement thereto), you acknowledge and agree that: 
+
+•
+
+You have received a copy of the Plan.   
+  
+•
+
+You have read and understand the terms of the Plan and this Agreement.   
+  
+•
+
+You understand and agree that the Committee has the right to reduce, without your consent, through the exercise of Negative Discretion, the amount of the award earned by you hereunder, and it is anticipated that the Committee will exercise such Negative Discretion with respect to the amount of such final award.   
+  
+•
+
+The Committee has the right, without your consent, to amend or modify the terms of this Agreement, to the extent necessary to avoid adverse or unintended tax consequences to you under Section 409A. Such amendments or modifications may limit or eliminate certain rights otherwise available to you under the Plan and/or this Agreement.   
+  
+1\. No Stockholder Rights Until Issuance of Shares. No shares of Common Stock underlying the Units will be earmarked for you or your account, and you will not have any of the rights of a stockholder with respect to such shares until such time as the Restricted Stock is first issued to you in accordance with the terms of this Agreement. 
+
+* * *
+
+2\. No Transfer of Units. You may not sell, transfer, assign, pledge or otherwise encumber or dispose of the Units granted hereunder. 
+
+3\. Conversion to Common Stock. 
+
+(a) General Rule. The Committee shall establish the EPS Target for the Performance Year and the corresponding Performance Grid within the 90-day period beginning on January 1st of the Performance Year. Subject to the Committee’s exercise of Negative Discretion, the award to you pursuant to this Agreement shall be based upon the Company’s EPS for the Performance Year and the payment amounts specified in the Performance Grid (up to a maximum of 200% of the Target Award); provided, however, that, subject to the exercise of Negative Discretion, you shall earn 25% of the Target Award if the Company has positive Consolidated Earnings for the Performance Year. At a meeting of the Committee to be held within the 90-day period following the end of the Performance Year, the Committee shall (i) certify for purposes of this Agreement the Company’s EPS, if any, for the Performance Year and determine whether the Company has achieved positive Consolidated Earnings for the Performance Year and (ii) exercise any Negative Discretion with respect to the amount earned by you hereunder. As of the Conversion Date, the percentage of Units earned by you hereunder after the exercise of Negative Discretion shall be cancelled, in exchange for such cancelled Units, subject to Paragraphs 4 and 5, 6 or 7, the number of shares of Restricted Stock equal to the number of Units so cancelled shall be issued in your name. All rights with respect to any remaining (unearned) portion of the Target Award shall be forfeited and surrendered to the Company. Notwithstanding anything in this Agreement to the contrary, upon your forfeiture, for any reason, of all rights to all, or a portion of, the Units granted hereunder, such Units shall, for all purposes of the Plan and this Agreement, be deemed terminated and without further force or effect as of the date of such forfeiture. 
+
+(b) Rounding. The number of Units settled in accordance with the calculations described in Paragraph 3(a) shall be rounded to the nearest whole number. 
+
+4\. Delivery of Restricted Stock; Withholding. 
+
+(a) Beneficial Ownership; Issuance of Shares. You shall be the beneficial owner of the shares of Restricted Stock (after application of Negative Discretion) issued to you on the Conversion Date in settlement of the Units, but the Company shall establish one or more arrangements to hold such Restricted Stock on your behalf until the end of the Additional Vesting Period. During the Additional Vesting Period, (i) you may not sell, transfer, assign, pledge or otherwise encumber or dispose of the Restricted Stock and (ii) the Restricted Stock will be subject to immediate forfeiture by you upon the occurrence of a forfeiture event described in Paragraph 7. Any Restricted Stock that remains outstanding at the end of the Additional Vesting Period shall be recorded either through book-entry form as a credit to an account maintained in your name or through the issuance of a stock certificate representing shares of Common Stock free of any restrictive legend, other than as may be required by applicable securities laws. 
+
+(b) Stockholder Rights. During the Additional Vesting Period, you shall have the right to vote the shares of Restricted Stock. In addition, during the Additional Vesting Period, any declared and paid dividends on the Restricted Stock shall be treated as notional dividend 
+
+-2- 
+
+* * *
+
+equivalents for federal tax purposes. Such notional dividend equivalents shall be paid to you quarterly in cash at the time that dividends are paid to holders of Common Stock (unless the shares of Restricted Stock are forfeited in accordance with the provisions of Paragraph 7). 
+
+(c) Amounts to Be Withheld. 
+
+(i) FICA Tax Withholding. As of the Vesting Date, you agree that the Company shall withhold on your behalf a sufficient number of shares of Restricted Stock to satisfy the (A) withholding obligation imposed on the Company with respect to Medicare and Social Security taxes due on the total number of shares of Restricted Stock earned under this Agreement and (B) the Company’s minimum federal, state, local and foreign income tax withholding obligations in respect of the income attributable to the shares issued to satisfy Medicare and Social Security taxes. 
+
+(ii) Income Tax and Administrative Fee Withholding. On the Vesting Date, you also agree that the Company shall withhold on your behalf a sufficient number of shares of Restricted Stock sufficient to satisfy (A) the minimum federal, state, local and foreign income tax withholding obligations that are imposed on the Company by applicable law in respect of the shares of Restricted Stock as of the date of issuance or the Vesting Date, as the case may be, (B) with respect to a U.S. Expatriate, the minimum federal, state and local tax withholding obligations pursuant to Paragraph 4(c)(i) and clause (A) of this Paragraph 4(c)(ii) that would have been imposed on the Company as of the Vesting Date if the Participant were not a U.S. Expatriate, and (C) the Administrative Fee determined in accordance with ANNEX A. 
+
+(iii) Fractional Amount. Notwithstanding anything in this Agreement to the contrary, to the extent the number of shares are to be retained or obtained by the Company pursuant to Paragraph 4(c)(i) and Paragraph 4(c)(ii), as the case may be, does not equal a whole number of shares, the Company shall increase the number of shares for purposes of Paragraph 4(c)(i) and Paragraph 4(c)(ii), as the case may be, to the next whole number of shares. The Fractional Amount shall be remitted by the Company to the taxing authorities on your behalf to be applied to federal, state, local and foreign withholding obligations imposed on the Company with respect to compensation paid to you during the calendar year in which the Vesting Date occurs. 
+
+(iv) Valuation. The value of the shares referred to in this Paragraph 4(c) shall be determined, for purposes of satisfying the obligations set forth in this Paragraph 4(c) and determining your income related to such award, on the basis of the closing market per-share price for the Common Stock as reported on the Consolidated Transaction Reporting System on the trading day immediately preceding the designated date of issuance, or on such other reasonable basis for determining fair market value as the Committee may from time to time adopt. 
+
+5\. Separation from Service Other than by Reason of Retirement, Disability or Death; Forfeiture; Default Payment. If you incur a Separation from Service prior to the Conversion Date for any reason other than Retirement, Disability or death, you shall forfeit all rights to all Units granted hereunder and such Units shall, for all purposes of the Plan and this Agreement, be deemed terminated and without further force or effect as of the date of such Separation from Service. 
+
+-3- 
+
+* * *
+
+6\. Separation from Service Prior to the Conversion Date by Reason of Retirement, Disability or Death. 
+
+(a) Retirement. If you incur a Separation from Service prior to the Conversion Date (i) by reason of Retirement and (ii) as of the date of such Separation from Service, you have been in the continuous employment of the Company or one or more of its Affiliates for the two-year period ending on the date of such Separation from Service, the Units granted hereunder shall remain outstanding and, subject to Paragraph 6(d), shall be settled in accordance with Paragraphs 3 and 4. The shares of Restricted Stock, if earned, shall be issued as of the Conversion Date and the restrictions thereon shall lapse on the Vesting Date. 
+
+(b) Disability, Death. If you incur a Separation from Service prior to the Conversion Date (i) by reason of your Disability or death and (ii) as of the date of such Separation from Service, you have been in the continuous employment of the Company or one or more of its Affiliates for the two-year period ending on the date of such Separation from Service, the Units granted hereunder shall remain outstanding and, subject to Paragraph 6(d), shall be settled in accordance with Paragraph 3, and the shares of Restricted Stock, if earned, shall be issued, in your name as of the Conversion Date and shall be fully vested and nonforfeitable as of that date. 
+
+(b) Continuous Employment Requirement. Notwithstanding anything in this Paragraph 6 to the contrary, if you incur a Separation from Service prior to the Conversion Date (i) by reason of Retirement, Disability or death and (ii) as of the date of your Separation from Service, you have not been in the continuous employment of the Company or one or more of its Affiliates for the two-year period ending on such Separation from Service, you shall forfeit all rights to all Units granted hereunder, and such Units shall, for all purposes of the Plan and this Agreement be deemed terminated and without further force or effect as of the date of such Separation from Service. 
+
+(c) Forfeiture Due to Conduct. Notwithstanding anything in this Agreement to the contrary, if you incur a Separation from Service prior to the Conversion Date by reason of Retirement and following such Separation from Service prior to the Conversion Date you: (i) become or serve as an officer, director, partner or employee of any individual, proprietorship, partnership or corporation or the owner of a business, or a member of a partnership which conducts a business in competition with the Company or render a service (including without limitation, advertising agencies and business consultants) to competitors with any portion of the business of the Company as determined by the Committee or its designee or (ii) engage in deliberate action which, as determined by the Committee or its designee, causes substantial harm to the interest of the Company, you shall forfeit all rights to all Units granted hereunder, and such Units shall, for all purposes of the Plan and this Agreement, be deemed terminated and without further force or effect as of the date of such Separation from Service. 
+
+-4- 
+
+* * *
+
+7\. Separation from Service During the Additional Vesting Period. 
+
+(a) Other than by Reason of Retirement, Disability or Death; Prohibited Conduct; Forfeiture. If you incur a Separation from Service during the Additional Vesting Period other than by reason of your Retirement, Disability or death, you shall immediately forfeit the shares of Restricted Stock (including, for this purpose, any notional dividend equivalents under Paragraph 4(b)) as of the date of such Separation from Service, unless the Committee, in its discretion, determines that such shares shall vest at the expiration of the Additional Vesting Period. 
+
+(b) By Reason of Retirement. If you incur a Separation from Service during the Additional Vesting Period by reason of your Retirement, the Restricted Shares issued in your name under this Agreement shall remain subject to the transfer restrictions described in Paragraph 4(a) and the forfeiture restrictions described in Paragraph 7(d) until the Vesting Date. 
+
+(c) By Reason of Death or Disability. If you incur a Separation from Service during the Additional Vesting Period by reason of your death or Disability, the restrictions on the Restricted Stock shall lapse and the shares shall be fully vested as of the date of such Separation from Service. 
+
+(d) Forfeiture Due to Conduct. Notwithstanding anything in this Agreement to the contrary, if you incur a Separation from Service during the Additional Vesting Period by reason of Retirement and following such Separation from Service but prior to the Vesting Date you: (i) become or serve as an officer, director, partner or employee of any individual, proprietorship, partnership or corporation or the owner of a business, or a member of a partnership which conducts a business in competition with the Company as determined by the Committee or its designee or (ii) engage in deliberate action which, as determined by the Committee or its designee, causes substantial harm to the interest of the Company, you shall forfeit immediately all shares of Restricted Stock (including, for this purpose, any additional Restricted Stock granted in respect of dividend equivalents and any unapplied cash amounts under Paragraph 4(b)) as of the date of such determination by the Committee or such designee. 
+
+8\. Miscellaneous. This Agreement may not be amended except in writing. Neither the existence of the Plan and this Agreement nor the Target Award granted hereby shall create any right to continue to be employed by the Company or its Affiliates, and your employment shall continue to be at will and terminable at will by the Company. In the event of a conflict between this Agreement and the Plan, the Plan shall govern; provided, however, that nothing in this Paragraph 8 shall be construed as requiring that any such conflict be resolved in a manner that the Company determines would be inconsistent with Section 409A or would result in adverse or unintended tax consequences to you under Section 409A. To the extent that the Committee or the Hardship Committee is authorized to make a determination under this Agreement, all such determinations shall be in the sole discretion of the Committee, the Hardship Committee or their respective delegates. 
+
+-5- 
+
+* * *
+
+9\. Definitions and Rules of Construction. 
+
+(a) Definitions. The following terms have the meanings set forth below: 
+
+“Additional Vesting Period” means the period beginning on the Conversion Date and ending on the Vesting Date. 
+
+“Agreement” means this Performance Share Award Agreement under the Plan, including each annex attached hereto. 
+
+“Beneficiary” means one or more individuals or entities (including a trust or estate) designated by you to receive, in the event of your death, any shares of Common Stock earned and issuable to you pursuant to this Agreement. You may change your Beneficiary by submitting the appropriate form, as determined by the Committee, to the Record Keeper. The last such form submitted prior to your death with respect to the amounts awarded pursuant to this Agreement received by the Record Keeper shall supersede any prior such form submitted. In the event of your death, the Record Keeper shall attempt to locate your Beneficiary in the order presented on the appropriate Beneficiary designation form by taking one or more of the following actions: first, sending a letter by certified mail to the address of the Beneficiary indicated on the Beneficiary designation form, second, using the letter-forwarding service offered by the Internal Revenue Service or the Federal Social Security Administration and third, taking any other action that the Committee deems appropriate. If 90 days after the last such action taken by the Record Keeper, the Record Keeper has not located your Beneficiary, or if you have no Beneficiary (whether due to the death of your Beneficiary or your failure to properly designate your Beneficiary on the appropriate form), your Beneficiary shall be your estate for purposes of issuing the shares of Common Stock due to you under this Agreement. 
+
+“Code” means the Internal Revenue Code of 1986, as amended from time to time, and the rulings, regulations and other guidance thereunder. 
+
+“Committee” means the Compensation and Benefits Committee of the Board of Directors of the Company. Any action that the Committee is required or permitted to take hereunder may be undertaken by any person to whom the Committee delegated authority to take such action, and any action by a delegate of the Committee shall, for all purposes hereof, constitute an act of the Committee. 
+
+“Common Stock” means the common stock of the Company, par value $0.33 1/3 per share. 
+
+“Company” means Wyeth. 
+
+“Consolidated Earnings” means the consolidated net income for the Performance Year, (i) adjusted to omit the effects of unusual and infrequent items, all as shown on the audited financial statements of the Company, as determined in accordance with accounting principles generally accepted in the United States, and (ii) subject to such additional adjustments as the Committee in its discretion shall specify within the 90-day period beginning January 1st of the Performance Year. 
+
+-6- 
+
+* * *
+
+“Conversion Date” means the date during the 90-day period following the end of the Performance Year on which the Committee makes the determination set forth in Paragraph 3(a). 
+
+“Disability” means a disability for purposes of (i) a long-term disability plan maintained by the Company in which you participate or (ii) Social Security Disability Insurance (SSDI), as determined by the Social Security Administration. 
+
+“EPS” means the earnings or net income per share of common stock of the Company for the Performance Year, (i) adjusted to omit the effects of unusual and infrequent items, all as shown on the audited financial statements of the Company, as determined in accordance with accounting principles generally accepted in the United States, and (ii) subject to such additional adjustments as the Committee in its discretion shall specify within the 90-day period beginning January 1st of the Performance Year. 
+
+“EPS Target” shall be the EPS target amount established by the Committee at a meeting to be held within the 90-day period beginning January 1st of the Performance Year. 
+
+“Exchange Act” means the Securities Exchange Act of 1934 (as amended from time to time) and the rules and regulations promulgated thereunder. 
+
+“Fractional Amount” means the cash amount equal to the difference between the value of the number of whole shares of Restricted Stock withheld pursuant to Paragraph (4)(c)(i) and Paragraph (4)(c)(ii), as the case may be, and the value of the number of whole and fractional shares of Restricted Stock required to be withheld pursuant to Paragraph (4)(c)(i) and Paragraph (4)(c)(ii), as the case may be. For purposes of this definition, the value of the Restricted Stock shall be determined in accordance with Paragraph 4(c)(iv). 
+
+“Negative Discretion” means the right and ability of the Committee in its sole and absolute discretion to reduce the award payable to you under this Agreement from the amount of the award otherwise payable to you hereunder based on the Company’s actual performance for the Performance Year. The Committee shall exercise such Negative Discretion within the 90-day period beginning on January 1, 2011 based upon such subjective or objective factors as shall be selected by the Committee for this purpose. 
+
+“Payment Date” means the date as of which shares of Common Stock are issued to you in accordance with the terms of this Agreement. 
+
+“Performance Grid” shall be the performance grid established by the Committee at a meeting to be held within the 90-day period beginning January 1st of the Performance Year, which shall plot the different payout percentage levels at various EPS Targets achieved. 
+
+“Performance Year” shall mean 2010. 
+
+“Plan” means the plan identified on the first page of this Agreement, as the same may be amended from time to time. The terms of the Plan constitute a part of this Agreement. 
+
+“Record Keeper” means the person or persons identified from time to time by the Committee to be responsible for the day-to-day administration of the Plan. 
+
+-7- 
+
+* * *
+
+“Recoupment Policy” means the Company’s Board of Director’s Policy on Recoupment of Performance-Based Compensation in Restatement Situations, as may be amended from time to time. 
+
+“Retirement” means, for purposes of this Agreement, your (a) attainment of age 65 or (b) attainment of age 55 with 5 or more years of service, determined in accordance with the service crediting method set forth in the Wyeth Retirement Plan – United States or in effect as of January 1, 2007. 
+
+“Section 409A” means Section 409A of the Code. 
+
+“Separation from Service” means a separation from service with the Company and its Affiliates for purposes of Section 409A, determined using the default provisions set forth in Treasury Regulation Section 1.409A-1(h) or the successor regulation thereto. Notwithstanding the foregoing, if a Participant would otherwise incur a Separation from Service in connection with a sale of assets of the Company, the Company shall retain the discretion with respect to the shares of Common Stock, if any, earned hereunder to determine whether a Separation from Service has occurred in accordance with Treasury Regulation Section 1.409A-1(h)(4) or the successor regulation thereto. For this purpose, Affiliate means any corporation included in a controlled group of corporations (within the meaning of Section 414(b) of the Code) that includes the Company and any trade or business (whether or not incorporated) under common control with the Company (within the meaning of Section 414(c) of the Code), determined in accordance with the default provisions set forth in the applicable provisions of Section 409A. 
+
+“Specified Employee” means (a) each “specified employee,” as defined in Section 409A(a)(2)(B)(i) of the Code, who meets the requirements of Section 416(i)(1)(A)(i), (ii) or (iii) of the Code (applied in accordance with the regulations thereunder and disregarding Section 416(i)(5) of the Code) any time during the 12 month period ending on December 31st of a calendar year and (b) to the extent not otherwise included in (a) hereof, each of the top-100 paid individuals (based on taxable wages as reported in Box 1 of Form W-2 for the 12 month period ending on December 31st of such calendar year plus amounts that would be included in wages for such 12 month period but for pre-tax deferrals to a tax-favored retirement plan or cafeteria plan or for qualified transportation benefits) who performed services for the Company at any time during the 12 month period ending on December 31st of such calendar year. A Participant shall be treated as a “Specified Employee” for the 12 month period beginning on April 1st of the calendar year following the calendar year for which the determination under clause (a) or (b) of this definition is made. 
+
+“U.S. Expatriate” means a Participant who is a U.S. taxpayer temporarily working outside of the United States and who is subject to a tax equalization agreement authorizing the Company to withhold federal, state and local income taxes from any payment under this Agreement. 
+
+“Vesting Date” means 5 p.m. (Eastern time) on the earlier of (i) the first anniversary of the Conversion Date and (ii) in the event of your death or Disability prior to the date described in clause (i), the later of the Conversion Date and the date of your death or Disability, as the case may be. 
+
+-8- 
+
+* * *
+
+(b) Rules of Construction. All references to Paragraphs refer to paragraphs in this Agreement. The titles to Paragraphs in this Agreement are for convenience of reference only and, in case of any conflict, the text of this Agreement, rather than such titles, shall control. 
+
+10\. Compliance with Laws. 
+
+(a) General Rule. This Agreement shall be governed by the laws of the State of Delaware and any applicable laws of the United States. Notwithstanding anything herein to the contrary, the Company shall not be obligated to issue any Units or shares of Common Stock represented thereby pursuant to this Agreement unless and until the Company is advised by its counsel that the issuance of such shares through book-entry form by a credit to an account maintained on your behalf, or through a stock certificate representing such shares, is in compliance with all applicable laws and regulations of governmental authority; provided, however, that any action or inaction by the Company pursuant to this Paragraph 10(a) with respect to issuance of Units or shares of Commons Stock shall be in accordance with Paragraph 10(c). The Company shall in no event be obliged to register any securities pursuant to the Securities Act of 1933 (as amended from time to time) or to take any other action in order to cause the issuance of such shares through book-entry form by a credit to an account maintained on your behalf, or through a stock certificate representing such shares, to comply with any such law or regulation. 
+
+(b) Reservation of Rights. The Committee shall have the discretionary right (i) to amend, modify, cancel or rescind, without your consent, any of the terms and conditions of this Agreement to comply with any applicable law, regulation, ruling or other regulatory guidance and (ii) to amend or terminate the Plan, in each case, solely to the extent that the Committee determines, in its discretion, that any such action can be effected without the imposition on you or any other person of adverse or unintended tax consequences under Section 409A. The Committee shall not have the right to accelerate or delay the issuance of any shares of Restricted Stock earned under this Agreement, unless the Committee determines, in its discretion, that any such acceleration or delay can be effected without the imposition on you or any other person of adverse or unintended tax consequences under Section 409A. 
+
+(c) Section 16. If you are subject to Section 16 of the Exchange Act, transactions under the Plan and this Agreement are intended to comply with all applicable conditions of Rule 16b-3 or its successors under the Exchange Act. To the extent any provision of the Plan or this Agreement or action by the Committee involving you is deemed not to comply with an applicable condition of Rule 16b-3 or its successor under the Exchange Act or other applicable law (including, without limitation, other federal securities laws), issuance of such shares shall be delayed in a manner that will not result in the imposition on any person of adverse or unexpected tax consequences under Section 409A. In the event of such delay, the shares shall be issued as of the earliest date the Committee reasonably anticipates that such issuance will not cause such violation. In the event the Plan or this Agreement does not include a provision required by Rule 16b-3 to be stated therein, such provision (other than one relating to eligibility requirements or the price and amount of awards as applicable) shall be deemed automatically to be incorporated by reference into the Plan and/or this Agreement insofar as you are concerned, with such incorporation to be deemed effective as of the effective date of such Rule 16b-3 provision. 
+
+-9- 
+
+* * *
+
+11\. Change of Control. 
+
+(a) Vesting. Anything in this Agreement to the contrary notwithstanding, upon a Change of Control, (i) 80% of your Units shares of and Restricted Stock granted to you pursuant to this Agreement shall fully vested and all restrictions thereon shall lapse and (ii) 20% of your Units shall forfeit without further consideration to you. You hereby acknowledge and agree that for all purposes of the 1998 and 2006 change in control severance agreements entered into by and between you and the Company (as amended) and any subsequent replacement agreement therefor, including, without limitation, the calculation of “Stock Option Value” under the 1998 agreement, this award shall be deemed to be an award of 80% of the Target Award. 
+
+(b) Settlement of Units. Anything in this Agreement to the contrary notwithstanding, upon such Change of Control, in settlement of any Units outstanding at the time of the Change in Control, one share of Common Stock per Unit shall be issued in your name, except as otherwise provided in Paragraph 11(c). 
+
+(c) Cash in Lieu of Shares. In lieu of shares of Common Stock issuable in respect of cancelled Units pursuant to Paragraph 11(b), the Committee may, in its sole discretion, distribute to you an amount, in cash, equal to the value of such shares determined in accordance with Plan provisions. Such amount shall be paid at the time specified in Paragraph 11(b). 
+
+12\. Recoupment. Notwithstanding anything to the contrary, if at any time during your employment with the Company you are a Senior Executive (as such term is defined in the Recoupment Policy), your shares of Restricted Stock shall be subject to the Recoupment Policy and adjusted accordingly. 
+
+13\. Effect of Acknowledgement. You must acknowledge receipt of this Agreement as soon as reasonably practicable by using the applicable procedure established by the Committee for such purpose.   
+  
+WYETH  
+By:  
+  
+Treasurer  
+  
+ACCEPTED AND AGREED TO:  
+  
+Name (Please Print)  
+  
+Signature  
+  
+-10- 
+
+* * *
+
+ANNEX A
+
+ADMINISTRATIVE FEE 
+
+Wyeth PSA   
+  
+# Shares Earned
+
+Fee  
+1,001 + $ 75  
+501-1,000 $ 40  
+101-500 $ 20  
+70-100 $ 5  
+  
+A-1 

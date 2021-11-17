@@ -1,0 +1,130 @@
+Exhibit 10.35 
+
+No. 13934 
+
+MACROMEDIA, INC. 
+
+2002 EQUITY INCENTIVE PLAN 
+
+
+
+This Stock Option Agreement (this “Agreement”) is made and entered into as of the Date of Grant set forth below (the “Date of Grant”) by and between Macromedia, Inc., a Delaware corporation (the “Company”), and the Optionee named below (“Optionee”). Capitalized terms not defined herein shall have the meanings ascribed to them in the Company’s 2002 Equity Incentive Plan (the “Plan”).   
+  
+Optionee: Thomas E. Hale  
+Optionee’s Address: [***]  
+Total Option Shares: 100,000  
+Exercise Price Per Share: $19.54  
+Date of Grant: April 12, 2004  
+Expiration Date: April 12, 2014  
+(unless earlier terminated under Section 3 hereof)  
+Type of Stock Option Nonqualified Stock Option  
+  
+1\. Grant of Option. The Company hereby grants to Optionee an option (this “Option”) to purchase up to the total number of shares of Common Stock of the Company set forth above as Total Option Shares (collectively, the “Shares”) at the Exercise Price Per Share set forth above (the “Exercise Price”), subject to all of the terms and conditions of this Agreement and the Plan. If designated as an Incentive Stock Option above, this Option is intended to qualify as an “incentive stock option” (“ISO”) within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”), to the extent permitted under Code Section 422. 
+
+2\. Vesting; Exercise Period.
+
+2.1 Vesting of Shares. This Option shall be exercisable as it vests. Subject to the terms and conditions of the Plan and this Agreement, this Option shall vest and become exercisable as to portions of the Shares as follows: (a) this Option shall not be exercisable with respect to any of the Shares until April 9, 2005 (the “First Vesting Date”); (b) if Optionee has continuously provided services to the Company, or any Parent or Subsidiary of the Company, then on the First Vesting Date, this Option shall become exercisable as to 20% of the Shares; and (c) thereafter this Option shall become exercisable as to an additional 20% of the Shares on each anniversary of the First Vesting Date, provided that Optionee has continuously provided services to the Company, or any Parent or Subsidiary of the Company, at all times during the relevant vesting period. For each fiscal year the Company sets a 
+
+* * *
+
+revenue milestone for the Company’s Communications, Publishing & Training business unit (the “Revenue Target”) and if the Company achieves the Revenue Target for the fiscal year ending March 31, 2005 (as determined by the Committee in its sole discretion) then vesting of 50% of the Shares in each vesting installment after April 9, 2006, shall vest on the later of April 9, 2005 and the date the Corporation publicly releases its financial results for such fiscal year (for a total of 50% of the Shares that may vest on April 9, 2005). If the Company achieves the Revenue Target for the fiscal year ending March 31, 2006 (as determined by the Committee in its sole discretion) then all remaining Shares shall vest on the later of April 9, 2006 and the date the Corporation publicly releases its financial results for such fiscal year. This Option shall cease to vest upon Optionee’s Termination and Optionee shall in no event be entitled under this Option to purchase a number of shares of the Company’s Common Stock greater than the “Total Option Shares.” If application of the vesting percentage causes a fractional share in a given vesting installment, such installment shall be rounded down to the nearest whole share except for the final vesting installment. 
+
+2.2 Vesting of Options. Shares that are vested pursuant to the schedule set forth in Section 2.1 hereof are “Vested Shares.” Shares that are not vested pursuant to the schedule set forth in Section 2.1 hereof are “Unvested Shares.” 
+
+2.3 Expiration. This Option shall expire on the Expiration Date set forth above and must be exercised, if at all, on or before the earlier of the Expiration Date or the date on which this Option is earlier terminated in accordance with the provisions of Section 3 hereof. 
+
+3\. Termination.
+
+3.1 Termination for Any Reason Except Death or Disability. If Optionee is Terminated for any reason except Optionee’s death or Disability, then this Option, to the extent (and only to the extent) that it is vested in accordance with the schedule set forth in Section 2.1 hereof on the Termination Date, may be exercised by Optionee no later than ninety (90) days after the Termination Date, but in any event no later than the Expiration Date. Any exercise after three (3) months after the Termination Date when the Termination is for any reason other than Optionee’s death or Disability, within the meaning of Code Section 22(e)(3), shall be deemed to be the exercise of a nonqualified stock option. 
+
+3.2 Termination Because of Death or Disability. If Optionee is Terminated because of the death or Disability of Optionee (or the Optionee dies within ninety (90) days after Termination because of Disability), then this Option, to the extent that it is vested in accordance with the schedule set forth in Section 2.1 hereof on the Termination Date, may be exercised by Optionee (or Optionee’s legal representative or authorized assignee) no later than twelve (12) months after the Termination Date, but in any event no later than the Expiration Date. 
+
+3.3 No Obligation to Employ. Nothing in the Plan or this Agreement shall confer on Optionee any right to continue in the employ of, or other relationship with, the Company or any Parent or Subsidiary of the Company, or limit in any way the right of the Company or any Parent or Subsidiary of the Company to terminate Optionee’s employment or other relationship at any time, with or without Cause. 
+
+2 
+
+* * *
+
+4\. Manner of Exercise.
+
+4.1 Stock Option Exercise Agreement. To exercise this Option, Optionee (or in the case of exercise after Optionee’s death, Optionee’s executor, administrator, heir or legatee, as the case may be) must deliver to the Company an executed stock option exercise agreement in such other form as may be approved by the Company from time to time (the “Exercise Agreement”), which shall set forth, inter alia, Optionee’s election to exercise this Option, the number of Shares being purchased, any restrictions imposed on the Shares and any representations, warranties and agreements regarding Optionee’s investment intent and access to information as may be required by the Company to comply with applicable securities laws. If someone other than Optionee exercises this Option, then such person must submit documentation reasonably acceptable to the Company that such person has the right to exercise this Option. 
+
+4.2 Limitations on Exercise. This Option may not be exercised unless such exercise is in compliance with all applicable federal and state securities laws, as they are in effect on the date of exercise. 
+
+4.3 Payment. The Exercise Agreement shall be accompanied by full payment of the Exercise Price for the Shares being purchased in cash (by check), or where permitted by law: 
+
+(a) by cancellation of indebtedness of the Company to the Optionee;   
+  
+(b) by surrender of shares of the Company’s Common Stock that either: (1) have been owned by Optionee for more than six (6) months and have been paid for within the meaning of SEC Rule 144 (and, if such shares were purchased from the Company by use of a promissory note, such note has been fully paid with respect to such shares); or (2) were obtained by Optionee in the open public market; and (3) are clear of all liens, claims, encumbrances or security interests;   
+  
+(c) by waiver of compensation due or accrued to Optionee for services rendered;   
+  
+(d) provided that a public market for the Company’s stock exists: (1) through a “same day sale” commitment from Optionee and a broker-dealer that is a member of the National Association of Securities Dealers (an “NASD Dealer”) whereby Optionee irrevocably elects to exercise this Option and to sell a portion of the Shares so purchased to pay for the Exercise Price and whereby the NASD Dealer irrevocably commits upon receipt of such Shares to forward the exercise price directly to the Company; or (2) through a “margin” commitment from Optionee and an NASD Dealer whereby Optionee irrevocably elects to exercise this Option and to pledge the Shares so purchased to the NASD Dealer in a margin account as security for a loan from the NASD Dealer in the amount of the Exercise Price, and whereby the NASD Dealer irrevocably commits upon receipt of such Shares to forward the Exercise Price directly to the Company; or   
+  
+(e) by any combination of the foregoing.   
+  
+4.4 Tax Withholding. Prior to the issuance of the Shares upon exercise of this Option, Optionee must pay or provide for any applicable federal or state withholding obligations of the 
+
+3 
+
+* * *
+
+Company. If the Committee permits, Optionee may provide for payment of withholding taxes upon exercise of this Option by requesting that the Company retain Shares with a Fair Market Value equal to the minimum amount of taxes required to be withheld. In such case, the Company shall issue the net number of Shares to the Optionee by deducting the Shares retained from the Shares issuable upon exercise. 
+
+4.5 Issuance of Shares. Provided that the Exercise Agreement and payment are in form and substance satisfactory to counsel for the Company, the Company shall issue the Shares registered in the name of Optionee, Optionee’s authorized assignee, or Optionee’s legal representative, and shall deliver certificates representing the Shares with the appropriate legends affixed thereto. 
+
+5\. Notice of Disqualifying Disposition of ISO Shares. To the extent this Option is an ISO, if Optionee sells or otherwise disposes of any of the Shares acquired pursuant to the ISO on or before the later of (a) the date two (2) years after the Date of Grant, and (b) the date one (1) year after transfer of such Shares to Optionee upon exercise of this Option, then Optionee shall immediately notify the Company in writing of such disposition. 
+
+6\. Compliance with Laws and Regulations. The exercise of this Option and the issuance and transfer of Shares shall be subject to compliance by the Company and Optionee with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company’s Common Stock may be listed at the time of such issuance or transfer. Optionee understands that the Company is under no obligation to register or qualify the Shares with the SEC, any state securities commission or any stock exchange to effect such compliance. 
+
+7\. Nontransferability of Option. This Option may not be transferred in any manner other than under the terms and conditions of the Plan or by will or by the laws of descent and distribution and may be exercised during the lifetime of Optionee only by Optionee. The terms of this Option shall be binding upon the executors, administrators, successors and assigns of Optionee. 
+
+8\. Tax Consequences. Set forth below is a brief summary as of the date the Board adopted the Plan of some of the federal tax consequences of exercise of this Option and disposition of the Shares. THIS SUMMARY IS NECESSARILY INCOMPLETE, AND THE TAX LAWS AND REGULATIONS ARE SUBJECT TO CHANGE. OPTIONEE SHOULD CONSULT A TAX ADVISOR BEFORE EXERCISING THIS OPTION OR DISPOSING OF THE SHARES. 
+
+8.1 Exercise of Incentive Stock Option. To the extent this Option qualifies as an ISO, there will be no regular federal income tax liability upon the exercise of this Option, although the excess, if any, of the fair market value of the Shares on the date of exercise over the Exercise Price will be treated as a tax preference item for federal income tax purposes and may subject the Optionee to the alternative minimum tax in the year of exercise. 
+
+8.2 Exercise of Nonqualified Stock Option. To the extent this Option does not qualify as an ISO, there may be a regular federal income tax liability upon the exercise of this Option. Optionee will be treated as having received compensation income (taxable at ordinary income tax rates) equal to the excess, if any, of the fair market value of the Shares on the date of exercise over the Exercise Price. The Company may be required to withhold from Optionee’s compensation or collect from Optionee and pay to the applicable taxing authorities an amount equal to a percentage of this compensation income at the time of exercise. 
+
+4 
+
+* * *
+
+8.3 Disposition of Shares. The following tax consequences may apply upon disposition of the Shares. 
+
+a. Incentive Stock Options. If the Shares are held for twelve (12) months or more after the date of the transfer of the Shares pursuant to the exercise of an ISO and are disposed of two (2) years or more after the Date of Grant, any gain realized on disposition of the Shares will be treated as capital gain for federal income tax purposes. If Shares purchased under an ISO are disposed of within the applicable one (1) year or two (2) year period, any gain realized on such disposition will be treated as compensation income (taxable at ordinary income rates) to the extent of the excess, if any, of the fair market value of the Shares on the date of exercise over the Exercise Price. 
+
+b. Nonqualified Stock Options. If the Shares are held for more than twelve (12) months after the date of the transfer of the Shares pursuant to the exercise of an NQSO, any gain realized on disposition of the Shares will be treated as long-term capital gain. 
+
+c. Withholding. The Company may be required to withhold from Optionee’s compensation or collect from the Optionee and pay to the applicable taxing authorities an amount equal to a percentage of this compensation income. 
+
+9\. Privileges of Stock Ownership. Optionee shall not have any of the rights of a stockholder with respect to any Shares until the Shares are issued to Optionee. 
+
+10\. Interpretation. Any dispute regarding the interpretation of this Agreement shall be submitted by Optionee or the Company to the Committee for review. The resolution of such a dispute by the Committee shall be final and binding on the Company and Optionee. 
+
+11\. Entire Agreement. The Plan is incorporated herein by reference. This Agreement and the Plan and the Exercise Agreement constitute the entire agreement and understanding of the parties hereto with respect to the subject matter hereof and supersede all prior understandings and agreements with respect to such subject matter. 
+
+12\. Notices. Any notice required to be given or delivered to the Company under the terms of this Agreement shall be in writing and addressed to the Corporate Secretary of the Company at its principal corporate offices. Any notice required to be given or delivered to Optionee shall be in writing and addressed to Optionee at the address indicated above or to such other address as such party may designate in writing from time to time to the Company. All notices shall be deemed to have been given or delivered upon: personal delivery; three (3) days after deposit in the United States mail by certified or registered mail (return receipt requested); one (1) business day after deposit with any return receipt express courier (prepaid); or one (1) business day after transmission by facsimile. 
+
+13\. Successors and Assigns. The Company may assign any of its rights under this Agreement. This Agreement shall be binding upon and inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer set forth herein, this Agreement shall be binding upon Optionee and Optionee’s heirs, executors, administrators, legal representatives, successors and assigns. 
+
+5 
+
+* * *
+
+14\. Governing Law. This Agreement shall be governed by and construed in accordance with the internal laws of the State of California, without regard to that body of law pertaining to choice of law or conflict of law. 
+
+15\. Acceptance. Optionee hereby acknowledges receipt of a copy of the Plan and this Agreement. Optionee has read and understands the terms and provisions thereof, and accepts this Option subject to all the terms and conditions of the Plan and this Agreement. Optionee acknowledges that there may be adverse tax consequences upon exercise of this Option or disposition of the Shares and that the Company has advised Optionee to consult a tax advisor prior to such exercise or disposition. 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed in duplicate by its duly authorized representative and Optionee has executed this Agreement in duplicate as of the Date of Grant.   
+  
+MACROMEDIA, INC. OPTIONEE  
+  
+* * *
+
+* * *  
+  
+Betsey Nelson Thomas E. Hale  
+Executive Vice President and Chief  
+Financial Officer  
+  
+6 

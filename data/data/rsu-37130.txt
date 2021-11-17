@@ -1,0 +1,478 @@
+Exhibit 10.5
+
+  
+
+
+  
+
+
+FORUM ENERGY TECHNOLOGIES, INC.
+
+2010 STOCK INCENTIVE PLAN
+
+  
+
+
+
+
+This Performance Award Agreement (this “Agreement”) is made as of the ___ day of ___________, 2013 (the “Date of Grant”), between Forum Energy Technologies, Inc., a Delaware corporation (the “Company”), and _________________ (the “Employee”). 
+
+1.Award. The Employee is hereby awarded _______ performance shares (each a “Performance Share”) pursuant to the Forum Energy Technologies, Inc. 2010 Stock Incentive Plan (the “Plan”) which shall be allocated as the “Target Amount” as detailed in the chart below. The Performance Shares represent the opportunity to receive a number of shares of Common Stock based on the “Payout Multiplier” as defined in Exhibit A. The number of Performance Shares that are converted into “Earned Performance Shares” will be between 0% and 200% of the Target Amount. Each Performance Share that does not become an Earned Performance Share shall be forfeited.
+
+The exact number of Performance Shares that shall be converted into Earned Performance Shares and issued to the Employee shall be based upon the achievement by the Company of the performance standards as set forth in Exhibit A hereto over three periods, each beginning on January 1, 2013 (the “Performance Beginning Date”) and ending on December 31, 2013, and each of the first and second anniversary thereof, respectively, (each December 31, the “Performance End Date”) (the period ending on each of the first, second and third Performance End Date is referred to as the “First Performance Period,” the “Second Performance Period,” and the “Third Performance Period,” respectively). The determination by the Committee with respect to the achievement of such performance standards shall be made as soon as administratively practicable following each Performance Period after all necessary Company and peer information is available. The specific date on which such determination is formally made and approved by the Committee is referred to as the “Determination Date.” After the Determination Date, the Company shall notify the Employee of the number of Earned Performance Shares, if any, and the corresponding number of shares of Common Stock to be issued to the Employee in satisfaction of the award. The shares of Common Stock shall be issued to the Employee on March 15 following the applicable Performance End Date (the “Settlement Date”). 
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+For each of the Performance Periods, the Target Amount, the Performance Beginning Date, the Performance End Date and the Settlement Date are detailed in the chart below:  
+  
+Performance Period
+
+Target Amount
+
+Performance Beginning Date
+
+Performance End Date
+
+Settlement Date  
+  
+First Performance Period
+
+January 1, 2013
+
+December 31, 2013
+
+March 15, 2014  
+  
+Second Performance Period
+
+January 1, 2013
+
+December 31, 2014
+
+March 15, 2015  
+  
+Third Performance Period
+
+January 1, 2013
+
+December 31, 2015
+
+March 15, 2016  
+  
+  
+
+
+The performance standards are based on the Company’s Total Shareholder Return compared against the Peer Group. The methodology for calculating the number of Earned Performance Shares, including the definitions used therefor, is set forth in Exhibit A hereto.
+
+The Employee acknowledges receipt of a copy of the Plan, and agrees that this award of Performance Shares shall be subject to all of the terms and provisions of the Plan, including future amendments thereto, if any, pursuant to the terms thereof. Capitalized terms used in this Agreement and Exhibit “A” hereto that are not defined herein shall have the meanings given to them in the Plan or Exhibit A, as applicable. 
+
+2. Vesting/Forfeiture. Except as otherwise provided in Sections 3 or 4 below, the Performance Shares shall vest on the applicable Determination Date, provided the Employee is continuously employed by the Company or any of its Affiliates (collectively, the “Company Group”) through the applicable Determination Date. If the Employee’s employment with the Company Group terminates for any reason prior to the applicable Determination Date other than by reason of Retirement (as defined below), death or Disability (as defined below), the Performance Shares shall be automatically forfeited on the date of the Employee’s termination of employment. 
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+3. Termination of Employment. 
+
+(a) Death or Disability. If prior to a Determination Date with respect to a Performance Period, the Employee’s employment with the Company Group is terminated by reason of death or the Employee becomes Disabled, the Performance Shares shall vest on a pro rata basis determined by multiplying the applicable Target Amount of Performance Shares for each remaining Performance Period by a fraction (not greater than 1.0), the numerator of which is the number of months (not including any partial months) that have elapsed since the Performance Beginning Date to the date of the Employee’s death or Disability, as applicable, and the denominator of which is the total number of months in the applicable Performance Period. Any remaining unvested Performance Shares shall be forfeited. The shares of Common Stock in respect of the vested Performance Shares shall be issued to the Employee thirty (30) days after the date of the Employee’s death or Disability, as applicable. For purposes of this Section 3(a), the Employee shall become “Disabled” or have a “Disability” on the date that the Employee becomes eligible for long-term disability benefits pursuant to the Company’s long-term disability plan.
+
+(b) Retirement. Provided the Employee remained continuously employed by the Company Group for the six (6) month period following the Date of Grant, if the Employee’s employment with the Company Group is terminated prior to a Determination Date with respect to a Performance Period by reason of Retirement, the Performance Shares shall vest on a pro rata basis determined by multiplying the number of Performance Shares that would otherwise have been earned and vested on the applicable Determination Date by a fraction, the numerator of which is the number of months (not including any partial months) that have elapsed since the Performance Beginning Date to the date of the Employee’s Retirement, and the denominator of which is the total number of months in the applicable Performance Period. The shares of Common Stock in respect of the Earned Performance Shares shall be based on the Payout Multiplier and shall be issued to the Employee on the applicable Settlement Date. For purposes of this Section 3(b), “Retirement” shall mean termination of the Employee’s service relationship with all members of the Company Group which is specifically determined by the Committee to constitute Retirement.
+
+4. Change in Control. Notwithstanding the foregoing, if a Change in Control occurs prior to a Determination Date with respect to a Performance Period and the Employee has remained continuously employed by the Company Group from the Date of Grant to the date upon which such Change in Control occurs, all Performance Shares with respect to each remaining Performance Period shall automatically vest and the number of Earned Performance Shares shall be equal to the Target Amount for each applicable Performance Period. Shares of Common Stock in respect of the Earned Performance Shares shall be issued to the Employee thirty (30) days after the effective date of the Change in Control. 
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+  
+
+
+5. Settlement and Delivery of Stock. Except as otherwise provided in Section 3(a) or 4, settlement of the Earned Performance Shares shall be made on the applicable Settlement Date. Settlement will be made by issuance of shares of Common Stock equal to the number of Earned Performance Shares. Notwithstanding the foregoing, the Company shall not be obligated to issue any shares of Common Stock if counsel to the Company determines that such sale or delivery would violate any applicable law or any rule or regulation of any governmental authority or any rule or regulation of, or agreement of the Company with, any securities exchange or association upon which the Common Stock is listed or quoted. The Company shall in no event be obligated to take any affirmative action in order to cause the issuance of shares of Common Stock to comply with any such law, rule, regulation or agreement.
+
+6. Shareholder Rights. The Employee shall have no rights to dividend equivalent payments with respect to the Performance Shares and shall have no rights to dividends or other rights of a shareholder with respect to shares of Common Stock subject to this award of Performance Shares unless and until such time as the award has been settled by the issuance of shares of Common Stock to the Employee. Any Earned Performance Shares shall be subject to adjustment under Section XII(B) of the Plan with respect to dividends or other distributions that are paid in shares of Common Stock.
+
+7. Corporate Acts. The existence of the Performance Shares shall not affect in any way the right or power of the Board or the stockholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, any merger or consolidation of the Company, any issue of debt or equity securities, the dissolution or liquidation of the Company or any sale, lease, exchange or other disposition of all or any part of its assets or business or any other corporate act or proceeding. 
+
+8. Withholding. To the extent that the vesting of the Performance Shares results in compensation income or wages to the Employee for federal, state, local or foreign tax purposes, the Employee shall deliver to the Company or to any Affiliate nominated by the Company at the time of such lapse, such amount of money or, if permitted by the Committee in its sole discretion, shares of Common Stock as the Company or any Affiliate nominated by the Company may require to meet its minimum obligation under applicable tax or social security laws or regulations, and if the Employee fails to do so, the Company and its Affiliates are authorized to withhold from any cash or stock remuneration (including withholding any shares of Common Stock distributable to the Employee under this Agreement) then or thereafter payable to the Employee any tax or social security required to be withheld by reason of such resulting compensation income or wages. The Employee acknowledges and agrees that the Company is making no representation or warranty as to the tax consequences to the Employee as a result of the receipt of the Performance Shares, vesting of the Performance Shares or the forfeiture of any Performance Shares pursuant to the Forfeiture Restrictions. 
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+9. Employment Relationship. For purposes of this Agreement, the Employee shall be considered to be in the employment of the Company as long as the Employee remains an employee of any member of the Company Group. Without limiting the scope of the preceding sentence, it is specifically provided that the Employee shall be considered to have terminated employment with the Company at the time of the termination of the “Affiliate” status of the entity or other organization that employs the Employee. 
+
+Nothing in the adoption of the Plan, nor the award of the Performance Shares thereunder pursuant to this Agreement, shall confer upon the Employee the right to continued employment by the Company Group or affect in any way the right of the Company to terminate such employment at any time. Unless otherwise provided in a written employment agreement or by applicable law, the Employee’s employment by the Company Group shall be on an at-will basis, and the employment relationship may be terminated at any time by either the Employee or the Company for any reason whatsoever, with or without cause or notice. 
+
+Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee or its delegate, and its determination shall be final. 
+
+10. Code Section 409A; No Guarantee of Tax Consequences. The award of Performance Shares is intended to be (i) exempt from Section 409A of the Code (“Section 409A”) including, but not limited to, by reason of compliance with the short-term deferral exemption as specified in Treas. Reg. § 1.409A-1(b)(4); or (ii) in compliance with Section 409A, and the provisions of this Agreement shall be administered, interpreted and construed accordingly. If the Employee is identified by the Company as a “specified employee” within the meaning of Section 409A(a)(2)(B)(i) of the Code on the date on which the Employee has a “separation from service” (other than due to death) within the meaning of Section 1.409A-1(h) of the Treasury Regulations, notwithstanding the provisions of Section 5 hereof, any transfer of shares payable on account of a separation from service that are deferred compensation shall take place on the earlier of (i) the first business day following the expiration of six months from the Employee’s separation from service, or (ii) such earlier date as complies with the requirements of Section 409A. To the extent required to comply with Section 409A, (i) the Employee shall be considered to have terminated employment with the Company Group when the Employee incurs a “separation from service” with a member of the Company Group within the meaning of Section 409A(a)(2)(A)(i) of the Code, and (ii) to the extent the settlement of the Performance Shares constitutes non-exempt “deferred compensation” for purposes of Section 409A by reason of the occurrence of a Change in Control, such amount would not be payable or distributable to the Employee unless the circumstances giving rise to such Change in Control meets any description or definition of “change in control event” in Section 409A and applicable regulations. The Company makes no commitment or guarantee to the Employee that any federal or state tax treatment shall apply or be available to any person eligible for benefits under this Agreement. 
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+  
+
+
+11. Binding Effect; Survival. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under the Employee. 
+
+12. Entire Agreement; Amendment. This Agreement constitutes the entire agreement of the parties with respect to the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, between the parties with respect to Performance Shares commencing on the Performance Beginning Date. Any modification of this Agreement shall be effective only if it is in writing and signed by both the Employee and an authorized officer of the Company. 
+
+13. Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to conflicts of law principles thereof. 
+
+  
+
+
+FORUM ENERGY TECHNOLOGIES, INC.
+
+  
+
+
+By:_____________________________________
+
+Name:___________________________________ 
+
+Title:_____________________________________
+
+  
+
+
+EMPLOYEE
+
+__________________________________________
+
+  
+
+
+  
+
+
+  
+
+
+6
+
+* * *
+
+  
+
+
+  
+
+
+Exhibit A
+
+  
+
+
+Methodology for Calculating Earned Performance Shares
+
+  
+
+
+  
+
+
+1. Definitions. For purposes of determining the number of shares of Common Stock issuable to the Employee in respect of the Earned Performance Shares for each Performance Period, the following definitions shall apply:
+
+(a) Ending Share Price means the average closing price of shares over eight trading days comprised of: the four trading days prior to the Performance End Date and the four trading days after the Performance End Date.
+
+(b) Peer Group means Cameron International Corporation, Dresser-Rand Group, Inc., Dril-Quip Inc., Exterran Holdings, Inc., FMC Technologies, Inc., Lufkin Industries, Inc., National Oilwell Varco, Inc., and Oceaneering International, Inc. to the extent such entities or their successors are in existence and publicly traded as of the Performance End Date. 
+
+(c) Starting Share Price means the average closing price of the shares over eight trading days comprised of: the four trading days prior to the Performance Beginning Date and the four trading days after the Performance Beginning Date.
+
+(d) Total Shareholder Return means common stock price growth for each entity over the applicable Performance Period, as measured by dividing the sum of the cumulative amount of dividends for that Performance Period, assuming dividend reinvestment, and the difference between the entity’s Ending Share Price and the Starting Share Price; by the entity’s Starting Share Price. 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+2. Committee Methodology. For purposes of determining the number of shares of Common Stock issuable to the Employee in respect of the Earned Performance Shares, the Committee shall:
+
+(a) Calculate the Total Shareholder Return for the Company and each company in the Peer Group for the applicable Performance Period.
+
+(b) Rank the Company and each member of the Peer Group based on Total Shareholder Return with the company having the highest Total Shareholder Return ranking in the first position and the company with the lowest Total Shareholder Return ranking in the eighth position.
+
+(c) Determine the number of Earned Performance Shares based on the Eight Company Payout Schedule below:  
+  
+Eight Company Payout Schedule  
+  
+Company Ranking
+
+Payout Multiplier  
+  
+1
+
+2.00  
+  
+2
+
+1.75  
+  
+3
+
+1.50  
+  
+4
+
+1.25  
+  
+5
+
+1.00  
+  
+6
+
+0.75  
+  
+7
+
+0.50  
+  
+8
+
+0.25  
+  
+9
+
+0.00  
+  
+  
+
+
+(d) Multiply the Employee’s Target Amount by the Payout Multiplier.
+
+If any calculation with respect to the Earned Performance Shares would result in a fractional share, the number of shares of Common Stock to be issued shall be rounded down to the nearest whole share.
+
+3. Peer Group Changes. If, as a result of merger, acquisition or a similar corporate transaction, a member of the Peer Group ceases to be a member of the Peer Group (an “Affected Peer Company”), the Affected Peer Company shall not be included in the Eight Company Payout Schedule and the applicable of the following alternative schedules shall be used in its place:
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+  
+  
+Seven Company Payout Schedule  
+  
+Company Ranking
+
+Payout Multiplier  
+  
+1
+
+2.00  
+  
+2
+
+1.75  
+  
+3
+
+1.50  
+  
+4
+
+1.25  
+  
+5
+
+1.00  
+  
+6
+
+0.75  
+  
+7
+
+0.50  
+  
+8
+
+0.00  
+  
+  
+  
+  
+Six Company Payout Schedule  
+  
+Company Ranking
+
+Payout Multiplier  
+  
+1
+
+2.00  
+  
+2
+
+1.67  
+  
+3
+
+1.33  
+  
+4
+
+1.00  
+  
+5
+
+0.67  
+  
+6
+
+0.33  
+  
+7
+
+0.00  
+  
+  
+  
+  
+Five Company Payout Schedule  
+  
+Company Ranking
+
+Payout Multiplier  
+  
+1
+
+2.00  
+  
+2
+
+1.67  
+  
+3
+
+1.33  
+  
+4
+
+1.00  
+  
+5
+
+0.50  
+  
+6
+
+0.00  
+  
+  
+  
+  
+Four Company Payout Schedule  
+  
+Company Ranking
+
+Payout Multiplier  
+  
+1
+
+2.00  
+  
+2
+
+1.50  
+  
+3
+
+1.00  
+  
+4
+
+0.50  
+  
+5
+
+0.00  
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+If a member of the Peer Group declares bankruptcy, it shall be deemed to remain in the Peer Group until the applicable Performance End Date and shall occupy the lowest ranking in the Payout Schedule. If, as a result of merger, acquisition or a similar corporate transaction, there are five or more Affected Peer Companies, the Committee may in its sole discretion revise the makeup of the Peer Group and make adjustments to the Payout Multipliers.
+
+  
+
+
+  
+

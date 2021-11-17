@@ -1,0 +1,122 @@
+Exhibit 10.4
+
+Bottomline Technologies (de), Inc.
+
+
+
+Granted Under 2009 Stock Incentive Plan
+
+AGREEMENT made [_________] (the “Grant Date”), between Bottomline Technologies (de), Inc., a Delaware corporation (the “Company”), and [DIRECTOR] (the “Participant”).
+
+For valuable consideration, receipt of which is acknowledged, the parties hereto agree as follows:
+
+1. Issuance of Shares.
+
+In consideration of services rendered to the Company by the Participant, the Company shall issue to the Participant, subject to the terms and conditions set forth in this Agreement and in the Company’s 2009 Stock Incentive Plan (the “Plan”), [_________][IF EXISTING DIRECTOR: 3,000 OR IF NEW DIRECTOR: 8,000] shares (the “Shares”) of common stock, $.001 par value per share, of the Company (“Common Stock”). The Shares will be held in book entry by the Company’s transfer agent in the name of the Participant for that number of Shares issued to the Participant. The Participant agrees that the Shares shall be subject to the forfeiture provisions set forth in Section 2 of this Agreement and the restrictions on transfer set forth in Section 3 of this Agreement.
+
+2. Vesting.
+
+(a) In the event that the Participant ceases to be a director of, or advisor or consultant to, the Company, for any reason or no reason, with or without cause, prior to the Vesting Date (as defined below), any Unvested Shares (as defined below) shall be forfeited immediately and automatically to the Company. Notwithstanding anything herein to the contrary, if the Shares do not vest on or before the occurrence of one or more of the events set forth in this Section 2 or as other wise provided in any other agreement with the Company or any parent or subsidiary of the Company, the Shares shall automatically be forfeited to the Company for no consideration. [for Joseph Mullen Only: The foregoing provisions shall be subject to the provisions of that certain Letter Agreement, dated as of September 18, 2008, between the Company and the Participant.]
+
+(b) “Unvested Shares” means the total number of Shares multiplied by the Applicable Percentage at the time the Shares are forfeited. [IF EXISTING DIRECTOR: Except as provided in the Plan or in paragraph (c) of this Section 2, the “Applicable Percentage” shall be 100% during the period ending on the date immediately preceding the Vesting Date and 0% on or after the earlier of the one-year anniversary of the Grant Date or the date of the next annual meeting of stockholders of the Company (the “Vesting Date”).] [IF GRANT TO NEW DIRECTOR: Except as provided in the Plan or in paragraph (c) of this Section 2, the “Applica ble Percentage” shall be (i) 100% during the period ending on [_________], (ii) 75% less 6.25% for each three months that Participant is a director of, or advisor or consultant to, the Company from and after [_________] and (iii) 0% on or after [_________].]
+
+1
+
+* * *
+
+(c) Notwithstanding the foregoing, upon the occurrence of an Acquisition Event (as defined below), the Applicable Percentage shall be 0%. For purposes of this paragraph (c), an “Acquisition Event” shall be deemed to have occurred only if any of the following events occurs: (i) any merger or consolidation which results in the voting securities of the Company outstanding immediately prior thereto representing immediately thereafter (either by remaining outstanding or by being converted into voting securities of the surviving or acquiring entity) less than 50% of the combined voting power of the voting securities of the Company or such surviving or acquiring entity outstanding immediately after such merger or consolidation; (ii) any sale of all or substantially all of the assets of the Company; or (iii) the complete liquidation of the Company.
+
+3. Restrictions on Transfer.
+
+(a) The Participant shall not sell, assign, transfer, pledge, hypothecate or otherwise dispose of, by operation of law or otherwise (collectively “transfer”) any Shares, or any interest therein, until such Shares have vested, except that the Participant may transfer such Shares (i) to or for the benefit of any spouse, children, parents, uncles, aunts, siblings, grandchildren and any other relatives approved by the Board of Directors (collectively, “Approved Relatives”) or to a trust established solely for the benefit of the Participant and/or Approved Relatives, provided that such Shares shall remain subject to this Agreement (including without limitation the restrictions on transfer set forth in this Section 3 and the forfeiture provisions contained in Section 2) and such permitted transferee shall, as a condition to such transfer, deliver to the Company a written instrument confirming that such transferee shall be bound by all of the terms and conditions of this Agreement or (ii) as part of the sale of all or substantially all of the shares of capital stock of the Company (including pursuant to a merger or consolidation), provided that, in accordance with the Plan and except as otherwise provided herein, the securities or other property received by the Participant in connection with such transaction shall remain subject to this Agreement.
+
+(b) The Company shall not be required (i) to transfer on its books any of the Shares which have been transferred in violation of any of the provisions set forth in this Agreement or (ii) to treat as owner of such Shares or to pay dividends to any transferee to whom such Shares have been transferred in violation of any of the provisions of this Agreement.
+
+4. Restrictive Legends.
+
+All Shares subject to this Agreement shall be subject to the following restriction, in addition to any other restrictions that may be required under federal or state securities laws:
+
+“The shares of stock represented by this certificate are subject to forfeiture provisions and restrictions on transfer set forth in a certain Restricted Stock Agreement between the corporation and the registered owner of these shares (or his predecessor in interest), and such Agreement is available for inspection without charge at the office of the Secretary of the corporation.”
+
+5. Provisions of the Plan.
+
+2
+
+* * *
+
+This Agreement is subject to the provisions of the Plan, a copy of which is furnished to the Participant with this Agreement.
+
+6. Withholding Taxes; Section 83(b) Election.
+
+(a) The Participant acknowledges and agrees that the Company has the right to deduct from payments of any kind otherwise due to the Participant any federal, state or local taxes of any kind required by law to be withheld with respect to the issuance of the Shares to the Participant or the lapse of the forfeiture provisions.
+
+(b) The Participant has reviewed with the Participant’s own tax advisors the federal, state, local and foreign tax consequences of this investment and the transactions contemplated by this Agreement. The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the Participant (and not the Company) shall be responsible for the Participant’s own tax liability that may arise as a result of this investment or the transactions contemplated by this Agreement.
+
+THE PARTICIPANT AGREES NOT TO FILE AN ELECTION UNDER SECTION 83(B) OF THE CODE WITH RESPECT TO THE PURCHASE OF THE SHARES.
+
+7. Dividend and Dividend Equivalents
+
+The Participant shall not accrue or be paid any dividend (whether in cash or in stock) or accumulate dividend equivalents with respect to any Unvested Shares.
+
+8. Miscellaneous.
+
+(a) No Rights to Service. The Participant acknowledges and agrees that the vesting of the Shares pursuant to Section 2 hereof is earned only by continuing service as a director of, or advisor or consultant to, the Company, (not through the act of being granted the Shares hereunder). The Participant further acknowledges and agrees that the transactions contemplated hereunder and the vesting schedule set forth herein do not constitute an express or implied promise of continued engagement as a director or consultant for the vesting period, for any period, or at all.
+
+(b) Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+(c) Waiver. Any provision for the benefit of the Company contained in this Agreement may be waived, either generally or in any particular instance, by the Board of Directors of the Company.
+
+(d) Binding Effect. This Agreement shall be binding upon and inure to the benefit of the Company and the Participant and their respective heirs, executors, administrators, 
+
+3
+
+* * *
+
+legal representatives, successors and assigns, subject to the restrictions on transfer set forth in Section 3 of this Agreement.
+
+(e) Notice. Each notice relating to this Agreement shall be in writing and delivered in person or by first class mail, postage prepaid, to the address as hereinafter provided. Each notice shall be deemed to have been given on the date it is received. Each notice to the Company shall be addressed to it at its offices at 325 Corporate Drive, Portsmouth, New Hampshire 03801 (Attention: President). Each notice to the Participant shall be addressed to the Participant at the Participant’s last known address.
+
+(f) Pronouns. Whenever the context may require, any pronouns used in this Agreement shall include the corresponding masculine, feminine or neuter forms, and the singular form of nouns and pronouns shall include the plural, and vice versa.
+
+(g) Entire Agreement. This Agreement and the Plan constitute the entire agreement between the parties, and supersede all prior agreements and understandings, relating to the subject matter of this Agreement.
+
+(h) Amendment. This Agreement may be amended or modified only by a written instrument executed by both the Company and the Participant.
+
+(i) Governing Law. This Agreement shall be construed, interpreted and enforced in accordance with the internal laws of the State of Delaware without regard to any principle of conflict of laws that would permit or require the application of the laws of any other jurisdiction.
+
+(j) Interpretation. The interpretation and construction of any terms or conditions of the Plan, or of this Agreement or other matters related to the Plan by the Compensation Committee of the Board of Directors of the Company shall be final and conclusive.
+
+(k) Participant’s Acknowledgments. The Participant acknowledges that he or she: (i) has read this Agreement; (ii) has been represented in the preparation, negotiation, and execution of this Agreement by legal counsel of the Participant’s own choice or has voluntarily declined to seek such counsel; (iii) understands the terms and consequences of this Agreement; (iv) is fully aware of the legal and binding effect of this Agreement; and (v) understands that the law firm of Wilmer Cutler Pickering Hale and Dorr LLP, is acting as counsel to the Company in connection with the transactions contemplated by the Agreement, and is not acting as counsel for t he Participant.
+
+(l) Delivery of Certificates. The Participant may request that the Company deliver the Shares in certificated form with respect to any Shares that have ceased to be subject to forfeiture pursuant to Section 2.
+
+[Remaining of Page Intentionally Left Blank]
+
+  
+
+
+\- -
+
+4
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.
+
+BOTTOMLINE TECHNOLOGIES (DE), INC.  
+  
+By: 
+
+/s/   
+Kevin Donovan  
+Chief Financial Officer  
+  
+[DIRECTOR]  
+Address:   
+  
+5
+
+* * *

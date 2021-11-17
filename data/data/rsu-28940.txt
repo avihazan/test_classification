@@ -1,0 +1,177 @@
+##### 
+
+Exhibit 10.17
+
+QUANEX BUILDING PRODUCTS CORPORATION
+
+EXECUTIVE [STOCK-][CASH]SETTLED  
+
+
+<>  
+Grantee  
+  
+Date of Award:
+
+<<___________>>  
+  
+Number of Performance Units Awarded:
+
+<<___________>>  
+  
+[Target Value of Each Performance Unit:]
+
+<<___________>>  
+  
+AWARD OF PERFORMANCE UNITS
+
+1.
+
+GRANT OF PERFORMANCE UNITS. The Compensation Committee (the “Committee”) of the Board of Directors of Quanex Building Products Corporation, a Delaware corporation (the “Company”), pursuant to the Quanex Building Products Corporation 2008 Omnibus Incentive Plan (the “Plan”), hereby awards to you, the above-named Grantee, effective as of the Date of Award set forth above, that number of Performance Units set forth above (each, a “Performance Unit”, and collectively, the “Performance Units”), on the terms and conditions set forth in this Performance Unit Award Agreement (this “Agreement”).  
+  
+[The][Each] Performance [Units provide][Unit provides] you an opportunity to [receive shares of the Company’s common stock, $0.01 par value per share (the “Common Stock”),][earn a cash payment] based upon attainment of the Performance Goals during the Performance Period. For purposes of this Agreement, the term “Performance Period” means the _______   
+\- -year period beginning  , 20 _____, and ending  , 20 _____, (the “Ending Date”) and the term “Performance Goals” means  . This Award shall “vest” on the date on which the Committee certifies that the Performance Goals have been satisfied or, if earlier, on the date you are otherwise entitled to receive a payment under Section 4 of this Agreement. 
+
+2.
+
+FINAL PERFORMANCE FACTOR. The aggregate [number of shares of the Common Stock to be issued to you][amount payable] under this Agreement [(the “Shares”)] is equal to the number of Performance Units multiplied by the Target Value of each Performance Unit multiplied by the Final Performance Factor (which is determined as provided below)[divided by the Fair Market Value of a Share of Common Stock on the first business day immediately preceding the Payment Date]:  
+  
+2.1 The Final Performance Factor shall be equal to one (1) if (a) the Company achieves the Target Milestone during the Performance Period and does not achieve the Maximum Milestone during the Performance Period, (b) “a Change in Control of the Company has not occurred on or before the last day of the Performance Period, and (c) you remain in the active employ of one or more members of the Company Group through the last day of the Performance Period. For purposes of this Agreement, the “Target Milestone” means  and the “Maximum Milestone” means  . 
+
+2.2 The Final Performance Factor shall be equal to two (2) if (a) the Company achieves the Maximum Milestone during the Performance Period, (b) a Change in Control of the Company has not occurred on or before the last day of the Performance Period, and (c) you remain in the active employ of one or more members of the Company Group through the last day of the Performance Period. 
+
+Executive  
+[Stock Settled] — [Cash Settled]
+
+* * *
+
+##### 
+
+2.3 The Final Performance Factor shall be equal to three-fourths (3/4) if (a) the Company achieves the Threshold Milestone during the Performance Period and does not achieve the Target Milestone during the Performance Period, (b) a Change in Control of the Company has not occurred on or before the last day of the Performance Period, and (c) you remain in the active employ of one or more members of the Company Group through the last day of the Performance Period. For purposes of this Agreement, the “Threshold Milestone” means  . 
+
+2.4 If the performance standard achieved with respect to a particular Performance Goal is between the Threshold Milestone and the Target Milestone or between the Target Milestone and the Maximum Milestone, the applicable Final Performance Factor shall be determined by interpolation. 
+
+For example, assume that the Committee grants an executive a performance based compensation award under the Plan that is contingent upon achieving Performance Goal A and Performance Goal B, weighting the importance of the goals as 50% and 50%, respectively. The Committee establishes Threshold, Target and Maximum Milestones for each Goal. The Final Performance Factor assigned for achieving the threshold, target and maximum performance standards are 3/4, 1 and 2, respectively. Finally, assume that the executive is awarded 2,000 Performance Units with a Target Value of $100, is continuously employed by the Company throughout the Performance Period and achieves the Maximum Milestone for Performance Goal A, and precisely halfway between the Target and Maximum Milestones for Performance Goal B. The total amount payable to the executive under the award is $250,000, which is determined as follows: .The amount payable to the executive with respect to Performance Goal A is $100,000 (50% (Performance Goal Percentage) x 2,000 (Performance Units) x $100 (Performance Unit Value) x 1 (Final Performance Factor) = $100,000), and the amount payable to the executive with respect to Performance Goal B is $150,000 (50% (Performance Goal Percentage) x 2000 (Performance Units) x $100 (Target Value) x 1.5 (Final Performance Factor)= $150,000). 
+
+2.5 If the Threshold Milestone is not achieved during the Performance Period and a Change in Control of the Company has not occurred on or before the last day of the Performance Period, then the award pursuant to this Agreement shall lapse and be forfeited as of the last day of the Performance Period. 
+
+2.6 The Committee’s determinations with respect to the Performance Period for purposes of this Agreement shall be binding upon all persons. The Committee may not increase the amount payable under this Agreement. 
+
+3.
+
+PAYMENT. [The Company, on behalf of the Employer, shall cause the Shares to be issued][Any amount payable to you pursuant to this Agreement will be paid] to you [by the Employer] as soon as administratively practicable following the date of the Committee’s certification that the Performance Goals have been satisfied, but no later than 21/2 months following the end of the calendar year in which the Ending Date occurs [the “Payment Date”], unless otherwise provided under this Agreement. [The Shares that may be issued to you under this Agreement][Such payment] will be [issued][made] to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or the Agreement.  
+  
+[Upon the issuance of Shares pursuant to this Agreement, such Shares shall be transferable by you (except to the extent that any proposed transfer would, in the opinion of counsel satisfactory to the Company, constitute a violation of applicable federal or state securities law).]
+
+4.
+
+SEPARATION FROM SERVICE/CHANGE IN CONTROL OF THE COMPANY. The following provisions will apply in the event your employment with the Company and all Affiliates (collectively, the “Company Group”) terminates, or a Change in Control of the Company occurs, before the last day of the Performance Period.  
+  
+Executive  
+[Stock Settled] — [Cash Settled]
+
+2
+
+* * *
+
+##### 
+
+4.1 Separation from Service Generally. Except as specified in Sections 4.2 through 4.5 below, if you separate from service with the Company Group on or before the last day of the Performance Period, all of your rights in the Agreement, including all rights to the Performance Units granted to you, will lapse and be completely forfeited on the date your employment terminates. 
+
+4.2 Potential or Actual Change in Control of the Company
+
+(i) Termination Without Cause or for Good Reason in Connection With a Potential Change in Control of the Company Before the Ending Date. If (a) the Company Group terminates your employment without Cause (as defined in the Change in Control Agreement between you and the Company) on or before the Ending Date prior to a Change in Control of the Company (whether or not a Change in Control of the Company ever occurs) and such termination is at the request or direction of a person who has entered into an agreement with the Company the consummation of which would constitute a Change in Control of the Company or is otherwise in connection with or in anticipation of a Change in Control of the Company (whether or not a Change in Control of the Company ever occurs) or (b) you terminate your employment with the Company Group for Good Reason (as defined in the Change in Control Agreement between you and the Company) on or before the Ending Date prior to a Change in Control of the Company (whether or not a Change in Control of the Company ever occurs), and such termination or the circumstance or event which constitutes Good Reason occurs at the request or direction of a person who has entered into an agreement with the Company the consummation of which would constitute a Change in Control of the Company or is otherwise in connection with or in anticipation of a Change in Control of the Company (whether or not a Change in Control of the Company ever occurs), then ten (10) business days after the date your employment relationship with the Company Group terminates, the Company will pay to you [that number of shares of the Common Stock][an amount in cash] equal to the product of the Target Value of each Performance Unit multiplied by the number of Performance Units that were awarded to you under this Agreement for the year in which the termination occurs (the “Award Target Value”) and (b) a fraction, the numerator of which is the number of years through your date of termination in the current Performance Period (rounded up to the nearest full year) and the denominator of which is the number of years in the current Performance Period[ divided by the Fair Market Value of a Share of Common Stock on the first business day immediately preceding your termination date]. [Such shares will be issued][Such payment will be made] to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or the Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or the Agreement. 
+
+(ii) Employment Not Terminated Before a Change in Control of the Company on or Before the Ending Date. If a Change in Control of the Company occurs on or before the Ending Date and your employment with the Company Group does not terminate before the date the Change in Control of the Company of the Company occurs, then ten (10) business days after the closing date of the Change in Control of the Company, the Company will pay to you [that number of shares of the Common Stock][an amount in cash] equal to the product of the Target Value of each Performance Unit multiplied by the number of Performance Units that were awarded to you under this Agreement for the year in which the Change in Control of the Company occurs (the “Award Target Value”) and (b) a fraction, the numerator of which is the number of years through the closing date of the Change in Control of the Company in the current Performance Period (rounded up to the nearest full year) and the denominator of which is the number of years in the current Performance Period[ divided by the Fair Market Value of a Share of Common Stock on the first business day immediately preceding the Payment Date. Such shares will be issued][. Such payment will be made] to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or the Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or the Agreement. 
+
+Executive  
+[Stock Settled] — [Cash Settled]
+
+3
+
+* * *
+
+##### 
+
+4.3 Permanent Disability. Notwithstanding any other provision of the Agreement to the contrary, if you separate from service with the Company Group because you incur a Permanent Disability before the last day of the Performance Period then the [Company][Employer] will [issue][pay] to you [shares of Common Stock] in [cash] an amount equal to the product of (1) and (2) where (1) is the [number of shares][amount] you would have received under the Agreement if you had not separated from service with the Company Group before the end of the Performance Period and (2) is a fraction, the numerator of which is the number of days from the beginning of the Performance Period through the date you separated from service with the Company Group and the denominator of which is the number of days in the Performance Period. Any amount payable pursuant to this Section 4.3 will be paid [by the Employer] to you on the Payment Date. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or the Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or the Agreement. For purposes of this Section 4.3, you will have a “Permanent Disability” if you are unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months. 
+
+4.4 Death. Notwithstanding any other provision of the Agreement to the contrary, if you die before the last day of the Performance Period and while in the active employ of one or more members of the Company Group, then the [Company][Employer] will [issue][pay] to your estate [shares of Common Stock] in [cash] an amount equal to the product of (1) and (2) where (1) is the [number of shares][amount] you would have received under the Agreement if you had not died before the end of the Performance Period and (2) is a fraction, the numerator of which is the number of days from the beginning of the Performance Period through the date of your death and the denominator of which is the number of days in the Performance Period. Any amount payable pursuant to this Section 4.4 will be paid [by the Employer] to your estate on the Payment Date. Such payment will be made in exchange for the Performance Units and thereafter your estate and heirs, executors, and administrators shall have no further rights with respect to such Performance Units or the Agreement and the Company Group will have no further obligations pursuant to the Performance Units or the Agreement. 
+
+4.5 Retirement. Notwithstanding any other provision of the Agreement to the contrary, if you separated from service with the Company Group due to your Retirement before the last day of the Performance Period then the [Company][Employer] will [issue][pay] to you [shares of Common Stock] in [cash] an amount equal to the product of (1) and (2) where (1) is the amount you would have received under the Agreement if you had not separated from service with the Company Group before the end of the Performance Period and (2) is a fraction, the numerator of which is the number of days from the beginning of the Performance Period through the date you separated from service with the Company Group and the denominator of which is the number of days in the Performance Period. Any amount payable pursuant to this Section 4.5 will be paid [by the Employer] to you on the Payment Date. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or the Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or the Agreement. For purposes of this Section 4.5 “Retirement” means the voluntary termination of your employment relationship with the Company Group on or after the date on which (a) you are age 65 or (b) you are age 55 and have five years of service with the Company Group. 
+
+Executive  
+[Stock Settled] — [Cash Settled]
+
+4
+
+* * *
+
+##### 
+
+5.
+
+TAX WITHHOLDING. To the extent that [the issuance of Shares][any payment] pursuant to the Agreement results in income, wages or other compensation to you for any income, employment or other tax purposes with respect to which the Company or the [legal entity that is a member of the Company  Group and that is classified as your employer (the “Employer”)][Employer] has a withholding obligation, you shall deliver to the Company [or the Employer] at the time of such receipt or [issuance][payment], as the case may be, such amount of money as the Company or the Employer may require to meet its obligation under applicable tax laws or regulations, and, if you fail to do so, the Company [or the Employer] is authorized to withhold from [any payment under] the [Agreement] [Shares] or from any cash or stock remuneration or other payment then or thereafter payable to you [by the Company or the Employer] any tax required to be withheld by reason of such taxable income, wages or compensation [including (without limitation) shares of Common Stock sufficient to satisfy the withholding obligation based on the last per share sales price of the Common Stock for the trading day immediately preceding the date that the withholding obligation arises, as reported in the New York Stock Exchange Composite Transactions].  
+  
+6.
+
+NONTRANSFERABILITY. The Performance Units and your rights under this Agreement may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or disposed of. Any such attempted sale, assignment, pledge, exchange, hypothecation, transfer, encumbrance or disposition in violation of this Agreement shall be void and the Company Group shall not be bound thereby.  
+  
+7.
+
+CAPITAL ADJUSTMENTS AND REORGANIZATIONS. The existence of the Performance Units shall not affect in any way the right or power of the Company [or any company the stock of which is awarded pursuant to the Agreement] to make or authorize any adjustment, recapitalization, reorganization or other change in its capital structure or its business, engage in any merger or consolidation, issue any debt or equity securities, dissolve or liquidate, or sell, lease, exchange or otherwise dispose of all or any part of its assets or business, or engage in any other corporate act or proceeding.  
+  
+8.
+
+PERFORMANCE UNITS DO NOT AWARD ANY RIGHTS OF A SHAREHOLDER. You shall not have the voting rights or any of the other rights, powers or privileges of a holder of the stock of the Company with respect to the Performance Units that are awarded hereby.  
+  
+9.
+
+EMPLOYMENT RELATIONSHIP. For purposes of the Agreement, you shall be considered to be in the employment of the Company Group as long as you have an employment relationship with the Company Group. The Committee shall determine any questions as to whether and when there has been a termination of such employment relationship, and the cause of such termination, under the Plan, and the Committee’s determination shall be final and binding on all persons.  
+  
+10.
+
+NOT AN EMPLOYMENT AGREEMENT. The Agreement is not an employment agreement, and no provision of the Agreement shall be construed or interpreted to create an employment relationship between you and the Company or any Affiliate or guarantee the right to remain employed by the Company or any Affiliate for any specified term.  
+  
+11.
+
+[SECURITIES ACT LEGEND. If you are or become an officer or affiliate of the Company under the Securities Act of 1933, you consent to the placing on any certificate for the Shares of an appropriate legend restricting resale or other transfer of the Shares except in accordance with such Act and all applicable rules thereunder.]  
+  
+12.
+
+LIMIT OF LIABILITY. Under no circumstances will the Company or an Affiliate be liable for any indirect, incidental, consequential or special damages (including lost profits) of any form incurred by any person, whether or not foreseeable and regardless of the form of the act in which such a claim may be brought, with respect to the Plan.  
+  
+Executive  
+[Stock Settled] — [Cash Settled]
+
+5
+
+* * *
+
+##### 
+
+13.
+
+[REGISTRATION. The Shares that may be issued under the Plan are registered with the Securities and Exchange Commission under a Registration Statement on Form S-8.]  
+  
+14.
+
+[SALE OF SECURITIES. The Shares that may be issued under this Agreement may not be sold or otherwise disposed of in any manner that would constitute a violation of any applicable federal or state securities laws. You also agree that (a) the Company may refuse to cause the transfer of the Shares to be registered on the stock register of the Company if such proposed transfer would in the opinion of counsel satisfactory to the Company constitute a violation of any applicable federal or state securities law and (b) the Company may give related instructions to the transfer agent, if any, to stop registration of the transfer of the Shares.]  
+  
+15.
+
+EMPLOYER LIABLE FOR PAYMENT. Except as specified in Section 4.2, the Employer is liable for the payment of any amounts that become due under the Agreement.  
+  
+16.
+
+MISCELLANEOUS. The Agreement is awarded pursuant to and is subject to all of the provisions of the Plan, including amendments to the Plan, if any. In the event of a conflict between this Agreement and the Plan provisions, the Plan provisions will control. The term “you” and “your” refer to the Grantee named in the Agreement. Capitalized terms that are not defined herein shall have the meanings ascribed to such terms in the Plan.  
+  
+In accepting the award of Performance Units set forth in this Agreement you accept and agree to be bound by all the terms and conditions of the Plan and this Agreement.   
+  
+QUANEX BUILDING  
+PRODUCTS CORPORATION  
+  
+Raymond Jean — Chief Executive Officer  
+  
+Executive  
+[Stock Settled] — [Cash Settled]
+
+6

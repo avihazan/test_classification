@@ -1,0 +1,91 @@
+Exhibit 10.12 
+
+
+
+OPTION AGREEMENT (the “Award Agreement”), effective as of January 8, 2007, between HUGHES TELEMATICS, INC., a Delaware corporation (the “Company”), and Craig Kaufmann (the “Optionee”). 
+
+W I T N E S S E T H: 
+
+WHEREAS, the Company, acting through its Board of Directors (the “Board”) has granted to the Optionee, effective as of the date of this Award Agreement, an option to purchase shares of common stock, par value $.01, of the Company (the “Common Stock”) on the terms and subject to the conditions set forth in this Award Agreement; 
+
+NOW, THEREFORE, in consideration of the premises and of the mutual agreements contained in this Award Agreement, the parties hereto agree as follows: 
+
+SECTION 1. Definitions. Capitalized terms not defined herein shall have the meaning ascribed to such terms in the Company’s 2006 Stock Incentive Plan (the “Plan”). Options granted pursuant to this Award Agreement are subject in all respects to the terms of the Plan. In the case of a conflict between the terms of the Plan and the terms of this Award Agreement, the terms of the Plan shall govern. 
+
+SECTION 2. Option; Exercise Price. On the terms and subject to the conditions of this Award Agreement, the Optionee shall have the option (the “Option”) to purchase up to 1,200 shares (the “Option Shares”) of Common Stock at the price of $100 per Option Share (the “Exercise Price”). 
+
+SECTION 3. Term. The term of the option (the “Option Term”) shall commence on the date hereof and expire on the tenth anniversary of the date hereof, unless the Option shall theretofore have been terminated in accordance with the terms of this Award Agreement. 
+
+SECTION 4. Time of Exercise. 
+
+(a) Time Vesting. Unless accelerated as otherwise provided in Section 6 of this Award Agreement or pursuant to a provision of the Plan, the Option shall become exercisable as to 200 Option Shares (one-sixth of the Option Shares) on August 1, 2007, 200 Option Shares (another one-sixth of the Option Shares) on August 1, 2008, and 200 Option Shares (another one-sixth of the Option Shares) on August 1, 2009 provided that the Optionee is employed on the relevant vesting dates. 
+
+* * *
+
+(b) Performance Vesting. Unless accelerated as otherwise provided in Section 6 of this Award Agreement or pursuant to a provision of the Plan, the Option shall become exercisable as to 300 Option Shares (one-quarter of the Option Shares) upon the execution of a material agreement with an automotive original equipment manufacturer (“OEM”) pursuant to which the Company will supply such OEM with telematics equipment and services for a significant number of the OEM’s vehicles on a factory installed basis for the OEM’s customers. An additional 300 Option Shares (another one-quarter of the Option Shares) shall become exercisable upon the execution of a material agreement with a second automotive OEM pursuant to which the Company will supply such OEM with telematics equipment and services for a significant number of the OEM’s vehicles on a factory installed basis for the OEM’s customers. To the extent not vested by the fourth anniversary of this Agreement, such unvested portion of the Peformance Vesting Option Shares shall expire at such time. 
+
+SECTION 5. Procedure for Exercise. 
+
+(a) The Option may be exercised with respect to that portion of the Option which is exercisable at any particular time (the “Vested Shares”), from time to time, in whole or in part (but for the purchase of whole shares only), by delivery of a written notice (the “Exercise Notice”) from the Optionee to the Company, which Exercise Notice shall: 
+
+(i) state that the Optionee elects to exercise the Option; 
+
+(ii) state the number of Vested Shares with respect to which the Optionee is exercising the Option; 
+
+(iii) in the event that the Option shall be exercised by the representative of the Optionee’s estate, include appropriate proof of the right of such Person to exercise the Option; 
+
+(iv) state the date upon which the Optionee desires to consummate the purchase of such Vested Shares (which date must be prior to the termination of the Option); and 
+
+(v) comply with such further provisions as the Company may reasonably require. 
+
+* * *
+
+(b) Payment of the Exercise Price for the Vested Shares to be purchased on the exercise of the Option shall be made by (i) certified or bank cashier’s check payable to the order of the Company, or if determined by the Administrator at the time of exercise, in its sole discretion, in (ii) the form of Shares already owned by the Optionee which have a Fair Market Value on the date of surrender equal to the aggregate Exercise Price of the Shares as to which such Option shall be exercised, or (iii) authorization for the Company to withhold a number of shares otherwise payable pursuant to the exercise of an Option having a Fair Market Value less than or equal to the aggregate Exercise Price, or (iv) any other form of consideration approved by the Administrator and permitted by applicable law or (v) any combination of the foregoing. 
+
+(c) As a condition of delivery of the Vested Shares, the Company shall have the right to require the Optionee to remit to the Company in cash an amount sufficient to satisfy any federal, state and local withholding tax requirements related thereto. The Company in its sole discretion may permit the Optionee to satisfy the foregoing requirement by electing to have the Company withhold from delivery Shares or by delivering already owned unrestricted Shares, in each case, having a value equal to the minimum amount of tax required to be withheld. Such shares shall be valued at their Fair Market Value on the date as of which the amount of tax to be withheld is determined. 
+
+SECTION 6. Acceleration Upon Change in Control. Upon the occurrence of a Change in Control, unless the outstanding Options are assumed by the successor to the Company, the Administrator shall in its sole discretion determine equitable treatment of the outstanding Options. 
+
+SECTION 7. Non-Competition. (a) In consideration of the Company’s grant of this Option, the Optionee agrees that for as long as the Optionee is employed by the Company and until the first anniversary of the date of termination of the Optionee’s employment with the Company or any Affiliate, as the case may be, such Optionee will not directly or indirectly, (i) engage in any business that operates a telematics business that is seeking to provide automotive manufacturers with an integrated hardware and service package that competes directly with the business of the Company or its Subsidiaries at the time of termination of such Optionee’s employment, (a “Competitive Business”), (ii) enter the employ of, or render any services to, any Person engaged in a Competitive Business, (iii) acquire a financial interest in, or otherwise become actively involved with, any person engaged in a Competitive Business, directly or indirectly, as an individual, partner, shareholder, officer, director, principal, agent, trustee or consultant, (iv) interfere with business relationships (whether formed before or after the date of this Award Agreement) between the Company or any of its Affiliates and customers, suppliers, Partners, members or investors of the Company or its Affiliates or (v) disparage the Company, its Directors, Officers or controlling stockholders. Notwithstanding the foregoing, the Optionee may, directly or indirectly own, solely as an investment, securities of any Person engaged in the business of the Company or its Affiliates which are publicly traded on a national or regional stock exchange or on the over-the-counter market if the Optionee (i) is not a controlling Person of, or a member of a group which controls, such Person and (ii) does not, direct or indirectly, own 5% or more of any class of securities of such Person. 
+
+* * *
+
+(b) It is expressly understood and agreed that although Optionee and Company consider the restrictions contained in this Section 7 and the following Section 8 to be reasonable, if a final judicial determination is made by a court of competent jurisdiction that the time or territory or any other restriction contained in this Award Agreement is an unenforceable restriction against Optionee, the provisions of this Award Agreement shall not be rendered void but shall be deemed amended to apply as to such maximum time and territory and to such maximum extent as such court may judicially determine or indicate to be enforceable. Alternatively, if any court of competent jurisdiction finds that any restriction contained in this Award Agreement is unenforceable, and such restriction cannot be amended so as to make it enforceable, such finding shall not affect the enforceability of any of the other restrictions contained herein. 
+
+SECTION 8. Non-Solicitation. The Optionee further agrees that during the term of employment and until the first anniversary of the date of termination of the Optionee’s employment with the Company or any direct or indirect subsidiary of the Company, such Optionee will not, directly or indirectly, (i) solicit or encourage any employee of the Company or its Affiliates to leave the employment of the Company or its Affiliates, (ii) hire any such employee who was employed by the Company or its Affiliates as of the date of Optionee’s termination of employment with the Company or who left the employment of the Company or its Affiliates within six months prior to or after the termination of Optionee’s employment with the Company, or (iii) solicit or encourage to cease to work with the Company or its Affiliates any consultant then under contract with the Company or its Affiliates. 
+
+SECTION 9. No Rights as a Stockholder. The Optionee shall not have any rights or privileges of a stockholder with respect to any Shares unless and until certificates representing such Shares shall be issued by the Company to such Optionee. 
+
+SECTION 10. Additional Provisions Related to Exercise. In the event of the exercise of the Option at a time when there is not in effect a registration statement under the Securities Act of 1933, relating to the Shares, the Optionee hereby represents and warrants, and by virtue of such exercise shall be deemed to represent and warrant to the Company that the Option Shares are being acquired for investment only and not with a view to the distribution thereof, and the Optionee shall provide the Company with such further representations and warranties as the Board may reasonably require in order to ensure compliance with applicable federal and state securities, “blue sky” and other laws. No Shares shall be purchased upon the exercise of the Option unless and until the Company and/or the Optionee shall have complied with all applicable federal or state registration, listing and/or qualification requirements and all other requirements of law or of any regulatory agencies having jurisdiction. 
+
+* * *
+
+SECTION 11. Notices. All notices, claims, certificates, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given and delivered if personally delivered or if sent by nationally recognized overnight courier, by telecopy or by registered or certified mail, return receipt requested and postage prepaid, addressed as follows: 
+
+(a) if to the Company, to it at: 
+
+41 Perimeter Center East, Suite 400 
+
+Atlanta, Georgia 30346 
+
+Attn: General Counsel 
+
+Facsimile: 770-391-6429 
+
+(b) if to the Optionee, to him at such Optionee’s address as most recently supplied to the Company and set forth in the Company’s records or to such other address as the party to whom notice is to be given may have furnished to the other party in writing in accordance herewith. Any such notice or communication shall be deemed to have been received (i) in the case of personal delivery, on the date of such delivery (or if such date is not a business day, on the next business day after the date sent), (ii) in the case of nationally-recognized overnight courier, on the next business day after the date sent, (iii) in the case of telecopy transmission, when received (or if not sent on a business day, on the next business day after the date sent), and (iv) in the case of mailing, on the third business day following the date on which the piece of mail containing such communication is posted. 
+
+SECTION 12. Amendment. This Award Agreement may not be amended, terminated, suspended or otherwise modified except in a written instrument, duly executed by both parties. 
+
+SECTION 13. Entire Agreement. This Award Agreement (and the other writings incorporated by reference herein including the Plan) constitute the entire agreement between the parties with respect to the subject matter hereof and supersede all prior written or oral negotiations, commitments, representations and agreements with respect thereto. 
+
+* * * 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Award Agreement as of the date first written above.   
+  
+HUGHES TELEMATICS, INC.  
+By: /s/ Jeffrey Leddy  
+Name: Jeffrey Leddy  
+Title: Chief Executive Officer  
+OPTIONEE  
+By: /s/ Craig Kaufmann  
+Name: Craig Kaufmann

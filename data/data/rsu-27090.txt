@@ -1,0 +1,137 @@
+Exhibit 10.2
+
+ZEBRA TECHNOLOGIES CORPORATION
+
+2002 NON-EMPLOYEE DIRECTOR STOCK OPTION PLAN
+
+
+
+THIS NON-QUALIFIED STOCK OPTION AGREEMENT (this “Option Agreement”), dated as of (the “Grant Date”), is between Zebra Technologies Corporation, a Delaware corporation (the “Company”), and , (the “Participant”) relating to an option granted under the Zebra Technologies Corporation 2002 Non-Employee Director Stock Option Plan (the “Plan”). Capitalized terms used in this Option Agreement without definition shall have the meanings ascribed to such terms in the Plan.
+
+# 1. Grant of Option, Option Price and Term.
+
+# 
+
+## (a) Grant.  The Company grants to the Participant a Non-Qualified Stock Option (the “Option”) to purchase shares (the “Option Shares”) of the Company’s Class A Common Stock, $0.01 par value per share (“Stock”), at a price of $ per share (the “Option Price”), subject to the provisions of the Plan and the terms and conditions herein.
+
+## 
+
+## (b) Standard Vesting. Prior to the Expiration Date (as hereinafter defined), the Option shall become and be exercisable as follows: 20% of the number of Option Shares shall vest on the first anniversary of the Grant Date, and thereafter the Option shall vest with respect to additional Option Shares at a rate of 20% of the original number of Option Shares with such additional vesting occurring on each successive annual anniversary of the Grant Date, provided that the Participant continues to serve as a Director through the applicable vesting dates. The Option is not exercisable at any time with respect to unvested shares, and upon Participant ceasing to be a Director no further Option Shares shall become vested.
+
+## 
+
+## (c) Change in Control Vesting. In lieu of the standard vesting schedule in Section 1(b) above, if a Change in Control occurs 100% of the remaining unvested Option Shares shall be vested immediately before the Change in Control occurs.
+
+## 
+
+## (d) Nontransferable. The Option granted hereunder shall be non-transferable, except by will or the laws of descent and distribution or pursuant to a qualified domestic relations order as defined in the Code or to a Family Member of Participant as permitted by the Plan.
+
+## 
+
+## (e) No fractions. The Company shall not be required to issue any fractional shares of Stock.
+
+## 
+
+## (f) Expiration. The “Expiration Date” shall be the earliest to occur of:
+
+## 
+
+### (i) the ten (10) year anniversary of the Grant Date;
+
+### 
+
+### (ii) the one (1) year anniversary of the day the Participant ceases to be a Director; or
+
+* * *
+
+  
+
+
+### (iii) the day a Participant is removed by the stockholders for cause or resigns as a Director for Cause.
+
+### 
+
+Notwithstanding the foregoing, if Participant dies or becomes legally incapacitated and fewer than ninety (90) days remain prior to the Expiration Date pursuant to clauses (i) or (ii) above, then the Expiration Date shall not terminate prior to the ninetieth (90th) day following the date of appointment of a Representative. “Cause” means conduct by the Participant that involves theft or fraud with respect to the Company or as is otherwise determined in accordance with the Delaware General Corporation Law. “Representative” means (1) the person or entity acting as the executor or administrator of a Participant’s estate pursuant to the last will and testament of a Participant or pursuant to the laws of the jurisdiction in which the Participant had his or her primary residence at the date of the Participant’s death; (2) the person or entity acting as the guardian or temporary guardian of a Participant; (3) the person or entity which is the beneficiary of the Participant upon or following the Participant’s death; or (4) any person to whom a Stock Option has been transferred with the permission of the Committee or by operation of law; provided that only one of the foregoing shall be the Representative at any point in time as determined under applicable law and recognized by the Committee.
+
+# 2. Exercise.
+
+# 
+
+The Option may only be exercised to the extent the Option is exercisable and by the delivery to the Company of a properly completed written notice, in form satisfactory to the Committee, which notice shall specify the number of Option Shares to be purchased and the aggregate Option Price for such shares, together with payment in full of such aggregate Option Price. Payment shall only be made as specified in the Plan. If any part of the payment of the Option Price is made in shares of Stock, such shares shall be valued by using their Fair Market Value as of the date of exercise of the Option.
+
+The Participant may not exercise the Option if the Company’s issuance of Stock upon such exercise would violate any applicable federal or state securities laws or other laws or regulations. The Participant may not sell or otherwise dispose of the Option Shares in violation of applicable law. The Company may postpone issuing and delivering any Option Shares for so long as the Company reasonably determines to be necessary to satisfy the following: (i) its completing or amending any securities registration or qualification of the Option Shares or its or the Participant satisfying any exemption from registration under any Federal or state law, rule, or regulation; (ii) its receiving proof it considers satisfactory that a person seeking to exercise the Option after the Participant’s death is entitled to do so; (iii) the Participant complying with any requests for representations under the Plan; and (iv) the Participant complying with any federal, state, or local tax withholding obligations.
+
+# 3. Payment of Taxes.
+
+# 
+
+If the Company is obligated to withhold an amount on account of any tax imposed as a result of the exercise of the Option, the Participant shall be required to pay such amount to the Company, as provided in the Plan. The Participant acknowledges and agrees that the Participant is responsible for the tax consequences associated with the grant of the Option and its exercise.
+
+* * *
+
+  
+
+
+# 4. Changes in Company’s Capital Structure.
+
+# 
+
+The existence of the Option will not affect in any way the right or authority of the Company or its stockholders to make or authorize (a) any adjustment, recapitalization, reorganization or other changes in the Company’s capital structure or its business; (b) any merger or consolidation of the Company; (c) any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Stock or the rights thereof; (d) the dissolution or liquidation of the Company; (e) any sale or transfer of all or any part of the Company’s assets or business; or (f) any other corporate act or proceeding, whether of a similar character or otherwise. In the event of a Change in Control or other corporate transaction provided for in the Plan, the Participant shall have such rights, and the Committee shall take such actions, as are provided for in the Plan.
+
+# 5. Plan.
+
+# 
+
+The Option is granted pursuant to the Plan, and the Option and this Option Agreement are in all respects governed by the Plan and subject to all of the terms and provisions thereof, whether such terms and provisions are incorporated in this Option Agreement by reference or are expressly cited. Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Plan.
+
+# 6. No Service or Employment Rights.
+
+# 
+
+No provision of this Option Agreement or of the Option granted hereunder shall give the Participant any right to continue in the service or employ of the Company or any Affiliate of the Company, create any inference as to the length of employment or service of the Participant, affect the right of the Company or any Affiliate of the Company to terminate the employment or service of the Participant, with or without cause, or give the Participant any right to participate in any employee welfare or benefit plan or other program (other than the Plan) of the Company or any Affiliate of the Company.
+
+# 7. Governing Law.
+
+# 
+
+This Option Agreement and the Option granted hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without giving effect to provisions thereof regarding conflict of laws.
+
+# 8. Waiver; Cumulative Rights.
+
+# 
+
+The failure or delay of either party to require performance by the other party of any provision hereof shall not affect its right to require performance of such provision unless and until such performance has been waived in writing. Each and every right hereunder is cumulative and may be exercised in part or in whole from time to time.
+
+# 9. Notices.
+
+# 
+
+Any notice which either party hereto may be required or permitted to give the other shall be in writing and may be delivered personally or by mail, postage prepaid, addressed to the
+
+* * *
+
+  
+
+
+Secretary of the Company, at its then corporate headquarters, and the Participant at the Participant’s address as shown on the Company’s records, or to such other address as the Participant, by notice to the Company, may designate in writing from time to time.
+
+[signature page follows]
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Option Agreement to be duly executed by an officer thereunto duly authorized, and the Participant has hereunto set his or her hand, all as of the day and year first above written.
+
+ZEBRA TECHNOLOGIES CORPORATION
+
+Participant  
+  
+By:  
+  
+Name: Edward L. Kaplan  
+  
+Title: Chairman and CEO  
+  
+* * *

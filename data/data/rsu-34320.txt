@@ -1,0 +1,217 @@
+EXHIBIT 10.9
+
+
+
+THIS STOCK OPTION AGREEMENT (the “Agreement”), made this ___ day of  , 20___ between Health Care REIT, Inc., a Delaware corporation (the “Corporation”), and  (the “Participant”). 
+
+WITNESSETH:
+
+WHEREAS, the Participant is an employee and executive officer of the Corporation; and 
+
+WHEREAS, the Corporation adopted the Health Care REIT, Inc. 2005 Long-Term Incentive Plan (the “Plan”) in order to provide non-employee directors and select officers and key employees with incentives to achieve long-term corporate objectives; and 
+
+WHEREAS, the Compensation Committee of the Corporation’s Board of Directors decided that the Participant should be granted stock options to purchase shares of the Corporation’s common stock, $1.00 par value per share (“Common Stock”), on the terms and conditions set forth below, and in accordance with the terms of the Plan. 
+
+NOW, THEREFORE, in consideration of the covenants and agreements herein contained and intending to be legally bound hereby, the parties hereto agree as follows: 
+
+1\. Grant of Options. 
+
+Subject to the terms and conditions of this Agreement, the Corporation hereby grants to the Participant the right and option to purchase up to a total of  shares of the Common Stock of the Corporation, at the option price of $ per share (the “Options”). 
+
+The Options shall consist of options to purchase  shares of Common Stock intended to qualify as incentive stock options (“ISOs”) within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”), and options to purchase  shares of Common Stock not intended to qualify as ISOs (“Nonstatutory Options”). 
+
+2\. Period of Exercise. 
+
+The Options shall become exercisable by the Participant in five installments. Subject to the accelerated vesting provided for in Sections 9, 10 and 11 below, at any time during the term of the Options, the maximum number of shares of Common Stock the Participant may purchase by exercising Nonstatutory Options, and the maximum number which the Participant may purchase by exercising ISOs, shall be limited as specified in the following schedule: 
+
+* * *
+
+#####   
+  
+MAXIMUM NUMBER OF  
+SHARES THAT MAY BE MAXIMUM NUMBER OF  
+PURCHASED BY SHARES THAT MAY BE  
+EXERCISING PURCHASED BY  
+PERIOD NONSTATUTORY OPTIONS EXERCISING ISOs  
+  
+From  , 20___ to Jan.  , 20___ 
+
+Up to  shares  Up to  shares  
+  
+From  , 20___ to Jan.  , 20___ 
+
+Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)  Up to  shares (less any shares previously purchased by exercising ISOs)  
+  
+From  , 20___ to Jan.  , 20___ 
+
+Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)  Up to  shares (less any shares previously purchased by exercising ISOs)  
+  
+From  , 20___ to Jan.  , 20___ 
+
+Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)  Up to  shares (less any shares previously purchased by exercising ISOs)  
+  
+From  , 20___ to Jan.  , 20___ 
+
+Up to  shares (less any shares previously purchased by exercising Nonstatutory Options)  Up to  shares (less any shares previously purchased by exercising ISOs)  
+  
+If, during any of these periods, the Participant fails to exercise the Options with respect to all or any portion of the shares that may be acquired at such time, the Participant shall be entitled to exercise the Options with respect to the remaining portion of such shares at any subsequent time prior to the termination date of the Options. 
+
+The Options intended to be ISOs are subject to the $100,000 annual limit on vesting of ISOs as set forth in Section 422(d) of the Code. To the extent the aggregate fair market value (determined at the date of grant) of the shares of Common Stock with respect to which those ISOs first become exercisable by the Participant during any calendar year under this Section 2 (when aggregated with any prior ISOs granted to the Participant under stock option plans of the Corporation) exceeds $100,000, whether by reason of accelerated vesting under Sections 9, 10 or 11 or otherwise, the Options shall consist of ISOs for the maximum number of shares that may be covered by ISOs without violating Section 422(d) of the Code, and the remaining Options becoming exercisable in that year shall be treated as Nonstatutory Options. 
+
+2
+
+* * *
+
+##### 
+
+3\. Termination Date of Options. 
+
+The Options granted herein, and the related Dividend Equivalent Rights under Section 8 below, shall terminate on  , 20___, the tenth anniversary of the date of grant, and the Participant shall have no right to exercise the Options at any time thereafter. 
+
+4\. Manner of Exercise. 
+
+If the Participant elects to exercise the Options to purchase shares of Common Stock, the Participant shall give written notice of such exercise to the Corporate Secretary of the Corporation. The notice of exercise shall state the number of shares of Common Stock as to which the Options are being exercised, and the Corporation shall determine whether the Options exercised are ISOs or Nonstatutory Options. 
+
+The Participant may exercise the Options to purchase all, or any lesser whole number, of the number of shares of Common Stock that the Participant is then permitted to purchase under Section 2\. 
+
+5\. Payment for Shares. 
+
+Full payment of the option price for the shares of Common Stock purchased by exercising the Options shall be due at the time the notice of exercise is delivered pursuant to Section 4. Such payment may be made (i) in cash, (ii) by delivery of shares of Common Stock currently owned by the Participant with a fair market value equal to the option price, or (iii) in any other form acceptable to the Corporation. 
+
+Alternatively, the Participant shall be deemed to have paid the full option price due upon exercise of the Options, if the Participant’s notice of exercise is accompanied by an irrevocable instruction to the Corporation to deliver the shares of Common Stock issuable upon exercise of the Options (less any shares withheld to satisfy the Participant’s tax obligations pursuant to Section 7 below) promptly to a broker-dealer designated by Participant, together with an irrevocable instruction to such broker-dealer to sell at least that portion of the shares necessary to pay the option price (and any tax withholding related expenses specified by the parties), and that portion of the sale proceeds needed to pay the option price is delivered directly to the Corporation no later than the close of business on the settlement date. 
+
+6\. Issuance of Stock Certificates for Shares. 
+
+The stock certificates (or other evidence of ownership) for any shares of Common Stock issuable to the Participant upon exercise of the Options shall be delivered to the Participant (or to the person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution) as promptly after the date of exercise as is feasible, but not before the Participant has paid the option price for such shares and made any arrangements for tax withholding, as required by Section 7. 
+
+3
+
+* * *
+
+##### 
+
+7\. Tax Withholding. 
+
+Whenever the Participant exercises Options, the Corporation shall notify the Participant of the amount of tax (if any) that must be withheld by the Corporation under all applicable federal, state and local tax laws. With respect to each exercise of the Options, the Participant agrees to make arrangements with the Corporation to (a) remit the required amount to the Corporation in cash, (b) authorize the Corporation to withhold a portion of the shares of Common Stock otherwise issuable upon the exercise with a value equal to the required amount, (c) deliver to the Corporation shares of Common Stock with a value equal to the required amount, (d) authorize the deduction of the required amount from the Participant’s compensation, or (e) otherwise provide for payment of the required amount in any other manner satisfactory to the Corporation. 
+
+8\. Dividend Equivalent Rights. 
+
+The Participant is hereby granted rights to receive deferred payments equivalent in value to the dividends payable on the shares of Common Stock (“Dividend Equivalent Rights”) issuable under the Options if such shares were outstanding on the dividend record dates between the date the Options were granted to the Participant and  , 20___, or if earlier, the date of a Change in Corporate Control, the termination of the Participant’s employment with the Corporation, or the Participant’s death, Disability (as defined in the Plan) or retirement after age 65 (collectively, the “Triggering Events” and each, a “Triggering Event”). An unfunded bookkeeping account shall be created for the Participant and the Participant’s rights to the balances credited to such account shall be no greater than those of an unsecured creditor of the Corporation. 
+
+On each dividend record date occurring after the date of grant of the Options and before the date the Options become exercisable, the Participant’s account shall be credited with a dollar amount equal to the dividends payable with respect to the shares of Common Stock issuable under the Options if such shares were outstanding on the dividend record date: 
+
+(a) In the case of a cash dividend declared on the Common Stock, the amount credited to the Participant’s account with respect thereto shall be equal to the dividend declared per share of Common Stock multiplied by the number of shares of Common Stock subject to the Options as of the dividend record date; and 
+
+(b) In the case of a stock dividend declared on the Common Stock, the amount credited to the Participant’s account with respect thereto shall be equal to the dividend declared per share of Common Stock multiplied by (i) the number of shares of Common Stock subject to the Options and (ii) the current fair market value of a share of Common Stock on the dividend payment date. 
+
+When the Options with respect to which the Participant has been granted Dividend Equivalent Rights first become exercisable pursuant to Section 2, 9, 10 or 11, the Participant shall be entitled to receive from the Corporation a distribution equal to (i) the dollar amount then accumulated in his or her account, as described above, and not previously distributed as provided in this section, multiplied by (ii) a fraction the numerator of which shall be the number of shares subject to the Options that first become exercisable on such date and the 
+
+4
+
+* * *
+
+##### 
+
+denominator of which shall be the sum of such number and the total number of shares subject to Options that have not yet become exercisable. The Participant’s account shall be debited by a dollar amount equal to the distribution. If the Options with respect to which the Participant has been granted Dividend Equivalent Rights first become exercisable pursuant to Section 2, 10 or 11, the distribution shall be delivered to the Participant in the form of a cash payment within 60 days following the date such Option first becomes exercisable under Section 2, 10 or 11. If the Options with respect to which the Participant has been granted Dividend Equivalent Rights first become exercisable under Section 9, the distribution shall be delivered to the Participant in the form of a cash payment within 60 days following the first to occur of: (a) the date such Option would otherwise have become exercisable under Section 2, and (b) the date of the Participant’s termination of employment. 
+
+In addition, after the Options have become exercisable, the Participant shall be entitled to receive from the Corporation each quarter distributions equal to the quarterly dividend declared per share of Common Stock multiplied by the number of shares of Common Stock that have become exercisable until  , 20___, or if earlier, on the date of a Triggering Event. Such distributions shall be paid in cash within 90 days following the end of each calendar quarter. In connection with the distributions described in this section, the Participant shall satisfy all tax withholding obligations in a manner described in Section 7 above. 
+
+The right to receive Dividend Equivalent Rights shall survive the exercise of the Options by the Participant. However, all rights and claims to the Dividend Equivalent Rights will terminate on  , 20___, or if earlier, on the date of a Triggering Event without regard to any additional periods of time during which the Options may continue to be exercised. 
+
+9\. Termination of Employment; Change in Corporate Control. 
+
+In the event of a Change in Corporate Control (as described below), or if the Participant’s employment with the Corporation is terminated before the Options expire or have been exercised with respect to all of the shares of Common Stock subject to the Options (as provided in subsections (a) and (b) below), the Participant shall have the right to exercise the Options during a period of ninety (90) days following the date of the Change in Corporate Control or termination of employment (as applicable), but in no event later than  , 20___, and the Options shall expire at the end of such period. 
+
+(a) In the event of a Change in Corporate Control, or if the Participant’s employment is terminated involuntarily without “Cause” (as defined in the Participant’s Employment Agreement), any portion of the Options not previously exercisable under Section 2 shall become immediately exercisable and the Participant shall be entitled to receive a cash payment of any balance then credited to the Participant’s Dividend Equivalent Rights account pursuant to Section 8. 
+
+(b) In the case of an involuntary termination not described in subsection (a) above, or a voluntary termination by the Participant not following a Change in Corporate Control, the maximum number of shares the Participant may purchase by exercising the Options shall be the number of shares which could be purchased at the date of 
+
+5
+
+* * *
+
+##### 
+
+termination pursuant to Section 2. Participant shall not be entitled to receive a cash payment of any balance then credited to the Participant’s Dividend Equivalent Rights account pursuant to Section 8. 
+
+For purposes of this Section 9, termination of employment as a result of the expiration of the Participant’s Employment Agreement shall be considered a voluntary termination if the notice of non-renewal was delivered by the Participant and an involuntary termination if the notice of non-renewal was delivered by the Corporation and in both instances, the Participant is no longer employed by the Corporation. 
+
+For purposes of this Section 9, a “Change in Corporate Control” shall include any of the following events: 
+
+(i) The acquisition in one or more transactions of more than twenty percent of the Corporation’s outstanding Common Stock (or the equivalent in voting power of any class or classes of securities of the Corporation entitled to vote in elections of directors) by any corporation, or other person or group (within the meaning of Section 14(d)(3) of the Securities Exchange Act of 1934, as amended); 
+
+(ii) Any transfer or sale of substantially all of the assets of the Corporation, or any merger or consolidation of the Corporation into or with another corporation in which the Corporation is not the surviving entity; 
+
+(iii) Any election of persons to the Board of Directors which causes a majority of the Board of Directors to consist of persons other than “Continuing Directors.” For this purpose, those persons who were members of the Board of Directors on  , 20___, shall be “Continuing Directors.” Any person who is nominated for election as a member of the Board after  , 20___ shall also be considered a “Continuing Director” for this purpose if, and only if, his or her nomination for election to the Board of Directors is approved or recommended by a majority of the members of the Board (or of the relevant Nominating Committee) and at least five (5) members of the Board are themselves Continuing Directors at the time of such nomination; or 
+
+(iv) Any person, or group of persons, announces a tender offer for at least twenty percent (20%) of the Corporation’s Common Stock. 
+
+10\. Effect of Death. 
+
+If the Participant dies before the Options expire or have been exercised with respect to all of the shares of Common Stock subject to the Options, any portion of the Options not previously exercisable under Section 2 shall become exercisable, and the Participant’s executor, administrator, or any person to whom the Options may be transferred by the Participant’s will or by the laws of descent and distribution, shall have the right to (i) exercise the Options, to the extent not previously exercised, at any time prior to the first anniversary of the date of death, but in no event later than  , 20___, and (ii) to receive a cash payment of any balance then credited to the Participant’s Dividend Equivalent Rights account pursuant to 
+
+6
+
+* * *
+
+##### 
+
+Section 8 above. For this purpose, the terms of this Agreement shall be deemed to apply to such person as if he or she was the Participant. 
+
+11\. Effect of Disability; Effect of Retirement After Age 65. 
+
+If a Participant incurs a Disability, (i) any portion of the Options not previously exercisable under Section 2 shall become exercisable and shall continue to be exercisable for a period of twelve (12) months following the date of termination of employment, but in no event later than  , 20___, and (ii) the Participant shall be entitled to receive a cash payment of any balance then credited to the Participant’s Dividend Equivalent Rights account pursuant to Section 8\. 
+
+If the termination of the Participant’s employment occurs as a result of retirement after age 65, (i) any portion of the Options not previously exercisable under Section 2 shall become exercisable, and shall continue to be exercisable for a period of twelve (12) months following the date of retirement, but in no event later than  , 20___, and (ii) the Participant shall be entitled to receive a cash payment of any balance then credited to the Participant’s Dividend Equivalent Rights account pursuant to Section 8. 
+
+12\. Nontransferability. 
+
+The Participant’s rights under this Agreement may not be assigned or transferred by the Participant other than by will or the laws of descent and distribution. The Options may not be exercised by anyone other than the Participant or, in the case of the Participant’s death, by the person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution. 
+
+13\. Securities Laws. 
+
+The Corporation may from time to time impose any conditions on the exercise of the Options as it deems necessary or advisable to ensure that the Options granted hereunder, and each exercise thereof, satisfy the applicable requirements of federal and state securities laws. Such conditions to satisfy applicable federal and state securities laws may include, without limitation, the partial or complete suspension of the right to exercise the Options until the offering of the shares covered by the Options have been registered under the Securities Act of 1933, as amended, or the printing of legends on all stock certificates issued to the Participant describing the restrictions on transfer of such shares. 
+
+14\. Rights Prior to Issuance of Certificates. 
+
+Neither the Participant nor any person to whom the rights of the Participant shall have passed by will or the laws of descent and distribution shall have any of the rights of a stockholder with respect to any shares of Common Stock until the date of the issuance to him or her of certificates (or other evidence of ownership) for such Common Stock as provided in Section 6 above. 
+
+7
+
+* * *
+
+##### 
+
+15\. Options Not to Affect Employment. 
+
+Neither this Agreement nor the Options granted hereunder shall confer upon the Participant any right to continued employment with the Corporation. This Agreement shall not in any way modify or restrict any rights the Corporation may have to terminate such employment under the terms of the Participant’s Employment Agreement. 
+
+16\. Miscellaneous. 
+
+(a) This Agreement may be executed in one or more counterparts all of which taken together will constitute one and the same instrument. 
+
+(b) The terms of this Agreement may only be amended, modified or waived by a written agreement executed by both of the parties hereto. 
+
+(c) The validity, performance, construction and effect of this Agreement shall be governed by the laws of the State of Ohio, without giving effect to principles of conflicts of law; provided, however, that matters of corporate law, including the issuance of shares of the Common Stock, shall be governed by the Delaware General Corporation Law. 
+
+17\. Section 409A Compliance. 
+
+This Agreement is intended to comply with the requirements of Section 409A of the Code and shall be interpreted and construed consistently with such intent. To the extent any amounts under this Agreement are payable by reference to the Participant’s “termination of employment,” such term shall be deemed to refer to the Participant’s “separation from service” (as defined in Treasury Regulation Section 1.409A-1(h) (without regard to any permissible alternative definition thereunder)) with the Corporation and all entities treated as a single employer with the Corporation under Section 414(b) and (c) of the Code but substituting a 50% ownership level for the 80% ownership level set forth therein. Notwithstanding any other provision in this Agreement, if the Participant is a “specified employee,” as defined in Section 409A of the Code, as of the date of the Participant’s separation from service, then to the extent any amount payable under this Agreement (i) constitutes the payment of nonqualified deferred compensation, within the meaning of Section 409A of the Code, (ii) is payable upon the Participant’s separation from service and (iii) under the terms of this Agreement would be payable prior to the six-month anniversary of the Participant’s separation from service, such payment shall be delayed until the earlier to occur of (a) the six-month anniversary of the separation from service or (b) the date of Participant’s death. 
+
+8
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date and year first above written.   
+  
+ATTEST
+
+HEALTH CARE REIT, INC.  
+  
+WITNESS:
+
+PARTICIPANT:  
+  
+9

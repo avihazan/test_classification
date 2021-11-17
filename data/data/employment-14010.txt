@@ -1,0 +1,385 @@
+  
+
+
+  
+
+
+Exhibit 10.24
+
+
+
+This EMPLOYMENT AGREEMENT (this "Agreement") is made and entered into as of May 4, 2011, by and between American Campus Communities, Inc. (the "Company") and Daniel Perry ("Executive").
+
+W I T N E S S E T H:
+
+WHEREAS, the Company desires to employ Executive and to enter into an agreement embodying the terms of such employment and Executive desires to enter into this Agreement and to accept such employment, subject to the terms and provisions of this Agreement.
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein and for other good and valuable consideration, the receipt of which is mutually acknowledged, the Company and Executive agree as follows:
+
+Section 1.Definitions.
+
+(a) "Accrued Obligations" shall mean (i) all accrued but unpaid Base Salary through the date of termination of Executive's employment, (ii) any unpaid Annual Bonus in respect to any completed fiscal year which has ended prior to the date of termination of Executive's employment, (iii) any earned but unpaid holiday, vacation or paid time off; and (iv) any expenses incurred in accordance with Section 7, below, that remain unpaid or unreimbursed as of the date of termination of Executive's employment. The Accrued Obligations shall be paid within five (5) business days of the termination of Executive's employment under this Agreement, except amounts payable with respect to unpaid Annual Bonus, which shall be paid on the earliest of (i) the first (1st) anniversary of the date upon which Executive's Annual Bonus was paid in respect of the prior year, (ii) at such time Annual Bonus amounts are paid to other senior executives, or (iii) March 15th of the calendar year following such termination of Executive's employment.
+
+(b) "Annual Bonus" shall have the meaning set forth in Section 4(b) below.
+
+(c) "Auditor" shall mean a nationally recognized United States public accounting firm, jointly selected by the Company and Executive, which has not, during the two years preceding the date of its selection, acted in any way on behalf of the Company or any of its subsidiaries. If Executive and the Company cannot agree on the firm to serve as the Auditor, then Executive and the Company shall each select one accounting firm and those two firms shall jointly select the accounting firm to serve as the Auditor.
+
+(d) "Base Salary" shall mean the salary provided for in Section 4(a) below or any increased salary granted to Executive pursuant to Section 4(a).
+
+(e) "Board" shall mean the Board of Directors of the Company.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(f) "Cause" shall mean (i) Executive's act of gross negligence or gross misconduct that has the effect of injuring the business of the Company and its affiliates, taken as a whole, in any material respect; (ii) Executive's conviction of, or plea of guilty or nolo contendere to, the commission of a felony by Executive; (iii) the commission by Executive of an act of fraud or embezzlement against the Company or its affiliates; or (iv) Executive's willful breach of any material provision of this Agreement or the Noncompete Agreement.
+
+(g) "Change in Control" shall mean:
+
+(i) The acquisition by any individual, entity or group (other than the Company or any employee benefit plan of the Company) of beneficial ownership (within the meaning of Rule 13d-3 promulgated under the Securities Exchange Act of 1934) of securities representing more than 50% of the voting securities of the Company entitled to vote generally in the election of directors , determined on a fully-diluted basis ("Company Voting Securities"); provided, however, that such acquisition shall not constitute a Change in Control hereunder if a majority of the holders of the Company Voting Securities immediately prior to such acquisition retain directly or through ownership of one or more holding companies, immediately following such acquisition, a majority of the voting securities entitled to vote generally in the election of directors of the successor entity;
+
+(ii) The date upon which individuals who as of the date hereof constitute a majority of the Board (the "Incumbent Board") cease to constitute at least a majority of the Board, provided, that any individual becoming a director subsequent to the date hereof whose election, or nomination for election by the Company's shareholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board; or
+
+(iii) Consummation of a reorganization, merger or consolidation or sale or other disposition of all or substantially all of the assets of the Company (a "Business Combination"), in each case, unless, following such Business Combination, all or substantially all of the individuals or entities who were the beneficial owners, respectively, of the Company Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than 50% of, respectively, the then outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the corporation resulting from such Business Combination (including, without limitation, a corporation which as a result of such transaction owns the Company or all or substantially all of the Company's assets either directly or through one or more subsidiaries).
+
+(h) "COBRA" shall mean the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended.
+
+(i) "Code" shall mean the Internal Revenue Code of 1986, as amended.
+
+  
+
+
+-2-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(j) "Disability" shall mean any physical or mental disability or infirmity that prevents the performance of Executive's duties for a period of (i) six (6) consecutive months or (ii) an aggregate of twelve (12) months in any twenty-four consecutive month period. Any question as to the existence, extent or potentiality of Executive's Disability upon which Executive and the Company cannot agree shall be determined by a qualified, independent physician selected by the Company and approved by Executive (which approval shall not be unreasonably withheld). The determination of any such physician shall be final and conclusive for all purposes of this Agreement.
+
+(k) "Effective Date" shall mean May 4, 2011.
+
+(l) "Good Reason" shall mean, without Executive's consent, (i) any material diminution or change in the nature or scope of Executive's functions, duties, position, responsibilities, or reporting relationships that are inconsistent with Executive's titles (as specified in Section 3(a) hereof) or this Agreement; (ii) the relocation of Executive's principal office location more than fifty (50) miles from its current location; (iii) the failure of the Company to obtain the assumption in writing of its obligation to perform this Agreement by any successor to all or substantially all of the assets of the Company in a transaction constituting a "Change in Ownership or Effective Control" within the meaning of the regulations issued under Section 409A of the Code; or (iv) a breach by the Company of any material provision of this Agreement.
+
+(m) "Noncompete Agreement" shall mean the Confidentiality and Noncompetition Agreement attached hereto as Exhibit A.
+
+(n) "Restricted Period" shall have the meaning set forth in the Noncompete Agreement.
+
+(o) "Restricted Stock Awards" shall mean awards of common stock of the Company issued to Executive under any benefit or similar plan of the Company.
+
+(p) "Retirement" means a termination of the Term of Employment other than for Cause, Disability or death, following the date on which the sum of the following equals or exceeds seventy (70) years: (i) the number of full years of Executive's employment and other business relationships with the Company and any predecessor of the Company and (ii) Executive's age on the date of termination; provided that (x) Executive's employment by (or other business relationships with) the Company and any predecessor of the Company have continued for a period of at least one hundred twenty (120) contiguous full months at the time of termination and, on the date of termination, Executive is at least fifty (50) years old; (y) in the case of termination of the Term of Employment, Executive gives at least six (6) months' prior written notice to the Company of his or her intention to retire; and (z) the Noncompete Agreement remains in full force and effect and Executive enters into a general release of all claims in a form that is reasonably satisfactory to the Company.
+
+(q) "Severance Term" shall have the period specified in Section 8(d)(ii) below.
+
+(r) "Term of Employment" shall mean the period specified in Section 2 below.
+
+  
+
+
+-3-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 2. Acceptance and Term of Employment.
+
+The Company agrees to employ Executive and Executive agrees to serve the Company on the terms and conditions set forth herein. The Term of Employment hereunder shall commence on the Effective Date and shall continue until terminated as provided in Section 8 hereof.
+
+Section 3. Position, Duties and Responsibilities; Place of Performance.
+
+(a) During the Term of Employment, Executive shall be employed and serve as the Executive Vice President of Capital Markets of the Company (together with such other position or positions consistent with Executive's title as the Board shall specify from time to time) and shall have such duties typically associated with such title. It is currently expected that Executive will report to the Company's Chief Financial Officer. Executive also agrees to serve as an officer and/or director of any subsidiary of the Company without additional compensation. If at any time during the Term of Employment, Executive is not a Member of the Board of Directors, the parties acknowledge and agree that Executive shall have the right to be present at any meetings of the Board at which the other members of the Company's executive management team are permitted to attend, and shall receive notification in the same manner and timing as delivered to the Board with respect to such meetings; provided, however, that Executive shall not be entitled to be present during the discussion of any agenda item which personally concerns or otherwise relates to Executive.
+
+(b) Executive shall devote his full business time, attention, skill and best efforts to the performance of his duties under this Agreement and shall not engage in any other business or occupation during the Term of Employment, including, without limitation, any activity that (x) conflicts with the interests of the Company; (y) interferes with the proper and efficient performance of his duties for the Company, or (z) interferes with the exercise of his judgment in the Company's best interests. Notwithstanding the foregoing, nothing herein shall preclude Executive from (i) serving, with the prior written consent of the Company as a member of the board of directors or advisory boards (or their equivalents in the case of a non-corporate entity) of non-competing businesses and charitable organizations, (ii) engaging in charitable activities and community affairs, and (iii) managing his personal investments and affairs; provided, however, that the activities set out in clauses (i), (ii) and (iii) shall be limited by Executive so as not to materially interfere, individually or in the aggregate, with the performance of his duties and responsibilities hereunder.
+
+(c) Executive's principal place of employment shall be in Austin, Texas, although Executive understands and agrees that he may be required to travel from time to time for business reasons.
+
+Section 4. Compensation. During the Term of Employment, Executive shall be entitled to the following compensation:
+
+(a) Base Salary. Executive shall be paid an initial Base Salary (the "Base Salary"), at the annual rate of no less than $190,250, subject to applicable and authorized deductions and withholdings and payable in accordance with the regular payroll practices of the Company. Such Base Salary may be increased by the Board in its discretion, but in no event may be decreased.
+
+  
+
+
+-4-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(b) Annual Bonus. Executive shall be eligible for an annual cash bonus award determined by the Compensation Committee of the Board in respect of each fiscal year during the Term of Employment (the "Annual Bonus"); provided, however, that in the event the Company adopts an annual bonus plan for its senior executives, Executive shall participate in such plan on the same basis as other senior executives of the Company (with appropriate adjustment due to differences in title and salary). Executive shall receive the Annual Bonus in respect of any year at the same time as bonuses are paid to other executive officers of the Company, but in no event later than ninety (90) days after the end of the fiscal year for which the bonus is payable.
+
+(c) Legal Fees. The Company shall reimburse Executive for reasonable and necessary attorneys' fees incurred by Executive in the review and analysis of this Agreement, prior to Executive's execution of this Agreement.
+
+Section 5. Employee Benefits.
+
+During the Term of Employment, Executive shall be entitled to participate in health, insurance, retirement and other benefits provided to other senior executives of the Company. Executive shall also be entitled to at least the same number of holidays, vacation, sick days and other benefits as are generally allowed to senior executives of the Company in accordance with the Company policy in effect from time to time, or as otherwise granted by the Compensation Committee of the Board.
+
+Section 6. Key-Man Insurance.
+
+At any time during the Term of Employment, the Company shall have the right to insure the life of Executive for the sole benefit of the Company, in such amounts, and with such terms, as it may determine. All premiums payable thereon shall be the obligation of the Company. Executive shall have no interest in any such policy, but agrees to cooperate with the Company in taking out such insurance by submitting to physical examinations, supplying all information required by the insurance company, and executing all necessary documents, provided that no financial obligation is imposed on Executive by any such documents.
+
+Section 7. Reimbursement of Business Expenses.
+
+Executive is authorized to incur reasonable expenses in carrying out his duties and responsibilities under this Agreement and the Company shall promptly reimburse him for all business expenses incurred in connection with carrying out the business of the Company, subject to documentation in accordance with the Company's policy, as in effect from time to time.
+
+  
+
+
+-5-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 8. Termination of Employment.
+
+(a) General. The Term of Employment shall terminate upon the earliest to occur of (i) Executive's death, (ii) a termination by reason of a Disability, (iii) a termination by reason of Retirement, (iv) a termination by the Company with or without Cause, or (v) a termination by Executive with or without Good Reason. Upon any termination of Executive's employment for any reason, except as may otherwise be requested by the Company, Executive shall be deemed to have resigned from any and all directorships, committee memberships or any other positions Executive holds with the Company or any of its affiliates.
+
+(b) Termination Due to Death, Disability or Retirement. Executive's employment shall terminate automatically upon his death or Retirement. The Company may terminate Executive's employment immediately upon the occurrence of a Disability, such termination to be effective upon Executive's receipt of written notice of such termination. In the event Executive's employment is terminated due to his death, Disability or Retirement, Executive or his estate or his beneficiaries, as the case may be, shall be entitled to the Accrued Obligations and all Restricted Stock Awards shall be 100% vested.
+
+(c) Termination by the Company for Cause.
+
+(i) A termination for Cause shall not take effect unless the provisions of this subsection (i) are complied with. The Board shall give Executive not less than ten (10) business days written notice of the Board's intention to terminate Executive for Cause, such notice to state in detail the particular act or acts or failure or failures to act that constitute the grounds on which the proposed termination for Cause is based. Executive shall have ten (10) business days after the date that such written notice has been received by Executive in which to cure such conduct, to the extent such cure is possible. If he fails to cure such conduct, the termination shall be effective on the date immediately following the expiration of the ten (10) business day notice period.
+
+(ii) In the event the Company terminates Executive's employment for Cause, he shall be entitled to the Accrued Obligations and all unvested Restricted Stock Awards as of the date of termination shall be forfeited and any rights Executive had to such unvested Restricted Stock Awards shall become null and void.
+
+(d) Termination By The Company Without Cause. The Company may terminate Executive's employment at any time without Cause, effective upon Executive's receipt of written notice of such termination. In the event Executive's employment is terminated by the Company without Cause (other than due to death or Disability), Executive shall be entitled to:
+
+(i) The Accrued Obligations and all Restricted Stock Awards shall be 100% vested;
+
+(ii) An amount equal to one (1) times the sum of (x) the annual Base Salary as of the date of termination, plus (y) an average of the Annual Bonus paid or payable to Executive under the terms of this Agreement in the three (3) fiscal years immediately prior to the fiscal year in which Executive's termination of employment occurs;
+
+  
+
+
+-6-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(iii) A pro rata Annual Bonus for the year in which such termination occurs, equal to the greater of (x) the Annual Bonus paid or payable in respect of the fiscal year immediately prior the fiscal year in which Executive's termination of employment occurs, or (y) Executive's target Annual Bonus for the year in which such termination occurs, multiplied by a fraction, the numerator of which equals the number of days elapsed from the commencement of the fiscal year in which such termination occurs through the date of such termination, and the denominator of which equals 365; such amount shall be payable in full no later than March 15th of the calendar tax year following such termination of Executive's employment; and
+
+(iv) Payment for his benefit towards the cost of health continuation coverage of an amount equal to the difference between the amount paid by Executive for health insurance coverage under the Company's health benefit plan immediately prior to such termination and the cost of continuation coverage under COBRA, through the period ending on the expiration of the Restricted Period; provided, that if prior to the expiration of the Restricted Period Executive is eligible to receive health insurance benefits from a subsequent employer, payments under this subsection (iv) shall cease as of the date Executive becomes eligible.
+
+(e) Termination By Executive With Good Reason. Executive may terminate his employment with Good Reason by providing the Company thirty (30) days' written notice setting forth in reasonable specificity the event that constitutes Good Reason, within sixty (60) days of the occurrence of such event. During such thirty (30) day notice period, the Company shall have a cure right (if curable), and if not cured within such period, Executive's termination will be effective upon the expiration of such cure period, and Executive shall be entitled to the same payments and benefits as provided in Section 8(d) above for a termination without Cause.
+
+(f) Termination By Executive Without Good Reason. Executive may terminate his employment without Good Reason by providing the Company thirty (30) days' written notice of such termination. In the event of a termination of employment by Executive under this Section 8(f), Executive shall be entitled to the Accrued Obligations and all unvested Restricted Stock Awards as of the date of termination shall be forfeited and any rights Executive had to such unvested Restricted Stock Awards shall become null and void. In the event of termination of Executive's employment under this subsection (f), the Company may, in its sole and absolute discretion, at any time after notice of termination has been given by Executive, terminate Executive's employment (which in no event shall be treated as a termination without Cause or an event of Good Reason), provided that the Company shall continue to pay to Executive his then current Base Salary and continue benefits provided pursuant to Section 5 for the duration of the unexpired notice period.
+
+(g) Mitigation; Offset. In the event of any termination of employment under this Section 8, Executive shall be under no obligation to mitigate amounts payable hereunder by seeking other employment or otherwise, and there shall be no offset against any payments or amounts due to Executive under the terms of this Agreement on account of any subsequent employment by Executive or otherwise.
+
+  
+
+
+-7-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 9. Noncompete Agreement.
+
+As a condition to his employment pursuant to this Agreement, Executive shall execute the Noncompete Agreement. Executive hereby represents and warrants to the Company that he will comply with all obligations under the Noncompete Agreement and further agrees that the Noncompete Agreement will survive any termination of this Agreement or Executive's employment, or subsequent service relationship with the Company; if any. Executive agrees that any breach of his obligations under the Noncompete Agreement shall likewise and to the same extent be viewed as a breach hereunder.
+
+Section 10. Representations and Warranties of Executive.
+
+Executive represents that:
+
+(a) Executive is entering into this Agreement voluntarily and that his employment hereunder and compliance with the terms and conditions hereof will not conflict with or result in the breach by him of any agreement to which he is a party or by which he may be bound;
+
+(b) he has not, and in connection with his employment with the Company will not, violate any non-solicitation or other similar covenant or agreement by which he is or may be bound;
+
+(c) in connection with his employment with the Company he will not use any confidential or proprietary information he may have obtained in connection with employment with any prior employer; and
+
+(d) during the Term of Employment, Executive will not in any way attempt to limit the financial risk with respect to unvested options to purchase shares of the Company or any other stock-based awards granted under the Company's 2004 Incentive Award Plan or 2010 Incentive Award Plan or otherwise, by means of any hedging (including without limitation, selling short) or other techniques.
+
+Section 11. Taxes.
+
+The Company may withhold from any payments made under this Agreement all applicable taxes, including but not limited to income, employment and social insurance taxes, as shall be required by law.
+
+Section 12. Successors and Assigns; No Third-Party Beneficiaries.
+
+(a) The Company. This Agreement shall inure to the benefit of and be enforceable by, and may be assigned by the Company to, any purchaser of all or substantially all of the Company's business or assets, any successor to the Company or any assignee thereof (whether direct or indirect, by purchase, merger, consolidation or otherwise). The Company will require any such purchaser, successor or assignee to expressly assume and agree to perform this Agreement in the same manner and to the same extent that the Company would, be required to perform it if no such purchase, succession or assignment had taken place.
+
+  
+
+
+-8-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(b) Executive. Executive's rights and obligations under this Agreement shall not be transferable by Executive by assignment or otherwise, without the prior written consent of the Company; provided, however, that if Executive shall die, all amounts then payable to Executive hereunder shall be paid in accordance with the terms of this Agreement to Executive's devisee, legatee or other designee or, if there be no such designee, to Executive's estate.
+
+Section 13. Waiver and Amendments.
+
+Any waiver, alteration, amendment or modification of any of the terms of this Agreement shall be valid only if made in writing and signed by the parties hereto; provided, however, that any such waiver, alteration, amendment or modification is consented to on the Company's behalf by the Board. No waiver by either of the parties hereto of their rights hereunder shall be deemed to constitute a waiver with respect to any subsequent occurrences or transactions hereunder unless such waiver specifically states that it is to be construed as a continuing waiver.
+
+Section 14. Severability and Governing Law.
+
+If any covenants or such other provisions of this Agreement are found to be invalid or unenforceable by a final determination of a court of competent jurisdiction: (a) the remaining terms and provisions hereof shall be unimpaired, and (b) the invalid or unenforceable term or provision hereof shall be deemed replaced by a term or provision that is valid and enforceable and that comes closest to expressing the intention of the invalid or unenforceable term or provision hereof. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF TEXAS (WITHOUT GIVING EFFECT TO THE CHOICE OF LAW PRINCIPLES THEREOF) APPLICABLE TO CONTRACTS MADE AND TO BE PERFORMED ENTIRELY WITHIN SUCH STATE.
+
+Section 15. Notices.
+
+(a) Every notice or other communication relating to this Agreement shall be in writing, and shall be mailed to or delivered to the party for whom it is intended at such address as may from time to time be designated by it in a notice mailed or delivered to the other party as herein provided, provided that, unless and until some other address be so designated, all notices or communications by Executive to the Company shall be mailed or delivered to the Company at its principal executive office, and all notices or communications by the Company to Executive may be given to Executive personally or may be mailed to Executive at Executive's last known address, as reflected in the Company's records.
+
+(b) Any notice so addressed shall be deemed to be given: (i) if delivered by hand, on the date of such delivery; (ii) if mailed by courier or by overnight mail, on the first business day following the date of such mailing; and (iii) if mailed by registered or certified mail, on the third business day after the date of such mailing.
+
+  
+
+
+-9-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 16. Dispute Resolution.
+
+Any controversy arising out of or relating to this Agreement or the breach hereof (other than claims for injunctive relief arising under the Noncompete Agreement) shall be settled by binding arbitration in accordance with the Employment Dispute Resolution Rules of the American Arbitration Association (with the exception that there will be a panel of three arbitrators rather than a single arbitrator) and judgment upon the award rendered may be entered in any court having jurisdiction thereof. The costs of any such arbitration proceedings shall be borne equally by the Company and Executive, and neither party shall be entitled to recover attorney's fee or costs expended in the course of such arbitration or enforcement of the awarded rendered thereunder. The location for the arbitration shall be Austin, Texas. Any award made by such arbitrator shall be final, binding and conclusive on the parties for all purposes, and judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof.
+
+Section 17. Section Headings.
+
+The headings of the sections and subsections of this Agreement are inserted for convenience only and shall not be deemed to constitute a part thereof affect the meaning or interpretation of this Agreement or of any term or provision hereof.
+
+Section 18. Entire Agreement.
+
+This Agreement, together with the Noncompete Agreement, constitutes the entire understanding and agreement of the parties hereto regarding the employment of Executive. This Agreement supersedes all prior negotiations, discussions, correspondence, communications, understandings and agreements between the parties relating to the subject matter of this Agreement.
+
+Section 19. Survival of Operative Sections.
+
+Upon any termination of Executive's employment, the provisions of Section 8 through Section 20 of this Agreement shall survive to the extent necessary to give effect to the provisions thereof.
+
+Section 20. Counterparts.
+
+This Agreement may be executed in two or more counterparts, each of which shall be deemed to be an original but all of which together shall constitute one and the same instrument. The execution of this Agreement may be by actual or facsimile signature.
+
+  
+
+
+  
+
+
+  
+  
+  
+* * *  
+  
+[Signatures to appear on the following page.]  
+  
+  
+
+
+-10-
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first above written.  
+  
+AMERICAN CAMPUS COMMUNITIES, INC.  
+  
+By: 
+
+/s/ William C. Bayless, Jr.  
+  
+William C. Bayless, Jr.
+
+President and Chief Executive Officer  
+  
+/s/ Daniel B. Perry  
+  
+Daniel B. Perry  
+  
+  
+
+
+  
+
+
+  
+
+
+-11-
+
+  
+

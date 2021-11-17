@@ -1,0 +1,187 @@
+Exhibit 10.3
+
+
+
+THIS AGREEMENT is entered into as of December 7, 2009, between Joy Global Inc., a Delaware Corporation, (the “Company”) and (the “Employee”). In consideration of the mutual promises and covenants made in this Agreement and the mutual benefits to be derived from this Agreement, the Company and the Employee agree as follows: 
+
+Subject to the provisions of this Agreement and the provisions of the Joy Global Inc. 2007 Stock Incentive Plan (as amended from time to time, the “Plan”), the Company hereby grants to the Employee restricted stock units (the “Restricted Stock Units”) as of December 7, 2009, (the “Grant Date”). This grant constitutes an “other stock-based award” under Section 8 of the Plan. Capitalized terms not defined in this Agreement have the meanings given to them in the Plan. 
+
+1\. Vesting. 
+
+(a) Subject to the provisions of Paragraph 5(a) of this Agreement, the Restricted Stock Units will vest, become non-forfeitable and be settled as follows: one-third on December 7, 2012 (with fractional units rounded up to the next whole unit); one-third on December 7, 2013, (with fractional units rounded up to the next whole unit); and the remainder on December 7, 2014, (each such date, an “Original Settlement Date” with respect to the applicable units).  
+(b) Employee agrees to comply with the Company’s Executive Leadership Team Stock Ownership Policy, which is attached as Exhibit 1, with respect to this award.  
+(c) If for any reason the Employee does not acknowledge and accept this Agreement by 5:00 p.m. Milwaukee time on December 6, 2010, then (1) the Employee shall be considered to have declined the grant of the Restricted Stock Units, (2) the Company’s grant of the Restricted Stock Units shall be deemed automatically rescinded and the Restricted Stock Units shall be null and void and (3) the Employee’s acceptance of this Agreement after such time shall have no legal effect and the Company shall not be bound by any such acceptance.  
+  
+2\. Restriction Period. The Restriction Period with respect to each Restricted Stock Unit is the time between the Grant Date and the date such Restricted Stock Unit vests. 
+
+3\. No Shareholder Rights Before Settlement. The Employee shall not be entitled to any rights or privileges of ownership of shares of Common Stock with respect to any Restricted Stock Unit unless and until a share of Common Stock is actually delivered to the Employee in settlement of such Restricted Stock Unit pursuant to this Agreement. 
+
+4\. Dividends. On each payment date with respect to any dividend or distribution to holders of Common Stock with a record date occurring during a Restriction Period, the Employee will be credited with additional Restricted Stock Units (rounded to the nearest whole unit) having a value equal to the amount of the dividend or distribution that would have been 
+
+1
+
+* * *
+
+##### 
+
+payable with respect to the unvested Restricted Stock Units if they had been actual shares of Common Stock on such record date, based on the Fair Market Value of a share of Common Stock on the applicable payment date. Such additional Restricted Stock Units shall also be credited with additional Restricted Stock Units as further dividends or distributions are declared, and all such additional Restricted Stock Units shall be subject to the same restrictions and conditions as the Restricted Stock Units with respect to which they were credited. 
+
+5\. Forfeiture and Settlement of Units. 
+
+(a) If the Employee incurs a Termination of Employment for any reason, any Restricted Stock Units that had not become non-forfeitable prior to the date of such Termination of Employment shall be forfeited; provided, however, that if such Termination of Employment is by reason of the Employee’s death or Disability, the Restricted Stock Units shall become non-forfeitable; and provided further that if such Termination of Employment is due to Retirement, the Committee shall have the discretion to determine as of the date of such Retirement that any Restricted Stock Units that had not become non-forfeitable prior to the date of such Termination of Employment due to Retirement shall become non-forfeitable. If the Restricted Stock Units become nonforfeitable on account of the Employee’s death or Disability (provided that, on account of the Disability, the Employee is disabled within the meaning of Section 409A(a)(2)(C) of the Code and the regulations thereunder) (a “409A Disability”), the Restricted Stock Units shall be settled as soon as practicable (but no more than 30 days) after the Employee’s death or the 409A Disability. If the Restricted Stock Units become nonforfeitable on account of Disability (other than a 409A Disability) or, in the discretion of the Committee, on account of Retirement, the Restricted Stock Units shall continue to vest and be settled in accordance with the schedule in Paragraph 1 of this Agreement. If, in the event of the Employee’s death, the Employee fails to designate a beneficiary, or if the designated beneficiary of the Employee dies before the Employee dies or before the complete payment of the amounts payable under this Agreement, the amounts to be paid under this Agreement shall be paid to the legal representative or representatives of the estate of the last to die of the Employee and the beneficiary.  
+(b) Unless earlier forfeited or settled pursuant to Paragraph 5(a) of this Agreement, each Restricted Stock Unit shall be settled at the end of the Restriction Period applicable to such Restricted Stock Unit. Each Restricted Stock Unit settled pursuant to this Paragraph 5 shall be settled by delivery of one share of Common Stock. Any fractional Restricted Stock Units shall be rounded to the nearest whole number.  
+  
+6\. Change in Control and Corporate Events. 
+
+(a) Notwithstanding any other provision of this Agreement, in the event of a Change in Control (unless such Change in Control does not qualify as an event described in Section 409A(a)(2)(A)(v) of the Code and the regulations thereunder), all outstanding Restricted Stock Units held by the Employee on the effective date of  
+  
+2
+
+* * *
+
+##### 
+
+the Change in Control, whether or not then vested, shall be settled as soon as practicable (but no more than 30 days) after the Change in Control by payment to the Employee of an amount in cash equal to the Fair Market Value of a share of Common Stock on the date of the Change in Control times the number of such Restricted Stock Units.  
+(b) In the event of a stock split, spin-off, or other distribution of stock or property of the Company, or any reorganization (whether or not such reorganization comes within the definition of such term in Section 368 of the Code), the number of Restricted Stock Units subject to the award shall be equitably adjusted by the Committee as it determines to be appropriate in its sole discretion; provided, however, that the number of Restricted Stock Units subject to the award shall always be a whole number. In the event of any other change in corporate capitalization (including, but not limited to, a change in the number of shares of Common Stock outstanding), or a corporate transaction, such as any merger, consolidation, or separation, or any partial or complete liquidation of the Company, the number and kind of Restricted Stock Units subject to the award may be adjusted by the Board or Committee as the Board or Committee may determine to be appropriate in its sole discretion; provided, however, that the number of Restricted Stock Units subject to the award shall always be a whole number. The determination of the Board or Committee regarding any adjustment will be final and conclusive.  
+  
+7\. Nontransferability. Restricted Stock Units granted under this Agreement are not transferable by the Employee, whether voluntarily or involuntarily, by operation of law or otherwise, during the Restriction Period, except as provided in the Plan. Any assignment, pledge, transfer or other disposition, voluntary or involuntary, of the Restricted Stock Units made, or any attachment, execution, garnishment, or lien issued against or placed upon the Restricted Stock Units, except as provided in the Plan, shall be void. 
+
+8\. Administration. This Agreement and the rights of the Employee hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this Agreement, all of which shall be binding upon the Employee. 
+
+9\. Taxes and Withholdings. No later than the applicable date of settlement of the Restricted Stock Units, the Employee shall pay to the Company or make arrangements satisfactory to the Committee regarding payment of any federal, state or local taxes, and any non-U.S. taxes applicable to the Employee, of any kind required by law to be withheld upon the settlement of such Restricted Stock Units, and the Company shall, to the extent permitted or required by law, have the right to deduct from any payment of any kind due to the Employee federal, state, local and applicable non-U.S. taxes of any kind required by law to be withheld upon the settlement of such Restricted Stock Units. 
+
+3
+
+* * *
+
+##### 
+
+10\. Confidential Information; Noncompetition; Nonsolicitation. 
+
+Nothing in this Agreement or that follows limits the Company’s or Affiliates’ rights with respect to Trade Secrets which are defined by and protected by Wis. Stat. § 134.90. 
+
+(a) The Employee shall hold in a fiduciary capacity for the benefit of the Company all secret or confidential information, knowledge or data relating to the Company or any of its Affiliates and their respective businesses that the Employee obtains during the Employee’s employment by the Company or any of its Affiliates and that (i) is not public knowledge or (ii) became public knowledge as a result of the Employee’s violation of this Paragraph 10(a) (“Confidential Information”). The Employee acknowledges that the Confidential Information is highly sensitive and proprietary and includes, without limitation: product design information, product specifications and tolerances, manufacturing processes and methods, information regarding new product or new feature development, information regarding how to satisfy particular customer needs, expectations and applications, information regarding strategic or tactical planning, information regarding pending or planned competitive bids, information regarding costs, margins, and methods of estimating, and information regarding key employees. The Employee shall not communicate, divulge or disseminate Confidential Information to any person, firm, corporation, partnership or entity of any kind whatsoever under any circumstances reasonably likely to result in the use of such Confidential Information to the Company or any of its Affiliates’ competitive disadvantage at any time during or after the Employee’s employment by the Company or any of its Affiliates, for a period of two (2) years following the Termination of Employment, except with the prior written consent of the Company or as otherwise required by law or legal process.  
+All computer software, business cards, telephone lists, customer lists, price lists, contract forms, catalogs, records, files and know-how acquired while an employee of the Company or any of its Affiliates are acknowledged to be the property of the Company or the applicable Affiliate(s) and shall not be duplicated, removed from the possession or premises of the Company or such Affiliate(s) or made use of other than in pursuit of the business of the Company and its Affiliates or as may otherwise be required by law or any legal process, and, upon Termination of Employment for any reason, Employee shall deliver to the Company (or the applicable Affiliate, if the Employee is employed outside the United States), without further demand, all such items and any copies thereof which are then in his or her possession or under his or her control.  
+(b) The Employee acknowledges that his or her employment may place him or her in a position of contact and trust with customers of the Company or its Affiliates, and that in the course of employment the Employee may be given access to and asked to maintain and develop relationships with such customers. The Employee acknowledges that such relationships are of substantial value to the Company and its Affiliates and that it is reasonable for the Company to seek to prevent  
+  
+4
+
+* * *
+
+##### 
+
+Employee from giving competitors unfair access to such relationships.  
+(c) Prior to and through an eighteen-month period following the Termination of Employment date, the Employee will not, except upon prior written permission signed by the President or an Executive Vice President of the Company, consult with or advise or, directly or indirectly, as owner, partner, officer or employee, engage in business with any company or entity in competition with the Company or any of its Affiliates in the business of manufacturing, selling, servicing, or repairing equipment or parts for the surface mining industry, including but not limited to, those entities set forth in the attached Exhibit 2 and in a capacity where Confidential Information or Trade Secrets of the Company or any of its Affiliates would reasonably be considered useful. Notwithstanding the foregoing, the Employee may make and retain investments in not more than three percent of the equity of any such company if such equity is listed on a national securities exchange or regularly traded in an over-the-counter market.  
+(d) Prior to and through a two-year period following the Termination of Employment date, the Employee will not, directly or indirectly solicit or induce for employment on behalf of any company or entity in competition with the Company or any of its Affiliates in the business of manufacturing, selling, servicing or repairing mining equipment or parts, including but not limited to, those entities set forth in the attached Exhibit 2 (other than any personal assistant hired to work directly for the Employee), any individual employed by the Company or any of its Affiliates on the Termination of Employment date or any person who was so employed by the Company or any of its Affiliates at any time during the preceding three months.  
+(e) Prior to and through a one-year period following the Termination of Employment, the Employee will not, directly or indirectly, interfere with, or endeavor to entice away from Company or any of its Affiliates, any person, firm, corporation, partnership or entity of any kind whatsoever which is a customer of Company or any of its Affiliates, or which was a customer of Company or any of its Affiliates, within one year prior to the Termination of Employment date, and, which the Employee regularly performed services for, or regularly dealt with, or regularly had contact with such customer on behalf of the Company or any of its Affiliates, and the Employee obtained knowledge, as a result of his or her position with the Company or any of its Affiliates, which would be beneficial to Employee’s efforts to convince such customer to cease doing business with the Company or any of its Affiliates, in whole or in part.  
+(f) In the event of a breach of the Employee’s covenants under this Paragraph 10, the entire Stock Option shall immediately expire as of the date of such breach. The Employee acknowledges and agrees that such expiration is not expected to adequately compensate the Company and its Affiliates for any such breach and that such expiration shall not substitute for or adversely affect the remedies to which the Company or any of its Affiliates is entitled under Paragraph 10(g) or at law.  
+  
+5
+
+* * *
+
+##### 
+
+(g) In the event of a breach of the Employee’s covenants under this Paragraph 10, it is understood and agreed that the Company and any Affiliate(s) that employed the Employee shall be entitled to injunctive relief, as well as any other legal or equitable remedies. The Employee acknowledges and agrees that the covenants, obligations and agreements of the Employee in Paragraphs 10(a), (b), (c), (d) and (e) of this Agreement relate to special, unique and extraordinary matters and that a violation of any of the terms of such covenants, obligations or agreements will cause the Company irreparable injury for which adequate remedies are not available at law. Therefore, the Employee agrees that the Company and any Affiliate(s) that employed the Employee shall be entitled to an injunction, restraining order or such other equitable relief (without the requirement to post bond) as a court of competent jurisdiction may deem necessary or appropriate to restrain the Employee from committing any violation of such covenants, obligations or agreements. These injunctive remedies are cumulative and in addition to any other rights and remedies that the Company or its Affiliates may have.  
+(h) The Company and the Employee hereby irrevocably submit to the exclusive jurisdiction of the courts of Wisconsin and the federal courts of the United States of America, located in Milwaukee, Wisconsin, in respect of all disputes involving Confidential Information, trade secrets or the violation of the provisions of this Paragraph 10 and the interpretation and enforcement of this Paragraph 10, and the parties hereto hereby irrevocably agree that (i) the sole and exclusive appropriate venue for any suit or proceeding relating to such matters shall be in such a court, (ii) all claims with respect to any such matters shall be heard and determined exclusively in such court, (iii) such court shall have exclusive jurisdiction over the person of such parties and over the subject matter of any such dispute, and (iv) each hereby waives any and all objections and defenses based on forum, venue or personal or subject matter jurisdiction as they may relate to any suit or proceeding brought before such a court in accordance with the provisions of this Paragraph 10.  
+  
+11\. Notices. All notices and other communications under this Agreement shall be in writing and shall be given by hand delivery to the other party or by facsimile, overnight courier, or registered or certified mail, return receipt requested, postage prepaid, addressed as follows: 
+
+If to the Employee:   
+  
+If to the Company: Joy Global Inc.  
+100 East Wisconsin Avenue, Suite 2780  
+Milwaukee, WI 53202  
+Attention: Corporate Secretary  
+Facsimile: 414-319-8520  
+  
+or to such other address or facsimile number as any party shall have furnished to the other in 
+
+6
+
+* * *
+
+##### 
+
+writing in accordance with this Paragraph 11. Notice and communications shall be effective when actually received by the addressee. 
+
+12\. Successors. Except as otherwise provided hereunder, this Agreement shall be binding upon and shall inure to the benefit of any successor or successors of the Company, and to any transferee or successor of the Employee pursuant to Paragraph 7. 
+
+13\. Laws Applicable to Construction. The interpretation, performance and enforcement of this Agreement shall be governed by the laws of the State of Delaware as applied to contracts executed in and performed wholly within the State of Delaware, without reference to principles of conflict of laws with the exception of Paragraph 10, which will be interpreted, enforced, and governed by the laws of the State of Wisconsin. 
+
+14\. Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement. If any provision of this Agreement is held invalid or unenforceable to any extent, the remainder of this Agreement shall not be affected by that provision and that provision shall be enforced to the greatest extent permitted by law. 
+
+15\. Conflicts and Interpretation. In the event of any conflict between this Agreement and the Plan, the Plan shall control. In the event of any ambiguity in this Agreement, any term which is not defined in this Agreement, or any matters as to which this Agreement is silent, the Plan shall govern including, without limitation, the provisions thereof pursuant to which the Committee has the power, among others, to (a) interpret the Plan, (b) prescribe, amend and rescind rules and regulations relating to the Plan, and (c) make all other determinations deemed necessary or advisable for the administration of the Plan. 
+
+16\. Headings. The headings of paragraphs herein are included solely for convenience of reference and shall not affect the meaning or interpretation of any of the provisions of this Agreement. 
+
+17\. Amendment. This Agreement may not be modified, amended or waived except by an instrument in writing signed by both parties hereto. The waiver by either party of compliance with any provision of this Agreement shall not operate or be construed as a waiver of any other provision of this Agreement, or of any subsequent breach by such party of a provision of this Agreement. 
+
+18\. Section 409A of the Code. This Agreement and the Plan are intended, and shall be construed, to comply with the requirements of Section 409A of the Code. However, neither the Agreement nor the Plan transfers to the Company or any entity or other individual any tax or penalty that is the responsibility of the Employee. If any distribution or settlement of a Restricted Stock Unit or Deferred Stock Unit pursuant to the terms of this Agreement or the Plan would subject the Employee to tax under Section 409A of the Code, the Company shall modify this Agreement and/or the Plan (in each case, without the consent of the Employee) in the least restrictive manner necessary in order to comply with the provisions of Section 409A, other applicable provision(s) of the Code and/or any rules, regulations or other regulatory guidance 
+
+7
+
+* * *
+
+##### 
+
+issued under such statutory provisions and, in each case, without any material diminution in the value of the payments to the Employee. 
+
+19\. Counterparts. This Agreement may be executed in counterparts, which together shall constitute one and the same original. 
+
+20\. Miscellaneous. 
+
+(a) This Agreement shall not confer upon the Employee any right to continue as an employee of the Company or its Affiliates, nor shall this Agreement interfere in any way with the right of the Company or its Affiliates to terminate the employment of the Employee at any time.  
+(b) This Agreement shall be subject to all applicable laws, rules and regulations and to such approvals by any governmental agencies or national securities exchanges as may be required.  
+  
+IN WITNESS WHEREOF, the Employee has executed this Agreement, and the Company has caused this Agreement to be executed in its name and on its behalf, all as of the date first written above.   
+  
+JOY GLOBAL INC.  
+  
+Sean D. Major  
+Executive Vice President, General Counsel and Secretary  
+  
+EMPLOYEE:  
+  
+By:   
+  
+8
+
+* * *
+
+##### 
+
+EXHIBIT 1
+
+EXECUTIVE LEADERSHIP TEAM  
+STOCK OWNERSHIP POLICY
+
+Members of the Company’s Executive Leadership Team are subject to the following minimum ownership requirements for shares of the Company’s common stock: 
+
+• CEO: Five times annual salary. Until the five times annual salary requirement has been met, the executive is required to retain shares of Common Stock having a market value at least equal to 50% of the pre-tax compensation realized upon settlement of any restricted stock units, payment of any performance shares, exercise of any stock options or settlement of any other stock awards. After the five times annual salary requirement has been met, the CEO is required to retain, at the retention rate specified in the preceding sentence, a sufficient number of shares of Common Stock received by the CEO from subsequent settlements of restricted stock units, payments of performance shares, exercises of stock options and settlements of other stock awards as may be necessary at that time to satisfy the five times annual salary requirement.  
+• Other Executive Officers: Two and one-half times annual salary. Until the two and one-half times annual salary requirement has been met, the executive is required to retain shares of Common Stock having a market value at least equal to 25% of the pre-tax compensation realized upon settlement of any restricted stock units, payment of any performance shares, exercise of any stock options or settlement of any other stock awards. After the two and one-half times annual salary requirement has been met, the executive is required to retain, at the retention rate specified in the preceding sentence, a sufficient number of shares of Common Stock from subsequent settlements of restricted stock units, payments of performance shares, exercises of stock options and settlements of other stock awards as may be necessary at that time to satisfy the two and one-half times annual salary requirement.  
+• Each executive shall not sell, transfer or otherwise dispose of shares of Common Stock (i) until the respective ownership requirement has been met or (ii) after the respective ownership requirement has been met, to the extent that the executive would no longer satisfy the ownership requirement immediately following such sale, transfer or other disposition.  
+• For the purposes of this policy, restricted stock units, performance shares and stock options shall not be considered to be shares of Common Stock.  
+  
+9
+
+* * *
+
+##### 
+
+EXHIBIT 2
+
+COMPANIES
+
+This Exhibit forms a part of the Restricted Stock Unit Award Agreement, entered into as of December 7, 2009, between Joy Global Inc. and Employee. 
+
+1. Bucyrus International, Inc.  
+2. Cogar Manufacturing Inc.  
+3. Eickhoff Corporation  
+4. FMC Technologies Inc.  
+5. Fletcher International or Fletcher Asset Management  
+6. Longwall Associates, Inc.  
+7. Sandvik AB  
+8. SANY Group Co. Ltd.  
+  
+10

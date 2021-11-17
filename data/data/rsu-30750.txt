@@ -1,0 +1,311 @@
+EXHIBIT 10.18
+
+  
+
+
+  
+
+
+  
+
+
+NMI HOLDINGS, INC. 
+
+2014 OMNIBUS INCENTIVE PLAN 
+
+
+
+(FOR CEO / President)
+
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Agreement”), dated as of ___, _____ (the “Grant Date”), is made by and between NMI Holdings, Inc., a Delaware corporation (the “Company”), and __________ (“Participant”).
+
+WHEREAS, the Company has adopted the NMI Holdings, Inc. 2014 Omnibus Incentive Plan (the “Plan”); and
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its stockholders to grant Participant restricted stock units with respect to a number of shares of the Company’s Common Stock (the “Shares”) on the terms and subject to the conditions set forth in this Agreement and the Plan.
+
+NOW THEREFORE, for and in consideration of the premises and the covenants of the parties contained in this Agreement, and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto, for themselves, their successors and assigns, hereby agree as follows:
+
+1.Grant of Restricted Stock Unit Award.
+
+  
+
+
+(a)Grant. The Company hereby grants to Participant an award of restricted stock units with respect to ___ Shares (the “RSUs”) on the terms and conditions set forth in this Agreement and as otherwise provided in the Plan. 
+
+(b)Incorporation by Reference, Etc. The provisions of the Plan are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement shall be construed in accordance with the provisions of the Plan and any capitalized terms not otherwise defined in this Agreement shall have the definitions set forth in the Plan. 
+
+  
+
+
+2.Vesting. 
+
+  
+
+
+(a)Except as may otherwise be provided herein, (i) one-third of the RSUs (rounded down to the nearest whole Share) shall become vested on the first anniversary of the Grant Date, (ii) one-third of the RSUs (rounded down to the nearest whole Share) shall become vested on the second anniversary of the Grant Date and (iii) the remainder of the RSUs shall become vested on the third anniversary of the Grant Date, in the case of each of clauses (i), (ii) and (iii), subject to Participant not having incurred a Termination of Employment prior to the applicable vesting date. 
+
+  
+
+
+(b)Except as provided in the immediately following sentence, in the event that Participant incurs a Termination of Employment, unvested RSUs shall be forfeited by Participant without consideration therefor. Notwithstanding the foregoing, in the event that Participant incurs a Termination of Employment (i) as a result of termination by the Company or its Affiliate without “Cause” (as defined in Participant’s employment agreement with the Company dated as of March 6, 2012 without regard to the earlier expiration of such agreement (the “Employment Agreement”)) or for “Good Reason” (as defined in the Employment Agreement), RSUs shall immediately vest in full and be settled in accordance with Section 3 of this Agreement, or (ii) due to Participant’s death or “Disability” (as defined in the Employment Agreement), RSUs that are outstanding immediately prior to such Termination of Employment and that would have vested on the next vesting date shall vest pro-rata, with the number of RSUs vesting to be determined by multiplying the number of RSUs that would have vested on the next vesting date by a fraction, the numerator of which is the number of days between the prior vesting date (or Grant Date if no vesting date occurred prior to Participant’s Termination of Employment) and the date of Participant’s Termination of Employment, and the denominator of which is 365.
+
+  
+
+
+1
+
+  
+
+
+* * *
+
+EXHIBIT 10.18
+
+  
+
+
+  
+
+
+  
+
+
+3.Settlement. As soon as practicable after any RSUs have vested (and in any event, no later than fifteen business days immediately following the date of such vesting), such RSUs shall be settled. Subject to Section 4 (pertaining to the withholding of taxes) and Section 3(d) of the Plan (as applicable), for each vested RSU settled pursuant to this Section 3, the Company shall issue to Participant one Share. 
+
+  
+
+
+4.Tax Withholding. As a condition to delivery of the Shares in respect of vested RSUs, Participant will pay to the Company, or, pursuant to Section 15(d) of the Plan, make provisions satisfactory to the Company for payment of, any federal, state or local tax laws in respect of the transfer of Shares in settlement of the RSUs. The Company shall have the power and the right to deduct or withhold, or require Participant to remit to the Company, an amount sufficient to satisfy any federal, state, local and foreign taxes of any kind (including, but not limited to, Participant’s FICA and SDI obligations) which the Company, in its sole discretion, deems necessary to be withheld or remitted to comply with the Code and/or any other applicable law, rule or regulation with respect to the RSUs and, if Participant fails to do so, the Company may otherwise refuse to issue or transfer any Shares otherwise required to be issued pursuant to this Agreement. Any such statutorily required minimum withholding obligation with regard to Participant shall be satisfied solely by retaining and instructing a registered broker(s) of the Company’s choosing to sell such number of Shares necessary to satisfy such withholding obligations, after deduction of the broker’s commission, and the broker shall remit to the Company the cash proceeds thereof. In furtherance of the foregoing, by the execution of this Agreement, Participant hereby irrevocably instructs the Company and a registered broker(s) of the Company’s choosing to sell on behalf of Participant at the “market price,” that number of Shares required to generate sufficient cash necessary in order for the Company to satisfy its withholding obligations with regard to Participant. Participant represents to the Company and the broker that Participant is entering into this Agreement in good faith. Participant shall have no ability to modify these instructions. Participant further agrees to execute any such documents as are requested by the broker or the Company in order to effectuate the sale of the Shares and payment of the tax obligations to the Company as contemplated hereby. The Participant represents to the Company that, as of the date hereof, he or she is not aware of any material nonpublic information about the Company or the Shares. It is Participant’s intention that this provision comply with the requirements of Rule 10b5-1 promulgated under the Exchange Act.
+
+  
+
+
+5.No Rights as Stockholder. Until such time as the RSUs have been settled and the underlying Shares have been delivered to Participant and Participant has become the holder of record of such Shares, Participant shall have no rights as a stockholder, including, without limitation, the right to dividends and the right vote.
+
+6.Transferability. The RSUs may not, at any time prior to becoming vested, be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by Participant other than by will or by the laws of descent and distribution and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company, its Subsidiary or Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. 
+
+  
+
+
+7.Adjustment. Upon any event described in Section 3(d) of the Plan occurring after the Grant Date, the adjustment provisions as provided for under Section 3(d) of the Plan shall apply to the RSUs.
+
+  
+
+
+8.Change in Control. In the event of a Change in Control of the Company occurring after the Grant Date, all outstanding unvested RSUs shall become fully vested upon the occurrence of such Change in Control. Any RSUs that vest in connection with this Section 8 shall be settled in a manner consistent with Section 3 of this Agreement; provided, however, that, notwithstanding anything to the contrary in this Agreement, with respect to any RSU that constitutes “nonqualified deferred compensation” within the meaning of Section 409A of the Code, the settlement of each such RSU pursuant to this Section 8 shall not occur until the earliest of (a) the Change in Control if such Change in Control constitutes a “change in the ownership of the corporation,” a “change in effective control of the corporation,” or a “change in the ownership of a substantial portion of the assets of the corporation,” within the meaning of Section 409A(a)(2)(A)(v) of the Code, and (B) the date such RSU would otherwise be settled pursuant to the terms of this Agreement. 
+
+  
+
+
+2
+
+  
+
+
+* * *
+
+EXHIBIT 10.18
+
+  
+
+
+  
+
+
+  
+
+
+9.Miscellaneous.
+
+  
+
+
+(a)Confidentiality of this Agreement. Participant agrees to keep confidential the terms of this Agreement, unless and until such terms have been disclosed publicly other than through a breach by Participant of this covenant. This provision does not prohibit Participant from providing this information on a confidential and privileged basis to Participant’s attorneys or accountants for purposes of obtaining legal or tax advice or as otherwise required by law.
+
+  
+
+
+(b)Waiver and Amendment. The Committee may waive any conditions or rights under, or amend any terms of, this Agreement and the RSUs granted thereunder; provided that any such waiver or amendment that would materially impair the rights of any Participant or any holder or beneficiary of any RSUs granted hereunder shall not to that extent be effective without the consent of Participant. No waiver of any right hereunder by any party shall operate as a waiver of any other right, or as a waiver of the same right with respect to any subsequent occasion for its exercise, or as a waiver of any right to damages. No waiver by any party of any breach of this Agreement shall be held to constitute a waiver of any other breach or a waiver of the continuation of the same breach.
+
+  
+
+
+(c)Unsecured Obligation. This Award is unfunded, and even as to any RSUs which vest, Participant shall be considered an unsecured creditor of the Company with respect to the Company’s obligations, if any, to issue Shares pursuant to this Agreement. Nothing contained in this Agreement, and no action taken pursuant to its provisions, shall create or be construed to create a trust of any kind or a fiduciary relationship between Participant and the Company or any other person.
+
+  
+
+
+(d)Notices. All notices, demands and other communications provided for or permitted hereunder shall be made in writing and shall be by registered or certified first-class mail, return receipt requested, facsimile, courier service or personal delivery:
+
+  
+
+
+if to the Company:
+
+NMI Holdings, Inc.
+
+2100 Powell Street, 12th Floor
+
+Emeryville, CA 94608
+
+Attention: General Counsel
+
+  
+
+
+if to Participant: at the address last on the records of the Company.
+
+All such notices, demands and other communications shall be deemed to have been duly given when delivered by hand, if personally delivered; when delivered by courier, if delivered by commercial courier service; five business days after being deposited in the mail, postage prepaid, if mailed; and when receipt is mechanically acknowledged, if by facsimile or e-mail.
+
+(e)Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+  
+
+
+(f)No Rights to Service. Nothing contained in this Agreement shall be construed as giving Participant any right to be retained, in any position, as an employee, consultant or director of the Company or its Affiliates or shall interfere with or restrict in any way the right of the Company or its Affiliates, which is hereby expressly reserved, to remove, terminate or discharge Participant at any time for any reason whatsoever.
+
+  
+
+
+(g)Beneficiary. Participant may file with the Company a written designation of a beneficiary on such form as may be prescribed by the Committee and may, from time to time, change or revoke such designation by filing a new designation with the Company. The last such designation received by the Company shall 
+
+  
+
+
+3
+
+  
+
+
+* * *
+
+EXHIBIT 10.18
+
+  
+
+
+  
+
+
+be controlling; provided, however, that no designation, or change or revocation thereof, shall be effective unless received by the Company prior to Participant’s death, and in no event shall it be effective as of a date prior to such receipt. If no beneficiary designation is filed by Participant, the beneficiary shall be deemed to be his spouse or, if Participant is unmarried at the time of death, his estate.
+
+  
+
+
+(h)Successors. The terms of this Agreement shall be binding upon and inure to the benefit of the Company, its successors and assigns, and of Participant and the beneficiaries, executors, administrators, heirs and successors of Participant.
+
+  
+
+
+(i)Entire Agreement. This Agreement and the Plan contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersede all prior communications, representations and negotiations with respect thereto. 
+
+  
+
+
+(j)Bound by the Plan. By signing this Agreement, Participant acknowledges that he has received a copy of the Plan and has had an opportunity to review the Plan and agrees to be bound by all the terms and provisions of the Plan.
+
+  
+
+
+(k)Section 409A. It is intended that the Awards granted pursuant to this Agreement and the provisions of this Agreement be exempt from or be designed such that the taxes and/or penalties under Section 409A of the Code are not imposed, and all provisions of this Agreement shall be construed and interpreted in a manner consistent with the requirements for avoiding taxes or penalties under Section 409A of the Code.
+
+  
+
+
+(l)Governing Law. This Agreement shall be construed and interpreted in accordance with the internal laws of the State of Delaware without regard to principles of conflicts of law thereof, or principles of conflicts of laws of any other jurisdiction that could cause the application of the laws of any jurisdiction other than the State of Delaware.
+
+  
+
+
+(m)Headings. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement.
+
+  
+
+
+(n)Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+  
+
+
+10.Compliance with Legal Requirements. The grant of the RSUs and the delivery of Shares in respect thereof, and any other obligations of the Company under this Agreement shall be subject to all applicable federal and state laws, rules and regulations and to such approvals by any regulatory or governmental agency as may be required. Subject to Section 9(k) of this Agreement, the Committee, in its sole discretion, may postpone the issuance or delivery of Shares as the Committee may consider appropriate and may require Participant to make such representations and furnish such information as it may consider appropriate in connection with the issuance or delivery of the Shares in compliance with applicable laws, rules and regulations.
+
+  
+
+
+[Remainder of page intentionally left blank; signature page to follow]
+
+  
+
+
+  
+
+
+  
+
+
+4
+
+  
+
+
+* * *
+
+EXHIBIT 10.18
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement.
+
+NMI HOLDINGS, INC.
+
+  
+
+
+  
+
+
+___________________________________
+
+By: 
+
+Title: 
+
+  
+
+
+  
+
+
+  
+
+
+PARTICIPANT
+
+  
+
+
+  
+
+
+___________________________________
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+5
+
+  
+

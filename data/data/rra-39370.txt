@@ -1,0 +1,190 @@
+Exhibit 10.2
+
+
+
+This Registration Rights Agreement (this “Agreement”) is entered into as of October 19, 2001, by and between DecisionLink, Inc., a Delaware corporation (the “Company”), and Peter A. Gerard, an individual resident in the State of Texas (“Gerard”).
+
+Recitals
+
+A. Pursuant to that certain Employment Agreement, dated as of October 19, 2001, by and between the Company and Gerard (the “Employment Agreement”), the Company will issue to Gerard a Stock Option (as such term is defined in the Employment Agreement) to purchase Common Stock (as defined herein).
+
+B. Pursuant to the Employment Agreement, Gerard will have other rights to acquire additional shares of Common Stock.
+
+C. In connection with the execution of the Employment Agreement and the other documents contemplated thereby, the parties hereto have agreed to the registration rights and other rights as set forth below.
+
+Now, Therefore, in consideration of these premises and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+SECTION 1.1 GENERAL.
+
+1.1 Definitions. As used in this Agreement the following terms shall have the following meanings:
+
+“Agreement” shall have the meaning set forth in the preamble.
+
+“Company” shall have the meaning set forth in the preamble.
+
+“Common Stock” means the common stock, par value $.0001 per share, of the Company and any other securities into which or for which such common stock has been converted or exchanged pursuant to a plan of recapitalization, reorganization, merger, sale of assets, or otherwise. The term “Common Stock” excludes, however, any security (i) the sale of which has been effectively registered under the Securities Act (defined below) and which has been disposed of in accordance with a Registration Statement, (ii) that has been sold by a Holder in a transaction exempt from the registration and prospectus delivery requirements of the Securities Act under Section 4(1) thereof (including, without limitation, transactions pursuant to Rules 144 and 144A) such that the further disposition of such securities by the transferee or assignee is not restricted under the Securities Act, or (iii) that has been sold by a Holder in a transaction in which such Holder's rights under these provisions are not, or cannot be, assigned.
+
+“Eligible Registration Statement” means a registration statement of the Company in which shares of Common Stock are registered for resale or issuance by the Company, other than pursuant to a registration statement on Form S-8 or Form S-4, or their successors, or any other form for a similar limited purpose, or any registration statement covering only securities proposed to be issued in exchange for securities or assets of another corporation.
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+“Register,” “registered,” and “registration” refer to a registration effected by preparing and filing a registration statement in compliance with the Securities Act, and the declaration or ordering of effectiveness of such registration statement or document.
+
+  
+
+
+“Registration and Selling Expenses” means all expenses incurred by the Company or Gerard in complying with Sections 2 hereof, including, without limitation, (i) all the registration and filing fees imposed by the SEC, any stock exchange or the Nasdaq Stock Market, Inc.; (ii) printing expenses; (iii) fees of the accountants for the Company; (iv) fees and disbursements of counsel for the Company; (v) blue sky fees and expenses; (vi) all reasonable fees and expenses of counsel incurred by Gerard; and (v) all fees and expenses of Gerard’s accountants.
+
+“Selling Expenses” means (i) all underwriters’ commissions, discounts or fees, brokers’ fees or commissions payable or attributable to shares being sold by Gerard; and (ii) all transfer or other taxes attributable to shares being offered and sold by Gerard.
+
+“SEC” or “Commission” means the Securities and Exchange Commission.
+
+“Securities Act” means the Securities Act of 1933, as amended.
+
+“Violation” shall have the meaning set forth in Section 2.8.
+
+SECTION 2. REGISTRATION
+
+2.1 Demand Registration.
+
+(a) If at any ime after the 90th day of the date hereof, the Company shall receive a written request from Gerard that the Company file an Eligible Registration Statement covering the registration of any shares of Common Stock issued to Gerard pursuant to the Stock Option, or otherwise acquired by Gerard pursuant to the Employment Agreement, then the Company shall effect, as soon as reasonably practicable, and in any event not later than one hundred eighty (180) days after the receipt of such registration request, the registration of such Common Stock and shall include in such registration all Common Stock requested to be registered by Gerard; provided, however, that the Company shall be under no obligation to file an Eligible Registration Statement if the Board of Directors determines in good faith and with the concurrence of the Independent Director (as such term is defined in the Employment Agreement, that the filing of the Eligible Registration Statement is not then in the best interests of the Company or its stockholders, in which case the Company may delay the registration of the Common Stock pursuant to such a request for a period of time until such registration can be completed; it being understood that, in such event, Gerard shall not be deemed to have made a written request pursuant to this Section 2.1).
+
+(b) If Gerard intends to distribute the Common Stock covered by his request by means of an underwritten public offering, he shall so advise the Company as a part of his request made pursuant to Section 2.1(a) hereof, the Company shall enter into an underwriting agreement in customary form with the underwriter or underwriters selected by Gerard for such underwriting (provided the same are underwriters reasonably acceptable to the Company).
+
+(c) Gerard shall be entitled to make written requests to the Company to file an Eligible Registration Statement pursuant to Section 2.1(a) on two separate occasions.
+
+2.2 Piggyback Registration Rights.
+
+(a) The Company shall notify Gerard in writing at least 20days prior to the initial filing of any Eligible Registration Statement under the Securities Act and shall afford Gerard an opportunity to include in such registration statement all or part of the Common Stock which may be then held by Gerard. If Gerard desires to include in any such registration statement all or any part of the Common Stock which may be then held by him, Gerard shall, within 15 days after the above-described notice from the Company, so notify the Company in writing. Such notice shall state the intended method of disposition of the Common Stock by Gerard. If Gerard decides not to include all of his Common Stock in any registration statement thereafter filed by the Company, Gerard shall nevertheless continue to have the right to include any Common Stock in any subsequent Eligible Registration Statement or Eligible Registration Statements as may be filed by the Company with respect to offerings of its securities, all upon the terms and conditions set forth herein.  
+
+
+(b) If the Eligible Registration Statement under which the Company gives notice under this Section 2.2 is for an underwritten offering, the Company shall so advise Gerard. In such event, the right of Gerard to be included in a registration pursuant to this Section 2.2 shall be conditioned upon Gerard’s participation in such underwriting and the inclusion of Gerard’s Common Stock in the underwriting to the extent provided herein. If Gerard proposes to distribute his Common Stock through such underwriting, he shall enter into an underwriting agreement in customary form with the underwriter or underwriters selected for such underwriting by the Company. Notwithstanding any other provision of the Agreement, if the underwriter determines in its reasonable opinion that marketing factors require a limitation of the number of shares to be underwritten, the number of shares that may be included in the underwriting shall be allocated: first, to the Company; and second, pro rata, to Gerard and other holders, if any, included in the underwritten offering who have a contractual right to an allocation of the number of selling stockholder shares which may be included in such underwriting. If Gerard disapproves of the terms of any such underwriting, Gerard may elect to withdraw therefrom by written notice to the Company and the underwriter, delivered at least 10 business days prior to the effective date of the registration statement. Any Common Stock excluded or withdrawn from such underwriting shall be excluded and withdrawn from the registration.
+
+(c) The Company shall have the right to terminate, suspend or withdraw any registration initiated by it under this Section 2.2 prior to the effectiveness of such registration whether or not Gerard has elected to include securities in such registration. The Registration Expenses of such withdrawn registration shall be borne by the Company in accordance with Section 2.3 hereof.
+
+2.3 Expenses of Registration. Except as specifically provided herein, all Registration Expenses incurred in connection with any registration, qualification or compliance pursuant to Sections 2.1 and 2.2 herein shall be borne by the Company and all Selling Expenses shall be borne by Gerard.
+
+2.4 Obligations of the Company. In connection with any registration of Common Stock that is not terminated, suspended or withdrawn pursuant to Section 2.2(b) hereof, the Company shall, as expeditiously as reasonably possible:
+
+(a) Upon the request of Gerard, use commercially reasonable efforts to keep such registration statement effective up to 90 days or, if earlier, until Gerard has completed the distribution related thereto; provided, that before filing with the SEC a registration statement or prospectus or any amendments or supplements thereto, the Company shall furnish to Gerard copies of for his review such documents proposed to be filed.
+
+(b )Prepare and file with the SEC such amendments and supplements to such registration statement and the prospectus used in connection with such registration statement as may be necessary to comply with the provisions of the Securities Act with respect to the disposition of all securities covered by such registration statement for the period set forth in paragraph (a) above.
+
+(c) Furnish to Gerard such number of copies of a prospectus, including a preliminary prospectus, in conformity with the requirements of the Securities Act, and such other documents as he may reasonably request in order to facilitate the disposition of Common Stock owned by him.
+
+(d) Use all reasonable efforts to register and qualify the securities covered by such registration statement under such other securities or Blue Sky laws of such jurisdictions as shall be reasonably requested by Gerard; provided that the Company shall not be required in connection therewith or as a condition thereto to qualify to do business or to file a general consent to service of process in any such states or jurisdictions unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act.  
+
+
+(e) In the event of any underwritten public offering, enter into and perform its obligations under an underwriting agreement, in usual and customary form, with the managing underwriter(s) of such offering. If Gerard participates in such underwriting, he shall also enter into and perform his obligations under such an agreement.
+
+(f) Notify Gerard at any time when a prospectus relating thereto is required to be delivered under the Securities Act of the happening of any event as a result of which the prospectus included in such registration statement, as then in effect, includes an untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading in the light of the circumstances then existing. The Company shall amend or supplement such prospectus in order to cause such prospectus not to include any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading in the light of the circumstances then existing.
+
+(g) Use all reasonable efforts to furnish, on the date that such Common Stock is delivered to the underwriters for sale, if such securities are being sold through underwriters, (i) an opinion, dated as of such date, of the counsel representing the Company for the purposes of such registration, in form and substance as is customarily given to underwriters in an underwritten public offering, addressed and delivered to the underwriters, and (ii) a letter dated as of such date, from the independent certified public accountants of the Company, in form and substance as is customarily given by independent certified public accountants to underwriters in an underwritten public offering, addressed and delivered to the underwriters.
+
+2.5 Termination of Registration Rights. Gerard’s registration rights shall expire if all Common Stock held by and issuable to Gerard pursuant to the Stock Option, or otherwise in accordance with the terms of the Employment Agreement, may be sold under Rule 144 during any 90-day period.
+
+2.6 Furnishing Information. It shall be a condition precedent to the obligations of the Company to take any action pursuant to Section 2.1 or Section 2.2 that Gerard shall furnish to the Company such information regarding himself, the Common Stock held by him and the intended method of disposition of such securities as shall be required to effect the registration of their Common Stock.
+
+2.7 Stockholder Undertakings. Gerard covenants with the Company as follows:
+
+(a) No Stabilization. Gerard will not effect any stabilization transactions or engage in any stabilization activity proscribed by Rule 10b-7 under the Exchange Act in connection with any securities of the Company during the period of any distribution of the Common Stock by Gerard pursuant to any registration statement.
+
+(b) Brokers. Gerard (i) shall furnish each broker through whom he offers the Common Stock such number of copies of any prospectus and any supplements thereto or amendments thereof which such broker may reasonably require (provided that the Company has provided Gerard with such prospectus, supplements and amendments), (ii) shall inform such broker as to the number of shares of Common Stock offered through such broker, that such shares are part of a distribution and that such broker is subject to the provisions of Regulation M under the Exchange Act until such time as such broker has completed the sale of all such shares, and (iii) shall notify such broker when distribution of the shares of Common Stock by Gerard pursuant to any registration statement has been completed or any registration statement is no longer effective or is withdrawn.
+
+(c) Amendments and Supplements. Gerard shall promptly furnish to each person (including each broker) to whom Gerard has delivered copies of the prospectus an equivalent number of copies of any amendment thereof or supplement thereto (provided that the Company has provided Gerard with such amendment or supplement).
+
+(d) Transaction Information. Gerard shall report promptly to the Company upon any disposition of Common Stock by Gerard and upon completion of the distribution of Gerard’s Common Stock pursuant to any registration statement.  
+
+
+(e) Exchange Act Compliance. Gerard shall, at any time he is engaged in a distribution of the Common Stock under any registration statement, comply to the extent required with Regulation M (as currently in effect or as amended or any successor or similar provisions) promulgated under the Exchange Act and shall distribute the Common Stock solely in the manner described in any registration statement, and shall not do any of the following during the period from the effective date of any registration statement until the completion of any offering of the Common Stock by Gerard pursuant to such registration statement:
+
+(i) Bid for or purchase, for any account in which Gerard or any affiliate of Gerard has a beneficial interest, any securities of the Company other than in transactions permitted by Regulation M under the Exchange Act;
+
+(ii) Attempt to induce any person to purchase any securities of the Company other than in transactions permitted by Regulation M under the Exchange Act; or
+
+(iii) Pay or offer or agree to pay to anyone, directly or indirectly, any compensation for soliciting another to purchase any securities of the Company on a national securities exchange or pay or offer or agree to pay to anyone any compensation for purchasing securities of the Company on a national securities exchange other than those securities offered by Gerard.
+
+(f) Publicity; Selling Efforts. Gerard shall not, during the period of any offering by Gerard of any Common Stock under any registration statement, use or disseminate any information concerning the Company other than the prospectus (or any amendment thereof or supplement thereto furnished by the Company) and may not undertake any form of publicity with respect to the Company or engage in any similar activities that may be deemed to be an unlawful selling effort within the meaning of Section 10 of the Exchange Act.
+
+(g) Material Nonpublic Information. Gerard shall not offer to sell, sell or otherwise enter into any transaction in connection with any Common Stock if Gerard is aware of material nonpublic information regarding the Company or its subsidiaries.
+
+(h) Brokerage Commissions. Except as disclosed in the prospectus, (i) Gerard will not pay unusual or special brokerage commissions (other than ordinary brokerage arrangements) on any sales effected through a broker, and (ii) no selling arrangement will have been entered into between Gerard and any securities dealer or broker.
+
+2.8 Indemnification. In the event any Common Stock is included in a registration statement under this Section 2:
+
+(a) To the extent permitted by law, the Company will indemnify and hold harmless Gerard against any losses, claims, damages, or liabilities to which he may become subject under the Securities Act, the Exchange Act or other federal or state law, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon any of the following statements, omissions or violations (collectively a “Violation”) by the Company: (i) any untrue statement or alleged untrue statement of a material fact contained in such registration statement, including any preliminary prospectus or final prospectus contained therein or any amendments or supplements thereto, (ii) the omission or alleged omission to state therein a material fact required to be stated therein, or necessary to make the statements therein not misleading, or (iii) any violation or alleged violation by the Company of the Securities Act, the Exchange Act, any state securities law or any rule or regulation promulgated under the Securities Act, the Exchange Act or any state securities law in connection with the offering covered by such registration statement; and the Company will pay as incurred to Gerard any legal or other expenses reasonably incurred by him in connection with investigating or defending any such loss, claim, damage, liability or action; provided, that the indemnity agreement contained in this Section 2.8(a) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Company, which consent shall not be unreasonably withheld or delayed, nor shall the Company be liable in any such case for any such loss, claim, damage, liability or action to the extent that it arises out of or is based upon a Violation that occurs in reliance upon and in conformity with written information furnished expressly for use in connection with such registration by Gerard. The indemnity agreement contained in this Section 2.8(a) is in addition to any other indemnification rights that Gerard may be entitled to and in no event should this Section 2.8(a) be deemed a limitation thereof.  
+
+
+(b) To the extent permitted by law, Gerard will, if Common Stock held by Gerard is included in the securities as to which such registration, qualification or compliance is being effected, indemnify and hold harmless the Company and each of its directors or officers, stockholders and controlling persons against any losses, claims, damages or liabilities to which the Company or any such director, officer stockholder or controlling person may become subject under the Securities Act, the Exchange Act or other federal or state law, insofar as such losses, claims, damages or liabilities (or actions in respect thereto) arise out of or are based upon any Violation, in each case to the extent (and only to the extent) that such Violation occurs in reliance upon and in conformity with written information furnished by Gerard under an instrument duly executed by Gerard and stated to be specifically for use in connection with such registration; and Gerard will pay as incurred any legal or other expenses reasonably incurred by any person intended to be indemnified pursuant to this Section 2.8(b) in connection with investigating or defending any such loss, claim, damage, liability or action; provided, that the indemnity agreement contained in this Section 2.8(b) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of Gerard, which consent shall not be unreasonably withheld or delayed; provided further, that in no event shall any indemnity under this Section 2.8 exceed the proceeds received by Gerard for Common Stock that was registered in that offering.
+
+(c) Promptly after receipt by an indemnified party under this Section 2.8 of notice of the commencement of any action (including any governmental action), such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Section 2.8, deliver to the indemnifying party a written notice of the commencement thereof and the indemnifying party shall have the right to participate in, and, to the extent the indemnifying party so desires, jointly with any other indemnifying party similarly noticed, to assume the defense thereof with counsel mutually satisfactory to the indemnifying parties; provided, that an indemnified party shall have the right to retain its own counsel, with the fees and expenses to be paid by the indemnifying party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential differing interests between such indemnified party and any other party represented by such counsel in such proceeding. The failure to deliver written notice to the indemnifying party within a reasonable time of the commencement of any such action, if materially prejudicial to its ability to defend such action, shall relieve such indemnifying party of any liability to the indemnified party under this Section 2.8, but the omission so to deliver written notice to the indemnifying party will not relieve it of any liability that it may have to any indemnified party otherwise than under this Section 2.8.
+
+(d) If the indemnification provided for in this Section 2.8 is held by a court of competent jurisdiction to be unavailable to an indemnified party with respect to any losses, claims, damages or liabilities referred to herein, the indemnifying party, in lieu of indemnifying such indemnified party thereunder, shall to the extent permitted by applicable law contribute to the amount paid or payable by such indemnified party as a result of such loss, claim, damage or liability in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and of the indemnified party on the other in connection with the Violation(s) that resulted in such loss, claim, damage or liability, as well as any other relevant equitable considerations. The relative fault of the indemnifying party and of the indemnified party shall be determined by a court of law by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission to state a material fact relates to information supplied by the indemnifying party or by the indemnified party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission; provided, that in no event shall any contribution by Gerard hereunder exceed the proceeds received by Gerard for shares of Common Stock that were registered in that offering.  
+
+
+(e) The obligations of the Company and Gerard under this Section 2.8 shall survive completion of any offering of Common Stock pursuant to a registration statement and the termination of this Agreement. No indemnifying party, in the defense of any such claim or litigation, shall, except with the consent of each indemnified party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such indemnified party of a release from all liability in respect to such claim or litigation.
+
+2.9 Rule 144 Reporting. With a view to making available to Gerard the benefits of certain rules and regulations of the SEC which may permit the sale of the Common Stock to the public without registration, the Company agrees to use its commercially reasonable efforts to:
+
+(a) make and keep public information available, as those terms are understood and defined in Rule 144 of the Securities Act or any similar or analogous rule promulgated under the Securities Act, at all times; and
+
+(b) file with the SEC, in a timely manner, all reports and other documents required of the Company under the Exchange Act.
+
+SECTION 3. MISCELLANEOUS.
+
+3.1 Governing Law. This Agreement shall be construed under the laws of the State of Texas. The parties hereby consent to the non-exclusive jurisdiction of the United States District Court for the Northern District of Texas (or state court if federal jurisdiction does not apply) with respect to any claim, controversy or dispute which arises between the parties hereto.
+
+3.2 Specific Performance. The parties hereto hereby declare that it may be impossible to measure in money the damages which will accrue to a party hereto or to their heirs, personal representatives, or assigns by reason of a failure to perform certain of the obligations under this Agreement and agree that those terms of this Agreement shall be specifically enforceable. If any party hereto or his heirs, personal representatives, or assigns institutes any action or proceeding to specifically enforce the provisions hereof, any person against whom such action or proceeding is brought hereby waives the claim or defense therein that such party or such personal representative has an adequate remedy at law, and such person shall not offer in any such action or proceeding the claim or defense that such remedy at law exists.
+
+3.3 Successors and Assigns. Except as otherwise expressly provided herein, the provisions hereof shall inure to the benefit of, and be binding upon, the successors, permitted assigns, heirs, executors, and administrators of the parties hereto.
+
+3.4 Entire Agreement. This Agreement, the Employment Agreement, the Voting Agreement and the Confidentiality, Inventions and Non-Disparagement Agreement, entered into contemporaneously by and between the parties hereto, shall be deemed to constitute the full and entire understanding and agreement between the parties with regard to the subject matter hereof and no party shall be liable or bound to any other in any manner by any representations, warranties, covenants and agreements except as specifically set forth herein.
+
+3.5 Severability. In the event one or more of the provisions of this Agreement should, for any reason, be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provisions of this Agreement, and this Agreement shall be construed as if such invalid, illegal or unenforceable provision had never been contained herein.
+
+3.6 Amendment and Waiver. This Agreement may be amended only with the written consent of the parties hereto. The observance of any provision of this Agreement may be waived (either generally or in a particular instance and either retroactively or prospectively), only with the written consent of the party against whom such waiver is to be enforced. Any amendment or waiver effected in accordance with this Section 3.6 shall be binding upon Gerard and the Company.  
+
+
+3.7 Delays or Omissions. It is agreed that no delay or omission to exercise any right, power,or remedy accruing to any party, upon any breach, default or noncompliance of the other parties under this Agreement shall impair any such right, power, or remedy, nor shall it be construed to be a waiver of any such breach, default or noncompliance, or any acquiescence therein, or of any similar breach, default or noncompliance thereafter occurring. It is further agreed that any waiver, permit, consent, or approval of any kind or character by any party of any breach, default or noncompliance under the Agreement or any waiver by that party of any provisions or conditions of this Agreement must be in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement, by law, or otherwise afforded to any party, shall be cumulative and not alternative.
+
+3.8 Notices. All notices required or permitted hereunder shall be in writing and shall be deemed effectively given: (a) upon personal delivery to the party to be notified, (b) when sent by confirmed electronic mail or facsimile if sent during normal business hours of the recipient; if not, then on the next business day, (c) five days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one day after deposit with a nationally recognized overnight courier, specifying next day delivery, with written verification of receipt. All communications shall be sent to the party to be notified at the address as set forth on the signature pages hereof or at such other address as such party may designate by 10 days advance written notice to the other parties hereto.
+
+3.9 Titles and Subtitles. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+3.10 Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument.
+
+(Remainder of page intentionally left blank.)
+
+In Witness Whereof, this Agreement is hereby executed as of the date first written above.
+
+COMPANY:  
+  
+DecisionLink, Inc.  
+  
+By:
+
+/s/ Geoffrey F. Hewitt  
+  
+Name:
+
+Geoffrey F. Hewitt  
+  
+Title:
+
+Chairman and CEO  
+  
+Address:
+
+1181 Grier Drive, Suite B  
+  
+Las Vegas, Nevada 89119  
+  
+/s/ Peter A. Gerard  
+  
+Peter A. Gerard  
+  
+Address:
+
+4317 Echo Glen  
+  
+Dallas, Texas 75244

@@ -1,0 +1,105 @@
+Exhibit 10.1
+
+
+
+This Stock Purchase Agreement (“Agreement”), dated as of August 24, 2015, is made by and between TeleTech Holdings, Inc., a Delaware corporation (“Company”), and Kenneth D. Tuchman (“Seller”).
+
+RECITALS
+
+A. Seller is the Chairman and Chief Executive Officer of the Company and, as of the date of this agreement, owns a majority of the outstanding shares of common stock of the Company.
+
+B. On November 4, 2005, pursuant to the Company’s Amended and Restated 1999 Stock Option and Incentive Plan (the “Plan”) the Company granted Seller the option (the “Option”) to purchase an additional 800,000 shares of common stock of the Company (the “Option Shares”), at an exercise price of $11.35 per share, which option has vested in full and expires on November 4, 2015.
+
+C. Seller desires to exercise the Option to purchase the Option Shares in a manner equivalent to a “cashless exercise,” whereby the following events are deemed to occur simultaneously and with no cash required for payment for the Option Shares by Seller: (1) the exercise of the Option in full, and (2) the issuance of the Options Shares, and (3) the sale to the Company of that number of the Options Shares at the value determined pursuant to Section 1 below sufficient to yield proceeds to (x) pay the $9,080,000.00 Option exercise price (the “Exercise Price”) and (y) pursuant to the Plan, satisfy any tax withholding obligations as permitted under paragraph 13 of the Plan.
+
+D. To affect the “cashless exercise” of the Option, the Company desires to withhold from issuing to Seller a portion of the Option Shares pursuant to the terms and conditions of this Agreement.
+
+E. The independent members of the Board of Directors of the Company, all of whom are “non-employee directors,” as defined by Rule 16b-3(b)(3) of the Securities and Exchange Act of 1934 (“Non-Employee Directors”), upon full disclosure and discussion, have determined that the deemed purchase of a portion of the Option Shares contemplated by this Agreement is consistent with the Company’s existing share repurchase program, and is in the best interests of the Company and its stockholders. The Non-Employee Directors approved the Company’s entering into this Stock Purchase Agreement and the disposition of the Option Shares to the Company for purposes of Rule 16b-3(e) of the Securities and Exchange Act of 1934.
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
+
+AGREEMENT
+
+1. Purchase and Transfer of Shares.
+
+a. On August 31, 2015 (the “Closing Date”) (i) Seller will exercise the Option in full, (ii) the Company will deliver the Option Shares, and (iii) Seller will transfer and convey back to the Company that certain number of Option Shares (the “Purchase Shares”) that is equal to the sum of the Exercise Price and the Company’s tax withholding obligations in connection with the exercise and purchase of the Option Shares, divided by the purchase price per share of the Company’s common stock as of the closing of the NASDAQ Global Select Market on the Closing Date, free and clear of all security interests, pledges, mortgages, liens, charges and encumbrances.
+
+b. After such “cashless exercise” as specified in Section 1(a), (i) Seller will receive documentation evidencing the number of shares of the Company’s common stock equal to the Option Shares less the Purchase Shares, and (ii) the Company will hold the Purchase Shares as treasury stock pursuant to its existing share repurchase program.
+
+1
+
+* * *
+
+  
+
+
+2. Representations and Warranties of Seller. Seller represents and warrants to the Company that:
+
+a. Title to Shares. Upon the exercise of the Option, Seller will have valid and marketable title to the Purchase Shares free and clear of any security interests, pledges, mortgages, liens or similar encumbrances and the absolute and unrestricted right, power and authority and capacity to sell the Purchase Shares to the Company, and upon delivery thereof to the Company pursuant to the terms of this Agreement, Seller will transfer to the Company valid and marketable title thereto, free and clear of any security interests, pledges, mortgages, liens or similar encumbrances.
+
+b. Public Filing. Seller acknowledges that the Company will publicly disclose its entry into this Agreement on Form 8-K as soon as practicable after execution and will file a copy of this Agreement as an exhibit to the Form 8-K report filed by the Company.
+
+c. Representation by Counsel. Seller acknowledges that he has been advised to seek legal, tax and accounting advice prior to signing this Agreement and has been given the opportunity to review this Agreement with an attorney prior to signing and is not relying on any legal, tax or accounting advice from the Company.
+
+3. Representations and Warranties of the Company. The Company represents and warrants to the Seller that:
+
+a. The Board of Directors has taken the actions described in paragraph E of the Recitals.
+
+b. This Agreement and the transactions it contemplates have been duly authorized by the Company; this Agreement is a valid and binding agreement of the Company enforceable in accordance with its terms.
+
+4. Indemnification.
+
+a. Seller shall hold harmless and indemnify the Company and its affiliates, directors, officers, shareholders, agents, partners, principals, insurers successors and assigns from and against any and all liabilities in respect to suits, proceedings, demands, judgments, damages, expenses and costs (including, without limitation, reasonable counsel fees and costs and expenses incurred in the investigation, defense or settlement of any claims covered by this indemnity), which the Company may suffer or incur by reason of: (a) any failure by Seller to perform his obligations under this Agreement; and (b) any breach of the representations and warranties made by Seller herein.
+
+b. The Company shall hold harmless and indemnify the Seller and his affiliates, successors and assigns from and against any and all liabilities in respect to suits, proceedings, demands, judgments, damages, expenses and costs (including, without limitation, reasonable counsel fees and costs and expenses incurred in the investigation, defense or settlement of any claims covered by this indemnity), which the Seller may suffer or incur by reason of the Company’s breach of the representations and warranties made by the Company herein.
+
+5. General Provisions.
+
+a. Binding Effect. This Agreement shall be binding upon the parties and their heirs, personal representatives, executors, administrators, successors, assigns, and legal representatives.
+
+b. Waiver. A party’s failure to insist on compliance or enforcement of any provision of this Agreement shall not affect the validity or enforceability or constitute a waiver of future enforcement of that provision or of any other provision of this Agreement by that party or any other party.
+
+2
+
+* * *
+
+  
+
+
+c. Governing Law. This Agreement shall, in all respects, be subject to and governed by the laws of the State of Colorado. In the event that any party brings an action for the purpose of enforcing this Agreement, the parties hereby irrevocably submit to the exclusive jurisdiction of any Colorado state court locate in the City and Country of Denver, Colorado (or, only if such court declines to accept jurisdiction over a particular matter, any Federal court of the United States of America located in the City and Country of Denver, Colorado) in respect of the interpretation and enforcement of the provisions of this Agreement.
+
+d. Severability. The invalidity or unenforceability of any provision in this Agreement shall not in any way affect the validity or enforceability of any other provision and this Agreement shall be construed in all respects as if such invalid or unenforceable provision had never been in this Agreement.
+
+e. Amendments. This Agreement shall not be modified or amended except by means of a writing signed by Seller and one or more officers of the Company.
+
+f. Counterparts. This Agreement may be executed and delivered in any number of counterparts, all of which when executed and delivered shall have the force and effect of an original, except that some schedules may exist only on the original copy retained in the Company’s records.
+
+IN WITNESS WHEREOF, this Agreement has been duly executed by the parties hereto as of the date first above written.  
+  
+TELETECH HOLDINGS, INC.  
+  
+By:
+
+/s/ Regina M. Paolillo  
+  
+Regina M. Paolillo,  
+  
+Chief Administrative and Financial Officer  
+  
+Date:
+
+August 24, 2015  
+  
+SELLER  
+  
+/s/ Kenneth D. Tuchman  
+  
+Kenneth D. Tuchman  
+  
+Date:
+
+August 24, 2015  
+  
+3
+
+* * *

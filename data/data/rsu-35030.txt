@@ -1,0 +1,222 @@
+Exhibit 10.6 
+
+EMBREX, INC. 
+
+AMENDED AND RESTATED INCENTIVE STOCK OPTION 
+
+
+
+STOCK OPTION AGREEMENT
+
+Unless otherwise defined herein, the terms defined in the Amended and Restated Incentive Stock Option and Nonstatutory Stock Option Plan (the “Plan”) shall have the same defined meanings in this Option Agreement. 
+
+I. NOTICE OF STOCK OPTION GRANT  
+  
+«Firstname»«Lastname» 
+
+«Address» 
+
+«City» «State» «Zipcode» 
+
+You have been granted an Option to purchase Common Stock of the Company, subject to the terms and conditions of the Plan and this Option Agreement, as follows: 
+
+Grant Number
+
+«Grantnumber»   
+  
+Date of Grant/Vesting  
+Commencement Date
+
+_________  
+  
+Exercise Price per Share
+
+$  
+  
+Total Number of Shares Granted
+
+«sharesgranted»   
+  
+Type of Option:
+
+Incentive Stock Option  
+  
+Nonstatutory Stock Option  
+  
+Term/Expiration Date:
+
+____________  
+  
+Vesting Schedule: 
+
+This Option shall be exercisable, in whole or in part, according to the following vesting schedule: 
+
+* * *
+
+25% of the Shares subject to the Option shall vest on each of the first four anniversaries of the Vesting Commencement Date, subject to you continuing to be an employee, consultant or director of the Company on such dates. 
+
+Period for Exercise Following Termination:
+
+This Option shall be exercisable for 90 days after you cease to be an employee, consultant or director (a “Service Provider”). Upon your death or disability, this Option may be exercised for one year after you cease to be a Service Provider. In no event shall this Option be exercised later than the Term/Expiration Date as provided above. 
+
+II. AGREEMENT  
+  
+3\. Grant of Option. The Committee hereby grants to the optionee named in the Notice of Grant in Part I of this Agreement (the “Optionee”) an option (the “Option”) to purchase the number of Shares set forth in the Notice of Grant above, at the exercise price per share set forth in the Notice of Grant (the “Exercise Price”), subject to the terms and conditions of this Agreement and the Plan, which is incorporated herein by reference. Subject to Section 19 of the Plan, in the event of a conflict between the terms and conditions of the Plan and the terms and conditions of this Option Agreement, the terms and conditions of the Plan shall prevail. 
+
+If designated in the Notice of Grant as an Incentive Stock Option (“ISO”), this Option is intended to qualify as an Incentive Stock Option under Section 422 of the Code. However, to the extent that an option designated as an ISO exceeds the $100,000 rule of Code Section 422(d), it shall be treated as a Nonstatutory Stock Option (“NSO”). 
+
+4\. Exercise of Option.
+
+(a) Right to Exercise. This Option shall be exercisable during its term in accordance with the Vesting Schedule set out in the Notice of Grant and with the applicable provisions of the Plan and this Option Agreement. 
+
+(b) Method of Exercise. This Option shall be exercisable by delivery of an exercise notice in the form attached as Exhibit A (the “Exercise Notice”), which shall state the election to exercise the Option, the number of Shares with respect to which the Option is being exercised (the “Exercised Shares”), and such other representations and agreements as may be required by the Company pursuant to the provisions of the Plan. The Exercise Notice shall be completed by the Optionee and delivered to the Stock Plan Administrator. The Exercise Notice shall be accompanied by payment of the Exercise Price as to all Exercised Shares. This Option shall be deemed to be exercised upon receipt by the Company of such fully executed Exercise Notice accompanied by the Exercise Price. 
+
+No Shares shall be issued pursuant to the exercise of this Option unless such issuance and exercise complies with any applicable registration requirements of the Securities Act of 1933, any applicable listing requirement of any national securities exchange on 
+
+2 
+
+* * *
+
+which stock of the same class is then listed, and any other requirements of federal, state or local law or of any regulatory bodies having jurisdiction over such issuance and exercise. Assuming such compliance, for income tax purposes the Exercised Shares shall be considered transferred to the Optionee on the date the Option is exercised with respect to such Shares. 
+
+(c) Method of Payment. Payment of the aggregate Exercise Price shall be by any of the following, or a combination thereof, at the election of the Optionee: 
+
+(1) cash or cash equivalent; or 
+
+(2) consideration received by the Company under a cashless exercise program implemented by the Company in connection with the Plan; or 
+
+(3) surrender of other Shares that (i) in the case of Shares acquired upon exercise of an option, have been owned by the Optionee for more than six (6) months on the date of surrender and (ii) have a Fair Market Value on the date of surrender equal to the aggregate Exercise Price of the Exercised Shares. 
+
+(d) Tax Withholding. The Company shall have the right to deduct from any payment or settlement under this Agreement, including, without limitation, the exercise of this Option and the delivery of the Option Shares, any federal, state, local or other taxes that the Committee, in its sole discretion, deems necessary to be withheld to comply with the Code or any other applicable law, rule or regulation. 
+
+5\. Non-Transferability of Option. This Option may not be transferred in any manner otherwise than by will or by the laws of descent or distribution and may be exercised during the lifetime of Optionee only by the Optionee. The terms of the Plan and this Option Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Optionee. 
+
+6\. Term of Option. This Option may be exercised only within the term set out in the Notice of Grant, and may be exercised during such term only in accordance with the Plan and this Option Agreement. 
+
+7\. Tax Consequences. The federal tax consequences relating to this Option are set forth below. THIS SUMMARY IS NECESSARILY INCOMPLETE, AND THE TAX LAWS AND REGULATIONS ARE SUBJECT TO CHANGE. THE OPTIONEE SHOULD CONSULT A TAX ADVISER BEFORE EXERCISING THIS OPTION OR DISPOSING OF THE SHARES. 
+
+(a) Exercising the Option. 
+
+(i) Nonstatutory Stock Option. The Optionee may incur regular federal income tax liability upon the exercise of an NSO. The Optionee will be treated as having received compensation income (taxable at ordinary income tax rates) equal to the excess, if any, 
+
+3 
+
+* * *
+
+of the Fair Market Value of the Exercised Shares on the date of exercise over their Exercise Price. If the Optionee is an Employee or a former Employee, the Company will be required to withhold for income and employment tax purposes, as set forth in Section 2(d) above. 
+
+(ii) Incentive Stock Option. If this Option qualifies as an ISO, the Optionee will have no regular federal income tax liability upon its exercise, although the excess, if any, of the Fair Market Value of the Exercised Shares on the date of exercise over their Exercise Price will be treated as an adjustment to alternative minimum taxable income for federal tax purposes and may subject the Optionee to alternative minimum tax in the year of exercise. In the event that the Optionee ceases to be an Employee but remains a Service Provider, any Incentive Stock Option of the Optionee that remains unexercised shall cease to qualify as an Incentive Stock Option and will be treated for tax purposes as a Nonstatutory Stock Option on the date three (3) months and one (1) day following such change of status. 
+
+(b) Disposition of Shares.
+
+(i) NSO. If the Optionee holds NSO Shares for at least one year, any gain realized on disposition of the Shares will be treated as long-term capital gain for federal income tax purposes. 
+
+(ii) ISO. If the Optionee holds ISO Shares for at least one year after exercise and two years after the grant date, any gain realized on the disposition of the Shares will be treated as long-term capital gain for federal income tax purposes. If the Optionee disposes of ISO Shares within one year after exercise or two years after the grant date (a “Disqualifying Disposition”), any gain realized on such disposition will be treated as compensation income (taxable at ordinary income rates) to the extent of the excess, if any, of the lesser of (A) the difference between the Fair Market Value of the Shares acquired on the date of exercise and the Exercise Price, or (B) the difference between the sale price of such Shares and the Exercise Price. Any additional gain will be taxed as capital gain, short-term or long-term, depending on the period that the ISO Shares are held. 
+
+(c) Notice of Disqualifying Disposition of ISO Shares. In the event of a Disqualifying Disposition, the Optionee shall immediately notify the Company in writing of such disposition. 
+
+8\. Entire Agreement; Governing Law. The Plan and this Option Agreement constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Optionee. Neither the Plan nor the Option Agreement may be modified adversely to the Optionee’s interest except by means of a writing signed by the Company and Optionee. This Agreement is governed by the internal substantive laws, but not the choice of law rules, of North Carolina. 
+
+9\. No Guarantee of Continued Service. OPTIONEE ACKNOWLEDGES AND AGREES THAT THE VESTING OF SHARES PURSUANT TO THE VESTING SCHEDULE HEREOF IS EARNED ONLY BY CONTINUING AS A SERVICE PROVIDER AT THE WILL 
+
+4 
+
+* * *
+
+OF THE COMPANY (AND NOT THROUGH THE ACT OF BEING HIRED, BEING GRANTED AN OPTION OR PURCHASING SHARES HEREUNDER). OPTIONEE FURTHER ACKNOWLEDGES AND AGREES THAT THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREUNDER AND THE VESTING SCHEDULE SET FORTH HEREIN DO NOT CONSTITUTE AN EXPRESS OR IMPLIED PROMISE OF CONTINUED ENGAGEMENT AS A SERVICE PROVIDER AND SHALL NOT INTERFERE WITH THE COMPANY’S OR THE OPTIONEE’S RIGHT TO TERMINATE THE OPTIONEE’S RELATIONSHIP AS A SERVICE PROVIDER AT ANY TIME, WITH OR WITHOUT CAUSE. 
+
+Optionee and the Company agree that this Option is granted under and governed by the terms and conditions of the Plan and this Option Agreement. Optionee has reviewed the Plan and this Option Agreement in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Option Agreement and fully understands all provisions of the Plan and Option Agreement. Optionee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee upon any questions relating to the Plan and Option Agreement. 
+
+OPTIONEE
+
+EMBREX, INC.  
+  
+* * *
+
+By:
+
+* * *  
+  
+Signature  
+  
+* * *
+
+Title:
+
+* * *  
+  
+Print Name  
+  
+* * *  
+  
+Residence Address  
+  
+* * *  
+  
+Date:
+
+* * *
+
+Date:
+
+* * *  
+  
+5 
+
+* * *
+
+Exhibit A 
+
+EXERCISE NOTICE 
+
+Embrex, Inc. 
+
+1040 Swabia Court 
+
+Durham, North Carolina 27703 
+
+Attention: Chief Financial Officer
+
+1\. Exercise of Option. Effective as of today,  ,  , the undersigned (“Purchaser”) hereby elects to purchase  shares (the “Shares”) of the Common Stock of Embrex, Inc. (the “Company”) under and pursuant to the Amended and Restated Incentive Stock Option and Nonstatutory Stock Option Plan (the “Plan”) and the Stock Option Agreement dated  ,  (the “Option Agreement”). The purchase price for the Shares shall be $ , per share, as set by the Option Agreement. 
+
+2\. Delivery of Payment. Purchaser herewith delivers to the Company the full purchase price for the Shares. 
+
+3\. Representations of Purchaser. Purchaser acknowledges that Purchaser has received, read and understood the Plan and the Option Agreement and agrees to abide by and be bound by their terms and conditions. 
+
+4\. Rights as Shareholder. Until the issuance (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company) of the Shares, no right to vote or receive dividends or any other rights as a shareholder shall exist with respect to the Optioned Stock, notwithstanding the exercise of the Option. The Shares so acquired shall be issued to the Optionee as soon as practicable after exercise of the Option. No adjustment shall be made for a dividend or other right for which the record date is prior to the date of issuance, except as provided in Section 14 of the Plan. 
+
+5\. Tax Consultation. Purchaser understands that Purchaser may suffer adverse tax consequences as a result of Purchaser’s purchase or disposition of the Shares. Purchaser represents that he or she has consulted with any tax consultants Purchaser deems advisable in connection with the purchase or disposition of the Shares and that he or she is not relying on the Company for any tax advice. 
+
+* * *
+
+6\. Entire Agreement; Governing Law. The Plan and Option Agreement are incorporated herein by reference. This Notice, the Plan and the Option Agreement constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Purchaser and may not be modified adversely to the Purchaser’s interest except by means of a writing signed by the Company and Purchaser. This Notice is governed by the internal substantive laws, but not the choice of law rules, of North Carolina. 
+
+Submitted by:
+
+Accepted by:  
+  
+PURCHASER
+
+EMBREX, INC.  
+  
+* * *
+
+By:
+
+* * *  
+  
+Signature  
+  
+* * *
+
+Title:
+
+* * *  
+  
+Print Name  
+  
+Date Received: 
+
+* * *  
+  
+2 

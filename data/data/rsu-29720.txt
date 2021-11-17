@@ -1,0 +1,204 @@
+Exhibit 99.1 
+
+ANALOGIC CORPORATION 
+
+
+
+[Insert Performance Metric] 
+
+This Restricted Stock Unit Agreement is made as of the Agreement Date between Analogic Corporation (the “Company”), a Massachusetts Corporation, and the Participant.   
+  
+I. Agreement Date  
+Date:  
+II. Participant Information  
+Participant:  
+Participant Address:  
+III. Grant Information  
+Target Number: restricted stock units  
+Initial RSU Value1  
+Performance Metric: [Insert Performance Metric], calculated according to Exhibit B.  
+Performance Period:
+
+Start Date: August 1, 20
+
+End Date: July 31, 20  
+  
+Source of Restricted
+
+Stock Units:
+
+Amended and Restated 2009 Stock Incentive Plan  
+IV. Vesting Table  
+  
+This Agreement includes this cover page and the following Exhibits, which are expressly incorporated by reference in their entirety herein: 
+
+Exhibit A – General Terms and Conditions 
+
+Exhibit B – Calculation of [Insert Performance Metric] 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Agreement Date.   
+  
+ANALOGIC CORPORATION PARTICIPANT  
+  
+Name: Name:  
+Title:  
+  
+1 May be omitted depending on the performance metric.   
+  
+Page 1 of 10 
+
+* * *
+
+Analogic Corporation 
+
+Restricted Stock Unit Agreement 
+
+Exhibit A – General Terms and Conditions ([Insert Performance Metric]) 
+
+For valuable consideration, receipt of which is acknowledged, the parties hereto agree as follows: 
+
+1\. Grant of RSUs. The Company has granted to the Participant, subject to the terms and conditions set forth in this Agreement and in the Company’s 2009 Stock Incentive Plan (as amended and/or restated from time to time the “Plan”), a performance-based award of Restricted Stock Units (the “RSUs”), representing a target award of RSUs equal to the “Target Number” shown on the cover page of this Agreement. The RSUs entitle the Participant to receive, upon and subject to the vesting of the RSUs (as described in Section 2 below), one share of common stock, $.05 par value per share, of the Company (the “Common Stock”) for each RSU that vests. The shares of Common Stock that are issuable upon vesting of the RSUs are referred to in this Agreement as the “Shares”. 
+
+2\. Vesting of RSUs [and Issuance of Shares].2
+
+(a) Performance Metric. Subject to the other provisions of this Section 2, the RSUs shall vest in accordance with the vesting table (the “Vesting Table”) set forth on the cover page of this Agreement, based on the Company’s achievement of [Insert Performance Metric] for the Performance Period shown on the cover page of this Agreement. Any fractional RSU resulting from the application of the Vesting Table shall be rounded to the nearest whole number of RSUs. No vesting shall be deemed to occur unless and until the Compensation Committee of the Company’s Board of Directors certifies in writing which (if any) [Insert Performance Metric]targets have been achieved. The Compensation Committee shall make such certification no later than 75 days after the Performance Period End Date. Except as provided in connection with a Change in Control Event in Section 2(c) below, the date on which the Compensation Committee certifies whether a performance target has been achieved that results in the vesting of some or all of the RSUs is referred to in this Agreement as the “Vesting Date.” On the Vesting Date, all RSUs that do not vest shall be automatically forfeited. 
+
+(b) Employment Termination.
+
+(1) If the Participant’s employment with the Company terminates prior to the Vesting Date for any reason other than a termination without Cause (as defined below), death, Disability (as defined below) or Retirement (as defined below), then all unvested RSUs shall be automatically forfeited as of such employment termination.
+
+(2) If the Participant’s employment with the Company terminates prior to the Vesting Date due to a termination by the Company without Cause or by reason of death, Disability or Retirement, then the Target Number of RSUs shall be adjusted so that it equals the original Target Number multiplied by a fraction, the numerator of which is the number of full calendar months the Participant was employed by the Company during the Performance Period 
+
+2 Language will vary depending on the performance metric.   
+  
+Page 2 of 10 
+
+* * *
+
+and the denominator of which is the number of months between the Performance Period Start Date and the Performance Period End Date. The terms of Section 2(a) and the Vesting Table (including the requirement for certification by the Compensation Committee) shall then apply to such adjusted Target Number of RSUs. The excess (if any) of the original Target Number of RSUs over the adjusted Target Number of RSUs shall be automatically forfeited as of such employment termination. 
+
+(c) Change in Control Event.3
+
+(1) Change in Control Event [Coincident With or] Following Performance Period End Date. If a Change in Control Event occurs [on or] after the Performance Period End Date but prior to the Vesting Date that would otherwise occur pursuant to Section 2(a) above, the Compensation Committee shall make the determinations contemplated by Section 2(a) no later than immediately prior to the Change in Control Event [(using estimates or preliminary indications of performance to the extent needed)], such that the Vesting Date occurs no later than immediately prior to the Change in Control Event. 
+
+(2) [Change in Control Event Prior to [or Coincident With] Performance Period End Date. 
+
+(A) Determination of Interim Performance. If a Change in Control Event (as defined in the Plan) occurs [prior to/on or before] the Performance Period End Date, the Compensation Committee shall make the determinations contemplated by Section 2(a), but modified as set forth in Exhibit B to reflect the Change in Control Event, no later than immediately prior to the date of the Change in Control Event[(using estimates or preliminary indications of performance to the extent needed)], and the award shall be for the number of RSUs determined based on such [interim performance] determination. 
+
+(B) Vesting. To the extent that the Participant is not provided with a Replacement Award, the Vesting Date shall occur immediately prior to the Change in Control Event. The determination whether the Replacement Award satisfies the requirements of a Replacement Award shall be made by the Committee, as constituted immediately before the Change in Control Event, in its sole discretion. 
+
+Notwithstanding anything to the contrary herein, if, within the twenty four (24) month period following a Change in Control Event, the Participant ceases to be employed by the Company as a result of a termination by the Company without Cause (as defined below) or by the Participant for Good Reason (as defined below), all restrictions on the Replacement Award shall, notwithstanding anything in this Agreement (including but not limited to Section 2(b) hereof) to the contrary, lapse automatically and such award shall be deemed fully vested as of the date of such termination. 
+
+(d) Notice of Termination. Following a Change in Control Event, any termination by the Company for Cause or by the Participant for Good Reason pursuant to this Agreement shall be communicated by a Notice of Termination (as defined below) to the other party. A 
+
+3
+
+Language will vary depending on the performance metric.   
+  
+Page 3 of 10 
+
+* * *
+
+“Notice of Termination” means a written notice that (i) indicates the specific termination provision in this Agreement relied upon, (ii) to the extent applicable, sets forth in reasonable detail the facts and circumstances claimed to provide a basis for termination of the Participant’s employment under the provision so indicated, and (iii) if the Date of Termination (as defined below) is other than the date of receipt of such notice, specifies the Date of Termination (which shall be not more than 15 days after the giving of such notice). The failure by the Participant or the Company to set forth in the Notice of Termination any fact or circumstance that contributes to a showing of Good Reason or Cause, as the case may be, shall not waive any right of the Participant or the Company or preclude the Participant or the Company from asserting such fact or circumstance in enforcing the Participant’s or the Company’s rights. 
+
+(e) Separation from Service. Notwithstanding anything herein to the contrary, no Shares to be issued to the Participant, in each case on account of the termination of the Participant’s employment with the Company, shall be delivered unless such termination constitutes a “separation from service” within the meaning of Section 409A of the Code (a “Separation from Service”). To the extent that the termination of service is not a Separation from Service, then the shares to be delivered pursuant to this Agreement shall be held by the Company or its successor until a Separation from Service of the Participant occurs and shall be delivered to the Participant within 30 days thereafter. The determination of whether and when the Participant’s Separation from Service from the Company has occurred shall be made and in a manner consistent with, and based on the presumptions set forth in, Treasury Regulation Section 1.409A-1(h). Solely for purposes of this Section 2(e), “Company” shall include all persons with whom the Company would be considered a single employer under Section 414(b) and 414(c) of the Code. 
+
+(f) Section 409A. This Agreement is intended to provide for compensation that is exempt from or compliant with Section 409A of the Code, and shall be interpreted consistent with such intent. Any shares delivered pursuant to this Agreement and pursuant to any Replacement Award shall be paid at the time set forth herein and shall not be accelerated or deferred by either the Company or the Participant except to the extent permitted or required by Section 409A of the Code. Each installment of the shares due under the Agreement or any Replacement Award that would, absent this section, be paid within the six-month period following the Participant’s Separation from Service shall, to the extent that the installment constitutes “deferred compensation” subject to Section 409A of the Code and the Participant is a “specified employee” at the time of such termination, not be paid until the date that is six months and one day after such separation from service (or, if earlier, the Participant’s death), with any such installments that are required to be delayed being accumulated during the six-month period and paid in a lump sum on the date that is six months and one day following Participant’s Separation from Service and any subsequent installments, if any, being paid in accordance with the dates and terms set forth herein. The determination of whether the Participant is a “specified employee” at the time of a Separation from Service shall be made in accordance with Treasury Regulation Section 1.409A-1(i). The Company makes no representation or warranty and shall have no liability to the Participant or to any other person if any of the provisions of the Agreement are determined to constitute deferred compensation subject to Section 409A but that do not satisfy an exemption from, or the conditions of, that section. 
+
+Page 4 of 10 
+
+* * *
+
+(g) [Issuance of Shares / Post Vest Holding Period; Deferred Settlement]4
+
+[Issuance of Shares. Subject to Section 4, as soon as administratively practicable after the Vesting Date, the Company will issue to the Participant (or to the Participant’s estate in the event of the Participant’s death prior to such issuance), in certificated or uncertificated form, such number of Shares as is equal to the number of RSUs that vested on the Vesting Date. In no event shall the Shares be issued to the Participant later than the later of (i) 2  1⁄2 months after the end of the Company’s tax year in which the Performance Period ends and (ii) 2  1⁄2 months after the end of the Participant’s tax year in which the Performance Period ends.] 
+
+[(1) Deferred Settlement. Such number of Shares as is equal to the number of RSUs that vested on the Vesting Date (the “Vested Shares”), subject to Section 4 (Withholding Taxes), shall be issued as soon as administratively practicable following expiration of the Post Vest Holding Period. In no event shall the Vested Shares be issued to the Participant later than the later of (i) 2  1⁄2 months after the end of the Company’s tax year in which the Vesting Date occurs and (ii) 2  1⁄2 months after the end of the Participant’s tax year in which the Vesting Date occurs (the “Short-Term Deferral Period”). 
+
+(2) Settlement as of Vesting Date. Section 2(g)(1) (Deferred Settlement) above will not apply in the case of (i) termination of employment due to death or Disability prior to the Vesting Date; or (ii) a Change in Control Event prior to the Vesting Date, in which case the number of RSUs determined to be vested under Section 2(b) or 2(c), as the case may be, shall be settled through the issuance as soon as administratively practicable after the Vesting Date (but in all events within the Short-Term Deferral Period) of such number of Shares as is equal to the number of vested RSUs, subject to Section 4 (Withholding Taxes).] 
+
+(h) Definitions. For purposes of this Agreement: 
+
+(1) [“Post Vest Holding Period” means the period beginning on the Vesting Date and ending on the earlier of (i) the first anniversary of the Performance Period End Date; (ii) the termination of your employment due to your death or Disability; or (iii) the date of a Change in Control Event.]5
+
+(2) Employment with the Company shall include employment with a parent or subsidiary of the Company, or any successor to the Company. 
+
+(3) “Cause” shall mean any intentional dishonest, illegal, or insubordinate conduct which is materially injurious to the Company or a subsidiary, or a breach of any provision of any employment, nondisclosure, non-competition or similar agreement between the Participant and the Company. 
+
+(4) “Fair Value” means the fair market value of an unrestricted share of Common Stock immediately preceding the Change in Control Event (as determined by the 
+
+4 Language will vary depending on the performance metric.   
+5
+
+Language will vary depending on the performance metric.   
+  
+Page 5 of 10 
+
+* * *
+
+Committee) multiplied by the number of RSUs determined in the manner set forth in Section 2(c)(2), plus the aggregate value of all dividends paid by the Company on the number of RSUs determined in the manner set forth in Section 2(c)(2) between the Performance Period Start Date and the Change in Control Event. 
+
+(5) “Replacement Award” means an award that (a) is in the form of restricted stock or restricted stock units having a value at least equal to the Fair Value; (b) provides for vesting solely on the passage of time according to a vesting schedule and other terms no less favorable to the Participant than as set forth in this Agreement and provides that if, within the twenty four (24) month period following a Change in Control Event, the Participant ceases to be employed by the Company as a result of a termination by the Company without Cause (as defined below) or by the Participant for Good Reason (as defined below), all restrictions on the Replacement Award shall lapse automatically and such award shall, notwithstanding anything in this Agreement (including but not limited to Section 2(b) hereof) to the contrary, be deemed fully vested as of the date of such termination; (c) relates, following the Change in Control Event, to equity securities of the Company or the successor entity or the ultimate parent company that results from the Change in Control Event, which equity securities are publically traded on a national securities exchange in the United States; (d) if the Participant is subject to U.S. federal income tax under the Internal Revenue Code (the “Code”), has tax consequences to the Participant that are no less favorable than the award set forth in this Agreement; and (e) has other terms and conditions no less favorable to the Participant than the terms and conditions of this Award (including without limitation the provisions that would apply in the event of a subsequent Change of Control Event). Without limiting the generality of the foregoing, a Replacement Award may take the form of a continuation of this Award if the requirements of the preceding sentence are satisfied. 
+
+(6) “Disability” shall mean a disability that entitles the Participant to receive benefits under a Company-sponsored disability program. If no program is in effect for the Participant, Disability will apply if the Participant has become totally and permanently disabled within the meaning of Section 22(e)(3) of the Internal Revenue Code of 1986, as amended. 
+
+(7) “Retirement” shall mean the Participant voluntarily leaving the employment of the Company with a combination of years of age and years of service of at least 75 and at least 10 years of service; provided that a Participant will not be deemed to have retired in any situation involving a discharge for Cause, as determined by the Company. 
+
+(8) “Good Reason” means (i) the assignment to the Participant of any responsibilities or duties inconsistent in any respect with the Participant’s Position and Duties (as defined below), excluding any action that is remedied by the Company promptly after receipt of written notice given by the Participant; (ii) any failure by the Company to provide any of the Ongoing Compensation (as defined below), excluding any failure that is remedied by the Company promptly after receipt of written notice given by the Participant; (iii) the Company requiring the Participant to be based at any location other than those locations described in the Position and Duties; (iv) any purported termination by the Company of the Participant’s employment other than for Cause; or (v) any failure by a successor to the Company to comply with and satisfy Section 8 (Successors) below, provided that such successor has received at least ten days prior written notice from the Company or the Participant of the requirements of Section 8. 
+
+Page 6 of 10 
+
+* * *
+
+(9) “Position and Duties” means (i) a position (including, without limitation, offices, titles, and reporting requirements), authority, duties, and responsibilities that are at least commensurate in all material respects with the most significant of, and the highest grade or level of, those that were held or exercised by the Participant or assigned to the Participant at any time during the 120-day period immediately preceding the Change in Control Event, and (ii) services that are performed at the location where the Participant was employed immediately preceding the Effective Date or any other location less than 35 miles from Peabody, Massachusetts. 
+
+(10) “Ongoing Compensation” means, (i) an annual base salary (“Annual Base Salary”), paid in accordance with the Company’s usual and customary payroll practices, equal to the base salary in effect immediately prior to the Change in Control Event. Pending the vesting of the Replacement Award, the Participant’s Annual Base Salary shall be reviewed at least annually and shall be adjusted at any time and from time to time as shall be consistent with adjustments in base salary generally awarded in the ordinary course of business to other peer executives of the Company. Annual Base Salary shall not be reduced after any such increase, and, after any such increase, the term “Annual Base Salary” shall refer to the Annual Base Salary as so increased; (ii) eligibility for annual and long term bonuses in accordance with the Company’s then existing incentive plans; (iii) eligibility (including for the Participant’s family, as the case may be) to participate in and receive benefits under, all incentive, savings, retirement and welfare plans, practices, policies, and programs generally applicable to other peer executives of the Company, but in no event shall such plans, practices, policies, and programs provide the Participant (or the Participant’s family) with incentive opportunities, savings opportunities, retirement benefits opportunities or welfare benefits that are, in each case, less favorable, in the aggregate, than the most favorable of the corresponding opportunities that were provided by the Company for the Participant under such plans, practices, policies, and programs as were in effect at any time during the 120-day period immediately preceding Change of Control Event; (iv) prompt reimbursement for all reasonable business expenses incurred by the Participant in accordance with the practices, policies, and procedures of the Company; and (v) paid vacation in accordance with the most favorable plans, practices, policies, and programs of the Company as were in effect for the Executive at any time during the 120-day period immediately preceding the Change in Control Event. 
+
+3\. Dividends. At the time of the issuance of Shares to the Participant (or to the Participant’s estate) pursuant to Section 2[(d)/(g)]6, the Company shall also pay to the Participant (or to the Participant’s estate) an amount equal to the aggregate amount of all dividends paid by the Company, between the Performance Period Start Date and the issuance of such Shares, with respect to the number of Shares so issued to the Participant, less an amount equal to the Company’s federal, state, and local or other income and employment tax withholding obligations with respect to the income recognized by the Participant as a result of such issuance. 
+
+6 Language will vary depending on the performance metric.   
+  
+Page 7 of 10 
+
+* * *
+
+4\. Withholding Taxes. The Company shall deduct and hold back from the number of Shares issuable to the Participant as a result of the vesting of any RSUs pursuant to Section 2, [or the settlement of any RSUs through the issuance of Shares pursuant to Section 2(g),]7 the number of Shares as have a Fair Market Value (as defined in the Plan) equal to the Company’s federal, state, and local or other income and employment tax withholding obligations (or similar obligations pursuant to the laws of applicable jurisdictions) with respect to the income recognized by the Participant as a result of such vesting [or settlement] (based on minimum statutory withholding rates for all tax purposes, including payroll, employment and social security or other taxes that are applicable to such income pursuant to the laws of applicable jurisdictions). 
+
+5\. Restrictions on Transfer. The RSUs, and any interest therein (including the right to receive dividend payments in accordance with Section 3), are subject to the restrictions on transfer set forth in Section 11(a) of the Plan. 
+
+6\. [Non-Competition Covenant. The Participant’s execution and delivery of this Agreement shall constitute an agreement between the Participant and the Company that, during the one-year period following the termination of the Participant’s employment with the Company, whether voluntarily or involuntarily, the Participant may not accept an identical or substantially similar position to that held by the Participant at the Company immediately prior to termination with any business that is directly competitive with the business of the Company, or otherwise has any material investment or interest in any such a competitive business. If the Company determines that the Participant has violated the terms of this Section 6, it shall be entitled to terminate all unvested RSUs.]8
+
+7\. Provisions of the Plan. This Agreement is subject to the provisions of the Plan. The Participant acknowledges receipt of the Plan, along with the Prospectus relating to the Plan. 
+
+8\. Successors. The Company will require any successor (whether direct or indirect, by purchase, merger, consolidation, or otherwise) to all or substantially all of the business or assets of the Company to assume expressly and agree to perform this Agreement in the same manner and to the same extent that the Company would be required to perform it if no such succession had taken place. As used in this Agreement, “Company” shall mean the Company and any successor to all or substantially all of its business or assets which assumes and agrees to perform this Agreement by operation of law or otherwise. 
+
+9\. Participation in ESPP. Any unvested portion of this Award will be subject to forfeiture if the Participant receives shares pursuant to the Company’s Employee Stock Purchase Plan as such plan many be amended or replaced from time-to-time (the “ESPP”) for contributions made in any Payment Period (as defined in the ESPP) that begins during the one (1) year period following the Agreement Date first written above. 
+
+7 Language will vary depending on the performance metric.   
+8 This section may be modified or omitted in certain circumstances, for example to comply with applicable law or policy.   
+  
+Page 8 of 10 
+
+* * *
+
+10\. Miscellaneous.
+
+(a) No Rights to Employment. The Participant acknowledges and agrees that the grant of the RSUs and their vesting pursuant to Section 2 do not constitute an express or implied promise of continued employment for the vesting period, or for any period. 
+
+(b) Entire Agreement. This Agreement and the Plan constitute the entire agreement between the parties, and supersede all prior agreements and understandings, relating to the subject matter of this Agreement; provided that any separate employment or severance agreement between the Company and the Participant that includes terms relating to the acceleration of vesting of equity awards shall not be superseded by this Agreement. 
+
+(c) Governing Law. This Agreement shall be construed, interpreted and enforced in accordance with the internal laws of the Commonwealth of Massachusetts, without regard to any applicable conflict of law principles. 
+
+(d) Interpretation. The interpretation and construction of any terms or conditions of the Plan or this Agreement by the Compensation Committee shall be final and conclusive. 
+
+*** Remainder of Page is Left Blank *** 
+
+Page 9 of 10 
+
+* * *
+
+Analogic Corporation 
+
+Restricted Stock Unit Agreement 
+
+Exhibit B – Calculation of [Insert Performance Metric] 

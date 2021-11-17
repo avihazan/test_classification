@@ -1,0 +1,135 @@
+Exhibit 10.30
+
+MAXIM INTEGRATED PRODUCTS INC.  
+1996 STOCK INCENTIVE PLAN  
+
+(LEGAL PROVISIONS GOVERNING THE OPTION) 
+
+Maxim Integrated Products, Inc., a Delaware corporation (the "Company"), pursuant to its 1996 Stock Incentive Plan (the "Plan") has granted to Grantee, the Grantee named on the Notice of Grant of Stock Options (the "Grant Notice"), which has been delivered to Grantee separately, an option (the "Option") to purchase shares of the common stock of the Company ("Common Stock"). The Option will not be treated as an "incentive stock option" within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended (the "Code"). Unless otherwise defined herein, capitalized terms shall have the meaning ascribed to such terms in the Plan.
+
+The legal provisions governing the Option (referred to herein as the "Agreement") are as follows:
+
+  1. Total Number of Shares Subject to this Option. The total number of Shares subject to the Option is set forth on the Grant Notice. 
+
+  2. Vesting. Subject to the limitations contained herein, the Option shall be exercisable with respect to each installment on or after the date of vesting applicable to such installment as set forth in the Grant Notice. Vesting is conditioned upon Grantee's Continuous Status as an Employee, Director or Consultant on each applicable vesting date. Vesting may be suspended during any unpaid leave of absence, unless continued vesting is required by Applicable Laws or unless continued vesting was approved by the Company in writing.
+
+  3. Exercise Price and Method of Payment.
+
+(a) Exercise Price. The exercise price of the Option is set forth on the Grant Notice, being not less than one hundred percent (100%) of the Fair Market Value of the Common Stock on the Grant Date of the Option.
+
+(b) Method of Payment. Payment of the exercise price per Share is due in full upon exercise of all or any part of each installment which has become exercisable by Grantee by any of the following, or a combination thereof, at Grantee's election: 
+
+(i) cash; or 
+
+(ii) check; or 
+
+(iii)surrender of Shares which have a Fair Market Value on the date of surrender equal to the aggregate exercise price of the Shares as to which said Option shall be exercised (but only to the extent that such exercise of the Option would not result in an accounting compensation charge with respect to the Shares used to pay the exercise price); or 
+
+(iv)delivery of a properly executed exercise notice together with such other documentation as the Administrator and the broker, if applicable, shall require to effect an exercise of the Option and delivery to the Company of the sale proceeds required to pay the exercise price.  
+
+
+* * *
+
+  4. Minimum Number of Shares and Whole Shares. The minimum number of Shares with respect to which the Option may be exercised at any one time is one hundred (100), except (a) as to an installment subject to exercise, as set forth in paragraph 2, which amounts to fewer than one hundred (100) Shares, in which case, as to the exercise of that installment, the number of Shares in such installment shall be the minimum number of Shares, and (b) with respect to the final exercise of the Option this minimum shall not apply. In no event may this Option be exercised for any number of Shares which would require the issuance of anything other than whole Shares.
+
+  5. Securities Law Compliance. Notwithstanding anything to the contrary contained herein, the Option may not be exercised unless the Shares issuable upon exercise of the Option are then registered under the Securities Act of 1933, as amended (the "Act") or, if such Shares are not then so registered, the Company has determined that such exercise and issuance would be exempt from the registration requirements of the Act.
+
+  6. Term of Option. The term of the Option commences on the Grant Date and, unless sooner terminated as set forth in the Grant Notice, below or in the Plan, the Option terminates on the date seven (7) years from the Grant Date. In no event may the Option be exercised on or after the date on which it terminates. The Option shall terminate prior to the expiration of its maximum term as follows: Ninety (90) days after the termination of Grantee's Continuous Status as an Employee, Director or Consultant for any reason or for no reason unless:
+
+(a) such termination is due to Grantee's permanent and total disability (within the meaning of Section 422(c)(6) of the Code), in which event the Option shall terminate on the earlier of the termination date set forth above or three hundred and sixty-five (365) days following termination of Grantee's Continuous Status as an Employee, Director or Consultant; or 
+
+(b) such termination is due to Grantee's death, in which event the Option shall terminate on the earlier of the termination date set forth above or five hundred and forty-seven (547) days after Grantee's death; or 
+
+(c) during any part of such ninety (90) day period the Option is not exercisable solely because of the condition set forth in paragraph 5 above, in which event the Option shall not terminate until the earlier of the termination date set forth above or until it shall have been exercisable for an aggregate period of ninety (90) days after the termination of Grantee's Continuous Status as an Employee, Director or Consultant. 
+
+(d) exercise of the Option within ninety (90) days after Grantee's termination from Continuous Status as an Employee, Director or Consultant would result in liability under Section 16(b) of the Securities Exchange Act of 1934, in which case the Option will terminate on the earlier of (i) the termination date set forth above, (ii) the tenth (10th) day after the last date upon which exercise would result in such liability, or (iii) six (6) months and ten (10) days after the termination of Grantee's Continuous Status as an Employee, Director or Consultant.
+
+However, the Option may be exercised following Grantee's termination from Continuous Status as an Employee, Director or Consultant only as to that number of Shares as to which it was exercisable on the date such termination under the provisions of paragraph 2 of this Agreement.
+
+
+
+
+* * *
+
+  7. Exercise of Option. The Option may be exercised, to the extent specified above, by delivering a notice of exercise (in a form designated by the Company) together with the exercise price and any Tax-Related Items (as defined below), or with such other documentation as the Administrator shall require, to the Secretary of the Company, or to such other person as the Company may designate (including a brokerage firm authorized by the Company to effect the exercise of the Option), during regular business hours, together with such additional documents as the Company may then require pursuant to the Plan.
+
+  8. Withholding of Taxes. Regardless of any action the Company and/or the Subsidiary or affiliate employing Grantee (the "Employer") take with respect to any or all income tax (including federal, state and/or local tax), social insurance, payroll tax, payment on account, or other tax-related withholding ("Tax-Related Items"), Grantee hereby acknowledges that the ultimate liability for all Tax-Related Items legally due by Grantee with respect to the Option is and remains Grantee's responsibility and that the Company and/or the Employer (i) make no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Option, including the grant of the Option, the vesting or exercise of the Option, the subsequent sale of Shares acquired pursuant to such exercise and the receipt of any dividends; and (ii) do not commit to structure the terms of the grant or any aspect of the Option to reduce or eliminate Grantee's liability for Tax-Related Items.
+
+Prior to the relevant taxable event, Grantee shall pay or make adequate arrangements satisfactory to the Company and/or the Employer to satisfy all Tax-Related Items. In this regard, Grantee hereby authorizes the Company and/or the Employer, in their sole discretion, pursuant to such procedures as they may specify from time to time and without any notice to or authorization by Grantee, to withhold all applicable Tax-Related Items legally payable by Grantee in whole or in part by means of one or a combination of the following (without limitation): (1) withholding from Grantee's wages or other cash compensation paid to Grantee by the Company and/or the Employer; (2) withholding from proceeds of the sale of Shares acquired upon exercise of the Option; (3) selling or arranging for the sale of Shares acquired upon exercise of the Option (on Grantee's behalf and at Grantee's discretion pursuant to this authorization) through such means as the Company may determine in its sole discretion (whether through a broker or otherwise); or (4) withholding in Shares, provided that the Company only withholds the amount of Shares necessary to satisfy the minimum statutory withholding amount or such other amount as may be necessary to avoid adverse accounting treatment. If the Company satisfies the withholding obligation for Tax-Related Items by withholding in Shares, as described above, Grantee hereby acknowledges that Grantee is deemed to have been issued the full number of Shares subject to the Option, notwithstanding that a number of the Shares are held back solely for the purpose of paying the Tax-Related Items due as a result of any aspect of the Option. Grantee hereby acknowledges that Grantee is required to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold as a result of Grantee's participation in the Plan, or the purchase of Common Stock at exercise that cannot be satisfied by the means previously described. Grantee hereby acknowledges that the Company may refuse to honor the exercise of the Option if Grantee fails to comply with Grantee's obligations in connection with the Tax-Related Items as described in this paragraph 8. 
+
+  9. Acknowledgment of Nature of Plan and the Option. In accepting the Option, Grantee acknowledges that:
+
+(a) the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, unless otherwise provided in the Plan;
+
+(b) the grant of the Option is voluntary and occasional and does not create any contractual or other right to receive future grants of Options, or benefits in lieu of Options, even if Options have been granted repeatedly in the past; 
+
+
+
+
+* * *
+
+(c) all decisions with respect to future awards of Options, if any, will be at the sole discretion of the Company; 
+
+(d) Grantee's participation in the Plan is voluntary; 
+
+(e) this Agreement, the transactions contemplated hereunder and the vesting schedule set forth herein do not constitute an express or implied promise of Grantee's Continuous Status as an Employee, Director or Consultant for the vesting period, for any period, or at all, and will not interfere with Grantee's right or the right of the Company or the Employer to terminate Grantee's Continuous Status as an Employee, Director or Consultant at any time;
+
+(f) in the event that Grantee is not an Employee, Director or Consultant of the Company, the Option and Grantee's participation in the Plan shall not be interpreted to form an employment or service contract or relationship with the Company; and furthermore, the Option and Grantee's participation in the Plan will not be interpreted to form an employment contract with any Subsidiary or affiliate of the Company;
+
+(g) the future value of the underlying Shares is unknown and cannot be predicted with certainty;
+
+(h) if the underlying Shares do not increase in value, the Option will have no value; 
+
+(i) if Grantee exercises the Option and obtains Shares, the value of the Shares acquired upon exercise may increase or decrease in value, even below the exercise price; 
+
+(j) in consideration of the grant of the Option, no claim or entitlement to compensation or damages shall arise from termination of the Option or diminution in value of the Option or Shares purchased through exercise of the Option resulting from termination of Grantee's Continuous Status as an Employee, Director or Consultant (for any reason whatsoever and whether or not in breach of local labor laws) and Grantee irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by accepting the Option, Grantee shall be deemed irrevocably to have waived his or her entitlement to pursue such claim; 
+
+(k) in the event of termination of Grantee's Continuous Status as an Employee, Director or Consultant (whether or not in breach of local labor laws), Grantee's right to receive the Option and vest in the Option under the Plan, if any, will terminate effective as of the date that Grantee is no longer actively employed or actively rendering services and will not be extended by any notice period mandated under local law (e.g., active employment or service would not include a period of "garden leave" or similar period pursuant to local law); furthermore, in the event of termination of Grantee's Continuous Status as an Employee, Director or Consultant (whether or not in breach of local labor laws), Grantee's right to exercise the Option after termination of Grantee's Continuous Status as an Employee, Director or Consultant, if any, will be measured by the date of termination of active employment and will not be extended by any notice period mandated under local law; the Administrator shall have the exclusive discretion to determine when Grantee is no longer actively employed or actively rendering services for purposes of the Option;
+
+(l) the Company is not providing any tax, legal or financial advice, nor is the Company making any recommendations regarding participation in the Plan; and
+
+(m) Grantee is hereby advised to consult with his or her personal tax, legal and financial advisors regarding participation in the Plan before taking any action related to the Plan. 
+
+
+
+
+* * *
+
+  10. Option not Transferable. Except as may be approved by the Administrator, the Option is not transferable, except by will or by the laws of descent and distribution, and is exercisable during Grantee's life only by Grantee.
+
+  11. Notice. Any notice to be given to the Company under the terms of the Option must be addressed to the Company, in care of Stock Administration at Maxim Integrated Products, Inc., 4401 South Beltwood Parkway, Dallas, TX 75244 with a copy to the Corporate Secretary at 120 San Gabriel Drive, Sunnyvale, CA 94086, or at such other address as the Company may hereafter designate in writing. Any notices provided for in this Agreement or the Plan shall be given in writing (including electronic mail) and shall be deemed effectively given upon receipt or, in the case of notices delivered by the Company to Grantee, five (5) days after deposit in the United States mail, postage prepaid, addressed to Grantee at the address specified above or at such other address as Grantee hereafter designates by written notice to the Company.
+
+  12. Binding Agreement. Subject to the limitation on the transferability of this grant contained herein, this Agreement will be binding upon and inure to the benefit of the heirs, legatees, legal representatives, successors and assigns of the parties hereto.
+
+  13. Governing Plan Document. This Agreement and the Option granted hereunder are subject to all the provisions of the Plan, a copy of which has been made available to Grantee and its provisions are hereby made a part of the Agreement, and is further subject to all interpretations, amendments, rules and regulations which may from time to time be promulgated and adopted pursuant to the Plan. In the event of a conflict between one or more provisions of the Agreement and one or more provisions of the Plan, the provisions of the Plan will govern. 
+
+  14. Administrator Authority. The Administrator will have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules (including, but not limited to, the determination of whether or not any Shares subject to the Option have vested). All actions taken and all interpretations and determinations made by the Administrator in good faith will be final and binding upon Grantee, the Company and all other interested persons. No member of the Administrator will be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or this Agreement.
+
+  15. Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to the Option or future options that may be granted to Grantee under the Plan by electronic means or request Grantee's consent to participate in the Plan by electronic means. Grantee hereby consents to receive such documents by electronic delivery and agrees to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company. 
+
+  16. Data Privacy Notice and Consent. Grantee hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of Grantee's personal data as described in this Agreement and any other documents related to the Award by and among, as applicable, the Employer, the Company, its Subsidiaries and affiliates for the exclusive purpose of implementing, administering and managing Grantee's participation in the Plan.
+
+Grantee understands that the Company and the Employer may hold certain personal information about Grantee, including, but not limited to, Grantee's name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares of stock or directorships held in the Company or its Subsidiaries and affiliates, details of all stock options or any other entitlement to shares of stock awarded, canceled, vested, unvested or outstanding in Grantee's favor, for the purpose of implementing, administering and managing the Plan ("Data"). Grantee understands that Data may be transferred to any third parties assisting in the  
+
+
+* * *
+
+implementation, administration and management of the Plan, that these recipients may be located in Grantee's country, or elsewhere, and that the recipient's country may have different data privacy laws and protections than Grantee's country. Grantee understands that Grantee may request a list with the names and addresses of any potential recipients of the Data by contacting Grantee's local human resources representative. Grantee authorizes the recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the exclusive purpose of implementing, administering and managing Grantee's participation in the Plan, including any requisite transfer of such Data as may be required to a broker, escrow agent or other third party with whom the Shares received upon exercise of the Option may be deposited. Grantee understands that Data will be held only as long as is necessary to implement, administer and manage Grantee's participation in the Plan. 
+
+Grantee understands that Grantee may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing Grantee's local human resource representative. Grantee understands that refusal or withdrawal of consent may affect Grantee's ability to realize benefits under the Option or otherwise participate in the Plan. For more information on the consequences of Grantee's refusal to consent or withdrawal of consent, Grantee understands that Grantee may contact Grantee's local human resources representative.
+
+  17. Captions. Captions provided herein are for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+  18. Agreement Severable. In the event that any provision in this Agreement will be held invalid or unenforceable, such provision will be severable from, and such invalidity or unenforceability will not be construed to have any effect on, the remaining provisions of this Agreement.
+
+  19. Governing Law/Choice of Venue. This Agreement and the Option granted hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of California, without giving effect to the conflict of law principles thereof.
+
+For purposes of litigating any dispute that arises directly or indirectly from the relationship of the parties evidenced by the Option or this Agreement, the parties hereby submit to and consent to the exclusive jurisdiction of the State of California and agree that such litigation shall be conducted only in the courts of Santa Clara County, California, or the federal courts for the United States for the Northern District of California, and no other courts, where this grant is made and/or to be performed.
+
+  20. Relocation Outside the United States. If Grantee relocates to a country outside the United States, the Company reserves the right to impose other requirements on Grantee's participation in the Plan, on the Option and on any Shares acquired under the Plan, to the extent the Company determines necessary or advisable in order to comply with local law or facilitate the administration of the Plan, and to require Grantee to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+
+
+By electronically approving the Option through the Smith Barney website, Grantee agrees to all of the terms and conditions described in this Agreement and in the Plan.
+
+* * *

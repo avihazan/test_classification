@@ -1,0 +1,100 @@
+EXHIBIT 10.04 
+
+
+
+AWARD AGREEMENT 
+
+THIS AGREEMENT (the “Agreement”), effective as of the 8th day of March, 2012, by and between ITT Corporation (the “Company”) and name (the “Participant”), WITNESSETH:
+
+WHEREAS, the Participant is now employed by the Company or an Affiliate Company (as defined in the Company’s 2011 Omnibus Incentive Plan, as approved by the Board of Directors on February 23, 2011 and effective May 11, 2011 (the “Plan”)) as an employee, and in recognition of the Participant’s valued services, the Company, through the Compensation and Personnel Committee of its Board of Directors (the “Committee”), desires to provide an opportunity for the Participant to receive a performance-based long-term incentive award, pursuant to the provisions of the Plan. 
+
+NOW, THEREFORE, in consideration of the terms and conditions set forth in this Agreement and the provisions of the Plan, a copy of which is attached hereto and incorporated herein as part of this Agreement, and any administrative rules and regulations related to the Plan as may be adopted by the Committee, the parties hereto hereby agree as follows: 
+
+1. Grant of Target Award and Performance Period. In accordance with, and subject to, the terms and conditions of the Plan and this Agreement, the Company hereby grants to the Participant a target Award of $xxx,xxx (the “Target Award”) for the Performance Period commencing January 1, 2012 and ending December 31, 2014. Payment of the Award is dependent upon the achievement during the Performance Period of certain performance goals more fully described in Section 2 of this Agreement.   
+  
+2. Terms and Conditions. It is understood and agreed that this Award is subject to the following terms and conditions:   
+  
+(a) Determination of TSR Award Payout.   
+  
+(i) The amount of the TSR Award Payout, if any, for the Performance Period shall be determined in accordance with the following formula:   
+  
+TSR Award Payout = Payout Factor X Target Award 
+
+The “Payout Factor” is based on the Company’s total shareholder return (defined and measured in accordance with paragraph (ii) below, the “TSR”) for the Performance Period relative to the TSR for each company in the S&P; Mid-Cap Capital Goods Index, determined in accordance with the following table:   
+  
+If Company’s TSR rank against the  
+S&P; Mid-Cap Capital Goods Index is
+
+TSR Payout Factor
+
+(% of Target Award)  
+  
+less than the 35th percentile
+
+0%  
+  
+at the 35th percentile
+
+50%  
+  
+at the 50th percentile
+
+100%  
+  
+at the 80th percentile or more
+
+200%  
+  
+Actual results between the 35th percentile and the 80th percentile numbers shown above are interpolated. 
+
+(ii)
+
+TSR is the sum of the yields of the dividend and any other extraordinary shareholder payouts over the Performance Period, plus the cumulative percentage change in stock price from the beginning to the end of the Performance Period. For purposes of this Agreement, the stock price at the beginning of the Performance Period will be the average closing stock price over the   
+  
+* * *
+
+trading days in the month immediately preceding the start of the Performance Period (December 2011), and the stock price at the end of the Performance Period will be the average closing stock price over the trading days in the last month of the Performance Period (December 2014).   
+  
+(b)
+
+Form and Timing of Payment of Award. Except as provided in subsection 2(d), payment with respect to an earned TSR Award shall be made as soon as practicable (but not later than March 15th) in the calendar year following the close of the Performance Period. Payment shall be made in cash.   
+  
+(c) Effect of Termination of Employment. Except as otherwise provided below, if the Participant’s employment with the Company or a Participating Company is terminated for any reason prior to the end of the Performance Period, any Award subject to this Agreement shall be immediately forfeited.   
+  
+(i) Termination due to Death or Disability. If the Participant’s termination of employment is due to death or Disability (as defined below), the Award shall vest and will be payable at the time and in the form as provided in subsection 2(b) above based on the Company’s TSR for the entire Performance Period relative to the TSR for each company in the S&P; Mid-Cap Capital Goods Index for the entire Performance Period.   
+  
+(ii) Termination due to Retirement or Termination by the Company for Other than Cause. If the Participant’s termination of employment is due to Retirement (as defined below) or if the Participant’s employment is terminated by the Company (or a Participant Company, as the case may be) for other than cause (as determined by the Committee), a prorated portion of the Award shall vest (see “Prorated Vesting Upon Retirement or Termination by the Company for Other than Cause” below) and will be payable at the time and in the form as provided in subsection 2(b) above. For purposes of this subsection 2(c)(ii), the Participant shall be considered employed during any period in which the Participant is receiving severance pay, and the date of the termination of the Participant’s employment shall be the last day of any such severance pay period.   
+  
+(iii) Retirement. For purposes of this Agreement, the term “Retirement” shall mean any termination of the Participant’s employment after the date the Participant is eligible to commence receipt of retirement benefits under the provisions of the ITT Salaried Retirement Plan as in effect prior to October 31, 2011 or an Affiliate Company Retirement Plan, or would have been eligible had Participant been a participant in such Retirement Plan. Effective as of January 1, 2012, “Retirement” shall mean with respect to a Participant who was not a member of the ITT Salaried Retirement Plan or an Affiliate Company Retirement Plan immediately prior to October 31 and who becomes a Participant on or after January 1, 2012, the termination of employment by such Participant after the date such Participant attains age 55 and completes 10 or more years of Service (as such term is defined in the new ITT Corporation Retirement Savings Plan for Salaried Employees) or attains age 65, if earlier.   
+  
+(iv) Disability. For purposes of this Agreement, the term “Disability” shall mean the complete and permanent inability of the Participant to perform all of his or her duties under the terms of his or her employment, as determined by the Committee upon the basis of such evidence, including independent medical reports and data, as the Committee deems appropriate or necessary.   
+  
+(v) Prorated Vesting upon Retirement or Termination by the Company for Other than Cause. The prorated portion of the Award that vests due to termination of the Participant’s employment due to Retirement or by the Company for other than cause shall be determined by multiplying (i) the TSR Award Payout that would have been paid based on the Company’s TSR for the entire Performance Period relative to the TSR for each company in the S&P; Mid-Cap Capital Goods Index for the entire Performance Period, by (ii) a fraction, the numerator of which is the number of full months the Participant has been continually employed since the beginning of the Performance Period and the denominator of which is 36. For this purpose, full months of employment shall be based on monthly anniversaries of the commencement of the Performance Period.   
+  
+(d)
+
+Acceleration Event. Notwithstanding anything in the Plan to the contrary, upon the occurrence of an Acceleration Event during the Performance Period, (i) a prorated portion of the Award shall vest based on actual performance though the date of the Acceleration Event (such prorated portion to be determined as provided below in this subsection 2(d)) and shall be paid within 30 days following the   
+  
+* * *
+
+Acceleration Event and (ii) the remaining portion of the Award (such remaining portion to be determined as provided below in this subsection 2(d)) shall vest and shall be paid within 30 days following the Acceleration Event. The prorated portion of the Award that vests pursuant to subpart (i) in the prior sentence due to the Acceleration Event shall be determined by multiplying (A) the TSR Award Payout determined based on the Company’s TSR relative to the TSR for each company in the S&P; Mid-Cap Capital Goods Index determined pursuant to subsection 2(a) based on TSR performance for the period beginning January 1, 2012 and ending on the date preceding the date on which the Acceleration Event occurs (the “Prorated Period”), by (B) a fraction, the numerator of which is the number of calendar days in the Prorated Period and the denominator of which is 1,095. The remaining portion of the Award that vests pursuant to subpart (ii) in the first sentence of this subsection 2(d) due to the Acceleration Event shall be determined by multiplying (A) the Target Award by (B) a fraction, the numerator of which is the number of calendar days remaining in the Performance Period as of the date of the Acceleration Event (including day of the Acceleration Event) and the denominator of which is 1,095. 
+
+(e) Tax Withholding. Payments with respect to Awards under the Plan shall be subject to applicable tax withholding obligations as described in Article 15 of the Plan, or, if the Plan is amended, successor provisions.   
+  
+(f) Participant Bound by Plan and Rules. The Participant hereby acknowledges receipt of a copy of the Plan and this Agreement and agrees to be bound by the terms and provisions thereof. The Participant agrees to be bound by any rules and regulations for administering the Plan as may be adopted by the Committee prior to the settlement of the Award subject to this Agreement. Terms used herein and not otherwise defined shall be as defined in the Plan.   
+  
+(g) Governing Law. This Agreement is issued in White Plains, New York, and shall be governed and construed in accordance with the laws of the State of New York, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Agreement to the substantive law of another jurisdiction.   
+  
+IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its Chief Executive Officer, President or a Vice President, as of the 8th day of March, 2012.   
+  
+Agreed to:
+
+ITT Corporation  
+![LOGO](g323203xbrl_ex1004st13.jpg)  
+  
+Participant  
+  
+Dated: 
+
+Dated: March 8, 2012  
+Enclosures

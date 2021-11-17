@@ -1,0 +1,143 @@
+Exhibit 10.5
+
+THE HANOVER INSURANCE GROUP, INC. 
+
+2006 LONG-TERM INCENTIVE PLAN
+
+
+
+This Restricted Stock Agreement (the “Agreement”) is made as of  (the “Grant Date”) by and between The Hanover Insurance Group, Inc., a Delaware corporation (the “Company”), and  (the “Participant” or “you”). Capitalized terms used without definition herein shall have the meanings set forth in The Hanover Insurance Group, Inc. 2006 Long-Term Incentive Plan (the “Plan”).
+
+P R E A M B L E
+
+WHEREAS, pursuant to the terms of the Plan and this Agreement, the Administrator has agreed to grant to the Participant shares of Stock (the “Restricted Shares”). 
+
+WHEREAS, the Restricted Shares will be subject to forfeiture, restrictions on sale and transfer and other terms and conditions as set forth in this Agreement.
+
+NOW, THEREFORE, for and in consideration of the foregoing and the mutual covenants and promises hereinafter set forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+1.
+
+Transfer of Restricted Shares.  
+  
+(a) The Company will transfer to an account or accounts designated by it in the name of the Participant, the Restricted Shares, provided the Participant has delivered to the Company a fully executed copy of this Agreement.
+
+(b) Except as otherwise specifically provided in this Agreement, Participant shall not sell, assign, transfer or otherwise dispose of, and shall not pledge or hypothecate, any of the Restricted Shares. 
+
+2.
+
+Vesting and Company’s Right to a Return of the Restricted Shares.  
+  
+(a) Vesting. The Restricted Shares shall be one hundred percent (100%) vested and shall no longer be subject to forfeiture and the restrictions set forth in Section 1(b) on the third anniversary of the Grant Date, provided that the Participant remains an Employee with the Company or one of its subsidiaries or affiliates (the Company and its subsidiaries and affiliates hereinafter referred to as “THG”) through such date (the “Vesting Period”).
+
+(b) Involuntary Termination/Voluntary Termination. If, prior to the expiration of the Vesting Period, the Participant’s Employment with THG is terminated, with or without Cause (other than under the circumstances described below in this Section 2), or the Participant voluntarily terminates his/her Employment with THG, any non-vested Restricted Shares shall be automatically cancelled and forfeited and shall be returned to the Company for no consideration.
+
+(c) Disability. Subject to the remainder of this Section 2(c), if the Participant is placed in a long term disability status (as such term is defined in the Company’s Long-Term Disability Program, as in effect at such time)(“LTD Status”), and provided Participant remains in LTD Status through such date, the Restricted Shares shall continue to vest in accordance with this Agreement until the first anniversary of the date Participant was placed in LTD Status (the “LTD Extension Period”). At the expiration of the LTD Extension Period (i) a pro-rated portion of the Restricted Shares shall automatically vest, and (ii) the remaining unvested Restricted Shares shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of this subsection, the pro-ration of the Restricted Shares that vest on the expiration of the LTD Extension Period, shall be determined by dividing the number of days since the Grant Date by 1,095 and applying this percentage to the Restricted Shares. Any fractional share shall be rounded up such that only whole shares are issued.
+
+\- 2 -
+
+If, prior to the expiration of the LTD Extension Period, Participant is removed from LTD Status and immediately thereafter returns to active Employment with THG, Participant shall be treated (for the purposes of this Agreement) as if he/she were never placed in LTD Status and remained an active Employee of THG, shall be given credit toward vesting for the period Participant was in LTD Status and this Agreement shall remain in full force and effect in accordance with its terms. 
+
+(d) Death. If Participant dies (i) a pro-rated portion of the Restricted Shares shall automatically vest, and (ii) the remaining unvested Restricted Shares shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of this subsection, the pro-ration of the Restricted Shares that vest upon Participant’s death shall be determined by dividing the number of days that the Participant was an active Employee since the Grant Date by 1,095 and applying this percentage to the Restricted Shares. Any fractional share shall be rounded up such that only whole shares are issued.
+
+(e) Retirement. If Participant Retires (i) a pro-rated portion of the Restricted Shares shall automatically vest, and (ii) the remaining unvested Restricted Shares shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of this subsection, the pro-ration of the Restricted Shares that vest on Retirement shall be determined by dividing the number of days that the Participant was an active Employee since the Grant Date by 1,095 and applying this percentage to the Restricted Shares. Any fractional share shall be rounded up such that only whole shares are issued. 
+
+For the purpose of this Agreement, a Participant shall be deemed to “Retire” if (i) his/her Employment with THG terminates (other than for Cause), (ii) he or she is 65 years of age or older as of such termination date, and (iii) immediately prior to such termination, Participant has been in continuously Employed by THG for 10 or more years. 
+
+(f) Covered Transaction/Change in Control. In the event of a Covered Transaction (other than a Change in Control, whether or not it is a Covered Transaction), the Restricted Shares shall be fully governed by the applicable provisions of Section 7(a) of the Plan. Notwithstanding the terms of the Plan, in the event of a Change in Control (whether or not it is a Covered Transaction), the following rules shall apply: 
+
+(i) Except as provided below in Sections 2(f)(ii) and (iii), in the event of a Change in Control (i) the Participant shall automatically vest in a pro-rata portion of the Restricted Shares and such vested Restricted Shares shall no longer be subject to forfeiture or the restrictions set forth in Section 1(b), and (ii) the remaining unvested Restricted Shares shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of the preceding sentence, the pro-ration of the Restricted Shares that shall vest upon the effective date of the Change in Control shall be determined in accordance with the following table:
+
+Effective Date of Change in Control
+
+Percentage of Restricted Shares that Vest  
+  
+Prior to the First Anniversary of the Grant Date
+
+33.33%  
+  
+On or after the First Anniversary, but prior to the Second Anniversary, of the Grant Date
+
+66.67%  
+  
+On or after the Second Anniversary of the Grant Date
+
+100%  
+  
+Any fractional shares shall be rounded up so that only whole shares shall be issued.
+
+(ii) Notwithstanding Section 2(f)(i), no acceleration of vesting shall occur with respect to the Restricted Shares if the Administrator reasonably determines in good faith prior to the occurrence of a Change in Control that this Award of Restricted Shares shall be honored or assumed, or new rights substituted therefore (such honored, assumed or substituted award hereinafter called an “Alternative Award”), by Participant’s employer (or the parent or a subsidiary of such employer) immediately following the Change in Control, provided that any such Alternative Award must:
+
+\- 3 -
+
+(A) be based on stock which is traded on an established securities market, or which will be so traded within 60 days of the Change in Control;
+
+(B) provide such Participant (or each Participant in a class of Participants) with rights and entitlements substantially equivalent to or better than the rights, terms and conditions applicable under this Award, including, but not limited to, an identical or better vesting schedule;
+
+(C) have substantially equivalent economic value to this Award (determined at the time of the Change in Control); and
+
+(D) have terms and conditions which provide that in the event that the Participant’s employment is involuntarily terminated (other than for Cause) or constructively terminated (an “Involuntary Termination”) prior to the third anniversary of the Grant Date (i) the Participant shall automatically vest in a pro-rata portion of the Alternative Award and any conditions on a Participant’s rights under, or any restrictions on transfer or exercisability applicable to, the vested portion of such Alternative Award shall be waived or shall lapse and (ii) the remaining unvested portion of the Alternative Award shall be automatically cancelled and forfeited and be returned to the Company for no consideration. For purposes of the preceding sentence, the pro-ration of the Alternative Award that shall vest upon the effective date of an Involuntary Termination shall be determined in accordance with the following table:
+
+Effective Date of an Involuntary Termination
+
+Percentage of Alternative Award that Vest  
+  
+Prior to the First Anniversary of the Grant Date
+
+33.33%  
+  
+On or after the First Anniversary, but prior to the Second Anniversary, of the Grant Date
+
+66.67%  
+  
+On or after the Second Anniversary of the Grant Date
+
+100%  
+  
+For this purpose, a constructive termination shall mean a termination by Participant following a material reduction in the Participant’s compensation, a material reduction in the Participant’s responsibilities or the relocation of the Participant’s principal place of employment to another location (which is greater than 35 miles from Participant’s principal place of employment immediately preceding the Change in Control), in each case without the Participant’s written consent.
+
+(iii) Notwithstanding Sections 2(f)(i) and (ii) above, the Administrator may elect, in its sole discretion, exercised prior to the effective date of the Change in Control, to accelerate all, or a greater percentage of the Restricted Shares, than is otherwise required pursuant to the terms of this Section 2(f).
+
+(g) Violation of the Agreement. In the event Participant violates the terms of this Agreement, including, without limitation Section 1(b), the Restricted Shares shall be cancelled and forfeited and be returned to the Company for no consideration. 
+
+3\. Stock Power. The Company may require Participant to execute and deliver to the Company a stock power in blank with respect to non-vested Restricted Shares. The Company shall have the right, in its sole discretion, to exercise such stock power in the event that the Company becomes entitled to the non-vested Restricted Shares pursuant to the terms of this Agreement. Notwithstanding the foregoing, the Participant shall have dividend and voting rights with respect to the non-vested Restricted Shares unless such shares are subject to a deferral agreement.
+
+4\. Notices. Notices hereunder shall be in writing and, if to the Company, shall be delivered personally to the Human Resources Department or such other party as designated by the Company or mailed to its principal office and, if to the Participant, shall be delivered personally or mailed to the Participant at his or her address on the records of the Company.
+
+5. Non-Hire/Solicitation/Confidentiality. As a condition of your eligibility to receive these Restricted Shares and regardless of whether such Restricted Shares vest, you agree that you will (i) not, directly or indirectly, during the term of your employment with THG, and for a period of one year thereafter, hire, solicit, entice away or in any way interfere with THG’s relationship with, any of its officers or employees, or in any way attempt to do so or participate with, assist or encourage a third party to do so, and (ii) neither disclose any of THG’s confidential and proprietary information to any third party, nor use such information for any purpose other than for the benefit of THG and in accordance with THG policy. The terms of this Section 5 shall survive the expiration or earlier termination of the Agreement. 
+
+\- 4 -
+
+6\. Specific Performance. The Participant hereby acknowledges and agrees that in the event of any breach of Section 5 of this Agreement, the Company would be irreparably harmed and could not be made whole by monetary damages. The Participant accordingly agrees to waive the defense in any action for injunctive relief or specific performance that a remedy at law would be adequate and that the Company, in addition to any other remedy to which it may be entitled at law or in equity, shall be entitled to an injunction or to compel specific performance of Section 5.
+
+7\. Successors. The provisions of this Agreement will benefit and will be binding upon the permitted assigns, successors in interest, personal representatives, estates, heirs and legatees of each of the parties hereto.
+
+8\. Interpretation. The terms of the Restricted Shares are as set forth in this Agreement and in the Plan. The Plan is incorporated into this Agreement by reference, which means that this Agreement is limited by and subject to the express terms and provisions of the Plan. In the event of a conflict between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall control.
+
+9\. Governing Law. This Agreement shall be construed and applied (except as to matters governed by the Delaware General Corporation Law, as to which Delaware law shall apply) in accordance with the laws of the Commonwealth of Massachusetts.
+
+10\. Facsimile or Electronic Signature. The parties may execute this Agreement by means of a facsimile or electronic signature.
+
+11\. Entire Agreement; Counterparts. This Agreement and the Plan contains the entire understanding between the parties concerning the subject contained in this Agreement. Except for the Agreement and the Plan, there are no representations, agreements, arrangements, or understandings, oral or written, between or among the parties hereto, relating to the subject matter of this Agreement, that are not fully expressed herein. This Agreement may be signed in one or more counterparts, all of which shall be considered one and the same agreement.
+
+12\. Further Assurances. Each party to this Agreement agrees to perform all further acts and to execute and deliver all further documents as may be reasonably necessary to carry out the intent of this Agreement. 
+
+13\. Severability. In the event that any of the provisions, or portions thereof, of this Agreement are held to be unenforceable or invalid by any court of competent jurisdiction, the validity and enforceability of the remaining provisions, or portions thereof, will not be affected, and such unenforceable provisions shall be automatically replaced by a provision as similar in terms as may be valid and enforceable.
+
+14\. Construction. Whenever used in this Agreement, the singular number will include the plural, and the plural number will include the singular, and the masculine or neuter gender shall include the masculine, feminine, or neuter gender. The headings of the Sections of this Agreement have been inserted for purposes of convenience and shall not be used for interpretive purposes. The Administrator shall have full discretion to interpret and administer this Agreement. Any actions or decisions by the Administrator in connection with this Agreement shall be conclusive and binding upon the Participant.
+
+15\. No Effect on Employment. Nothing contained in this Agreement shall be construed to limit or restrict the right of THG to terminate the Participant’s employment at any time, with or without cause, or to increase or decrease the Participant’s compensation from the rate of compensation in existence at the time this Agreement is executed.
+
+\- 5 -
+
+16\. Taxes. If at the time the Restricted Stock vests, the Company determines that under applicable law and regulations it could be liable for the withholding of any federal, state or local tax, Participant shall remit to the Company any amounts determined by the Company to be required to be withheld or the Company may, at its option, withhold from such Restricted Shares a sufficient number of shares to satisfy the minimum federal, state and local tax withholding due, if any, and remit the balance of the Shares to the Participant.
+
+IN WITNESS WHEREOF, the parties hereto have entered into this Agreement as of the Grant Date.  
+  
+THE HANOVER INSURANCE GROUP, INC.  
+  
+By:   
+  
+Name: Bryan D. Allen  
+  
+Title: Vice President & Chief Human Resources Officer

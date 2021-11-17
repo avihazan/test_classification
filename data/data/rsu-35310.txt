@@ -1,0 +1,714 @@
+  
+
+
+  
+
+
+Exhibit 10(c)
+
+  
+
+
+  
+
+
+  
+
+
+Form of 
+
+  
+
+
+
+
+for the Performance Period beginning January 1, {{GRANTYR}}
+
+and ending December 31, {{2YRSAFTERGRANT}}
+
+  
+
+
+under the
+
+  
+
+
+NEXTERA ENERGY, INC. AMENDED AND RESTATED
+
+2011 LONG TERM INCENTIVE PLAN
+
+  
+
+
+  
+
+
+This Performance Share Award Agreement (“Agreement”) between NextEra Energy, Inc. (hereinafter called the “Company”) and {{EMPLOYEENAME}} (hereinafter called the “Grantee”) is dated {{GRANTDATE}}. All capitalized terms used in this Agreement which are not defined herein shall have the meanings ascribed to such terms in the NextEra Energy, Inc. Amended and Restated 2011 Long Term Incentive Plan, as amended from time to time (the “Plan”).
+
+  
+
+
+1\. Grant of Performance Share Award. The Company hereby grants to the Grantee a Performance Share Award (“Award”) which confers upon the Grantee the right to receive a number of shares (“Performance Shares”) of Stock, determined as set forth in section 2 hereof. The par value of the Performance Shares shall be deemed paid by the promise by the Grantee to perform future Service to the Company or an Affiliate. The Grantee’s right to receive the Performance Shares shall be subject to the terms and conditions set forth in this Agreement and in the Plan. The performance period for which the Award is granted is the period beginning on January 1, {{GRANTYR}} and ending on December 31, {{2YRSAFTERGRANT}} (such period hereinafter referred to as the “Performance Period”).
+
+  
+
+
+The “Target” number of Performance Shares granted to the Grantee for the Performance Period is {{AMTGRANTED}}.
+
+  
+
+
+2\. Payment of Performance Share Award. 
+
+  
+
+
+(a) Payment of the Award shall be conditioned upon (i) the Company’s achievement of the Code Section 162(m) corporate performance objective(s) established by the Committee for the Performance Period (the “Section 162(m) Objective”), (ii) certification by the Committee of (1) achievement of the Section 162(m) Objective for the Performance Period and (2) the Company’s achievement of any secondary corporate performance objective(s) which were established by the Committee for the Performance Period for determining the percentage of the
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Target number of Performance Shares that actually may become vested under the Award (the “Award Performance Objectives,” which are attached hereto as Exhibit “A”), and (iii) Committee approval of the number of Performance Shares to be paid to the Grantee. Subject to the provisions of the Plan, the Grantee shall have the right to payment of that percentage of the Grantee’s Target number of Performance Shares set forth in section 1 hereof which is equal to the percentage achievement of the Award Performance Objectives (including an individual performance modifier based on an assessment by the Company’s chief executive officer or the Committee of the Grantee’s individual relative contribution to the attainment of the Award Performance Objectives) certified by the Committee for the Performance Period, which will be between 0% and 200%, inclusive (the “Achieved Percentage”). In no event will the Grantee vest in or have a right to payment of more than 200% of such Target number of Performance Shares. The Committee has the discretion to reduce the payout. If the Committee does not certify that the Section 162(m) Objective has been achieved for the Performance Period, the Grantee will forfeit all, and will not vest in any, of the Performance Shares and, in such a case for purposes of this Agreement, the Achieved Percentage shall be 0%. 
+
+  
+
+
+(b) Notwithstanding the foregoing or the provisions of section 4 hereof or any other provision of this Agreement or the Plan, if (i) the Grantee is a party to an Executive Retention Employment Agreement with the Company (as amended from time to time, “Retention Agreement”) and has not waived his or her rights, either entirely or in pertinent part, under such Retention Agreement, (ii) the Effective Date (as defined in the Retention Agreement) has occurred and the Employment Period (as defined in the Retention Agreement) has commenced and has not terminated pursuant to section 3(b) of the Retention Agreement, and (iii) a Change of Control (as defined in the Retention Agreement) has occurred, then, so long as the Grantee is then providing Service:
+
+  
+
+
+(1) fifty percent (50%) of the Performance Shares, earned at a deemed achievement level equal to the higher of (x) the Target number of Performance Shares set forth in this Agreement or (y) the average level (expressed as a percentage of the Target number of Performance Shares set forth in this Agreement) of achievement in respect of similar performance stock-based awards which matured over the three fiscal years immediately preceding the fiscal year in which such Change of Control occurred (such higher level, the “Deemed Performance Award Achievement Level”), shall vest upon such Change of Control and shall be payable as soon as practicable thereafter (but in all cases within thirty days after such Change of Control); and
+
+  
+
+
+(2) the other fifty percent (50%) of the Performance Shares (earned at the Deemed Performance Award Achievement level calculated as set forth in subsection (1), above) shall vest on the date after such Change of Control which is the earlier of (i) one year after the date on
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+which such Change of Control occurred, if the Grantee is then providing Service to the Company or an Affiliate (including to a successor to the Company or such Affiliate), or (ii) the date on which the Grantee’s Service to the Company or an Affiliate (including to a successor to the Company or such Affiliate) terminates, and shall be payable (whether under clause (i) or clause (ii) of this section 2(b)(2)) as soon as practicable thereafter (and in any event no later than the 15th day of the third month following the end of the first taxable year in which the right to such payment arises).
+
+  
+
+
+(c) Notwithstanding the provisions of sections 2(a) and 4 hereof or any other provision of this Agreement or the Plan, if the Grantee is not a party to a Retention Agreement and so long as the Grantee is still providing Service upon the occurrence of a Change in Control (as defined, as of the date hereof, in the Plan for all purposes of this Agreement), fifty percent (50%) of the Performance Shares, earned at the Deemed Performance Award Achievement Level, shall vest upon such Change in Control and shall be payable as soon as practicable thereafter (but in all cases within thirty days after such Change in Control). The remainder of the Performance Shares shall remain outstanding (on a converted basis, if applicable) and shall remain subject to the terms and conditions of the Plan. If the Grantee provides Service to the Company or an Affiliate (including to a successor to the Company or such Affiliate) from the date of such Change in Control to the date of the first anniversary of such Change in Control or if, prior to the first anniversary of such Change in Control, the Grantee is involuntarily terminated other than for Cause or Disability, the fifty percent (50%) of the Performance Shares outstanding immediately prior to such Change in Control that did not vest at the time of such Change in Control shall vest on the date which is the earlier of (a) the first anniversary of such Change in Control or (b) the date on which the Grantee’s Service to the Company or an Affiliate (including to a successor to the Company or such Affiliate) terminates and shall be payable (whether under clause (a) or clause (b) of this section 2(c)) as soon as practicable thereafter (but in no event later than the 15th day of the third month following the end of the first taxable year in which the right to such payment arises). The deemed level of achievement with respect to such awards shall be the Deemed Performance Award Achievement Level.
+
+  
+
+
+(d) If, as a result of a Change of Control or a Change in Control, as applicable, shares of Stock are exchanged for or converted into a different form of equity security and/or the right to receive other property (including cash), payment in respect of the Performance Shares shall, to the maximum extent practicable, be made in the same form.
+
+  
+
+
+3\. Form of Payment of Award. Subject to section 2(d) hereof, the Award shall be payable in shares of Stock. Upon delivery of Performance Shares to the Grantee, the Company shall have the right to withhold from any such distribution, in order to meet the Company’s obligations for the payment of withholding taxes, shares of Stock with a Fair Market Value equal to the
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+minimum statutory withholding for taxes (including federal and state income taxes and payroll taxes applicable to the supplemental taxable income relating to such distribution) and any other tax liabilities for which the Company has an obligation relating to such distribution. For the purpose of this Agreement, the date of determination of Fair Market Value shall be the date as of which the Grantee’s rights to payments under the Award are determined by the Committee in accordance with section 2 hereof.
+
+  
+
+
+Delivery of Performance Shares shall occur as soon as administratively practicable following the Committee’s determination of the Grantee’s right to such delivery.
+
+  
+
+
+4\. Termination of Service. Except as otherwise set forth herein, the Grantee must remain in continuous Service (including to any successors to the Company or an Affiliate) through the Performance Period for the Award to vest. Except as otherwise set forth (a) herein, (b) in the Plan in connection with a Change in Control if the Grantee is not a party to a Retention Agreement, or (c) in a Retention Agreement to which the Grantee is a party in connection with a Change of Control (as defined in such Retention Agreement), in the event the Grantee’s Service (including to any successors to the Company or an Affiliate) terminates (or converts to inactive status in the manner specified in Section 4(b) hereof) during the Performance Period, the Grantee’s right to payment of the Award shall be determined as follows:
+
+  
+
+
+(a) If the Grantee’s termination of Service is due to resignation, discharge, or retirement prior to age 65 not meeting the condition set forth in section 4(d) hereof, all rights to the Award shall be immediately forfeited.
+
+  
+
+
+(b) In the case of (1) the Grantee’s termination of Service due to Disability, or (2) the Grantee’s conversion to inactive employee status on account of a determination of such Grantee’s total and permanent Disability under any long-term disability plan of the Company or an Affiliate (a “Disability Plan”):
+
+  
+
+
+(i) The Grantee’s right to Performance Shares under section 2 hereof shall be determined as the Grantee’s Target number of Performance Shares times the Achieved Percentage for each year in the Performance Period (subject to a maximum of 200%); provided that the Grantee’s Achieved Percentage for the year in which the Grantee’s Service terminates due to Disability or converts to inactive status under a Disability Plan, and any subsequent years in the Performance Period, shall be deemed to be 100%; and
+
+  
+
+
+(ii) Payment of the Award under this section 4(b) shall be made after the end of the Performance Period at the time and in the manner specified in section 3 hereof. 
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(c) In the case of the Grantee’s termination of Service due to death:
+
+  
+
+
+(i) The Grantee’s right to Performance Shares under section 2 hereof shall be determined as the greater of (x) the Grantee's Target number of Performance Shares or (y) the Grantee's Target number of Performance Shares times the Achieved Percentage (subject to a maximum of 200%); provided that the Grantee’s Achieved Percentage for the year in which the Grantee’s Service terminates due to death, and any subsequent years in the Performance Period, shall be deemed to be 100%; and
+
+  
+
+
+(ii) Payment of the Award under this section 4(c) shall be made as soon as reasonably practicable thereafter (it being understood that the Committee shall determine the Achieved Percentage in good faith even though such determination will occur prior to the end of the Performance Period).
+
+  
+
+
+(d) In the case of the Grantee’s termination of Service due to retirement on or after age 65 not meeting the condition set forth in Section 4(e) hereof:
+
+  
+
+
+(i) The Grantee’s Target number of Performance Shares for the Performance Period shall be reduced to a prorated number (equal to (A) the total number of full days of the Grantee’s Service completed during the Performance Period divided by the total number of days in the Performance Period, multiplied by (B) the Target number of Performance Shares granted to Grantee as set forth in section 1 hereof, and rounded to the nearest Performance Share, with 0.5 of a Performance Share being rounded up to the nearest share) of Performance Shares; and
+
+  
+
+
+(ii) The Grantee’s right to Performance Shares under section 2 hereof shall be determined as the Grantee’s Target number of Performance Shares, reduced as set forth in section 4(d)(i) hereof, times the Achieved Percentage; and
+
+  
+
+
+(iii) Payment of the Award under this section 4(d) shall be made after the end of the Performance Period at the time and in the manner specified in section 3 hereof. 
+
+  
+
+
+Notwithstanding the foregoing, if, after termination of Service but prior to payment of the Award, the Grantee breaches any provision hereof, including without limitation the provisions of section 9 hereof, the Grantee shall immediately forfeit all rights to the Award.
+
+  
+
+
+(e) If the Grantee’s termination of Service is due to retirement on or after age 50, and if, but only if, such retirement is evidenced by a writing which specifically acknowledges that this provision shall apply to such retirement and is executed by the Company’s chief executive
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+officer (or, if the Grantee is an executive officer, by a member of the Committee or the chief executive officer at the direction of the Committee, other than with respect to himself), the Grantee’s Target number of Performance Shares for the Performance Period shall be as set forth in section 1 hereof and the Grantee’s right to Performance Shares under section 2 hereof shall be determined as the Grantee’s Target number of Performance Shares times the Achieved Percentage. Payment of the Award under this section 4(e) shall be made after the end of the Performance Period at the time and in the manner specified in section 3 hereof. Notwithstanding the foregoing, if, after termination of Service but prior to payment of the Award, the Grantee breaches any provision hereof, including without limitation the provisions of section 9 hereof, the Grantee shall immediately forfeit all rights to the Award.
+
+  
+
+
+(f) If the Grantee’s Service is terminated during the Performance Period for any reason other than as set forth in sections 4(a), (b), (c), (d) and (e) hereof, or if an ambiguity exists as to the interpretation of those sections, the Committee shall determine whether the Award shall be forfeited or whether the Grantee shall be entitled to full vesting or pro rata vesting as set forth above based upon full days of Service completed during the Performance Period. Payment of the Award under this section 4(f) shall be made after the end of the Performance Period at the time and in the manner specified in section 3 hereof. Notwithstanding the foregoing, if, after termination of Service but prior to payment of the Award, the Grantee breaches any provision hereof, including without limitation the provisions of section 9 hereof, the Grantee shall immediately forfeit all rights to the Award.
+
+  
+
+
+5\. Adjustments. If the number of outstanding shares of Stock is increased or decreased or the shares of Stock are changed into or exchanged for a different number of shares or kind of capital stock or other securities of the Company on account of any recapitalization, reclassification, stock split, reverse stock split, spin-off, combination of stock, exchange of stock, stock dividend or other distribution payable in capital stock, or other increase or decrease in shares of Stock effected without receipt of consideration by the Company, then the Target number of Performance Shares granted hereunder shall be adjusted proportionately. No adjustment shall be made in connection with the payment by the Company of any cash dividend on its Stock or in connection with the issuance by the Company of any warrants, rights, or options to acquire additional shares of Stock or of securities convertible into Stock.
+
+  
+
+
+6\. No Rights of Stock Ownership. This grant of Performance Shares does not entitle the Grantee to any interest in or to any dividend, voting, or other rights normally attributable to Stock ownership.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+7\. Nonassignability. The Grantee’s rights and interest in the Performance Shares may not be sold, transferred, assigned, pledged, exchanged, hypothecated or otherwise disposed of except by will or the laws of descent and distribution.
+
+  
+
+
+8\. Effect Upon Employment. This Agreement is not to be construed as giving any right to the Grantee for continuous employment by the Company or a Subsidiary or other Affiliate. The Company and its Subsidiaries and other Affiliates retain the right to terminate the Grantee at will and with or without cause at any time (subject to any rights the Grantee may have under the Grantee’s Retention Agreement).
+
+  
+
+
+9\. Protective Covenants. In consideration of the Award granted under this Agreement, the Grantee covenants and agrees as follows (the “Protective Covenants”):
+
+  
+
+
+(a) During the Grantee’s Service with the Company, and for a two-year period following the termination of the Grantee’s Service with the Company, the Grantee agrees not to (i) compete or attempt to compete for, or act as a broker or otherwise participate in, any projects in which the Company has at any time done any work or undertaken any development efforts, or (ii) directly or indirectly solicit any of the Company’s customers, vendors, contractors, agents, or any other parties with which the Company has an existing or prospective business relationship, for the benefit of the Grantee or for the benefit of any third party, nor shall the Grantee accept consideration or negotiate or enter into agreements with such parties for the benefit of the Grantee or any third party.
+
+  
+
+
+(b) During the Grantee’s Service with the Company and for a two-year period following the termination of the Grantee’s Service with the Company, the Grantee shall not, directly or indirectly, on behalf of the Grantee or for any other business, person or entity, entice, induce or solicit or attempt to entice, induce or solicit any employee of the Company or its Subsidiaries or other Affiliates to leave the Company’s employ (or the employ of any such Subsidiary or other Affiliate) or to hire or to cause any employee of the Company to become employed for any reason whatsoever.
+
+  
+
+
+(c) The Grantee shall not, at any time or in any way, disparage the Company or its current or former officers, directors, and employees, orally or in writing, or make any statements that may be derogatory or detrimental to the Company’s good name or business reputation.
+
+  
+
+
+(d) The Grantee acknowledges that the Company would not have an adequate remedy at law for monetary damages if the Grantee breaches these Protective Covenants. Therefore, in addition to all remedies to which the Company may be entitled for a breach or threatened breach of these Protective Covenants, including but not limited to monetary damages, the Company will
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+be entitled to specific enforcement of these Protective Covenants and to injunctive or other equitable relief as a remedy for a breach or threatened breach. In addition, upon any breach of these Protective Covenants or any separate confidentiality agreement or confidentiality provision between the Company and the Grantee, all of the Grantee’s rights to receive Performance Shares not theretofore delivered under this Agreement shall be forfeited.
+
+  
+
+
+(e) For purposes of this section 9, the term “Company” shall include all Subsidiaries and other Affiliates of the Company (such Subsidiaries and other Affiliates being hereinafter referred to as the “NextEra Entities”). The Company and the Grantee agree that each of the NextEra Entities is an intended third-party beneficiary of this section 9, and further agree that each of the NextEra Entities is entitled to enforce the provisions of this section 9 in accordance with its terms.
+
+  
+
+
+(f) Notwithstanding anything to the contrary contained in this Agreement, the terms of these Protective Covenants shall survive the termination of this Agreement and shall remain in effect.
+
+  
+
+
+10\. Successors and Assigns. This Agreement shall inure to the benefit of and shall be binding upon the Company and the Grantee and their respective heirs, successors and assigns.
+
+  
+
+
+11\. Incorporation of Plan’s Terms; Other Governing Provisions. This Agreement is made under and subject to the provisions of the Plan, and all the provisions of the Plan are also provisions of this Agreement, provided, however, (a) if there is a difference or conflict between the provisions of this Agreement and the mandatory provisions of the Plan, such mandatory provisions of the Plan shall govern, (b) if there is a difference or conflict between the provisions of this Agreement and the non-mandatory provisions of the Plan, the provisions of this Agreement shall govern, and (c) if there is a difference or conflict between the provisions of this Agreement and/or a provision of the Plan with a provision of a Retention Agreement, such provision of such Retention Agreement shall govern. Any Retention Agreement constitutes “another agreement with the Grantee” within the meaning of the Plan (including without limitation sections 17.3 and 17.4 thereof). The Company and Committee retain all authority and powers granted by the Plan and not expressly limited by this Agreement. The Grantee acknowledges that he or she may not and shall not rely on any statement of account or other communication or document issued in connection with the Plan other than the Plan, this Agreement, and any document signed by an authorized representative of the Company that is designated as an amendment of the Plan or this Agreement.
+
+  
+
+
+12\. Interpretation. The Committee shall have the authority to interpret and construe all provisions of this Agreement, and any such interpretation or construction, and any other
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+determination contemplated to be made under the Plan or this Agreement, by the Committee shall be final, binding and conclusive, absent manifest error.
+
+  
+
+
+13. Governing Law/Jurisdiction/Waiver of Jury Trial. This Agreement shall be construed and interpreted in accordance with the laws of the State of Florida, without regard to its conflict of laws principles. All suits, actions, and proceedings relating to this Agreement or the Plan shall be brought only in the courts of the State of Florida located in Palm Beach County or in the United States District Court for the Southern District of Florida in West Palm Beach, Florida. The Company and the Grantee hereby consent to the personal jurisdiction of the courts described in this section 13 for the purpose of all suits, actions, and proceedings relating to the Agreement or the Plan. The Company and the Grantee each waive all objections to venue and to all claims that a court chosen in accordance with this section 13 is improper based on a venue or a forum non conveniens claim.
+
+  
+
+
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE PARTIES HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT WHICH ANY PARTY MAY HAVE TO TRIAL BY JURY IN RESPECT OF ANY PROCEEDING, LITIGATION OR COUNTERCLAIM BASED ON, OR ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT.
+
+  
+
+
+14\. Amendment. This Agreement may be amended, in whole or in part and in any manner not inconsistent with the provisions of the Plan, at any time and from time to time, by written agreement between the Company and the Grantee.
+
+  
+
+
+15\. Data Privacy. By entering into this Agreement, the Grantee: (i) authorizes the Company or any of the NextEra Entities, and any agent of the Company or any of the NextEra Entities administering the Plan or providing Plan recordkeeping services, to disclose to the Company or any of the NextEra Entities such information and data as the Company or any such NextEra Entities shall reasonably request in order to facilitate the administration of this Agreement; and (ii) authorizes the Company or any of the NextEra Entities to store and transmit such information in electronic form, provided such information is appropriately safeguarded in accordance with Company policy.
+
+  
+
+
+By signing this Agreement, the Grantee accepts and agrees to all of the foregoing terms and provisions and to all the terms and provisions of the Plan incorporated herein by reference and confirms that the Grantee has received a copy of the Plan.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date and year first above written.
+
+  
+  
+  
+NEXTERA ENERGY, INC.  
+  
+By:  
+  
+Accepted:  
+  
+Grantee  
+  
+  
+
+
+  
+

@@ -1,0 +1,306 @@
+* * *
+
+Exhibit 10.74
+
+HEALTHWAYS, INC.
+
+
+
+  
+
+
+  
+
+
+This RESTRICTED STOCK UNIT AWARD AGREEMENT (the "Agreement"), dated GRANT DATE, is by and between Healthways, Inc., a Delaware corporation (the "Company"), and PARTICIPANT NAME (the "Grantee"). Terms not otherwise defined herein shall have the meanings given to them in the Grantee's employment agreement with the Company (as may be amended from time to time, the "Employment Agreement").
+
+  
+
+
+Section 1. Restricted Stock Unit Award. The Grantee is hereby granted NUMBER OF UNITS restricted stock units (the "Restricted Stock Units"). Each Restricted Stock Unit represents the right to receive one share of the Company's Common Stock, $.001 par value (the "Stock"), subject to the terms and conditions of this Agreement.
+
+  
+
+
+Section 2. Vesting of the Award. Except as otherwise provided in Section 3 and Section 5 below, the Restricted Stock Units will vest at such times (the "Vesting Date") and in the percentages set forth below, as long as the Grantee is serving as an employee of the Company on the Vesting Date.
+
+  
+
+
+Vesting Date
+
+Award Percentage of Restricted Stock Units  
+  
+One Year from Grant Date
+
+Two Years from Grant Date
+
+Three Years from Grant Date
+
+33%
+
+33%
+
+34%  
+  
+The Company shall issue one share of Stock to the Grantee in settlement of each vested Restricted Stock Unit (the "Distributed Shares") at the time the Restricted Stock Unit vests pursuant to any provision of this Agreement. The Distributed Shares shall be represented by a certificate or by a book-entry.
+
+  
+
+
+Section 3. Forfeiture on Termination of Employment.
+
+  
+
+
+3.1. Termination by the Company for Cause. If the Grantee's employment with the Company is involuntarily terminated for Cause, then all Restricted Stock Units that have not vested prior to the date of termination of Grantee's employment will be forfeited and the Grantee shall have no further rights with respect to such Restricted Stock Units.
+
+  
+
+
+3.2. Termination by the Company without Cause or by the Grantee for Good Reason. If Grantee's employment with the Company (a) is involuntarily terminated by the Company for any reason other than termination for Cause, or (b) is terminated by the Grantee for Good Reason, then, subject to Grantee's execution of any release of claims provided for in the Employment Agreement, if applicable, the number of Restricted Stock Units that will vest on the Date of Termination shall be the excess of (x) the NUMBER OF SHARES multiplied by a fraction, the numerator of which is the number of full months since the Grant Date during which Grantee was employed by the Company and the denominator of which is 36, over (y) the number of Restricted Stock Units that have previously vested in accordance with Section 2, and the Company shall issue the Stock underlying such vested Restricted Stock Units to the Grantee on or about the Date of Termination. For purposes of this Section 3.2, the terms "Good Reason" and "Cause" shall have the meanings set forth in the Employment Agreement, or in the absence of an Employment Agreement, the term "Cause" shall mean (i) a felony conviction of Grantee or the failure of Grantee to contest prosecution for a felony, or (ii) Grantee's willful misconduct or dishonesty, which is directly and materially harmful to the business or reputation of the Company or any of its affiliates, and the term "Good Reason" shall mean (i) a material reduction in the Grantee's base salary (unless such reduction is part of an across the board reduction affecting all Company executives with a comparable title), or (ii) a requirement by the Company to relocate the Grantee to a location that is greater than 25 miles from the location of the office in which the Grantee performs his or her duties at the time of such relocation.
+
+* * *
+
+  
+
+
+3.3. Termination by Death or Disability. If the Grantee's employment with the Company terminates by reason of death or Disability (as defined below), the Restricted Stock Units granted hereunder shall immediately vest. For purposes of this Section 3.3, the term "Disability" shall have the meaning set forth in the Employment Agreement, or in the absence of an Employment Agreement, the term "Disability" shall mean the following: (i) Grantee is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, or (ii) Grantee is, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than 3 months under an accident and health plan covering employees of the Company.
+
+  
+
+
+3.4 Termination by Reason of Retirement. If the Grantee's employment with the Company terminates by reason of Retirement, the Restricted Stock Units granted hereunder shall not be forfeited but shall be settled in Stock to the Grantee on the same schedule as provided in Section 2 (or otherwise) as if the Grantee had continued employment through each such Vesting Date (or such other vesting event pursuant to Section 3.3 or Section 5.2). For the purposes of this Agreement, "Retirement" shall mean Normal or Early Retirement. "Early Retirement" shall be deemed to have occurred if: (i) the sum of the Grantee's age plus years of employment at the Company as of the proposed early retirement date is equal to or greater than 70, (ii) Grantee has given written notice to the Company at least one year prior to the proposed early retirement date of his or her intent to retire and (iii) the Chief Executive Officer of the Company shall have approved in writing such early retirement request prior to the proposed early retirement date, provided that in the event the Chief Executive Officer of the Company does not approve the request for early retirement or the Chief Executive Officer of the Company is Grantee giving notice of his or her intent to retire, then in both cases, the Committee shall make the determination of whether to approve or disapprove such request. "Normal Retirement" means retirement from active employment with the Company or any subsidiary or affiliate of the Company on or after age 65.
+
+  
+
+
+2
+
+* * *
+
+3.5. Other Termination. If the Grantee's employment with the Company is terminated for any reason other than as described in Sections 3.1 through 3.4 above (or if Grantee fails to execute any release of claims pursuant to the Employment Agreement, if applicable), then all Restricted Stock Units that have not vested prior to the date of termination of Grantee's employment will be forfeited and the Grantee shall have no further rights with respect to such Restricted Stock Units.  
+  
+
+
+Section 4. Voting Rights and Dividends. Prior to each Vesting Date, the Grantee shall be credited with cash dividend equivalents with respect to the Restricted Stock Units at the time of any payment of dividends to stockholders on shares of Common Stock, and such dividend equivalents shall be paid (in cash, without interest) to the Grantee when the Restricted Stock Units to which they relate are settled in accordance with this Agreement. The Grantee shall not have any voting rights with respect to the Stock underlying the Restricted Stock Units prior to the vesting of the Restricted Stock Units and the issuance of the Stock as set forth in Section 2. A holder of Distributed Shares shall have full dividend and voting rights as a holder of Stock.
+
+  
+
+
+Section 5. Restrictions on Transfer; Change in Control.
+
+  
+
+
+5.1. General Restrictions. The Restricted Stock Units shall not be transferable by the Grantee (or his or her personal representative or estate) other than by will or by the laws of descent and distribution. The terms of this Agreement shall be binding on the executors, administrators, heirs and successors of the Grantee.
+
+  
+
+
+5.2. Change in Control. For purposes of this Agreement, a "Change in Control" shall mean the following: (i) any person or entity, including a "group" as defined in Section 13(d)(3) of the Exchange Act, other than the Company or a wholly-owned subsidiary thereof or any employee benefit plan of the Company or any of its subsidiaries, becomes the beneficial owner of the Company's securities having 35% or more of the combined voting power of the then outstanding securities of the Company that may be cast for the election of directors of the Company (other than as a result of an issuance of securities initiated by the Company in the ordinary course of business); or (ii) as the result of, or in connection with, any cash tender or exchange offer, merger or other business combination, sales of assets or contested election, or any combination of the foregoing transactions, less than a majority of the combined voting power of the then outstanding securities of the Company or any successor corporation or entity entitled to vote generally in the election of the directors of the Company or such other corporation or entity after such transaction are held in the aggregate by the holders of the Company's securities entitled to vote generally in the election of directors of the Company immediately prior to such transaction, in substantially the same proportions as their ownership, immediately prior to such transaction or transactions; or (iii) during any period of two consecutive years, individuals who at the beginning of any such period constitute the Company's board of directors (the "Board") cease for any reason to constitute at least a majority thereof, unless the election, or the nomination for election by the Company's stockholders, of each director of the Company first elected during such period was approved by a vote of at least two-thirds of the directors of the Company then still in office who were directors of the Company at the beginning of any such period. If Grantee's employment with the Company (or its successor company) (a) is involuntarily terminated within 12 months following a Change in Control for any reason other than termination for Cause, (b) is terminated by the Grantee for Good Reason within 12 months following a Change in Control, or (c) has terminated by reason of Retirement as of the date of the Change in Control, all restrictions imposed on the Restricted Stock Units shall thereupon lapse, the Restricted Stock Units will become free of all restrictions and become fully vested, and the Company (or its successor company) shall issue the Stock underlying the Restricted Stock Units to the Grantee on or about the Date of Termination; provided, however, that if in connection with a Change in Control, the acquiring corporation (or other successor to the Company in the Change in Control) does not assume the Restricted Share Units, then the Restricted Share Units shall vest and be settled in Stock issued to the Grantee immediately prior to the Change in Control. For purposes of this Section 5.2, the terms "Good Reason" and "Cause" shall have the meanings set forth in Section 3.2.
+
+3
+
+* * *
+
+  
+
+
+Section 6. Restrictive Agreement. As a condition to the receipt of any Distributed Shares, the Grantee (or his or her legal representative or estate or any third party transferee), if the Company so requests, will execute an agreement in form satisfactory to the Company in which the Grantee or such other recipient of the shares represents that he or she is purchasing the shares for investment purposes, and not with a view to resale or distribution.
+
+  
+
+
+Section 7. Restricted Stock Units Award Subject to Recoupment Policy. The award of Restricted Stock Units is subject to the Healthways, Inc. Compensation Recoupment Policy (the "Policy"). The award of Restricted Stock Units, or any amount traceable to the award of Restricted Stock Units, shall be subject to the recoupment obligations described in the Policy.
+
+  
+
+
+Section 8. Adjustment. In the event of any merger, reorganization, consolidation, recapitalization, extraordinary cash dividend, stock dividend, stock split or other change in corporate structure affecting the Stock, the number of Restricted Stock Units subject to this Agreement shall be equitably and proportionately adjusted by the Compensation Committee of the Board in accordance with the intent of this Agreement without duplication of Section 4.
+
+  
+
+
+Section 9. Tax Withholding. The Company shall have the right to require the Grantee to remit to the Company an amount necessary to satisfy any federal, state and local withholding tax requirements attributable to the vesting and payment of the Restricted Stock Units prior to the delivery of the Distributed Shares, or may withhold from the Distributed Shares an amount of Stock having a Fair Market Value equal to such federal, state or local taxes as shall be required to be withheld pursuant to any applicable law or regulation. For the purposes of this Agreement, "Fair Market Value" shall mean with respect to the Stock, as of any given date or dates, unless otherwise determined by the Committee in good faith, the reported closing price of a share of such class of Stock on the Nasdaq Stock Market ("Nasdaq") or such other exchange or market as is the principal trading market for such class of Stock, or, if no such sale of a share of such class of Stock is reported on the Nasdaq or other exchange or principal trading market on such date, the fair market value of a share of such class of Stock as determined by the Committee in good faith.
+
+  
+
+
+Section 10. [Intentionally Omitted.]
+
+  
+
+
+Section 11. Confidentiality, Non-Solicitation and Non-Compete. In the event Grantee breaches any of the confidentiality, non-solicitation or non-compete covenants set forth in the Employment Agreement, if applicable, the Restricted Stock Units shall immediately thereupon expire and be forfeited, and the Company shall be entitled to seek other appropriate remedies it may have available in connection with such breach.
+
+  
+
+
+4
+
+* * *
+
+Section 12. Miscellaneous.
+
+  
+
+
+12.1. Entire Agreement. This Agreement and the Employment Agreement contain the entire understanding and agreement between the Company and the Grantee concerning the Restricted Stock Units granted hereby, and supersede any prior or contemporaneous negotiations and understandings. The Company and the Grantee have made no promises, agreements, conditions, or understandings relating to the Restricted Stock Units, either orally or in writing, that are not included in this Agreement or the Employment Agreement.
+
+  
+
+
+12.2. Employment. By entering into this Agreement, the Company does not give the Grantee any right to continue to be employed by the Company or to be entitled to any remuneration or benefits not set forth in this Agreement or the Employment Agreement.
+
+  
+
+
+12.3. Captions. The captions and section numbers appearing in this Agreement are inserted only as a matter of convenience. They do not define, limit, construe, or describe the scope or intent of the provisions of this Agreement.
+
+  
+
+
+12.4. Counterparts. This Agreement may be executed in counterparts, each of which when signed by the Company and the Grantee will be deemed an original and all of which together will be deemed the same Agreement.
+
+  
+
+
+12.5. Notice. All notices required to be given under this Agreement shall be deemed to be received if delivered or mailed as provided for herein, to the parties at the following addresses, or to such other address as either party may provide in writing from time to time.
+
+  
+
+
+To the Company:
+
+Healthways, Inc.   
+  
+701 Cool Springs Blvd  
+  
+Franklin, Tennessee 37067  
+  
+To the Grantee:
+
+PARTICIPANT NAME  
+  
+(Grantee name and address)
+
+Address on File  
+  
+at Healthways  
+  
+  
+
+
+12.6. Amendment. The Committee may amend the terms of this Agreement, prospectively or retroactively, but, subject to Section 8 above, no such amendment shall impair the rights of the Grantee hereunder without the Grantee's consent.
+
+  
+
+
+12.7. Governing Law. This Agreement shall be governed and construed exclusively in accordance with the law of the State of Delaware applicable to agreements to be performed in the State of Delaware to the extent it may apply.
+
+  
+
+
+5
+
+* * *
+
+12.8. Validity; Severability. If, for any reason, any provision hereof shall be determined to be invalid or unenforceable, the validity and effect of the other provisions hereof shall not be affected thereby. Whenever possible, each provision of this Agreement will be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect under any applicable law or rule in any jurisdiction, such invalidity, illegality or unenforceability will not affect any other provision or any other jurisdiction, but this Agreement will be reformed, construed and enforced in such jurisdiction as if such invalid, illegal or unenforceable provision had never been contained herein. If any court determines that any provision of this Agreement is unenforceable but has the power to reduce the scope or duration of such provision, as the case may be, such provision, in its reduced form, shall then be enforceable.
+
+  
+
+
+12.9. Interpretation; Resolution of Disputes; Section 409A.
+
+  
+
+
+(a) It is expressly understood that the Committee is authorized to administer, construe and make all determinations necessary or appropriate to the administration of this Agreement, all of which shall be binding upon the Grantee. Any dispute or disagreement which may arise under, or as a result of, or in any way related to, the interpretation, construction or application of this Agreement shall be determined by the Board. Any determination made hereunder shall be final, binding and conclusive on the Grantee and the Company for all purposes.
+
+  
+
+
+(b) Notwithstanding anything herein to the contrary, to the maximum extent permitted by applicable law, the settlement of the Restricted Stock Units (including any dividend equivalent rights) to be made to the Grantee pursuant to this Agreement is intended to qualify as a "short-term deferral" pursuant to Section 1.409A-1(b)(4) of the U.S. Treasury Regulations and this Agreement shall be interpreted consistently therewith. However, under certain circumstances, settlement of the Restricted Stock Units or any dividend equivalent rights may not so qualify, and in that case, the Committee shall administer the grant and settlement of such Restricted Stock Units and any dividend equivalent rights in strict compliance with Section 409A of the Code. Further, notwithstanding anything herein to the contrary, if at the time of a Participant's termination of employment with the Company, the Participant is a "specified employee" as defined in Section 409A of the Code, and the deferral of the commencement of any payments or benefits otherwise payable hereunder as a result of such termination of service is necessary in order to prevent the imposition of any accelerated or additional tax under Section 409A of the Code, then the Company will defer the commencement of the payment of any such payments or benefits hereunder (without any reduction in such payments or benefits ultimately paid or provided to the Participant) to the minimum extent necessary to satisfy Section 409A of the Code until the date that is six months and one day following the Participant's termination of employment with the Company (or the earliest date as is permitted under Section 409A of the Code), if such payment or benefit is payable upon a termination of employment. Each payment of Restricted Stock Units (and related dividend equivalent rights) constitutes a "separate payment" for purposes of Section 409A of the Code.
+
+  
+
+
+12.10. Successors in Interest. This Agreement shall inure to the benefit of and be binding upon any successor to the Company. This Agreement shall inure to the benefit of the Grantee's legal representative and permitted assignees. All obligations imposed upon the Grantee and all rights granted to the Company under this Agreement shall be binding upon the Grantee's heirs, executors, administrators, successors and assignees.
+
+  
+
+
+6
+
+* * *
+
+[remainder of page intentionally left blank; signature page follows]
+
+7
+
+* * *
+
+IN WITNESS WHEREOF, the parties have caused the Restricted Stock Unit Award Agreement to be duly executed as of the day and year first written above.
+
+  
+
+
+  
+
+
+HEALTHWAYS, INC.
+
+  
+
+
+By: /s/ Alfred Lumsdaine
+
+Name: Alfred Lumsdaine  
+  
+Title: Chief Financial Officer  
+  
+
+
+  
+
+
+  
+
+
+GRANTEE: PARTICIPANT NAME
+
+  
+
+
+Online Grant Acceptance Satisfies
+
+Signature Requirement
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+8
+
+  
+
+
+* * *
+
+  
+
+
+  
+

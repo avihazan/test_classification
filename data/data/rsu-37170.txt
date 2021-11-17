@@ -1,0 +1,345 @@
+##### 
+
+Exhibit 10.2
+
+CARRIAGE SERVICES, INC.
+
+
+
+Name 
+
+Grantee  
+  
+Award Date:
+
+January 1, 2008  
+  
+Performance Unit Value:
+
+$1.00  
+  
+Number of Performance Units Awarded:  
+  
+AWARD OF PERFORMANCE UNITS
+
+The Compensation Committee (the “Committee”) of the Board of Directors of Carriage Services, Inc., a Delaware corporation (the “Company”), pursuant to the Carriage Services, Inc. 2006 Long-Term Incentive Plan (the “Plan”), hereby awards to you, the above-named Grantee, effective as of the Award Date set forth above, that number of Performance Units set forth above (each, a "Performance Unit”, and collectively, the “Performance Units”), on the terms and conditions set forth in this Performance Unit Award Agreement (this “Agreement”). 
+
+One-half of the Performance Units awarded under this Agreement (the “Peer Group 1 Performance Units”) provide you an opportunity to earn a cash payment based upon the Total Shareholder Return achieved by the Company for the period beginning January 1, 2008, and ending December 31, 2010 (the "Performance Period”) as compared with the Total Shareholder Return achieved by the companies constituting the Russell Microcap Index as reported by Russell Investment Group (Russell). The Russell Microcap Index is reconstituted annually to add or eliminate stocks according to Russell’s microcap segment criteria. For purposes of the Plan, the Shareholder Return reported by Russell for each period shall be used to calculate cash payments without adjustment for changes in the companies constituting the Microcap Index. The other one-half of the Performance Units awarded under this Agreement (the “Peer Group 2 Performance Units”) provide you an opportunity to earn a cash payment based upon the Total Shareholder Return achieved by the Company for the Performance Period as compared with the Total Shareholder Return achieved by Service Corporation International and Stewart Enterprises, Inc. The Committee may not increase the amount payable under this Agreement. 
+
+“Total Shareholder Return” shall mean the difference between (i) the per share closing price on the last trading day of the Performance Period of the common stock of the entity with respect to which such computation is being made as reported by the principal stock exchange on which such entity’s common stock is traded, and (ii) the per share closing price of such common stock on December 31, 2007, as reported by the principal stock exchange on which the entity’s common stock is traded, calculated assuming all cash and other dividends paid on such common stock during the Performance Period are immediately reinvested in shares of such common stock. 
+
+1
+
+* * *
+
+##### 
+
+As soon as reasonably practicable after the end of the Performance Period, the Committee will calculate the Total Shareholder Returns for the Performance Period of the Company and each of the members of Performance Peer Group 1 and Performance Peer Group 2. If the following conditions exist with respect to the Performance Period: 
+
+(1) your employment with the Company and all of its Affiliates has not terminated on or before the last day of the Performance Period; and 
+
+(2) a Corporate Change does not occur on or before the last day of the Performance Period; 
+
+then you shall receive a cash payment under this Agreement equal to the sum of (i) the Peer Group 1 Performance Payment and (ii) the Peer Group 2 Performance Payment. 
+
+The Peer Group 1 Performance Payment shall be equal to: 
+
+(A) multiplied by (B) multiplied by (C) 
+
+where (A) is the number of Peer Group 1 Performance Units, (B) is the Peer Group 1 Earned Award Factor (as that term has been defined by the attached table) and (C) the Performance Unit Value set forth above. 
+
+The Peer Group 2 Performance Payment shall be equal to: 
+
+(X) multiplied by (Y) multiplied by (Z) 
+
+where (X) is the number of Peer Group 2 Performance Units, (Y) is the Peer Group 2 Earned Award Factor (as that term has been defined by the attached table) and (Z) is the Performance Unit Value set forth above. 
+
+If the Peer Group 1 Earned Award Factor and the Peer Group 2 Earned Award Factor for the Performance Period are both zero and a Corporate Change of the Company has not occurred on or before the last day of the Performance Period, then the award pursuant to this Agreement shall lapse and be forfeited as of December 31, 2010. 
+
+The Committee’s determination of Total Shareholder Return for the Company and each member of Performance Peer Group 1 and Performance Peer Group 2 for the Performance Period for purposes of this Agreement shall be binding upon all persons. 
+
+Any amount payable to you pursuant to this Agreement will be paid to you by the Company on March 15, 2011, unless otherwise provided as hereinafter otherwise set out. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or this Agreement. 
+
+2
+
+* * *
+
+##### 
+
+The following provisions 1.1 to 1.5 will apply in the event a Corporate Change of the Company occurs, or your employment with the Company and all Affiliates (collectively, the “Company Group”) terminates, before the last day of the Performance Period. 
+
+1.1 Termination Generally. If your employment with the Company Group terminates on or before the last day of the Performance Period for any reason other than one of the reasons described in Sections 1.2 through 1.5 below, all of your rights in this Agreement, including all rights to the Performance Units awarded to you, will lapse and be completely forfeited on the date your employment terminates. 
+
+1.2 Potential or Actual Corporate Change. 
+
+(i) Termination Without Cause or for Good Reason in Connection With a Potential Corporate Change on or Before the Last Day of the Performance Period. If (a) the Company Group terminates your employment without Cause on or before the last day of the Performance Period prior to a Corporate Change of the Company (whether or not a Corporate Change ever occurs) and such termination is at the request or direction of a person who has entered into an agreement with the Company the consummation of which would constitute a Corporate Change of the Company or is otherwise in connection with or in anticipation of a Corporate Change of the Company (whether or not a Corporate Change ever occurs) or (b) you terminate your employment with the Company Group for Good Reason on or before the last day of the Performance Period prior to a Corporate Change of the Company (whether or not a Corporate Change ever occurs) and such termination or the circumstance or event which constitutes Good Reason occurs at the request or direction of a person who has entered into an agreement with the Company the consummation of which would constitute a Corporate Change of the Company or is otherwise in connection with or in anticipation of a Corporate Change of the Employer (whether or not a Corporate Change ever occurs), then the Company will pay to you in cash an amount determined under the following formula in lieu of any other amounts under this Agreement: 
+
+(1) multiplied by (2) 
+
+where (1) is the Performance Unit Value set forth in this Agreement and (2) is the number of Performance Units that were awarded to you under this Agreement. Any amount payable to you pursuant to this Section 1.2(i) will be paid by the Company to you ten (10) business days after the date of your Separation From Service if you are not a Specified Employee or on the date that is six months following your Separation From Service if you are a Specified Employee. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or this Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or this Agreement. For purposes of this Agreement, “Separation From Service” has the meaning ascribed to that term in Section 409A and “Specified Employee” means a person who is, as of the date of the person’s Separation From Service, a “specified employee” within the meaning of Section 409A, taking into account the elections made and procedures 
+
+3
+
+* * *
+
+##### 
+
+established in resolutions adopted by the Board of Directors of the Company. For purposes of this Agreement, “Section 409A” means section 409A of the Internal Revenue Code of 1986, as amended and the Department of Treasury rules and regulations issued thereunder. 
+
+(ii) Employment Not Terminated Before a Corporate Change on or Before the Last Day of the Performance Period. If a Corporate Change of the Company occurs on or before the last day of the Performance Period and your employment with the Company Group does not terminate before the date the Corporate Change of the Company occurs, then the Company will pay to you in cash an amount determined under the following formula in lieu of any other amounts under this Agreement: 
+
+(1) multiplied by (2) 
+
+where (1) is the Performance Unit Value set forth in this Agreement and (2) is the number of Performance Units that were awarded to you under this Agreement. Any amount payable to you pursuant to this Section 1.2(ii) will be paid by the Company to you (a) ten (10) business days after the date the Corporate Change of the Company occurs if the Corporate Change of the Company qualifies as a change in the ownership or effective control of the corporation, or in the ownership of a substantial portion of the assets of the corporation, within the meaning of Section 409A, or (b) on March 15, 2011, if the Corporate Change of the Company does not so qualify. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or this Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or this Agreement. 
+
+1.3 Disability. Notwithstanding any other provision of this Agreement to the contrary, if you become permanently disabled on or after the date that is one month after the Award Date and is before the last day of the Performance Period, while in the active employ of one or more members of the Company Group, then the Employer will pay to you in cash an amount determined under the following formula in lieu of any other amounts under this Agreement: 
+
+(1) multiplied by (2) multiplied by (3) divided by (4) 
+
+where (1) is the Performance Unit Value set forth in this Agreement, (2) is the number of Performance Units that were awarded to you under this Agreement, (3) is the number of days from (and including) the first day of the Performance Period to (and including) the day you become permanently disabled, and (4) is the number of days during the Performance Period. Any amount payable to you pursuant to this Section 1.3 will be paid by the Company to you ten (10) business days after the date you become permanently disabled. Such payment will be made to you in exchange for the Performance Units and thereafter you shall have no further rights with respect to such Performance Units or this Agreement and the Company Group will have no further obligations to you pursuant to the Performance Units or this Agreement. For purposes of this Section 1.3, you will be “permanently disabled” if you (a) are unable to engage in any substantial gainful activity 
+
+4
+
+* * *
+
+##### 
+
+by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, or (b) are, by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than three (3) months under an accident and health plan covering employees of the Company Group. 
+
+1.4 Death. Notwithstanding any other provision of this Agreement to the contrary, if you die before the last day of the Performance Period and while in the active employ of one or more members of the Company Group, then the Employer will pay to your estate in cash an amount determined under the following formula in lieu of any other amounts under this Agreement: 
+
+(1) multiplied by (2) multiplied by (3) divided by (4) 
+
+where (1) is the Performance Unit Value set forth in this Agreement, (2) is the number of Performance Units that were awarded to you under this Agreement, (3) is the number of days from (and including) the first day of the Performance Period to (and including) the date of your death, and (4) is the number of days during the Performance Period. Any amount payable to your estate pursuant to this Section 1.4 will be paid to your estate by the Employer ten (10) business days after the date of your death. Such payment will be made in exchange for the Performance Units and thereafter your estate and heirs, executors, and administrators shall have no further rights with respect to such Performance Units or this Agreement and the Company Group will have no further obligations pursuant to the Performance Units or this Agreement. 
+
+1.5 Retirement. Notwithstanding any other provision of this Agreement to the contrary, if your employment with the Company Group terminates as a result of your Retirement before the last day of the Performance Period, then the number of Performance Units issued to you under this Agreement shall automatically be reduced (without further action by you and/or the Company) on the date your employment relationship with the Company Group terminates to that number of Performance Units determined under the following formula (the “Retirement Adjusted Performance Units”): 
+
+(1) multiplied by (2) divided by (3) 
+
+where (1) is the number of Performance Units that were originally awarded to you under this Agreement, (2) is the number of days from (and including) the first day of the Performance Period to (and including) the day before the date your employment relationship with the Company Group terminates due to Retirement, and (3) is the number of days during the Performance Period. Your Peer Group 1 Performance Units and Peer Group 2 Performance Units under this Agreement shall be reduced accordingly to reflect the Retirement Adjusted Performance Units and the excess of the Performance Units that were originally awarded to you under this Agreement over the Retirement Adjusted Performance Units shall be immediately forfeited on the date of the termination of your employment relationship with the Company Group due to Retirement. Any amount payable to you pursuant to this Agreement will be paid on March 15, 2011. For purposes of this Section 1.5, the term “Retirement” means the voluntary termination of your employment relationship with the Company Group on or after the date on which the sum of your age and years of service with the Company Group equals 65. 
+
+5
+
+* * *
+
+##### 
+
+PROHIBITED ACTIVITY. Notwithstanding any other provision of this Agreement, if you engage in a “Prohibited Activity,” as described below, while employed by one or more members of the Company Group, during the Performance Period or within two years after the date your employment with the Company Group terminates, then your right to receive payment under this Agreement, to the extent still outstanding at that time, shall be completely forfeited. A “Prohibited Activity” shall be deemed to have occurred, as determined by the Committee in its sole and absolute discretion, if you divulge any non-public, confidential or proprietary information of the Company or of its past, present or future affiliates (collectively, the “Carriage Services Inc. Group”), but excluding information that (a) becomes generally available to the public other than as a result of your public use, disclosure, or fault, or (b) becomes available to you on a non-confidential basis after your employment termination date from a source other than a member of the Carriage Services Inc. Group prior to the public use or disclosure by you, provided that such source is not bound by a confidentiality agreement or otherwise prohibited from transmitting the information by a contractual, legal or fiduciary obligation. 
+
+TAX WITHHOLDING. To the extent that the receipt of the Performance Units or any payment pursuant to this Agreement results in income, wages or other compensation to you for any income, employment or other tax purposes with respect to which the Company or any other member of the Company Group has a withholding obligation, you shall deliver to the Company at the time of such receipt or payment, as the case may be, such amount of money as the Company Group may require to meet its obligation under applicable tax laws or regulations, and, if you fail to do so, the Company is authorized to withhold from any payment under this Agreement or from any cash or stock remuneration or other payment then or thereafter payable to you any tax required to be withheld by reason of such taxable income, wages or compensation. 
+
+NONTRANSFERABILITY. This Agreement is not transferable by you otherwise than by will or by the laws of descent and distribution. 
+
+CAPITAL ADJUSTMENTS AND REORGANIZATIONS. The existence of the Performance Units shall not affect in any way the right or power of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in its capital structure or its business, engage in any merger or consolidation, issue any debt or equity securities, dissolve or liquidate, or sell, lease, exchange or otherwise dispose of all or any part of its assets or business, or engage in any other corporate act or proceeding. 
+
+PERFORMANCE UNITS DO NOT AWARD ANY RIGHTS OF A STOCKHOLDER. You shall not have the voting rights or any of the other rights, powers or privileges of a holder of the stock of the Company with respect to the Performance Units that are awarded hereby. 
+
+EMPLOYMENT RELATIONSHIP. For purposes of this Agreement, you shall be considered to be in the employment of the Company Group as long as you have an employment relationship with the Company Group. The Committee shall determine any questions as to whether and when there has been a termination of such employment relationship, and the cause of such termination, under the Plan and the Committee’s determination shall be final and binding on all persons. 
+
+NOT AN EMPLOYMENT AGREEMENT. This Agreement is not an employment agreement, and no provision of this Agreement shall be construed or interpreted to create an employment relationship between you and the Company or any Affiliate or guarantee the right to remain employed by the Company or any Affiliate for any specified term. 
+
+6
+
+* * *
+
+##### 
+
+LIMIT OF LIABILITY. Under no circumstances will the Company or an Affiliate be liable for any indirect, incidental, consequential or special damages (including lost profits) of any form incurred by any person, whether or not foreseeable and regardless of the form of the act in which such a claim may be brought, with respect to the Plan. 
+
+EMPLOYER LIABLE FOR PAYMENT. Except as specified in Section 1.2, the legal entity that is a member of the Company Group and that is classified by the Company Group as your employer (the "Employer”) is liable for the payment of any amounts that become due under this Agreement. 
+
+MISCELLANEOUS. This Agreement is awarded pursuant to and is subject to all of the provisions of the Plan, including amendments to the Plan, if any. In the event of a conflict between this Agreement and the Plan provisions, the Plan provisions will control. The term “you” and “your” refer to the Grantee named in this Agreement. Capitalized terms that are not defined herein shall have the meanings ascribed to such terms in the Plan. 
+
+The Performance Units that are hereby awarded to you shall be subject to the prohibitions and restrictions set forth herein with respect to the sale or other disposition of such Performance Units and the obligation to forfeit and surrender such Performance Units. 
+
+The Performance Units and your rights under this Agreement may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or disposed of (other than by will or the applicable laws of descent and distribution). Any such attempted sale, assignment, pledge, exchange, hypothecation, transfer, encumbrance or disposition in violation of this Agreement shall be void and the Company Group shall not be bound thereby. 
+
+In accepting the award of Performance Units set forth in this Agreement you accept and agree to be bound by all the terms and conditions of the Plan, and this Agreement.   
+  
+CARRIAGE SERVICES, INC.  
+  
+Name:  
+  
+Title:  
+  
+Tables to follow: 
+
+7
+
+* * *
+
+##### 
+
+PERFORMANCE GOALS  
+FOR PERFORMANCE UNIT AWARDS GRANTED IN 2008 UNDER  
+THE CARRIAGE SERVICES, INC. 2006 LONG-TERM INCENTIVE PLAN
+
+Peer Group 1 Earned Award Factor
+
+For Performance Units granted by the Company under the Plan, the Peer Group 1 Earned Award Factor shall be the factor specified in the table below; provided, however, that if the Company’s Total Shareholder Return for the Performance Period is zero or less than zero the Peer Group 1 Earned Award Factor for the Performance Period shall be zero.   
+  
+Percentile Rank of the Company’s Total Shareholder Return for  
+the Performance Period as Compared to the Total Shareholder Peer Group 1  
+Returns of the Other Members of Performance Peer Group 1 for Earned Award  
+the Performance Period. Factor  
+  
+Less than 50th
+
+0.0%  
+  
+50th
+
+50.0%  
+  
+51st
+
+55.0%  
+  
+52nd
+
+60.0%  
+  
+53rd
+
+65.0%  
+  
+54th
+
+70.0%  
+  
+55th
+
+75.0%  
+  
+56th
+
+80.0%  
+  
+57th
+
+85.0%  
+  
+58th
+
+90.0%  
+  
+59th
+
+95.0%  
+  
+60th
+
+100.0%  
+  
+61st
+
+102.5%  
+  
+62nd
+
+105.0%  
+  
+63rd
+
+107.5%  
+  
+64th
+
+110.0%  
+  
+65th
+
+112.5%  
+  
+66th
+
+115.0%  
+  
+67th
+
+117.5%  
+  
+68th
+
+120.0%  
+  
+69th
+
+122.5%  
+  
+70th
+
+125.0%  
+  
+71st
+
+127.5%  
+  
+72nd
+
+130.0%  
+  
+73rd
+
+132.5%  
+  
+74th
+
+135.0%  
+  
+75th
+
+137.5%  
+  
+76th
+
+140.0%  
+  
+77th
+
+142.5%  
+  
+78th
+
+145.0%  
+  
+79th
+
+147.5%  
+  
+80th and above
+
+150.0%  
+  
+8
+
+* * *
+
+##### 
+
+The Committee shall have the discretion to calculate Total Shareholder Returns for the Company and each company included in Performance Peer Group 1 and to determine the formula to achieve such calculations. 
+
+1\. Peer Group 2 Earned Award Factor
+
+For Performance Units granted by the Company under the Plan, if the common stock of both of the members of Performance Peer Group 2 Earned Award Factor shall be the factor specified in the table below; provided, however, that (a) if the Company’s Total Shareholder Return for the Performance Period is zero or less than zero then the Peer Group 2 Earned Award Factor for the Performance Period shall be zero and (b) if the common stock of either or both of the members of Performance Peer Group 2 is not publicly traded on the last day of the Performance Period then the Peer Group 2 Earned Award Factor shall be the amount of the Peer Group 1 Earned Award Factor for such Performance Period.   
+  
+Rank of the Company’s Total Shareholder Return for the  
+Performance Period as Compared to the Total Shareholder Peer Group 2  
+Returns of the Other Members of the Performance Peer Earned Award  
+Group 2 for the Performance Period Factor  
+  
+First
+
+150.0%  
+  
+Second
+
+100.0%  
+  
+Less than Second
+
+0.0%  
+  
+The Committee shall have the discretion to calculate Total Shareholder Returns for the Company and each company included in Performance Peer Group 2 and to determine the formula to achieve such calculations. 
+
+9

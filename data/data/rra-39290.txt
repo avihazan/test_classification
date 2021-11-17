@@ -1,0 +1,231 @@
+Exhibit 10.2
+
+
+
+This Registration Rights Agreement (this “Agreement”) is made and entered into as of November 15, 2013 by and between Genius Brands International, Inc., a Nevada corporation (the “Company”), and A Squared Holdings, LLC, a California limited liability company (the “Investor”, and together with the Company, the “Parties”). Capitalized terms used herein and not defined herein shall have the meanings ascribed to such terms in the Merger Agreement (defined below).
+
+Recitals
+
+WHEREAS, the Company is entering into that certain Agreement and Plan of Reorganization, dated as of the date first referenced above, among the Company, the Investor, A Squared Entertainment, LLC, a Delaware limited liability company, and A2EAcquisition, LLC, a Delaware limited liability company (the “Merger Agreement”).
+
+WHEREAS, as partial consideration for the Investor entering into the Merger Agreement and consummating the transactions contemplated thereby, the Company has agreed to issue, without registration under the Securities Act of 1933, as amended (the “Securities Act”), shares of common stock of the Company (the “Common Shares”).
+
+WHEREAS, in connection with the Investor entering into the Merger Agreement and consummating the transactions contemplated thereby, the Company has agreed to grant certain registration rights to the Investor with respect to the Common Shares.
+
+NOW, THEREFORE, in consideration of the foregoing and the mutual promises and covenants of the parties set forth herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+Section 1. Additional Definitions. In this Agreement the following terms shall have the following respective meanings:
+
+“Agreement” has the meaning set forth in the preface. 
+
+“Blackout Period” has the meaning provided in Section 8.
+
+“Commission” shall mean the U.S. Securities and Exchange Commission or any other federal agency at the time administering the Securities Act.
+
+“Common Shares” has the meaning set forth in the recitals.
+
+1  
+  
+“Company” has the meaning set forth in the preface.
+
+“Demand Registration” has the meaning set forth in Section 2(b).
+
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended, and the rules and regulations of the Commission thereunder, all as the same shall be in effect at the relevant time.
+
+“Merger Agreement” has the meaning set forth in the recitals.
+
+“Indemnified Party” has the meaning provided in Section 6(c).
+
+“Indemnifying Party” has the meaning provided in Section 6(c).
+
+“Inspectors” has the meaning in Section 4(g).
+
+“Investor” has the meaning provided in the preface.
+
+“Long-Form Registration” has the meaning provided in Section 2(a).
+
+“Parties” has the meaning provided in the preface.
+
+“Person” shall mean an individual, corporation, partnership, limited liability company, estate, trust, association, private foundation, joint stock company or other entity.
+
+“Piggyback Registration” has the meaning provided in Section 3(a).
+
+“Prospectus” means the prospectus or prospectuses included in any Registration Statement, as amended or supplemented by any prospectus supplement with respect to the terms of the offering of any portion of the Registrable Shares covered by such Registration Statement and by all other amendments and supplements to the prospectus, including post-effective amendments and all material incorporated by reference in such prospectus or prospectuses.
+
+The terms “Register,” “Registered” and “Registration” refer to a registration effected by preparing and filing a Registration Statement in compliance with the Securities Act providing for the sale by the Investor of Registrable Shares in accordance with the method or methods of distribution described in such Registration Statement, and the declaration or ordering of the effectiveness of such Registration Statement by the Commission.
+
+“Records” has the meaning in Section 4(g).
+
+“Registered Offering” has the meaning provided in Section 8.
+
+2  
+  
+“Registrable Shares” shall mean the Common Shares, issued to the Investor pursuant to the Merger Agreement, including any Common Shares issued in redemption or exchange for, or in replacement of such Common Shares.
+
+“Registration Expenses” shall mean all out-of-pocket expenses (excluding Selling Expenses) incurred by the Company in connection with any attempted or completed registration pursuant to this Agreement, including the following: \l71. registration, filing and listing fees; \l72. fees and expenses of compliance with federal and state securities laws; \l73. printing, shipping and delivery expenses; \l74. fees and disbursements of counsel for the Company; \l75. fees and disbursements of all independent public accountants of the Company; \l76. fees and expenses of listing of the Registrable Shares on each securities exchange on which securities of the same class or series are then listed; and \l77. fees and expenses associated with any filing with the Financial Industry Regulatory Authority required to be made in connection with the Registration Statement.
+
+“Registration Statement” shall mean any registration statement of the Company which covers any of the Registrable Shares pursuant to the provisions of this Agreement, including the Prospectus, amendments and supplements to such Registration Statement, including post-effective amendments, all exhibits and all materials incorporated by reference in such Registration Statement.
+
+“Securities Act” has the meaning set forth in the recitals.
+
+“Selling Expenses” shall mean all underwriting discounts, selling commissions and stock transfer taxes applicable to any sale of Registrable Shares.
+
+“Shelf Registration” has the meaning set forth in the Section 2(b).
+
+“Short-Form Registration” has the meaning set forth in Section 2(b).
+
+Section 2. Demand Registration.
+
+(a) At any time following eighteen (18) months after the date of this Agreement, the Investor may request registration under the Securities Act of all or any portion of their Registrable Shares on Form S-1 or any successor form thereto (each a “Long-Form Registration”). Each request for a Long-Form Registration shall specify the approximate number of Registrable Shares required to be registered. The Company shall cause a Registration Statement on Form S-1 (or any successor form) to be filed within ninety (90) days after the date on which the initial request is given and shall use its reasonable best efforts to cause such Registration Statement to be declared effective by the Commission as soon as practicable thereafter, provided, that the Company may use a Registration Statement on Form S-3 or any successor form thereto if the Company would qualify to use such form within thirty (30) days after the date on which the initial request is given to the Company and shall not be required to file such Registration Statement until it is so qualified. The Company shall not be required to effect a Long-Form Registration more than five (5) times for the Investor; provided, that a Registration Statement shall not count as a Long-Form Registration requested under Section 2(a) unless and until it has become effective and the holders requesting such registration are able to register and sell at least ninety percent (90%) of the Registrable Shares requested to be included in such registration.
+
+3  
+  
+(b) The Company shall use its best efforts to qualify and remain qualified to register securities under the Securities Act pursuant to a Registration Statement on Form S-3 or any successor form thereto. At such time as the Company shall have qualified for the use of a Registration Statement on Form S-3, the Investor shall have the right to request an unlimited number of registrations of their Registrable Shares on Form S-3 or any similar short-form registration (each a “Short-Form Registration” and, together with each Long-Form Registration, a “Demand Registration”). Each request for a Short-Form Registration shall specify the approximate number of Registrable Shares requested to be registered. The Company shall cause a Registration Statement on Form S-3 (or any successor form) to be filed within ninety (90) days after the date on which the initial request is given and shall use its reasonable best efforts to cause such Registration Statement to be declared effective by the Commission as soon as practicable thereafter. With respect to any Short-Form Registration, the Investor may request the Company to effect a registration of the Registrable Shares under a Registration Statement pursuant to Rule 415 under the Securities Act or any successor rule thereto (a “Shelf Registration”).
+
+(c) The Company shall not be obligated to effect any Demand Registration within one hundred twenty (120) days after the effective date of a previous Demand Registration or a previous Piggyback Registration in which holders of Registrable Shares were permitted to register, at least ninety percent (90%) of the Registrable Shares requested to be included therein. The Company may postpone for up to one hundred twenty (120) days the filing or effectiveness of a Registration Statement for a Demand Registration if the Company’s Board determines in its reasonable good faith judgment that such Demand Registration would \l8a. materially interfere with a significant acquisition, corporate organization or other similar transaction involving the Company; \l8b. require premature disclosure of material information that the Company has a bona fide business purpose for preserving as confidential; or \l8c. render the Company unable to comply with requirements under the Securities Act or Exchange Act; provided, that in such event the Investor shall be entitled to withdraw such request and, if such request is withdrawn, such Demand Registration shall not count as one of the permitted Demand Registrations hereunder and the Company shall pay all registration expenses incurred by the Company in connection with such registration. The Company may delay a Demand Registration hereunder only once in any period of twelve consecutive months.
+
+(d) If the holders of the Registrable Shares initially requesting a Demand Registration elect to distribute the Registrable Shares covered by their request in an underwritten offering, they shall so advise the Company as a part of their request made pursuant to Section 2(a) or Section 2(b), and the Company shall include such information in its notice to the other holders of Registrable Shares. The Investor shall select the investment banking firm or firms to act as the managing underwriter or underwriters in connection with such offering.
+
+4  
+  
+(e) The Company shall not include in any Demand Registration any securities which are not Registrable Shares without the prior written consent of the holders of a majority of the Registrable Shares included in such registration, which consent shall not be unreasonably withheld or delayed, except to the extent Demand Registration overlaps with the filing of a Registration Statement by the Company as a result of certain registration rights obligations of the Company to the selling stockholders listed therein. If a Demand Registration involves an underwritten offering and the managing underwriter of the requested Demand Registration advises the Company and the Investor in writing that in its opinion the number of Common Shares proposed to be included in the Demand Registration, including all Registrable Shares and all other Common Shares proposed to be included in such underwritten offering, exceeds the number of Common Shares which can be sold in such underwritten offering and/or the number of Common Shares proposed to be included in such registration would adversely affect the price per share of the Registrable Shares proposed to be sold in such underwritten offering, the Company shall include in such Demand Registration (i) first, the number of Common Shares that the holders of Registrable Shares propose to sell, and (ii) second, the number of Common Shares proposed to be included therein by any other Persons (including Common Shares to be sold for the account of the Company and/or other holders of Common Shares) allocated among such Persons in such manner as they may agree. If the managing underwriter determines that less than all of the Registrable Shares proposed to be sold can be included in such offering, then the Registrable Shares that are included in such offering shall be allocated pro rata among the respective holders thereof on the basis of the number of Registrable Shares owned by each such holder.
+
+Section 3. Piggyback Registration
+
+(a) At any time following eighteen (18) months after the date of this Agreement, if the Company proposes to register any Common Shares under the Securities Act (other than a registration effected solely to implement an employee benefit plan or a transaction to which Rule 145 of the Securities Act is applicable, or a Registration Statement on Form S-4, S-8 or any successor form thereto or another form not available for registering the Registrable Shares for sale to the public), whether for its own account or for the account of one or more stockholders of the Company and the form of Registration Statement to be used may be used for any registration of Registrable Shares (a “Piggyback Registration”), the Company shall give prompt written notice (in any event no later than thirty (30) days prior to the filing of such Registration Statement) to the holders of Registrable Shares of its intention to effect such a registration and, subject to Section 3(b) and Section 3(c), shall include in such registration all Registrable Shares with respect to which the Company has received written requests for inclusion from the holders of Registrable Shares within ten (10) days after the Company’s notice has been given to each such holder. A Piggyback Registration shall not be considered a Demand Registration for purposes of Section 2 of this Agreement.
+
+5  
+  
+(b) If a Piggyback Registration is initiated as a primary underwritten offering on behalf of the Company and the managing underwriter advises the Company and the holders of Registrable Shares (if any holders of Registrable Shares have elected to include Registrable Shares in such Piggyback Registration) in writing that in its opinion the number of Common Shares proposed to be included in such registration, including all Registrable Shares and all other Common Shares proposed to be included in such underwritten offering, exceeds the number of Common Shares which can be sold in such offering and/or that the number of Common Shares proposed to be included in any such registration would adversely affect the price per Common Share to be sold in such offering, the Company shall include in such registration \l8d. first, the number of Common Shares that the Company proposes to sell; \l8e. second, the number of Common Shares requested to be included therein by holders of Registrable Shares, allocated pro rata among all such holders on the basis of the number of Registrable Shares owned by each such holder or in such manner as they may otherwise agree; and \l8f. third, the number of Common Shares requested to be included therein by holders of Common Shares (other than holders of Registrable Shares), allocated among such holders in such manner as they may agree.
+
+(c) If a Piggyback Registration is initiated as an underwritten offering on behalf of a holder of Common Shares other than Registrable Shares, and the managing underwriter advises the Company in writing that in its opinion the number of Common Shares proposed to be included in such registration, including all Registrable Shares and all other Common Shares proposed to be included in such underwritten offering, exceeds the number of Common Shares which can be sold in such offering and/or that the number of Common Shares proposed to be included in any such registration would adversely affect the price per share of the Common Shares to be sold in such offering, the Company shall include in such registration \l8g. first, the number of Common Shares requested to be included therein by the holder(s) requesting such registration and by the holders of Registrable Shares, allocated pro rata among such holders on the basis of the number of Common Shares (on a fully diluted, as converted basis) and the number of Registrable Shares, as applicable, owned by all such holders or in such manner as they may otherwise agree; and \l8h. second, the number of Common Shares requested to be included therein by other holders of Common Shares, allocated among such holders in such manner as they may agree.
+
+6  
+  
+(d) If any Piggyback Registration is initiated as a primary underwritten offering on behalf of the Company, the Company shall select the investment banking firm or firms to act as the managing underwriter or underwriters in connection with such offering.
+
+Section 4. Registration Procedures. If and whenever the Investor requests that any Registrable Shares be registered pursuant to the provisions of this Agreement, the Company shall use its reasonable best efforts to effect the registration of such Registrable Shares, and pursuant thereto the Company shall as soon as reasonably practicable:
+
+(a) Subject to Section 2(a), prepare and file with the Commission a Registration Statement with respect to such Registrable Shares and use its reasonable best efforts to cause such Registration Statement to become effective.
+
+(b) Prepare and file with the Commission such amendments, post-effective amendments and supplements to such Registration Statement and the Prospectus used in connection therewith as may be necessary to keep such Registration Statement effective for a period of not less than one hundred twenty (120) days, or if earlier, until all of such Registrable Shares have been disposed of pursuant to a Registration Statement or otherwise pursuant to Rule 144, or which may be sold immediately without registration under the Securities Act and without restriction or imitation pursuant to Rule 144 and without the requirement to be in compliance with Rule 144(c)(1), and to comply with the provisions of the Securities Act with respect to the disposition of such Registrable Shares in accordance with the intended methods of disposition set forth in such Registration Statement.
+
+(c) Notify each selling holder of Registrable Shares, promptly after the Company receives notice thereof, of the time when such Registration Statement has been declared effective or a supplement to any Prospectus forming a part of such Registration Statement has been filed.
+
+(d) Furnish to each selling holder of Registrable Shares such number of copies of the Prospectus included in such Registration Statement (including each preliminary Prospectus) and any supplement thereto (in each case including all exhibits and documents incorporated by reference therein) and such other documents as such seller may reasonably request in order to facilitate the disposition of the Registrable Shares owned by such seller.
+
+(e) Use its reasonable best efforts to register or qualify such Registrable Shares under such other securities or “blue sky” laws of such jurisdictions as any selling holder reasonably requests and do any and all other acts and things which may be reasonably necessary or advisable to enable such holders to consummate the disposition in such jurisdictions of the Registrable Shares owned by such holders; provided, that the Company shall not be required to qualify generally to do business, subject itself to general taxation or consent to general service of process in any jurisdiction where it would not otherwise be required to do so but for this Section 4(e).
+
+7  
+  
+(f) Notify each selling holder of such Registrable Shares, at any time when a Prospectus relating thereto is required to be delivered under the Securities Act, of the happening of any event as a result of which the Prospectus included in such Registration Statement contains an untrue statement of a material fact or omits any fact necessary to make the statements therein not misleading, and, at the request of any such holder, the Company shall prepare a supplement or amendment to such Prospectus so that, as thereafter delivered to the purchasers of such Registrable Shares, such Prospectus shall not contain an untrue statement of a material fact or omit to state any fact necessary to make the statements therein not misleading.
+
+(g) Make available for inspection by any selling holder of Registrable Shares, any underwriter participating in any disposition pursuant to such Registration Statement and any attorney, accountant or other agent retained by any such holder or underwriter (collectively, the “Inspectors”), all financial and other records, pertinent corporate documents and properties of the Company (collectively, the “Records”), and cause the Company’s officers, directors and employees to supply all information reasonably requested by any such Inspector in connection with such Registration Statement.
+
+(h) Provide a transfer agent and registrar (which may be the same entity) for all such Registrable Shares not later than the effective date of such registration.
+
+(i) Use its reasonable best efforts to cause such Registrable Shares to be listed on each securities exchange on which the Common Shares is then listed or, if the Common Shares are not then listed, on the quotation service on which the Common Shares are then quoted for trading.
+
+(j) In connection with an underwritten offering, enter into such customary agreements (including underwriting and lock-up agreements in customary form) and take all such other customary actions as the holders of such Registrable Shares or the managing underwriter of such offering reasonably request in order to expedite or facilitate the disposition of such Registrable Shares (including, without limitation, making appropriate officers of the Company available to participate in “road show” and other customary marketing activities (including one-on-one meetings with prospective purchasers of the Registrable Shares).
+
+(k) Otherwise use its reasonable best efforts to comply with all applicable rules and regulations of the Commission and make available to its stockholders an earnings statement (in a form that satisfies the provisions of Section 11(a) of the Securities Act and Rule 158 thereunder) no later than thirty (30) days after the end of the 12-month period beginning with the first day of the Company’s first full fiscal quarter after the effective date of such Registration Statement, which earnings statement shall cover said 12-month period, and which requirement will be deemed to be satisfied if the Company timely files complete and accurate information on Forms 10-Q, 10-K and 8-K under the Exchange Act and otherwise complies with Rule 158 under the Securities Act.
+
+8  
+  
+(l) Furnish to each selling holder of Registrable Shares and each underwriter, if any, with \l8i. a legal opinion of the Company’s outside counsel, dated the effective date of such Registration Statement (and, if such registration includes an underwritten public offering, dated the date of the closing under the underwriting agreement), in form and substance as is customarily given in opinions of the Company’s counsel to underwriters in underwritten public offerings; and \l8j. a “comfort” letter signed by the Company’s independent certified public accountants in form and substance as is customarily given in accountants’ letters to underwriters in underwritten public offerings.
+
+(m) without limiting Section 4(e) above, use its reasonable best efforts to cause such Registrable Shares to be registered with or approved by such other governmental agencies or authorities as may be necessary by virtue of the business and operations of the Company to enable the holders of such Registrable Shares to consummate the disposition of such Registrable Shares in accordance with their intended method of distribution thereof.
+
+(n) Notify the holders of Registrable Shares promptly of any request by the Commission for the amending or supplementing of such Registration Statement or Prospectus or for additional information.
+
+(o) Advise the holders of Registrable Shares, promptly after it shall receive notice or obtain knowledge thereof, of the issuance of any stop order by the Commission suspending the effectiveness of such Registration Statement or the initiation or threatening of any proceeding for such purpose and promptly use its reasonable best efforts to prevent the issuance of any stop order or to obtain its withdrawal at the earliest possible moment if such stop order should be issued.
+
+(p) Otherwise use its reasonable best efforts to take all other steps necessary to effect the registration of such Registrable Shares contemplated hereby.
+
+Section 5. Expenses of Registration. The Company shall pay the Registration Expenses incurred in connection with Registration, qualification or compliance as provided for in this Agreement. Selling Expenses incurred in connection with the sale of Registrable Shares by the Investor shall be borne by the Investor and the Investor shall pay the expenses of its own counsel.
+
+9  
+  
+Section 6. Indemnification.
+
+(a) The Company will \l8k. indemnify the Investor, and its officers, directors, members, partners and managers, and any Person controlling the Investor within the meaning of Section 15 of the Securities Act, against all expenses, claims, losses, damages and liabilities (including reasonable legal fees and expenses), arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in any Registration Statement, or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading, and \l8l. reimburse the Investor for all reasonable legal or other expenses incurred in connection with investigating or defending any such action or claim as such expenses are incurred; provided, however, that the Company will not be liable in any such case to the extent that any such claim, loss, damage, liability or expense arises out of or is based on \l9i. an offer or sale of Registrable Shares occurring during a Blackout Period, or \l9ii. any untrue statement or omission (or alleged untrue statement or omission) made in reliance upon and in conformity with information furnished in writing to the Company by the Investor for inclusion therein; and, provided further, that the Company shall not be liable with respect to any preliminary prospectus or preliminary prospectus supplement to the extent that any such expenses, claims, losses, damages and liabilities result from the fact that Registrable Shares were sold to a Person as to whom it shall be established that there was not sent or given at or prior to the written confirmation of such sale a copy of the prospectus as then amended or supplemented under circumstances where such delivery is required under the Securities Act, if the Company shall have previously furnished copies thereof to such Indemnified Party, and the expense, claim, loss, damage or liability of such Indemnified Party results from an untrue statement or omission of a material fact contained in the preliminary prospectus or the preliminary prospectus supplement, which was corrected in the prospectus.
+
+(b) The Investor shall, and shall cause any agents of the Investor that facilitate the distribution of Registrable Shares to, \l8m. indemnify the Company, each of its directors and each of its officers who signs the Registration Statement, and each Person who controls the Company within the meaning of Section 15 of the Securities Act, against all expenses, claims, losses, damages and liabilities (including reasonable legal fees and expenses) arising out of or based on \l9i. any untrue statement (or alleged untrue statement) of a material fact contained in any such Registration Statement, or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading, in each case to the extent, and only to the extent, that such untrue statement (or alleged untrue statement) or omission (or alleged omission) is made in such Registration Statement in reliance upon and in conformity with information furnished in writing to the Company by the Investor and/or any agent of the Investor for inclusion therein, or \l9ii. any failure by the Investor and/or any agent of the Investor to deliver a prospectus where such delivery is required under the Securities Act, the Company shall have furnished copies of such prospectus to the Investor in sufficient quantities to permit the Investor to satisfy such obligations, and such prospectus corrected an untrue statement or omission of a material fact contained in a preliminary prospectus, and (ii) reimburse the Company for all reasonable legal or other expenses incurred in connection with investigating or defending any such action or claim as such expenses are incurred.
+
+10  
+  
+(c) Each party entitled to indemnification under this Section 6 (the “Indemnified Party”) shall give notice to the party required to provide indemnification (the “Indemnifying Party”) promptly after such Indemnified Party has actual knowledge of any claim as to which indemnity may be sought, but the omission to so notify the Indemnifying Party shall not relieve it from any liability which it may have to the Indemnified Party pursuant to the provisions of this Section 6 except to the extent of the actual damages suffered by such delay in notification. The Indemnifying Party shall assume the defense of such action, including the employment of counsel to be chosen by the Indemnifying Party, which counsel shall be reasonably satisfactory to the Indemnified Party, and payment of expenses. The Indemnified Party shall have the right to employ its own counsel in any such case, but the legal fees and expenses of such counsel shall be at the expense of the Indemnified Party, unless the employment of such counsel shall have been authorized in writing by the Indemnifying Party in connection with the defense of such action, or the Indemnifying Party shall not have employed counsel to take charge of the defense of such action within a reasonable period of time upon becoming aware of such action, or the Indemnified Party shall have reasonably concluded that there exists an actual and material conflict of interest between the Indemnified Party and the Indemnifying Party (in which case the Indemnifying Party shall not have the right to direct the defense of such action on behalf of the Indemnified Party), in any of which events such fees and expenses shall be borne by the Indemnifying Party. No Indemnifying Party, in the defense of any such claim or litigation, shall, except with the consent of the Indemnified Party, consent to entry of any judgment or enter into any settlement unless such judgment or settlement \l8n. includes an unconditional release from all liability in respect to such claim or litigation, and \l8o. does not include a statement as to or an admission of fault, culpability or a failure to act, by or on behalf of the Indemnified Party.
+
+(d) If the indemnification provided for in this Section 6 is unavailable to a party that would have been an Indemnified Party under this Section 6 in respect of any expenses, claims, losses, damages and liabilities referred to herein, then the party that would have been an Indemnifying Party hereunder shall, in lieu of indemnifying such Indemnified Party, contribute to the amount paid or payable by such Indemnified Party as a result of such expenses, claims, losses, damages and liabilities in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party on the one hand and the Indemnified Party on the other in connection with the statement or omission (or alleged statement or omission), which resulted in such expenses, claims, losses, damages and liabilities, as well as any other relevant equitable considerations. The relative fault shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Indemnifying Party or the Indemnified Party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. The Company and the Investor agree that it would not be just and equitable if contribution pursuant to this Section 6 were determined by pro rata allocation or by any other method of allocation that does not take account of the equitable considerations referred to above in this Section 6(d).
+
+11  
+  
+(e) No person guilty of fraudulent misrepresentation (as provided for in Section 11 of the Securities Act) shall be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation.
+
+Section 7. Information to be Furnished by the Investor. The Investor shall furnish to the Company such information as the Company may reasonably request and as shall be required in connection with any Registration Statement and related proceedings referred to in this Agreement. If the Investor fails to provide the Company with such information within five (5) business days of receipt of the Company’s request, the Company’s obligations under this Agreement with respect to the Investor or the Registrable Shares owned by the Investor shall be suspended until the Investor provides such information.
+
+Section 8. Black-Out Period. The Investor agrees, if requested by the Company, or the Company’s underwriters or financial advisors, in an offering of the Company’s securities pursuant to a Registration Statement filed with the Commission (a “Registered Offering), not to effect any sale or distribution of any Registrable Shares during the fifteen (15) day period (such period, a “Blackout Period”) prior to, and during the ninety (90) day period beginning on, the date of pricing of such Registered Offering.
+
+Section 9. Miscellaneous.
+
+(a) Governing Law. This Agreement shall be governed by, and construed in accordance with, the internal laws of the State of New York, without reference to principles of conflicts of laws. Any action or proceeding brought for the purpose of enforcement of any term or provision of this Agreement shall be brought only in the federal or state courts sitting in New York and the parties hereby waive any and all rights to trial by jury.
+
+(b) Entire Agreement. This Agreement \l78. constitutes the entire agreement, and supersede all prior agreements and understandings, both written and oral, among the Parties with respect to the subject matter hereof and \l79. is not intended to confer upon any person other than the Parties any rights or remedies.
+
+(c) Amendment. No provision of this Agreement may be waived or amended except in a written instrument signed by the Company and the Investor. No waiver of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any subsequent default or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any Party to exercise any right hereunder in any manner impair the exercise of any such right.
+
+12  
+  
+(d) Notices. All notices, requests, claims, demands and other communications under this Agreement shall be in writing and shall be deemed given upon receipt by the Parties at the following addresses (or at such other address for a Party as shall be specified by like notice):
+
+To the Investor:A Squared Holdings, LLC  
+9401 Wilshire Boulevard Suite 608  
+Beverly Hills, California 90212  
+Attention: Gregory Payne, General Counsel  
+Facsimile: 805-965-1168  
+To the Company: Genius Brands International, Inc.  
+3111 Camino del Rio North, Suite 400  
+San Diego, CA 92108  
+Attention: Chief Financial Officer  
+Facsimile: 619-281-2503  
+  
+(e) Counterparts. This Agreement may be executed in one or more counterparts, all of which shall be considered one and the same agreement and shall become effective when one or more counterparts have been signed by each of the Parties and delivered to the other Parties. Facsimile execution and facsimile or electronic delivery of this Agreement is legal, valid and binding for all purposes.
+
+(f) Interpretation. When a reference is made in this Agreement to a Section, such reference shall be to a Section of this Agreement unless otherwise indicated. Whenever the words “include,” “includes” or “including” are used in this Agreement, they shall be deemed to be followed by the words “without limitation.”
+
+(g) Severability. If any provision of this Agreement is judicially determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions will not be affected or impaired.
+
+(h) Remedies. In addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages, the Parties will be entitled to specific performance under this Agreement. The Parties agree that monetary damages may not be adequate compensation for any loss incurred by reason of any breach of obligations described in the foregoing sentence and hereby agree to waive in any action for specific performance of any such obligation the defense that a remedy at law would be adequate.
+
+(i) Anti-Assignment. Neither this Agreement nor any of the rights, interests or obligations under this Agreement shall be assigned, in whole or in part, by operation of law or otherwise by any of the Parties without the prior written consent of the other Party. Any purported assignment without such consent shall be void. Subject to the preceding sentences, this Agreement will be binding upon, inure to the benefit of, and be enforceable by, the Parties and their respective successors and assigns.
+
+13  
+  
+(j) Attorneys’ Fees. If the Company or the Investor brings an action to enforce its rights under this Agreement, the prevailing party in the action shall be entitled to recover its costs and expenses, including reasonable attorneys’ fees, incurred in connection with such action, including any appeal of such action.
+
+(k) Changes in Securities Laws. In the event that any amendment, repeal or other change in the securities laws shall render the provisions of this Agreement inapplicable, the Company will provide the Investor with substantially similar rights to those granted under this Agreement and use its good faith efforts to cause such rights to be as comparable as possible to the rights granted to the Investor hereunder.
+
+[Remainder of the Page Intentionally Left Blank]
+
+14  
+  
+IN WITNESS WHEREOF, the parties hereto have executed this Registration Rights Agreement as of the date first written above.
+
+COMPANY  
+  
+GENIUS BRANDS INTERNATIONAL, INC.,   
+a Nevada corporation  
+By: /s/ Jeanene Morgan  
+Name: Jeanene Morgan  
+Title: Chief Financial Officer  
+INVESTOR  
+  
+A SQUARED HOLDINGS, LLC, a California limited liability company  
+By: /s/ Andy Heyward  
+Name: Andy Heyward  
+Title: Co-Manager  
+By: /s/ Amy Moynihan Heyward  
+Name: Amy Moynihan Heyward  
+Title: Co-Manager  
+  
+SIGNATURE PAGE TO REGISTRATION RIGHTS AGREEMENT

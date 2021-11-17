@@ -1,0 +1,459 @@
+  
+
+
+  
+
+
+Exhibit 10.21
+
+LINCOLN ELECTRIC HOLDINGS, INC.
+
+2015 EQUITY AND INCENTIVE COMPENSATION PLAN
+
+
+
+WHEREAS, Lincoln Electric Holdings, Inc. (the “Company”) maintains the Company’s 2015 Equity and Incentive Compensation Plan, as may be amended from time to time (the “Plan”), pursuant to which the Company may award Restricted Stock Units (“RSUs”) to officers and certain key employees of the Company and its Subsidiaries;
+
+WHEREAS, the Grantee, whose name is set forth on the “Overview” tab on the Morgan Stanley Stock Plan Connect portal, a secure third-party vendor website used by the Company (to be referred to herein as the “Grant Summary”), is an employee of the Company or one of its Subsidiaries;
+
+WHEREAS, the Grantee was awarded RSUs under the Plan by the Compensation and Executive Development Committee (the "Committee") of the Board of Directors (the "Board") of the Company on the Date of Grant in 2016, as set forth on the Grant Summary (the “Date of Grant”), and the execution of an Evidence of Award in the form hereof (this "Agreement") has been authorized by a resolution of the Committee duly adopted on such date.
+
+NOW, THEREFORE, pursuant to the Plan and subject to the terms and conditions thereof and the terms and conditions hereinafter set forth, the Company hereby confirms to the Grantee the award of the number of RSUs set forth on the Grant Summary.  
+  
+1.
+
+Definitions. Unless otherwise defined in this Agreement, terms used in this Agreement, with initial capital letters will have the meanings assigned to them in the Plan.  
+  
+(a)
+
+“Cause”: A termination for “Cause” shall mean that, prior to termination of employment, the Grantee shall have:   
+  
+(i)
+
+been convicted of, or pleaded nolo contendere to, a criminal violation, in each case, involving fraud, embezzlement or theft in connection with the Grantee’s duties or in the course of the Grantee’s employment with the Company or any Subsidiary (or the Successor, if applicable);  
+  
+(ii)
+
+committed intentional wrongful damage to property of the Company or any Subsidiary (or the Successor, if applicable);  
+  
+(iii)
+
+committed intentional wrongful disclosure of secret processes or confidential information of the Company or any Subsidiary (or the Successor, if applicable); or  
+  
+(iv)
+
+committed intentional wrongful engagement in any of the activities set forth in any confidentiality, non-competition or non-solicitation arrangement with the Company (or the Successor, if applicable) to which the Grantee is a party;  
+  
+and, in each case, any such act shall have been demonstrably and materially harmful to the Company (or the Successor, if applicable). For purposes of this Agreement, no act or failure to act on the part of the Grantee will be deemed “intentional” if it was due primarily to an error in judgment or negligence, but will be deemed “intentional” only if done or omitted to be done by the Grantee not in good faith and without reasonable belief that the Grantee’s action or omission was in the best interest of the Company (or the Successor, if applicable).  
+  
+(b)
+
+“Deferred Compensation Plan” means the Lincoln Electric Holdings, Inc. 2005 Deferred Compensation Plan for Executives, as amended and restated.  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+(c)
+
+“Disabled”: The Committee shall determine, in its sole discretion, that a Grantee is “Disabled” if the Grantee meets one of the following requirements: (i) the Grantee is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, (ii) the Grantee is, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than three months under the Company’s accident and health or long-term disability plan or any similar plan maintained by a third party, but excluding governmental plans, or (iii) the Social Security Administration determines the Grantee to be totally disabled.  
+  
+(d)
+
+“Distribution Date” means the date on which the Common Shares represented by vested RSUs shall be distributed to the Grantee as specified in Section 8; provided that, the Distribution Date for a Grantee who elects to defer the distribution of his or her Common Shares pursuant to the Deferred Compensation Plan will be governed by the Deferred Compensation Plan.  
+  
+(e)
+
+“Good Reason”: A termination “for Good Reason” shall mean the Grantee’s termination of employment with the Successor as a result of the initial occurrence, without the Grantee’s consent, of one or more of the following events:   
+  
+(i)
+
+A material diminution in the Grantee’s base compensation;   
+  
+(ii)
+
+A material diminution in the Grantee’s authority, duties, or responsibilities;   
+  
+(iii)
+
+A material reduction in the Grantee’s opportunity regarding annual bonus, incentive or other payment of compensation, in addition to base compensation, made or to be made in regard to services rendered in any year or other period pursuant to any bonus, incentive, profit-sharing, performance, discretionary pay or similar agreement, policy, plan, program or arrangement (whether or not funded) of the Successor;   
+  
+(iv)
+
+A material change in the geographic location at which the Grantee must perform the services, which adds fifty (50) miles or more to the Grantee’s one-way daily commute; and   
+  
+(v)
+
+Any other action or inaction that constitutes a material breach by the Company of the Grantee’s employment agreement, if any, under which the Grantee provides services.   
+  
+Notwithstanding the foregoing, a termination of employment by the Grantee for one of the reasons set forth in clauses (i) through (v) above will not constitute “Good Reason” unless the Grantee provides, within 90 days of the initial occurrence of such condition or conditions, written notice to the Grantee’s employer of the existence of such condition or conditions and the Grantee’s employer has not remedied such condition or conditions within 30 days of the receipt of such notice.  
+  
+(f)
+
+“Replacement Award” means an award: (i) of the same type (e.g., time-based restricted stock units) as the Replaced Award; (ii) that has a value at least equal to the value of the Replaced Award; (iii) that relates to publicly traded equity securities of the Company or its successor in the Change in Control or another entity that is affiliated with the Company or its successor following the Change in Control; (iv) if the Grantee holding the Replaced Award is subject to U.S. federal income tax under the Code, the tax consequences of which to such Grantee under the Code are not less favorable to such Grantee than the tax consequences of the Replaced Award; and (v) the other terms and conditions of which are not less favorable to the Grantee holding the Replaced Award than the terms and conditions of the Replaced Award (including the provisions that would apply in the event of a subsequent Change in Control). A Replacement Award may be granted only to the extent it does not result in the Replaced Award or Replacement Award failing to comply with or be exempt from Section 409A of the Code. Without limiting the generality of the foregoing, the Replacement Award may take the form   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+of a continuation of the Replaced Award if the requirements of the two preceding sentences are satisfied. The determination of whether the conditions of this Section 1(f) are satisfied will be made by the Committee, as constituted immediately before the Change in Control, in its sole discretion.  
+  
+(g)
+
+“Separation from Service” shall have the meaning given in Code Section 409A, and references to employment termination or termination of employment in this Agreement shall be deemed to refer to a Separation from Service. In accordance with Treasury Regulation §1.409A-1(h)(1)(ii) (or any similar or successor provisions), a Separation from Service shall be deemed to occur, without limitation, if the Company and the Grantee reasonably anticipate that the level of bona fide services the Grantee will perform after a certain date (whether as an employee or as an independent contractor) will permanently decrease to less than fifty percent (50%) of the average level of bona fide services provided in the immediately preceding thirty-six (36) months.  
+  
+  
+  
+  
+2.
+
+Issuance of RSUs. The RSUs covered by this Agreement shall be issued to the Grantee effective upon the Date of Grant. Each RSU entitles the Grantee to receive one Common Share upon the Grantee’s Distribution Date. The Grantee shall not have the rights of a shareholder with respect to such RSUs, except as provided in Section 10, provided that such RSUs, together with any additional RSUs that the Grantee may become entitled to receive by virtue of a share dividend, a merger or reorganization in which the Company is the surviving corporation or any other change in capital structure, shall be subject to the restrictions hereinafter set forth.  
+  
+3.
+
+Restrictions on Transfer of RSUs. Subject to Section 15 of the Plan, the RSUs subject to this grant may not be sold, exchanged, assigned, transferred, pledged, encumbered or otherwise disposed of by the Grantee, except to the Company, until the Distribution Date; provided, however, that the Grantee’s rights with respect to such RSUs may be transferred by will or pursuant to the laws of descent and distribution. Any purported transfer or encumbrance in violation of the provisions of this Section 3 shall be void, and the other party to any such purported transaction shall not obtain any rights to or interest in such RSUs or the underlying Common Shares. The Company in its sole discretion, when and as permitted by the Plan, may waive the restrictions on transferability with respect to all or a portion of the RSUs subject to this Agreement.  
+  
+4.
+
+Vesting of RSUs. Subject to the terms and conditions of Sections 5, 6 and 7 hereof, all of the RSUs covered by this Agreement shall become nonforfeitable upon the Grantee remaining in the continuous employment of the Company or a Subsidiary until the third anniversary of the Date of Grant.  
+  
+5.
+
+Effect of Change in Control. In the event a Change in Control occurs during the Restriction Period, the RSUs covered by this Agreement shall become nonforfeitable to the extent provided in this Section 5.  
+  
+(a)
+
+If the Grantee remains in the continuous employ of the Company or a Subsidiary throughout the period beginning on the Date of Grant and ending on the date of a Change in Control, the RSUs covered by this Agreement will become nonforfeitable in full immediately prior to the Change in Control, except to the extent that a Replacement Award is provided to the Grantee in accordance with Section 1(f) to replace, adjust or continue the award of RSUs covered by this Agreement (the “Replaced Award”). If a Replacement Award is provided, references to RSUs in this Agreement shall be deemed to refer to the Replacement Award after the Change in Control.  
+  
+(b)
+
+If, upon or after receiving a Replacement Award, the Grantee experiences a termination of employment with the Company or a Subsidiary of the Company (or any of their successors) (as applicable, the “Successor”) by reason of the Grantee terminating employment for Good Reason or the Successor terminating Grantee’s employment other than for Cause, in each case within a period of two years after the Change in Control and during the remaining vesting   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+period for the Replacement Award, the Replacement Award shall become immediately nonforfeitable in full upon such termination.  
+  
+(c)
+
+If a Replacement Award is provided, notwithstanding anything in this Agreement to the contrary, any outstanding RSUs that at the time of the Change in Control are not subject to a “substantial risk of forfeiture” (within the meaning of Section 409A of the Code) will be deemed to be nonforfeitable at the time of such Change in Control and will be paid within 15 days of the Change in Control; provided, however, that if such Change in Control would not qualify as a permissible date of distribution under Section 409A(a)(2)(A) of the Code, and the regulations thereunder, and where Section 409A of the Code applies to such distribution, payment will be made on the date that would have otherwise applied pursuant to Section 8.  
+  
+6.
+
+Effect of Death, Disability or Retirement.  
+  
+(a)
+
+The RSUs subject to this Agreement shall become immediately nonforfeitable in full (i) upon the death of the Grantee while in the employment of the Company or any Subsidiary, or (ii) if the Grantee’s employment with the Company or any Subsidiary should terminate as a result of the Grantee becoming Disabled.  
+  
+(b)
+
+If the Grantee terminates employment with the Company or any Subsidiary after the Grantee’s normal retirement date (as determined under The Lincoln Electric Company Retirement Annuity Program, whether or not the Grantee participates in that program), but prior to the vesting provided in Section 4 hereof, only a pro rata portion of the RSUs (rounded down to the nearest whole Common Share) subject to this Agreement, based on the Grantee’s length of employment during the three-year vesting period, shall immediately vest, and the remaining portion of the RSUs will be forfeited upon such termination.  
+  
+7.
+
+Effect of Termination of Employment and Effect of Competitive Conduct.  
+  
+(a)
+
+In the event that the Grantee’s employment shall terminate in a manner other than any specified in Section 5 or Section 6 hereof, the Grantee shall forfeit any RSUs that have not become nonforfeitable at the time of such termination; provided, however, that the Board upon recommendation of the Committee may order that part or all of such RSUs become nonforfeitable.  
+  
+(b)
+
+Notwithstanding anything in this Agreement to the contrary, unless otherwise determined by the Company, if the Grantee, either during employment by the Company or a Subsidiary or within six (6) months after termination of such employment, (i) shall become an employee of a competitor of the Company or a Subsidiary or (ii) shall engage in any other conduct that is competitive with the Company or a Subsidiary, in each case as reasonably determined by the Company (“Competition”), then, at the time of such Company determination, the Grantee shall forfeit any RSUs that have not become nonforfeitable. In addition, if the Company shall so determine, the Grantee shall, promptly upon notice of such determination, (x) return to the Company all the Common Shares that the Grantee has not disposed of that were issued in payment of RSUs that became nonforfeitable pursuant to this Agreement, including amounts the Grantee elected to defer under Section 9 hereof, within a period of one (1) year prior to the date of the commencement of such Competition if the Grantee is an employee of the Company or a Subsidiary, or within a period of one (1) year prior to termination of employment with the Company or a Subsidiary if the Grantee is no longer an employee of the Company or a Subsidiary, and (y) with respect to any Common Shares so issued in payment of RSUs pursuant to this Agreement, that the Grantee has disposed of, including amounts the Grantee elected to defer under Section 9 hereof, pay to the Company in cash the aggregate Market Value per Share of those Common Shares on the Distribution Date, in each case as reasonably determined by the Company. To the extent that such amounts are not promptly paid to the Company, the Company may set off the amounts so payable to it against any amounts (other than amounts of non-qualified deferred compensation as so defined under Section 409A of   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+the Code) that may be owing from time to time by the Company or a Subsidiary to the Grantee, whether as wages or vacation pay or in the form of any other benefit or for any other reason.  
+  
+8.
+
+Time of Payment of RSUs.   
+  
+(a)
+
+With respect to RSUs (or any portion of RSUs) that constitute deferred compensation within the meaning of Section 409A of the Code (after taking into account any applicable exemptions from Section 409A of the Code), on each of the earlier of the following dates (i.e., within 15 days of such date), payment for such RSUs, if any, that are vested as of such date as determined in accordance with Section 409A of the Code (less any RSUs which became vested and were paid on an earlier date) shall be made:   
+  
+(i)
+
+on the vesting date specified in Section 4;  
+  
+(ii)
+
+on the date of the Grantee’s death;  
+  
+(iii)
+
+on the date the Grantee experiences a separation from service with the Company (determined in accordance with Section 409A of the Code); provided, however, that if the Grantee on the date of separation from service is a “specified employee” (within the meaning of Section 409A of the Code determined using the identification methodology selected by the Company from time to time), payment for the RSUs will be made on the tenth business day of the seventh month after the date of the Grantee’s separation from service or, if earlier, the date of the Grantee’s death; and  
+  
+(iv)
+
+on the date of a change in the ownership or effective control of the Company, or a change in the ownership of a substantial portion of the assets of the Company (each within the meaning of Section 409A of the Code).  
+  
+(b)
+
+With respect to RSUs (or any portion of RSUs) that do not constitute deferred compensation within the meaning of Section 409A of the Code (after taking into account any applicable exemptions from Section 409A of the Code), payment for such RSUs shall be made within 60 days of the date on which such RSUs become nonforfeitable and in all events within the 2½ month short-term deferral period specified in Treasury Regulation § 1.409A-1(b)(4).   
+  
+9.
+
+Deferral of RSUs. The Grantee may elect to defer receipt of the Common Shares underlying the RSUs subject to this Agreement beyond the vesting date in Section 4 above, pursuant to and in accordance with the terms of the Deferred Compensation Plan.   
+  
+10.
+
+Dividend Equivalents and Other Rights.  
+  
+(a)
+
+Except as provided in this Section, the Grantee shall not have any of the rights of a shareholder with respect to the RSUs covered by this Agreement; provided, however, that any additional Common Shares, share rights or other securities that the Grantee may become entitled to receive pursuant to a stock dividend, stock split, combination of shares, recapitalization, merger, consolidation, separation or reorganization or any other change in the capital structure of the Company shall be subject to the same restrictions as the RSUs covered by this Agreement.  
+  
+(b)
+
+The Grantee shall have the right to receive dividend equivalents with respect to the Common Shares underlying the RSUs on a deferred basis and contingent on vesting of the RSUs. Dividend equivalents on the RSUs covered by this Agreement shall be sequestered by the Company from and after the Date of Grant until the Distribution Date, whereupon such dividend equivalents shall be paid to the Grantee in the form of cash to the extent such dividend equivalents are attributable to RSUs that have become nonforfeitable. To the extent that RSUs covered by this Agreement are forfeited pursuant to Section 7 hereof, all the dividend equivalents sequestered with respect to such RSUs shall also be forfeited. No interest shall be payable with respect to any such dividend equivalents.  
+  
+(c)
+
+Under no circumstances, will the Company distribute dividend equivalents paid on RSUs until the Grantee’s Distribution Date. The Grantee will not be entitled to vote the Common Shares underlying the RSUs until after the Distribution Date.  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+(d)
+
+Notwithstanding anything to the contrary in this Section 10, to the extent that any of the RSUs vest pursuant to this Agreement and the Grantee elects pursuant to Section 9 to defer receipt of the Common Shares underlying the RSUs beyond such vesting date in accordance with the terms of the Deferred Compensation Plan, then the right to receive dividend equivalents thereafter will be governed by the Deferred Compensation Plan from and after such vesting date.  
+  
+11.
+
+Withholding Taxes. No later than the date as of which an amount first becomes includible in the gross income of the Grantee for applicable income tax purposes with respect to the RSUs evidenced by this Agreement, the Grantee shall pay to the Company, or make arrangements satisfactory to the Committee regarding the payment of, any federal, state local or foreign taxes of any kind required by law to be withheld with respect to such amount. Unless otherwise determined by the Committee, the Grantee may elect to have the minimum required withholding obligations may be settled with Common Shares, including Common Shares that are payable to Grantee upon vesting of RSUs under this Agreement. The obligations of the Company under this Agreement shall be conditional on such payment or arrangements and the Company shall, to the extent permitted by law, have the right to deduct any such taxes from any payment of any kind otherwise due to the Grantee.  
+  
+12.
+
+No Right to Employment. This award of RSUs is a voluntary, discretionary bonus being made on a one-time basis and it does not constitute a commitment to make any future awards. This award and any payments made hereunder will not be considered salary or other compensation for purposes of any severance pay or similar allowance, except as otherwise required by law. The Plan and this Agreement will not confer upon the Grantee any right with respect to the continuance of employment or other service with the Company or any Subsidiary and will not interfere in any way with any right that the Company or any Subsidiary would otherwise have to terminate any employment or other service of the Grantee at any time. For purposes of this Agreement, the continuous employ of the Grantee with the Company or a Subsidiary shall not be deemed interrupted, and the Grantee shall not be deemed to have ceased to be an employee of the Company or any Subsidiary, by reason of (A) the transfer of his or her employment among the Company and any Subsidiary or (B) an approved leave of absence.  
+  
+13.
+
+Relation to Other Benefits. Any economic or other benefit to the Grantee under this Agreement or the Plan will not be taken into account in determining any benefits to which the Grantee may be entitled under any profit-sharing, retirement or other benefit or compensation plan maintained by the Company or a Subsidiary and will not affect the amount of any life insurance coverage available to any beneficiary under any life insurance plan covering employees of the Company or a Subsidiary.  
+  
+14.
+
+Agreement Subject to the Plan. The RSUs evidenced by this Agreement and all of the terms and conditions hereof are subject to all of the terms and conditions of the Plan. In the event of any inconsistency between this Agreement and the Plan, the terms of the Plan will govern.  
+  
+15.
+
+Data Privacy.  
+  
+(a)
+
+The Grantee hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of the Grantee’s personal data as described in this document by and among, as applicable, the Grantee’s employer (the “Employer”), and the Company and its Subsidiaries for the exclusive purpose of implementing, administering and managing the Grantee’s participation in the Plan.   
+  
+(b)
+
+The Grantee understands that the Company, its Subsidiaries and the Employer hold certain personal information about the Grantee, including, but not limited to, name, home address and telephone number, date of birth, social security or insurance number or other identification number, salary, nationality, job title, any Common Shares or directorships held in the Company, details of all RSUs or any other entitlement to Common Shares awarded, canceled, purchased, exercised, vested, unvested or outstanding in the Grantee’s favor for the purpose of implementing, managing and administering the Plan (“Data”).  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+(c)
+
+The Grantee understands that the Data may be transferred to any third parties assisting in the implementation, administration and management of the Plan, that these recipients may be located in the Grantee’s country or elsewhere (in particular the United States), including outside the European Economic Area (if applicable), and that the recipient country (e.g., the United States) may have different data privacy laws and protections than the Grantee’s country. The Grantee understands that the Grantee may request a list with the names and addresses of any potential recipients of the Data by contacting the local human resources representative. The Grantee authorizes the Company, Morgan Stanley Smith Barney, LLC and any other possible recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Grantee’s participation in the Plan, including any requisite transfer of such Data, as may be required to a broker or other third party with whom the Grantee may elect to deposit any Common Shares acquired under the Plan. The Grantee understands that Data will be held only as long as is necessary to implement, administer and manage participation in the Plan. The Grantee understands that he or she may, at any time, view Data, request additional information about the storage and processing of the Data, require any necessary amendments to the Data or refuse or withdraw the consents herein, in any case without cost, by contacting the local human resources representative in writing. The Grantee understands that refusing or withdrawing consent may affect the Grantee’s ability to participate in the Plan. For more information on the consequences of refusing to consent or withdrawing consent, the Grantee understands that he or she may contact his or her local human resources representative.  
+  
+16.
+
+Amendments. Any amendment to the Plan shall be deemed to be an amendment to this Agreement to the extent that the amendment is applicable hereto; provided, however, that no amendment shall adversely affect the rights of the Grantee with respect to RSUs without the Grantee’s consent.  
+  
+17.
+
+Severability. In the event that one or more of the provisions of this Agreement shall be invalidated for any reason by a court of competent jurisdiction, any provision so invalidated will be deemed to be separable from the other provisions hereof, and the remaining provisions hereof will continue to be valid and fully enforceable.  
+  
+18.
+
+Governing Law/Venue. This Agreement is made under, and will be construed in accordance with, the internal substantive laws of the State of Ohio. All legal actions or proceedings relating to this Agreement shall be brought exclusively in the U.S. District Court for the Northern District of Ohio, Eastern Division or the Cuyahoga County Court of Common Pleas, located in Cuyahoga County, Ohio.   
+  
+19.
+
+Employment Agreement. The grant of the RSUs under this Agreement is contingent upon the Grantee having executed the most recent version of the Company’s Employment Agreement and having returned it to the Company.  
+  
+20.
+
+RSUs Subject to the Company’s Recovery of Funds Policy. Notwithstanding anything in this Agreement to the contrary, the RSUs covered by this Agreement shall be subject to the Company’s Recovery of Funds Policy (or similar clawback policy), as it may be in effect from time to time, including, without limitation, to implement Section 10D of the Exchange Act and any applicable rules or regulations issued by the U.S. Securities and Exchange Commission or any national securities exchange or national securities association on which the Common Shares may be traded.  
+  
+21.
+
+Code Section 409A. To the extent applicable, it is intended that this Agreement be designed and operated within the requirements of Section 409A of the Code (including any applicable exemptions) and, in the event of any inconsistency between any provision of this Agreement or the Plan and Section 409A of the Code, the provisions of Section 409A of the Code shall control. Any provision in the Plan or this Agreement that is determined to violate the requirements of Section 409A of the Code shall be void and without effect until amended to comply with Section 409A of the Code (which amendment may be retroactive to the extent permitted by Section 409A of the Code and may be made   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+by the Company without the consent of the Grantee). Any provision that is required by Section 409A of the Code to appear in the Agreement that is not expressly set forth herein shall be deemed to be set forth herein, and the Agreement shall be administered in all respects as if such provision was expressly set forth herein. Any reference in the Agreement to Section 409A of the Code or a Treasury Regulation section shall be deemed to include any similar or successor provisions thereto.  
+  
+22.
+
+Electronic Delivery. The Company may, in its sole discretion, deliver any documents related to the RSUs and Grantee’s participation in the Plan, or future awards that may be granted under the Plan, by electronic means or request Grantee’s consent to participate in the Plan by electronic means. Grantee hereby consents to receive such documents by electronic delivery and, if requested, agrees to participate in the Plan through an on-line or electronic system established and maintained by the Company or another third party designated by the Company.  
+  
+23.
+
+Appendix. Notwithstanding any provisions in this Agreement, the grant of RSUs is also subject to the special terms and conditions set forth in Appendix A to this Agreement for Grantee’s country. Moreover, if Grantee relocates to one of the countries included in the Appendix A, the special terms and conditions for such country will apply to Grantee, to the extent the Company determines that the application of such terms and conditions are necessary or advisable in order to comply with local law or facilitate the administration of the Plan. Appendix A constitutes part of this Agreement.   
+  
+The Grantee hereby acknowledges receipt of this Agreement and accepts the right to receive the RSUs evidenced hereby subject to the terms and conditions of the Plan and the terms and conditions herein above set forth and represents that he or she understands the acceptance of this Agreement through an on-line or electronic system, if applicable, carries the same legal significance as if he or she manually signed this Agreement.
+
+THIS AGREEMENT is executed in the name and on behalf of the Company on the Date of Grant as set forth in the Grant Summary.  
+  
+LINCOLN ELECTRIC HOLDINGS, INC.  
+  
+Christopher L. Mapes
+
+Chairman, President and Chief Executive Officer  
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+APPENDIX A
+
+  
+
+
+  
+
+
+COUNTRY SPECIFIC
+
+SPECIAL TERMS AND CONDITIONS OF
+
+LINCOLN ELECTRICAL HOLDINGS, INC.
+
+RESTRICTED STOCK UNIT AGREEMENT (OFFICER)
+
+FOR INTERNATIONAL GRANTS
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+TERMS AND CONDITIONS
+
+This Appendix A, which is part of the Lincoln Electric Holdings, Inc. Restricted Stock Unit Agreement (Officer) (the “Agreement”), contains additional terms and conditions of the Agreement that will apply to Grantee if he or she resides in one of the countries listed below. Capitalized terms used but not defined herein have the same meanings assigned to them in the Lincoln Electric Holdings, Inc. 2015 Equity and Incentive Compensation Plan, as may be amended from time to time (the “Plan”), and/or the Agreement. 
+
+The information is based on laws in effect in the respective countries as of January 2016. Such laws are often complex and change frequently. As a result, the Company strongly recommends that the Grantee not rely on the information in this Appendix A as the only source of information relating to the consequences of his or her participation in the Plan because the information may be out of date at the time that the Grantee vests in the Restricted Stock Units or sell Common Shares acquired under the Plan.
+
+In addition, the information contained herein is general in nature and may not apply to the Grantee’s particular situation, and the Company is not in a position to assure the Grantees of a particular result. Accordingly, the Grantee is advised to seek appropriate professional advice as to how the relevant laws in his or her country may apply to the Grantee’s situation.
+
+Finally, if the Grantee is a citizen or resident, or is considered a resident, of a country other than the one in which he or she is currently working, or transferred employment after the Restricted Stock Units were granted to him or her, the information contained herein may not be applicable. In addition, the Company shall, in its sole discretion, determine to what extent the additional terms and conditions included herein will apply to you under these circumstances.
+
+GERMANY
+
+There are no country-specific provisions for Germany.
+
+UNITED STATES
+
+The words “six (6) months” are replaced with the following in the first sentence of Subsection (b) of Section 7, Effect of Employment and Effect of Competitive Conduct, of the Agreement.
+
+“two (2) years”
+
+  
+
+
+  
+
+
+  
+
+
+  
+

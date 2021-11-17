@@ -1,0 +1,105 @@
+Exhibit 10.1 
+
+FORM 
+
+
+
+FOR NON-EMPLOYEE DIRECTORS 
+
+UNDER THE 2006 LONG-TERM INCENTIVE PLAN, AS AMENDED 
+
+This Restricted Stock Unit Agreement (the “Restricted Stock Unit Agreement”) is made and entered into as of [DATE] (the “Date of Grant”), by and between Health Net, Inc., a Delaware corporation (the “Company”), and [NAME], a non-employee director of the Company (the “Recipient”). 
+
+WHEREAS, the Board of Directors of the Company (the “Board”) has approved the grant (the “Grant”) of Restricted Stock Units, as hereinafter defined, to the Recipient as set forth below under the Company’s 2006 Long-Term Incentive Plan, as amended from time to time (the “Plan”). Capitalized terms used but not defined herein shall have the meanings set forth in the Plan. 
+
+NOW, THEREFORE, in consideration of the covenants and agreements herein contained and intending to be legally bound hereby, the parties agree as follows: 
+
+1\. Grant of Restricted Stock Units. The Company hereby grants to the Recipient [NUMBER] restricted stock units (the “Restricted Stock Units”), each such Restricted Stock Unit representing the right to receive, upon vesting, one (1) share of the Common Stock, par value $0.001 per share (the “Common Stock”) of the Company, subject to all of the terms and conditions of this Restricted Stock Unit Agreement. 
+
+2\. Vesting; Lapse of Restrictions. Except as otherwise provided in Sections 3 and 10 of this Restricted Stock Unit Agreement, the Restricted Stock Units shall vest and become nonforfeitable in cumulative installments beginning on the first anniversary of the Grant Date to the extent of 33 1/3% of the Restricted Stock Units, and on each subsequent anniversary of the Grant Date to the extent of an additional 33 1/3% of the Restricted Stock Units, until the Grant has fully vested with respect to all of the Restricted Stock Units (each, a “Vesting Date” and collectively, the “Vesting Dates”). 
+
+3\. Termination of Service. 
+
+(a) Except as otherwise set forth in Section 10, if prior to a Vesting Date, the Recipient’s service with the Company is terminated for any reason (a “Termination Event”), then all of the unvested Restricted Stock Units shall be immediately forfeited at such time. 
+
+(b) Service on Subsidiary Board. Notwithstanding anything to the contrary set forth herein, if upon Recipient’s termination of service as a director of the Board, such Recipient becomes a member of a board of directors of a subsidiary of the Company, then such Recipient’s service shall not be treated as having terminated hereunder until such Recipient’s termination of service as a member of the board of directors of such subsidiary. 
+
+* * *
+
+4\. Distribution of Common Stock. 
+
+(a) Subject to the terms and conditions of the Plan and the Restricted Stock Unit Agreement, and subject to Sections 10 and 18 hereof, the shares of Common Stock underlying the Recipient’s vested Restricted Stock Units shall be distributed to the Recipient (or in the event of the Recipient’s death, to his or her estate) upon the Distribution Date (as defined below). 
+
+(b) [Alternative 1 – no deferral election: Each Vesting Date shall be referred to as a “Distribution Date.”] 
+
+[Alternative 2 – with deferral election: The total number of vested Restricted Stock Units shall be distributable upon the earliest date to occur, as follows (such date, the “Distribution Date”): (1) the date of the Recipient’s “separation from service,” as defined in Treasury Regulation Section 1.409A-1(h); (2) a Change in Control, provided that such Change in Control constitutes a “change in the ownership or effective control of a corporation,” as defined in Treasury Regulation Section 1.409A-3(i)(5), with respect to Health Net, Inc.[; or (3)  insert date certain if elected by Recipient]. 
+
+(c) Subject to Sections 10 and 18 hereof, the shares of Common Stock underlying the Recipient’s vested Restricted Stock Units to be distributed under this Section 4 shall be distributed in a lump sum not later than ten (10) business days following the Distribution Date. 
+
+(d) All distributions shall be made by the Company in the form of whole shares of Common Stock (and cash in an amount equal to the value of any fractional Restricted Stock Unit, determined based on the Fair Market Value as of the Distribution Date). Shares that have become distributable may be evidenced by stock certificates, at the request of the Recipient, which certificates shall be registered in the name of the Recipient and delivered to Recipient within ten (10) business days of such request. Upon each Distribution Date, the Recipient shall pay to the Company the par value for each share of Common Stock delivered pursuant to this Restricted Stock Unit Agreement in such consideration as determined by the Board or Committee in its sole discretion. 
+
+5\. No Rights as a Stockholder. The Recipient shall not be entitled to dividends, if any, that are paid with respect to the shares of Common Stock unless and until the Restricted Stock Units have been issued and distributed to the Recipient. Recipient shall also not have the right to vote any shares subject to the Restricted Stock Units unless and until the Restricted Stock Units shall have been issued and distributed to the Recipient. 
+
+2 
+
+* * *
+
+6\. Notices. Any notice or communication given hereunder shall be in writing and shall be given electronically (e.g., email), or by fax or first class mail, certified or registered with return receipt requested, and shall be deemed to have been duly given three (3) days after mailing or twenty-four (24) hours after transmission of an email or a fax to the following addresses:   
+  
+To the Recipient at: Address on record at Health Net, Inc. as of the date any notice is to be delivered.  
+To the Company at: Health Net, Inc.  
+21650 Oxnard Street  
+Woodland Hills, California 91367  
+Attention: General Counsel  
+  
+or to such other address as any party may have furnished to the other in writing in accordance herewith, except that notices of change of address shall be effective only upon receipt. 
+
+7\. Securities Laws Requirements. The Company shall not be obligated to transfer any shares of Common Stock from the Recipient to another party, if such transfer, in the opinion of counsel for the Company, would violate the Securities Act of 1933, as amended from time to time (the “Securities Act”) (or any other federal or state statutes having similar requirements as may be in effect at that time). Further, the Company may require as a condition of transfer of any shares to the Recipient that the Recipient furnish a written representation that he or she is holding the shares for investment and not with a view to resale or distribution to the public. The Company either has or will file an appropriate Registration Statement on Form S-8 (or other applicable form), and has taken or will take such actions as necessary to keep the information therein current from time to time, in order to register the Common Stock under the Securities Act and shall use its commercially reasonable efforts to cause such Registration Statement to become effective and to maintain the effectiveness of such registration. 
+
+8\. Protections Against Violations of Restricted Stock Unit Agreement. This Restricted Stock Unit Agreement is not transferable, other than by will or pursuant to the laws of descent and distribution. 
+
+9\. Taxes. The Recipient understands that he or she (and not the Company) shall be responsible for any tax obligation that may arise as a result of the transactions contemplated by this Restricted Stock Unit Agreement. No taxes on the income from the distribution of the Restricted Stock Units will be deducted or withheld by the Company. In compliance with the Internal Revenue Code, the Company will issue a Form 1099-MISC during January of each year to report all non-employee compensation earned during the preceding calendar year, including with respect to the distribution of any Restricted Stock Units. This Form 1099-MISC can be used to calculate the applicable federal and state income taxes. 
+
+10\. Change of Control. Notwithstanding the provisions of Section 3 hereof, in the event that there shall occur a Change in Control, each Restricted Stock Unit shall become fully vested and nonforfeitable upon such Change in Control and the date of such vesting shall be deemed to be the Vesting Date hereunder. The vested Restricted Stock Units shall be distributed on or within ten (10) business days following the consummation of the Change in Control; provided, that such Change in Control constitutes a “change in the ownership or effective control of a corporation,” as defined in Treasury Regulation Section 1.409A-3(i)(5), with respect to Health Net, Inc. 
+
+3 
+
+* * *
+
+11\. Failure to Enforce Not a Waiver. The failure of the Company to enforce at any time any provision of this Restricted Stock Unit Agreement shall in no way be construed to be a waiver of such provision or of any other provision hereof. 
+
+12\. Governing Law. This Restricted Stock Unit Agreement shall be governed by and construed according to the laws of the State of Delaware without regard to its principles of conflict of laws. 
+
+13\. Amendments. This Restricted Stock Unit Agreement may be amended or modified at any time by an instrument in writing approved by the Board (or its designee); provided, however, that if such amendment would result in an impairment of Recipient’s rights, such amendment must be signed by each of the parties hereto. The Board may terminate or amend the Plan at any time; provided, however, that the termination or any modification or amendment of the Plan shall not, without the consent of the Recipient, impair the rights of the Recipient under this Restricted Stock Unit Agreement. 
+
+14\. Survival of Terms. This Restricted Stock Unit Agreement shall apply to and bind the Recipient and the Company and their respective permitted assignees and transferees, heirs, legatees, executors, administrators and legal successors. 
+
+15\. Agreement Not a Contract for Services; Rights of Removal. Neither the grant of the Restricted Stock Units, this Restricted Stock Unit Agreement nor any other action taken pursuant to this Restricted Stock Unit Agreement shall constitute or be evidence of any agreement or understanding, express or implied, that the Recipient has a right to provide or continue to provide services as an officer, director, employee or consultant of the Company for any period of time or at any specific rate of compensation. Nothing in the Plan or in this Restricted Stock Unit Agreement shall confer upon the Recipient the right to continue in the service of the Company or affect any right which the stockholders of the Company may have to terminate the service of the Recipient. The Recipient acknowledges that upon his or her termination of service with the Company for any reason, all Restricted Stock Units not yet vested shall be immediately forfeited at such time (other than as set forth in Sections 3 and 10). 
+
+16\. Decisions of Board. The Board shall have the right to resolve all questions which may arise in connection with the Restricted Stock Units. Any interpretation, determination or other action made or taken by the Board regarding the Restricted Stock Units, the Plan or this Restricted Stock Unit Agreement shall be final, binding and conclusive. 
+
+17\. Failure to Execute Agreement. This Restricted Stock Unit Agreement and the Restricted Stock Units granted hereunder is subject to the Recipient returning a counter-signed copy of this Restricted Stock Unit Agreement to the designated representative of the Company on or before 60 days after the date of its distribution to the Recipient. In the event that the Recipient fails to so return a counter-signed copy of this Agreement within such 60-day period, then this Restricted Stock Unit Agreement and the Restricted Stock Units granted hereunder shall automatically become null and void and shall have no further force or effect. 
+
+4 
+
+* * *
+
+18\. Code Section 409A. Notwithstanding anything to the contrary in this Restricted Stock Unit Agreement, to the extent the Restricted Stock Units are intended to provide for any deferral of compensation subject to Code Section 409A, such Restricted Stock Units are intended to satisfy, and shall be interpreted and administered in accordance with, the requirements of Code Section 409A and any Treasury Regulations and other guidance issued thereunder. Furthermore, if the Recipient is a “specified employee” (as defined under the Health Net, Inc. Specified Employee Policy, or, in the absence of such policy, within the meaning of Code Section 409A) with respect to the Company at the time of a “separation from service” and the Restricted Stock Units are subject to Code Section 409A and become distributable as a consequence of such “separation from service,” then the delivery of Common Stock in respect of such Restricted Stock Units shall be delayed until the earliest date upon which such Common Stock may be delivered to Recipient without being subject to taxation under Code Section 409A. 
+
+[signature page follows] 
+
+5 
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Restricted Stock Unit Agreement on the day and year first above written.   
+  
+Health Net, Inc.  
+  
+Name:  
+Title:  
+The undersigned hereby accepts and agrees to all of the terms and provisions of the foregoing Restricted Stock Unit Agreement and to all of the terms and conditions of the Health Net, Inc. 2006 Long-Term Incentive Plan, as amended, herein incorporated by reference.  
+  
+Signature of Recipient  
+  
+6 

@@ -1,0 +1,254 @@
+Exhibit 10.2
+
+
+
+THIS STOCK PURCHASE AGREEMENT (this “Agreement”) is made as of February 10, 2005 (the “Effective Date”), between MSC.Software Corporation, a Delaware corporation (the “Corporation”), and William J. Weyand (the “Executive”).
+
+W I T N E S S E T H
+
+WHEREAS, the Corporation and the Executive desire to enter into an agreement pursuant to which the Executive shall purchase, and the Corporation shall sell, shares of the Corporation’s common stock, par value $0.01 per share (the “Common Stock”);
+
+NOW, THEREFORE, in consideration of the mutual promises and covenants made herein and the mutual benefits to be derived herefrom, the parties agree as follows:
+
+1. Shares.
+
+## (a) The Corporation shall authorize the issuance and sale to the Executive of up to 50,000 shares of its Common Stock or such lesser number as he shall elect to purchase pursuant to the terms and conditions hereof.
+
+## 
+
+## (b) Upon execution and delivery of this Agreement and the Employment Agreement, dated concurrently herewith, between the Corporation and Executive (the “Employment Agreement”), the Executive shall have the right to purchase 50,000 or a lesser number of shares of Common Stock (the “Shares”), at a price per share equal to the closing price of a share of Common Stock as reported on the composite tape for securities listed on the New York Stock Exchange for the Closing Date; provided, however, that if the Common Stock is not listed on the New York Stock Exchange on the Closing Date, as defined in Section 1(d), the price per share shall be equal to the closing price of a share of Common Stock as reported for the principal public securities market in which the Common Stock is then trading on such Closing Date (the “Right to Purchase”).
+
+## 
+
+## (c) The Executive’s Right to Purchase shall be exercisable at any time during the 15-day period following the date of this Agreement; provided, however, the Right to Purchase, to the extent not already exercised, shall terminate if the Executive ceases to be employed by the Corporation during such 15-day period.
+
+## 
+
+## (d) If the Executive wishes to exercise his Right to Purchase, he must provide written notice to the Corporation prior to the expiration of the 15-day period specified in Section 1(c) above. The notice shall set forth the number of Shares he wishes to acquire and the proposed closing date (the “Closing Date”) for the acquisition (in no case shall such Closing Date be less than two (2) business days or more than five (5) business days following such notice).
+
+* * *
+
+  
+
+
+## (e) On the Closing Date, the Corporation shall deliver to the Executive a certificate representing the number of Shares that the Executive elected to purchase pursuant to the written notice delivered pursuant to Section 1(d), and the Executive shall deliver to the Corporation payment for such Shares by a cashier’s or certified check or wire transfer of funds in the amount of consideration determined in accordance with Section 1(b). The shares shall be fully paid and non-assessable.
+
+## 
+
+## (f) Neither the Shares, nor any interest therein or amount payable in respect thereof, may be sold, assigned, transferred, pledged or otherwise disposed of, alienated or encumbered, either voluntarily or involuntary, until the earliest to occur of (i) the second anniversary of the Effective Date, (ii) the day upon which the Grantee’s employment with the Corporation terminates under any of the circumstances described in Section 5.3(b) or 5.3(c) of the Employment Agreement and the Grantee is entitled to the severance benefits provided thereunder (after having met the requirements thereunder, including, without limitation, having provided the required release as contemplated by the Employment Agreement), or (iii) immediately preceding a Change in Control Event (as such term is defined in the Corporation’s 2001 Stock Option Plan (the “2001 Plan”) or a Going Private Transaction (as defined below). The transfer restrictions in the preceding sentence shall not apply to transfers to the Corporation.
+
+## 
+
+## (g) In connection with each purchase and sale of the Shares pursuant hereto, the Executive represents and warrants to the Corporation that:
+
+## 
+
+### (i) the Shares to be acquired by the Executive pursuant to this Agreement shall be acquired for the Executive’s own account and not with a view to, or in connection with, a distribution thereof in violation of the Securities Act of 1933, as amended (the “Securities Act”), or any applicable state securities laws, and the Shares will not be disposed of in contravention of the Securities Act or any applicable state securities laws;
+
+### 
+
+### (ii) the Executive is an “accredited investor” as such term is defined in Rule 501 promulgated under the Securities Act and is sophisticated in financial matters;
+
+### 
+
+### (iii) the Executive is able to bear the economic risk of his investment in the Shares for an indefinite period of time because the Shares have not been registered under the Securities Act and, therefore, cannot be sold unless subsequently registered under the Securities Act or an exemption from such registration is available;
+
+### 
+
+### (iv) the Executive has had the opportunity to ask questions of, and receive answers from, the Corporation and its management concerning the terms and conditions of the offering of the Common Stock and to obtain information regarding the Corporation’s condition (financial and otherwise) and operations; and
+
+### 
+
+### (v) this Agreement and each of the other agreements contemplated hereby to which such Executive is a party constitute legal, valid and binding obligations of the Executive, enforceable in accordance with their terms, except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and limitations on the availability of equitable remedies, and the execution, delivery and performance of this Agreement and such other agreements by such Executive does not and
+
+2
+
+* * *
+
+  
+
+
+### shall not conflict with, violate or cause a breach of any agreement, contract or instrument to which the Executive is a party or any judgment or decree to which the Executive is subject;
+
+### 
+
+## (h) As an inducement to the Executive to enter into this Agreement and purchase the Shares, the Corporation hereby represents and warrants to the Executive that:
+
+## 
+
+### (i) The Corporation is a corporation duly organized, validly existing and in good standing under the laws of Delaware and is qualified to do business in every jurisdiction in which the failure to so qualify might reasonably be expected to have a material adverse effect on the financial condition, operating results, assets, operations or business prospects of the Corporation.
+
+### 
+
+### (ii) The Corporation has full power and authority to execute and deliver this Agreement and to perform its obligations hereunder. This Agreement and each of the other agreements contemplated hereby to which the Corporation is a party constitute legal, valid and binding obligations of the Corporation, enforceable in accordance with their terms, except as enforceability may be limited by bankruptcy, insolvency, reorganization, moratorium or other laws affecting creditors’ rights generally and limitations on the availability of equitable remedies. The execution, delivery and performance of this Agreement and all other agreements contemplated hereby have been duly authorized by the Corporation.
+
+### 
+
+2. Regulation D Under the Securities Act. The Executive and the Corporation hereby acknowledge and agree that the securities purchased by the Executive hereunder are being issued in reliance in part on the exemption from registration provided in Regulation D promulgated by the Securities and Exchange Commission under the Securities Act and are “restricted securities” within the meaning of Rule 144 under the Securities Act. The Executive hereby covenants and agrees that he shall sell the securities purchased hereunder only pursuant to registration under the Securities Act, or pursuant to an exemption from registration available thereunder.
+
+3. Legend.
+
+(a) The certificates, if any, representing the Shares shall bear a legend in substantially the following form:
+
+“THESE SHARES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933 OR UNDER ANY APPLICABLE STATE LAW. THEY MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR PLEDGED WITHOUT (1) REGISTRATION UNDER THE SECURITIES ACT OF 1933 AND ANY APPLICABLE STATE LAW, OR (2) AT HOLDER’S EXPENSE, AN OPINION (SATISFACTORY TO THE CORPORATION) OF COUNSEL (SATISFACTORY TO THE CORPORATION) THAT REGISTRATION IS NOT REQUIRED.”
+
+(b) In addition, the certificates, if any, representing the Shares shall bear a legend in substantially the following form:
+
+“THE OWNERSHIP OF THIS CERTIFICATE AND THE SHARES OF STOCK EVIDENCED HEREBY AND ANY INTEREST THEREIN ARE
+
+3
+
+* * *
+
+  
+
+
+SUBJECT TO SUBSTANTIAL RESTRICTIONS ON TRANSFER UNDER AN AGREEMENT ENTERED INTO BETWEEN THE REGISTERED OWNER AND MSC.SOFTWARE CORPORATION. A COPY OF SUCH AGREEMENT IS ON FILE IN THE OFFICE OF THE SECRETARY OF MSC.SOFTWARE.”
+
+The legend set forth in this Section 3(b) shall be removed from the certificates evidencing the Shares upon the occurrence of one of the events set forth in Section 1(f).
+
+4. Registration Rights. The Corporation agrees that, at its own expense, it will use reasonable efforts to register all shares of Common Stock covered by this Agreement on a Form S-8 Registration Statement (including a reoffer prospectus prepared in accordance with the SEC’s General Instructions to Form S-8) under the Securities Act promptly after the Corporation is first able to file and have declared effective such a Registration Statement. The Corporation shall promptly remove the legend described in Section 3(a) from the certificates when the shares have been registered and the Registration Statement is effective. The Grantee agrees that, in connection with any resale of the shares, the Grantee will sell such shares pursuant to such reoffer prospectus, will deliver such reoffer prospectus in accordance with applicable securities laws, and will otherwise comply with applicable laws as to such sale.
+
+5. Corporation’s Obligation to Repurchase Upon a Change in Control Event or Going Private Transaction. If, as a result of a Change in Control Event (within the meaning of clause (b) of the definition of such term in the Corporation’s 2001 Stock Option Plan) or a Going Private Transaction, the Common Stock of the Corporation is no longer readily tradable on an established securities market, the Executive shall have the right to require the Corporation, immediately before such Change in Control Event or Going Private Transaction, to purchase any or all of the shares of Common Stock acquired by, or issued to, the Executive under this Agreement and then held by him (to the extent the Executive is not permitted or required to sell such shares in the transaction giving rise to the Change in Control Event or Going Private Transaction, as the case may be) on substantially the same per-share terms as the Corporation’s stockholders selling Common Stock in such transaction generally for an amount not less than the price paid (on a per share basis) to the other holders of the Common Stock whose stock was acquired in connection with the Change in Control Event or Going Private Transaction, as the case may be, multiplied by the number of shares sold by the Executive to the Corporation. The Executive’s right under this Section 5 is subject to the Corporation’s ability to effect such a repurchase of shares in compliance with all applicable laws, rules and regulations. For purposes of this Agreement, a “Going Private Transaction” shall mean a transaction which does not constitute a Change of Control Event, but in which all or substantially all of the shares of Common Stock of the Corporation are purchased or otherwise acquired, including a redemption by the Corporation, and in connection with such transaction, or series of transactions, the Common Stock ceases to be traded on an established securities exchange.
+
+6. Corporation’s Obligation to Repurchase Upon Termination of Employment. If the Executive’s employment with the Corporation terminates for any reason at a time when there is no public trading of the Corporation’s Common Stock, the Executive shall have the right to require the Corporation to purchase any or all of the shares of Common Stock acquired by, or issued to, the Executive under this Agreement within sixty (60) days of such termination or, if later, within sixty (60) days after the Corporation is able to repurchase such shares in compliance
+
+4
+
+* * *
+
+  
+
+
+with all applicable laws, rules and regulations. The Executive and the Corporation shall mutually agree on the fair market value for such shares, and in the event that no mutual agreement can be reached, the determination of the fair market value for such shares shall be determined in accordance with an appraisal procedure set out in a letter agreement of even date herewith. The Executive’s right under this Section 6 is subject to the Corporation’s ability to effect such a repurchase of shares in compliance with all applicable laws, rules and regulations.
+
+7. Notices.
+
+(a) All notices, requests, demands and other communications required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given and made if (i) delivered by hand, (ii) otherwise delivered against receipt therefor, or (iii) sent by registered or certified mail, postage prepaid, return receipt requested. Any notice shall be duly addressed to the parties as follows:
+
+If to the Corporation:
+
+MSC.Software Corporation
+
+2 MacArthur Place
+
+Santa Ana, California 92707
+
+Attn: Board of Directors
+
+with a copy to:
+
+Jeffrey W. Walbridge, Esq.
+
+O’Melveny & Myers LLP
+
+610 Newport Center Drive, Suite 1700
+
+Newport Beach, California 92660
+
+If to the Executive:
+
+William J. Weyand
+
+6805 Alberly Lane
+
+Cincinnati, Ohio 45243
+
+(b) Any party may alter the address to which communications or copies are to be sent by giving notice of such change of address in conformity with the provisions of this Section 7 for the giving of notice. Any communication shall be effective when delivered by hand, when otherwise delivered against receipt therefor, or five (5) business days after being mailed in accordance with the foregoing.
+
+8. General Provisions.
+
+## (a) Withholding Taxes. Notwithstanding anything else herein to the contrary, the Corporation may withhold (or cause there to be withheld, as the case may be) from any amounts otherwise due or payable under or pursuant to this Agreement such federal, state and local
+
+5
+
+* * *
+
+  
+
+
+## income, employment, or other taxes as may be required to be withheld pursuant to any applicable law or regulation.
+
+## 
+
+## (b) Assignment. This Agreement is personal in its nature and neither of the parties hereto shall, without the consent of the other, assign or transfer this Agreement or any rights or obligations hereunder; provided, however, that in the event of a merger, consolidation, or transfer or sale of all or substantially all of the assets of the Corporation with or to any other individual(s) or entity, this Agreement shall, subject to the provisions hereof, be binding upon and inure to the benefit of such successor and such successor shall discharge and perform all the promises, covenants, duties, and obligations of the Corporation hereunder.
+
+## 
+
+## (c) Rights Regarding Employment. The terms and conditions of Executive’s employment are provided pursuant to the Employment Agreement, and nothing in this Agreement will be construed to conflict with or alter those terms or conditions.
+
+## 
+
+## (d) Number and Gender. Where the context requires, the singular shall include the plural, the plural shall include the singular, and any gender shall include all other genders.
+
+## 
+
+## (e) Section Headings. The section headings of, and titles of paragraphs and subparagraphs contained in, this Agreement are for the purpose of convenience only, and they neither form a part of this Agreement nor are they to be used in the construction or interpretation thereof.
+
+## 
+
+## (f) Governing Law. This Agreement, and all questions relating to its validity, interpretation, performance and enforcement, as well as the legal relations hereby created between the parties hereto, shall be governed by and construed under, and interpreted and enforced in accordance with, the laws of the State of California, notwithstanding any California or other conflict of law provision to the contrary.
+
+## 
+
+## (g) Severability. If any provision of this Agreement or the application thereof is held invalid, the invalidity shall not affect other provisions or applications of this Agreement which can be given effect without the invalid provisions or applications and to this end the provisions of this Agreement are declared to be severable.
+
+## 
+
+## (h) Entire Agreement. This Agreement, together with the Employment Agreement, embodies the entire agreement of the parties hereto respecting the matters within its scope. This Agreement supersedes all prior and contemporaneous agreements of the parties hereto that directly or indirectly bears upon the subject matter hereof. Any prior negotiations, correspondence, agreements, proposals or understandings relating to the subject matter hereof shall be deemed to have been merged into this Agreement, and to the extent inconsistent herewith, such negotiations, correspondence, agreements, proposals, or understandings shall be deemed to be of no force or effect. There are no representations, warranties, or agreements, whether express or implied, or oral or written, with respect to the subject matter hereof, except as expressly set forth herein. This Agreement, together with the Employment Agreement, is an integrated Agreement.
+
+6
+
+* * *
+
+  
+
+
+## (i) Modifications. This Agreement may not be amended, modified or changed (in whole or in part), except by a formal, definitive written agreement expressly referring to this Agreement, which agreement is executed by both of the parties hereto.
+
+## 
+
+## (j) Waiver. Neither the failure nor any delay on the part of a party to exercise any right, remedy, power or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any right, remedy, power or privilege preclude any other or further exercise of the same or of any right, remedy, power or privilege, nor shall any waiver of any right, remedy, power or privilege with respect to any occurrence be construed as a waiver of such right, remedy, power or privilege with respect to any other occurrence. No waiver shall be effective unless it is in writing and is signed by the party asserted to have granted such waiver.
+
+## 
+
+## (k) Resolution of Disputes. Except as set forth in Section 6, any dispute, claim or controversy arising out of or relating to this Agreement, including the enforcement or interpretation of any provision of this Award Agreement, shall be submitted to arbitration in accordance with the provisions set forth in Section 22 of the Employment Agreement.
+
+## 
+
+## (l) Legal Counsel; Mutual Drafting. Each party recognizes that this is a legally binding contract and acknowledges and agrees that they have had the opportunity to consult with legal counsel of their choice. Each party has cooperated in the drafting, negotiation and preparation of this Agreement. Hence, in any construction to be made of this Agreement, the same shall not be construed against either party on the basis of that party being the drafter of such language. Executive agrees and acknowledges that he has read and understands this Agreement completely, is entering into it freely and voluntarily, and has been advised to seek counsel prior to entering into this Agreement and has had ample opportunity to do so.
+
+## 
+
+## (m) Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed an original as against any party whose signature appears thereon, and all of which together shall constitute one and the same instrument. This Agreement shall become binding when one or more counterparts hereof, individually or taken together, shall bear the signatures of all of the parties reflected hereon as the signatories. Photographic copies of such signed counterparts may be used in lieu of the originals for any purpose.
+
+7
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Stock Purchase Agreement as of the date first written above.
+
+CORPORATION:  
+  
+MSC.SOFTWARE CORPORATION  
+  
+By:
+
+/s/ John Laskey  
+  
+Name: John Laskey  
+  
+Title: Senior Vice President, Chief Financial Officer  
+  
+EXECUTIVE:  
+  
+/s/ William J. Weyand  
+  
+Name: William J. Weyand  
+  
+8
+
+* * *

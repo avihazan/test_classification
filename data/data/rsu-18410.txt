@@ -1,0 +1,55 @@
+EXHIBIT 10.4
+
+NEWELL RUBBERMAID INC. 2003 STOCK PLAN  
+(As Amended and Restated Effective February 8, 2006)
+
+
+(Non-Employee Directors)
+
+A Restricted Stock Unit (“RSU”) Award (the “Award”) granted by Newell Rubbermaid Inc., a Delaware corporation (the “Company”), to the non-employee director named in the attached Award letter (the “Grantee”) relating to the common stock, par value $1.00 per share (the “Common Stock”), of the Company, shall be subject to the following terms and conditions and the provisions of the Newell Rubbermaid Inc. 2003 Stock Plan, as amended and restated effective February 8, 2006 and further amended August 9, 2006 (the “Plan”), a copy of which is attached hereto and the terms of which are hereby incorporated by reference. 
+
+1\. Acceptance by Grantee. The receipt of the Award is conditioned upon its acceptance by the Grantee in the space provided therefor at the end of the attached Award letter and the return of an executed copy of such Award letter to the Secretary of the Company no later than 60 days after the Award Date set forth therein or, if later, 30 days after the Grantee receives this Agreement. 
+
+2\. Grant of RSUs. The Company hereby grants to the Grantee the Award of RSUs, as set forth in the Award letter. An RSU is the right, subject to the terms and conditions of the Plan and this Agreement, to receive a distribution of a share of Common Stock for each RSU as described in Section 6 of this Agreement. 
+
+3\. RSU Account. The Company shall maintain an account (“RSU Account”) on its books in the name of the Grantee which shall reflect the number of RSUs awarded to the Grantee. 
+
+4\. Dividend Equivalents. Upon the payment of any dividend on Common Stock (the “Dividend Payment Date”) occurring during the period preceding the earlier of the date of vesting of the Grantee’s Award or the date the Grantee’s Award is forfeited as described with Section 5, the Company shall promptly pay to each Grantee an amount in cash equal in value to the dividends that the Grantee would have received had the Grantee been the actual owner of the number of shares of Common Stock represented by the RSUs in the Grantee’s RSU Account on that date. If, however, the Grantee has elected to defer the RSUs in accordance with Section 13, then the Grantee shall be entitled to a number of RSUs determined by dividing (i) the product of (A) the dollar amount of the cash dividend paid per share of Common Stock on the Dividend Payment Date and (B) the total number of RSUs previously credited to the Grantee as of such Dividend Payment Date (including as a result of previous dividend equivalents paid thereon), by (ii) the Fair Market Value per Share on that date. Such dividend equivalents (if any) shall be subject to the same terms and conditions and shall vest, be settled or forfeited in the same manner and at the same time as the RSUs to which the dividend equivalents were credited. 
+
+5\. Vesting. 
+
+(a) Except as described in (b) below, the Grantee shall become vested in his Award upon the first anniversary of the date of the grant of the Award (the “Award Date”) if he remains in continuous service on the Board until such date. 
+
+* * *
+
+##### 
+
+(b) If the Grantee’s service on the Board terminates prior to the first anniversary of the Award Date due to his death, disability or retirement, the Grantee shall become vested in his Award. For this purpose (i) “disability” means (as determined by the Committee in its sole discretion) the inability of the Grantee to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which is expected to result in death or disability or which has lasted or can be expected to last for a continuous period of not less than 12 months; and (ii) “retirement” means the Grantee’s retirement in accordance with the Company’s retirement policy for Directors. 
+
+(c) If the Grantee’s service on the Board terminates prior to the first anniversary of the Award Date for any reason other than death, disability or retirement, the entire Award shall be forfeited to the Company, and no portion of the Award shall vest. 
+
+6\. Settlement of Award. If a Grantee becomes vested in his Award in accordance with Section 5, the Company shall distribute to him, or his personal representative, beneficiary or estate, as applicable, a number of shares of Common Stock equal to the number of vested RSUs subject to the Award. Such shares shall be delivered within 30 days following the date of vesting. If, however, the Grantee has elected to defer the RSUs in accordance with Section 13, then the shares shall be delivered within 30 days following the Grantee’s separation from service with the Company as defined under Section 409A of the Internal Revenue Code of 1986, as amended. If, for any reason, the Grantee is a “specified employee,” as determined under the Company’s policy for identifying specified employees on the date of separation from service (other than as a result of death), then the shares of Common Stock equal to the number of vested RSUs subject to the Award instead shall be delivered within 30 days after the first business day that is more than six months after the date of the Grantee’s separation from service (or, if the Grantee dies during such six-month period, within 30 days after death). Fractional RSUs shall be paid in cash. 
+
+7\. Withholding Taxes. If applicable, the Company shall withhold from any distribution made to the Grantee in cash an amount sufficient to satisfy all minimum Federal, state and local withholding tax requirements. Payment of such taxes may be made by a method specified in the Plan and approved by the Committee. 
+
+8\. Rights as Stockholder. The Grantee shall not be entitled to any of the rights of a stockholder of the Company with respect to the Award, including the right to vote and to receive dividends and other distributions, until and to the extent the Award is settled in shares of Common Stock. 
+
+9\. Share Delivery. Delivery of any shares in connection with settlement of the Award will be by book-entry credit to an account in the Grantee’s name established by the Company with the Company’s transfer agent, or upon written request from the Grantee (or his personal representative, beneficiary or estate, as the case may be), in certificates in the name of the Grantee (or his personal representative, beneficiary or estate). 
+
+10\. Award Not Transferable. The Award may not be transferred other than by will or the applicable laws of descent or distribution or pursuant to a qualified domestic relations order. The Award shall not otherwise be assigned, transferred, or pledged for any purpose whatsoever and is not subject, in whole or in part, to attachment, execution or levy of any kind. Any attempted assignment, transfer, pledge, or encumbrance of the Award, other than in accordance with its terms, shall be void and of no effect. 
+
+* * *
+
+##### 
+
+11\. Administration. The Award shall be administered in accordance with such regulations as the Organizational Development and Compensation Committee of the Board of Directors of the Company (the “Committee”) shall from time to time adopt. 
+
+12\. Governing Law. This Agreement, and the Award, shall be construed, administered and governed in all respects under and by the laws of the State of Delaware. 
+
+13\. Deferral of RSUs. The Grantee may elect, on a form provided by the Company (the “Deferral Election”), to defer settlement of the RSUs in accordance with the following rules: (a) in general, the Deferral Election must be filed with the Committee or its designee by, and shall become irrevocable as of, December 31 (or such earlier date as specified on the Deferral Election) of the calendar year next preceding the calendar year in which the Award is granted; and (b) in the first calendar year in which the Grantee becomes a non-employee director of the Company, he or she must file the Deferral Election with the Committee or its designee prior to the date that the individual first becomes a director, and the Deferral Election will become irrevocable on the date received by the Committee or its designee. The Deferral Election will continue in effect for each subsequent year and will become effective with respect to an Award for a year on the date such election otherwise becomes irrevocable for that year under this Section 13(a), unless terminated prior to such date. 
+
+IN WITNESS WHEREOF, this Agreement is executed by the Company this ___th day of  ,  , effective as of the ___day of  ,  .   
+  
+NEWELL RUBBERMAID INC.  
+  
+By: 

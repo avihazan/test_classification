@@ -1,0 +1,223 @@
+Exhibit 10.28
+
+
+
+This Loan Agreement, dated as of December __, 2008, (this "Loan Agreement") is entered into by and between Telifonda (Cayman) Ltd., a Cayman Island corporation (the "Lender"), and [Aurelio subsidiary], a Nevada [corporation] (the "Company").
+
+RECITALS
+
+    1. Lender and the Company have entered into a Stock Purchase Agreement dated September 30, 2008, as amended on November __, 2008 (the "Stock Purchase Agreement"). In connection with the Stock Purchase Agreement, Telifonda agreed to provide to the Company a loan in the principal amount of US$1,450,000, repayable in accordance with the terms of this Agreement.
+
+    2. Simultaneous with the closing under the Stock Purchase Agreement, the Company's sole shareholder, Aurelio Resource Corporation, a Nevada corporation ("Aurelio") will enter into a Net Smelter Royalty Agreement (the "Bolsa NSR Agreement") with the Lender or its designee and Bolsa Resources, Inc., an Arizona corporation ("Bolsa").
+
+    3. All capitalized terms used in this Loan Agreement and not otherwise defined have the meanings given in the Stock Purchase Agreement.
+
+
+
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing, and the representations, warranties, and conditions set forth below, the parties hereto, intending to be legally bound, hereby agree as follows: 
+
+    1. Loan; Interest and Payment.
+
+      1. Loan. In reliance upon the representations, warranties and covenants of the parties set forth herein, on the date hereof, Lender shall advance to the Company a loan (the "Loan") in the aggregate amount of US$1,450,000 (the "Principal Amount") in good and available funds, which Loan shall be evidenced by the loan note (the "Loan Note"), in the form annexed hereto as Exhibit A, delivered by the Company to Lender.
+
+      2. Terms of the Loan Note. The terms and conditions of the Loan Note are set forth in Exhibit A attached hereto. Capitalized terms not otherwise defined herein shall have the meaning set forth in Exhibit A attached hereto
+
+      3. Interest. Interest on the principal balance of the Loan Note shall be payable at the rate of (i) One Year LIBOR plus 5% per annum, commencing on the Commercial Production Date (as such term is defined below), (ii) One Year LIBOR plus 9% per annum commencing on the occurrence of, and during the continuance of, any Default described in Section 2 of the Loan Note.
+
+      4. Payment of Amounts Outstanding Under the Loan Note. All unpaid principal and interest, together with the balance of any other unpaid amounts payable under the Loan Note, shall be due and payable on the later to occur of (i) the date commercial mining production is commenced on the real property rights and interests described in Exhibit B hereto (the "Commercial Production Date") and (ii) December 30, 2013.
+
+(e) Right of Offset. If the Company fails to make payments owed under Section 1(d) of this Loan Note, above, and such failure continues for a period of 30 days after notice of such failure to pay is received by the Company, then the Lender or its designee (whichever is then a party to the Bolsa NSR Agreement) shall have the right to offset such amounts that are unpaid under the Loan Note from amounts owed by the Lender or its designee to Aurelio under the Bolsa NSR Agreement. Any such election by Lender shall be deemed Lender's exclusive remedy under the Loan Note. 
+
+    2. Representations and Warranties of the Company. The Company hereby represents and warrants to the Lender that the statements contained in the following paragraphs of this Section 2 are all true and correct in all material respects as of the time of the execution and issuance of the Loan Note, and shall continue to be true and correct in all material respects until payment and satisfaction in full of Loan, except as contemplated by the Stock Purchase Agreement:
+
+      1. Organization and Standing: Articles and Bylaws. The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Nevada and has all requisite corporate power and authority to carry on its business as now conducted and proposed to be conducted.
+
+      2. Corporate Power. The Company has all requisite corporate power to enter into, execute and deliver this Loan Agreement and the Loan Note. This Loan Agreement and the Loan Note are valid and binding obligations of the Company, enforceable in accordance with their respective terms, except as the same may be limited by bankruptcy, insolvency, moratorium, and other laws of general application affecting the enforcement of creditors' rights.
+
+      3. Authorization. All corporate action on the part of the Company, its officers, directors and shareholders necessary for the execution and delivery of this Loan Agreement and the Loan Note and the performance of the Company's obligations hereunder and under the Loan have been taken.
+
+      4. Government Consent, Etc. No consent, approval, order or authorization of, or designation, registration, declaration or filing with, any federal, state, local or provincial or other governmental authority on the part of the Company is required in connection with the valid execution and delivery of this Loan Agreement and the Loan Note.
+
+      5. Litigation. Other than as described in the Disclosure Schedule to the Stock Purchase Agreement, to the Knowledge of the Company, (i) there is no action, suit, proceeding or arbitration ("Action"), claim or investigation currently pending or threatened, against the Company, its activities, properties or assets, or against any officer, director or employee of the Company in connection with such officer's, director's or employee's relationship with or actions taken on behalf of the Company, (ii) the Company is not a party to or subject to the provisions of any material order, writ, injunction, judgment or decree of any court or governmental agency or instrumentality, and (iii) there is no Action or claim by the Company currently pending or which the Company intends to initiate.
+
+      6. Absence of Certain Indebtedness, Obligations or Liabilities. Except as set forth on the Disclosure Schedule to the Stock Purchase Agreement, the Company does not have any Indebtedness (whether accrued, absolute, contingent, unliquidated or otherwise, and whether due or to become due) arising out of transactions entered into at or prior to the date of this Loan Agreement.
+
+      7. No Liens. Except as set forth on the Disclosure Schedule to the Stock Purchase Agreement, the Company has not granted, and shall not permit to exist, any Liens on the assets of the Company other than Permitted Liens.
+
+    3. Representations and Warranties by the Lender. The Lender represents and warrants to the Company as of the time of the Company's execution and issuance of the Loan Note and until such time as Loan is paid and satisfied in full, as follows:
+
+      1. The Loan Note will be acquired for the Lender's own account, for investment and not with a view to, or for resale in connection with, any distribution or public offering thereof within the meaning of the Securities Act of 1933, as amended (the "Securities Act").
+
+      2. The Lender understands that the Loan Note has not been registered under the Securities Act by reason of its issuance in a transaction exempt from the registration and prospectus delivery requirements of the Securities Act pursuant to Section 4(2) thereof, that the Company has no present intention of registering the Loan Note, that the Lender may be required to hold the Loan Note indefinitely, and that Lender must therefore bear the economic risk of such investment indefinitely, unless a subsequent disposition thereof is registered under the Securities Act or is exempt from registration.
+
+      3. The Lender (i) is an "Accredited Investor" as that term is defined in Rule 501 of Regulation D promulgated under the Securities Act or has such knowledge and experience in financial and business matters as to be capable of evaluating the merits and risks of the prospective investment in the Loan Note; (ii) has the ability to bear the economic risks of the loans evidenced hereby and by the Loan Note, including a complete loss of principal amounts payable pursuant to the Loan Note; and (iii) has not been offered the Loan Note by any form of advertisement, article, notice or other communication published in any newspaper, magazine, or similar media or broadcast over television or radio, or any seminar or meeting whose attendees have been invited by any such media.
+
+      4. The Lender has the full right, power and authority to enter into and perform its obligations under this Loan Agreement, and this Loan Agreement constitutes a valid and binding obligation of the Lender enforceable in accordance with its terms except as limited by applicable bankruptcy, insolvency, reorganization, fraudulent conveyance, moratorium, usury or other laws of general application relating to or affecting enforcement of creditors rights and rules or laws concerning equitable remedies.
+
+      5. No consent, approval or authorization of or designation, declaration or filing with any governmental authority on the part of the Lender is required in connection with the valid execution and delivery of this Loan Agreement.
+
+    4. Certain Definitions.
+
+"Action" shall have the meaning set forth in Section 2(e) of this Loan Agreement.
+
+"Loan" shall have the meaning set forth in Section 1(a) of this Loan Agreement.
+
+"Loan Note" shall have the meaning set forth in Section 1(a) of this Loan Agreement.
+
+"Claim" means any claim, lawsuit, demand, suit, inquiry, hearing, investigation, notice of a violation, litigation, proceeding, arbitration, or other dispute, whether civil, criminal or administrative.
+
+"Guarantee" means any guarantee or other contingent liability (other than any endorsement for collection or deposit in the ordinary course of business), direct or indirect with respect to any obligations of another Person, through an agreement or otherwise.
+
+"Indebtedness" with respect to any Person means any obligation of such Person for borrowed money, but in any event shall include (a) any obligation incurred for all or any part of the purchase price of property or other assets or for the cost of property or other assets constructed or of improvements thereto, other than accounts payable included in current liabilities and incurred in respect of property purchased in the ordinary course of business, (b) the face amount of all letters of credit issued for the account of such Person and all drafts drawn thereunder, (c) obligations (whether or not such Person has assumed or become liable for the payment of such obligation) secured by Liens, and (d) all Guarantees of such Person.
+
+"Lien" shall have the same meaning as was given to the term "Security Interest" in the Stock Purchase Agreement.
+
+"Permitted Liens" has the meaning given in the General Security Agreement dated September 30, 2008 between the Lender and the Company.
+
+"Person" means any corporation, partnership, joint venture, organization, entity, Authority or natural person.
+
+"Securities Act" shall have the meaning set forth in Section 3(a) of this Loan Agreement.
+
+    5. Miscellaneous.
+
+      1. Waivers and Amendments. Any provision of this Loan Agreement may be amended or modified only upon the written consent of the Lender and the Company or, if applicable, waived in writing by the affected party.
+
+      2. Governing Law. This Loan Agreement and all actions arising out of or in connection with this Loan Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflicts of law provisions of the State of New York or of any other state.
+
+      3. Entire Agreement. This Loan Agreement constitutes the full and entire understanding and agreement between the parties with regard to the subjects hereof and thereof.
+
+      4. Notices, Etc. All notices and other communications required or permitted hereunder shall be in writing and shall be sent via facsimile, overnight courier service or mailed by certified or registered mail, postage prepaid, return receipt requested, addressed and sent (a) if to the Lender, at the address or facsimile number of the Lender found on the signature page hereof, or at such other address or number as the Lender shall have furnished to the Company in writing, or (b) if to the Company, at the address or facsimile number of the Company found on the signature page hereof, or at such other address or number as the Company shall have furnished to the Lender in writing. Notice shall be deemed given on the date of delivery, in the case of delivery by facsimile, or on the delivery or refusal date, as specified on the return receipt in the case of certified mail or on the tracking report in the case of overnight courier.
+
+      5. Validity. If any provision of this Loan Agreement or the Loan Note shall be judicially determined to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+
+      6. Counterparts. This Loan Agreement may be executed in two or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party, it being understood that both parties need not sign the same counterpart. If any signature is delivered by facsimile transmission or by e-mail delivery of a ".pdf" format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile or ".pdf" signature page were an original thereof.
+
+      7. Expenses. The Company and Lender shall each bear separately the expenses incurred by them, respectively, with respect to the preparation of this Loan Agreement, the Loan Note and all related documentation, and the consummation of the transactions contemplated hereby, including without limitation, all legal fees and expenses.
+
+      8. Construction. The parties and their respective counsel have reviewed this Loan Agreement in its entirety and acknowledge that each has had a full opportunity to negotiate the terms of this Loan Agreement and to receive counsel on its provisions. Therefore, the parties waive any and all applicable common law and statutory rules of construction that any provision of this Loan Agreement should be construed against the drafter of this Loan Agreement, and agree and affirm that this Loan Agreement and all provisions hereof shall in all cases be construed as a whole, according to the fair meaning of the language used.
+
+4002992_5
+
+THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+SIGNATURE PAGE FOLLOWS
+
+The parties have caused this Loan Agreement to be duly executed and delivered by their proper and duly authorized officers as of the date and year first written above.
+
+Telifonda (Cayman) Ltd.
+
+By: 
+
+Name: 
+
+Title: 
+
+Address: 
+
+Facsimile:   
+  
+[Aurelio Subsidiary]
+
+By: 
+
+Name: 
+
+Title: 
+
+Address: 
+
+Facsimile:   
+  
+THIS NOTE HAS NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNDER ANY STATE BLUE SKY LAWS AND MAY NOT BE SOLD, OFFERED FOR SALE, TRANSFERRED OR OTHERWISE DISPOSED OF IN THE ABSENCE OF SUCH REGISTRATION UNDER SAID ACT AND COMPLIANCE WITH THE REQUIREMENTS OF ANY APPLICABLE BLUE SKY LAWS OR AN EXEMPTION THEREFROM.
+
+LOAN NOTE
+
+$1,450,000 December __, 2008
+
+FOR VALUE RECEIVED, [Aurelio subsidiary], a Nevada [corporation] (the "Company"), promises to pay to the order of Telifonda (Cayman) Ltd., a Cayman Island corporation (together with its successors, the "Holder"), the principal amount of One Million Four Hundred Fifty Thousand and 00/100 Dollars (US $1,450,000) on the Maturity Date (as such term is defined below) or, if such day is not a business day, on the next succeeding business day.
+
+This Note is issued to the Holder pursuant to terms of that certain Loan Agreement, dated as of December __, 2008 (as amended or modified, the "Loan Agreement"), between the Company and the Holder.
+
+This Note shall bear interest on the principal balance at the rate of (a) One Year LIBOR plus 5% per annum, commencing on the Commercial Production Date (as such term is defined below), and (b) One Year LIBOR plus 9% per annum commencing on the occurrence of, and during the continuance of, any Default described in Section 2 of this Loan Note.
+
+Except as provided in Section 3 below, all unpaid principal and interest, together with other amounts payable hereunder shall be due and payable on the later to occur of (i) the date commercial mining production is commenced on the real property rights and interests described in Exhibit B to the Loan Agreement (the "Commercial Production Date") and (ii) December 30, 2013 (such later date, the "Maturity Date").
+
+The following is a statement of the rights of the Holder and the conditions to which this Note is subject, and to which the Holder hereof, by the acceptance of this Note, agrees:
+
+  1. Definitions. Capitalized terms used and not otherwise defined herein shall have the meanings ascribed to such terms in the Loan Agreement. As used in this Note, the following capitalized terms have the following meanings:
+
+"Business Day" shall mean any day other than a day on which commercial banks in New York are authorized or required by law to close.
+
+"Obligations" shall mean all principal and other amounts due hereunder.
+
+  2. Events of Default. The occurrence of any of the following shall constitute a "Default" under this Note:
+
+      1. Failure to Pay. The Company shall fail to pay (i) any principal payment on the Maturity Date or (ii) any other payment required under the terms of this Note on the date due and any such payment shall not have been made within three (3) Business Days after the Company's receipt of Holder's written notice to the Company of such failure to pay; or
+
+      2. Voluntary Bankruptcy or Insolvency Proceedings. The Company shall (i) prepare to apply for, apply for or consent to the appointment of a receiver, trustee, liquidator or custodian of itself or of all or a substantial part of its property, (ii) be unable, or admit in writing its inability, to pay its debts generally as they mature, (iii) prepare to make or make a general assignment for the benefit of its or any of its creditors, (iv) prepare to be, or be dissolved or liquidated in full or in part, (v) become insolvent (as such term may be defined or interpreted under any applicable statute), (vi) prepare to commence or commence a voluntary case or other proceeding seeking liquidation, reorganization or other relief with respect to itself or its debts under any bankruptcy, insolvency or other similar law now or hereafter in effect or consent to any such relief or to the appointment of or taking possession of its property by any official in an involuntary case or other proceeding commenced against it, or (vii) take any action for the purpose of effecting any of the foregoing; or
+
+      3. Involuntary Bankruptcy or Insolvency Proceedings. Proceedings for the appointment of a receiver, trustee, liquidator or custodian of the Company or of all or a substantial part of the property thereof, or an involuntary case or other proceedings seeking liquidation, reorganization or other relief with respect to the Company or the debts thereof under any bankruptcy, insolvency or other similar law or hereafter in effect shall be commenced and an order for relief entered or such proceeding shall not be dismissed or discharged within sixty (60) days after commencement.
+
+      4. Breach of Loan Agreement/Inaccuracy of Representations. The Company shall fail to perform any covenant under the Loan Agreement in a timely manner and (other than with respect to failures described in subsection 2(a) above) such failure shall continue for thirty (30) days after the Company's receipt of Holder's written notice to the Company of such failure, or any representation or warranty of the Company hereunder shall be inaccurate in any material respect when made. 
+
+  3. Rights of Parties Upon Default. 
+
+      1. Holder. Upon the occurrence or existence of any Default and at any time thereafter during the continuance of such Default, Holder may declare all outstanding Obligations payable by the Company hereunder to be immediately due and payable without presentment, demand, protest or any other notice of any kind, all of which are hereby expressly waived. Upon the occurrence or existence of any Default hereunder that is continuing, the Holder may exercise any other right, power or remedy granted to it or otherwise permitted to it by law, either by suit in equity or by action at law, or both.
+
+      2. The Company. If Holder exercises its rights under Section 3(a), immediately and without any further action by any party, (i) the Net Smelter Return Royalty Agreement of even date herewith, between Minera Milennium S.A. de C.V., a corporation duly organized under the laws of the Republic of Mexico ("Minera") and [Newco] (the "Minera NSR Agreement") will be deemed terminated; and (ii) Minera will be deemed to have granted a 3% net smelter royalty to Aurelio Resources Corporation, a Nevada corporation ("Aurelio") on all of the same terms and conditions as contained in the Minera NSR Agreement.
+
+  4. Prepayment. No prepayment of all or any part of the principal of this Note is permitted until December 30, 2011.
+
+  5. Attorneys' Fees and Costs. If Company fails to pay this Note when due, the Company shall pay the Holder on demand any reasonable out-of-pocket expenses (including reasonable legal fees) arising out of or in connection with any action or proceeding (including any action or proceeding arising in or related to any insolvency, bankruptcy or reorganization involving or affecting the Company) taken to protect, enforce, determine or assert any right or remedy under this Note and the Loan Agreement, if the Holder is the prevailing party in such action or proceeding.
+
+  6. Successors and Assigns. The rights and obligations of the Company and the Holder of this Note shall be binding upon and benefit the successors and assigns of the parties. Notwithstanding anything herein to the contrary set forth in this Note or in the Loan Agreement, neither the Company nor the Holder shall assign its respective rights and obligations arising under or in connection with this Note to any Person by operation of law or otherwise, in whole or in part, without the prior written consent of the other party; provided however, that the Holder may assign this Note to an affiliate of the Holder upon prior written notice to the Company.
+
+  7. Waiver and Amendment. Any provision of this Note may be amended or modified only upon the written consent of both the Company and the Holder, or if applicable, waived in writing by the affected party. Any amendment or waiver effected in accordance with this Section 8 shall be binding upon the Company, Holder and each transferee of this Note.
+
+  8. Notices. Any notice, request or other communication required or permitted hereunder shall be in writing and shall be deemed to have been duly given if personally delivered or mailed by registered or certified mail, postage prepaid, or by recognized overnight courier or personal delivery at the respective addresses of the parties as set forth on the signature pages to the Loan Agreement. Any party hereto may by notice so given change its address for future notice hereunder. Notice shall be deemed given on the date of delivery in the case of delivery by facsimile, or on the delivery or refusal date, as specified on the return receipt in the case of certified mail or on the tracking report in the case of overnight courier.
+
+  9. Payment. Payment shall be made in lawful tender of the United States.
+
+  10. Waivers. The Company hereby waives notice of default (except as specifically provided for in Section 2 hereof), presentment or demand for payment, protest or notice of nonpayment or dishonor relative to this instrument.
+
+  11. Governing Law. This Note and all actions arising out of or in connection with this Note shall be governed by and construed in accordance with the laws of the State of New York, without regard to the conflicts of law provisions of the State of New York or of any other state.
+
+
+
+
+THE REMAINDER OF THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+SIGNATURE PAGE FOLLOWS
+
+IN WITNESS WHEREOF, the Company has caused this Note to be issued as of the date first written above.
+
+[Aurelio Subsidiary]
+
+By: 
+
+Name: 
+
+Title: 
+
+Address: 
+
+Facsimile:   
+  
+COUNTY OF  )
+
+) SS.
+
+STATE OF  )
+
+Sworn to before me this ___ day of December, 2008 by __________________________, as ___________________ of Aurelio Resource Corporation.
+
+My Commission Expires: 
+
+WITNESS MY HAND AND OFFICIAL SEAL
+
+Notary Public
+
+Description of Real Property Rights

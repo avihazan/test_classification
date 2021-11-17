@@ -1,0 +1,193 @@
+Exhibit 10.32 
+
+[NAME OF EXECUTIVE] 
+
+
+
+This Agreement is between  (the “Executive”) and Host Hotels & Resorts, Inc. (“Company”), a Maryland corporation, and governs an award made to the Executive pursuant to the 1997 Host Marriott Corporation and Host Marriott, L.P. Comprehensive Stock and Cash Incentive Plan, as amended (the “Plan”). The Company and the Executive agree as follows: 
+
+1. Restricted Stock Award. The Company has awarded the Executive  shares of Restricted Stock of which:   
+  
+(i)  shares shall vest based on Executive’s performance against his annual personal performance goals (the “Personal Performance Award”); 
+
+(ii)  shares shall vest based on performance relating to Relative Total Shareholder Return (the “Relative NAREIT TSR Award”); and 
+
+(iii)  shares shall vest based on performance relating to Relative Total Shareholder Return (the “Relative Lodging TSR Award”). 
+
+2\. Personal Performance Award. The Personal Performance Award may vest based on Executive’s satisfaction of his Personal Performance Goals for fiscal 2009 as follows:   
+  
+If the level of  
+Satisfaction of Personal  
+Performance Goals is
+
+Then the percentage of  
+the Personal  
+Performance Award  
+which will vest will be  
+  
+0 %  
+  
+Threshold
+
+33 %  
+  
+Target
+
+66 %  
+  
+High
+
+100 %  
+  
+The Executive will vest in the Personal Performance Award provided that the Executive is employed by the Company on the date that the Compensation Policy Committee of the Board of Directors of the Company (the “Committee”) determines the level of satisfaction on the Personal Performance Goals for the year January 1, 2009 through December 31, 2009 and such Executive’s employment with the Company had not terminated during the prior twelve (12) month period preceding the vesting date, unless otherwise provided in Section 8 of this Agreement. For this purpose “Personal Performance Goals” shall mean the management performance objectives applicable to the Executive for determining Executive’s annual bonus incentive award for 2009. 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+3\. Relative NAREIT TSR Award. The Relative NAREIT TSR Award may vest based on satisfaction of the Relative NAREIT TSR for 2009 as follows:   
+  
+If Relative NAREIT  
+TSR is
+
+Then the percentage of the  
+Relative NAREIT TSR for  
+the relevant period which  
+will vest will be  
+  
+<30th percentile
+
+0 %  
+  
+30th percentile
+
+25 %  
+  
+50th percentile
+
+50 %  
+  
+75th percentile
+
+100 %  
+  
+The Executive will vest in the Relative NAREIT TSR Award provided that the Executive is employed by the Company on the date that the Committee determines the Relative NAREIT TSR for 2009 and Executive’s employment with the Company had not terminated during the prior twelve (12) month period preceding the vesting date, unless otherwise provided in Section 8 of this Agreement. 
+
+“Relative NAREIT TSR” shall mean the increase in the Starting Price over the Ending Price, plus dividends paid on the Company’s common stock during fiscal 2009 as compared to the NAREIT Equity Index The “Starting Price” shall mean the average of the high and the low trading prices of the Company common stock on the trading days occurring on the last sixty (60) calendar days of 2008, which was $ . The “Ending Price” shall mean the average of the high and low trading prices of Company common stock on the trading days occurring on the last sixty (60) calendar days of 2009 (or for purposes of Section 5, the last sixty (60) calendar days of 2010 and 2011). 
+
+The calculation of the Relative NAREIT TSR and the number of shares vested under the Relative NAREIT TSR Award shall be carried out to the third decimal point. The actual number of shares of the Relative NAREIT TSR Award which shall vest shall be interpolated between the vesting percentages to the extent that the Relative NAREIT TSR is between the amounts set forth in the chart above. 
+
+Relative NAREIT TSR Shares that do not vest according to the schedule above may vest and be released based on satisfaction of Cumulative Performance, as described in Section 5 of this Agreement. 
+
+2 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+4\. Relative Lodging TSR Award. The Relative Lodging TSR Awards may vest based on satisfaction of the Relative Lodging TSR for fiscal 2009 as follows:   
+  
+If Relative Lodging TSR is
+
+Then the percentage of the  
+Relative Lodging TSR for  
+the relevant period which  
+will vest will be  
+  
+<30th percentile
+
+0 %  
+  
+30th percentile
+
+25 %  
+  
+50th percentile
+
+50 %  
+  
+75th percentile
+
+100 %  
+  
+The Executive will vest in the Relative Lodging TSR Award provided that the Executive is employed by the Company on the date that the Committee determines the Relative Lodging TSR for fiscal 2009 and Executive’s employment with the Company had not terminated during the prior twelve (12) month period preceding the vesting date, unless otherwise provided in Section 8 of this Agreement. 
+
+“Relative Lodging TSR” shall mean the increase in the Starting Price over the Ending Price, plus dividends paid on the Company’s common stock during fiscal 2009 as compared to an index of lodging REITs and hotel management companies as established by the Committee (the “Lodging Index”). 
+
+The calculation of the Relative Lodging TSR Award and the number of shares vested under the Relative Lodging TSR Award shall be carried out to the third decimal point. The actual number of shares of the Relative Lodging TSR Award which shall vest shall be interpolated between the vesting percentages to the extent that the Relative Lodging TSR is between the amounts set forth in the chart above. 
+
+Relative Lodging TSR Shares that do not vest according to the schedule above may vest and be released based on satisfaction of Cumulative Performance, as described in Section 4 of this Agreement. 
+
+3 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+5\. Cumulative Performance.
+
+(i) Any unvested portion of the Relative NAREIT TSR Award will vest if the cumulative Relative NAREIT TSR for the Company for the period January 1, 2009 through December 31, 2011 equals or exceeds the 75th percentile of the peer companies in the NAREIT Equity Index; provided that the Executive is employed by the Company on the date the Committee determines the cumulative Relative NAREIT TSR and such Executive’s employment with the Company had not terminated during the period 2009-2011, unless otherwise provided in Section 8 of this Agreement. Any unvested portion of the Relative NAREIT TSR Award that does not vest in accordance with this Section 5 shall be forfeited on the date the Committee determines the cumulative Relative NAREIT TSR. 
+
+(ii) Any unvested portion of the Relative Lodging TSR Award will vest if the cumulative Relative Lodging TSR for the Company for the period January 1, 2009 through December 31, 2011 equals or exceeds the 75th percentile of the peer companies in the Lodging Index; provided that the Executive is employed by the Company on the date the Committee determines the cumulative Relative Lodging TSR and such Executive’s employment with the Company had not terminated during the period 2009-2011, unless otherwise provided in Section 8 of this Agreement. Any unvested portion of the Relative Lodging TSR Award that does not vest in accordance with this Section 5 shall be forfeited on the date the Committee determines the cumulative Relative Lodging TSR. 
+
+6\. Restricted Stock Account. The full number of shares of Restricted Stock have been deposited in restricted stock account or accounts for the Executive at the Company’s transfer agent. The Company reserves the right at its sole discretion to change the financial institution in which the shares are deposited. These shares are nontransferable and otherwise subject to the Plan until the restrictions are removed based on achievement of the applicable conditions to removal of the restrictions or as otherwise permitted by the Committee. Shares of Restricted Stock shall be released from such account and all restrictions on transfer thereof shall be removed as soon as practicable after the shares have vested in accordance with Sections 2, 3, 4 or 5 above. All determinations of vesting in the Personal Performance Award, the Relative NAREIT TSR Award and Relative Lodging TSR Award shall be determined by the Committee in its sole discretion. 
+
+7\. Voting Rights and Dividends. The Executive has the right to vote the Restricted Stock, except to the extent shares are forfeited. The Executive shall not receive any dividends with respect to the Restricted Stock unless and until the Executive vests in the relevant shares. At the time of vesting, the Executive shall receive a cash payment equal to the cumulative dividends (without interest) paid on the shares of Restricted Stock in which the Executive vests for the period beginning on the date of grant of those shares, and ending on the date of vesting. No dividends shall be paid to the Executive with respect to any shares represented by shares of Restricted Stock that are forfeited by the Executive. 
+
+4 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+In the event any or all of the shares of Restricted Stock are split, or combined, or in any other manner changed, modified or amended, or the Company is recapitalized, restructured, or reorganized, the Executive shall receive such number of new shares or equivalent equity interest and value so that the value of any remaining shares of Restricted Stock under this Agreement is not diminished or adversely impacted in any manner. 
+
+8\. Termination Policy. This Agreement is not an employment contract. This Agreement is, however, a contract creating enforceable rights between the Company (and any successor) and the Executive regarding the Restricted Stock. This Agreement is subject to the “Host Hotels & Resorts, Inc. Severance Plan for Executives” (the “Severance Plan”), attached hereto as Exhibit A. If the Executive’s employment with the Company is terminated for Cause (as defined in the Severance Plan) or by the Executive without Good Reason (as defined in the Severance Plan), then all unvested and unreleased shares of Restricted Stock shall be forfeited. If the Executive’s employment with the Company is terminated without Cause or by the Executive with Good Reason not following a Change in Control while any Restricted Stock remains unvested and has not be previously forfeited, then 50% of the Personal Performance Award, 50% of the Relative NAREIT TSR Award, and 50% of the Relative Lodging TSR Award shall vest and all restrictions on each such award shall be removed. If the Executive’s employment with the Company is terminated by (i) reason of the Executive’s death, (ii) Disability, (iii) the Company without Cause following a Change in Control or (iv) the Executive with Good Reason following a Change in Control, and any Restricted Stock remains unvested and has not been previously forfeited, then all unvested shares of Restricted Stock shall vest and all restrictions thereon shall be removed. For Mr. Risoleo and Mr. Walter, add the following sentence: [The Executive agrees that in the event of his death, however, his named beneficiary will receive $ (the “Proceeds”) from that certain [define the Insurance Policy] dated as of  . Executive agrees notwithstanding the foregoing that he shall forfeit that number of shares which of Restricted Stock have a Fair Market Value equal to the amount of the Proceeds and any remaining shares of Restricted Stock shall vest.] 
+
+9\. Other Long-Term Incentive Awards. The Executive understands and agrees that the shares of Restricted Stock granted pursuant to this Agreement and stock options granted pursuant to a Stock Option Agreement dated February  , 2009, are in lieu of any other awards of long-term incentives or supplemental long-term incentives of stock options and deferred bonus stock awards for the period 2009 – 2011, and that the Executive is not entitled to receive any additional stock options award, deferred bonus stock awards or additional restricted stock award during that period (other than awards granted and still in effect prior to January 31, 2009). The Committee reserves the right to make additional long-term incentive awards to individuals in cases where it believes doing so is in the best interests of the Company and its shareholders. 
+
+10\. The Plan. The Restricted Stock is granted in accordance with and subject to the Plan. The terms of this Agreement are intended to be in full accordance with the Plan. However, in the event of any potential conflict between any term of this Agreement and the Plan, this Agreement shall automatically be amended to comply with the terms of the Plan. All defined terms used in this Agreement which are otherwise not defined herein shall have the meaning set forth in the Plan. 
+
+5 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+11\. Modifications to the Agreement. This Agreement represents the full and complete understanding between the Executive and the Company and this Agreement cannot be modified or changed by any prior or contemporaneous or future oral agreement of the parties. This Agreement shall only be modified by the express written agreement of the parties. 
+
+12\. Governing Law. This Agreement shall be governed by the law of the State of Maryland without regard to choice of law or conflict of law rules. 
+
+13\. Designation of Beneficiary. The Executive may designate a beneficiary in the space provided at the end of this Agreement. 
+
+14\. No Guarantee of Continued Service. BY SIGNING THIS AGREEMENT EXECUTIVE KNOWLEDGE AND AGREES THAT THE VESTING OF SHARES PURSUANT TO THIS AGREEMENT IS EARNED ONLY BY CONTINUING AS AN ELIGIBLE INDIVIDUAL AT THE WILL OF THE COMPANY (NOT THROUGH THE ACT OF BEING HIRED, BEING GRANTED THIS AWARD OR ACQUIRING SHARES HEREUNDER). EXECUTIVE FURTHER ACKNOWLEDGES AND AGREES THAT THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREUNDER AND THE VESTING SCHEDULE SET FORTH HEREIN DO NOT CONSTITUTE AN EXPRESS OR IMPLIED PROMISE OF CONTINUED ENGAGEMENT AS AN ELIGIBLE INDIVIDUAL FOR THE VESTING PERIOD, FOR ANY PERIOD, OR AT ALL, AND SHALL NOT INTERFERE IN ANY WAY WITH HIS OR HER RIGHT OR THE COMPANY’S RIGHT TO TERMINATE THE RELATIONSHIP AS AN ELIGIBLE INDIVIDUAL AT ANY TIME, WITH OR WITHOUT CAUSE. 
+
+15\. Taxation. The Executive understands that upon removal of restrictions on any of the shares represented by the Long-Term Incentive Award, a taxable event will occur and Executive will be responsible for payment of taxes due. The Committee may condition the delivery of any shares or any other benefits under this Agreement on the satisfaction of applicable withholding requirements. The Committee, in its discretion, and subject to such requirements as the Committee may impose prior to the occurrence of such withholding, may permit such withholding obligations to be satisfied through cash payment by the Executive, through the surrender of shares of common stock of the Company that the Executive already owns, or through the surrender of shares of Restricted Stock to which the Executive would otherwise be entitled under this Agreement provided, however, that if the withholding obligation arises during a period in which the Executive is prohibited in trading in the Company’s equity securities by reason of the Federal securities laws, or any Company policy regarding insider trading, then the Company shall automatically withhold the number of shares with a Fair Market Value equal to the minimum amount required to be withheld from the Restricted Stock to which the Executive would otherwise be entitled under this Agreement. 
+
+6 
+
+* * *
+
+[Name of Executive] 
+
+Restricted Stock Agreement 
+
+16\. Confidential Information. In consideration of the grant of Restricted Stock the Executive hereby agrees that the Company has made and will make available to the Executive, and the Executive will have access to, certain Confidential Information of the Company and its affiliates. The Executive acknowledges and agrees that any and all Confidential Information learned or obtained by the Executive during the course of the Executive’s employment with the Company or otherwise, whether developed by the Executive alone or in conjunction with others or otherwise, shall be and is the property of the Company and its affiliates. Accordingly, the Executive shall at all times keep all Confidential Information confidential and will not use such Confidential Information other than in connection with the Executive’s discharge of his/her employment with the Company, and will safeguard the Confidential Information from unauthorized disclosure. This covenant is not intended to, and does not limit in any way the Executive’s duties and obligations to the Company under statutory and common law not to disclose or make personal use of the Confidential Information or trade secrets. For the purposes of this Agreement, “Confidential Information” shall mean all confidential and proprietary information of the Company, and its affiliates, including, without limitation, the Company’s contractor, customer, supplier and vendor lists and information, marketing strategies, pricing policies or characteristics, product or product specifications, designs, software systems, leasing costs, cost of equipment, business or business prospects, plans, proposals, codes, marketing studies, research, reports, investigations, trade secrets or other information of similar character. For purposes of this Agreement, Confidential Information shall not include (i) information which is generally available to the public, (ii) information obtained by the Executive from third persons other than employees of the Company, its subsidiaries, and affiliates not under agreement to maintain the confidentiality of the same, and (iii) information which is required to be disclosed by law or legal process.   
+  
+Accepted by the Executive: For the Company:  
+[Name]  
+Date: _____________________________________________ Date: ___________________________________________  
+Beneficiary: ________________________________________  
+Relationship: _______________________________________  
+  
+7 

@@ -1,0 +1,321 @@
+Exhibit 4.1
+
+
+
+THIS REGISTRATION RIGHTS AGREEMENT, dated as of July 26, 2010, is entered into by and among HCP, INC., a Maryland corporation (the “Company”), BOYER RESEARCH PARK ASSOCIATES VIII, L.C., a Utah limited liability company (“Boyer VIII”), BOYER RESEARCH PARK ASSOCIATES IX, L.C., a Utah limited liability company (“Boyer IX”), and TEGRA LAKEVIEW ASSOCIATES, L.C., a Utah limited liability company (“Tegra,” and together with Boyer VIII and Boyer IX, collectively, the “Unitholders”).
+
+RECITALS
+
+WHEREAS, the Company, Boyer VIII, HCPI/Utah II, LLC, a Delaware limited liability company (the “Operating LLC”) and The Boyer Company, L.C., a Utah limited liability company (“Boyer”) entered into that certain Contribution Agreement and Escrow Instructions dated as of February 28, 2007 (the “Boyer VIII Contribution Agreement”) providing, among other things, for the contribution of certain property by Boyer VIII to the Operating LLC, the contribution of cash by the Company to the Operating LLC and the issuance by the Operating LLC to Boyer VIII of certain LLC Units (as defined below), all as more particularly described therein and in the other documents and instruments executed and delivered by the applicable parties in connection therewith (collectively, the “Boyer VIII Transaction”).
+
+WHEREAS, the Company, Boyer IX, Tegra, the Operating LLC and Boyer have entered into that certain Contribution Agreement and Escrow Instructions dated as of the date hereof (the “Boyer IX/Tegra Contribution Agreement”) providing, among other things, for the contribution of certain property by Boyer IX and Tegra to the Operating LLC or a subsidiary of the Operating LLC, the contribution of cash by the Company to the Operating LLC and the issuance by the Operating LLC to Boyer IX and Tegra of certain LLC Units (as defined below), all as more particularly described therein and in the other documents and instruments executed and delivered by the applicable parties in connection therewith (collectively, the “Boyer IX/Tegra Transaction”); and
+
+WHEREAS, it is a condition to the closing of the transactions contemplated by the Boyer IX/Tegra Contribution Agreement that the parties hereto enter into this Agreement;
+
+NOW, THEREFORE, in consideration of the premises and the mutual agreements herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I.  
+DEFINITIONS
+
+Section 1.1 Definitions. The following capitalized terms, as used in this Agreement, have the following meanings:
+
+“Agreement” means this Registration Rights Agreement, as it may be amended, supplemented or restated from time to time.
+
+* * *
+
+  
+
+
+“Boyer VIII Contribution Agreement” has the meaning set forth in the recitals to this Agreement.
+
+“Boyer IX/Tegra Contribution Agreement” has the meaning set forth in the recitals to this Agreement.
+
+“Business Day” means any day except a Saturday, Sunday or other day on which commercial banks in New York, New York, Los Angeles, California or Salt Lake City, Utah are authorized by law to close.
+
+“Closing Price” means (i) the closing price of a share of Common Stock on the principal exchange on which shares of Common Stock are then trading, if any, or (ii) if the Common Stock is not publicly traded on an exchange, the mean between the closing bid and asked prices for the Common Stock.
+
+“Commission” means the Securities and Exchange Commission.
+
+“Common Stock” means the common stock, par value $1.00 per share, of the Company.
+
+“Company” has the meaning set forth in the preamble to this Agreement.
+
+“Contribution Agreement” means either the Boyer VII Contribution Agreement or the Boyer IX/Tegra Contribution Agreement, as applicable.
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+“Exchangeable LLC Units” means either the Third Traunch Exchangeable LLC Units or the Fourth Traunch Exchangeable LLC Units, as applicable.
+
+“Exchange Shares” means the shares of Common Stock issued or issuable upon exchange of the Exchangeable LLC Units.
+
+“Existing Shelf Registration Statement” means the Company’s registration statement on Form S-3, Commission File No. 331-161721.
+
+“Fourth Traunch Exchangeable LLC Units” means Fourth Traunch Non-Managing Member Units which may be exchanged for Common Stock pursuant to the LLC Agreement.
+
+“Fourth Traunch Non-Managing Member Units” has the meaning set forth in the LLC Agreement.
+
+“Holder” means any Person (including a Unitholder) who is the record or beneficial owner of any Registrable Security or any assignee or transferee of such Registrable Security (including assignments or transfers of Registrable Securities to such assignees or transferees as a result of the foreclosure on any loans secured by such Registrable Securities) unless such Registrable Security is acquired in a sale pursuant to a registration statement under 
+
+2
+
+* * *
+
+  
+
+
+the Securities Act or pursuant to a transaction exempt from registration under the Securities Act, in each such case where the security sold in such transaction may be resold without subsequent registration under the Securities Act.
+
+“LLC Agreement” means the Amended and Restated Limited Liability Company Agreement of the Operating LLC dated as of August 17, 2001, as the same may have been or may hereafter be amended, modified, supplemented or restated from time to time.
+
+“LLC Units” has the meaning set forth in the LLC Agreement.
+
+“Operating LLC” has the meaning set forth in the recitals to this Agreement.
+
+“Person” means an individual or a corporation, partnership, limited liability company, association, trust, or any other entity or organization, including a government or political subdivision or an agency or instrumentality thereof.
+
+“Records” has the meaning set forth in Section 3.1(i).
+
+“Registration Expenses” has the meaning set forth in Section 3.3.
+
+“Registrable Securities” means Exchange Shares unless and until such Exchange Shares (i) have been sold or transferred by a Holder to another Person pursuant to an effective registration statement, (ii) have been sold by a Holder to another Person pursuant to the provisions of Rule 144, (iii) may be sold pursuant to Rule 144 without any volume restrictions or restrictions imposed by Rule 144(c)(1), or (iv) have been otherwise transferred in a transaction that would constitute a sale under the Securities Act and such shares may be resold without volume, manner of sale or other restrictions or conditions without subsequent registration under the Securities Act.
+
+“Resale Prospectus” has the meaning set forth in Section 3.4.
+
+“Resale Registration Statement” means any registration statement of the Company pursuant to which Registrable Securities held by the Holders may be offered and sold pursuant to the Securities Act under Rule 415 on a continuous and delayed basis, including the Existing Registration Statement. Resale Registration Statement shall include any prospectus or prospectus supplement that is part of such Resale Registration Statement and any document incorporated by reference therein.
+
+“Rule 144”means Rule 144 under the Securities Act (or any similar provisions then in force).
+
+“Securities Act” means the Securities Act of 1933, as amended.
+
+“Selling Holder” means a Holder who holds Registrable Securities that may be offered and sold pursuant to a Resale Registration Statement.
+
+3
+
+* * *
+
+  
+
+
+“Third Traunch Exchangeable LLC Units” means Third Traunch Non-Managing Member Units which may be exchanged for Common Stock pursuant to the LLC Agreement.
+
+“Third Traunch Non-Managing Member Units” has the meaning set forth in the LLC Agreement.
+
+“Unitholders” has the meaning set forth in the preamble to this Agreement.
+
+ARTICLE II.  
+FILING OF PROSPECTUS SUPPLEMENT
+
+Section 2.1 Prospectus Supplement. Subject to the provisions of Article III hereof, the Company will use commercially reasonable efforts to file with the Commission, on or prior to July 26, 2011 (the “Registration Deadline”), a prospectus supplement or such supplemental materials as are then required by the rules and regulations of the Commission to register the resale by the Holders of the Exchange Shares pursuant to the Existing Shelf Registration Statement. In the event the Company is, despite its commercially reasonably efforts, unable to register the resale by the Holders of the Exchange Shares pursuant to the Existing Shelf Registration Statement on or before the Registration Deadline, the Company shall, within ten (10) Business Days of the Registration Deadline, file a Resale Registration Statement registering the resale by the Holders of the Exchange Shares and shall cause such Resale Registration Statement to become effective as soon as practicable, and in no event later than ninety (90) days after the date first set forth above. The Company shall cause the Existing Shelf Registration Statement (or another Resale Registration Statement under which the Exchange Shares are registered for resale by Holders) to be continuously effective from the applicable effectiveness deadline set forth above until the first date on which all of the Exchange Shares cease to be Registrable Securities.
+
+ARTICLE III.  
+REGISTRATION
+
+Section 3.1 Registration Procedures. In connection with any Resale Registration Statement covering Registrable Securities:
+
+(a) The Company shall provide copies to and permit a single counsel designated by the Holder holding the largest amount of the Registrable Securities (which counsel shall be Parr Brown Gee & Loveless, PC, unless the Company is otherwise notified) to review each Resale Registration Statement, prospectus supplement and all amendments and supplements thereto no fewer than two (2) Business Days prior to their filing with the Commission and not file any document to which any such counsel reasonably objects.
+
+(b) In the event any Selling Holder transfers or assigns any Registrable Securities held by such Holder, provided that such the Registrable Securities are Registrable Securities in the hands of the assignee, Holder complies with all laws applicable thereto and provides written notice of assignment to the Company promptly after such assignment is effected and the assignee executes a counterpart to this Agreement assuming all rights and obligations of a Holder hereunder, as well as such other documentation that the 
+
+4
+
+* * *
+
+  
+
+
+Company reasonably requests, the Company shall, within 30 days of its receipt of all required documentation, file such amendments, supplements and other documents as are necessary in order to permit the assignee to offer and sell such Registrable Securities under the Resale Registration Statement under which the transferor’s Registrable Securities were registered or required to be registered. All costs, including the Company’s legal expenses and filing costs, associated with such amendments, supplements and other documents shall be the responsibility of the transferring Holder and shall be paid to the Company by such Holder within 5 days of the Company’s request.
+
+(c) Each Holder agrees to provide in a timely manner information requested by the Company regarding the proposed distribution by that Holder of the Registrable Securities and all other information reasonably requested by the Company. If a Holder fails to comply with this Section 3.1(c), such Holder will not be entitled to the benefits of Section 2.1 until the Holder has complied with Section 3.1(c). If the Company is required to amend or supplement a Resale Registration Statement due to the failure of a Holder to provide information in a timely manner, all costs, including the Company’s legal expenses and filing costs, associated with such amendment or supplement shall be the responsibility of the Holder who failed to timely provide such information and shall be paid to the Company by such Holder within 5 days of the Company’s request.
+
+(d) Subject to Section 3.2 hereof, the Company will prepare and file with the Commission such amendments, supplements and additional Resale Registration Statements as may be necessary to comply with its obligations under Section 2.1.
+
+(e) The Company will, if requested by any of the Holders, prior to filing any such Resale Registration Statement or prospectus, or any amendment or supplement thereto, furnish to each Selling Holder of the Registrable Securities covered thereby copies of such Resale Registration Statement or prospectus or amendment or supplement thereto as proposed to be filed, and thereafter furnish to such Selling Holder such number of conformed copies of such Resale Registration Statement, each amendment and supplement thereto (in each case including all exhibits thereto and documents incorporated by reference therein), the prospectus included in such Resale Registration Statement and such other documents as such Selling Holder may reasonably request in order to facilitate the disposition of the Registrable Securities owned by such Selling Holder.
+
+(f) The Company will promptly notify each Selling Holder of Registrable Securities covered by a Resale Registration Statement of any stop order issued or threatened by the Commission and take all commercially reasonable actions required to prevent the entry of such stop order or to remove it if entered.
+
+(g) The Company will use reasonable efforts to register or qualify the Registrable Securities under such securities or blue sky laws of those jurisdictions in the United States (where an exemption is not available) as any Selling Holder reasonably (in light of the Selling Holder’s intended plan of distribution) requests; provided, however, that the Company will not be required to (i) qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify but for this paragraph (e), (ii) subject itself to taxation in any such jurisdiction or (iii) consent to general service of process in any such jurisdiction.
+
+5
+
+* * *
+
+  
+
+
+(h) If the Selling Holders determine to engage an underwriter to assist with the offer and sale of any Registrable Securities, the Company will enter into customary agreements (including an underwriting agreement, if any, in customary form) as are reasonably required in order to expedite or facilitate the disposition of Registrable Securities with the assistance of such underwriter and file such amendments, supplement and filings under the Securities Act and Exchange Act as are necessary to cause the applicable Resale Registration Statement to contain all information required under the Securities Act and related rules with respect to the distribution through such underwriter. Each Selling Holder participating in an underwritten offering shall also enter into and perform its or his obligations under the underwriting agreement.
+
+(i) The Company shall cause all such Registrable Securities to be listed on each securities exchange on which the Common Stock is then listed.
+
+(j) The Company will promptly notify each Selling Holder of such Registrable Securities, at any time when a prospectus relating thereto is required to be delivered under the Securities Act, of the occurrence of an event requiring the preparation of a supplement or amendment to such prospectus so that, as thereafter delivered to the purchasers of such Registrable Securities, such prospectus will not contain an untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statement therein, in light of the circumstances then existing, not misleading and promptly make available to each Selling Holder a reasonable number of copies of any such supplement or amendment.
+
+(k) The Company will make available for inspection by any Selling Holder of such Registrable Securities, any underwriter participating in any disposition pursuant to such Registrable Securities, any underwriter participating in any disposition pursuant to such registration statement and any attorney, accountant or other professional retained by any such Selling Holder or underwriter (collectively, the “Inspectors”), all financial and other records, pertinent corporate documents and properties of the Company (collectively, the “Records”) as shall be reasonably necessary to enable them to discharge their due diligence responsibility under the Securities Act, and cause the Company’s officers, directors and employees to supply all information reasonably requested by any Inspectors in connection with the discharge of their due diligence responsibility. Records which the Company determines, in good faith, to be confidential and which it notifies the Inspectors are confidential shall not be disclosed by the Inspectors unless the release of such Records is ordered pursuant to a subpoena or other order from a court of competent jurisdiction. Each Selling Holder of such Registrable Securities agrees that information obtained by it as a result of such inspections shall be deemed confidential and shall not be used by it as the basis for any market transactions in the securities of the Company or its Affiliates or otherwise disclosed by it unless and until such is made generally available to the public. Each Selling Holder of such Registrable Securities further agrees that it will, upon learning that disclosure of such Records is sought in a court of competent jurisdiction, give notice to the Company and allow the Company, at its expense, to undertake appropriate action to prevent disclosure of the Records deemed confidential.
+
+(l) In connection with a disposition of the Registrable Securities in which there is a participating underwriter or underwriters, the Company will furnish to each underwriter, a signed counterpart, addressed to such Selling Holder or underwriter, (i) an opinion 
+
+6
+
+* * *
+
+  
+
+
+or opinions of counsel to the Company and (ii) a comfort letter or comfort letters from the Company’s independent public accountants (to the extent permitted by the standards of the American Institute of Certified Public Accountants), each in customary form and covering such matters of the type customarily covered by opinions or comfort letters, as the case may be, as the Holders of a majority of the Registrable Securities included in such offering or the managing underwriter or underwriters therefor reasonably requests.
+
+Section 3.2 Material Developments; Suspension of Offering.
+
+(a) Notwithstanding the provisions of Sections 2.1 or any other provisions of this Agreement to the contrary, the Company shall not be required to file a Resale Registration Statement or prospectus, or any amendment or supplement thereto, or to keep any Resale Registration Statement effective if the negotiation or consummation of a transaction by the Company or any of its subsidiaries is pending or an event has occurred, which negotiation, consummation or event would require additional disclosure by the Company in the Resale Registration Statement of material information which the Company (in the judgment of management of the Company) has a bona fide business purpose for keeping confidential and the nondisclosure of which in the Resale Registration Statement might cause the Resale Registration Statement to fail to comply with applicable disclosure requirements (any such transaction, a “Material Transaction”); provided, however, that the Company (i) will promptly notify the Holders of Registrable Securities otherwise entitled to registration of the foregoing and (ii) may not delay, suspend or withdraw the Resale Registration Statement for such reason more than twice in any twelve (12) month period or three times in any twenty-four (24) month period or for more than ninety (90) days at any time. Upon receipt of any notice from the Company of the happening of any event during the period the Resale Registration Statement is effective which is of a type specified in the preceding sentence or as a result of which the Resale Registration Statement or related prospectus contains any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statement therein, in light of the circumstances under which they were made not misleading, Holders agree that they will immediately discontinue offers and sales of the Registrable Securities under the Resale Registration Statement (until they receive copies of a supplemental or amended prospectus that corrects the misstatements or omissions and receive notice that any post-effective amendment has become effective). If so directed by the Company, Holders will deliver to the Company any copies of the prospectus covering the Registrable Securities in their possession at the time of receipt of such notice. Each Holder agrees to keep confidential the fact that the Company has exercised its rights under this Section 3.2 and all facts and circumstances relating to such exercise until such information is made public by the Company.
+
+(b) If all reports required to be filed by the Company pursuant to the Exchange Act have not been filed by the required date without regard to any extension, or if the consummation of any business combination by the Company has occurred or is probable for purposes of Rule 3-05 or Article 11 of Regulation S-X under the Securities Act, upon written notice thereof by the Company to the Holders, the rights of the Holders sell or distribute any Registrable Securities pursuant to any Resale Registration Statement or to require the Company to take action with respect to the registration of any Registrable Securities pursuant to this Agreement shall be suspended until the date on which the Company has filed such reports or obtained and filed the financial information required by Rule 3-05 or Article 11 of 
+
+7
+
+* * *
+
+  
+
+
+Regulation S-X to be included or incorporated by reference, as applicable, in any Resale Registration Statement and the Company shall notify the Holders as promptly as practicable when such suspension is no longer required. The Company’s rights to suspend its obligations under this Section 3.2(b) shall be in additional to its rights under Section 3.2(a).
+
+Section 3.3 Registration Expenses. Except as otherwise provided in the Boyer IX/Tegra Contribution Agreement, or as otherwise expressly provided herein, in connection with any registration of Registrable Securities required hereunder, the Company shall pay the following registration expenses incurred in connection with the registration (the “Registration Expenses”): (i) all registration and filing fees, (ii) fees and expenses of compliance with securities or blue sky laws (including the reasonable fees and expenses of counsel to the Company), (iii) printing expenses, (iv) internal expenses (including, without limitation, all salaries and expenses of its officers and employees performing legal or accounting duties), (v) the fees and expenses incurred in connection with the listing of the Registrable Securities on each securities exchange on which the Common Stock is then listed, (vi) fees and disbursements of counsel for the Company and the independent public accountants of the Company, and (vii) the fees and expenses of any experts retained by the Company in connection with such registration. The Holders shall be responsible for the payment of any and all other expenses incurred by them in connection with the registration and sale of Registrable Securities, including, without limitation, brokerage and sales commissions, underwriting fees and placement agent fees, discounts and commissions attributable to the Registrable Securities, fees and disbursements of counsel engaged by the Holders, and any transfer taxes relating to the sale or disposition of the Registrable Securities.
+
+Section 3.4 Indemnification by the Company. The Company agrees to indemnify and hold harmless each Selling Holder, its officers, directors, employees, representatives, and agents, and each Person, if any, who controls such Selling Holder within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act from and against any and all losses, claims, actions, damages, liabilities, costs and expenses (including, without limitation, but subject to the provisions of Section 3.6 hereof, reasonable attorneys’ fees and disbursements caused by any untrue statement or alleged untrue statement of a material fact contained in any Resale Registration Statement or the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances in which they were made, not misleading, or arising out of any untrue statement or alleged untrue statement of a material fact contained in any prospectus contained in a Resale Registration Statement (a “Resale Prospectus”), or the omission or alleged omission therefrom of a material fact necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading, except insofar as such losses, claims, damages or liabilities are caused by any such untrue statement or omission or alleged untrue statement or omission based upon information furnished in writing to the Company by such Selling Holder or on such Selling Holder’s behalf expressly for inclusion therein.
+
+Section 3.5 Indemnification by Holders of Registrable Securities. Each Selling Holder of Registrable Securities covered by a Registration Statement agrees to indemnify and hold harmless the Company, its officers, directors and agents and each Person, if any, who controls the Company within the meaning of either Section 15 of the Securities Act or Section 20 of the Exchange Act to the same extent as the indemnity set forth in 
+
+8
+
+* * *
+
+  
+
+
+Section 3.4 from the Company to Selling Holders, but only with respect to information relating to such Selling Holder furnished in writing by such Selling Holder or on such Selling Holder’s behalf expressly for use in any Resale Registration Statement or Resale Prospectus or any amendment or supplement thereto. Each Holder also agrees to indemnify and hold harmless underwriters of the Registrable Securities, their officers and directors and each Person who controls such underwriters within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act on substantially the same basis as that of the indemnification of the Company provided in this Section 3.5.
+
+Section 3.6 Conduct of Indemnification Proceedings. Each indemnified party shall give reasonably prompt notice to each indemnifying party of any action or proceeding commenced against it in respect of which indemnity may be sought hereunder, but failure to so notify the indemnifying party (i) shall not relieve the indemnifying party from any liability which it may have under the indemnity agreement provided in Section 3.4 or 3.5 above, unless and to the extent it did not otherwise learn of such action and the lack of notice by the indemnified party results in the forfeiture by the indemnifying party of substantial rights and defenses and (ii) shall not, in any event, relieve the indemnifying party from any obligations to the indemnified party other than the indemnification obligation provided under Section 3.4 or 3.5 above. If the indemnifying party so elects within a reasonable time after receipt of notice, the indemnifying party may assume the defense of the action or proceeding at the indemnifying party’s own expense with counsel chosen by the indemnifying party and approved by the indemnified party, which approval shall not be unreasonably withheld; provided, however, that if the defendants in any such action or proceeding include both the indemnified party and the indemnifying party and the indemnified party reasonably determines based upon advice of legal counsel experienced in such matters, that there may be legal defenses available to it which are different from or in addition to those available to the indemnifying party, then the indemnified party shall be entitled to separate counsel at the indemnifying party’s expense, which counsel shall be chosen by the indemnified party and approved by the indemnifying party, which approval shall not be unreasonably withheld; provided further, that it is understood that the indemnifying party shall not be liable for the fees, charges and disbursements of more than one separate firm. If the indemnifying party does not assume the defense, after having received the notice referred to in the first sentence of this Section, the indemnifying party will pay the reasonable fees and expenses of counsel for the indemnified party; in that event, however, the indemnifying party will not be liable for any settlement effected without the written consent of the indemnifying party. If an indemnifying party assumes the defense of an action or proceeding in accordance with this Section 3.6, the indemnifying party shall not be liable for any fees and expenses of counsel for the indemnified party incurred thereafter in connection with that action or proceeding except as set forth in the proviso in the second sentence of this Section 3.6. Unless and until a final judgment is rendered that an indemnified party is not entitled to the costs of defense under the provisions of this Section, the indemnifying party shall reimburse, promptly as they are incurred, the indemnified party’s costs of defense.
+
+Section 3.7 Contribution.
+
+(a) If the indemnification provided for in Section 3.4 or 3.5 hereof is unavailable to an indemnified party or insufficient in respect of any losses, claims, damages or liabilities referred to therein, then each indemnifying party, in lieu of indemnifying such 
+
+9
+
+* * *
+
+  
+
+
+indemnified party, shall contribute to the amount paid or payable by indemnified party as a result of such losses, claims, damages or liabilities as between the Company on the one hand and each Selling Holder on the other, in such proportion as is appropriate to reflect the relative fault of the Company and of each Selling Holder in connection with such statements or omissions which resulted in such losses, claims, damages or liabilities, as well as any other relevant equitable considerations. The relative fault of the Company on the one hand and of each Selling Holder on the other shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company or such Selling Holder, and the Company’s and the Selling Holder’s relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+
+(b) The Company and the Selling Holders agree that it would not be just and equitable if contribution pursuant to this Section 3.7 were determined by pro rata allocation or by any other method of allocation which does not take account of the equitable considerations referred to in Section 3.7(a). The amount paid or payable by an indemnifying party as a result of the losses, claims, damages or liabilities referred to in Sections 3.4 and 3.5 hereof shall be deemed to include, subject to the limitations set forth above, any legal or other expenses reasonably incurred by the indemnified party in connection with investigating or defending any such action or claim. Notwithstanding the provisions of this Section 3.7, no Selling Holder shall be required to contribute any amount in excess of the amount by which the total price at which the securities of such Selling Holder were offered to the public exceeds the amount of any damages which such Selling Holder has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+
+Section 3.8 Participation in Underwritten Offerings. No Holder may participate in any underwritten registration hereunder unless the Holder (a) agrees to sell his or its Registrable Securities on the basis provided in the applicable underwriting arrangements and (b) completes and executes all questionnaires, powers of attorney, indemnities, underwriting agreements and other documents in customary form as reasonably required under the terms of such underwriting arrangements.
+
+ARTICLE IV.  
+MISCELLANEOUS
+
+Section 4.1 Specific Performance. The parties hereto acknowledge that there would be no adequate remedy at law if any party fails to perform any of its obligations hereunder, and accordingly agree that each party, in addition to any other remedy to which it may be entitled at law or in equity, shall be entitled to compel specific performance of the obligation of any other party under this Agreement in accordance with the terms and conditions of this Agreement in any court of the United States or any State thereof having jurisdiction,
+
+Section 4.2 Amendments and Waivers. The provisions of this Agreement, including the provisions of this sentence, may not be amended, modified or supplemented, and waivers or consents to departures from the provisions hereof may not be 
+
+10
+
+* * *
+
+  
+
+
+given without the prior written consent of the Company and the Holders holding at least two-thirds (2/3rds) of the then outstanding Registrable Securities and Exchangeable LLC Units. No failure or delay by any party to insist upon the strict performance of any covenant, duty, agreement or condition of this Agreement or to exercise any right or remedy consequent upon any breach thereof shall constitute a waiver of any such breach or any other covenant, duty, agreement or condition.
+
+Section 4.3 Notices. Any notice required or permitted to be given under this Agreement shall be in writing and shall be deemed to have been given (a) when delivered by hand or electronic mail or upon transmission by a facsimile transmission device, (b) on the date delivered by a courier service, or (c) on the fifth Business Day after mailing by registered or certified mail, postage prepaid, return receipt requested, in any case addressed as follows:
+
+(a) if to any Holder, to c/o The Boyer Company, L.C., 127 South 500 East, Suite 310, Salt Lake City, Utah 84102, or to such other address and to such other Persons as the Holders may hereafter notify the Company in writing; and
+
+(b) if to the Company, to HCP, Inc., 3760 Kilroy Airport Way, Suite 300, Long Beach, California 90806 (Attention: Legal Department), or to such other address as the Company may hereafter specify in writing.
+
+Section 4.4 Successors and Assigns. (a) A Holder may transfer or assign, in whole or from time to time in part, to one or more Persons its rights hereunder in connection with the transfer of Registrable Securities by such Holder to such Person, provided that such Holder complies with all laws applicable thereto and provides written notice of assignment to the Company promptly after such assignment is effected and the assignee executes a counterpart to this Agreement assuming all rights and obligations of a Holder hereunder.
+
+Section 4.5 Counterparts. This Agreement may be executed in any number of counterparts and by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+
+Section 4.6 Governing Law. This Agreement shall be governed by and construed in accordance with the internal laws of the State of California without regard to the conflicts of law provisions thereof.
+
+Section 4.7 Severability. In the event that any one or more of the provisions contained herein, or the application thereof in any circumstance, is held invalid, illegal or unenforceable, the validity, legality and enforceability of any such provision in every other respect and of the remaining provisions contained herein shall not be affected or impaired thereby.
+
+Section 4.8 Entire Agreement. This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject 
+
+11
+
+* * *
+
+  
+
+
+matter contained herein. This Agreement supersedes all prior agreements and understandings between the parties with respect to the subject matter of this Agreement.
+
+Section 4.9 Headings. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning of any provision of this Agreement.
+
+Section 4.10 Selling Holders Become Party to this Agreement. By asserting or participating in the benefits of registration of Registrable Securities pursuant to this Agreement, each Holder agrees that it or he will be deemed a party to this Agreement and be bound by each of its terms.
+
+Section 4.11 Rule 144. The Company covenants that it will file any reports required to be filed by it under the Securities Act and the Exchange Act to the extent required from time to time to enable Holders to sell Registrable Securities without registration under the Securities Act within the limitations of the exemptions provided by Rule 144 under the Securities Act, as such Rule may be amended from time to time. Upon the request of any Holder, the Company will deliver to such Holder a written statement as to whether it has filed such reports.
+
+[Signatures follow on next page]
+
+12
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written above.
+
+“COMPANY”  
+  
+HCP, INC., a Maryland corporation  
+  
+By:
+
+/s/ Timothy M. Schoen  
+  
+TIMOTHY M. SCHOEN  
+  
+EXECUTIVE VICE PRESIDENT  
+  
+“UNITHOLDERS”  
+  
+THE BOYER COMPANY, L.C.,  
+  
+a Utah limited liability company,  
+  
+in its capacity as Manager or Managing Member of  
+  
+each limited liability company named below as a  
+  
+“Unitholder”  
+  
+By:
+
+/s/ Steven B. Ostler  
+  
+Steven B. Ostler  
+  
+Manager  
+  
+Property
+
+Unitholder  
+  
+[LAKEVIEW]
+
+TEGRA LAKEVIEW ASSOCIATES, L.C., a Utah limited liability company  
+  
+[MYRIAD IV]
+
+BOYER RESEARCH PARK ASSOCIATES VIII, L.C., a Utah limited liability company  
+  
+[MYRIAD V]
+
+BOYER RESEARCH PARK ASSOCIATES IX, L.C., a Utah limited liability company  
+  
+13
+
+* * *

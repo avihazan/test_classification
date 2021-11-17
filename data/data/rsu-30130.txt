@@ -1,0 +1,198 @@
+EXHIBIT 10.50
+
+Time Warner Cable Inc.  
+  
+
+General Terms and Conditions
+
+WHEREAS, Time Warner Cable Inc. (the “Company”) has adopted the Plan (as defined below), the terms of which are hereby incorporated by reference and made a part of this Non-Qualified Stock Option Agreement (the “Agreement”); and 
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its stockholders to grant the Option provided for herein to the Participant (as defined below) pursuant to the Plan and the terms set forth herein. 
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows: 
+
+1\. Definitions. Whenever the following terms are used in this Agreement, they shall have the meanings set forth below. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan. 
+
+(a) “Cause” means “Cause” as defined in an employment, consulting, advisory or similar agreement between the Company or any of its Affiliates and the Participant or, if not defined therein or if there is no such agreement, “Cause” means the Participant’s (i) conviction (treating a nolo contendere plea as a conviction) of a felony, whether or not any right to appeal has been or may be exercised, other than as a result of a moving violation or a Limited Vicarious Liability (as defined below), (ii) willful failure or refusal without proper cause to perform such Participant’s material duties with the Company (other than any such failure resulting from the Participant’s total or partial incapacity due to physical or mental impairment), (iii) willful misappropriation, embezzlement, fraud or any reckless or willful destruction of Company property having a significant adverse financial effect on the Company or a significant adverse effect on the Company’s reputation, (iv) willful and material breach of any statutory or common law duty of loyalty to the Company having a significant adverse financial effect on the Company or a significant adverse effect on the Company’s reputation, (v) material and willful breach of any restrictive covenants to which Participant is subject, including non-competition, non-solicitation, non-disparagement or confidentiality provisions, or (vi) willful violation of any material Company policy, including the Company’s Standards of Business Conduct having a significant adverse financial effect on the Company or a significant adverse effect on the Company’s reputation. The determination by the Company as to the existence of “Cause” will be conclusive on the Participant. 
+
+(b) “Disability” means “Disability” as defined in an employment, consulting, advisory or similar agreement between the Company or any of its Affiliates and the Participant or, if not defined therein or if there shall be no such agreement, “disability” of the Participant shall have the meaning ascribed to such term in the Company’s long-term disability plan or policy, as in effect from time to time, to the extent that either such definition also 
+
+* * *
+
+##### 
+
+constitutes such Participant being considered “disabled” under Section 409A(a)(2)(C) of the Internal Revenue Code (“Code”). 
+
+(c) “Expiration Date” means the expiration date set forth on the Notice (as defined below). 
+
+(d) “Good Reason” means, following a Change in Control, the failure of the Company to pay or cause to be paid the Participant’s base salary or annual bonus when due; provided that, these events will constitute Good Reason only if the Company fails to cure such event within thirty (30) days after receipt from the Participant of written notice of the event which constitutes Good Reason; provided further that, “Good Reason” will cease to exist for an event on the sixtieth (60th) day following the later of its occurrence or the Participant’s knowledge thereof, unless the Participant has given the Company written notice of his or her termination of employment for Good Reason prior to such date. 
+
+(e) “Limited Vicarious Liability” means any liability which is based on acts of the Company for which the Participant is responsible solely as a result of Participant’s office(s) with the Company; provided that (i) the Participant is not directly involved in such acts and either had no prior knowledge of such actions or, upon obtaining such knowledge, promptly acted reasonably and in good faith to attempt to prevent the acts causing such liability or (ii) after consulting with the Company’s counsel, the Participant reasonably believed that no law was being violated by such acts. 
+
+(f) “Notice” means the Notice of Grant of Stock Options, which has been provided to the Participant separately and which accompanies and forms a part of this Agreement. 
+
+(g) “Participant” means an individual to whom Options as set forth in the Notice have been awarded pursuant to the Plan and shall have the same meaning as may be assigned to the terms “Holder” or “Participant” in the Plan. 
+
+(h) “Performance” means the Participant’s failure to meet performance expectations, as determined in the Company’s sole discretion, and consistent with any performance determination under the TWC Severance Pay Plan, if applicable. 
+
+(i) “Plan” means the Time Warner Cable Inc. 2006 Stock Incentive Plan, as such plan may be amended, supplemented or modified from time to time. 
+
+(j) “Retirement” means a voluntary termination of Employment by the Participant following the attainment of (i) age 60 with ten (10) or more years of Service or (ii) age 65 with five (5) or more years of Service; provided that, the terms of any employment, consulting, advisory or similar agreement entered into by the Participant and the Company or an Affiliate that provides a definition of “Retirement” relating specifically to the vesting of outstanding equity awards granted under the Plan shall supersede this definition. 
+
+(k) “Service” means the period of time a Participant is engaged as an employee or director (i) with the Company, (ii) with any Affiliate, or (iii) in respect to any period of time prior to March 12, 2009 with Time Warner Inc. or any affiliate thereof (“TWX”); 
+
+2
+
+* * *
+
+##### 
+
+provided that, if the Participant became an employee or director of the Company or any Affiliate on or after March 12, 2009, any period of time Participant was engaged by TWX shall not be counted for this definition. 
+
+(l) “Vested Portion” means, at any time, the portion of an Option which has become vested, as described in Section 3 of this Agreement. 
+
+2\. Grant of Option. The Company hereby grants to the Participant the right and option (the “Option”) to purchase, on the terms and conditions hereinafter set forth, the number of Shares set forth on the Notice, subject to adjustment as set forth in the Plan. The purchase price of the Shares subject to the Option (the “Option Price“) shall be as set forth on the Notice. The Option is intended to be a non-qualified stock option, and as such is not intended to be treated as an option that complies with Section 422 of the Code. 
+
+3\. Vesting of the Option. 
+
+(a) In General. Subject to (i) the terms of any employment, consulting, advisory or similar agreement entered into by the Participant and the Company or an Affiliate that provides for treatment of Options that is more favorable to the Participant and (ii) Sections 3(b) and 3(c), the Option shall vest and become exercisable at such times as are set forth in the Notice. 
+
+(b) Termination of Employment. Subject to Section 3(a)(i), if the Participant’s Employment with the Company and its Affiliate terminates for any reason (including, unless otherwise determined by the Committee, a Participant’s change in status from an employee to a non-employee (other than director of the Company or any Affiliate)), except as provided for in Section 3(c) below, the Option, to the extent not then vested, shall be immediately canceled by the Company without consideration; provided, however, that if the Participant’s Employment terminates due to death, Disability or Retirement, the unvested portion of the Option, to the extent not previously canceled or forfeited, shall immediately become vested and exercisable. The Vested Portion of the Option shall remain exercisable for the period set forth in Section 4(a) of this Agreement. 
+
+(c) Termination of Employment Upon Change in Control. Subject to Section 3(a)(i), if the Participant’s Employment with the Company or its Affiliate is terminated by the Company or its Affiliates without Cause, or by the Participant for Good Reason, or by the Company or its Affiliates for Cause pursuant to Sections 1(a)(ii) or 1(a)(vi), within 12 months after a Change in Control, the unvested portion of the Option, to the extent not previously canceled or forfeited, shall immediately become vested and exercisable upon the termination of the Participant’s Employment. The Vested Portion of the Option shall remain exercisable for the period set forth in Section 4(a) of this Agreement. 
+
+(d) Leave of Absence. For purposes of this Section 3 and this Agreement only, a temporary leave of absence shall not constitute a termination of Employment or a failure to be continuously employed by the Company or any Affiliate regardless of the Participant’s payroll status during such leave of absence if such leave of absence is approved in writing by the Company or any Affiliate subject to the other terms and conditions of the 
+
+3
+
+* * *
+
+##### 
+
+Agreement and the Plan. Notice of any such approved leave of absence should be sent to the Company, but such notice shall not be required for the leave of absence to be considered approved. 
+
+4\. Exercise of Option. 
+
+(a) Period of Exercise. The Participant may exercise all or any part of the Vested Portion of the Option at any time prior to the Expiration Date. Notwithstanding the foregoing, and subject to the provisions of the Plan and this Agreement, and the terms of any employment, consulting, advisory or similar agreement entered into by the Participant and the Company or an Affiliate that provides for treatment of Options that is more favorable to the Participant than clauses (i) — (vii) of this Section 4(a), if the Participant’s Employment terminates prior to the Expiration Date, the Vested Portion of the Option shall remain exercisable for the period set forth below. If the last day on which the Option may be exercised, whether the Expiration Date or due to a termination of the Optionee’s Employment prior to the Expiration Date, is a Saturday, Sunday or other day that is not a trading day on the New York Stock Exchange (the “NYSE”) or, if the Company’s Shares are not then listed on the NYSE, such other stock exchange or trading system that is the primary exchange on which the Company’s Shares are then traded, then the last day on which the Option may be exercised shall be the preceding trading day on the NYSE or such other stock exchange or trading system. 
+
+i. Death or Disability. If the Participant’s Employment with the Company or its Affiliates terminates due to the Participant’s death or Disability, the Participant (or his or her representative) may exercise the Vested Portion of the Option for a period ending on the earlier of (A) twelve (12) months following the date of such Employment termination and (B) the Expiration Date; 
+
+ii. Retirement. If the Participant’s Employment with the Company or its Affiliates terminates due to the Participant’s Retirement, the Participant may exercise the Vested Portion of the Option for a period ending on the earlier of (A) sixty (60) months following the date of such termination and (B) the Expiration Date; provided, that, if the Company or its Affiliates has given the Participant notice that the Participant’s Employment is being terminated for Cause prior to the Participant’s election to terminate due to the Participant’s Retirement, then the provisions of Section 4(a)(v) shall control, provided further that, if the Company or its Affiliates has given the Participant notice that the Participant’s Employment is being terminated for Performance prior to the Participant’s election to terminate due to the Participant’s Retirement, then the provisions of Section 4(a)(iii) shall control; 
+
+iii. Involuntary Termination for Performance; Voluntary Termination. Subject to the provision of Section 4(a)(vi), if the Participant’s Employment with the Company or its Affiliates is terminated by the Company or its Affiliates without Cause for Performance, or the Participant voluntarily terminates Employment at any time, the Participant may exercise the Vested Portion of the Option for a period ending on the earlier of (A) three months following the date of such Employment termination and (B) the Expiration Date; provided that, if the Company or its Affiliates has given the Participant notice that the Participant’s Employment is being terminated for Cause prior to the Participant’s election to voluntarily terminate Employment, then the provisions of Section 4(a)(v) shall control; 
+
+4
+
+* * *
+
+##### 
+
+iv. Involuntary Termination other than for Cause or for Performance. Subject to the provision of Section 4(a)(vi), if the Participant’s Employment with the Company or its Affiliates is terminated by the Company for any reason other than by the Company or its Affiliates for Cause, Performance, or due to the Participant’s death or Disability, the Participant may exercise the Vested Portion of the Option for a period ending on the earlier of (A) twelve (12) months following the date of such Employment termination and (B) the Expiration Date, provided that, if such Employment termination occurs at a time when the Participant is eligible for Retirement, then the provisions of Section 4(a)(ii) shall control; 
+
+v. Involuntary Termination by the Company for Cause. If the Participant’s Employment with the Company or its Affiliates is terminated by the Company or its Affiliates for Cause pursuant to Sections 1(a)(ii) or 1(a)(vi), the Participant may exercise the Vested Portion of the Option for a period ending on the earlier of (A) one month following the date of such termination and (B) the Expiration Date. If the Participant is terminated by the Company or its Affiliates for Cause pursuant Sections 1(a)(i), 1(a)(iii), 1(a)(iv) or 1(a)(v), the Vested Portion of the Option shall immediately terminate in full and cease to be exercisable; 
+
+vi. After a Change in Control. If the Participant’s Employment with the Company or its Affiliate is terminated by the Company or its Affiliates without Cause (whether or not due to Participant’s Performance) or by the Participant for Good Reason, or by the Company or its Affiliates for Cause pursuant to Sections 1(a)(ii) or 1(a)(vi), within 12 months after a Change in Control, the Participant may exercise the Option for a period ending on the earlier of (A) 12 months following the date of such termination and (B) the Expiration Date, provided that, if such Employment termination occurs at a time when the Participant is eligible for Retirement, then the provisions of Section 4(a)(ii) shall control; and 
+
+vii. Disposition of Affiliate. If the Affiliate with which the Participant has a service relationship ceases to be an Affiliate due to a transfer, sale or other disposition (“Disposition”) by the Company or an Affiliate, the Option, to the extent not then vested, shall be immediately canceled by the Company without consideration and the Participant may exercise the Vested Portion of the Option for a period ending on the earlier of (A) twelve (12) months following the date of such Disposition and (B) the Expiration Date, provided that, if the Disposition occurs at a time when the Participant is eligible for Retirement, then the provisions of Section 4(a)(ii) shall control. 
+
+(b) Method of Exercise. 
+
+i. Subject to Section 4(a) of this Agreement, the Vested Portion of an Option may be exercised by delivering to the Company at its principal office written notice of intent to so exercise; provided that the Option may be exercised with respect to whole Shares only. Such notice shall specify the number of Shares for which the Option is being exercised, shall be signed (whether or not in electronic form) by the person exercising the Option and shall make provision for the payment of the Option Price. Payment of the aggregate Option Price shall be paid to the Company, at the election of the Committee, pursuant to one or more of the following methods: (A) in cash, or its equivalent; (B) by transferring Shares having a Fair Market Value equal to the aggregate Option Price for the Shares being purchased to the Company and satisfying such other requirements as may be imposed by the Committee; provided
+
+5
+
+* * *
+
+##### 
+
+that, such Shares have been held by the Participant for any period as established from time to time by the Committee to comply with applicable law and to ensure favorable treatment under generally accepted accounting principles; (C) partly in cash and partly in Shares; provided that such Shares have been held by the Participant for any period as established from time to time by the Committee to comply with applicable law and to ensure favorable treatment under generally accepted accounting principles; (D) if there is a public market for the Shares at such time, subject to such rules as may be established by the Committee, through delivery of irrevocable instructions to a broker to sell the Shares otherwise deliverable upon the exercise of the Option and to deliver promptly to the Company an amount equal to the aggregate Option Price, or (E) upon the Participant’s request, subject to approval by the Company in its sole discretion and in compliance with any applicable law, by means of a net exercise in which the Participant surrenders Option Shares to the Company with a Fair Market Value equal to the Option Price. No Participant shall have any rights to dividends or other rights of a stockholder with respect to the Shares subject to the Option until the issuance of the Shares. 
+
+ii. Notwithstanding any other provision of the Plan or this Agreement to the contrary, absent an available exemption to registration or qualification, the Option may not be exercised prior to the completion of any registration or qualification of the Option or the Shares under applicable state and federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange that the Committee shall in its sole reasonable discretion determine to be necessary or advisable. 
+
+iii. Upon the Company’s determination that the Option has been validly exercised as to any of the Shares, the Company shall issue certificates, or such other evidence of ownership as requested by the Participant, in the Participant’s name for such Shares. However, the Company shall not be liable to the Participant for damages relating to any delays in issuing the certificates to the Participant, any loss by the Participant of the certificates, or any mistakes or errors in the issuance of the certificates or in the certificates themselves. 
+
+iv. In the event of the Participant’s death, the Vested Portion of an Option shall remain vested and exercisable by the Participant’s executor or administrator, or the person or persons to whom the Participant’s rights under this Agreement shall pass by will or by the laws of descent and distribution as the case may be, to the extent set forth in Section 4(a) of this Agreement. Any heir or legatee of the Participant shall take rights herein granted subject to the terms and conditions hereof. 
+
+5\. Right of Company to Terminate Employment. Nothing contained in the Plan or this Agreement shall confer on any Participant any right to continue in the employ of the Company or any of its Affiliates, and the Company and any such Affiliate shall have the right to terminate the Employment of the Participant at any such time, with or without notice, for any lawful reason or no reason, notwithstanding the fact that some or all of the Options covered by this Agreement may be forfeited as a result of such termination of employment. The granting of the Option under this Agreement shall not confer on the Participant any right to any future Awards under the Plan. 
+
+6
+
+* * *
+
+##### 
+
+6\. Option Repayment Obligation. 
+
+(a) In the event of the termination of the Participant’s Employment for Cause as a result of a Cause event specified in Sections 1(a)(i), 1(a)(iii), 1(a)(iv), or 1(a)(v) above (each a “Covered Cause Event”), any Options exercised by the Participant within the three year period prior to the occurrence of the Covered Cause Event (the “Forfeiture Period”), shall be subject to repayment to the Company in an amount equal to the total amount of Award Gain (as defined below) realized by the Participant upon each exercise of Options during the Forfeiture Period. 
+
+(b) In the event the Participant’s Employment is terminated for any reason other than Cause, and it is determined by the Company within twelve (12) months of such termination of Employment that the Participant engaged in acts or omissions during the Participant’s three prior years of Employment that would have resulted in Participant’s termination by the Company for a Covered Cause Event, any Options exercised by the Participant in the three year period prior to the Participant’s Employment termination and the post-termination exercise period, shall be subject to repayment to the Company in an amount equal to the total amount of Award Gain realized by the Participant upon each exercise of such Options and any unexercised Options held by the Participant shall be immediately forfeited. 
+
+(c) “Award Gain” shall mean the product of (i) the Fair Market Value per share of stock at the date of such Option exercise (without regard to any subsequent change in the market price of such share of stock) minus the exercise price times (ii) the number of shares as to which the Options were exercised at that date. 
+
+(d) Repayments pursuant to Sections 6(a) or 6(b) shall be made by certified check within sixty (60) days after written demand is made therefor by the Company. Notwithstanding the foregoing, the Participant may satisfy the repayment obligations with respect to amounts owed pursuant to Section 6 by returning to the Company the Shares acquired upon exercise of such Options, provided that the Participant demonstrates to the Company’s satisfaction that such Shares were continuously owned by the Participant since the date of exercise. 
+
+(e) Notwithstanding any of the foregoing, the Company’s Board of Directors (the “Board”) or committee to whom the Board has delegated such matters shall retain sole discretion regarding whether to seek the remedies set forth in Sections 6(a) and 6(b). The repayment obligations of Section 6 shall not apply unless the Company gives the Participant written notice of the Company’s exercise of its rights under Section 6 within ninety (90) days of a senior officer of the Company becoming aware of the conduct giving rise to the Covered Cause Event; and if the Company fails to do so such conduct shall no longer provide a basis for any repayment obligation pursuant to this Section 6. 
+
+(f) If the terms of any employment, consulting, advisory or similar agreement entered into by the Participant and the Company or any Affiliate provides for compensation forfeiture provisions triggered by a “Covered Cause Event” (as defined in the employment or similar agreement), then such provisions shall supersede the provisions of this Section 6 during the term of the employment or similar agreement. 
+
+7
+
+* * *
+
+##### 
+
+7\. IRC §§ 280G and 4999. Notwithstanding anything to the contrary contained in this Agreement, to the extent that the vesting of any Option granted to the Participant pursuant to this Agreement (a) constitutes a “parachute payment” within the meaning of Section 280G of the Code and (b) but for this Section 7, would be subject to the excise tax imposed by Section 4999 of the Code, then such Options shall vest either (i) in full or (ii) in such lesser amount which would result in no portion of such Option being subject to excise tax under Section 4999 of the Code; whichever of the foregoing amounts, taking into account the applicable federal, state and local income or excise taxes (including the excise tax imposed by Section 4999), results in the Participant’s receipt on an after-tax basis, of the greatest amount of total compensation, notwithstanding that all or some portion of the Options may be taxable under Section 4999 of the Code. 
+
+(a) Calculation. Any calculation required under this Section shall be made in writing by an independent public accountant, or other appropriate internal or external resource, selected by the Company, whose determination shall be conclusive and binding upon the Participant and the Company for all purposes. The Company shall bear the costs of performing the calculations contemplated by this Section, as well as any reasonable legal or accountant expenses, or any additional taxes, that the Participant may incur as a result of any calculation errors made in connection with the Code Section 4999 excise tax determination contemplated by this Section. 
+
+(b) Order of 280G Option Vesting Reduction. Unless provided otherwise in the Participant’s employment agreement with the Company, the reduction of Option vesting, if applicable, shall be effected in the following order, but only to the extent that each item listed provides for a reduction to minimize Section 280G consequences: (i) any cash parachute payments, (ii) any health and welfare or similar benefits valued as parachute payments, (iii) acceleration of vesting of any stock options for which the exercise price exceeds the then fair market value of the underlying stock, in order of the option tranches with the largest Section 280G parachute payment value, (iv) acceleration of vesting of any equity award that is not a stock option, and (v) acceleration of vesting of any stock options for which the exercise price is less than the fair market value of the underlying stock in such manner as would net the Participant the largest remaining spread value if the options were all exercised as of the Code Section 280G event. 
+
+8\. Legend on Certificates. The certificates representing the Shares purchased by exercise of an Option shall be subject to such stop transfer orders and other restrictions as the Committee may deem reasonably advisable under the Plan or the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed, any applicable federal or state laws and the Company’s Articles of Incorporation and Bylaws, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions. 
+
+9\. Transferability. Unless otherwise determined by the Committee, an Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate. 
+
+8
+
+* * *
+
+##### 
+
+10\. Withholding. The Participant may be required to pay to the Company and, unless the Participant elects to pay the Company separately in cash, the Company shall have the right and is hereby authorized to withhold from any payment due or transfer made under the Option or under the Plan or from any compensation or other amount owing to a Participant the amount (in cash, Shares, other securities, other Awards or other property) of any applicable withholding taxes in respect of the Option, its exercise, or any payment or transfer under the Option or under the Plan and to take such action as may be necessary in the option of the Company to satisfy all obligations for the payment of such taxes. Notwithstanding the foregoing, in the case of net exercise pursuant to Section 4(b)(i), any tax withholding made from the Option Shares shall not be in excess of the minimum amount of tax required to be withheld by law; except as may occur through administrative rounding to the nearest whole share. 
+
+11\. Securities Laws. Upon the acquisition of any Shares pursuant to the exercise of an Option, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement. 
+
+12\. Notices. Any notice which either party hereto may be required or permitted to give the other shall be in writing and may be delivered personally or by mail, postage prepaid, addressed to Time Warner Cable Inc., at 7910 Crescent Executive Drive, Charlotte, NC 28217, attention Manager, Executive Compensation, and to the Participant at his or her address, as it is shown on the records of the Company or its Affiliate, or in either case to such other address as the Company or the Participant, as the case may be, by notice to the other may designate in writing from time to time. Any such notice shall be deemed effective upon receipt thereof by the addressee. 
+
+13\. Personal Data. The Company and its Affiliates may hold, collect, use, process and transfer, in electronic or other form, certain personal information about the Participant for the exclusive purpose of implementing, administering and managing the Participant’s participation in the Plan. Participant understands that the following personal information is required for the above named purposes: his/her name, home address and telephone number, office address (including department and employing entity) and telephone number, e-mail address, citizenship, country of residence at the time of grant, work location country, system employee ID, employee local ID, employment status (including international status code), supervisor (if applicable), job code, title, salary, bonus target and bonuses paid (if applicable), termination date and reason, tax payer’s identification number, tax equalization code, US Green Card holder status, contract type (single/dual/multi), any shares of stock or directorships held in the Company, details of all stock option grants (including number of grants, grant dates, exercise price, vesting type, vesting dates, expiration dates, and any other information regarding options that have been granted, canceled, vested, unvested, exercisable, exercised or outstanding) with respect to the Participant, estimated tax withholding rate, brokerage account number (if applicable), and brokerage fees (the “Data”). Participant understands that Data may be collected from the Participant directly or, on Company’s request, from any Affiliate. Participant understands that Data may be transferred to third parties assisting the Company in the implementation, administration and management of the Plan, including the brokers approved by the Company, the broker selected by the Participant from among such Company-approved brokers (if applicable), tax consultants and the Company’s software providers (the “Data 
+
+9
+
+* * *
+
+##### 
+
+Recipients”). Participant understands that some of these Data Recipients may be located outside the Participant’s country of residence, and that the Data Recipient’s country may have different data privacy laws and protections than the Participant’s country of residence. Participant understands that the Data Recipients will receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Participant’s participation in the Plan, including any requisite transfer of such Data as may be required for the administration of the Plan and/or the subsequent holding of shares of common stock on the Participant’s behalf by a broker or other third party with whom the Participant may elect to deposit any shares of common stock acquired pursuant to the Plan. Participant understands that Data will be held only as long as necessary to implement, administer and manage the Participant’s participation in the Plan. Participant understands that Data may also be made available to public authorities as required by law, e.g., to the U.S. government. Participant understands that the Participant may, at any time, review Data and may provide updated Data or corrections to the Data by written notice to the Company. Except to the extent the collection, use, processing or transfer of Data is required by law, Participant may object to the collection, use, processing or transfer of Data by contacting the Company in writing. Participant understands that such objection may affect his/her ability to participate in the Plan. Participant understands that he/she may contact the Company’s Stock Plan Administration to obtain more information on the consequences of such objection. 
+
+14\. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to conflicts of laws, and any and all disputes between the Participant and the Company relating to the Option shall be brought only in a state or federal court of competent jurisdiction sitting in Manhattan, New York, and the Participant and the Company hereby irrevocably submit to the jurisdiction of any such court and irrevocably agree that venue for any such action shall be only in any such court. 
+
+15\. Modifications And Amendments. The terms and provisions of this Agreement and the Notice may be modified or amended as provided in the Plan. 
+
+16\. Waivers And Consents. Except as provided in the Plan, the terms and provisions of this Agreement and the Notice may be waived, or consent for the departure therefrom granted, only by a written document executed by the party entitled to the benefits of such terms or provisions. No such waiver or consent shall be deemed to be or shall constitute a waiver or consent with respect to any other terms or provisions of this Agreement or the Notice, whether or not similar. Each such waiver or consent shall be effective only in the specific instance and for the purpose for which it was given, and shall not constitute a continuing waiver or consent. 
+
+17\. Reformation; Severability. If any provision of this Agreement or the Notice (including any provision of the Plan that is incorporated herein by reference) shall hereafter be held to be invalid, unenforceable or illegal, in whole or in part, in any jurisdiction under any circumstances for any reason, (i) such provision shall be reformed to the minimum extent necessary to cause such provision to be valid, enforceable and legal while preserving the intent of the parties as expressed in, and the benefits of the parties provided by, this Agreement, the Notice and the Plan or (ii) if such provision cannot be so reformed, such provision shall be severed from this Agreement or the Notice and an equitable adjustment shall be made to this 
+
+10
+
+* * *
+
+##### 
+
+Agreement or the Notice (including, without limitation, addition of necessary further provisions) so as to give effect to the intent as so expressed and the benefits so provided. Such holding shall not affect or impair the validity, enforceability or legality of such provision in any other jurisdiction or under any other circumstances. Neither such holding nor such reformation nor severance shall affect the legality, validity or enforceability of any other provision of this Agreement, the Notice or the Plan. 
+
+18\. Entry into Force. By entering into this Agreement, the Participant agrees and acknowledges that (i) the Participant has received and read a copy of the Plan and (ii) the Option is granted pursuant to the Plan and is therefore subject to all of the terms of the Plan. 
+
+19\. Changes in Capitalization and Other Regulations. The Option shall be subject to all of the terms and provisions as provided in this Agreement and in the Plan, which are incorporated by reference herein and made a part hereof, including, without limitation, the provisions of Section 10 of the Plan (generally relating to adjustments to the number of Shares subject to the Option, upon certain changes in capitalization and certain reorganizations and other transactions). 
+
+20\. Entire Agreement. Except as specifically stated herein, this Agreement, together with the Notice and the Plan, embodies the entire agreement and understanding between the parties hereto with respect to the subject matter hereof and supersedes all prior oral or written agreements and understandings relating to the subject matter hereof. No statement, representation, warranty, covenant or agreement not expressly set forth in this Agreement or the Notice shall affect or be used to interpret, change or restrict, the express terms and provisions of this Agreement or the Notice; provided that, this Agreement and the Notice shall be subject to and governed by the Plan, and in the event of any inconsistency between the provisions of this Agreement or the Notice and the provisions of the Plan, the provisions of the Plan shall govern. 
+
+11

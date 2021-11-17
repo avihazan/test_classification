@@ -1,0 +1,632 @@
+  
+
+
+  
+
+
+Exhibit 10.3
+
+  
+
+
+  
+
+
+TOTAL SHAREHOLDER RETURN
+
+
+
+  
+
+
+This Total Shareholder Return Award Agreement (the “Agreement”) is effective as of January 1, 2014 by and between ALLEGHENY TECHNOLOGIES INCORPORATED, a Delaware corporation (the “Company”) and «NAME» (the “Employee”).
+
+  
+
+
+WHEREAS, the Company has adopted the Allegheny Technologies Incorporated 2007 Incentive Plan (the "Plan") and, in accordance with the Plan, has adopted Administrative Rules for the Long Term Performance Plan (“LTPP”);
+
+  
+
+
+WHEREAS, the Administrative Rules for the LTPP allow for the grant of opportunities to earn shares of Common Stock based on the Company’s relative Total Shareholder Return ("TSR”) to (i) assist the Company retain and motivate key management employees; (ii) reward key management employees for the overall success of the Company; and (iii) provide a means of encouraging key management employees to acquire shares of Company Common Stock.
+
+  
+
+
+WHEREAS, the LTPP provides that each award made under the LTPP to be measured by relative TSR (a “TSR Target Award”) shall be evidenced by an Award Agreement (each a “TSR Award Agreement”) between the Company and the key management employee who receives a TSR Target Award under the LTPP setting forth the terms and conditions of such TSR Target Award;
+
+  
+
+
+WHEREAS, the Company desires to make a TSR Target Award to the Participant and evidence such TSR Target Award by this TSR Award Agreement and the Participant, having read and understood the Plan and the LTPP, is willing to enter into this TSR Award Agreement on the terms and conditions set forth herein.
+
+  
+
+
+NOW THEREFORE, in consideration of the covenants and agreements herein contained and intending to be legally bound, the parties hereto agree with each other as follows:
+
+  
+
+
+Subject to the attainment of the Performance Levels described below and to the terms and conditions of the Plan, the LTPP Administrative Rules and the Terms and Conditions of Award attached hereto and incorporated herein by reference, by which Participant agrees to be bound, the Company awards to Participant the TSR Award described below, with respect to the Performance Period described below:
+
+  
+
+
+PERFORMANCE PERIOD: January 1, 2014 through December 31, 2016.
+
+  
+
+
+TSR TARGET AWARD: «TSR_SHARES» of Company Common Stock, equals applicable base salary times «TSR_Award_Percent» (which is the Participant’s target award opportunity as a percent of salary) divided by <> (which is the average of the high and low trading prices of stock for the 30 trading days prior to January 1, 2014).
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+PERFORMANCE LEVELS: The following table shows the performance award relationship under the TSR Award Agreements for the 2014-2016 performance period:  
+  
+Outcome Relative to Peer Group TSR  
+  
+Level of Performance
+
+Three-Year Percentile 
+
+Ranking in TSR
+
+Percent of Target 
+
+Award Earned  
+  
+Below Threshold
+
+Below 35th percentile
+
+0%  
+  
+Threshold
+
+35th percentile
+
+50%  
+  
+Target
+
+50th percentile
+
+100%  
+  
+Outstanding
+
+90th percentile
+
+200%  
+  
+  
+  
+  
+Note: Interpolation between points will be made on a straight line basis on each scale. Below the 35th percentile and above the 90th percentile, there will be no extrapolation.  
+  
+  
+
+
+THE NUMBER OF SHARES DELIVERED UNDER THIS TSR AWARD AGREEMENT WILL EQUAL THE TSR TARGET AWARD TIMES THE APPLICABLE PERCENT OF ACTUAL ACHIEVEMENT OF THE TSR PERFORMANCE LEVEL. NO AWARD SHALL BE DELIVERED UNLESS THE EMPLOYEE HAS FULLY COMPLIED WITH ALL CORPORATION POLICIES, INCLUDING, BUT NOT LIMITED TO, THE COMPANY’S CORPORATE GUIDELINES FOR BUSINESS CONDUCT AND ETHICS AND THE CLAWBACK POLICIES AND AGREEMENTS. 
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Total Shareholder Return Incentive Compensation Program Award Agreement effective the day and year first above written.
+
+  
+
+
+ALLEGHENY TECHNOLOGIES INCORPORATED
+
+  
+
+
+  
+
+
+By: /s/ Elliot S. Davis
+
+Name: Elliot S. Davis
+
+Title: Senior Vice President, General Counsel, 
+
+Chief Compliance Officer 
+
+and Corporate Secretary
+
+  
+
+
+  
+  
+  
+PARTICIPANT
+
+WITNESS  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+2
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+TERMS AND CONDITIONS OF TSR AWARD
+
+  
+
+
+Section 1: Definitions
+
+  
+
+
+Capitalized words used but not defined below or elsewhere in these Terms and Conditions shall have the meanings ascribed to them in the Plan.
+
+  
+
+
+"Administrative Rules" or “LTPP” shall mean the Administrative Rules for the LTPP adopted by the Committee effective January 1, 2014, as the same may be amended from time to time.
+
+  
+
+
+"Award" or “TSR Award” shall mean the grant of a TSR Target Award evidenced by this Award Agreement.
+
+  
+
+
+“Award Agreement” or “TSR Award Agreement” shall mean this agreement evidencing this grant under the LTPP Administrative Rules and the Plan of opportunities measured by TSR.
+
+  
+
+
+“Committee” means the Personnel and Compensation Committee of the Board of Directors.
+
+  
+
+
+“Common Stock” shall mean the common stock, $0.10 par value per share, of Allegheny Technologies Incorporated.
+
+  
+
+
+“Company” shall mean Allegheny Technologies Incorporated and its subsidiaries, unless the context requires otherwise.
+
+  
+
+
+“Disability” shall mean the total and permanent disability of Participant as determined by the Committee in its sole discretion.
+
+  
+
+
+“Outstanding” shall mean a relative standing of the Company’s TSR as against the TSR for the Peer Group, in each case for the TSR Performance Period, equal to or greater than 90%.
+
+  
+
+
+“Performance Period” or “TSR Performance Period” shall mean for this Award Agreement, the calendar years 2014, 2015 and 2016. 
+
+  
+
+
+“Proof of Ownership” shall mean a certificate or certificates, electronic or book entry evidencing the number of shares of Common Stock determined by the Committee as the Participant’s TSR Rewards for the Performance Period.
+
+  
+
+
+“Peer Group” shall mean the corporations listed on Exhibit 1 to this Award Agreement, subject to the adjustments to such group as permitted under the Administrative Rules.
+
+  
+
+
+“Retirement” means a termination of employment with the Company and each of its subsidiaries, with the consent of the Company, at or after (i) attaining age 55 and (ii) completing five years of employment with the Company and/or any subsidiary of the Company.
+
+  
+
+
+“Target” shall mean a relative standing of the Company’s TSR as against the TSR of the Peer Group, in each case for the TSR Performance Period, of equal to or greater than 50% but less than 90%.
+
+  
+
+
+“Threshold” shall mean a relative standing of the Company’s TSR as against the TSR of the Peer Group, in each case for the TSR Performance Period, of equal to or greater than 35% but less than 50%.
+
+  
+
+
+  
+
+
+3
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+“TSR Performance Level” means the measure of Company TSR performance relative to the Peer Group, as set forth on page 2 of this Award Agreement. In determining the final Performance Level, the Committee shall use straight-line interpolation between Threshold and Target, and between Target and Outstanding. No TSR Reward will be earned for a Performance Level less than Threshold. No additional TSR Reward above Outstanding will be earned for a Performance Level greater than Outstanding.
+
+  
+
+
+“TSR Target Award” means this grant of an opportunity to earn the number of TSR Shares at the Target Performance Level for the 2014-2016 Performance Period, but subject to actual achievement of the Performance Level. 
+
+  
+
+
+Section 2: TSR Award
+
+  
+
+
+2.1 Subject to the attainment of the TSR Performance Levels and to the terms and conditions otherwise set forth in the Plan, the LTPP Administrative Rules and this Award Agreement, the Company awards to Participant the TSR Award described in the first two pages of this Award Agreement with respect to the Performance Period described therein.
+
+  
+
+
+Section 3: Delivery of TSR Rewards
+
+  
+
+
+3.1 Subject to the withholding obligations and any requirements of Section 4 then applicable, the Company shall deliver to the Participant Proof of Ownership representing the TSR Rewards, if any, for the TSR Performance Period within 75 days after the end of the TSR Performance Period.
+
+  
+
+
+3.2 If the Participant terminates employment with the Company and each subsidiary of the Company during a then uncompleted TSR Performance Period for reasons other than death, Disability or Retirement, any TSR Target Award for any then uncompleted TSR Performance Period shall be forfeited automatically and the shares represented by such TSR Target Awards shall again be eligible for awards under the Rules.
+
+  
+
+
+3.3  If the Participant terminates employment with the Company and each Subsidiary of the Company during a then uncompleted TSR Performance Period due to the Participant’s death, Disability, or Retirement, a pro rata award determined by multiplying the number of TSR Shares set out in the Award Agreement by the Performance Level for the TSR Performance Period and then multiplying the result by a fraction, the numerator of which is the number of months the Participant was employed by the Company during the Performance Period and the denominator is 36. Any award determined to be payable shall be paid after the end of the applicable Performance Period.
+
+  
+
+
+Section 4: Miscellaneous
+
+  
+
+
+4.1 General Restriction. To the extent any TSR Target Award is denominated in Common Stock under this Award Agreement, it shall be subject to the requirement that if at any time the Committee shall determine that any listing or registration of the shares of Common Stock or any consent or approval of any governmental body or any other agreement or consent is necessary or desirable as a condition of the issuance of shares of Common Stock or cash in satisfaction thereof, such issuance of shares of Common Stock may not be consummated unless such requirement is satisfied in a manner acceptable to the Committee. The Company shall in no event be obligated to register any securities pursuant to the Securities Act of 1933 (as the same shall be in effect from time to time) or to take any other affirmative action to cause the issuance of shares pursuant to the distribution of TSR Rewards to comply with any law or regulation of any governmental authority.
+
+  
+
+
+4
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+4.2 Non-Assignability. No TSR Target Award granted under this Award Agreement shall be assignable or transferable by the Participant, except by will or by the laws of descent and distribution. During the life of the Participant, any TSR Rewards shall be payable only to the Participant. No assignment or transfer of a TSR Target Award or of the rights represented thereby, whether voluntary or involuntary, by operation of law or otherwise (except by will or the laws of descent and distribution), shall vest in the assignee or transferee any interest or right herein whatsoever, and immediately upon such purported assignment or transfer, the TSR Target Awards shall terminate and become of no further effect.
+
+  
+
+
+4.3 Withholding Obligations. Whenever the Company makes delivery under the Plan, in whole or in part, the Company shall notify the Participant of the amount of withholding for tax, if any, which must be paid under federal and, where applicable, state and local law. The Company shall, in the discretion of the Company, but with the consent of the Committee, arrange for payment for such withholding for taxes in any one or combination of the following ways: (i) acceptance of an amount in cash paid by the Participant; or (ii) reduction in the number of shares to be issued by that number of shares which, in aggregate, have a value equal to such withholding amount. If the full amount of the required withholding is not recovered in the above manner, the Participant shall, forthwith upon receipt of notice, remit the deficiency to the Company. No shares of Common Stock shall be issued or delivered to the Participant (and/or the Participant's designee) until all applicable withholding obligations shall have been satisfied in full.
+
+  
+
+
+4.4 Delivery of Proof of Ownership. As soon as practicable after compliance by the Participant with all applicable conditions including, but not limited to, the satisfaction of the Withholding Obligations described in Section 4.3 hereof, the Company will issue and deliver by mail or electronic transfer, or cause delivery by mail or electronic transfer, to the Participant at the address of the Company’s records, Proof of Ownership registered in the name of the Participant (and/or the Participant's designee) for the number of shares of Common Stock which the Participant is entitled to receive (subject to reduction for withholding as provided in Section 4.3 hereof) under the provisions of this Award Agreement.
+
+  
+
+
+4.5 No Right to Employment. Nothing in the Plan or in this Award Agreement shall confer upon the Participant the right to continue in the employ of the Company or any subsidiary or affect any right that the Company or a subsidiary may have to terminate the employment of the Participant.
+
+  
+
+
+4.6 Amendment or Termination of the Plan. The Plan, or any part thereof (including the Administrative Rules) may be terminated or may, from time to time, be amended, each in accordance with the Plan or LTPP Administrative Rules, as applicable, provided, however, the termination or amendment of the Plan or the LTPP Administrative Rules shall not, without the consent of the Participant, affect Participant's rights under this Award Agreement.
+
+  
+
+
+4.7 Investment Representation. Under the federal and/or state securities laws, the Participant may be required to deliver, and, if so, shall deliver, to the Committee, upon demand by the Committee, at the time of any payment of Common Stock, a written representation that the shares to be acquired are to be acquired for investment and not for resale or with a view to the distribution thereof. Upon such demand, delivery of such representation prior to delivery of any shares shall be a condition precedent to the right of the Participant to receive any shares.
+
+  
+
+
+4.8 No Rights as Shareholder. The Participant shall have no rights as a stockholder of the Company with respect to shares of Common Stock subject to the Award evidenced this Award Agreement unless and until Proof of Ownership for shares of Common Stock is issued to the Participant.
+
+  
+
+
+5
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+4.9 Adjustment of Award. In the event of any change or changes in the outstanding Common Stock of the Company by reason of any stock dividend, recapitalization, reorganization, merger, consolidation, split-up, combination or exchange of shares or any rights offering to purchase a substantial amount of Common Stock at a price substantially below fair market value or of any similar change affecting the Common Stock, any of which takes effect after the first grant of a TSR Target Award under this Award Agreement, the Committee may, in its discretion, appropriately adjust the number of shares of Common Stock which may be issued under this Award Agreement, the number of shares of Common Stock subject to TSR Target Awards under this Award Agreement and any and all other adjustments deemed appropriate by the Committee to prevent substantial dilution or enlargement of the rights granted to the Participant in such manner as the Committee shall deem appropriate. Any adjustment so made shall be final and binding upon the Participant.
+
+  
+
+
+4.10 Awards Not a Bar to Corporate Event. The existence of the TSR Target Awards granted hereunder shall not affect in any way the right or the power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company's capital structure or its business, or any merger or consolidation of the Company, or any issue of bonds, debentures, preferred or prior preference stocks ahead of or affecting the Common Stock or the rights thereof, or the dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise.
+
+  
+
+
+4.11 Not Income for Qualified Plans. No amounts of income received by a Participant pursuant to this Award Agreement shall be considered compensation for purposes of any pension or retirement plan, insurance plan or any other employee benefit plan of the Company or any of its affiliates.
+
+  
+
+
+4.12 Meaning of Participant. Whenever the word "Participant" is used in any provision of this Award Agreement under circumstances where the provision should logically be construed to apply to the executors, the administrators, or the person or persons to whom the TSR Target Awards may be transferred by will or by the laws of descent and distribution, the word "Participant" shall be deemed to include such person or persons.
+
+  
+
+
+4.13 Determinations of Committee. The actions taken and determinations of the Committee made pursuant to this Award Agreement and of the Committee pursuant to the Plan and the LTPP Administrative Rules shall be final, conclusive and binding upon the Company and upon the Participant. No member of the Committee shall be liable for any action taken or determination made relating to this Award Agreement, the Plan or the LTPP Administrative Rules if made in good faith.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+6
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+Exhibit 1: List of Peer Companies (2014-2016 Performance Period)
+
+  
+
+
+Alcoa Inc.
+
+AK Steel Holding Corp.
+
+Carpenter Technology Corp.
+
+AM Castle & Co.
+
+Commercial Metals Company
+
+Kennametal Inc.
+
+Materion Corporation
+
+Nucor Corporation
+
+Precision Castparts Corp.
+
+Reliance Steel & Aluminum Co.
+
+RTI International Metals, Inc.
+
+Schnitzer Steel Industries, Inc.
+
+Steel Dynamics Inc.
+
+Timken Co.
+
+United States Steel Corporation
+
+Universal Stainless & Alloy Products
+
+Worthington Industries, Inc.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+7
+
+  
+
+
+  
+

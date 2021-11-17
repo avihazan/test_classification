@@ -1,0 +1,132 @@
+Exhibit 10.9 
+
+PEPCO HOLDINGS, INC. 
+
+
+
+(Performance-Based/Non-162(m)) 
+
+THIS RESTRICTED STOCK UNIT AGREEMENT (this “Agreement”) is effective this  day of  , 2014 (the “Date of Grant”), by and between Pepco Holdings, Inc. (the “Company”), and  , an employee of the Company (the “Participant”). 
+
+WHEREAS, the Company has adopted the Pepco Holdings, Inc. 2012 Long-Term Incentive Plan, as it may be amended, amended and restated and/or restated from time to time (the “Plan”). 
+
+WHEREAS, on  , 2014, the Committee granted to the Participant a performance-based Award under the Plan of  Restricted Stock Units (with a maximum award opportunity of  Restricted Stock Units) (the “RSU Award”). 
+
+WHEREAS, the Company desires to enter into an agreement with the Participant on the terms and conditions hereinafter set forth, evidencing the grant to the Participant of the RSU Award approved by the Committee. 
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the Company and the Participant agree as follows: 
+
+1\. Restricted Stock Unit Award. 
+
+(a) The Company hereby grants to the Participant the RSU Award consisting of  Restricted Stock Units (with a maximum award opportunity of  Restricted Stock Units), all as set forth on Schedule A attached hereto. The Restricted Stock Units granted by the RSU Award are notional units of measurement denominated in shares of Stock (i.e., one Restricted Stock Unit is equivalent in value to one share of Stock, subject to the terms hereof). The Restricted Stock Units represent an unfunded, unsecured contractual right.   
+  
+(b) The Restricted Stock Units granted by this RSU Award are subject to the terms and conditions set forth herein, including the performance-based vesting requirements set forth on Schedule A attached hereto, and in the Plan. The performance period shall begin on January 1, 2014 and end on December 31, 2016 (the “Performance Period”), as described in more detail on Schedule A attached hereto. The performance objectives and related business criteria with respect to the Performance Period (collectively, the “Performance Goals”) and other relevant information related to this RSU Award are set forth on Schedule A attached hereto.   
+  
+(c) The restriction period of this RSU Award (the “Restriction Period”) shall be concurrent with the Performance Period.   
+  
+* * *
+
+2\. Vesting. 
+
+(a) The Restricted Stock Units under this RSU Award shall vest only (i) except as provided in Section 3 hereof, to the extent that the Performance Goals are satisfied as provided in Schedule A, and (ii) except as otherwise provided in Sections 2(c), 2(d) or 3 hereof, if the Participant remains continuously employed by the Company or a Subsidiary until the end of the Performance Period. 
+
+(b) Except as otherwise provided by Sections 2(c), 2(d) or 3 hereof, if the employment of the Participant by the Company or any Subsidiary terminates prior to the end of the Restriction Period, this RSU Award shall be immediately forfeited in its entirety. 
+
+(c) Upon (i) the Termination of the Participant’s employment without Cause, or (ii) the Disability or death of the Participant during the Restriction Period and prior to any termination of Participant’s employment with the Company or any Subsidiary, the number of Restricted Stock Units, if any, payable under this RSU Award shall equal the number of Restricted Stock Units that otherwise would be paid, if any, following the Restriction Period (based on the achievement of the Performance Goals as determined under Section 1(b)), multiplied by a fraction, (A) the numerator of which shall be the number of days in the Restriction Period during which the Participant was continuously employed by the Company or a Subsidiary, and (B) the denominator of which shall be (x) if the Participant was employed by the Company or a Subsidiary on the first day of the Restriction Period, the total number of days in the Restriction Period, or (y) in all other cases, the total number of days within the Restriction Period equal to the period of time beginning on the first day of such continuous employment and ending on the last day of the Restriction Period. The remaining portion of this RSU Award that does not vest in accordance with this Section 2(c) shall immediately be forfeited. 
+
+(d) The Committee may, in its sole discretion, provide that, upon the retirement of the Participant (as determined by the Committee in its sole discretion), all or part of the Restricted Stock Units covered by this RSU Award shall be payable under this RSU Award, subject to the satisfaction of the Performance Goals as provided in Schedule A. Any such action by the Committee must be made in writing prior to the effective date of the Participant’s retirement. 
+
+Any portion of this RSU Award as to which the vesting requirements of this Section 2 have been satisfied shall be payable in accordance with Section 5 hereof. 
+
+3\. Accelerated Vesting. Notwithstanding anything in this Agreement to the contrary (but subject to compliance with the provisions of Section 17 hereof), if the Participant is terminated by the Company or a Subsidiary as an employee, or if the Participant terminates such employment for Good Reason, in each case within 12 months following a Change in Control and within the Restriction Period, then without regard to the extent to which the Performance Goals are achieved, a portion of the Restricted Stock Units represented hereby shall vest and be payable in accordance with Section 5 hereof, which portion shall equal such number of Restricted Stock Units multiplied by a fraction, the numerator of which shall be the number of days of the Performance Period that have elapsed as of such Change in Control (or, in the case of a 
+
+-2- 
+
+* * *
+
+termination of employment for Good Reason, as of the date of such termination), and the denominator of which shall be the total number of days in the Performance Period. For purposes of this Section 3, it will have been assumed that all of the performance-based vesting requirements have been achieved at the target, or 100%, level, as provided on Schedule A attached hereto. 
+
+4\. Dividend Equivalents. Dividend Equivalents under the Plan have been granted in conjunction with this RSU Award, such that any dividend paid in cash on shares of Stock will be credited to the Participant as Dividend Equivalents as if the Restricted Stock Units represented hereby were outstanding shares of Stock. Such credit shall be made in the form of additional whole and/or fractional Restricted Stock Units, based on the Fair Market Value of the Stock on the trading day immediately prior to the date of payment of any such dividend. All such additional Restricted Stock Units shall be subject to the same vesting and forfeiture requirements applicable to the Restricted Stock Units in respect of which they were credited and shall be paid in accordance with Section 5 hereof. Notwithstanding anything in this Agreement to the contrary (except Section 3), no dividends credited in the form of Restricted Stock Units shall be paid to the Participant with respect to Restricted Stock Units under this RSU Award if the Performance Goals with respect hereto have not been satisfied. 
+
+5\. Payment of Award. Payment of vested Restricted Stock Units (which shall include Restricted Stock Units credited pursuant to Dividend Equivalents described in Section 4) shall be made within thirty (30) days following (i) the satisfaction of all of the applicable vesting requirements under Section 2 hereof and the determination of the number of Restricted Stock Units, if any, payable under this RSU Award, or (ii) accelerated vesting under Section 3 hereof; provided, however, that the timing of all payments hereunder shall be made in compliance with Section 17. The vested Restricted Stock Units shall be paid in the form of one share of Stock for each Restricted Stock Unit, minus deductions for applicable minimum statutory withholding taxes as set forth in Section 11 of this Agreement. 
+
+6\. Nontransferability of Award. None of the Restricted Stock Units covered hereby (including any Dividend Equivalents described in Section 4) may be assigned or alienated, and shall not be subject to attachment or other legal process except (i) to the extent specifically mandated and directed by applicable state or Federal statute; (ii) as provided in Section 11 this Agreement with respect to withholding of applicable taxes; or (iii) pursuant to a Permitted Transfer. Any attempted disposition of this RSU Award or the Restricted Stock Units (or any interest herein) in violation of this Section 6 shall be null and void. 
+
+7\. Terms and Conditions. The terms and conditions included in the Plan are incorporated herein by reference, and to the extent that any conflict or ambiguity may exist between the terms and conditions included in this Agreement and the terms and conditions included in the Plan, the terms and conditions included in the Plan shall control. By execution of this Agreement, the Participant acknowledges receipt of a copy of the Plan and further agrees to be bound thereby and by the actions of the Committee and/or the Board pursuant to the Plan. 
+
+8\. No Rights as a Stockholder. The Restricted Stock Units granted pursuant to this RSU Award, whether or not vested, will not confer any voting rights or any other rights of a stockholder of the Company upon the Participant, and the Participant will not acquire any voting rights or any other rights of a stockholder of the Company unless and until such Restricted Stock 
+
+-3- 
+
+* * *
+
+Units have vested and shares of Stock underlying such Restricted Stock Units have been issued and delivered to the Participant. The Company shall not be required to issue or transfer any certificates representing shares of Stock upon vesting of the RSU Award until all applicable requirements of any law, rule or regulation have been compiled with, and any required government agency approvals have been obtained. Further, no issue or transfer of such certificates shall occur until such shares of Stock have been duly listed on any securities exchange on which the Stock may then be listed. 
+
+9\. Stock Issuable Upon Vesting. Upon vesting of the RSU Award and payment of Stock pursuant to Section 5 hereof, the Participant shall be provided with the certificate(s) or certificate number(s) evidencing ownership of the shares of such Stock, subject to the implementation of an arrangement with the Participant to effectuate all necessary tax withholding. If the shares of Stock evidenced by such certificate(s) were not offered and sold to the Participant in a transaction registered under the Securities Act of 1933, as amended (the “Securities Act”), the certificate(s) may include a legend noting that the Stock may not be sold or transferred by the Participant unless such Stock is registered for resale or unless the Participant meets an exemption from registration under the Securities Act. The Company shall follow all requisite procedures to deliver such certificates to the Participant; provided, however, that such delivery may be postponed to enable the Company to comply with any applicable procedures, regulations or listing requirements of any government agency, stock exchange, transfer agent or regulatory agency. 
+
+10\. No Employment Right; Tenure. This Agreement shall not constitute a contract of employment between the Company or any Subsidiary and the Participant. The Participant’s right, if any, to serve the Company as a director, officer, employee or otherwise shall not be enlarged or otherwise affected by this Agreement or his or her designation as a participant under the Plan. 
+
+11\. Tax Withholding. The Participant acknowledges this RSU Award may give rise to a tax liability and a withholding obligation associated therewith, and that no shares of Stock shall be issuable to the Participant hereunder until such withholding obligation is satisfied in full. In accordance with Section 19.C. of the Plan, the Company or a Subsidiary may withhold up to, but no more than, the minimum applicable statutory federal, state and/or local taxes (collectively, “Tax Withholding Requirements”) at such time and upon such terms and conditions as required by law or determined by the Company or a Subsidiary. Subject to compliance with any requirements of applicable law, the Company may elect to require the Participant to satisfy all or any portion of such applicable Tax Withholding Requirements by (i) the withholding or retention of Stock by the Company or a Subsidiary from Stock to be paid pursuant to Section 5 hereof, (ii) requiring the Participant to deliver shares of Stock that are owned by the Participant, or (iii) through any other method determined by the Company in its sole discretion, and in each case the aggregate number of shares of Stock so withheld, retained or delivered shall have an aggregate Fair Market Value (as of the trading day immediately preceding the date that the Award is first subject to the applicable Tax Withholding Requirement(s)) equal to the aggregate amount of such Tax Withholding Requirements. 
+
+12\. Securities Law Compliance. The Company currently has an effective registration statement on file with the Securities and Exchange Commission with respect to the shares of Stock subject to the RSU Award. The Company intends to maintain the effectiveness of this 
+
+-4- 
+
+* * *
+
+registration statement but has no obligation to the Participant to do so. If the registration statement ceases to be effective, the Participant will not be able to transfer or sell shares of Stock, which were issued to the Participant pursuant to the RSU Award at a time that such registration statement was not effective, unless exemptions from registration under applicable securities laws are available. Such exemptions from registration are very limited and might not be available. The Participant agrees that any resale of shares of Stock issued pursuant to the RSU Award shall comply in all respects with the requirements of all applicable securities laws, rules and regulations (including, without limitation, the provisions of the Securities Act and the Securities Exchange Act of 1934, and the respective rules and regulations promulgated thereunder) and any other law, rule or regulation applicable thereto, as such laws, rules, and regulations may be amended from time to time. The Company shall not be obligated to either issue shares of Stock or permit the resale of any such shares if such issuance or resale would violate any such requirements. 
+
+13\. Other Plans and Agreements. Any gain realized by the Participant pursuant to this Agreement shall not be taken into account as compensation in the determination of the Participant’s benefits under any pension, savings, group insurance, or other benefit plan maintained by the Company or a Subsidiary, except as determined by the board of directors of such company or as expressly provided under the terms of such other plan. The Participant acknowledges that receipt of this Agreement or any prior agreement under the Plan shall not entitle the Participant to any other benefits under the Plan or any plans maintained by the Company or a Subsidiary. 
+
+14\. Committee Authority. The Committee shall have complete discretion in the exercise of its rights, powers, and duties under this Agreement and the Plan. Any interpretation or construction of any provision of, and the determination of any question arising under, this Agreement shall be made by the Committee in its sole discretion and shall be final, conclusive, and binding. The Committee may designate any individual or individuals to perform any of its functions hereunder. 
+
+15\. Changes in Capitalization. The Restricted Stock Units under this RSU Award shall be subject to the provisions of Section 19.H. of the Plan relating to adjustments for changes to the Company’s capitalization. The RSU Award shall not affect the right of the Company or any Subsidiary to reclassify, recapitalize or otherwise change its capital or debt structure or to merge, consolidate, convey any or all of its assets, dissolve, liquidate, windup or otherwise reorganize. 
+
+16\. Governing Law. This Agreement shall be construed and enforced in accordance with the laws of the State of Delaware, without giving effect to the choice of law principles thereof. 
+
+17\. Section 409A. This Agreement shall be interpreted to ensure, to the fullest extent possible, that the payments contemplated hereby constitute short-term deferrals as determined under Section 409A of the Code (“Section 409A”). Accordingly, in no event shall payment be made later than the 15th day of the third month after the end of the first calendar year in which the RSU Award is no longer subject to a “substantial risk of forfeiture” within the meaning of Section 409A. However, if the RSU Award is determined to be subject to Section 409A and any payment is triggered by a separation from service, the payment will, if the Participant is a 
+
+-5- 
+
+* * *
+
+specified employee (as determined under Section 409A) and to the extent required by Section 409A, be delayed until the date that is one day after the six month anniversary of such separation from service. 
+
+18\. Clawback Rules. If the Participant is subject to the provisions of (i) Section 304 of the Sarbanes-Oxley Act of 2002; (ii) any policies adopted by the Company in accordance with rules that may be promulgated by the Securities and Exchange Commission pursuant to Section 10D of the Securities Exchange Act of 1934, as amended; and (iii) any other existing or future applicable law, rule, regulation, stock exchange rule, or policy of the Board providing for the forfeiture or recoupment of equity-based compensation granted by the Company (individually or collectively, the “Clawback Rules”), this Award and the Restricted Stock Units described herein, as well as any shares of Common Stock issued hereunder (and any proceeds from the sale or disposition thereof), are subject to potential forfeiture or “clawback” to the fullest extent called for by the Clawback Rules. By accepting this Award, the Participant agrees to return to the Company the full amount required by the Clawback Rules. 
+
+19\. Binding Effect. This Agreement shall inure to the benefit of, and be binding on, the Company and its successors and assigns, and the Participant and his or her heirs, administrators, executors, other legal representatives and permitted assigns, whether so expressed or not. 
+
+20\. No Waiver. No waiver of any provision of this Agreement will be valid unless in writing and signed by the person against whom such waiver is sought to be enforced, nor will failure to enforce any right under this Agreement constitute a continuing waiver of the same or a waiver of any other right hereunder. 
+
+21\. Further Assurances. The Participant hereby agrees to take whatever additional action and execute and deliver all agreements, instruments and other documents the Company may deem necessary or advisable to carry out or effect any of the obligations or restrictions imposed on the Participant or the RSU Award pursuant to the express provisions of the Agreement and/or the Plan. 
+
+22\. Definition of Terms. Capitalized terms used herein but not otherwise defined in this Agreement shall have the meanings ascribed to them under the Plan. 
+
+23\. Entire Agreement. This Agreement and the Plan constitute the entire understanding and agreement between the parties hereto with regard to the subject matter hereof, and they supersede all other negotiations, understandings and representations (if any) made by and between such parties. 
+
+[Signatures appear on following page] 
+
+-6- 
+
+* * *
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized officer, and the Participant has hereunder set his or her hand, all as of this  day of  , 2014.   
+  
+ATTEST: PEPCO HOLDINGS, INC.  
+By:
+
+By:  
+  
+Jane K. Storero Joseph M. Rigby  
+Vice President and Secretary President and Chief Executive Officer  
+PARTICIPANT:  
+  
+Printed Name:  
+  
+-7- 
+
+* * *
+
+SCHEDULE A 
+
+TERMS, CONDITIONS AND PERFORMANCE-RELATED CRITERIA 

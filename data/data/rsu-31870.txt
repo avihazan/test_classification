@@ -1,0 +1,351 @@
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+1997 EXECUTIVE LONG-TERM INCENTIVE PLAN
+
+  
+
+
+
+
+  
+
+
+  
+
+
+February 16, 2006
+
+  
+
+
+  
+
+
+  
+
+
+«name»
+
+«streetaddress»
+
+«citystzip»
+
+  
+
+
+  
+
+
+In accordance with the terms of the MDU Resources Group, Inc. 1997 Executive Long-Term Incentive Plan (the “Plan”), pursuant to action of the Compensation Committee of the Board of Directors of MDU Resources Group, Inc. (the “Committee”), MDU Resources Group, Inc. (the “Company”) hereby grants to you (the “Participant”) Performance Shares (the “Award”), subject to the terms and conditions set forth in this Award Agreement (including Annexes A and B hereto and all documents incorporated herein by reference), as set forth below:
+
+  
+
+
+Target Award:
+
+«shares» Performance Shares (the “Target Award”)  
+  
+Performance Period:
+
+January 1, 2006 through
+
+December 31, 2008 (the “Performance Period”)  
+  
+Date of Grant:
+
+February 16, 2006  
+  
+Dividend Equivalents:
+
+Yes  
+  
+THESE PERFORMANCE SHARES ARE SUBJECT TO FORFEITURE AS PROVIDED HEREIN. THIS AWARD AND AMOUNTS RECEIVED IN CONNECTION WITH THIS AWARD ARE ALSO SUBJECT TO FORFEITURE, RECAPTURE OR OTHER ACTION IN THE EVENT OF AN ACCOUNTING RESTATEMENT, AS PROVIDED IN ARTICLE 19 OF THE PLAN. ADDITIONALLY, BY SIGNING THIS AWARD AGREEMENT YOU ARE ACKNOWLEDGING AND AGREEING THAT ANY PERFORMANCE SHARE AWARD GRANTED TO YOU IN 2005 AND ANY AMOUNTS PAID OR PAYABLE OR DISTRIBUTED OR DISTRIBUTABLE PURSUANT TO ANY SUCH PRIOR 2005 AWARD SHALL ALSO BE SUBJECT TO FORFEITURE, RECAPTURE OR OTHER ACTION IN THE EVENT OF AN ACCOUNTING RESTATEMENT, AS PROVIDED IN ARTICLE 19 OF THE PLAN.
+
+  
+
+
+Further terms and conditions of the Award are set forth in Annexes A and B hereto, which are integral parts of this Award Agreement.
+
+  
+
+
+All terms, provisions and conditions applicable to the Award set forth in the Plan and not set forth in this Award Agreement are hereby incorporated herein by reference. To the extent any provision hereof is inconsistent with a provision of the Plan; the provisions of the Plan will govern. The Participant hereby acknowledges receipt of a copy of this Award Agreement, including Annexes A and B hereto, and a copy of the Plan and agrees to be bound by all the terms and provisions hereof and thereof.
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+By: /s/ Martin A. White
+
+Martin A. White
+
+Chairman of the Board and
+
+Chief Executive Officer
+
+  
+
+
+  
+
+
+Agreed:
+
+  
+
+
+  
+
+
+___________________
+
+Participant
+
+Attachments: Annex A
+
+Annex B
+
+* * *
+
+ANNEX A
+
+  
+
+
+TO
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+1997 EXECUTIVE LONG-TERM INCENTIVE PLAN
+
+  
+
+
+PERFORMANCE SHARE AWARD AGREEMENT
+
+  
+
+
+It is understood and agreed that the Award of Performance Shares evidenced by the Award Agreement to which this is annexed is subject to the following additional terms and conditions.
+
+  
+
+
+1. Nature of Award. The Target Award represents the opportunity to receive shares of Company common stock, $1.00 par value ("Shares") and Dividend Equivalents on such Shares. The number of Shares that may be earned under this Award shall be determined pursuant to Section 2 hereof. The amount of Dividend Equivalents that may be earned under this Award shall be determined pursuant to Section 4 hereof. Except for Dividend Equivalents, which are paid in cash, Awards will be paid in Shares.
+
+  
+
+
+2. Determination of Number of Shares Earned.
+
+The number of Shares earned, if any, for the Performance Period shall be determined in accordance with the following formula: 
+
+  
+
+
+# of Shares = Payout Percentage X Target Award
+
+  
+
+
+The “Payout Percentage” is based on the Company’s total shareholder return ("TSR") relative to that of the Peer Group listed on Annex B (the “Percentile Rank”) for the Performance Period, determined in accordance with the following table:
+
+  
+
+
+Percentile Rank
+
+Payout Percentage 
+
+(% of Target Award)  
+  
+100th
+
+200%  
+  
+75th
+
+150%  
+  
+50th
+
+100%  
+  
+40th
+
+10%  
+  
+less than 40th
+
+0%  
+  
+  
+
+
+If the Company achieves a Percentile Ranking between the 40th and 50th percentiles, the Payout Percentage shall be equal to 10%, plus 9% for each Percentile Rank whole percentage above the 40th percentile. If the Company achieves a Percentile Ranking between the 50th and 100th percentiles, the Payout Percentage shall be equal to 100%, plus 2% for each Percentile Rank whole percentage above the 50th percentile. 
+
+  
+
+
+The Percentile Rank of a given company's TSR is defined as the percentage of the Peer Group companies' returns falling at or below the given company's TSR. The formula for calculating the Percentile Rank follows:
+
+  
+
+
+Percentile Rank = (n - r + 1)/n x 100
+
+Where:
+
+n =
+
+total number of companies in the Peer Group, including the Company  
+  
+r =
+
+the numeric rank of the Company's TSR relative to the Peer Group, where the highest return in the group is ranked number 1  
+  
+To illustrate, if the Company's TSR is the third highest in the Peer Group comprised of 26 companies, its Percentile Rank would be 92. The calculation is: (26 - 3 + 1)/26 x 100 = 92.
+
+The Percentile Rank shall be rounded to the nearest whole percentage.
+
+If the common stock of a company in the Peer Group ceases to be traded during the Performance Period, the company will be deleted from the Peer Group. Percentile Rank will be calculated without regard to the return of the deleted company.
+
+Total shareholder return is the percentage change in the value of an investment in the common stock of a company from the initial investment made on the last trading day in the calendar year preceding the beginning of the performance period through the last trading day in the final year of the performance period. It is assumed that dividends are reinvested in additional shares of common stock at the frequency paid.
+
+All Performance Shares that are not earned for the Performance Period shall be forfeited. 
+
+  
+
+
+3. Issuance of Shares. Subject to any restrictions on distributions of Shares under the Plan, and subject to Section 6 of this Annex A, the Shares earned under the Award, if any, shall be issued to the Participant as soon as practicable (but no later than the next March 15) following the close of the Performance Period.
+
+  
+
+
+4. Dividend Equivalents. Dividend Equivalents shall be earned with respect to any Shares issued to the Participant pursuant to this Award. The amount of Dividend Equivalents earned shall be equal to the total dividends declared on a Share between the Date of Grant of this Award and the last day of the Performance Period, multiplied by the number of Shares issued to the Participant pursuant to the Award Agreement. Any Dividend Equivalents earned shall be paid in cash to the Participant when the Shares to which they relate are issued or as soon as practicable thereafter. If the Award is forfeited or if no Shares are issued, no Dividend Equivalents shall be paid.
+
+5. Termination of Employment.
+
+(a) If the Participant’s employment with the Company is terminated for any reason other than "Cause" (as defined below) (1) during the first year of the Performance Period, all Performance Shares (and related Dividend Equivalents) shall be forfeited; (2) during the second year of the Performance Period, determination of the Company's Percentile Rank for the Performance Period will be made by the Committee at the end of the Performance Period, and Shares (and related Dividend Equivalents) earned, if any, will be paid based on the Payout Percentage, prorated for the number of full months elapsed from and including the month in which the Performance Period began to and including the month in which the termination of employment occurs; and (3) during the third year of the Performance Period, determination of the Company's Percentile Rank for the Performance Period will be made by the Committee at the end of the Performance Period, and Shares (and related Dividend Equivalents) earned, if any, will be paid based on the Payout Percentage without prorating.
+
+(b) If the Participant’s employment is terminated for "Cause" (as defined below) during the Performance Period, all Performance Shares (and related Dividend Equivalents) shall be forfeited.
+
+(c) For purposes of the Award Agreement, the term "Cause" shall mean the Participant's fraud or dishonesty that has resulted or is likely to result in material economic damage to the Company or a Subsidiary, or the Participant's willful nonfeasance if such nonfeasance is not cured within ten days of written notice from the Company or a Subsidiary, as determined in good faith by a vote of at least two-thirds of the non-employee directors of the Company at a meeting of the Board at which the Participant is provided an opportunity to be heard.
+
+  
+
+
+6. Tax Withholding. Pursuant to Article 16 of the Plan, the Committee shall have the power and the right to deduct or withhold, or require the Participant to remit to the Company, an amount sufficient to satisfy any Federal, state and local taxes (including the Participant's FICA obligations) required by law to be withheld with respect to the Award. The Committee may condition the delivery of Shares upon the Participant's satisfaction of such withholding obligations. The Participant may elect to satisfy all or part of such withholding requirement by tendering previously-owned Shares or by having the Company withhold Shares having a Fair Market Value equal to the minimum statutory withholding that could be imposed on the transaction (based on minimum statutory withholding rates for Federal, state, and local tax purposes, as applicable, including payroll taxes, that are applicable to such supplemental taxable income). Such election shall be irrevocable, made in writing, signed by the Participant, and shall be subject to any restrictions or limitations that the Committee, in its sole discretion, deems appropriate.
+
+  
+
+
+7. Ratification of Actions. By accepting the Award or other benefit under the Plan, the Participant and each person claiming under or through him or her shall be conclusively deemed to have indicated the Participant’s acceptance and ratification of, and consent to, any action taken under the Plan or the Award by the Company, its Board of Directors, or the Committee.
+
+  
+
+
+8. Notices. Any notice hereunder to the Company shall be addressed to its office, 1200 West Century Avenue, P.O. Box 5650, Bismarck, North Dakota 58506; Attention: Corporate Secretary, and any notice hereunder to the Participant shall be addressed to him or her at the address specified on the Award Agreement, subject to the right of either party to designate at any time hereafter in writing some other address.
+
+  
+
+
+9. Definitions. Capitalized terms not otherwise defined herein or in the Award Agreement shall have the meanings given them in the Plan.
+
+  
+
+
+10. Governing Law and Severability. To the extent not preempted by Federal law, the Award Agreement will be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflicts of law provisions. In the event any provision of the Award Agreement shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining parts of the Award Agreement, and the Award Agreement shall be construed and enforced as if the illegal or invalid provision had not been included.
+
+11. No Rights to Continued Employment. The Award Agreement is not a contract of employment. Nothing in the Plan or in the Award Agreement shall interfere with or limit in any way the right of the Company or any Subsidiary to terminate the Participant's employment at any time, for any reason or no reason, or confer upon the Participant the right to continue in the employ of the Company or a Subsidiary.
+
+* * *
+
+ANNEX B
+
+  
+
+
+TO
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+1997 EXECUTIVE LONG-TERM INCENTIVE PLAN
+
+  
+
+
+PERFORMANCE SHARE AWARD AGREEMENT
+
+  
+
+
+PEER GROUP COMPANIES
+
+  
+
+
+Allegheny Energy, Inc.
+
+ALLETE, Inc.
+
+Alliant Energy Corporation
+
+Black Hills Corporation
+
+Comstock Resources, Inc.
+
+Equitable Resources, Inc.
+
+Florida Rock Industries, Inc.
+
+Hanson PLC ADR
+
+KeySpan Corporation
+
+Kinder Morgan, Inc.
+
+Martin Marietta Materials, Inc.
+
+Newfield Exploration Company
+
+NICOR, Inc.
+
+OGE Energy Corp.
+
+ONEOK, Inc.
+
+Peoples Energy Corporation
+
+Pogo Producing Company
+
+Quanta Services, Inc.
+
+Questar Corporation
+
+SCANA Corporation
+
+Stone Energy Corporation
+
+TECO Energy, Inc.
+
+UGI Corporation
+
+Vectren Corporation
+
+Vulcan Materials Company
+
+XTO Energy, Inc.
+
+  
+

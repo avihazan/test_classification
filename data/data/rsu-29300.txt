@@ -1,0 +1,172 @@
+Exhibit 10.20
+
+  
+
+
+MANITOWOC FOODSERVICE, INC.
+
+
+
+(Employee)
+
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Agreement”), dated the _____ day of _________, 20__ (the “Grant Date”), is granted by MANITOWOC FOODSERVICE, INC. (the “Company”) to [Name of Employee], an employee of the Company or one of its Affiliates (the “Employee”) pursuant to the Company’s 2016 Omnibus Incentive Plan (the “Plan”).
+
+WHEREAS, the Company believes it to be in the best interests of the Company, its subsidiaries and its shareholders for the Employee to obtain or increase the Employee’s equity-based interest in the Company in order that the Employee will have a greater incentive to work for and manage the Company’s affairs in such a way that its shares may become more valuable.
+
+WHEREAS, the Compensation Committee of the Board of Directors of the Company (the “Committee”) has authorized the grant of restricted stock units (the “Restricted Stock Units”) relating to shares of the Common Stock of the Company (“Stock”) to the Employee, subject to the restrictions provided herein.
+
+NOW, THEREFORE, in consideration of the promises and of the covenants and agreements herein set forth, the Company and the Employee mutually covenant and agree as follows:
+
+1.Award of Restricted Stock Units. Subject to the terms and conditions of this Agreement and the Plan, Employee is granted {INSERT NUMBER OF UNITS} Restricted Stock Units. Capitalized terms used and not defined in this Agreement shall have the meanings given in the Plan.
+
+2.Restricted Stock Units. Employee hereby accepts the Restricted Stock Units when granted and agrees with respect thereto as follows:
+
+(a) Vesting Schedule. [TIME VESTING ALTERNATIVE: Except to the extent otherwise provided in the Plan, [INSERT VESTING PERCENTAGE] of the total Restricted Stock Units will vest on [INSERT VESTING SCHEDULE], but only if Employee is continuously employed with, or in the service of, the Company or its Affiliates through the applicable vesting date.] [PERFORMANCE VESTING ALTERNATIVE: Except to the extent otherwise provided in the Plan, [INSERT VESTING PERCENTAGE] of the total Restricted Stock Units will vest upon the achievement of [INSERT PERFORMANCE GOALS], but only if Employee is continuously employed with, or in the service of, the Company or its Affiliates through the applicable vesting date[.] [FOR AWARDS INTENDED TO QUALIFY AS PERFORMANCE BASED COMPENSATION UNDER 162(M), ADD “; provided that the vesting of the Restricted Stock Units shall be contingent on Committee certification of the achievement of such performance goals”].]
+
+(b) Termination of Employment or Service. Upon any termination of employment or service prior to the date all of the Restricted Stock Units vest, the unvested Restricted Stock Units shall be treated as provided in the Plan. 
+
+If the Employee takes an approved unpaid leave of absence from the Company or an Affiliate, the Committee may, in its sole discretion, delay any vesting date(s) to take into account the period(s) during which the Employee was not actively employed by the Company or an Affiliate. 
+
+3.Settlement of Restricted Stock Units. As soon as practicable after [SETTLEMENT ON VESTING ALTERNATIVE: the Restricted Stock Units vest, but no later than two-and-one-half months following the end of the fiscal year in which vesting occurs] [SETTLEMENT ON TERMINATION ALTERNATIVE: the Employee’s separation from service with the Company (within the meaning of Code Section 409A), but no later than two-and-one-half months following the date of such separation from service, subject to any required six-month delay if the Employee is a “specified employee” at the time of such separation from service as contemplated by Section 18(b) of the Plan], the Company will settle [SETTLEMENT ON VESTING ALTERNATIVE: such vested] [SETTLEMENT ON TERMINATION ALTERNATIVE: any then-vested] Restricted Stock Units by [SETTLEMENT IN STOCK ALTERNATIVE: issuing in the Employee’s name certificate(s) or making an appropriate book entry for a number of shares of Stock equal to the number of such vested Restricted Stock Units] [SETTLEMENT IN CASH ALTERNATIVE: delivering an amount of cash equal to the Fair Market Value, determined as of the date of [SETTLEMENT ON VESTING ALTERNATIVE: vesting] [SETTLEMENT ON TERMINATION ALTERNATIVE: the later of separation from service or the end of any required six-month delay], of a number of shares of Stock equal to the number of such vested Restricted Stock Units].
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Notwithstanding anything to the contrary in the foregoing, the Company shall not be required to deliver any fractional share of Stock but may pay, in lieu thereof, the Fair Market Value of such fractional share of Stock, to the Employee or the Employee’s estate, as the case may be. 
+
+4.[DIVIDEND EQUIVALENT UNITS ALTERNATIVE: Dividend Equivalent Units. Each Restricted Stock Unit includes one Dividend Equivalent Unit, pursuant to which the Employee shall be eligible to receive an amount, in the form of [CURRENT PAYMENT ALTERNATIVE: cash or additional restricted stock units as provided in Section 4(a) or Section 4(b), equivalent to any dividends or other distributions paid with respect to a number of shares of Stock equal to the Restricted Stock Units, so long as the applicable record date occurs before such Restricted Stock Units are forfeited.
+
+(a) If the dividend or other distribution that triggers payment under this Section 4 is in the form of cash, the payment due to the Employee under this Section 4 shall be paid to the Employee in cash by no later than the end of the calendar year in which the dividend or other distribution is paid to shareholders of the Company or, if later, the 15th day of the third month following the date the dividends or other distributions are paid to shareholders.]
+
+[DELAYED PAYMENT IN CASH ALTERNATIVE: cash or additional restricted stock units as provided in Section 4(a) or Section 4(b), equivalent to any dividends or other distributions paid with respect to a number of shares of Stock equal to the Restricted Stock Units, so long as the applicable record date occurs before such Restricted Stock Units are forfeited and so long as the applicable vesting conditions are satisfied.
+
+(a) If the dividend or other distribution that triggers payment under this Section 4 is in the form of cash, the payment for which the Employee is eligible under this Section 4 shall be subject to the same risk of forfeiture and other terms of this Agreement as the Restricted Stock Units to which the dividend or other distribution relates, and shall be paid to the Employee in cash (without interest) at the time such Restricted Stock Units are settled under Section 3.]
+
+[DELAYED PAYMENT IN RSUS ALTERNATIVE: additional restricted stock units as provided in Section 4(a) or Section 4(b), equivalent to any dividends or other distributions paid with respect to a number of shares of Stock equal to the Restricted Stock Units, so long as the applicable record date occurs before such Restricted Stock Units are forfeited and so long as the applicable vesting conditions are satisfied.
+
+(a) If the dividend or other distribution that triggers payment under this Section 4 is in the form of cash, then the Employee shall be credited with additional restricted stock units equal to (i) the aggregate amount of the dividends or other distributions paid with respect to a number of shares of Stock equal to the Restricted Stock Units divided by (ii) the Fair Market Value per share of Stock on the payment or distribution date. Such additional restricted stock units shall be deemed Restricted Stock Units subject to the same risk of forfeiture, time of payment and other terms of this Agreement as the Restricted Stock Units to which the dividends or other distributions relate.]
+
+(b) If the dividend or other distribution that triggers payment under this Section 4 is in the form of shares of Stock rather than cash, then the Employee shall be credited with additional restricted stock units equal to the number of shares of Stock that the Employee would have received had the Restricted Stock Units been shares of Stock, and such restricted stock units shall be deemed Restricted Stock Units subject to the same risk of forfeiture, time of payment and other terms of this Agreement as the Restricted Stock Units to which the additional restricted stock units relate.]
+
+[NO DIVIDEND EQUIVALENT UNITS ALTERNATIVE: No Rights as a Shareholder. The Employee shall not be deemed for any purposes to be a shareholder of the Company with respect to any of the Restricted Stock Units, and accordingly will not be entitled to receive any dividends, dividend equivalent payments or other distributions with respect to the Restricted Stock Units.]
+
+5.Transferability. The Restricted Stock Units are subject to the transfer restrictions set forth in the Plan. After the Restricted Stock Units have been settled, any shares of Stock issued in settlement of the Restricted Stock Units shall thereafter be transferable by the Employee, subject to the terms of any shareholder agreement or Company policy then in effect, provided that the Employee agrees for himself and his heirs, legatees and legal representatives, with respect to all shares of Stock acquired pursuant to this Agreement (or any shares of Stock issued pursuant to a stock dividend or stock split thereon or any securities issued in lieu thereof or in substitution or exchange therefor):
+
+(a) that the Employee and the Employee’s heirs, legatees and legal representatives will not sell or otherwise dispose of such shares except pursuant to a registration statement filed by the Company that has been declared effective by the Securities and Exchange Commission under the Securities Act of 1933 (the “Act”), or except 
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+in a transaction which is determined by counsel to the Company to be exempt from registration under the Act and any applicable state securities laws; and
+
+(b) to execute and deliver to the Company such investment representations and warranties, and to take such other actions, as counsel for the Company determines may be necessary or appropriate for compliance with the Act and any applicable securities laws.
+
+6.Recoupment or Claw Back. The Restricted Stock Units awarded under this Agreement, any payment made in settlement thereof, any shares of Stock issued in settlement thereof and the proceeds from any subsequent transfer shall be subject to any applicable Company policy required to comply with Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Pub.L 111-203) or other similar, applicable and mandatory legal requirement. 
+
+7.Withholding of Tax. To the extent that the receipt of the Restricted Stock Units or the vesting or settlement thereof gives rise to a withholding obligation on the part of the Company or its affiliates under applicable foreign, federal, state or local income tax law or regulations, then:
+
+(a) If the event giving rise to the withholding obligation occurs when the Restricted Stock Units are being settled in cash, the Company shall withhold or cause to be withheld from the cash payment such amount of money as may be required to meet such withholding obligation under applicable tax laws or regulations.
+
+(b) If the event giving rise to the withholding obligation occurs under circumstances other than those described in Section 7(a), the Employee or the Employee’s heir(s) shall deliver to the Company or its affiliate at the time such obligation arises such amount of money as the Company or its affiliate may require to meet its withholding obligation under applicable tax laws or regulations, and, if the Employee or the Employee’s heir(s) fail(s) to do so, the Company and its affiliates are authorized to withhold from any remuneration then or thereafter payable to Employee or the Employee’s heir(s) any tax required to be withheld in connection with the Restricted Stock Units.
+
+Notwithstanding anything to the contrary in the foregoing, the Company may in its discretion arrange for alternative means for the Employee to satisfy any tax obligations arising in connection with the Restricted Stock Units pursuant to the terms of the Plan.
+
+8.Interpretation. As a condition of the granting of the Restricted Stock Units, the Employee agrees for himself and his legal representatives, that any dispute or disagreement which may arise under or as a result of or pursuant to this Agreement shall be determined by the Committee in its sole discretion, and any interpretation by the Committee of the terms of this Agreement shall be final, binding and conclusive.
+
+9.Successors and Assigns. This Agreement shall be binding upon, and inure to the benefit of, the Company its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. This Agreement shall be binding upon, and inure to the benefit of the Employee, the Employee’s legal representatives and heirs. This Agreement may not be assigned by the Employee, and any attempted assignment shall be null and void and of no legal effect.
+
+10.Amendment or Modification. Except as otherwise provided herein, no term or provision of this Agreement may be modified or amended except as provided in Section 15 of the Plan.
+
+11.Governing Law. This Agreement shall be governed by the internal laws of the state of Delaware as to all matters, including but not limited to matters of validity, construction, effect, performance and remedies. Any legal action or proceeding with respect to the Plan or this Agreement may only be brought and determined in a court sitting in the state of Florida. The Company may require that the action or proceeding be determined in a bench trial.
+
+ALL PARTIES ACKNOWLEDGE THAT THE RESTRICTED STOCK UNITS ARE GRANTED UNDER AND PURSUANT TO THE PLAN, WHICH SHALL GOVERN ALL RIGHTS, INTERESTS, OBLIGATIONS, AND UNDERTAKINGS OF BOTH THE COMPANY AND THE EMPLOYEE. IN THE EVENT OF ANY INCONSISTENCY BETWEEN THE PROVISIONS OF THE PLAN AND THE PROVISIONS OF THIS AGREEMENT, THE PROVISIONS OF THE PLAN SHALL CONTROL. 
+
+12.Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed to be an original but all of which together will constitute one and the same instrument.
+
+13.Unfunded Promise to Pay. The Restricted Stock Units constitute a mere promise by the Company to make specified payments in the future if such benefits come due under this Agreement. The Employee will have the status of a general unsecured creditor of the Company with respect to any vested Restricted Stock Units.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its duly authorized officer and the Employee has hereunto affixed the Employee’s hand as of the day and year first above written.
+
+THE COMPANY:
+
+MANITOWOC FOODSERVICE, INC.
+
+  
+
+
+By:
+
+  
+
+
+Name:
+
+  
+
+
+Title:
+
+  
+
+
+THE EMPLOYEE:
+
+  
+
+
+  
+[Name of Employee]
+
+  
+
+
+  
+
+
+  
+
+
+  
+

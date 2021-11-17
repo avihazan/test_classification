@@ -1,0 +1,366 @@
+Exhibit 10.1 
+
+
+
+THIS CREDIT AGREEMENT (as it may be amended, supplemented or otherwise modified from time to time, this “Agreement”) is entered into as of the 28th day of December, 2011, by and between Rentech Nitrogen, LLC, a Delaware limited liability company (“Borrower”), Rentech Nitrogen Partners, L.P., a Delaware limited partnership (“Guarantor”, and, together with Borrower, the “Loan Parties”, and each, a “Loan Party”), and Rentech, Inc., a Colorado corporation (“Lender”). 
+
+RECITAL 
+
+Borrower has requested from Lender the credit accommodations described below (collectively the “Credits”), and Lender has agreed to provide the Credits to Borrower on the terms and conditions contained herein. 
+
+AGREEMENT 
+
+NOW, THEREFORE, Lender and Borrower hereby agree as follows: 
+
+ARTICLE I 
+
+THE CREDITS AND THE GUARANTY 
+
+Section 1.1 Term Loan. 
+
+(a) Term Loan. Subject to the terms and conditions of this Agreement, Lender hereby agrees to make advances to Borrower in the aggregate principal amount of up to Forty Million Dollars ($40,000,000) (the “Term Loan”), which amount shall be exclusive of any capitalized interest added to the principal balance of the Term Loan pursuant to Section 1.1(c). The proceeds of the Term Loan shall be used to (i) finance certain capital expenditures of Borrower associated with the Expansion and (ii) pay costs and expenses incurred in connection with the Term Loan. Borrower’s obligation to repay the Term Loan shall be evidenced by a promissory note substantially in the form of Exhibit A attached hereto (as it may be amended, the “Note”), all terms of which are incorporated herein by this reference. Lender’s commitment to provide the Term Loan shall terminate on May 31, 2012 or such earlier date designated by Borrower in a written notification to Lender. Upon the request of Lender, each request for an advance under the Term Loan shall be accompanied by a breakdown of the use of all funds requested from Borrower. 
+
+(b) Repayment. The principal amount of the Term Loan and the accrued interest as set forth in Section 1.2 below shall be repaid in full on the Maturity Date. 
+
+(c) Capitalized Interest. Interest on the Term Loan shall accrue monthly on the last day of each month so long as any principal under the Term Loan is unpaid. Prior to the date on which the Revolving Credit Agreement is terminated and all obligations thereunder have been finally paid in full or if such interest is not paid on the last day of any month thereafter, interest on the Term Loan shall be capitalized and added to the outstanding principal balance of the Term Loan. 
+
+(d) Optional and Mandatory Prepayment. The Loan Parties may prepay principal and accrued interest on the Term Loan at any time, in any amount and without penalty. All prepayments of principal and interest shall be applied first to accrued interest, and second to principal. Subject to compliance with the Revolving Credit Facility, the Loan Parties shall, within two (2) Business Days of receipt thereof, apply all cash proceeds of an Equity Offering or Indebtedness Offering, net of taxes and customary fees, commissions, costs and other expenses incurred in connection therewith, to prepay the outstanding principal balance of the Term Loan plus any accrued interest. 
+
+* * *
+
+Section 1.2 Interest/Fees. 
+
+(a) Interest. Subject to Section 1.2(b), the outstanding principal balance of the Term Loan shall bear interest at a rate per annum equal to the LIBOR Rate in effect from time to time plus the applicable Margin. The term “LIBOR Rate” shall mean the offered rate per annum for deposits of Dollars for a one month period that appears on Reuters Screen LIBOR01 Page as of 11:00 A.M. (London, England time) two (2) Business Days prior to the first day of the upcoming calendar month. If no such offered rate exists, such rate will be the rate of interest per annum, as determined by Lender at which deposits of Dollars in immediately available funds are offered at 11:00 A.M. (London, England time) two (2) Business Days prior to the first day of the upcoming calendar month by major financial institutions reasonably satisfactory to Agent in the London interbank market for the applicable principal amount on such date of determination. 
+
+(b) Default Interest. At all times when an Event of Default has occurred and is continuing, the outstanding principal balance of the Term Loan shall bear interest at a rate per annum equal to two percent (2%) above the LIBOR Rate plus applicable Margin in effect from time to time (the “Default Rate”). In addition, to the extent permitted by applicable law, any interest payments, fees or other amounts owed hereunder and not paid when due, in each case whether at stated maturity, by notice of prepayment, by acceleration or otherwise, shall bear interest at the Default Rate. Payment or acceptance of the Default Rate is not a permitted alternative to timely payment and shall not constitute a waiver of any Event of Default or otherwise prejudice or limit any rights or remedies of Lender. 
+
+(c) Computation and Payment. Interest on the principal amount outstanding under the Term Loan shall be computed on the basis of a 360-day year, actual days elapsed. Interest on the Term Loan shall be calculated monthly in arrears on the last day of each month so long as any principal under the Term Loan is unpaid. 
+
+(d) Closing Fee. Borrower shall pay to Lender a non-refundable closing fee equal to 2.0% of the aggregate committed principal amount of the Term Loans (the “Closing Fee”), which closing fee shall be due and payable in full on the date this Agreement is executed; provided, that if prior to the commencement of the Term Loan Period (x) the Term Loans are fully repaid and (y) the obligation of Lender to provide advances hereunder is terminated (clauses (x) and (y) together, the “Facility Termination”), then the Closing Fee Credit shall be applied against amounts outstanding under this Agreement in connection with the Facility Termination. For purposes of this Section 1.2(d), the Closing Fee Credit equals (x) 75% of the Closing Fee if the Facility Termination occurs on or prior to March 31, 2012 or (y) 50% of the Closing Fee if the Facility Termination occurs after March 31, 2012 but prior to the commencement of the Term Loan Period. For avoidance of doubt, Borrower shall not be entitled to the Closing Fee Credit if the Facility Termination does not occur prior to the commencement of the Term Loan Period. 
+
+Section 1.3 Guaranty. 
+
+(a) To induce Lender to make the Term Loan, Guarantor hereby, jointly and severally, absolutely, unconditionally and irrevocably guarantees, as primary obligor and not merely as surety, the full and punctual payment when due, whether at stated maturity or earlier, by reason of acceleration, mandatory prepayment or otherwise in accordance with this Agreement, of all the obligations of Borrower whether existing on the date hereof or hereinafter incurred or created (the “Guaranteed Obligations”). 
+
+2 
+
+* * *
+
+(b) Guarantor hereby waives and agrees not to assert any defense, and hereby agrees that its obligations under this section are irrevocable, absolute and unconditional and shall not be discharged as a result of or otherwise affected, other than indefeasible payment in full of the Guaranteed Obligations. 
+
+(c) Guarantor hereby unconditionally and irrevocably waives and agrees not to assert any claim, defense, setoff or counterclaim based on diligence, promptness, presentment, requirements for any demand or notice hereunder including any of the following: (a) any demand for payment or performance and protest and notice of protest; (b) any notice of acceptance; (c) any presentment, demand, protest or further notice or other requirements of any kind with respect to any Guaranteed Obligation (including any accrued but unpaid interest thereon) becoming immediately due and payable; and (d) any other notice in respect of any Guaranteed Obligation or any part thereof, and any defense arising by reason of any disability or other defense of Borrower. Until the Guaranteed Obligations have been indefeasibly paid in full, Guarantor further unconditionally and irrevocably agrees not to enforce or otherwise exercise any right of subrogation or any right of reimbursement or contribution or similar right against Borrower or any Guarantor by reason of any Loan Document or any payment made thereunder. No obligation of any Guarantor hereunder shall be discharged other than by complete performance. 
+
+(d) Guarantor, and by its acceptance this guaranty, Lender, hereby confirm that it is their intention that this Guaranty and the Guaranteed Obligations not constitute a fraudulent transfer or conveyance under any applicable laws. To effectuate the foregoing intention, Lender and Guarantor hereby irrevocably agree that the Guaranteed Obligations shall be limited to the maximum amount as will result in the Guaranteed Obligations not constituting a fraudulent transfer or conveyance under any applicable laws. 
+
+ARTICLE II 
+
+REPRESENTATIONS AND WARRANTIES 
+
+The Loan Parties make the following representations and warranties to Lender, which representations and warranties shall survive the execution of this Agreement and shall continue in full force and effect until the full and final payment, and satisfaction and discharge, of all obligations of Borrower to Lender subject to this Agreement. 
+
+Section 2.1 Legal Status; Organizational Documents. Borrower is a limited liability company and Guarantor is a limited partnership, in each case, duly organized, validly existing and in good standing under the laws of the State of Delaware, and is qualified or licensed to do business, and is in good standing as a foreign corporation, if applicable, in all jurisdictions in which such qualification or licensing is required or in which the failure to so qualify or to be so licensed could have a material adverse effect on the Loan Parties. 
+
+Section 2.2 Authorization and Validity. This Agreement, the Note, and each other document, contract and instrument required by or at any time delivered to Lender in connection with this Agreement (with all of the foregoing referred to herein collectively as the “Loan Documents”) have been duly authorized by the Loan Parties, and upon their execution and delivery in accordance with the provisions hereof will constitute legal, valid and binding agreements and obligations of the Loan Parties, enforceable in accordance with their respective terms. 
+
+Section 2.3 No Violation. The execution, delivery and performance by the Loan Parties of each of the Loan Documents to which it is a party do not violate any provision of any law or regulation, or contravene any provision of the Loan Parties’ governing documents, as amended, or result in a breach of or constitute a default under any contract, obligation, indenture or other instrument to which a Loan Party is a party or by which a Loan Party or any of its properties may be bound. 
+
+3 
+
+* * *
+
+Section 2.4 Litigation. There are no pending or, to the best of the Loan Parties’ knowledge, threatened actions, claims, investigations, suits or proceedings before any governmental authority, arbitrator, court or administrative agency which may adversely affect the financial condition or operation of a Loan Party other than those disclosed by a Loan Party to Lender in writing prior to the date hereof. 
+
+Section 2.5 Permits, Franchises. Borrower possesses, and will hereafter possess, all material permits, memberships, franchises, contracts and licenses required and all copyrights, trademark rights, trade names, trade name rights, patents, patent rights and fictitious name rights necessary to enable it to conduct the business in which it is now engaged and to commence construction of the Expansion. 
+
+Section 2.6 Other Obligations. Each Loan Party is not in default on any obligation for borrowed money, any purchase money obligation or any other material lease, commitment, contract, instrument or obligation. 
+
+ARTICLE III 
+
+CONDITIONS 
+
+Section 3.1 Conditions of Initial Extension of Credit. The obligation of Lender to grant any of the Credits is subject to the fulfillment to Lender’s satisfaction of all of the following conditions: 
+
+(a) Approval of Lender. All legal and other matters incidental to the granting of each of the Credits shall be satisfactory to Lender. 
+
+(b) Documentation. Lender shall have received, in form and substance satisfactory to Lender, each of the following (in each case, duly executed by the Loan Parties and/or each other party, as applicable): 
+
+(i) this Agreement and the Note; and 
+
+(ii) resolutions of the board of directors of the general partner, or such other required corporate authorization, of the Loan Parties, approving and authorizing the execution, delivery and performance of the Loan Documents. 
+
+(c) Financial Condition. There shall have been no material adverse change, as determined by Lender, in the financial condition or business of the Loan Parties, nor any material decline, as determined by Lender, in the market value of a substantial or material portion of the assets of the Loan Parties. 
+
+Section 3.2 Conditions of Each Extension of Credit. The obligation of Lender to make each extension of credit requested by Borrower hereunder shall be subject to the fulfillment to Lender’s satisfaction of each of the following conditions: 
+
+(a) Compliance. The representations and warranties contained herein shall be true, correct and complete in all material respects (and shall be deemed made) on and as of the date of the signing of this Agreement and on the date of each extension of credit by Lender pursuant hereto, with the same effect as though such representations and warranties had been made on and as of each such date, and on each such date, no Event of Default as defined herein, and no condition, event or act which with the giving of notice or the passage of time or both would constitute such an Event of Default, shall have occurred and be continuing or shall exist. Each request by Borrower for an extension of credit hereunder shall constitute a certification of Borrower that the conditions of this Section 3.2(a) are satisfied as of the date of such extension of credit. 
+
+4 
+
+* * *
+
+(b) Documentation. Lender shall have received all additional documents which may be required in connection with such extension of credit. 
+
+ARTICLE IV 
+
+AFFIRMATIVE COVENANTS 
+
+Borrower covenants that so long as any of the Credits remain available or any liabilities (whether direct or contingent, liquidated or unliquidated) of Borrower to Lender under any of the Loan Documents remain outstanding, and until payment in full of all obligations of Borrower subject hereto, Borrower shall: 
+
+Section 4.1 Compliance. Maintain all material licenses, permits, governmental approvals, rights, privileges and franchises necessary for the conduct of its business and the Expansion; conduct its business in an orderly and regular manner; and comply with the provisions of all documents pursuant to which Borrower is organized. 
+
+Section 4.2 Facilities. Keep all Borrower’s properties useful or necessary to Borrower’s business in good repair and condition, and from time to time make necessary repairs, renewals and replacements thereto so that Borrower’s properties shall be fully and efficiently preserved and maintained. 
+
+Section 4.3 Taxes And Other Liabilities. Pay and discharge when due any and all indebtedness, obligations, assessments and taxes, both real or personal and including federal and state income taxes, except such as Borrower may in good faith contest or as to which a bona fide dispute may arise, so long as provision is made to the satisfaction of Lender for eventual payment thereof in the event that it is found that the same is an obligation of Borrower. 
+
+Section 4.4 Notice To Lender. Promptly (but in no event more than five (5) days after the occurrence of each such event or matter) give written notice to Lender in reasonable detail of the occurrence of any Event of Default, or any condition, event or act which with the giving of notice or the passage of time or both would constitute an Event of Default 
+
+ARTICLE V 
+
+NEGATIVE COVENANTS 
+
+The Loan Parties further covenant that so long as any of the Credits remains available or any liabilities (whether direct or contingent, liquidated or unliquidated) of Borrower to Lender under any of the Loan Documents remain outstanding, and until payment in full of all obligations of Borrower subject hereto, the Loan Parties will not without the prior written consent of Lender: 
+
+Section 5.1 Use Of Funds. In the case of Borrower, use any of the proceeds of the Term Loan except (i) in connection with the Expansion or (ii) for costs and expenses associated with the Term Loan. 
+
+Section 5.2 Other Indebtedness. Create, incur, assume or permit to exist any indebtedness or liabilities resulting from borrowings, loans or advances, whether secured or unsecured, matured or unmatured, liquidated or unliquidated, joint or several, except the liabilities of the Loan Parties to Lender under this Agreement and any other liabilities of the Loan Parties permitted under the Revolving Credit Agreement. 
+
+5 
+
+* * *
+
+Section 5.3 Guaranties. Guarantee or become liable in any way as surety, endorser (other than as endorser of negotiable instruments for deposit or collection in the ordinary course of business), accommodation endorser or otherwise for, nor pledge or hypothecate any assets of the Loan Parties as security for, any liabilities or obligations of any other person or entity except the liabilities of Guarantor to Lender under this Agreement and any other guarantees permitted under the Revolving Credit Agreement. 
+
+Section 5.4 Pledge Of Assets. Mortgage, pledge, grant or permit to exist a security interest in, or lien upon, any of its assets of any kind, now owned or hereafter acquired, except for (i) pledges and grants permitted by the Revolving Credit Agreement and (ii) the pledges and grants contemplated by Section 7.2. 
+
+ARTICLE VI 
+
+EVENTS OF DEFAULT 
+
+Section 6.1 Section 6.1. The occurrence of any of the following shall constitute an “Event of Default” under this Agreement: 
+
+(a) The Loan Parties shall fail to pay when due any principal, or interest, fees or other amounts payable under any of the Loan Documents. 
+
+(b) Any financial statement or certificate furnished to Lender in connection with this Agreement or any representation or warranty made or deemed made by Borrower hereunder shall prove to be false, incorrect or incomplete in any material respect when furnished, made or deemed made. 
+
+(c) Any default in the performance of or compliance with any obligation, agreement or other provision contained herein (other than those referred to in Sections 6.1(a) and (b) above), and with respect to any such default which by its nature can be cured, such default shall continue for a period of twenty (20) days from its occurrence. 
+
+(d) Upon the commencement of the exercise of remedies (including any acceleration) by the lenders under the Revolving Credit Facility in connection with any Event of Default under the Revolving Credit Facility. 
+
+(e) A Loan Party shall become insolvent, or shall suffer or consent to or apply for the appointment of a receiver, trustee, custodian or liquidator of itself or any of its property, or shall generally fail to pay its debts as they become due, or shall make a general assignment for the benefit of creditors; a Loan Party shall file a voluntary petition in bankruptcy, or seeking reorganization, in order to effect a plan or other arrangement with creditors or any other relief under the Bankruptcy Reform Act, Title 11 of the United States Code, as amended or recodified from time to time or any successor statute (“Bankruptcy Code”), or under any state or federal law granting relief to debtors, whether now or hereafter in effect; or any involuntary petition or proceeding pursuant to said Bankruptcy Code or any other applicable state or federal law relating to bankruptcy, reorganization or other relief for debtors is filed or commenced against a Loan Party shall file an answer admitting the jurisdiction of the court and the material allegations of any involuntary petition; or a Loan Party shall be adjudicated a bankrupt, or an order for relief shall be entered by any court of competent jurisdiction under said Bankruptcy Code or any other applicable state or federal law relating to bankruptcy, reorganization or other relief for debtors. 
+
+Section 6.2 Remedies. If an Event of Default shall occur, (a) any indebtedness of Borrower under any of the Loan Documents, any term thereof to the contrary notwithstanding, shall (automatically and without further action, in the case of an Event of Default under Section 6.1(e) and, in all other cases, at Lender’s option and without notice) become immediately due and payable without presentment, demand, protest or notice of dishonor, all of which are hereby expressly waived by 
+
+6 
+
+* * *
+
+Borrower; (b) the obligation, if any, of Lender to permit further borrowings hereunder shall immediately cease and terminate; and (c) Lender shall have all rights, powers and remedies available under each of the Loan Documents, or accorded by law. All rights, powers and remedies of Lender in connection with each of the Loan Documents may be exercised at any time by Lender and from time to time after the occurrence of an Event of Default, are cumulative and not exclusive, and shall be in addition to any other rights, powers or remedies provided by law or equity. 
+
+ARTICLE VII 
+
+MISCELLANEOUS 
+
+Section 7.1 No Waiver. No delay, failure or discontinuance of Lender in exercising any right, power or remedy under any of the Loan Documents shall affect or operate as a waiver of such right, power or remedy; nor shall any single or partial exercise of any such right, power or remedy preclude, waive or otherwise affect any other or further exercise thereof or the exercise of any other right, power or remedy. Any waiver, permit, consent or approval of any kind by Lender of any breach of or default under any of the Loan Documents must be in writing and shall be effective only to the extent expressly set forth in such writing. 
+
+Section 7.2 Security. Following the termination or maturity of the Revolving Credit Facility, if requested in writing by Lender in its sole and absolute discretion, the Loan Parties shall, at their own expense, and without expense to Lender, execute, acknowledge and deliver all deeds, conveyances, mortgages, assignments, agreements, notices or filings reasonably requested by Lender in order to provide Lender with a security interest in substantially all of the assets of the Loan Parties on a basis and pursuant to documentation substantially similar to the Revolving Credit Facility. 
+
+Section 7.3 Notices. All notices, requests and demands which any party is required or may desire to give to any other party under any provision of this Agreement must be in writing delivered to each party at the following address:   
+  
+BORROWER:
+
+16675 Highway 20 West
+
+East Dubuque, Illinois 61025
+
+Telecopier Number: (815) 747-3110
+
+E-mail: bbahl@rnp.net
+
+Attn: Wilfred Bahl
+
+With a copy to:
+
+Rentech Nitrogen, LLC
+
+16675 Highway 20 West
+
+East Dubuque, Illinois 61025
+
+Telecopier Number: (815) 747-3110
+
+Attn: General Counsel  
+  
+LENDER:
+
+10877 Wilshire Boulevard
+
+Suite 600
+
+Los Angeles, California 90024-4364
+
+Telecopier Number: (310) 208-7165
+
+E-mail: dcohrs@rentk.com
+
+Attn: Dan Cohrs  
+  
+7 
+
+* * *  
+  
+With a copy to:
+
+Rentech, Inc.
+
+10877 Wilshire Boulevard
+
+Suite 600
+
+Los Angeles, California 90024-4364
+
+Telecopier Number: (310) 208-7165
+
+Attn: General Counsel  
+  
+or to such other address as any party may designate by written notice to all other parties. Each such notice, request and demand shall be deemed given or made as follows: (a) if sent by hand delivery, upon delivery; (b) if sent by mail, upon the earlier of the date of receipt or three (3) days after deposit in the U.S. mail, first class and postage prepaid; (c) if sent by telecopy, upon receipt; and (d) if sent by electronic mail, upon receipt. 
+
+Section 7.4 Indemnity, Costs, Expenses And Attorneys’ Fees. Borrower shall indemnify Lender against, hold Lender harmless from, and pay to Lender immediately upon demand, the full amount of all costs and expenses, including reasonable attorneys’ fees, incurred by Lender in connection with (a) Lender’s administration of this Agreement and each of the other Loan Documents, and the preparation of this Agreement and the other Loan Documents and any amendments and waivers hereto and thereto, (b) the enforcement of Lender’s rights and/or the collection of any amounts which become due to Lender under any of the Loan Documents (including in connection with any bankruptcy, reorganization, “work-out” or similar circumstance or proceeding), and (c) the prosecution or defense of any claim or action in any way related to any of the Loan Documents or the transactions contemplated thereby, including without limitation any action for declaratory relief. 
+
+Section 7.5 Successors, Assignment. This Agreement shall be binding on and inure to the benefit of the heirs, executors, administrators, legal representatives, successors and assigns of the parties; provided however, that Borrower may not assign or transfer its interest hereunder without the prior written consent of Lender. Lender reserves the right to sell, assign, transfer, negotiate or grant participations in all or any part of, or any interest in, Lender’s rights and benefits under this Agreement, the Note and each of the other Loan Documents. In connection therewith, Lender may disclose all documents and information which Lender now has or may hereafter acquire relating to any of the Credits or Borrower or its business. 
+
+Section 7.6 Entire Agreement; Counterparts; Amendment. This Agreement and each of the other Loan Documents constitute the entire agreement between Borrower and Lender with respect to the Credits and supersede all prior negotiations, communications, discussions and correspondence concerning the subject matter hereof. This Agreement may be executed in any number of counterparts and may be amended or modified only by a written instrument executed by each party hereto. 
+
+Section 7.7 No Third Party Beneficiaries. This Agreement is made and entered into for the sole protection and benefit of the parties hereto and their respective permitted successors and assigns, and no other person or entity shall be a third party beneficiary of, or have any direct or indirect cause of action or claim in connection with, this Agreement or any other of the Loan Documents to which it is not a party. 
+
+Section 7.8 Time Is Of The Essence. Time is of the essence of each and every provision of this Agreement and each of the other Loan Documents. 
+
+8 
+
+* * *
+
+Section 7.9 Severability Of Provisions. If any provision of this Agreement shall be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity without invalidating the remainder of such provision or any remaining provisions of this Agreement. 
+
+Section 7.10 Governing Law. This Agreement shall be governed by and construed in accordance with the internal laws of the State of New York, except to the extent that Lender has greater rights or remedies under Federal law, in which case such choice of New York law shall not be deemed to deprive Lender of such rights and remedies as may be available under Federal law. 
+
+Section 7.11 Arbitration. Any controversy, dispute, or claim of whatever nature arising out of, in connection with, or in relation to the interpretation, performance or breach of this Agreement or any other Loan Document, including any claim based on contract, tort, or statute, shall be settled, at the request of any party to this Agreement, through a two-step dispute resolution process administered by Judicial Arbitration & Mediation Services, Inc. (“JAMS”) involving, first, mediation before a retired judge or justice from the JAMS panel followed, if necessary, by final and binding arbitration conducted at a location determined by the arbitrator(s) in Los Angeles, California administered by and in accordance with the then existing Rules of Practice and Procedure of JAMS, and judgment upon any award rendered by the arbitrator(s) may be entered by any state or federal court having jurisdiction thereof. The arbitrator(s) shall determine which is the prevailing party and shall include in the award that party’s reasonable attorney fees and costs. As soon as practicable after selection of the arbitrator(s), the arbitrator(s) or its or their designated representative shall determine a reasonable estimate of anticipated fees and costs of the arbitrator(s), and render a statement to each party setting forth that party’s pro-rata share of said fees and costs. Thereafter, each party shall, within ten (10) days of receipt of said statement, deposit said sum with the arbitrator(s). Failure of any party to make such a deposit shall result in a forfeiture by the nondepositing party of the right to prosecute or defend the claim which is the subject of the arbitration, but shall not otherwise serve to abate, stay or suspend the arbitration proceedings. 
+
+Section 7.11 Subordination. Notwithstanding anything herein to the contrary, this Agreement, and the exercise of any right or remedy by Lender hereunder, are subject in all respects to the terms and provisions of the Subordination Agreement. In the event of any conflict between the terms of the Subordination Agreement and this Agreement, the terms of the Subordination Agreement shall govern and control. 
+
+Section 7.12 Certain Defined Terms. As used in this Agreement the following terms shall have the meanings ascribed thereto: 
+
+“Bridge Loan Period” shall mean the period beginning on the date of this Agreement through May 31, 2012. 
+
+“Business Day” shall mean any day excluding Saturday, Sunday and any day which is a legal holiday under the laws of the State of New York. 
+
+“Equity Offering” shall mean a private placement or a public sale of common or preferred units of Guarantor. 
+
+“Expansion” shall mean a capital project that will increase the production capacity of fertilizer products at the fertilizer production facility owned by Borrower, the details of which have been previously provided to Lender. 
+
+9 
+
+* * *
+
+“Indebtedness Offering” shall mean the issuance or incurrence of any indebtedness for borrowed money by a Loan Party in an aggregate amount greater than $5,000,000. 
+
+“Margin” shall mean (i) during the Bridge Loan Period, the rate per annum equal to five and one half percent (5.5%) and (ii) on the first day of the Term Loan Period the rate per annum equal to six percent (6.0%) per annum; provided, that such rate shall be increased by one half percent (0.5%) after the end of the first six month period after the commencement of the Term Loan Period, and such rate shall be further increased by an additional one half percent (0.5%) after the passage of each subsequent six month period. 
+
+“Maturity Date” shall mean the date that is the earlier of (i) three calendar months after the date that the Revolving Credit Agreement is terminated and all obligations thereunder have been finally paid in full and (ii) six calendar months after the maturity date of the Revolving Credit Agreement. 
+
+“Revolving Credit Agreement” shall mean that certain Credit Agreement, dated as of November 10, 2011, by and among Rentech Nitrogen, LLC, as borrower, Rentech Nitrogen Partners, L.P., as guarantor, General Electric Capital Corporation, as a lender and agent for the lenders, and the lenders party thereto, as amended, restated, supplemented or otherwise modified from time to time. 
+
+“Subordination Agreement” shall mean that certain Subordination and Intercreditor Agreement dated as of the date hereof by and between Lender and General Electric Capital Corporation, as agent for the lenders party to the Revolving Credit Agreement and acknowledged by Borrower and Guarantor. 
+
+“Term Loan Period” shall mean the period beginning on June 1, 2012 through the date that the obligations under this Agreement have been paid in full. 
+
+[SIGNATURE PAGE FOLLOWS] 
+
+10 
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the day and year first written above.   
+  
+RENTECH, INC.
+
+as Lender  
+  
+By:
+
+/s/ Colin Morris  
+  
+Name: Colin Morris  
+Title: Senior Vice President & General Counsel  
+  
+RENTECH NITROGEN, LLC
+
+as Borrower  
+  
+By:
+
+/s/ Dan J. Cohrs  
+  
+Name: Dan J. Cohrs  
+Title: Vice President & Treasurer  
+  
+RENTECH NITROGEN PARTNERS, L.P.
+
+as Guarantor  
+  
+By:
+
+/s/ Dan J. Cohrs  
+  
+Name: Dan J. Cohrs  
+Title: Chief Financial Officer  
+  
+11 
+
+* * *
+
+EXHIBIT A 
+
+FORM OF NOTE 
+
+THIS INSTRUMENT AND THE RIGHTS AND OBLIGATIONS EVIDENCED HEREBY ARE SUBORDINATE IN THE MANNER AND TO THE EXTENT SET FORTH IN THAT CERTAIN SUBORDINATION AND INTERCREDITOR AGREEMENT (THE “SUBORDINATION AGREEMENT”) DATED AS OF DECEMBER 28, 2011 BY AND BETWEEN RENTECH, INC., A COLORADO CORPORATION, AND GENERAL ELECTRIC CAPITAL CORPORATION (“AGENT”), TO THE INDEBTEDNESS (INCLUDING INTEREST) OWED BY RENTECH NITROGEN, LLC, A DELAWARE LIMITED LIABILITY COMPANY (THE “COMPANY”), AND RENTECH NITROGEN PARTNERS, L.P., A DELAWARE LIMITED PARTNERSHIP (THE “GUARANTOR”), PURSUANT TO THAT CERTAIN CREDIT AGREEMENT DATED AS OF NOVEMBER 10, 2011, BY AND AMONG THE COMPANY, THE GUARANTOR, AGENT AND THE LENDERS FROM TIME TO TIME PARTY THERETO, AS SUCH CREDIT AGREEMENT HAS BEEN AND HEREAFTER MAY BE AMENDED, SUPPLEMENTED OR OTHERWISE MODIFIED FROM TIME TO TIME AND TO INDEBTEDNESS REFINANCING THE INDEBTEDNESS UNDER THAT AGREEMENT AS CONTEMPLATED BY THE SUBORDINATION AGREEMENT, AND EACH HOLDER OF THIS INSTRUMENT, BY ITS ACCEPTANCE HEREOF, IRREVOCABLY AGREES TO BE BOUND BY THE PROVISIONS OF THE SUBORDINATION AGREEMENT. 
+
+TERM LOAN PROMISSORY NOTE 
+
+December 28, 2011 
+
+FOR VALUE RECEIVED, Rentech Nitrogen, LLC, a Delaware limited liability company (the “Company”), promises to pay to the order of Rentech, Inc., a Colorado corporation (“Payee”), on or before the Maturity Date (as defined in the Credit Agreement) the outstanding principal amount of the Term Loan (as defined in the Credit Agreement) (including capitalized interest) under the Credit Agreement referred to below. 
+
+The Company also agrees that the outstanding principal amount of the Term Loan (including capitalized interest) shall bear interest from the date hereof until paid in full at the rates, in the form and at the times which shall be determined in accordance with the provisions of that certain Credit Agreement, dated as of the date hereof, by and between the Company and Payee (such agreement, as it may be amended, modified or supplemented from time to time, the “Credit Agreement”). Capitalized terms used herein without definition shall have the meanings set forth in the Credit Agreement. 
+
+This Note is the Company’s “Note” and is issued pursuant to and entitled to the benefits of the Credit Agreement to which reference is hereby made for a more complete statement of the terms and conditions under which the advances evidenced hereby were made and are to be repaid. 
+
+All payments of principal and interest in respect of this Note shall be made in lawful money of the United States of America in same day funds at the office of Payee located at Los Angeles, California, or at such other place as shall be designated in writing for such purpose in accordance with the notice provisions of the Credit Agreement. 
+
+12 
+
+* * *
+
+Whenever any payment on this Note shall be stated to be due on a day which is not a Business Day, such payment shall be made on the next succeeding Business Day and such extension of time shall be included in the computation of the payment of interest on this Note. 
+
+This Note is subject to repayment and mandatory prepayment as, and to the extent, provided in the Credit Agreement and prepayment at the option of the Company as provided in the Credit Agreement. 
+
+THIS NOTE SHALL BE GOVERNED BY, AND SHALL BE CONSTRUED AND ENFORCED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAW PROVISIONS. 
+
+Upon the occurrence of an Event of Default, the unpaid balance of the principal amount of this Note and all other obligations of the Company under the Credit Agreement, together with all accrued but unpaid interest thereon, may automatically become, or may be declared to be, due and payable in the manner, upon the conditions and with the effect provided in the Credit Agreement. 
+
+The terms of this Note are subject to amendment only in the manner provided in the Credit Agreement. 
+
+The obligation of the Company to pay the principal of and interest on this Note at the place, at the respective times, and in the currency herein prescribed is absolute and unconditional. 
+
+The Company promises to pay all costs and expenses, including all attorneys’ fees and expenses, all as provided in the Credit Agreement, actually incurred in the collection and enforcement of this Note, including any such costs, expenses or fees actually incurred in any appeal in connection with the collection and enforcement of this Note. The Company and endorsers of this Note hereby consent to renewals and extensions of time at or after the maturity hereof, without notice, and hereby waive diligence, presentment, protest, demand and notice of every kind and, to the full extent permitted by law, the right to plead any statute of limitations as a defense to any demand hereunder. 
+
+IN WITNESS WHEREOF, the Company has caused this Note to be executed and delivered by its duly authorized officer, as of the day and year and at the place first above written.   
+  
+RENTECH NITROGEN, LLC  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+13 

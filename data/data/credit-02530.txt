@@ -1,0 +1,984 @@
+Exhibit 10.40
+
+  
+
+
+
+
+  
+
+
+THIS LOAN AGREEMENT is made as of March 30, 2007, by and between CENTURY PROPERTIES FUND XIX, a California limited partnership (“Borrower”), and ING LIFE INSURANCE AND ANNUITY COMPANY, a Connecticut corporation (“Lender”).
+
+  
+
+
+RECITALS:
+
+  
+
+
+A.
+
+Lender is the holder and owner of the certain Promissory Note dated May 17, 2005, in the original principal amount of $11,000,000.00 by Borrower to Lender ("Original Note"), which Original Note is secured by, among other things, the Deed of Trust, Security Agreement, Financing Statement and Fixture Filing recorded May 17, 2005 as Document No. 20050652040, Maricopa County, Arizona, records ("Deed of Trust").
+
+  
+
+
+B.
+
+Borrower has requested that Lender make additional loans (collectively the “Loan”) to Borrower in the aggregate principal amount of $6,500,000.00, only a portion of the principal being advanced on this date, and the remainder to be advanced, if at all, subject to the terms and conditions hereinafter set forth.
+
+  
+
+
+C.
+
+Lender is willing to make the Loan to Borrower only on the terms and subject to the conditions and requirements set forth in this Agreement.
+
+  
+
+
+NOW, THEREFORE, in consideration of the premises and the mutual covenants herein contained, and for other valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties to this Agreement hereby agree as follows:
+
+  
+
+
+  
+
+
+ARTICLE I
+
+  
+
+
+DEFINITIONS; CONSTRUCTION
+
+  
+
+
+Section 1.01
+
+Definitions. For purposes of this Agreement, the following terms shall have the indicated meanings as set forth below:
+
+  
+
+
+“Agreement” shall mean this Loan Agreement, as amended, supplemented or modified from time to time.
+
+  
+
+
+“Assignment of Rents and Leases” shall mean the Assignment of Rents and Leases dated as of May 17, 2005, recorded as Document No. 20050652041, Maricopa County, Arizona, as amended. 
+
+  
+
+
+“Borrower” shall have the meaning given such term in the preamble to this Agreement and shall include its successors and assigns.
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+“Business Day” shall mean any day excluding Saturday, Sunday and any other day on which banks in Atlanta, Georgia are customarily closed.
+
+  
+
+
+“Collateral” shall mean any and all of the property which is granted, pledged or assigned to Lender or in which Lender is otherwise granted a Lien to secure the obligations pursuant to any and all of the Security Documents.
+
+  
+
+
+“Deed of Trust” shall mean shall have the meaning given such term in the preamble to this Agreement and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+“Default” shall mean any condition or event which, with notice or lapse of time or both, would constitute an Event of Default.
+
+  
+
+
+“Environmental Indemnification Agreement” shall mean the Environmental Indemnification Agreement dated as of May 17, 2005 by Borrower in favor of Lender, and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+“Event of Default” shall have the meaning provided in Article III hereof.
+
+  
+
+
+“Improvements” shall mean all improvements constructed on the Land.
+
+  
+
+
+“Land” shall mean, collectively, all of the real property described and defined as “Land” in the Deed of Trust.
+
+  
+
+
+“Lender” shall have the meaning given such term in the preamble to this Agreement and shall include such Person’s successors and assigns.
+
+  
+
+
+“Lien” shall mean any mortgage, deed to secure debt, deed of trust, pledge, security interest, security deposit, encumbrance, lien or charge of any kind (including any agreement to give any of the foregoing, any conditional sale or other title retention agreement, any lease in the nature thereof, and the filing of or agreement to give any financing statement under the Uniform Commercial Code of any jurisdiction).
+
+  
+
+
+“Loan” shall have the meaning given such term in the preamble to this Agreement.
+
+  
+
+
+“Loan Documents” shall mean, collectively, this Agreement, the Notes, the Security Documents, and any other certificates or written undertakings of Borrower in favor of Lender delivered contemporaneously with the delivery of this Agreement, other than the Environmental Indemnification Agreement.
+
+  
+
+
+"Modification Agreement" shall mean the certain Modification Agreement dated as of this same date between Borrower and Lender.
+
+  
+
+
+“Notes”  shall mean collectively the Original Note, Note B, Note C and Note D.
+
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+“Note B” shall mean the Promissory Note dated as of this same date by Borrower and payable to the order of Lender in the original stated principal amount of $3,000,000.00, as evidence of the Loan, and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+“Note C” shall mean the Promissory Note dated as of this same date by Borrower and payable to the order of Lender in the original stated principal amount of $1,750,000.00, as evidence of the Loan, and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+“Note D” shall mean the Promissory Note dated as of this same date by Borrower and payable to the order of Lender in the original stated principal amount of $1,750,000.00, as evidence of the Loan, and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+“Obligations” shall mean, collectively, all amounts now or hereafter owing to Lender by Borrower pursuant to the terms of or as a result of this Agreement, the Notes, or any other Loan Documents or the Environmental Indemnification Agreement, including without limitation, the unpaid principal balance of the Loan and all interest, fees, expenses and other charges relating thereto or accruing thereon, as well as any and all other indebtedness, liabilities, covenants, duties and obligations of Borrower, whether direct or indirect, absolute or contingent, or liquidated or unliquidated, monetary or non-monetary, which may be now existing or may hereafter arise under or as a result of any of the Loan Documents, the Environmental Indemnification Agreement, and together with any and all renewals, extensions, or modifications of any of the foregoing.
+
+  
+
+
+“Person” shall mean any individual, partnership, limited partnership, limited liability company, firm, corporation, association, joint venture, trust or other entity, or any government or political subdivision or agency, department or instrumentality thereof.
+
+  
+
+
+“Property” shall mean, collectively, the property, including the Land and all improvements, fixtures and related personal property located thereon. 
+
+  
+
+
+“Security Documents” shall mean, collectively, the Security Instruments, the Assignment, Consent and Subordination Regarding Management Agreement dated as of May 17, 2005, and each other affidavit, certificate, security, mortgage, assignment, financing statements or other collateral document, whether now existing or hereafter executed and delivered in connection with, or securing any or all of, the Obligations.
+
+  
+
+
+“Security Instruments” shall mean, collectively, the Deed of Trust, the Assignment of Rents and Leases, the UCC Financing Statements, the Modification Agreement, and other security instruments executed this date by Borrower in favor of Lender, to be recorded in the real estate records of the county where the Property is located, and any extensions, renewals, modifications or replacements thereof or therefor.
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+“Title Policy” shall mean that certain title insurance policy issued by Stewart Title Guaranty Company (the “ Title Company  ”) number M-9702-000639989 insuring Lender’s interest in the Property as of the recording of the Deed of Trust, as the same may be modified, amended and endorsed from time to time. 
+
+  
+
+
+Section 1.02
+
+Other Definitional Terms.  The words “hereof,” “herein” and “hereunder” and words of similar import when used in this Agreement shall refer to this Agreement as a whole, and not to any particular provision of this Agreement. Any pronoun used herein shall be deemed to cover all genders and all singular terms used herein shall include the plural and vice versa. Unless otherwise expressly indicated herein, all references herein to a period of time which runs “from” or “through” a particular date shall be deemed to include such date, and all references herein to a period of time which runs “to” or “until” a particular date shall be deemed to exclude such date.
+
+  
+
+
+ARTICLE II
+
+INITIAL AND FUTURE ADVANCES OF NOTES
+
+Section 2.01
+
+Initial Advance of Note B. On or about the date hereof, Lender shall advance $3,000,000.00 to Borrower (the “Initial Advance”), representing the portion of the original principal amount of the Loan evidenced by Note B, and Borrower acknowledges receipt thereof.
+
+  
+
+
+Section 2.02
+
+Future Funding of Note C and Note D. 
+
+  
+
+
+(a)
+
+Rehabilitation. Borrower is undertaking improvements to the Property as summarized on Schedule 1 attached hereto and incorporated herein by this reference ("Rehabilitation"). Disbursement of the proceeds of Note C and Note D is conditioned upon completion of the Rehabilitation and expenditure of funds with respect thereto. Prior to the Note C Funding Deadline (as defined below), Borrower shall have completed a portion of the Rehabilitation and shall have paid 100% of the costs, fees and expenses related to the completion of such portion of the Rehabilitation, with an aggregate expenditure of at least $6,500,000.00 in respect thereof ("Note C Rehabilitation"). Prior to the Note D Funding Deadline (as defined below), Borrower shall have completed the remaining portion of the Rehabilitation, with an expenditure of the balance of the cost estimate for the Rehabilitation as set forth in Schedul e 1 hereto, approximately $2,360,000.00 for an aggregate of $8,859,321.00, and shall have paid 100% of the costs, fees and expenses related to the completion of such remaining portion of the Rehabilitation ("Note D Rehabilitation"). 
+
+  
+
+
+Upon completion of each of the Note C Rehabilitation and of the Note D Rehabilitation, Borrower shall notify Lender of such completion, and Lender shall inspect the Property. At the time of or prior to such notification, Lender shall be provided by Borrower with a final inspection report and a certificate of substantial completion in form and substance satisfactory to Lender certifying completion of all work on the Note C Rehabilitation or the Note D Rehabilitation, as the case may be, from the architect/engineer and the general contractor supervising the Note C Rehabilitation or the Note D Rehabilitation. Borrower shall have paid for 
+
+  
+  
+
+
+  
+
+
+  
+
+
+all such work and shall obtain from the general contractor and all subcontractors, mechanics and materialmen lien waivers in the form customary in Arizona to evidence such parties' receipt of payment in full for all labor and materials and to irrevocably waive such parties' rights to lien the Property as a result of any party's participation in the Note C Rehabilitation or the Note D Rehabilitation, and shall provide the same to Lender. All materials required to be delivered to Lender for its review and approval in connection with completion of the Note C Rehabilitation and the Note D Rehabilitation, and other required evidence to support the funding of Note C or Note D, as the case may be, are hereinafter sometimes referred to as the "Completion Evidence."
+
+  
+
+
+In the event that (i) Borrower completes the Note C Rehabilitation work or the Note D Rehabilitation work, as the case may be, (ii) Lender approves the Completion Evidence in respect of such work in its sole and absolute discretion, (iii) no Event of Default exists under any of the Loan Documents, and (iv) the conditions set forth in paragraph (b) below have been satisfied with respect to Note C or Note D, as applicable, Lender shall fund Note C and Note D, as the case may be, in accordance with this Section 2.02. Borrower shall be limited to no more than one draw for each of Note C and Note D, which must be drawn prior to the Note C Funding Deadline or the Note D Funding Deadline, as the case may be. Borrower shall submit to Lender (or to Johnson Capital Group) a draw request for each disbursement, which request must be accompanied by, unless delivered to Lender previously, (A) copies of invoices, mark ed paid, (B) lien waivers from all contractors, subcontractors, mechanics and materialmen in the form customarily required by statute and by title companies issuing lien coverage in the state, (C) an architect’s or engineer's certificate certifying that the Note C Rehabilitation or Note D Rehabilitation work items have been completed pursuant to the budget and that such work has been completed in a good and workmanlike manner in accordance with the plans and specifications for such work or the recommendations set forth in the engineer report, as applicable, (D) an inspection letter from Johnson Capital Group, and (E) to the extent required by the jurisdiction having authority over building and repair matters in the city and county in which the Property is located, any certificate of occupancy, inspections or other approvals of such jurisdiction as may be required for completion and occupancy.
+
+  
+
+
+(b)
+
+Funding. Upon satisfaction of the foregoing, Borrower shall have the right to obtain future disbursement of the principal amounts of Note C and Note D, as the case may be (each such disbursement hereinafter a “Future Advance”), upon and subject to Borrower’s full and complete satisfaction of the following:
+
+  
+
+
+(i)
+
+General Future Advance Conditions – Both Notes
+
+  
+
+
+(A)
+
+Borrower must submit to Lender, no later than ten (10) Business Days prior to the applicable Note C Funding Deadline or Note D Funding Deadline (as such terms are hereinafter defined), a written request (“Advance Notice”) for disbursement of the applicable Note C or Note D, together with the Completion Evidence and the supporting materials evidencing Borrower’s completion of the conditions required below (each set of conditions under the heading for the particular Note, hereinafter “Advance Conditions”) for the Future Advance of Note C or Note D, as applicable.
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+(B)
+
+Lender shall provide written acknowledgment to Borrower of Lender’s receipt of an Advance Notice no more than ten (10) days following its receipt thereof (“Acknowledgment Letter”). The Acknowledgment Letter will set forth Lender’s approval of Borrower’s completion and satisfaction of the Completion Evidence and the Advance Conditions or its disapproval with a specification of the reasons for such disapproval. If Lender approves the Advance Notice for a Future Advance, Lender shall fund the Future Advance within twenty (20) days after Lender's Acknowledgment Letter provided all remaining terms and conditions of this Section 2.02 are satisfied in full by Borrower.
+
+  
+
+
+(C)
+
+Borrower shall execute such additional loan documentation as Lender shall reasonably request to evidence and acknowledge the funding of Note C or Note D, as applicable, including, without limitation, a funding disbursement statement with authorization and acknowledgment of the disbursement, and Borrower’s certification in form and substance satisfactory to Lender to certify ERISA representations and warranties set forth in Paragraph 47 of the Deed of Trust remain true and correct, to satisfy Lender and the Title Company as to all matters necessary in order to issue the required title endorsement in connection with such Future Advance, to certify the satisfaction of the required Completion Evidence and completion of the applicable Advance Conditions, to certify that no Event of Default exists under the Loan Documents, to certify that the officer requesting such Future Advance and executing an y required documentation thereof has authority to do so, and such other documentation as Lender shall reasonably request. Additionally, Borrower shall obtain an opinion of its legal counsel in favor of Lender in form and substance satisfactory to Lender pertaining to the due organization and authority of Borrower and enforceability of the additional documentation in connection with such Future Advance (and otherwise substantially in the form used for closing of the Loan). 
+
+  
+
+
+(D)
+
+All Future Advances shall be funded through the Title Company. Each Future Advance shall become part of the outstanding principal balance of the Loan and the indebtedness under the Loan Documents (and secured by the Security Documents) immediately upon Lender’s funding of the advance to the Title Company. 
+
+  
+
+
+(E)
+
+Borrower shall deliver, or cause the Title Company to deliver, to Lender at funding of a Future Advance in respect of Note C and of Note D, a date down endorsement bringing forward the effective date of Lender’s Title Policy through the date and time of funding of each Future Advance, increasing the insured amount on the Title Policy by the principal amount of Note C and Note D (so that upon the final advance of the full amount of Note D, the Title Company shall have insured under the policy the full amount of the Loan), deleting any and all pending disbursement conditions from the policy as pertained to Note C or Note D, as applicable, continuing forward all title insurance coverage and endorsements to the Title Policy, and showing no new exceptions or other matters affecting title to the Property other than those items reflected in the Title Policy at 
+
+  
+  
+
+
+  
+
+
+  
+
+
+the time of its original issuance unless such new exceptions or matters have been approved by Lender in its sole discretion. No mechanic’s and/or materialmen’s or other construction liens shall exist with respect to the Property that are not insured over by the Title Company in Lender’s Title Policy and/or bonded over. The lien and interest of the Deed of Trust must be a first priority lien, to the full extent of the full amount of the Loan and the Notes funded through the applicable Future Advance. Lender shall not be obligated to make a disbursement of any Future Advance of Note C or Note D that would result in any change in priority of the lien and interest of the Deed of Trust as to any portion of the Loan, including the amount of the Future Advance to be funded. 
+
+  
+
+
+(F)
+
+If the Borrower fails to qualify or draw the Future Advance in respect of Note D, then within thirty (30) days after the Note D Funding Deadline, Borrower shall obtain at its sole cost and expense, a title endorsement to Lender’s Title Policy deleting any and all pending disbursement endorsements (and the full insured amount on Schedule A of the Title Policy must be no less than the aggregate principal amount of all advances made on the Loan to date, including the Original Note, Note B and any completed Future Advance) and no other change shall be permitted to be made to Lender’s Title Policy.
+
+  
+
+
+(G)
+
+Borrower must pay simultaneously with funding of each Future Advance all actual third party costs, fees and expenses incurred by Lender in order to complete the Future Advance in accordance with the terms hereof, including, without limitation, reasonable attorneys’ fees and expenses and title costs, fees, premiums and expenses.
+
+  
+
+
+(H)
+
+Lender shall have no obligation to fund either Note C or Note D if at any time prior thereto the principal balance outstanding under the Notes has been reduced to zero.
+
+  
+
+
+(ii)
+
+Note C Future Advance
+
+  
+
+
+(A)
+
+Borrower shall have until December 27, 2007 (“Note C Funding Deadline”) within which to satisfy the requirements of this Section 2.02 to qualify for and close on disbursement of Note C. Lender shall have no obligation to fund Note C following the Note C Funding Deadline. If Borrower fails to satisfy the conditions for the Future Advance in respect of Note C in accordance with this Section 2.02, then Lender also shall have no obligation to fund Note D following the Note C Funding Deadline.
+
+  
+
+
+(B)
+
+Note B shall not have been prepaid prior to the funding of the Future Advance in respect of Note C. 
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+(iii)
+
+Note D Future Advance
+
+  
+
+
+(A)
+
+Borrower shall have until May 28, 2008 (“Note D Funding Deadline”) within which to satisfy the requirements of this Section 2.02 to qualify for and close on disbursement of Note D. Lender shall have no obligation to fund Note D following the Note D Funding Deadline or if the Future Advance in respect of Note C has not been funded.
+
+  
+
+
+(B)
+
+Borrower must submit to Lender for its review and approval either an affidavit to the effect there has been no change in the improvements that would be shown on an updated survey, or, if there has been any such change, an updated as-built survey of the Property showing the completed site improvements on the Property as of the time immediately prior to the funding of the Future Advance in respect of Note D. The Title Policy endorsement required by General Future Advance Conditions – Both Notes, Section 2.02(b)(i). above, must also include an updated 3.1 zoning endorsement, with parking, applicable to any such new improvements and an updated survey endorsement in form and substance satisfactory to Lender in its sole discretion. In the event either Note C or Note D is not funded by the Note C Funding Deadline or the Note D Funding Deadline, the foregoing shall be provided to Lender by the Note C Funding Deadline or the Note D Funding Deadline, as the case may be.
+
+  
+
+
+(C)
+
+Neither Note B nor Note C shall have been prepaid prior to the funding of the Future Advance in respect of Note D.
+
+  
+
+
+Section 2.03
+
+Note; Repayment of Principal and Interest. Borrower’s obligations to pay to Lender the principal of and interest on the Loan shall be evidenced by the Notes. The Loan shall bear interest at the rate or rates per annum specified in the Notes and such interest shall be calculated and shall be paid and shall accrue in the manner specified in the Notes. 
+
+  
+
+
+  
+
+
+ARTICLE III
+
+  
+
+
+EVENTS OF DEFAULT
+
+  
+
+
+Section 3.01
+
+Events of Default. Each of the following events shall constitute an Event of Default under this Agreement:
+
+  
+
+
+(a)
+
+The occurrence of an Event of Default under the Loan Documents (other than this Agreement) or the Environmental Indemnification Agreement;
+
+  
+
+
+(b)
+
+Should any Default occur in the performance or observance of any term, condition or provision contained in this Agreement which does not relate to the nonpayment of any monetary sum, which Default shall continue for thirty (30) days after the Lender gives Borrower written notice thereof;
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+(c)
+
+Should any representation or warranty made by Borrower herein or in any of the other Loan Documents or the Environmental Indemnification Agreement be false or misleading in any material respect on the date as of which made (or deemed made); and 
+
+  
+
+
+(d)
+
+Should Borrower be terminated, liquidated, dissolved or otherwise cease to exist.
+
+  
+
+
+Section 3.02
+
+Remedies. Upon the occurrence of an Event of Default, Lender may, in its discretion, exercise one or more of the following remedies:
+
+  
+
+
+(a)
+
+Accelerate the maturity of the Obligations and declare the entire unpaid principal balance of, and any unpaid interest then accrued on, the Notes, together with any Prepayment Premium, without demand or notice of any kind to Borrower or any other Person, to be immediately due and payable. 
+
+  
+
+
+(b)
+
+Take all, any or any combination of the actions Lender may take under any of the other Loan Documents or the Environmental Indemnification Agreement upon the occurrence of a default or an event of default thereunder. 
+
+  
+
+
+(c)
+
+Perform, or cause to be performed, any obligation, covenant or agreement that Borrower has failed to perform or comply with, and in such event all costs and expenses incurred by Lender in performing any such obligation, covenant or agreement shall be added to the Obligations and shall be secured by the Security Instruments, and shall bear interest at the Default Rate (as defined in the Notes, whichever is greatest) from the date paid or incurred by Lender, and the interest thereon shall also be added to and become a part of the Obligations and shall be secured by the Security Instruments.
+
+  
+
+
+(d)
+
+Continue to act, with respect to Borrower and the Loan, as if no Event of Default had occurred, which continuance shall not be or be construed as a waiver of Lender’s rights; and assert the Event of Default and take any action provided for herein at any time after the occurrence and during the existence of the Event of Default.
+
+  
+
+
+(e)
+
+Proceed as authorized by law to obtain payment of the Loan.
+
+  
+
+
+(f)
+
+Take all, any, or any combination of the actions Lender may take under applicable law or equity subject to the limitations on liability of Borrower contained in the Loan Documents.
+
+  
+
+
+No failure or delay on the part of Lender to exercise any right or remedy hereunder or under the Loan Documents or the Environmental Indemnification Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy hereunder preclude any further exercise thereof or the exercise of any further right or remedy hereunder or under the Loan Documents or the Environmental Indemnification Agreement. No exercise by Lender of any remedy under the other Loan Documents or the Environmental Indemnification Agreement shall operate as a limitation on any rights or remedies of Lender under this Agreement, except to the extent of moneys actually received by Lender under the other Loan Documents or the Environmental Indemnification Agreement.
+
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Section 3.03
+
+Costs and Expenses. All costs and expenses incurred by Lender in connection with any of the actions authorized in this Article, after an Event of Default, including without limitation attorneys’ fees, shall be and constitute a portion of the Loan, secured in the same manner and to the same extent as the Loan, even though such costs and expenses may cause the amount of the Loan to exceed the face amount of the Notes. Whenever than terms of this Agreement require Borrower to pay attorneys’ fees of Lender, such obligation shall extend only to reasonable attorneys’ fees, without regard to statutory interpretations, actually incurred at normal hourly rates.
+
+  
+
+
+Section 3.04
+
+Remedies Cumulative. The foregoing remedies are cumulative of, and in addition to, and not restrictive or in lieu of, the other remedies provided for herein and the remedies provided for or allowed by the other Loan Documents or the Environmental Indemnification Agreement, or provided for or allowed by law, or in equity.
+
+  
+
+
+ARTICLE IV
+
+MISCELLANEOUS
+
+Section 4.01
+
+Notices.
+
+(a)
+
+All notices, demands, requests, and other communications desired or required to be given hereunder (“Notices”), shall be in writing and shall be given by: (i) hand delivery to the address for Notices; (ii) delivery by overnight courier service to the address for Notices; or (iii) sending the same by United States mail, postage prepaid, certified mail, return receipt requested, addressed to the address for Notices.
+
+(b)
+
+All Notices shall be deemed given and effective upon the earlier to occur of (i) the hand delivery of such Notice to the address for Notices; (ii) one Business Day after the deposit of such Notice with an overnight courier service by the time deadline for next day delivery addressed to the address for Notices; or (iii) three Business Days after depositing the Notice in the United States mail as set forth in (a)(iii) above. All Notices shall be addressed to the following addresses:
+
+  
+
+
+Borrower:
+
+Century Properties Fund XIX
+
+c/o AIMCO Properties, L.P.
+
+4582 S. Ulster Street, Suite 1100
+
+Denver, Colorado 80237
+
+Attn: Trey O’Shields
+
+  
+
+
+With a copy to:
+
+Bryan Cave LLP
+
+3500 One Kansas City Place
+
+1200 Main Street
+
+Kansas City, Missouri 64105
+
+Attn: David Reid
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+Lender:
+
+ING Life Insurance and Annuity
+
+c/o ING Investment Management LLC
+
+5780 Powers Ferry Road, NW, Suite 300
+
+Atlanta, Georgia 30327-4349
+
+Attention: Mortgage Loan Servicing Department
+
+  
+
+
+and to:
+
+ING Investment Management LLC
+
+5780 Powers Ferry Road, NW, Suite 300
+
+Atlanta, Georgia 30327-4349
+
+Attention: Real Estate Law Department
+
+  
+
+
+With a copy to:
+
+Nyemaster, Goode, West,
+
+Hansell & O'Brien, P.C.
+
+700 Walnut, Suite 1600
+
+Des Moines, Iowa 50309
+
+  
+
+
+or to such other persons or at such other place as any party hereto may by Notice designate as a place for service of Notice; provided, however, that the “copy to” Notice to be given as set forth above is a courtesy copy only; and a Notice given to such person is not sufficient to effect giving a Notice to the principal party, nor does a failure to give such a courtesy copy of a Notice constitute a failure to give Notice to the principal party.
+
+  
+
+
+Section 4.02
+
+No Waiver; Remedies Cumulative. No failure or delay on the part of Lender in exercising any right or remedy hereunder and no course of dealing between Borrower and Lender shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy hereunder or under the Notes preclude any other or further exercise thereof or the exercise of any other right or remedy hereunder. The rights and remedies herein expressly provided are cumulative and not exclusive of any rights or remedies which Lender would otherwise have. No notice to or demand on Borrower not required hereunder or under any other Loan Document in any case shall entitle Borrower to any other or further notice or demand in similar or other circumstances or constitute a waiver of the rights of Lender to any other or further action in any circumstances without notice or demand.
+
+  
+
+
+Section 4.03
+
+Successors and Assigns; Sale of Interest. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the respective legal representatives, successors and permitted assigns of the parties hereto; provided that Borrower may not assign or transfer any of its rights or obligations hereunder without the prior written consent of Lender, other than to the extent expressly permitted by the Loan Documents. Lender may sell or assign all or any part of Lender’s rights, title or interests hereunder and under the other Loan Documents or the Environmental Indemnification Agreement without the prior written consent of Borrower; provided, however that any such assignment shall not increase any of the obligations of Borrower under the Loan Documents or the Environmental Indemnification Agreement. In that event, such successor or assignee shall be entitled to all of the rights o f Lender under the Loan Documents or the Environmental Indemnification Agreement.
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+Section 4.04
+
+Modification. This Agreement shall not be modified or amended in any respect except by a written agreement executed by the parties in the same manner as this Agreement is executed.
+
+  
+
+
+Section 4.05
+
+Time of Essence. Time is of the essence of this Agreement and each of the other Loan Documents and the Environmental Indemnification Agreement.
+
+  
+
+
+Section 4.06
+
+Governing Law. This Agreement shall be construed and enforced in accordance with, and the rights of the parties shall be governed by, the laws of the State of Arizona, without regard to principles of conflicts of laws thereof.
+
+  
+
+
+Section 4.07
+
+Counterparts. This Agreement may be executed in any number of counterparts and by the different parties hereto on separate counterparts, each of which when so executed and delivered shall be an original, but all of which shall together constitute one and the same instrument.
+
+  
+
+
+Section 4.08
+
+Effectiveness; Survival.
+
+  
+
+
+(a)
+
+This Agreement shall become effective on the date on which all of the parties hereto shall have signed a copy hereof (whether the same or different copies) and Lender shall have received the same.
+
+  
+
+
+(b)
+
+All representations and warranties made herein, in the certificates, reports, notices, and other documents delivered pursuant to this Agreement shall survive the execution and delivery of this Agreement, the other Loan Documents, the Environmental Indemnification Agreement, and such other agreements and documents, the making of the Loan hereunder and the execution and delivery of the Notes, and shall terminate at such time as the Obligations have been paid and satisfied in full; provided, however, that the Environmental Indemnification Agreement shall remain in full force and effect in accordance with the terms thereof notwithstanding any payment and dissatisfaction of the Obligations.
+
+  
+
+
+Section 4.09
+
+Severability. In case any provision in or Obligation under this Agreement or the other Loan Documents or the Environmental Indemnification Agreement shall be invalid, illegal or unenforceable, in whole or in part, in any jurisdiction, the validity, legality and enforceability of the remaining provisions or obligations, or of such provision or obligation in any other jurisdiction, shall not in any way be affected or impaired thereby.
+
+  
+
+
+Section 4.10
+
+Independence of Covenants. All covenants hereunder shall be given independent effect so that if a particular action or condition is not permitted by any of such covenants, the fact that it would be permitted by an exception to, or be otherwise within the limitation of, another covenant, shall not avoid the occurrence of a Default or an Event of Default if such action is taken or condition exists.
+
+  
+
+
+Section 4.11
+
+Headings Descriptive. The headings of the several sections and subsections of this Agreement are inserted for convenience only and shall not in any way affect the meaning or construction of any provision of this Agreement.
+
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Section 4.12
+
+Termination of Agreement. At such time as all Obligations have been paid and satisfied in full, this Agreement shall terminate; provided however, that any and all indemnity obligations of Borrower to Lender arising hereunder or under any of the other Loan Documents, which are expressly stated to survive satisfaction of the Obligations shall survive the termination of this Agreement or such other Loan Documents, and provided further that all indemnity obligations under the Environmental Indemnification Agreement shall survive such payment and satisfaction of the Obligations as set forth in the Environmental Indemnification Agreement.
+
+  
+
+
+Section 4.13
+
+Entire Agreement. This Agreement and the other Loan Documents and the Environmental Indemnification Agreement constitute the entire agreement between Borrower and Lender with respect to the Loan, the other Obligations and the Collateral and supersede all prior agreements, representations and understandings related to such subject matters.
+
+  
+
+
+Section 4.14
+
+ERISA. Borrower hereby represents, warrants and agrees that as of the date hereof, none of the partners in the Borrower is an employee benefit plan as defined in Section 3(3) of the Employee Retirement Income Security Act of 1974 as amended, a plan as defined in Section 4975(e)(1) of the Internal Revenue Code of 1986 as amended, nor an entity the assets of which are deemed to include plan assets pursuant to Department of Labor regulation Section 2510.3-101 (the “Plan Asset Regulation”). Borrower further represents, warrants and agrees that at all times during the term of the Loan the Borrower shall satisfy an exception to the Plan Asset Regulation, such that the assets of the Borrower shall not be deemed to include plan assets. If at any time during the entire term of the Loan any of partners in the Borrower shall include a plan or entity described in the first sentence of this S ection, Borrower shall as soon as reasonably possible following an investment by such a plan or entity, provide Lender with an opinion of counsel reasonably satisfactory to Lender indicating that the assets of the Borrower are not deemed to include plan assets pursuant to the Plan Asset Regulation. In lieu of such an opinion, the Lender may in its sole discretion accept such other assurances from the Borrower as are necessary to satisfy Lender in its sole discretion that the assets of the Borrower are not deemed to include plan assets pursuant to the Plan Asset Regulation. Borrower understands that the representations and warranties herein are a material inducement to Lender in the making of the Loan, without which Lender would have been unwilling to proceed with the closing of the Loan.
+
+  
+
+
+Section 4.15
+
+Jury Trial Waiver; Consent to Forum.
+
+  
+
+
+(a)
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BORROWER IRREVOCABLY WAIVES ALL RIGHT OF TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR ANY OF THE OTHER LOAN DOCUMENTS OR THE ENVIRONMENTAL INDEMNIFICATION AGREEMENTS OR ANY MATTER ARISING HEREUNDER OR THEREUNDER.
+
+  
+
+
+(b)
+
+BORROWER ALSO AGREES THAT ANY LEGAL ACTION OR PROCEEDING WITH RESPECT TO THIS AGREEMENT OR ANY OF THE OTHER LOAN 
+
+  
+  
+
+
+  
+
+
+  
+
+
+DOCUMENTS OR THE ENVIRONMENTAL INDEMNIFICATION AGREEMENTS OR TO ENFORCE ANY JUDGMENT OBTAINED AGAINST BORROWER IN CONNECTION WITH THIS AGREEMENT OR SUCH OTHER LOAN DOCUMENT, MAY BE BROUGHT BY LENDER IN ANY STATE OR FEDERAL COURT SITTING IN THE COUNTY OF THE STATE IN WHICH LENDER’S ADDRESS SHOWN ABOVE IS LOCATED, OR IN ANY ONE OR MORE OTHER STATE OR FEDERAL COURTS SITTING IN ANY COUNTY AND STATE IN WHICH ANY OF THE PROPERTY IS LOCATED. BORROWER IRREVOCABLY SUBMITS TO THE JURISDICTION OF THE AFORESAID STATE AND FEDERAL COURTS, AND IRREVOCABLY WAIVES ANY PRESENT OR FUTURE OBJECTION TO VENUE IN ANY SUCH COURT, AND ANY PRESENT OR FUTURE CLAIM THAT ANY SUCH COURT IS AN INCONVENIENT FORUM, IN CONNECTION WITH ANY ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OF THE OTHER LOAN DOCUMENTS OR THE ENVIRONMENTAL INDEMNIFICATION AGREEMENTS.
+
+  
+
+
+  
+
+
+[REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Loan Agreement to be duly executed and delivered on their behalf as of the date first above stated.
+
+  
+
+
+  
+
+
+CENTURY PROPERTIES FUND XIX, a California limited partnership
+
+By: Fox Partners II, a California general partnership, its general partner,
+
+By: Fox Capital Management Corporation, a California corporation, its managing general partner
+
+  
+
+
+  
+
+
+By: /s/Patti K. Fielding
+
+Patti K. Fielding,
+
+Executive Vice President and Treasurer
+
+  
+
+
+  
+
+
+STATE OF COLORADO )
+
+) ss.
+
+COUNTY OF DENVER
+
+)
+
+  
+
+
+On this 22 day of March, 2007, before me, the undersigned, a notary public, personally appeared Patti K. Fielding, to me personally known, who being by me duly sworn did say that the person is the Executive Vice President and Treasurer of Fox Capital Management Corporation, the managing general partner of Fox Partners II, the general partner of CENTURY PROPERTIES FUND XIX, a California limited partnership, executing the foregoing instrument; that no seal has been procured by the corporation; that the instrument was signed on behalf of the corporation as managing partner of the general partner of Century Properties Fund XIX, by authority of the corporation's Board of Directors; and such officer acknowledged execution of the instrument to be the voluntary act and deed of the corporation on behalf of the general partnership on behalf of the limited partnership, by it and by the officer voluntarily executed.
+
+  
+
+
+/s/Gail D. Coalson
+
+Name: Gail D. Coalson
+
+Notary Public: My commission expires 2/17/2008
+
+  
+
+
+  
+
+
+[SIGNATURE PAGE TO LOAN AGREEMENT, CONTINUED ON FOLLOWING PAGE]
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+  
+
+
+  
+
+
+ING LIFE INSURANCE AND ANNUITY COMPANY, a Connecticut corporation
+
+  
+
+
+By: ING Investment Management LLC, its duly authorized agent
+
+  
+
+
+  
+
+
+By: /s/Gregory R. Michaud
+
+Name: Gregory R. Michaud
+
+Title: Vice President
+
+  
+
+
+  
+
+
+  
+
+
+[CONTINUATION OF SIGNATURE PAGE TO LOAN AGREEMENT]
+
+  
+  
+
+
+  
+
+
+  
+

@@ -1,0 +1,322 @@
+EX-4.1
+
+
+
+This Registration Rights Agreement (this “Agreement”) is made and entered into as of this 8th day of December, 2005 by and between ENERTECK CORPORATION, a Delaware corporation (the “Company”), and BATL BIOENERGY LLC, a Delaware limited liability company (the “Purchaser”).
+
+W I T N E S S E T H
+
+WHEREAS, pursuant to a Securities Purchase Agreement, dated as of the date hereof, between the Company and the Purchaser (the “Purchase Agreement”), the Company has agreed to issue and sell to the Purchaser an aggregate of 2,450,000 shares (the “BATL Shares”) of common stock of the Company, $.001 par value (“Common Stock”), and a warrant (the “Warrant”) to purchase 1,000,000 shares of the Company’s Common Stock (the “Warrant Shares”, and together with the BATL Shares, the “Shares”). 
+
+WHEREAS, to induce the Purchaser to execute and deliver the Purchase Agreement, the Company has agreed to provide to the Purchaser and its permitted assigns certain registration rights under the Securities Act of 1933, as amended (the “Securities Act”), and applicable state securities laws; and 
+
+WHEREAS, this Agreement, together with the Purchase Agreement and the Warrants, are hereinafter collectively referred to as the “Transaction Documents”.
+
+NOW THEREFORE, in consideration of the foregoing and other good and valuable consideration, the parties hereto agree as follows:
+
+1. Definitions.
+
+As used in this Agreement, the following terms shall have the following meanings:
+
+(a) 
+
+“Claims” shall have the meaning ascribed to it in Section 6(a).  
+  
+(b) 
+
+“Excess Liability” shall have the meaning ascribed to it in Section 6(e).  
+  
+(c) 
+
+"Holder" or “Holders” mean a holder or holders of Registrable Securities.  
+  
+(d) 
+
+“Indemnified Person” shall have the meaning ascribed to it in Section 6(a).  
+  
+(e) 
+
+“Registrable Securities” shall mean (i) the Shares, (ii) the shares of Common Stock or other securities issued or issuable to the Purchaser or its permitted transferee or designee (a) upon exercise of the Warrant, or (b) upon any distribution with respect to, any exchange for or any replacement of such Warrant, or (c) upon any conversion, exercise or exchange of any securities issued in connection with any such distribution, exchange or replacement; (iii) securities issued or issuable upon any stock split, stock dividend, recapitalization or similar event with respect to such shares of Common Stock; and (iv) any other security issued as a dividend or other distribution with respect to, in exchange for, or in replacement of, the securities referred to in the preceding clauses.  
+  
+* * *
+
+(f) 
+
+“Registration Period” shall have the meaning ascribed to it in Section 2(ii).  
+  
+(g) 
+
+“Registration Statement” means a registration statement or registration statements of the Company filed under the Securities Act covering Registrable Securities.  
+  
+(h) 
+
+“Register,”“Registered” and “Registration” refer to a registration effected by preparing and filing a registration statement in compliance with the Securities Act and pursuant to Rule 415 under the Securities Act or any successor rule providing for offering securities on a continuous basis (“Rule 415”), and the declaration or ordering of effectiveness of such registration statement by the United States Securities and Exchange Commission (the “Commission”).  
+  
+(i) 
+
+“Rule 144” shall have the meaning ascribed to it in Section 8.  
+  
+(j) 
+
+“Securities Act” shall mean the Securities Act of 1933, as amended.  
+  
+(k) 
+
+“Violations” shall have the meaning ascribed to it in Section 6(a).  
+  
+(l) 
+
+“Penalty Warrant” shall mean a five-year warrant to purchase 49,000 shares of Common Stock (subject to appropriate adjustment for any stock splits, stock dividends, reorganizations, reclassifications or other similar events by the Company after the date hereof) at a per share exercise price that is equal to the then-prevailing exercise price under the Warrant, and containing substantially similar terms as those contained in the certificate evidencing the Warrant.  
+  
+Capitalized terms defined in the introductory paragraph or the recitals to this Agreement shall have the respective meanings therein provided. Capitalized terms used herein and not otherwise defined herein shall have the meanings set forth in the Purchase Agreement or elsewhere in the Transaction Documents.
+
+2. Mandatory Registration.
+
+(i) The Company shall prepare and file with the Securities and Exchange Commission (the “Commission”) not later than the 60th day (the “Filing Date”) after the Closing Date under the Purchase Agreement a Registration Statement or Registration Statements (as necessary) on Form SB-2 covering the resale of all of the Registrable Securities, in an amount sufficient to cover the resale of the BATL Shares and the shares issuable upon exercise of the Warrant. In the event that Form SB-2 is unavailable and/or inappropriate for such a registration, the Company shall use such other form as is available and appropriate for such a registration. Any Registration Statement prepared pursuant hereto shall register for resale at least that number of shares of Common Stock equal to the Shares. The Company shall use its best efforts to cause the Registration Statement to be declared effective under the Securities Act as promptly as possible after the filing thereof, but in any event prior to the 240th day after the Filing Date (such day referred to herein as the “Effective Date”); provided that, if the Registration Statement is not filed by the Filing Date or declared effective by the Effective Date (each a “Penalty Event”) then the Company shall issue a Penalty Warrant to the Purchaser per 30-day period following the Penalty Event that the Registration Statement has not been filed and/or that the Effective Date has not occurred. Each such Penalty Warrant shall be due within five days of the end of each 30-day period. The Registration Statement shall be appropriately revised, and/or amended promptly following each such 30-day period, as appropriate, to include for resale any additional shares issuable upon exercise of such Penalty Warrants.
+
+2
+
+* * *
+
+(ii) The Company shall use its best efforts to keep each Registration Statement effective pursuant to Rule 415 at all times until such date as is the earlier of (i) the date on which all of the Registrable Securities have been sold and (ii) the date on which the Registrable Securities (in the opinion of counsel to each Purchaser and acceptable to legal counsel for the Company) may be immediately sold without restriction (including without limitation as to volume restrictions by each holder thereof) without registration under the Securities Act (the “Registration Period”).
+
+(iii) If any offering pursuant to a Registration Statement, pursuant to Section 2 hereof, involves an underwritten offering (which may only be with the consent of the Company), each Purchaser shall have the right to select legal counsel and an investment banker or bankers and manager or managers to administer to the offering, which investment banker or bankers or manager or managers shall be reasonably satisfactory to the Company.
+
+3. Obligations of the Company. In connection with the registration of the Registrable Securities, the Company shall do each of the following:
+
+(a) Prepare and file with the Commission the Registration Statements required by Section 2 of this Agreement and such amendments (including post-effective amendments) and supplements to the Registration Statements and the prospectuses used in connection with the Registration Statements, as may be necessary to keep the Registration effective at all times during the Registration Period, and, during the Registration Period, to comply with the provisions of the Securities Act with respect to the disposition of all of the Registrable Securities until such time as all of such Registrable Securities have been disposed of in accordance with the intended methods of disposition by the seller or sellers thereof as set forth in the Registration Statements;
+
+(b) If the Registrable Securities are included in a Registration Statement, the Company shall promptly furnish, after such Registration Statement is prepared, filed with the Commission, publicly disseminated and distributed and received by the Company, to the Purchaser and its legal counsel, a copy of the Registration Statement, each preliminary prospectus, each final prospectus, and all amendments and supplements thereto and such other documents as the Purchaser may reasonably request in order to facilitate the disposition of its Registrable Securities;
+
+(c) As soon as practicable for the Company and its counsel, but no later than five business days after receipt thereof, furnish to the Purchaser and its counsel copies of appropriate correspondence between the Company and the Commission with respect to any registration statement or amendment or supplement thereto filed pursuant to this Agreement;
+
+(d) Use all best efforts to (i) register and qualify the Registrable Securities covered by the Registration Statement under such other securities or blue sky laws, if applicable, of such jurisdictions as the Purchaser may reasonably request, (ii) prepare and file in those jurisdictions such amendments (including post-effective amendments) and supplements to such registrations and qualifications as may be necessary to maintain the effectiveness thereof at all times during the Registration Period, (iii) take such other actions as may be necessary to maintain such registrations and qualifications in effect at all times during the Registration Period and (iv) take all other actions necessary or advisable to qualify the Registrable Securities for sale in such jurisdictions, except that the Company shall not for any such purpose be required to qualify generally to do business as a foreign corporation in any jurisdiction wherein it would not but for the requirements of this subsection (d) be obligated to be so qualified, or to subject itself to taxation in any such jurisdiction, or to consent to general service of process in any such jurisdiction;
+
+3
+
+* * *
+
+(e) If required, list such securities on the OTC Bulletin Board and all other national securities exchanges on which any securities of the Company are then listed, and file any filings required by the OTC Bulletin Board and/or such other filings; 
+
+(f) Notify the Purchaser and (if requested by the Purchaser) confirm such advice in writing, (i) when or if the prospectus or any prospectus supplement or post-effective amendment has been filed with the Commission, and, with respect to the Registration Statement or any post-effective amendment, when the same has been declared effective by the Commission, (ii) of any request by the Commission for amendments or supplements to the Registration Statement or the prospectus or for additional information, (iii) of the issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement or the initiation of any proceedings for that purpose, (iv) of the receipt by the Company of any notification with respect to the suspension of the qualification of the Registrable Shares for sale in any jurisdiction or the initiation or threatening of any proceeding for such purpose, and (v) of the happening of any event as a result of which the prospectus included in such Registration Statement, as then in effect, includes an untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading in the light of the circumstances then existing;
+
+(g) If any fact contemplated by clause (v) of paragraph (f), above, shall exist, prepare a supplement or post-effective amendment to the Registration Statement or the related prospectus or any document incorporated therein by reference or file any other required document so that, as thereafter delivered to the purchaser of the Registrable Securities the prospectus will not contain an untrue statement of material fact or omit to state any material fact necessary to make the statements therein not misleading;
+
+(h) If the Company has consented to an underwritten offering and such offering is underwritten, at the request of the Purchaser, to furnish on the date that Registrable Securities are delivered to the underwriters for sale pursuant to such registration: (i) an opinion dated such date of counsel representing the Company for the purposes of such registration, addressed to the underwriters and to the Purchaser, stating that such registration statement has become effective under the Securities Act and that (A) to the best knowledge of such counsel, no stop order suspending the effectiveness thereof has been issued and no proceedings for that purpose have been instituted or are pending or contemplated under the Securities Act and (B) the registration statement, the related prospectus and each amendment or supplement thereof comply as to form in all material respects with the requirements of the Securities Act (except that such counsel need not express any opinion as to financial statements or other financial data contained therein) and (ii) a letter dated such date from the Company’s independent public accountants addressed to the underwriters and to the Purchaser, stating that they are independent public accountants within the meaning of the Securities Act and that, in the opinion of such accountants, the financial statements of the Company included in the registration statement or the prospectus, or any amendment or supplement thereof, comply as to form in all material respects with the applicable accounting requirements of the Securities Act, and such letter shall additionally cover such other financial matters (including information as to the period ending no more than five business days prior to the date of such letter) with respect to such registration as such underwriters may reasonably request; 
+
+(i) Cooperate with the Purchaser to facilitate the timely preparation and delivery of certificates for the Registrable Securities to be offered pursuant to the Registration Statement and to enable such certificates for the Registrable Securities to be in such denominations or amounts, as the case may be, as the Purchaser may reasonably request, and registered in such names as the Purchaser may request; and, within three business days after a Registration Statement which includes Registrable Securities is ordered effective by the Commission, the Company shall deliver, and shall cause legal counsel selected by the Company to deliver, to the transfer agent for the Registrable Securities (with copies to the Purchaser) an appropriate instruction and opinion of such counsel, satisfactory to the Company, and the Purchaser and its legal counsel;
+
+4
+
+* * *
+
+(j) Enter into customary agreements (including, in the case of an underwritten offering, underwriting agreements in customary form, and including provisions with respect to indemnification and contribution in customary form and consistent with the provisions relating to indemnification and contribution contained herein) and take all other customary and appropriate actions in order to expedite or facilitate the disposition of such Registrable Securities and in connection therewith:
+
+(i)  make such representations and warranties to the Purchaser and the underwriters, if any, in form, substance and scope as are customarily made by issuers to underwriters in similar underwritten offerings;
+
+(ii)  to the extent requested and customary for the relevant transaction, enter into a securities sales agreement with the Purchaser and such representative of the Purchaser as the Purchaser shall select relating to the Registration and providing for, among other things, the appointment of such representative as agent for the Purchaser for the purpose of soliciting purchases of Registrable Securities, which agreement shall be customary in form, substance and scope and shall contain customary representations, warranties and covenants; and
+
+(iii)  deliver such customary documents and certificates as may be reasonably requested by the Purchaser to the extent its Registrable Securities are being sold or by the managing underwriters, if any.
+
+The above shall be done (y) at the effectiveness of such Registration Statement (and each post-effective amendment thereto) in connection with any registration, and (z) at each closing under any underwriting or similar agreement as and to the extent required thereunder.
+
+(k) The Company shall hold in confidence and not make any disclosure of information concerning the Purchaser provided to the Company unless (i) disclosure of such information is necessary to comply with federal or state securities laws and/or the requests of any self-regulatory organizations, (ii) the disclosure of such information is necessary to avoid or correct a misstatement or omission in any Registration Statement, (iii) the release of such information is ordered pursuant to a subpoena or other order from a court or governmental body of competent jurisdiction, or (iv) such information has been made generally available to the public other than by disclosure in violation of this or any other agreement. The Company agrees that it shall, upon learning that disclosure of such information concerning the Purchaser is sought in or by a court or governmental body of competent jurisdiction or though other means, give prompt notice to the Purchaser prior to making such disclosure, and allow the Purchaser, at its expense, to undertake appropriate action to prevent disclosure of, or to obtain a protective order for, such information.
+
+4. Obligations of the Purchaser to Provide Information. In connection with the registration of the Registrable Securities, the Purchaser shall furnish to the Company such information regarding itself, the Registrable Securities held by it and the intended method of disposition of the Registrable Securities held by it as shall be reasonably required to effect the registration of such Registrable Securities, and the Purchaser shall execute any and all such documents in connection with such registration as the Company and its legal counsel may reasonably request. At least five business days prior to the first anticipated filing date of the Registration Statement, the Company shall notify the Purchaser of the information the Company requires of the Purchaser to be included in the Registration Statement. The Purchaser shall give sufficient notice to the Company before selling any Registrable Securities so that the Company may prepare and file any necessary post-effective amendments to the Registration Statement or such additional filings as shall be necessary or desirable. 
+
+5
+
+* * *
+
+5. Expenses of Registration. All expenses, other than underwriting discounts and commissions and other fees and expenses of investment bankers, other brokerage commissions and legal fees of the Purchasers, incurred in connection with registrations, filings or qualifications pursuant to Section 3, but including, without limitation, all registration, listing, and qualification fees, printing and accounting fees, and the fees and disbursements of counsel for the Company, with respect to the Registration Statement filed pursuant hereto, shall be borne by the Company. 
+
+6. Indemnification. In the event any Registrable Securities are included in a Registration Statement under this Agreement:
+
+(a) The Company will indemnify and hold harmless the Purchaser, each of its officers, directors, members, managers, partners and shareholders, and each person, if any, who controls the Purchaser within the meaning of the Securities Act or the Exchange Act (each, an “Indemnified Person”), against any losses, claims, damages, liabilities or expenses (joint or several) incurred (collectively, “Claims”) to which any of them may become subject under the Securities Act, the Exchange Act or otherwise, insofar as such Claims (or actions or proceedings, whether commenced or threatened, in respect thereof) arise out of or are based upon: (i) any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement or any post-effective amendment thereof or the omission or alleged omission to state therein a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances in which they were made, not misleading, (ii) any untrue statement or alleged untrue statement of a material fact contained in any preliminary prospectus if used prior to the effective date of such Registration Statement, or contained in the final prospectus (as amended or supplemented, if the Company files any amendment thereof or supplement thereto with the Commission) or the omission to state therein any material fact necessary in order to make the statements made therein, in light of the circumstances under which they were made, not misleading, or (iii) any violation or alleged violation by the Company of the Securities Act, the Exchange Act, any state or foreign securities law or any rule or regulation under the Securities Act, the Exchange Act or any state or foreign securities law (the matters in foregoing clauses (i) through (iii) being, collectively, “Violations”). The Company shall, subject to the provisions of Section 6(b) below, reimburse the Purchaser, promptly as such expenses are incurred and are due and payable, for any reasonable legal and other reasonable costs, expenses and disbursements in giving testimony or furnishing documents in response to a subpoena or otherwise, including without limitation, the costs, expenses and disbursements, as and when incurred, of investigating, preparing or defending any such action, suit, proceeding or investigation (whether or not in connection with litigation in which the Purchaser is a party), incurred by it in connection with the investigation or defense of any such Claim. Notwithstanding anything to the contrary contained herein, the indemnification agreement contained in this Section 6(a) shall not (i) apply to any Claim arising out of or based upon a modification which occurs in reliance upon and in conformity with information furnished in writing to the Company by or on behalf of any Indemnified Person expressly for use in connection with the preparation of the Registration Statement or any such amendment thereof or supplement thereto; (ii) be available to the extent that such Claim is based upon a failure of the Purchaser to deliver or to cause to be delivered the prospectus made available by the Company, if such prospectus was timely made available by the Company pursuant to Section 3(b) hereof; or (iii) apply to amounts paid in settlement of any Claim if such settlement is effected without the prior written consent of the Company, which consent shall not be unreasonably withheld. Such indemnity shall remain in full force and effect regardless of any investigation made by or on behalf of the Indemnified Person and shall survive the transfer of the Registrable Securities by the Purchaser pursuant to Section 9. 
+
+6
+
+* * *
+
+(b) The Purchaser will indemnify the Company and its officers and directors against any Claims arising out of or based upon a Violation which occurs in reliance upon and in conformity with information furnished in writing to the Company, by or on behalf of the Purchaser, expressly for use in connection with the preparation of the Registration Statement (including any modifications, amendments or supplements thereto), subject to such limitations and conditions as are applicable to the indemnification provided by the Company in this Section 6; provided, however, that in no event shall any indemnity by the Purchaser under this Section 6 exceed the amount of the net proceeds received by the Purchaser in connection with the offering effected through such Registration Statement.
+
+(c) Promptly after receipt by an Indemnified Person under this Section 6 of notice of the commencement of any action (including any governmental action), such Indemnified Person shall, if a Claim in respect thereof is to be made against any indemnifying party under this Section 6, deliver to the indemnifying party a written notice of the commencement thereof, and the indemnifying party shall have the right to participate in, and to the extent that the indemnifying party so desires, jointly with any other indemnifying party similarly notified, to assume control of the defense thereof with counsel mutually satisfactory to the indemnifying party and the Indemnified Person, provided, however, that an Indemnified Person shall have the right to retain its own counsel with the reasonable fees and expenses to be paid by the indemnifying party, if, in the reasonable opinion of counsel retained by the indemnifying party, the representation by such counsel of the Indemnified Person and the indemnifying party would be inappropriate due to actual or potential differing interests between such Indemnified Person and any other party represented by such counsel in such proceeding. In such event, the Company shall pay for only one separate legal counsel for the Purchaser, and such legal counsel shall be selected by the Purchaser. The failure to deliver written notice to an indemnifying party within a reasonable time after the commencement of any such action shall not relieve such indemnifying party of any liability to the Indemnified Person under this Section 6, except to the extent that the indemnifying party is materially prejudiced in its ability to such action. The indemnification required by this Section 6 shall be made by periodic payments of the amount thereof during the course of the investigation or defense, as such expense, loss, damage or liability is incurred and is due and payable.
+
+(d) No indemnifying party, in the defense of any such claim or litigation, shall, except with the consent of each Indemnified Party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such Indemnified Person of an unconditional and irrevocable release from all liability in respect of such claim or litigation.
+
+(e) Notwithstanding the foregoing, to the extent that any provisions relating to indemnification or contribution contained in the underwriting agreements entered into among the Company, the underwriters and the Purchaser in connection with the underwritten public offering are in conflict with the foregoing provisions, the provisions in such underwriting agreements shall be controlling as to the Registrable Securities included in the public offering; provided, however, that if, as a result of this Section 6(e), the Purchaser, or each of its officers, directors, members, partners, shareholders or any person controlling the Purchaser is or are held liable with respect to any Claim for which they would be entitled to indemnification hereunder but for this Section 6(e) in an amount which exceeds the aggregate proceeds received by the Purchaser from the sale of Registrable Securities included in a registration pursuant to such underwriting agreement (the “Excess Liability”), the Company shall reimburse the Purchaser for such Excess Liability.
+
+7
+
+* * *
+
+7. Contribution. To the extent any indemnification by an indemnifying party is prohibited or limited under applicable law, the indemnifying party agrees to contribute to the amount paid or payable by such indemnified party as a result of such loss, claim, damage, liability or expense in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and the Indemnified Person on the other hand in connection with the statements or omissions which resulted in such Claim, as well as any other relevant equitable considerations. The relative fault of the indemnifying party and the Indemnified Person shall be determined by reference to, among other things, whether the untrue statement of a material fact or the omission to state a material fact on which such Claim is based relates to information supplied by the indemnifying party or by the Indemnified Person, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. Notwithstanding the forgoing, (a) no contribution shall be made under circumstances where the payor would not have been liable for indemnification under the fault standards set forth in Section 6, (b) no seller of Registrable Securities guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any seller of Registrable Securities who was not guilty of such fraudulent misrepresentation and (c) contribution by any seller of Registrable Securities shall be limited in amount to the net proceeds received by such seller from the sale of such Registrable Securities. The Company and the Purchaser agree that it would not be just and equitable if contribution pursuant to this Section 7 were determined by pro rata allocation (even if the Purchaser and any other party were treated as one entity for such purpose) or by any other method of allocation that does not take account of the equitable considerations referred to in this Section.
+
+8. Reports Under Exchange Act. With a view to making available to the Purchaser the benefits of Rule 144 promulgated under the Securities Act or any other similar rule or regulation of the Commission that may at any time permit the Purchasers to sell securities of the Company to the public without registration (“Rule 144”), the Company agrees to cause its successor in interest by merger to:
+
+(i)  make and keep public information available, as those terms are understood and defined in Rule 144;
+
+(ii)  file with the Commission in a timely manner all reports and other documents required of the Company under the Securities Act and the Exchange Act; and
+
+(iii)  furnish to the Purchaser so long as the Purchaser owns Shares or Warrants promptly upon request, (i) a written statement by the Company that it has complied with the reporting requirements of the Securities Act and the Exchange Act, (ii) a copy of the most recent annual or periodic report of the Company and such other reports and documents so filed by the Company and (iii) such other information as may be reasonably requested to permit the Purchaser to sell such securities pursuant to Rule 144 without registration.
+
+9. Assignment of the Registration Rights. The rights to have the Company register Registrable Securities pursuant to this Agreement shall be automatically assigned by the Purchaser to any transferee of the Shares or Warrants held by the Purchaser if: (a) the Purchaser agrees in writing with the transferee or assignee to assign such rights, and a copy of such agreement is furnished to the Company within a reasonable time after such assignment; (b) the Company is, at the time of such transfer within five business days after such transfer or assignment, furnished with written notice of the name and address of such transferee or assignee; and (c) at or before the time the Company receives the written notice contemplated by clause (b) of this sentence, the transferee or assignee agrees in writing with the Company to be bound by all of the provisions contained herein.
+
+8
+
+* * *
+
+10. Amendment of Registration Rights. Any provision of this Agreement may be amended and the observance thereof may be waived (either generally or in a particular instance and either retroactively or prospectively), only with the written consent of the Company and each such Purchaser. Any amendment or waiver effected in accordance with this Section 10 shall be binding upon such Purchaser and the Company.
+
+11. Miscellaneous.
+
+(a) A person or entity is deemed to be a holder of Registrable Securities whenever such person or entity owns of record such Registrable Securities or Warrants exercisable into such Registrable Securities. If the Company receives conflicting instructions, notices or elections from two or more persons or entities with respect to the same Registrable Securities, the Company shall act upon the basis of the instructions, notice or election received from the registered owner of such Registrable Securities or Warrants.
+
+(b) Any notice required or permitted hereunder shall be given in writing (unless otherwise specified herein) and shall be effective upon personal delivery, via facsimile (upon receipt of confirmation of error-free transmission) or two business days following deposit of such notice with an internationally recognized courier service, with postage prepaid and addressed to each of the other parties thereunto entitled at the address set forth below in this Section 11(b), or at such other addresses as a party may designate by ten (10) days advance written notice to each of the other parties hereto. All notices shall be addressed as follows:
+
+  
+
+
+If to the Company:
+
+EnerTeck Corporation
+
+10701 Corporate Drive
+
+Suite 150
+
+Stafford, Texas 77477
+
+Attention: Dwaine Reese
+
+Telecopier No.: (281) 240-1828
+
+  
+
+
+With a copy to:
+
+Danzig Kaye Cooper Fiore & Kay, LLP
+
+30A Vreeland Road, Suite 230
+
+Florham Park, New Jersey 07932
+
+Attn: David M. Kaye, Esq.
+
+Telecopier No.: (973) 443-0609
+
+  
+
+
+If to Purchaser:
+
+BATL BioEnergy LLC
+
+7 Lakeside Drive
+
+Rye, New York 10580
+
+Attn: Thomas Donino
+
+Telecopier No.: (914) 921-3495
+
+  
+
+
+  
+
+
+  
+
+
+9
+
+* * *
+
+  
+
+
+  
+
+
+With a copy to:
+
+  
+
+
+Katten Muchin Rosenman LLP
+
+575 Madison Avenue
+
+New York, New York 10022
+
+Attention: Elliot Press, Esq.
+
+Telecopier No: (212) 940-6621
+
+  
+
+
+(c) Failure of any party to exercise any right or remedy under this Agreement or otherwise, or delay by a party in exercising such right or remedy, shall not operate as a waiver thereof.
+
+(d) This Agreement shall be governed by and interpreted in accordance with the laws of the State of New York, without giving effect to conflicts of laws issues. Each of the parties agrees to the jurisdiction of the federal courts whose districts encompass any part of the City of New York or the state courts of the State of New York sitting in the City of New York in connection with any dispute arising under this Agreement and hereby waives, to the maximum extent permitted by law, any objection, including any objection based on forum non conveniens, to the bringing of any such proceeding in such jurisdictions. This Agreement may be signed in two or more counterparts, each of which shall be deemed an original. The headings of this Agreement are for convenience of reference and shall not form part of, or affect the interpretation of, this Agreement. If any provision of this Agreement shall be invalid or unenforceable in any jurisdiction, such validity or unenforceability shall not affect the validity or enforceability of the remainder of this Agreement or the validity or enforceability of this Agreement in any other jurisdiction. Subject to the provisions of Section 10 hereof, this Agreement may be amended only by an instrument in writing signed by the party to be charged with enforcement.
+
+(e) This Agreement, together with the other Transaction Documents, constitutes the entire agreement among the parties hereto with respect to the subject matter hereof. This Agreement supersedes all prior agreements and understandings among the parties hereto with respect to the subject matter hereof.
+
+(f) Subject to the requirements of Section 9 hereof, this Agreement shall inure for the benefit of and be binding upon the successors and assigns of each of the parties hereto.
+
+(g) All pronouns and any variations thereof refer to the masculine, feminine or neuter, singular or plural, as the context may require.
+
+(h) The Company acknowledges that any failure by the Company to perform its obligations under Section 2, or any delay in such performance could result in direct and indirect damages to the Purchasers, and the Company agrees that, after notice and time to cure in addition to any other liability the Company may have by reason of any such failure or delay, the Company shall be liable for all direct and consequential damages caused by any such failure or delay. Nothing herein shall limit each Purchaser’s right to pursue any claim seeking such direct or consequential damages.
+
+  
+
+
+10
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties have caused this Registration Rights Agreement to be executed as of the date first written above.  
+  
+ENERTECK CORPORATION  
+  
+  
+  
+  
+By:  /s/ Dwaine Reese  
+  
+* * *
+
+Name: Dwaine Reese  
+Title: Chief Executive Officer  
+  
+  
+
+
+  
+  
+  
+BATL BIOENERGY LLC  
+  
+  
+  
+  
+By:  /s/ Thomas Donino  
+  
+* * *
+
+Name: Thomas Donino  
+Title: President  
+  
+
+
+11
+
+* * *
+
+  
+

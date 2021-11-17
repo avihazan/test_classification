@@ -1,0 +1,1832 @@
+  
+
+
+
+
+  
+
+
+This Loan Agreement is made as of July 7, 2014 and is Between:
+
+SIX CAPITAL LTD., a Hong Kong company (the "Lender")
+
+And:
+
+  
+
+
+BIOSHAFT WATER TECHNOLOGY, INC., a US company
+
+  
+
+
+(the "Borrower")
+
+  
+
+
+BACKGROUND
+
+  
+
+
+A.
+
+The Borrower requires working capital to fund its ongoing business operations.
+
+  
+
+
+B.
+
+The Lender has offered to advance funds to the Borrower on the tenns and conditions as more particularly set out in herein.
+
+  
+
+
+Now therefore witnesseth that in consideration of the premises and of the mutual covenants and agreements set forth herein, the parties hereto covenant and agree as follows:
+
+  
+
+
+1.
+
+Definitions and Interpretation
+
+  
+
+
+1.1
+
+Definitions. In this Agreement the following words and phrases shall have the following meanings:
+
+  
+
+
+(a)
+
+"Applicable Law" means, at any time, with respect to any Person, property, transaction or event, all applicable laws, statutes, regulations, treaties, judgments and decrees and (insofar as they have the force of law) all applicable official directives, rules, consents, approvals, by-laws, permits, authorizations, guidelines, orders and policies of any Governmental Authority or Persons having authority over any of the parties hereto.
+
+  
+
+
+(b)
+
+"Closing" has the meaning ascribed thereto in Section 5.1
+
+  
+
+
+(c)
+
+"Event of Default" means any of the events of default described in Section 8.1.
+
+  
+
+
+(d)
+
+"Future Financing" means any financing undertaken by the Borrower after the advance of the Loan whether such financing is effected by way of a
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-2-
+
+  
+
+
+  
+
+
+  
+
+
+public offering of securities by the Borrower, debt, equity, convertible debt or otherwise.
+
+  
+
+
+(e)
+
+"Governmental Authority" means any nation or government, any province, state, municipality, local or other political subdivision thereof and any agency, instrumentality or other entity thereof exercising executive, legislative, judicial, regulatory or administrative functions of or pertaining to government.
+
+  
+
+
+(f)
+
+"GSA" has the meaning ascribed thereto in Section 3.1.
+
+  
+
+
+(g)
+
+"Intellectual Property" of the Borrower means:
+
+  
+
+
+(i)
+
+inventions, discoveries, methods, letters, patent, application for letters patent, renewals, reissues, extensions, divisions, continuations and continuations-in-part;
+
+  
+
+
+(ii)
+
+trademarks and service marks (and the goodwill pertaining thereto), tradenames or corporate names and any application, registration, or renewal pertaining thereto;
+
+  
+
+
+(iii)
+
+copyright in works, including, but not limited to, computer software, documentation, source code, object code and all registrations and records thereof and any programmable media, paper or other media on which such works are fixed;
+
+  
+
+
+(iv)
+
+industrial designs, integrated circuit topographies and any registration thereof;
+
+  
+
+
+(v)
+
+trade secrets, including know-how, ideas, plans, algorithms, hardware, firmware and architectures, whether in written, graphic or oral form;
+
+  
+
+
+(vi)
+
+any future developments or improvements relating to intellectual and industrial property set out in (i) to (vi) above;
+
+  
+
+
+(vii)
+
+the right to take action for any infringement of rights in intellectual and industrial property prior to execution of this Agreement; and
+
+  
+
+
+(viii)
+
+any option or right to make, use, sell, copy, modify, distribute, have made, create derivative works from or sublicence any intellectual or industrial property, including, without limitation, all rights acquired under any License Agreement
+
+  
+
+
+in the United States and all other countries worldwide.
+
+  
+
+
+(h)
+
+"Interest" has the meaning ascribed thereto in Section 2.2.
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-3-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(i)
+
+"Interest Rate" means the rate of 7.5% per annum calculated and compounded monthly, both before and after maturity and default.
+
+  
+
+
+(j)
+
+"Licence Agreements" means all agreements pursuant to which the Borrower has obtained rights or an option to acquire rights or has granted to a Person rights or an option to acquire rights to use any Intellectual Property owned by a Person or the Borrower, respectively.
+
+  
+
+
+(k)
+
+"Loan" means the Principal and Interest owing by the Borrower to the Lender in accordance with this Agreement.
+
+  
+
+
+(l)
+
+"Permitted Encumbrances" means:
+
+  
+
+
+(i)
+
+inchoate or statutory priorities, liens or trust claims for taxes, assessments and other governmental charges or levies which are not delinquent or the validity of which are currently being contested in good faith by appropriate proceedings provided that there shall have been set aside a reserve to the extent required by generally accepted accounting principles in an amount which is reasonably adequate with respect thereto;
+
+  
+
+
+(ii)
+
+the right reserved to, or vested in, any municipality or Governmental Authority by the terms of any lease, license, franchise, grant, or permit, or by any statutory provision, to terminate any such lease, license, franchise, grant or permit, or to require annual or periodic payments as a condition of the continuance thereof;
+
+  
+
+
+(iii)
+
+inchoate or statutory liens of contractors, subcontractors, mechanics, suppliers, material men and others in respect of construction, maintenance, repair or operation of assets or properties, or other like possessory liens and public utility liens provided the amounts owed in respect of the same are not delinquent, or such liens are being contested by the Borrower in good faith by appropriate and timely proceedings;
+
+  
+
+
+(iv)
+
+security given to a public utility or other Governmental Authority or other public authority when required by such utility or Governmental Authority in connection with the operations of the Borrower in the ordinary course of business;
+
+  
+
+
+(v)
+
+title defects or easements, rights-of-way, servitudes or other similar rights in land (including, without limiting the generality of the foregoing, rights-of-way and servitudes for railways, sewers, drains, gas and oil pipelines, gas and water mains, electric light and power and telephone or telegraph or cable television conduits,
+
+  
+
+
+  
+  
+
+
+* * *
+
+-4-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+poles, wires and cables) granted to or reserved or taken by other persons which are of a minor nature and in the aggregate will not materially impair the value or use of the property for the purposes for which it is held, and;
+
+  
+
+
+(vi)
+
+the GSA.
+
+  
+
+
+(m)
+
+"Person" includes an individual, a partnership, a joint venture, a trust, an unincorporated organization, a company, a corporation, an association, a government or any department or agency thereof and any other incorporated or unincorporated entity.
+
+  
+
+
+(n)
+
+"Principal" has the meaning ascribed thereto in Section 2.1.
+
+  
+
+
+(o)
+
+"Promissory Note" has the meaning ascribed thereto in Section 2.7.
+
+  
+
+
+(p)
+
+''Security Interest" includes a mortgage, charge, floating charge, pledge, hypothec, assignment, lien, encumbrance, conditional sale agreement or other title retention agreement, subordination trust or other security interest or management of any kind or character intended to create a security interest in substance regardless of whether the person creating the interest retains an equity of redemption, and any agreement to provide or enter into at any time or on the happening of any event such a security interest or arrangement.
+
+  
+
+
+(q) "Tax" and "Taxes" include all present and future taxes, levies, imposts, stamp taxes, duties, charges to tax, fees, deductions, withholdings and any restrictions or conditions resulting in a charge to tax and all penalties, interest and other payments on or in respect thereof.
+
+  
+
+
+1.2
+
+Captions and Section Numbers. The headings and section references in this Agreement are for convenience of reference only and do not form a part of this Agreement and are not intended to interpret, define or limit the scope, extent or intent of this Agreement or any provision thereof.
+
+  
+
+
+1.3
+
+Extended Meanings. The words "hereof", "herein", "hereunder" and similar expressions used in any clause, paragraph or section of this Agreement shall relate to the whole of this Agreement and not to that clause, paragraph or section only, unless otherwise expressly provided.
+
+  
+
+
+1.4
+
+Number and Gender. Whenever the singular or masculine or neuter is used in this Agreement, the same shall be construed to mean the plural or feminine or body corporate where the context of this Agreement or the parties hereto so require.
+
+  
+
+
+1.5
+
+Section References and Schedules. Any reference to a particular "article", "section", "subsection" or other subdivision is to the particular article, section or other subdivision of this Agreement and any reference to a schedule by letter shall
+
+  
+
+
+  
+  
+
+
+* * *
+
+-5-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+mean the appropriate schedule attached to this Agreement and by such reference the appropriate schedule is incorporated into and made part of this Agreement.
+
+  
+
+
+1.6
+
+Governing Law. This Agreement and all matters arising hereunder shall be governed by, construed and enforced in accordance with the laws of the State of California and all disputes arising under this Agreement shall be referred to the Courts of the State of California.
+
+  
+
+
+1.7
+
+Severability of Clauses. In the event that any provision of this Agreement or any part thereof is invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+
+  
+
+
+1.8 Currency. All sums of money to be paid or calculated pursuant to this Agreement shall be paid or calculated in currency of United Sates of America unless otherwise expressly stated.
+
+  
+
+
+2.
+
+Loan
+
+  
+
+
+2.1
+
+Amount and purpose of Loan. In reliance upon the representations and warranties contained herein and subject to the terms and conditions of this Agreement, the Lender will lend to the Borrower the principal sum of $1,047,390 (the "Principal"). The entire amount of the Principal is to be used for general working capital.
+
+  
+
+
+2.2
+
+Interest. The Principal will bear interest (the "Interest") at the Interest Rate.
+
+  
+
+
+2.3
+
+Repayment of the Loan. The Loan shall be repayable as follows:
+
+  
+
+
+(a)
+
+Interest shall be payable monthly in arrears on the last business day of each month, commencing July 7, 2014 until the Principal Amount is paid in full.
+
+  
+
+
+(b)
+
+The Principal and all accrued and unpaid Interest shall be due and be paid in full on July 7, 2015.
+
+  
+
+
+(c)
+
+The Principal may be prepaid in whole or in part at any time without notice, bonus or penalty, together with all Interest accrued and unpaid to the date of such prepayment.
+
+  
+
+
+2.4
+
+Accelerated Payment on an Event of Default. Notwithstanding anything else to the contrary herein contained, upon an Event of Default, at the option of the Lender, the Loan shall become due and payable in full.
+
+  
+
+
+2.5
+
+Prepayment from Future Financing. Notwithstanding anything else to the contrary herein contained, upon a Future Financing, at the option of the Lender,
+
+  
+
+
+  
+  
+
+
+* * *
+
+-6-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+some or all of the net proceeds from such Future Financing shall be applied to repayment of the Loan.
+
+  
+
+
+2.6
+
+Application of Payments. Unless otherwise provided herein all payments received by the Lender on account of the Loan shall be applied firstly to Interest and secondly to the Principal.
+
+  
+
+
+2.7
+
+Promissory Note. The Loan shall be evidenced by a promissory note (the "Promissory Note") from the Borrower to the Lender in the form attached hereto as Schedule A.
+
+  
+
+
+3.
+
+Bonus Shares
+
+  
+
+
+3.1
+
+As additional consideration to the Lender, the Borrower will issue to the Lender 5,000,000 bonus common shares to be registered as directed by the Lender. The bonus shares will be issued and delivered on Closing.
+
+  
+
+
+4.
+
+Warrants
+
+  
+
+
+4.1
+
+The Lender owns 10,000,000 warrants in the Borrower giving the Lender the right to purchase 10,000,000 shares at a price of $0.025 per share. The Lender and Borrower acknowledge that these 10,000,000 warrants have been cancelled.
+
+  
+
+
+4.2
+
+The Lender also purchased the ability to convert $500,000 of debt at $0.025 per share from the original holder of the loan which would grant the Lender the ability to issue an additional 20,000,000 shares, being the original conversion feature of this debt. The Lender and the Borrower acknowledge that this conversion feature has been cancelled.
+
+  
+
+
+4.3
+
+Should the Borrower not raise $5,000,000 through the issuance of equity of the Borrower within 12 months of this agreement, the Borrower hereby grants to the Lender 30,000,000 share purchase warrants, dated July 7, 2015, with each warrant entitling the Lender to acquire one share of common stock in the capital of the Borrower at an exercise price of $0.025 per share for a period of five years from the date of issuance. Clause 4.3 is deemed to replace the rights of Clauses 4.1 and 4.2 should the Company not meet the performance target of a $5,000,000 equity raise.
+
+  
+
+
+5.
+
+Security
+
+  
+
+
+5.1
+
+Collateral. As general and continuing security for payment of the Loan and for the performance of the obligations and covenants of the Borrower herein contained and for the payment, performance and satisfaction of all and every indebtedness, liability, and obligation of the Borrower to the Lender, the Borrower shall enter into a general security agreement (the "GSA") with the Lender in the form attached hereto as Schedule B and the Security Interest created by the GSA shall be a first charge on the assets charged thereby.
+
+  
+
+
+  
+  
+
+
+* * *
+
+-7-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+6.
+
+Closing/Conditions Precedent to Closing
+
+  
+
+
+6.1
+
+Closing. The transaction contemplated by this Agreement and the advance by the Lender of the Loan shall complete (the "Closing") on or before July 7, 2014 or such other date as the Lender and the Borrower may agree.
+
+  
+
+
+6.2
+
+Conditions Precedent for the Benefit of the Lender. The obligation of the Lender to complete the transactions contemplated by this Agreement and to advance the Loan are subject to the satisfaction of, or compliance with, at or before the Closing, each of the following conditions precedent (each of which is hereby acknowledged to be inserted for the exclusive benefit of the Lender and may be waived by it in whole or in part):
+
+  
+
+
+(a)
+
+Due Diligence Review. The Lender shall be satisfied, in its sole discretion, with its due diligence review of the Borrower.
+
+  
+
+
+(b)
+
+Truth of Representations and Warranties. The representations and warranties of the Borrower contained in this Agreement will be true and correct on and as of the Closing as though made at and as of the Closing and the Borrower will deliver to the Lender a certificate of a senior officer of the Borrower to that effect.
+
+  
+
+
+(c)
+
+Covenants and Agreements. The Borrower will have complied with all covenants and agreements in this Agreement agreed to be performed or caused to be performed by the Borrower on or before the Closing and the Borrower will deliver to the Lender a certificate of a senior officer of the Borrower to that effect.
+
+  
+
+
+(d)
+
+Loss of Assets. No material loss or destruction of or damage to any of the Borrower's assets will have occurred between the date of this Agreement and the Closing and the Borrower will deliver to the Lender a certificate of a senior officer of the Borrower to that effect.
+
+  
+
+
+(e)
+
+No Actions or Proceedings. No action or proceeding against the Borrower will be pending or threatened by any Person to enjoin or prohibit:
+
+  
+
+
+(i)
+
+the transactions contemplated by this Agreement; or
+
+  
+
+
+(ii)
+
+the right of the Borrower to conduct its operations and carry on its business in the ordinary course as they have been conducted and carried on in the past.
+
+  
+
+
+(t)
+
+Documents. The Borrower will have delivered to the Lender the Promissory Note and the GSA.
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-8-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+7.
+
+Representations and Warranties
+
+  
+
+
+7.1
+
+Representations and Warranties of the Borrower. The Borrower represents and warrants to the Lender as follows, with the intent that the Lender will rely thereon in entering into this Agreement and in concluding the transactions contemplated hereby:
+
+  
+
+
+(a)
+
+Due Incorporation. The Borrower is a company duly incorporated, organized and validly subsisting under the laws of the United States of America and the State of California. The Borrower has all necessary corporate power and authority to own its properties and assets and to carry on business as now conducted and is duly licensed or registered or otherwise qualified to carry on business in all jurisdictions wherein the nature of its assets or the business transacted makes such licensing, registration or qualification necessary, including, without limitation, the State of California, except where failure to do so would not have a material adverse effect on such assets or the ability of the Borrower to perform its obligations hereunder.
+
+  
+
+
+(b)
+
+Power. The Borrower has full corporate power and capacity to enter into, deliver and perform its obligations under this Agreement, the Promissory Note, the GSA and all other instruments contemplated hereunder.
+
+  
+
+
+(c)
+
+Due Authorization and No Conflict. The execution, delivery and performance by the Borrower of this Agreement, the Promissory Note, the GSA and all other instruments contemplated hereunder and the consummation of the transactions contemplated hereby and thereby:
+
+  
+
+
+(i)
+
+have been duly authorized by all necessary corporate action;
+
+  
+
+
+(ii)
+
+do not and will not conflict with, result in any breach or violation of, or constitute a default under (A) the constating documents or by-laws of the Borrower, (B) any Applicable Laws, determination or award presently in effect and applicable to the Borrower, or (C) of any commitment, agreement or any other instrument to which the Borrower is now a party or is otherwise bound;
+
+  
+
+
+(iii)
+
+do not (except for the GSA) result in or require the creation of any Security Interest upon or with respect to any of the properties or assets of the Borrower; and
+
+  
+
+
+(iv)
+
+do not require the consent or approval (other than those consents or approvals already obtained and copies of which have been delivered to the Lender) of, or registration or filing with, any other party or any Governmental Authority having jurisdiction except for filings in connection with the perfection of the security interests
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-9-
+
+  
+
+
+  
+
+
+  
+
+
+created by the GSA, the approval of the Exchange to the issuance of the Shares or filings with securities regulatory authorities m connection with the issuance of the Shares.
+
+  
+
+
+(d)
+
+Valid and Enforceable Obligations. This Agreement, the Promissory Note, the GSA and all other instruments contemplated hereunder to which the Borrower is a party, are, or when executed and delivered to the Lender will be, legal, valid and binding obligations of the Borrower enforceable by the Lender in accordance with their respective terms, subject only to bankruptcy, insolvency, liquidation, reorganization, moratorium and other similar laws generally affecting the enforcement of creditors' rights, to the general principles of equity and to the fact that equitable remedies (such as specific performance and injunction) are discretionary remedies.
+
+  
+
+
+(e)
+
+Title. Subject only to Permitted Encumbrances, the Borrower has good and marketable title to its real and personal property, free and clear of all Security Interests.
+
+  
+
+
+(f)
+
+Validity and Priority of Security. Subject only to Permitted Encumbrances, the GSA will create a valid first registered, charge, lien and Security Interest on the personal property and assets of the Borrower, including Intellectual Property.
+
+  
+
+
+(g)
+
+No Actions. There are no actions, suits, proceedings, inquiries or investigations existing or, to the knowledge of the Borrower, pending, threatened or affecting the Borrower in any court or before or by any federal, provincial or municipal or other governmental department, commission, board, tribunal, bureau or agency, domestic or foreign.
+
+  
+
+
+(h)
+
+No Material Adverse Effect or Event of Default. No event has occurred and is continuing, and no circumstance exists which has not been waived, and which constitutes an Event of Default hereunder or a default or event of default in respect of any commitment, agreement or any other instrument to which the Borrower is now a party or is otherwise bound, entitling any other party thereto to accelerate the maturity of amounts of principal owing thereunder, or terminate any such commitment, agreement or instrument.
+
+  
+
+
+(i)
+
+Compliance with Law. The Borrower is not in violation of any terms of its constating documents or by-laws or of any law, regulation, rule, order, judgment, writ, injunction, decree, determination or award presently in effect and applicable to it.
+
+  
+
+
+(j)
+
+Subsidiaries. The Borrower does not own any shares or voting securities of any Person and has no subsidiaries.
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-10-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(k)
+
+Taxes. The Borrower has filed all foreign, federal, state and local tax returns which are required to be filed and has paid all Taxes due pursuant to such returns or pursuant to any assessment received by the Borrower except such Taxes, if any, as are being contested in good faith and as to which adequate reserves have been provided. The charges, accruals and reserves on the books of the Borrower in respect of any Taxes or other governmental charges are adequate.
+
+  
+
+
+(l)
+
+Intellectual Property.
+
+  
+
+
+(i)
+
+The Borrower solely owns or licenses pursuant to a Licence Agreement all Intellectual Property, necessary for the conduct in all material respects of its business as now conducted without any conflict known to the Borrower with the rights of others, and in each case free from any Security Interest except for Permitted Encumbrances and the GSA. All Intellectual Property is new and original. No Intellectual Property has been dedicated to the public.
+
+  
+
+
+(ii)
+
+Any Intellectual Property that is not owned by the Borrower is used with the consent of or licence from the rightful owner through Licence Agreements; such Licence Agreements are valid and subsisting and in good standing and there are no defaults thereunder by the Borrower or, if applicable, its subsidiaries. The Borrower has all rights necessary to use the Intellectual Property described in the Licence Agreements to which it is a party, free from any Security Interest, except for Permitted Encumbrances and the GSA.
+
+  
+
+
+(m)
+
+Supplier and Trade Relations. There is not any actual or, to the best of the Borrower's knowledge and belief, threatened termination or cancellation of, or any material adverse change in, the business relationship between the Borrower and any supplier material to the operations of the Borrower.
+
+  
+
+
+(n)
+
+Labour Matters. To the best of the Borrower's knowledge, there are no strikes or other labour disputes against the Borrower that are pending or threatened. The Borrower does not have any obligation under any collective bargaining agreement nor, to the best of the Borrower's knowledge, is there any organizing activity involving the Borrower by any labour union or group of employees. All employee and employer contributions under any pension plan operated by the Borrower have been made and the fund or funds established under such plans are funded in accordance with applicable regulatory requirements and there exists no going concern unfunded liabilities or solvency deficiencies thereunder.
+
+  
+
+
+(o)
+
+Accuracy of Information. All factual information previously or contemporaneously furnished to the Lender by or on behalf of the
+
+  
+  
+
+
+* * *
+
+-11-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Borrower in writing for purposes of or in connection with this Agreement or any transaction contemplated hereby, including, without limitation, any financial statement, budget, balance sheet or business plan, is true and accurate in every material respect and such information is not incomplete by the omission of any material fact necessary to make such information not misleading.
+
+  
+
+
+(p)
+
+Solvency. The Borrower is solvent and is generally able to pay its debts as they become due and will be able to do so after giving effect to the transactions contemplated in this Agreement.
+
+  
+
+
+(q)
+
+Guarantees. The Borrower has not guaranteed the obligations of any Person in respect of indebtedness for borrowed money.
+
+  
+
+
+(r)
+
+Amount of Accounts. The amount represented by the Borrower to the Lender from time to time as owing by each account debtor or by all account debtors in respect of the accounts will at such time be the correct amount so owing by such account debtor or debtors and, unless disclosed in writing by the Borrower to the Lender at that time, will to the best of the Borrower's knowledge be owed free of any dispute, set-off or counterclaim.
+
+  
+
+
+(s)
+
+No Required Disposition. There is no existing agreement, option, right or privilege capable of becoming an agreement or option pursuant to which the Borrower would be required to sell or otherwise dispose of any of its personal property, including, without limitation, Intellectual Property.
+
+  
+
+
+(t)
+
+Predecessor Names and Trade Names. Since the date of its incorporation, the Borrower has not used nor does it now use any name other than its current corporate name.
+
+  
+
+
+(u)
+
+No Consumer Goods. The Borrower does not own any consumer goods which are material in value or which are material to the business, operations, property, condition or prospects (financial or otherwise) of the Borrower.
+
+  
+
+
+(v)
+
+Lease Payments. The Borrower is not in material default under any lease of real or personal property to which it is a party and has made all payments required under the terms of any such lease.
+
+  
+
+
+(w)
+
+Partnership. The Borrower is not in partnership with any Person nor is the Borrower and any of its subsidiaries a participant in any joint venture.
+
+  
+
+
+(x)
+
+Disclosure Documents - The forms, reports, news releases, financial statements, annual information forms and other documents filed by the Borrower on EDGAR, taken as a whole, do not contain any untrue statement of a material fact or omit to state a material fact required to be
+
+  
+
+
+  
+  
+
+
+* * *
+
+-12-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+stated therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+  
+
+
+(y)
+
+Compliance with Securities Laws. The Borrower is in compliance in all material respects with the provisions and requirements of all applicable securities laws, stock exchanges, securities commissions, regulations, rules and requirements of any jurisdiction having authority in relation to the Borrower, including, without limitation, the completion on a proper and timely basis of all necessary filings and reports under any and all such securities laws, regulations, rules and requirements.
+
+  
+
+
+(z)
+
+Disclosure. No representation or warranty made by the Borrower in this Agreement or in the GSA contains any untrue statement of a fact or omits to state a material fact necessary in order to make the statements contained therein, taken as a whole, not misleading in light of the circumstances in which they are made.
+
+  
+
+
+7.2
+
+Representations and Warranties of the Lender. The Lender hereby represents and warrants to the Borrower as follows:
+
+  
+
+
+(a)
+
+The Lender is a company duly incorporated and validly subsisting under the laws of Seychelles and is in good standing with respect to the filing of annual returns.
+
+  
+
+
+(b)
+
+The execution and delivery of this Agreement and the completion of the transactions contemplated hereby by the Lender have been duly and validly authorized by all necessary corporate action on the part of the Lender.
+
+  
+
+
+(c)
+
+The Lender is a resident of Seychelles.
+
+  
+
+
+(d)
+
+The Lender was not created or established, nor is the Lender being used, primarily to permit purchases without a prospectus.
+
+  
+
+
+(e)
+
+The Lender is not acquiring the Shares through or as a result of, and the distribution of the Shares is not being accompanied by, any advertisement of the Shares in printed public media, radio, television or telecommunications, including electronic display.
+
+  
+
+
+(f) The representations and warranties of the Lender as contained herein may be relied upon by the Borrower and by Borrower's counsel in connection with the delivery of the opinion referred to in Section 5.2(i) hereof.
+
+  
+
+
+7.3
+
+Survival of Representations and Warranties. The representations and warranties contained in Section 6.1 shall survive the execution and delivery of this Agreement and the advance of the Loan, regardless of any investigation or examination made by the Lender or its counsel, and shall continue in full force
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-13-
+
+  
+
+
+  
+
+
+  
+
+
+and effect. The Lender shall be deemed to have relied upon each of such representations and warranties in making the Loan. The representations and warranties contained in Section 6.2 shall survive the execution and delivery of this Agreement and the advance of the Loan, regardless of any investigation or examination made by the Borrower or its counsel, and shall continue in full force and effect. The Borrower shall be deemed to have relied upon each of the Lender's representations and warranties in issuing the Shares to the Lender.
+
+  
+
+
+8.
+
+Covenants
+
+  
+
+
+8.1
+
+Covenants of the Borrower. So long as any portion of the Loan is outstanding, the Borrower hereby covenants and agrees with the Lender as follows:
+
+  
+
+
+(a)
+
+to pay the Loan in accordance with the provisions of this Agreement;
+
+  
+
+
+(b)
+
+to deliver to the Lender following the end of each fiscal period of the Borrower through the currency of this Agreement a true and complete copy of the financial statements of the Borrower required by law to be prepared and delivered to the Borrower’s shareholders together with any interim financial statements of the Borrower that the Lender may reasonably require;
+
+  
+
+
+(c)
+
+to promptly notify the Lender of any condition or event which constitutes a default or an Event of Default and promptly notify the Lender of any material adverse change in the Borrower's financial condition;
+
+  
+
+
+(d)
+
+to promptly notify the Lender of any litigation or any proceeding before any court or Governmental Authority which, if adversely determined against the Borrower, would materially adversely affect the Borrower's financial condition, affairs or operations;
+
+  
+
+
+(e)
+
+to comply at all times with all Applicable Laws;
+
+  
+
+
+(t)
+
+to pay and discharge all taxes and other governmental charges and all contractual obligations calling for the payment of money before it shall become overdue unless and to the extend only that payment is being contested in good faith;
+
+  
+
+
+(g)
+
+to maintain insurance coverage satisfactory to the Lender on its physical assets and against other business risks in amounts and of types as are customarily carried by companies conducting a similar business, and, in the event of acquisition of additional property, real or personal or of incurrence of additional risks of any nature, increase insurance coverage in a manner and to the extent as prudent business judgment and present practice would dictate; and in the case of all policies covering property in which the Lender has a security interest of any kind whatsoever, other than those policies protecting against casualty liabilities to third parties, all
+
+  
+
+
+  
+  
+
+
+* * *
+
+-14-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+insurance policies shall provide that the loss payable thereunder shall be payable to the Lender as its interest may appear, and all policies or copies, including all endorsements and those required under this Agreement shall be deposited with the Lender;
+
+  
+
+
+(h)
+
+the Lender and its authorized servants and agents shall be entitled, whenever the Lender deems it necessary, acting reasonably, to enter upon the offices of the Borrower and inspect the books and records thereof and make extracts therefrom and generally conduct such examination of such books and records as the Lender deems appropriate;
+
+  
+
+
+(i)
+
+if the Borrower fails to perform any covenant set out in this Agreement, the Lender may, at its discretion, but need not, perform any such covenant capable of being performed by it and may, in the Lender's discretion, but need not, make any payments or incur expenditures for such purpose, but no such performance of payment shall be deemed to relieve the Borrower from any default under this Agreement; if the Lender performs any such covenant or incurs any such expenditures, all costs incurred by the Lender in connection therewith shall be added to the Principal and shall bear interest;
+
+  
+
+
+(j)
+
+the Borrower shall not commit any Event of Default; and
+
+  
+
+
+(k)
+
+without the prior written approval of the Lender, such approval not to be unreasonably withheld, the Borrower shall not:
+
+  
+
+
+(i)
+
+make loans to, provide security for, make investments in, insure or provide guarantees on behalf of any Person;
+
+  
+
+
+(ii)
+
+declare or pay dividends until the Loan is repaid;
+
+  
+
+
+(iii)
+
+repurchase or retire any capital stock of the Borrower;
+
+  
+
+
+(iv)
+
+dispose of all or substantially all of its assets out of the ordinary course of business; and
+
+  
+
+
+(v)
+
+amalgamate or merge or effect an arrangement with any other corporation or Person or enter into an Agreement to do any of the foregoing.
+
+  
+
+
+9.
+
+Default
+
+  
+
+
+9.1
+
+Events of Default. For the purposes of this Agreement, the following events shall constitute events of default:
+
+  
+
+
+(a)
+
+If the Borrower fails to make any payment when due hereunder;
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-15-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+(b)
+
+if the Borrower shall make default in the observance or performance of something required to be done or some covenant or condition required to be observed or performed in this Agreement (other than as contemplated in (a) above) and such default continues for a period of 30 days following the date upon which written notice of default is given to the Borrower by the Lender;
+
+  
+
+
+(c)
+
+if any representation or warranty herein given by the Borrower or any director or officer thereof is untrue and continues to be untrue for a period of 30 days following the date upon which written notice of default is given to the Borrower by the Lender;
+
+  
+
+
+(d)
+
+if the Borrower is in default under the GSA;
+
+  
+
+
+(e)
+
+if an order is made or a resolution is passed for the winding-up of the Borrower, or if a petition shall be filed for the winding-up of the Borrower;
+
+  
+
+
+(t)
+
+if a receiver, receiver-manager, trustee, custodian, liquidator or similar agent is appointed for the Borrower or for any of the Borrower's property;
+
+  
+
+
+(g)
+
+if any execution, sequestration, extent or any other process of any Court shall become enforceable against the Borrower or if a distress or analogous process shall be levied upon the property of the Borrower; and
+
+  
+
+
+(h)
+
+if the Borrower shall cease or threaten to ceased to carry on its business.
+
+  
+
+
+9.2
+
+Waiver. The Lender may at any time waive any Event of Default which may have occurred, provided that no such waiver shall extend to or be taken in any manner whatsoever to affect any subsequent Event of Default or the rights or remedies resulting therefrom. No such waiver shall be effective unless given by the Lender in writing.
+
+  
+
+
+9.3
+
+Remedies Cumulative. For greater certainty, the rights and remedies of the Lender under this Agreement are cumulative and are in addition to and not in substitution for any rights or remedies provided by law; and any single or partial exercise by the Lender of any right or remedy for an Event of Default or breach of any term, covenant, condition or agreement herein contained shall not be deemed to be a waiver of or to alter, affect or prejudice any other right or remedy to which the Lender may be lawfully entitled for the same default or breach, and any waiver by the Lender of the strict observance, perfonnance or compliance with any term, covenant, condition or agreement herein contained and any indulgence granted by the Lender shall not be deemed to be a waiver of that or any subsequent default.
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+-16-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+10.
+
+General Provisions
+
+  
+
+
+10.1
+
+Notices. All Notices, requests, demands and other communications hereunder shall be in writing and shall be deemed to have been duly given if delivered by hand or mailed postage prepaid addressed as follows:
+
+  
+
+
+To the Lender:
+
+  
+
+
+Six Capital Ltd.
+
+6th Floor, St. John's Building
+
+33 Garden Road, Central Hong Kong
+
+  
+
+
+To the Borrower:
+
+  
+
+
+Bioshaft Water Technology, Inc.
+
+Suite 201 - 184 Technology Dr. Irvine, CA
+
+92618
+
+  
+
+
+or to such other address as may be given in writing by the parties and shall be deemed to have been received, if delivered by hand, on the date of delivery and if mailed as aforesaid to the addresses set out above then on the fifth business day following the posting thereof provided that if there shall be between the time of mailing and the actual receipt of the notice a mail strike, slowdown or other labour dispute which might affect the deliver of the notice by the mails, then the notice shall only be effective if actually delivered.
+
+  
+
+
+10.2
+
+Costs. All of the Lender's costs of making and enforcing the Loan including without limitation, legal fees and expenses, shall be the responsibility of the Borrower.
+
+  
+
+
+10.3
+
+Time of Essence. Time is hereby expressly made of the essence of this Agreement with respect to the performance by the parties of their respective obligations under this Agreement.
+
+  
+
+
+10.4
+
+Binding Effect. This Agreement shall enure to the benefit of and be binding upon the parties hereto and their respective successors and assigns.
+
+  
+
+
+10.5
+
+Entire Agreement. This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof and shall supersede all previous expectations, understandings, communications, representations and agreements whether verbal or written between the parties with respect to the subject matter hereof.
+
+  
+
+
+10.6
+
+Further Assurances. Each of the parties hereto hereby covenants and agrees to execute such further and other documents and instruments and do such fu1ther and
+
+  
+
+
+  
+  
+
+
+* * *
+
+-17-
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+other things as may be necessary or desirable to implement and carry out the intent of this Agreement.
+
+  
+
+
+10.7
+
+Assignment. None of the patties may assign or transfer their respective rights under this Agreement, nor may the Borrower transfer any portion of the Loan.
+
+  
+
+
+10.8
+
+Amendments. No amendment to this Agreement shall be valid unless it is evidenced by a written agreement executed by all of the patties hereto.
+
+  
+
+
+In witness whereof the parties hereto have executed this Agreement as of the day and year first above written.
+
+  
+
+
+SIX CAPITAL LTD.
+
+  
+
+
+For and on behalf of
+
+SIX CAPITAL LIMITED
+
+By: ORIENT INVESTMENTS LIMITED
+
+  
+
+
+/s/ 
+
+Authorized Signatory
+
+  
+
+
+BIOSHAFT WATER TECHNOLOGY, INC.
+
+  
+
+
+  
+
+
+By: /s/ 
+
+Authorized Signatory
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+SCHEDULE A
+
+  
+
+
+FORM OF PROMISSORY NOTE
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+SCHEDULE B
+
+  
+
+
+FORM OF GENERAL SECURITY AGREEMENT
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+

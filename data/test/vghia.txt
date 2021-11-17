@@ -1,0 +1,149 @@
+EXHIBIT 10.20 
+
+MARCHEX, INC. 
+
+AMENDED AND RESTATED 
+
+2003 STOCK INCENTIVE PLAN 
+
+
+
+To:  (the “Optionee”) 
+
+As per the general terms and conditions set forth on this Stock Option Agreement (the “Agreement”), and the Amended and Restated 2003 Stock Incentive Plan (the “Plan”), Exhibit A and Exhibit B, respectively, which may be found at http://intranet.marchex.com, you have been granted an option (the “Option”) to purchase the number of shares set forth below (the “Shares”) of Class B Common Stock, $.01 par value per share (the “Common Stock”) of Marchex, Inc. (the “Company”), for the aggregate Purchase Price set forth below (the “Purchase Price”), with the following specific terms and conditions:   
+  
+Date of Grant and Vesting
+
+Commencement Date:  
+  
+Exercise Price Per Share:  
+  
+Total Number of Shares Subject to Option:  
+  
+Total Purchase Price:  
+  
+Type of Option: The Option shall be an incentive stock option to the extent permitted by the Internal Revenue Code of 1986, as amended, (the “Code”), and otherwise a nonqualified stock option.  
+Vesting Schedule: Until otherwise terminated under the Plan or the Agreement and assuming the Optionee is employed by the Company or continues to work as a consultant for the Company on the applicable vesting date, the Shares underlying this Option shall vest in accordance with the following vesting schedule: 50% of the Shares shall vest on each of the first and second annual anniversaries of the Date of the Grant, respectively, and according to such other conditions as are set forth in your Stock Option Agreement and the Marchex Amended and Restated 2003 Stock Incentive Plan. Notwithstanding the foregoing, one hundred percent (100%) of the Shares underlying this Option to the extent not already vested as of the date of a Change of Control shall become immediately vested upon such Change of Control.  
+For the purposes hereof, “Change of Control” shall mean the occurrence of any of the following events:  
+  
+(i) an acquisition (other than directly from the Company) of any voting securities of the Company (the “Voting Securities”) by any “Person” or “Group” (as such terms are used for the purposes of Section 13(d) or 14(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) immediately after which such Person or Group has Beneficial Ownership (within the meaning of Rule l3d-3 promulgated under the Exchange Act) of fifty percent (50%) or more of the combined  
+  
+* * *  
+  
+voting power of the Company’s then-outstanding Voting Securities; provided, however, in determining whether or not a Change of Control has occurred, Voting Securities which are acquired in a “Non-Control Acquisition” (as hereinafter defined) shall not constitute an acquisition which would constitute a Change of Control. A “Non-Control Acquisition” shall mean an acquisition by (i) any employee benefit plan (or related trust) sponsored or maintained by the Company or any affiliate of the Company, (ii) the Company, (iii) any Person in connection with a Non-Control Transaction (as hereinafter defined), or (iv) any holder of the Company’s Class A Common Stock as of the date hereof;  
+  
+(ii) individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or nomination for election by the Company’s shareholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board; or  
+  
+(iii) the consummation of:  
+  
+(a) A merger, consolidation or reorganization with or into the Company or in which securities of the Company are issued, unless such merger, consolidation or reorganization is a “Non-Control Transaction”. A “Non-Control Transaction” is a merger, consolidation or reorganization with or into the Company or in which securities of the Company are issued where:  
+  
+A. the shareholders of the Company immediately before such merger, consolidation, or reorganization, own, directly or indirectly, at least fifty- one percent (51%) of the combined voting power of the outstanding voting securities of the corporation resulting form such merger, consolidation or reorganization (the “Surviving Corporation”) in substantially the same proportion as their ownership of the Voting Securities immediately before such merger, consolidation or reorganization,  
+  
+B. the individuals who were members of the Incumbent Board immediately prior to the execution of the agreement providing for such merger, consolidation or reorganization constitute at least a majority of the members of the board of directors of the Surviving Corporation or a corporation owning directly or indirectly fifty-one percent (51%) or more of the Voting Securities of the Surviving Corporation, and  
+  
+C. no Person or Group, other than (i) the Company, (ii) any subsidiary of the Company, (iii) any employee benefit plan (or any trust forming a part thereof) maintained by the Company  
+  
+* * *  
+  
+immediately prior to such merger, consolidation, or reorganization, or (iv) any holder of the Company’s Class A Common Stock as of the date hereof, owns twenty percent (20%) or more of the combined voting power of the Surviving Corporation’s then-outstanding voting securities; or  
+  
+(b) a complete liquidation or dissolution of the Company; or  
+  
+(c) the sale of disposition of all or substantially all of the assets of the Company to any Person.  
+  
+Notwithstanding the foregoing, a Change of Control shall not be deemed to occur solely because any Person (the “Subject Person”) acquired Beneficial Ownership of more than the permitted amount of the outstanding Voting Securities as a result of the acquisition of Voting Securities by the Company which, by reducing the number of Voting Securities outstanding, increases the proportional number of shares Beneficially Owned by the Subject Person provided that if a Change of Control would occur (but for the operation of this sentence) and after such acquisition of Voting Securities by the Company, the Subject Person becomes the Beneficial Owner of any additional Voting Securities, then a Change of Control shall occur.  
+Certain Additional Payments by the Company: In the event it shall be determined at any time that as a result, directly or indirectly, of any payment or distribution by the Company to or for the benefit of the Optionee, whether paid or payable or distributed or distributable pursuant to the terms of this Agreement or otherwise (a “Payment”), the Optionee would be subject to the excise tax imposed by Section 4999 of the Code or any interest or penalties are incurred by the Optionee with respect to such excise tax (such excise tax, together with any such interest and penalties, are hereinafter collectively referred to as the “Excise Tax”), then the Optionee shall be entitled to promptly receive from the Company an additional payment (a “Gross-Up Payment”) in an amount such that after payment by the Optionee of all taxes (including any interest or penalties imposed with respect to such taxes), including, without limitation, any income taxes (and any interest and penalties imposed with respect thereto) and Excise Tax imposed upon the Gross-Up Payment, but excluding any income taxes on the Payment, the Optionee is in the same after-tax position as if no Excise Tax had been imposed upon the Optionee. The Company shall pay the Gross-Up Payment to Optionee no later than the last day of Optionee’s taxable year following the taxable year in which Optionee remits the Excise Tax.  
+Attorney’s Fees: In the event that any suit or action is instituted to enforce any provision in this Agreement, the prevailing party in such dispute shall be entitled to recover from the losing party all fees, costs and expenses of enforcing any right of such prevailing party under or with respect to this Agreement, including without limitation, such reasonable fees and expenses of attorneys and accountants, which shall include, without limitation, all fees, costs and expenses of appeals. Except as otherwise permitted by Section 409A of the Code, any reimbursement to which Optionee is entitled pursuant to this paragraph shall (a) be paid no later than the last day of Optionee’s taxable year following the taxable year in which the expense was incurred, (b) not be affected by the amount of expenses eligible for reimbursement in any other taxable year, and (c) not be subject to liquidation or exchange for another benefit.  
+  
+* * *  
+  
+Compliance with Section 409A: The Company intends that income provided to Optionee pursuant to this Agreement will not be subject to taxation under Section 409A of the Code. The provisions of this Agreement shall be interpreted and construed in favor of satisfying any applicable requirements of Section 409A. However, the Company does not guarantee any particular tax effect for income provided to Optionee pursuant to this Agreement. In any event, except for the responsibility of the Company to withhold applicable income and employment taxes from compensation paid or provided to Optionee, the Company shall not be responsible for the payment of any applicable taxes incurred by Optionee on compensation paid or provided to Optionee pursuant to this Agreement.  
+Term/Expiration Date: Ten (10) years from the date hereof or as set forth in Section 2.  
+Early Termination As set forth in Section 2 of the Agreement (but in no event later than the Expiration Date).  
+  
+By the signatures set forth below, you and the Company agree that this option is granted under and governed by the terms and conditions of this Agreement and the Plan, which is made a part of this document.   
+  
+OPTIONEE: MARCHEX, INC.  
+  
+Signature Name:  
+  
+Title:  
+Print Name  
+  
+Social Security Number  
+Date (Required Field)  
+  
+* * *
+
+Exhibit A 
+
+MARCHEX, INC. 
+
+AMENDED AND RESTATED 
+
+2003 STOCK INCENTIVE PLAN 
+
+STOCK OPTION AGREEMENT 
+
+TERMS AND CONDITIONS
+
+The Optionee hereby accepts the Option, subject to the terms and conditions set forth in the Plan (as fully as if they were set forth herein) and to the following additional terms and conditions: 
+
+1\. Grant of Option. The terms relating to this grant of this Option to purchase the Shares, including the number of shares, the purchase price, the vesting schedule and the date of grant are set forth on the cover page of this Agreement. 
+
+2\. Term of Options; Exercisability. 
+
+(a) Term. 
+
+(1) The Option shall expire ten (10) years from the date of this Agreement, but shall be subject to earlier termination as herein provided. 
+
+(2) Except as otherwise provided in this Section 2, the Option shall terminate (and the right to exercise the Option shall terminate) ninety (90) days following the date the director, employment or consulting relationship terminates between the Optionee and the Company or one of its subsidiaries, or on the date on which the Option expires by its terms, whichever occurs first. 
+
+(3) If such termination is because the death of the Optionee or because the Optionee has become permanently disabled (within the meaning of Section 22(e)(3) of the Code), the Option shall terminate (and the right to exercise the Option shall terminate) one (1) year following the date the director, employment or consulting relationship is terminated, or on the date on which the Option expires by its terms, whichever occurs first. 
+
+(b) Exercisability. Except as otherwise provided in the Plan or Agreement, the Option shall be exercisable only to the extent that the Option has become vested (in accordance with the vesting schedule set forth on the cover page of this Agreement) on the date the director, employment or consulting relationship terminates between the Optionee and the Company or one of its subsidiaries. 
+
+3\. Manner of Exercise of Option. 
+
+(a) To the extent that the right to exercise the Option has accrued and is in effect, the Option may be exercised in full or in part by giving written notice to the Company stating the number of Shares exercised and accompanied by payment in full for such Shares. Payment may be either wholly in cash or by check payable to the Company. Upon such exercise, delivery of a certificate for paid-up, non-assessable Shares shall be made at the principal office of the Company to the person exercising the Option, not more than thirty (30) days from the date of receipt of the notice by the Company. 
+
+(b) The Company shall at all times during the term of the Option reserve and keep available such number of Shares of its Class B Common Stock, $.01 par value per share (the 
+
+* * *
+
+“Common Stock”), as will be sufficient to satisfy the requirements of the Option. The Optionee shall not have any of the rights of a stockholder of the Company in respect of the Shares until one or more certificates for such Shares shall be delivered to him or her upon the due exercise of the Option. 
+
+4\. Non-Transferability. Except as otherwise provided in the Plan, the right of the Optionee to exercise the Option shall not be assignable or transferable by the Optionee otherwise than by will or the laws of descent and distribution and the Option shall be exercisable during the lifetime of the Optionee only by the Optionee. The Option shall be null and void and without effect upon the bankruptcy of the Optionee or upon any attempted assignment or transfer, including without limitation any purported assignment, whether voluntary or by operation of law, pledge, hypothecation or other disposition contrary to the provisions hereof, or levy of execution, attachment, divorce, trustee process or similar process, whether legal or equitable, upon the Option. 
+
+5\. Intentionally Omitted. 
+
+6\. Representation Letter and Investment Legend. 
+
+(a) In the event that for any reason the Shares to be issued upon exercise of the Option shall not be effectively registered under the Securities Act of 1933, as amended (the “1933 Act”), upon any date on which the Option is exercised in whole or in part, the person exercising the Option shall give a written representation to the Company in the form attached hereto as Annex A and the Company shall place an “investment legend”, so-called, as described in Annex A, upon any certificate for the Shares issued by reason of such exercise. 
+
+(b) The Company shall be under no obligation to qualify Shares or to cause a registration statement or a post-effective amendment to any registration statement to be prepared for the purposes of covering the issue of Shares. 
+
+(c) In the event this Option is an “incentive stock option” as provided in Section 15 of this Agreement, in order to enable the Company to determine when it is entitled to a tax deduction upon the disposition of any Shares issued upon exercise of this Option, for the periods during which such a disposition would entitle the Company to such a deduction (generally, a disposition within two years from the date of grant of the Option or within one (1) year from the date of exercise of the Option will entitle the Company to a deduction), all stock certificates of such Shares shall be held by the Optionee in his or her name and not in the name of a broker, nominee or other person or entity, and shall bear a legend reflecting that such Shares were obtained upon exercise of an incentive stock option. The Optionee acknowledges that the Company may send a Form W-2, W-2c or substitute therefor, as appropriate, to the Optionee with respect to any income recognized by the Optionee upon a disposition of the Shares for the periods during which such a disposition would entitle the Company to such a deduction. Nothing in this Section 6(c) shall restrict the Optionee from selling, transferring or otherwise disposing of such Shares at any time, but only from holding such Shares in other than his or her own name. 
+
+7\. Recapitalizations, Reorganizations, Changes in Control and the Like. Adjustments and other matters relating to recapitalizations, reorganizations, sale of the assets of the Company, changes in control and the like shall be made and determined in accordance with Section 16 of the Plan, as in effect on the date of this Agreement. 
+
+8\. No Special Employment or Other Contract Rights. Nothing contained in this Agreement shall be construed or deemed by any person under any circumstances to bind the Company to continue the director, employment or consulting relationship of the Optionee for the period within which this Option may be exercised. However, during the period of the Optionee’s director, employment or consulting relationship, the Optionee shall render diligently and 
+
+* * *
+
+faithfully the services which are assigned to the Optionee from time to time by the Board of Directors or by the executive officers of the Company, provided that such services are consistent with the services usually required to be performed by the Optionee. The Optionee shall at no time take any action which directly or indirectly would be inconsistent with the best interests of the Company. 
+
+9\. Withholding Taxes. Whenever Shares are to be issued upon exercise of this Option, the Company shall have the right to require the Optionee to remit to the Company an amount sufficient to satisfy all Federal, state and local withholding tax requirements prior to the delivery of any certificate or certificates for such Shares. 
+
+10\. Attorneys-in-Fact. Each Optionee hereby irrevocably appoints each person who may from time to time serve as Chief Executive Officer or Treasurer of the Company as his attorney-in-fact with specific authority to execute, acknowledge, swear to, file, and deliver all consents, elections, instruments, certificates, and other documents and to take any other action requisite to carrying out the intention and purpose of this Agreement. 
+
+11\. Complete Agreement. This Agreement constitutes the entire agreement and understanding of the parties hereto with respect to the subject matter hereof and supersedes all prior agreements and understandings relating to such subject matter, whether oral or written. 
+
+12\. Amendment and Waiver. This Agreement may be amended, modified or supplemented, and waivers or consents to departures from the provisions hereof may be given, provided that the same are in writing and signed by the parties. 
+
+13\. Governing Law; Successors and Assigns. This Agreement shall be governed by the internal and substantive laws of the State of Delaware without giving effect to the conflicts of laws principles thereof and, except as otherwise provided herein, shall be binding upon the heirs, personal representatives, executors, administrators, successors and assigns of the parties. 
+
+14\. Notices. Any notices or other communications required to be given hereunder shall be given by hand delivery or by first class mail with all fees prepaid and addressed, if to the Company, to it at its principal place of business, Attn: General Counsel, and if to Optionee, to him, her or it at the address set forth in the signature page hereto. 
+
+15\. Qualification under Section 422. Under certain circumstances, the Company may designate an option granted under the Plan to be an “incentive stock option” as defined in Section 422 of the Code. Such designation by the Company shall be set forth on the Notice. If such designation has been set forth in the Notice for the Option granted hereunder, the Optionee understands that in order to obtain the benefits of an incentive stock option under Section 421 of the Code, no sale or other disposition may be made of any Shares acquired upon exercise of the Option within the one-year period beginning on the day after the day of the transfer of such Shares to him or her, nor within the two-year period beginning on the day after the grant of the Option. If the Optionee intends to dispose or does dispose (whether by sale, gift, transfer or otherwise) of any such Shares within said periods, he or she will notify the Company within thirty (30) days after such disposition. 

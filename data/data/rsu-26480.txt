@@ -1,0 +1,214 @@
+Exhibit 10.40 
+
+2007 PTS HOLDINGS CORP. 
+
+
+
+NONQUALIFIED STOCK OPTION AGREEMENT 
+
+THIS AGREEMENT (the “Agreement”), is made effective as of [ ] (the “Date of Grant”), between PTS Holdings Corp. (the “Company”) and the individual named on the signature page hereto (the “Participant”). 
+
+R E C I T A L S: 
+
+WHEREAS, the Company has adopted the Plan (as defined below), the terms of which are hereby incorporated by reference and made a part of this Agreement; and 
+
+WHEREAS, the Committee (as defined in the Plan) has determined that it would be in the best interests of the Company and its stockholders to grant the Options (as defined below) provided for herein to the Participant pursuant to the Plan and the terms set forth herein. 
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows: 
+
+1\. Definitions. Whenever the following terms are used in this Agreement, they shall have the meanings set forth below. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan. 
+
+(a) Cause: “Cause” shall mean “Cause” as such term may be defined in any employment agreement in effect at the time of the Participant’s termination of Employment between the Participant and the Company or its Subsidiaries or Affiliates, or, if there is no such employment agreement or such term is not defined therein, “Cause” shall mean (i) the Participant’s willful failure to perform duties which is not cured within 15 days following written notice, (ii) the Participant’s conviction or confessing to or becoming subject to proceedings that provide a reasonable basis for the Company to believe that the Participant has engaged in a (x) felony, (y) crime involving dishonesty, or (z) crime involving moral turpitude and which is demonstrably injurious to the Company and its Subsidiaries, (iii) the Participant’s willful malfeasance or misconduct which is demonstrably injurious to the Company and its Subsidiaries, or (iv) breach by the Participant of the material terms of any agreement with the Company or its Subsidiaries, including, without limitation, any non-competition, non-solicitation or confidentiality provisions thereof. For purposes of this definition, no act or failure to act shall be deemed “willful” unless effected by the Participant not in good faith. 
+
+(b) EBITDA Option: An Option with respect to which the terms and conditions are set forth in Section 3(b) of this Agreement. 
+
+(c) Expiration Date: The tenth anniversary of the Date of Grant. 
+
+(d) Exit Option: Collectively, the Tier I Exit Option and the Tier II Exit Option. 
+
+* * *
+
+(e) Fiscal Year: Each fiscal year of the Company (which, for the avoidance of doubt, ends on or about June 30th of any given year). 
+
+(f) Good Reason: “Good Reason” shall mean “Good Reason” as such term may be defined in any employment agreement in effect at the time of the Participant’s termination of Employment between the Participant and the Company or its Subsidiaries or Affiliates, or, if there is no such employment agreement or such term is not defined therein, “Good Reason” shall mean, without the Participant’s consent, (i) a substantial diminution in the Participant’s position or duties, adverse change in reporting lines, or assignment of duties materially inconsistent with the Participant’s position, (ii) any reduction in the Participant’s base salary, (iii) failure of the Company to pay compensation or benefits when due, (iv) moving the Participant’s then-principal business location more than 50 miles or (v) failure to provide the Participant with an annual bonus opportunity at the same level as established for the Participant in connection with the Participant’s commencement of employment with the Company and its Subsidiaries or Affiliates, as applicable, in each case, which is not cured within 30 days following the Company’s receipt of written notice from the Participant describing the event constituting Good Reason. 
+
+(g) Options: Collectively, the Time Option, the EBITDA Option, and the Exit Option to purchase Shares granted under this Agreement. 
+
+(h) Plan: The 2007 PTS Holdings Corp. Stock Incentive Plan, as it may be amended or supplemented from time to time. 
+
+(i) Securityholders Agreement: The Securityholders Agreement dated as of May 7, 2007 among the Company and the other parties thereto, as it may be amended or supplemented from time to time. 
+
+(j) Subscription Agreement: The Subscription Agreement entered into between the Company and the Participant in a form reasonably acceptable to the Company, as it may be amended or supplemented from time to time. 
+
+(k) Tier I Exit Option: An Option with respect to which the terms and conditions are set forth in Section 3(c) of this Agreement. 
+
+(l) Tier II Exit Option: An Option with respect to which the terms and conditions are set forth in Section 3(d) of this Agreement. 
+
+(m) Time Option: An Option with respect to which the terms and conditions are set forth in Section 3(a) of this Agreement. 
+
+(n) Vested Portion: At any time, the portion of an Option which has become vested, as described in Section 3 of this Agreement. 
+
+(o) Vesting Reference Date: [ ]. 
+
+2\. Grant of Options. The Company hereby grants to the Participant the right and option to purchase, on the terms and conditions hereinafter set forth, all or any part of the number of Shares subject to the Time Option, the EBITDA Option, and the Exit Option set 
+
+2 
+
+* * *
+
+forth on Schedule A attached hereto, subject to adjustment as set forth in the Plan. The Option Price shall be $1300 per Share. The Options are intended to be nonqualified stock options, and are not intended to be treated as an option that complies with Section 422 of the Code. 
+
+3\. Vesting of the Options. 
+
+(a) Vesting of the Time Option. Subject to the Participant’s continued Employment through the applicable vesting date, the Time Option shall vest and become exercisable with respect to twenty percent (20%) of the Shares subject to such Time Option on each of the first five anniversaries of the Vesting Reference Date. Notwithstanding the foregoing, in the event of a Change in Control, the Time Option shall, to the extent not then vested or previously forfeited or cancelled, become fully vested and exercisable. 
+
+(b) Vesting of the EBITDA Option. 
+
+(i) In General. Subject to the Participant’s continued Employment through the applicable vesting date, the EBITDA Option shall vest and become exercisable with respect to twenty percent (20%) of the Shares subject to the EBITDA Option on each of the first five anniversaries of the Vesting Reference Date (each such anniversary, an “EBITDA Option Performance Vesting Date”) if, as of the last day of the Fiscal Year ending after the applicable EBITDA Option Performance Vesting Date, the EBITDA goal set forth on Schedule B (the “EBITDA Goal”) for the applicable Fiscal Year is achieved or exceeded, with the vesting being deemed to occur on the EBITDA Option Performance Vesting Date that occurs immediately prior to the last day of the applicable Fiscal Year. 
+
+(ii) Catch-Up. Notwithstanding the foregoing, subject to the Participant’s continued Employment through the applicable vesting date, if the portion of the EBITDA Option that is scheduled to vest in respect of a given Fiscal Year does not vest because the EBITDA Goal is not achieved or exceeded in respect of such Fiscal Year (any such Fiscal Year, a “Missed Year”), then the portion of the EBITDA Option that was eligible to vest but failed to vest due to the failure to achieve or exceed the EBITDA Goal in such Missed Year shall nevertheless vest and become exercisable if the Cumulative EBITDA Goal set forth on Schedule B for any completed Fiscal Year that is subsequent to any Missed Year (any such Fiscal Year, an “Achieved Year”) is achieved or exceeded, with vesting being deemed to occur on the EBITDA Option Performance Vesting Date that occurs immediately prior to the last day of the Achieved Year. 
+
+Such EBITDA Goals shall be adjusted in good faith to reflect acquisitions, divestitures and other similar corporate transactions that would affect the EBITDA Goals. 
+
+(c) Vesting of the Tier I Exit Option. Subject to the Participant’s continued Employment through the applicable vesting date, the Tier I Exit Option shall vest on the date, if any, when either (i) Blackstone shall have received cash proceeds or marketable securities from the sale of its investment in the Company aggregating in excess of 2.5 times the amount of its initial investment in the Company (such initial investment equaling $914,680,907.54) (the “Initial Investment”) or (ii) Blackstone shall have received a cash Internal Rate of Return of at 
+
+3 
+
+* * *
+
+least 20% on its Initial Investment. For purposes of this Agreement, “Internal Rate of Return” means, as of a given date, the internal rate of return compounded annually from April 10, 2007 with respect to the Initial Investment). Notwithstanding the foregoing, subject to the Participant’s continued Employment through the applicable vesting date, in the event that the 2.5 multiple hurdle or the 20% Internal Rate of Return hurdle (each as described in this Section 3(c)) is not met, but the 1.75 multiple hurdle or the 15% Internal Rate of Return hurdle (each as described below) is met, the Tier I Exit Option shall vest based on straight line interpolation between the two points. 
+
+(d) Vesting of the Tier II Exit Option. Subject to the Participant’s continued Employment through the applicable vesting date, the Tier II Exit Option shall vest on the date, if any, when either (i) Blackstone shall have received cash proceeds or marketable securities from the sale of its investment in the Company aggregating in excess of 1.75 times the Initial Investment or (ii) Blackstone shall have received a cash Internal Rate of Return of at least 15% on its Initial Investment. 
+
+(e) Termination of Employment. If the Participant’s Employment terminates for any reason, the Option, to the extent not then vested and exercisable, shall be immediately canceled by the Company without consideration. Notwithstanding anything to the contrary in this Agreement, in the event of the termination of the Participant’s Employment (i) by the Company without Cause, (ii) by the Participant for Good Reason, (iii) due to death or Disability or (iv) due to the Company’s election not to extend the employment term under any employment agreement in effect at the time of the Participant’s termination of Employment between the Participant and the Company, to the extent applicable, the Participant shall be deemed vested in any portion of the Time Option that would otherwise have vested within 12 months following such termination of Employment. 
+
+4\. Exercise of Options.
+
+(a) Period of Exercise. Subject to the provisions of the Plan and this Agreement, the Participant may exercise all or any part of the Vested Portion of an Option at any time prior to the Expiration Date. Notwithstanding the foregoing, if the Participant’s Employment terminates prior to the Expiration Date, the Vested Portion of an Option shall remain exercisable for the period set forth below: 
+
+(i) Death or Disability. If the Participant’s Employment is terminated due to the Participant’s death or Disability, the Participant may exercise the Vested Portion of an Option for a period ending on the earlier of (A) the one year anniversary of such termination of Employment and (B) the Expiration Date, and, for any portion of the EBITDA Option that is determined to be vested after the date of termination in accordance with Section 3(b), for a period ending on the earlier of (I) the one year anniversary of the date on which such portion of the EBITDA Option vests and (II) the Expiration Date; 
+
+(ii) Termination by the Company Other than for Cause or Due to Death or Disability. If the Participant’s Employment is terminated other than by the Company for Cause or due to death or Disability, the Participant may exercise the Vested Portion of an 
+
+4 
+
+* * *
+
+Option that became vested on or prior to the date of termination for a period ending on the earlier of (A) the 90th day following such termination of Employment and (B) the Expiration Date, and, for any portion of the EBITDA Option that is determined to be vested after the date of termination in accordance with Section 3(b), for a period ending on the earlier of (I) the 90th day following the date on which such portion of the EBITDA Option vests and (II) the Expiration Date; and 
+
+(iii) Termination by the Company for Cause. If the Participant’s Employment is terminated by the Company for Cause, the Vested Portion of an Option shall immediately terminate in full and cease to be exercisable. 
+
+(b) Method of Exercise. 
+
+(i) Subject to Section 4(a) of this Agreement and Section 6(c) of the Plan, the Vested Portion of an Option may be exercised by delivering to the Company at its principal office written notice of intent to so exercise; provided that, the Option may be exercised with respect to whole Shares only. Such notice shall specify the number of Shares for which the Option is being exercised and shall be accompanied by payment in full of the Option Price. The payment of the Option Price may be made at the election of the Participant (i) in cash or its equivalent (e.g., by check), (ii) in Shares having a Fair Market Value equal to the aggregate Option Price for the Shares being purchased and satisfying such other requirements as may be imposed by the Committee; provided, that such Shares have been held by the Participant for more than six months (or such other period as established from time to time by the Committee in order to avoid adverse accounting treatment applying generally accepted accounting principles), (iii) partly in cash and partly in such Shares, (iv) if there is a public market for the Shares at such time, to the extent permitted by the Committee and subject to such rules as may be established by the Committee, through the delivery of irrevocable instructions to a broker to sell Shares obtained upon the exercise of the Option and to deliver promptly to the Company an amount out of the proceeds of such sale equal to the aggregate option price for the Shares being purchased, or (v) using a net settlement mechanism whereby the number of Shares delivered upon the exercise of the Option will be reduced by a number of Shares that has a Fair Market Value equal to the Option Price, provided that the Participant tenders cash or its equivalent to pay any applicable withholding taxes. The Participant shall not have any rights to dividends or other rights of a stockholder with respect to Shares subject to an Option until the Participant has given written notice of exercise of the Option, paid in full for such Shares and, if applicable, has satisfied any other conditions imposed by the Committee pursuant to the Plan. 
+
+(ii) Notwithstanding any other provision of the Plan or this Agreement to the contrary, absent an available exemption to registration or qualification, an Option may not be exercised prior to the completion of any registration or qualification of an Option or the Shares under applicable state and federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange that the Committee shall in its sole discretion determine to be necessary or advisable; provided, that the Company shall use commercially reasonable efforts to take such 
+
+5 
+
+* * *
+
+actions as are necessary and appropriate to register or qualify the Shares subject to the Option so it may be exercised. 
+
+(iii) Upon the Company’s determination that an Option has been validly exercised as to any of the Shares, the Company shall issue certificates in the Participant’s name for such Shares. However, the Company shall not be liable to the Participant for damages relating to any delays in issuing the certificates to the Participant, any loss by the Participant of the certificates, or any mistakes or errors in the issuance of the certificates or in the certificates themselves. 
+
+(iv) In the event of the Participant’s death, the Vested Portion of an Option shall remain exercisable by the Participant’s executor or administrator, or the person or persons to whom the Participant’s rights under this Agreement shall pass by will or by the laws of descent and distribution as the case may be, to the extent set forth in Section 4(a) of this Agreement. Any heir or legatee of the Participant shall take rights herein granted subject to the terms and conditions hereof. 
+
+(v) As a condition to the exercise of any Option evidenced by this Agreement, the Participant shall execute the Securityholders Agreement and the Subscription Agreement. 
+
+5\. No Right to Continued Employment. Neither the Plan nor this Agreement shall be construed as giving the Participant the right to be retained in the employ of, or in any consulting relationship to, the Company or any Affiliate. Further, the Company or any Affiliate may at any time dismiss the Participant or discontinue any consulting relationship, free from any liability or any claim under the Plan or this Agreement, except as otherwise expressly provided herein. 
+
+6\. Legend on Certificates. The certificates representing the Shares purchased by exercise of an Option shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed or quoted or market to which the Shares are admitted for trading and, any applicable federal or state or any other applicable laws and the Company’s Certificate of Incorporation and Bylaws, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions. 
+
+7\. Transferability. An Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. No such permitted transfer of an Option to heirs or legatees of the Participant shall be effective to bind the Company unless the Committee shall have been furnished with written notice thereof and a copy of such evidence as the Committee may deem necessary to establish the validity of the transfer and the acceptance by 
+
+6 
+
+* * *
+
+the transferee or transferees of the terms and conditions thereof. During the Participant’s lifetime, an Option is exercisable only by the Participant. 
+
+8\. Withholding. The Participant may be required to pay to the Company or any Affiliate and the Company or its Affiliates shall have the right and are authorized to withhold any applicable withholding taxes in respect of an Option, its exercise, or any payment or transfer under or with respect to an Option and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes. The Participant may elect to pay any or all of such withholding taxes as provided in Section 4 of the Plan. 
+
+9\. Securities Laws. Upon the acquisition of any Shares pursuant to the exercise of an Option, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement. 
+
+10\. Notices. Any notice under this Agreement shall be addressed to the Company in care of its Chief Financial Officer and a copy to the General Counsel, each copy addressed to the principal executive office of the Company and to the Participant at the address appearing in the personnel records of the Company for the Participant or to either party at such other address as either party hereto may hereafter designate in writing to the other. Any such notice shall be deemed effective upon receipt thereof by the addressee. 
+
+11\. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware without regard to conflicts of laws. 
+
+12\. Options Subject to Plan, Securityholders Agreement and Subscription Agreement. By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan, the Securityholders Agreement and the Subscription Agreement. The Options and the Shares received upon exercise of an Option are subject to the Plan, the Securityholders Agreement and the Subscription Agreement. For the avoidance of doubt, the Participant further agrees and acknowledges that (x) this Agreement, in addition to any other stock option agreements previously entered into or to be entered into by the Participant at any time following the date hereof, shall be considered a “Stock Option Agreement” under the Subscription Agreement and (y) the Options, in addition to any other stock options previously awarded or to be awarded at any time following the date hereof, shall be considered “Options” under the Subscription Agreement. The terms and provisions of the Plan, the Securityholders Agreement and the Subscription Agreement, as each may be amended from time to time are hereby incorporated by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the Securityholders Agreement or the Subscription Agreement, the applicable terms and provisions of the Plan, the Securityholders Agreement or the Subscription Agreement will govern and prevail. In the event of a conflict between any term or provision of the Plan and any term or provision of the Securityholders Agreement or the Subscription Agreement, the applicable terms and provisions of the Securityholders Agreement or the Subscription Agreement, as applicable, will govern and prevail. 
+
+7 
+
+* * *
+
+13\. Amendment. The Committee may waive any conditions or rights under, amend any terms of, or alter, suspend, discontinue, cancel or terminate this Agreement, but no such waiver, amendment, alteration, suspension, discontinuance, cancellation or termination shall materially adversely affect the rights of the Participant hereunder without the consent of the Participant. 
+
+14\. Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. 
+
+[The remainder of this page intentionally left blank.] 
+
+8 
+
+* * *
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto.   
+  
+PTS HOLDINGS CORP.  
+By: /s/ John Chiminski  
+  
+9 
+
+* * *  
+  
+By Scott Houlton  
+  
+/s/ Scott Houlton  
+  
+Option Agreement 
+
+* * *
+
+Schedule A 
+
+The number of Shares subject to each Option is set forth below: 
+
+Participant Name: Scott Houlton 
+
+Grant Date: [ ] 
+
+Time Option: [ ] 
+
+EBITDA Option: [ ] 
+
+Tier I Exit Option: [ ] 
+
+Tier II Exit Option: [ ] 
+
+Option Agreement 
+
+* * *
+
+Schedule B 
+
+EBITDA Goals   
+  
+Fiscal Year
+
+EBITDA Goal
+
+(dollars in millions)
+
+Cumulative EBITDA Goal
+
+(dollars in millions)  
+  
+2013 [ ] [ ]  
+2014 [ ] [ ]  
+2015 [ ] [ ]  
+2016 [ ] [ ]  
+2017 [ ] [ ]  
+  
+“EBITDA” is defined as internally reported operating earnings increased by depreciation and amortization and is based on fiscal year 2010 internally budgeted foreign exchange rates. Future performance will be translated at constant foreign exchange rates in order to gauge performance against EBITDA goals in consideration of foreign currency fluctuations, which may occur. 
+
+12 

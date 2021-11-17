@@ -1,0 +1,268 @@
+Exhibit 10.2
+
+
+
+AGREEMENT dated as of March 10, 2006, between Monarch Pointe Fund, Ltd. (“Monarch”), Mercator Momentum Fund III, L.P. (“MMF”) and M.A.G. CAPITAL, LLC (“MAG”) (Monarch, MMF and MAG are referred to individually as a “Holder” and collectively as the “Holders”), and Spescom Software Inc., a California corporation (the “Company”).
+
+WHEREAS, on October 25, 2005, (i) Monarch purchased, for aggregate consideration of $500,000 and 1,450 shares of the Company’s Series G Convertible Preferred Stock, which were transferred to the Company for cancellation, an aggregate of 1,950 shares of Series H Convertible Preferred Stock (the “Series H Stock”) from the Company, (ii) Monarch and MAG acquired warrants from the Company, pursuant to which they have the right to purchase in the aggregate up to 925,926 shares of Common Stock (the “Initial Closing Warrants”), and (iii) in connection with such purchase of Series H Convertible Preferred Stock and such acquisition of warrants, the Company, MAG and Monarch entered into that certain Registration Rights Agreement dated as of October 25, 2005 (the “Initial Closing Registration Rights Agreement”);
+
+WHEREAS, on the date hereof, Monarch and MMF have purchased from the Company, for aggregate consideration of $500,000 and the Series H Stock, which has been transferred to the Company for cancellation, an aggregate of 2,450 shares of the Company’s Series I Convertible Preferred Stock (the “Series I Stock”), and have the right to cause such Series I Stock to be converted into shares of the Company’s common stock, no par value (“Common Stock”), pursuant to the conversion formula set forth in the Certificate of Determination of Series I Convertible Preferred Stock as filed with the Secretary of State of the State of California on March 9, 2006 (the “Certificate of Determination”);
+
+WHEREAS, on the date hereof, the Holders have acquired warrants (such warrants, together with the Initial Closing Warrants, the “Warrants”) from the Company, pursuant to which the Holders have the right to purchase in the aggregate up to 925,926 shares of Common Stock; and
+
+WHEREAS, the Company desires to grant to the Holders the registration rights set forth herein with respect to the shares of Common Stock issuable upon the conversion of the Series I Stock and the exercise of the Warrants.
+
+NOW, THEREFORE, the parties hereto mutually agree as follows:
+
+1. Registrable Securities. As used herein the terms “Registrable Security” means each of the shares of Common Stock issued (i) upon the conversion of the Series I Stock (the “Conversion Shares”) and (ii) upon exercise of the Warrants (the “Warrant Shares”), provided, however, that with respect to any particular Registrable Security, such security shall cease to be a Registrable Security as of the date of determination that (a) it has been effectively registered under the Securities Act of 1933, as amended (the “Securities Act”), and disposed of pursuant thereto, or (b) registration under the Securities Act is no longer required for the immediate public distribution of such security. The term “Registrable Securities” means any and/or all of the securities falling within the foregoing definition of a “Registrable Security.” In the event of any
+
+1
+
+* * *
+
+  
+
+
+merger, reorganization, consolidation, recapitalization or other change in corporate structure affecting the Common Stock, such adjustment shall be made in the definition of “Registrable Security” as is appropriate in order to prevent any dilution or enlargement of the rights granted pursuant to this Section 1.
+
+2. Registration.
+
+(a) The Company shall use its commercially reasonable efforts to file a registration statement (the “Registration Statement”) with the Securities and Exchange Commission (the “SEC”) no later than thirty (30) days after the date of this Agreement in order to register the resale of the Registrable Securities under the Securities Act. The Company shall use its commercially reasonable efforts to cause the Registration Statement to become effective no later than (a) ninety (90) days after the filing date if such Registration Statement is not subject to SEC review, or (b) one hundred twenty (120) days after the filing date if such Registration Statement is subject to SEC review. Once effective, the Company shall use its commercially reasonable efforts to maintain the effectiveness of the Registration Statement until the earliest of the following dates (the “Expiration Date”) (i) the date that all of the Registrable Securities have been sold, or (ii) the date that the Company receives an opinion of counsel to the Company that all of the Registrable Securities may be freely traded without registration under the Securities Act, under Rule 144 promulgated under the Securities Act or otherwise.
+
+(b) The Company will initially include in the Registration Statement as Registrable Securities (i) Thirty Three Million Seven Hundred Ninety Three Thousand One Hundred Four (33,793,104) shares of Common Stock issuable upon conversion of the Series I Stock and (ii) the maximum numbers of shares of Common Stock issuable upon exercise of the Warrants.
+
+(c) If (i) the Company fails to file the Registration Statement with the SEC within thirty (30) days after the date of this Agreement, or (ii) the Registration Statement fails to become effective within the applicable time period set forth in Section 2(a) above of ninety (90) or one hundred twenty (120) days, as the case may be, the Company shall pay to Holders an amount equal to Five Hundred Dollars ($500) per day until the Registration Statement is declared effective; provided, however, that in no event shall the aggregate liability of the Company under this Section exceed Fifty Thousand Dollars ($50,000).
+
+3. Covenants of the Company with Respect to Registration.
+
+The Company covenants and agrees as follows:
+
+(a) If any stop order shall be issued by the SEC in connection therewith, the Company shall use commercially reasonable efforts to obtain promptly the removal of such order. Following the effective date of the Registration Statement, the Company shall, upon the request of any Holder, forthwith supply such reasonable number of copies of the Registration Statement, preliminary prospectus and prospectus meeting the requirements of the Securities Act, and any other documents necessary or incidental to the public offering of the Registrable Securities, as shall be reasonably requested by the Holder to permit the Holder to make a public distribution of the Holder’s Registrable Securities. The obligations of the Company hereunder
+
+2
+
+* * *
+
+  
+
+
+with respect to the Holder’s Registrable Securities are subject to the Holder’s furnishing to the Company such appropriate information concerning the Holder, the Holder’s Registrable Securities and the terms of the Holder’s offering of such Registrable Securities as the Company may reasonably request in writing.
+
+(b) The Company shall pay all costs, fees and expenses in connection with the Registration Statement filed pursuant to Section 2 hereof including, without limitation, the Company’s legal and accounting fees, printing expenses, and blue sky fees and expenses; provided, however, that each Holder shall be solely responsible for the fees of any counsel retained by the Holder in connection with such registration and any transfer taxes or underwriting discounts, commissions or fees applicable to the Registrable Securities sold by the Holder pursuant thereto.
+
+(c) The Company will take all actions which may be required to qualify or register the Registrable Securities included in the Registration Statement for the offer and sale under the securities or blue sky laws of such states as are reasonably requested by each Holder of such securities, provided that the Company shall not be obligated to execute or file any general consent to service of process or to qualify as a foreign corporation to do business under the laws of any such jurisdiction.
+
+4. Additional Terms.
+
+(a) The Company shall indemnify and hold harmless the Holders and each underwriter, within the meaning of the Securities Act, who may purchase from or sell for any Holder, any Registrable Securities, from and against any and all losses, claims, damages and liabilities caused by any untrue statement of a material fact contained in the Registration Statement, any other registration statement filed by the Company under the Securities Act with respect to the registration of the Registrable Securities, any post-effective amendment to such registration statements, or any prospectus included therein or caused by any omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, except insofar as such losses, claims, damages or liabilities are caused by any such untrue statement or omission based upon information furnished or required to be furnished in writing to the Company by the Holders or underwriter expressly for use therein, which indemnification shall include each person, if any, who controls any Holder or underwriter within the meaning of the Securities Act and each officer, director, employee and agent of each Holder and underwriter; provided, however, that the indemnification in this Section 4(a) with respect to any prospectus shall not inure to the benefit of any Holder or underwriter (or to the benefit of any person controlling any Holder or underwriter) on account of any such loss, claim, damage or liability arising from the sale of Registrable Securities by the Holder or underwriter, if a copy of a subsequent prospectus correcting the untrue statement or omission in such earlier prospectus was provided to such Holder or underwriter by the Company prior to the subject sale and the subsequent prospectus was not delivered or sent by the Holder or underwriter to the purchaser prior to such sale and provided further, that the Company shall not be obligated to so indemnify any Holder or any such underwriter or other person referred to above unless the Holder or underwriter or other person, as the case may be, shall at the same time indemnify the Company, its directors, each officer signing the Registration Statement and each person, if any, who controls the Company within the meaning of the Securities Act, from and against any and all
+
+3
+
+* * *
+
+  
+
+
+losses, claims, damages and liabilities caused by any untrue statement of a material fact contained in the Registration Statement, any registration statement or any prospectus required to be filed or furnished by reason of this Agreement or caused by any omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, insofar as such losses, claims, damages or liabilities are caused by any untrue statement or omission based upon information furnished in writing to the Company by the Holder or underwriter expressly for use therein.
+
+(b) The Holder shall indemnify and hold harmless the Company, from and against any and all losses, claims, damages and liabilities caused by any untrue statement of a material fact contained in the Registration Statement, any registration statement or any prospectus required to be filed or furnished by reason of this Agreement or caused by any omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, insofar as such losses, claims, damages or liabilities are caused by any material untrue statement or material omission based upon information furnished in writing to the Company by the Holder expressly for use therein.
+
+(c) If for any reason the indemnification provided for in the preceding section is held by a court of competent jurisdiction to be unavailable to an indemnified party with respect to any loss, claim, damage, liability or expense referred to therein, then the indemnifying party, in lieu of indemnifying such indemnified party thereunder, shall contribute to the amount paid or payable by the indemnified party as a result of such loss, claim, damage or liability in such proportion as is appropriate to reflect the relative fault of the indemnified party and the indemnifying party, as well as any other relevant equitable considerations.
+
+(d) Promptly after receipt by an indemnified party under this Section 4 of notice of the commencement of any action (including any governmental action), such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Section 4, deliver to the indemnifying party a written notice of the commencement thereof, and the indemnifying party shall have the right to participate in, and, to the extent the indemnifying party so desires, to assume the defense thereof with counsel mutually satisfactory to the parties; provided, however, that an indemnified party shall have the right to retain its own counsel, with the fees and expenses to be paid by the indemnifying party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential conflict of interests between such indemnified party and any other party represented by such counsel in such proceeding. The failure to deliver written notice to the indemnifying party within a reasonable time of the commencement of any such action shall relieve such indemnifying party of liability to the indemnified party under this Section 4 only to the extent the indemnifying party is prejudiced as a result thereof.
+
+(e) Neither the filing of a Registration Statement by the Company pursuant to this Agreement nor the making of any request for prospectuses by the Holder shall impose upon any Holder any obligation to sell the Holder’s Registrable Securities.
+
+(f) Each Holder, upon receipt of notice from the Company that an event has occurred which requires a Post-Effective Amendment to the Registration Statement or a supplement to the prospectus included therein, shall promptly discontinue the sale of Registrable
+
+4
+
+* * *
+
+  
+
+
+Securities until the Holder receives a copy of a supplemented or amended prospectus from the Company, which the Company shall provide as soon as practicable after such notice.
+
+(g) If the Company fails to keep the Registration Statement referred to above continuously effective during the requisite period, then the Company shall, promptly upon the request of any Holder, use commercially reasonable efforts to update the Registration Statement or file a new registration statement covering the Registrable Securities remaining unsold, subject to the terms and provisions hereof, so that the registration of such unsold Registered Securities is maintained for a number of days beyond the Expiration Date equal to the number of days that the Holder is unable to sell pursuant to Section 4(f) above.
+
+(h) Each Holder agrees to provide the Company with any information or undertakings reasonably requested by the Company in order for the Company to include any appropriate information concerning the Holder in the Registration Statement or in order to promote compliance by the Company or the Holder with the Securities Act.
+
+(i) Each Holder, by its acceptance of the Registrable Securities, agrees to cooperate with the Company as reasonably requested by the Company in connection with the preparation and filing of a Registration Statement hereunder.
+
+(j) Each Holder, on behalf of itself, its affiliates, its successors and assigns and any other direct or indirect transferee holding any of the Warrants, the Series I Stock or the Registrable Securities, hereby covenants and agrees not to, directly or indirectly, offer to “short sell”, contract to “short sell” or otherwise “short sell” or encourage others to “short sell” any securities of the Company, including, without limitation, shares of Common Stock that will be received as a result of the conversion of the Series I Stock or the exercise of the Warrants. For purposes of this Agreement, “short selling” shall include any sale, any trade in any option or other derivative security, any hedging transaction relating to the securities of the Company or any transaction intended to affect the price of the Company’s common stock.
+
+(k) If requested in writing by the Company and the managing underwriter of an underwritten registered public offering by the Company of its Common Stock, the Holders shall agree not to sell or otherwise transfer or dispose of any Common Stock of the Company held by such Holders (other than those included in the registration statement) for a period not to exceed 90 days following the effective date of a registration statement of the Company filed under the Securities Act, provided that all officers and directors of the Company enter into similar agreements identical in terms to that of the Holders.
+
+5. Termination of the Initial Closing Registration Rights Agreement. The Company, MAG, MMF and Monarch agree that the Initial Closing Registration Rights Agreement is hereby terminated and each of them waives any and all rights thereunder.
+
+6. Governing Law. The Registrable Securities will be, if and when issued, delivered in California. This Agreement shall be deemed to have been made and delivered in the State of California and shall be governed as to validity, interpretation, construction, effect and in all other respects by the internal substantive laws of the State of California, without giving effect to the choice of law rules thereof.
+
+5
+
+* * *
+
+  
+
+
+7. Amendment. This Agreement may only be amended by a written instrument executed by the Company and the Holders.
+
+8. Entire Agreement. This Agreement constitutes the entire agreement of the parties hereto with respect to the subject matter hereof, and supersedes all prior agreements and understandings of the parties, oral and written, with respect to the subject matter hereof.
+
+9. Execution in Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same document.
+
+10. Notices. All communications hereunder shall be in writing and shall be hand delivered, mailed by first-class mail, couriered by next-day air courier or by facsimile at the addresses set forth below.
+
+If to the Holders,
+
+M.A.G. Capital, LLC  
+  
+Monarch Pointe Fund, Ltd.  
+  
+Mercator Momentum Fund III, L.P.  
+  
+555 South Flower Street, Suite 4200  
+  
+Los Angeles, CA 90071  
+  
+Attention: David Firestone  
+  
+With a copy to
+
+Sheppard Mullin Richter & Hampton LLP  
+  
+333 South Hope Street  
+  
+48th Floor  
+  
+Los Angeles, CA 90071-1448  
+  
+Telephone No.: (213) 620-1780  
+  
+Facsimile No.: (213) 620-1398  
+  
+Attention: David C. Ulich  
+  
+If to the Company,
+
+Spescom Software Inc.  
+  
+10052 Mesa Ridge Court, Suite 100  
+  
+San Diego, CA 92121  
+  
+Telephone No.: (858) 625-3000 (ext. 6831)  
+  
+Facsimile No.: (858) 625-3010  
+  
+Attention: John Low  
+  
+With a copy to
+
+Gibson, Dunn & Crutcher LLP  
+  
+1881 Page Mill Rd.  
+  
+Palo Alto, CA 94304  
+  
+Telephone No.: (650) 849-5383  
+  
+Facsimile No.: (650) 849-5083  
+  
+Attention: Russell C. Hansen  
+  
+6
+
+* * *
+
+  
+
+
+All such notices and communications shall be deemed to have been duly given: (i) when delivered by hand, if personally delivered; (ii) five business days after being deposited in the mail, postage prepaid, if mailed certified mail, return receipt requested; (iii) one business day after being timely delivered to a next-day air courier guaranteeing overnight delivery; (iv) the date of transmission if sent via facsimile to the facsimile number as set forth in this Section or the signature page hereof prior to 4:00 p.m. on a business day, or (v) the business day following the date of transmission if sent via facsimile at a facsimile number set forth in this Section or on the signature page hereof after 4:00 p.m. or on a date that is not a business day. Change of a party’s address or facsimile number may be designated hereunder by giving notice to all of the other parties hereto in accordance with this Section.
+
+11. Binding Effect; Benefits. Any Holder may assign its rights hereunder; provided, however, that the rights of a Holder hereunder may be transferred by such Holder or its transferee only to a person or entity who acquires Series I Preferred Stock or Warrants convertible into or exercisable for an aggregate of at least 200,000 shares of Common Stock. This Agreement shall inure to the benefit of, and be binding upon, the parties hereto and their respective heirs, legal representatives, successors and permitted assigns. Nothing herein contained, express or implied, is intended to confer upon any person other than the parties hereto and their respective heirs, legal representatives and successors, any rights or remedies under or by reason of this Agreement.
+
+12. Headings. The headings contained herein are for the sole purpose of convenience of reference, and shall not in any way limit or affect the meaning or interpretation of any of the terms or provisions of this Agreement.
+
+13. Severability. Any provision of this Agreement which is held by a court of competent jurisdiction to be prohibited or unenforceable in any jurisdiction(s) shall be, as to such jurisdiction(s), ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this Agreement or affecting the validity or enforceability of such provision in any other jurisdiction.
+
+14. Jurisdiction. Each of the parties irrevocably agrees that any and all suits or proceedings based on or arising under this Agreement may be brought only in and shall be resolved in the federal or state courts located in the City of Los Angeles, California and consents to the jurisdiction of such courts for such purpose. Each of the parties irrevocably waives the defense of an inconvenient forum to the maintenance of such suit or proceeding in any such court. Each of the parties further agrees that service of process upon such party mailed by first class mail to the address set forth in Section 10 shall be deemed in every respect effective service of process upon such party in any such suit or proceeding. Nothing herein shall affect the right of either party to serve process in any other manner permitted by law. Each of the parties agrees that a final non-appealable judgment in any such suit or proceeding shall be conclusive and may be enforced in other jurisdictions by suit on such judgment or in any other lawful manner.
+
+15. Attorneys’ Fees and Disbursements. If any action at law or in equity is necessary to enforce or interpret the terms of this Agreement, the prevailing party or parties shall be entitled to receive from the other party or parties reasonable attorneys’ fees and disbursements in addition to any other relief to which the prevailing party or parties may be entitled.
+
+7
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto as of the date first above written.
+
+SPESCOM SOFTWARE INC.  
+  
+By: 
+
+/s/John W. Low  
+  
+Name: John W. Low  
+  
+Its: 
+
+Chief Financial Officer  
+  
+HOLDERS:  
+  
+MONARCH POINTE FUND, LTD.  
+  
+By: M.A.G. CAPITAL, LLC  
+  
+Its: General Partner  
+  
+By: 
+
+/s/ Harry Aharonian  
+  
+Name: Harry Aharonian  
+  
+Its: 
+
+Portfolio Manager,  
+  
+Authorized Representative  
+  
+MERCATOR MOMENTUM FUND III, L.P.  
+  
+By: M.A.G. CAPITAL, LLC  
+  
+Its: General Partner  
+  
+By: 
+
+/s/ Harry Aharonian  
+  
+Name: Harry Aharonian  
+  
+Its: 
+
+Portfolio Manager,  
+  
+Authorized Representative  
+  
+M.A.G. CAPITAL, LLC  
+  
+By: 
+
+/s/ Harry Aharonian  
+  
+Name: Harry Aharonian  
+  
+Its: 
+
+Portfolio Manager,  
+  
+Authorized Representative  
+  
+8
+
+* * *

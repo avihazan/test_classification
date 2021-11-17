@@ -1,0 +1,361 @@
+##### 
+
+Exhibit 10.5
+
+[Series A]
+
+LIBERTY GLOBAL, INC.  
+2005 INCENTIVE PLAN
+
+
+
+THIS NON-QUALIFIED STOCK OPTION AGREEMENT (“Agreement”) is made as of _________, 200___ (the “Grant Date”), by and between LIBERTY GLOBAL, INC., a Delaware corporation (the “Company”), and the individual whose name, address and social security/payroll number appear on the signature page hereto (the “Grantee”). 
+
+The Company has adopted the Liberty Global, Inc. 2005 Incentive Plan, as amended and restated (the “Plan”), a copy of which is attached to this Agreement as Exhibit A and by this reference made a part hereof, for the benefit of eligible employees of, and independent contractors providing services to, the Company and its Subsidiaries. Capitalized terms used and not otherwise defined herein will have the meaning given thereto in the Plan. 
+
+Pursuant to the Plan, the Compensation Committee (the “Committee”) appointed by the Board pursuant to Section 3.1 of the Plan to administer the Plan has determined that it would be in the interest of the Company and its stockholders to award an option to Grantee, subject to the conditions and restrictions set forth herein and in the Plan, in order to provide the Grantee additional remuneration for services rendered, to encourage the Grantee to continue to provide services to the Company or its Subsidiaries and to increase the Grantee’s personal interest in the continued success and progress of the Company. 
+
+The Company and the Grantee therefore agree as follows: 
+
+1\. Definitions. The following terms, when used in this Agreement, have the following meanings: 
+
+“Business Day” means any day other than Saturday, Sunday or a day on which banking institutions in Denver, Colorado, are required or authorized to be closed. 
+
+“Cause” has the meaning specified for “cause” in Section 11.2(b) of the Plan. 
+
+“Close of Business” means, on any day, 5:00 p.m., Denver, Colorado time. 
+
+“Code” means the Internal Revenue Code of 1986, as it may be amended from time to time. 
+
+“Committee” has the meaning specified in the recitals to this Agreement. 
+
+“Company” has the meaning specified in the preamble to this Agreement. 
+
+“Direct Registration System” means the book-entry registration system maintained by the Company’s stock transfer agent, pursuant to which shares of LBTYA are held in non-certificated form for the benefit of the registered holder thereof. 
+
+* * *
+
+##### 
+
+“Exercise Price” means $ per LBTYA share. 
+
+“Grant Date” has the meaning specified in the preamble to this Agreement. 
+
+“Grantee” has the meaning specified in the preamble to this Agreement. 
+
+“LBTYA” means the Series A common stock, par value $.01 per share, of the Company. 
+
+“Option” has the meaning specified in Section 2 of this Agreement. 
+
+“Option Shares” has the meaning specified in Section 2 of this Agreement. 
+
+“Plan” has the meaning specified in the recitals of this Agreement. 
+
+“Required Withholding Amount” has the meaning specified in Section 5 of this Agreement. 
+
+“Special Termination Period” has the meaning specified in Section 7(d) of this Agreement. 
+
+“Term” has the meaning specified in Section 2 of this Agreement. 
+
+“Termination of Service” means the Grantee’s provision of services to the Company and its Subsidiaries as an officer, employee or independent contractor, terminates for any reason. 
+
+“Year of Continuous Service” has the meaning specified in Section 7(d) of this Agreement. 
+
+2\. Grant of Options. Subject to the terms and conditions herein, pursuant to the Plan, the Company grants to the Grantee an option (the “Option”) to purchase from the Company the number of shares of LBTYA set forth on the signature page hereto (the “Option Shares”) at a purchase price per LBTYA share equal to the Exercise Price. The Option granted herein is a “Nonqualified Stock Option”. The Option, to the extent it has become exercisable in accordance with Section 3, will be exercisable in whole at any time or in part from time to time during the period commencing on the Grant Date and expiring at the Close of Business on _________, 200___ (the “Term”), subject to earlier termination as provided in Section 7. The Exercise Price and number of Option Shares are subject to adjustment pursuant to Section 10. No fractional shares of LBTYA will be issuable upon exercise of an Option, and the Grantee will receive, in lieu of any fractional share of LBTYA that the Grantee otherwise would receive upon such exercise, cash equal to the fraction representing such fractional share multiplied by the Fair Market Value of one share of LBTYA as of the date on which such exercise is considered to occur pursuant to Section 4. 
+
+3\. Conditions of Exercise. Unless otherwise determined by the Committee in its sole discretion, the Option will be exercisable only in accordance with the conditions stated in this Section 3. 
+
+2
+
+* * *
+
+##### 
+
+(a) Except as otherwise provided in Section 11.1(b) of the Plan or in the last sentence of this Section 3(a), the Option will not be exercisable until  , 200 and may be exercised thereafter only to the extent it has become exercisable in accordance with the following schedule: 
+
+(i) On and after  , 200 , the Option shall be exercisable as to 12.5% of the Option Shares;  
+(ii) On each  ,  ,  and  thereafter, the Option shall be exercisable as to the percentage of the Option Shares as to which the Option had previously become exercisable in accordance with this schedule plus an additional 6.25% of the Option Shares; and  
+(iii) On and after  , 200 , the Option shall be exercisable as to 100% of the Option Shares.  
+  
+Notwithstanding the foregoing, (x) the Option will become exercisable in full on the date of Termination of Service if the Termination of Service occurs by reason of Grantee’s death or Disability, and (y) if the Termination of Service is by the Company or a Subsidiary without Cause (as determined in the sole discretion of the Committee) more than six months after the Grant Date, the Option will become exercisable on the date of Termination of Service with respect to the percentage of the Option Shares as to which the Option had previously become exercisable, plus the product of (x) one-third (1/3) of the additional percentage of the Option Shares as to which the Option would have become exercisable on the next following date set forth in the above schedule, times (y) the number of full months of employment completed since the most recent date of vesting specified in the foregoing schedule.
+
+(b) To the extent the Option becomes exercisable, the Option may be exercised in whole or in part (at any time or from time to time, except as otherwise provided herein) until expiration of the Term or earlier termination thereof. 
+
+(c) The Grantee acknowledges and agrees that the Committee, in its discretion and as contemplated by Section 3.3 of the Plan, may adopt rules and regulations from time to time after the date hereof with respect to the exercise of the Option and that the exercise by the Grantee of the Option will be subject to the further condition that such exercise is made in accordance with all such rules and regulations as the Committee may determine are applicable thereto. 
+
+4\. Manner of Exercise. The Option will be considered exercised (as to the number of Option Shares specified in the notice referred to in Section 4(a) below) on the latest of (i) the date of exercise designated in the written notice referred to in Section 4(a) below, (ii) if the date so designated is not a Business Day, the first Business Day following such date or (iii) the earliest Business Day by which the Company has received all of the following: 
+
+3
+
+* * *
+
+##### 
+
+(a) A properly executed written exercise notice, in the form attached hereto as Exhibit B or such other form as the Committee may require, containing such representations and warranties as the Committee may require and designating, among other things, the date of exercise and the number of Option Shares to be purchased; 
+
+(b) Payment of the Exercise Price for each Option Share to be purchased in any (or a combination) of the following forms: 
+
+(i) cash, 
+
+(ii) certified check, cashier’s check or other check acceptable to the Company, payable to the order of the Company, 
+
+(iii) to the extent permitted by applicable law, the delivery of irrevocable instructions to a broker to deliver promptly to the Company the amount of sale or loan proceeds required to pay the Exercise Price (and, if applicable the Required Withholding Amount, as described in Section 5 below), provided that the full amount of such payment is received by the Company, 
+
+(iv) delivery to the Company of (A) certificates duly endorsed for transfer to the Company representing shares of a publicly traded series of Common Stock, (B) irrevocable instructions to the Company’s stock transfer agent to transfer to the Company shares of a publicly traded series of Common Stock held in the Direct Registration System for the benefit of Grantee or (C) evidence of transfer to the Company of shares of a publicly traded series of Common Stock held in book-entry form through The Depository Trust Company for the benefit of Grantee (in each case, which shares will be valued for this purpose at their Fair Market Value on the date of exercise), provided that the shares so delivered or transferred or as to which such transfer instructions are delivered have been held by the Grantee for more than six months or such other period as the Committee may specify, and/or 
+
+(v) any other form of payment contemplated by the Plan, as the Committee may permit; and 
+
+(c) Any other documentation that the Committee may reasonably require. 
+
+5\. Mandatory Withholding for Taxes. The Grantee acknowledges and agrees that the Company will deduct from the shares of LBTYA otherwise deliverable upon exercise of the Option that number of shares of LBTYA (valued at their Fair Market Value on the date of exercise) that is equal to the amount, if any, of all national, state and local taxes required to be withheld by the Company upon such exercise, as determined by the Committee (the “Required Withholding Amount”). If the Grantee elects to make payment of the Exercise Price by delivery of irrevocable instructions to a broker to deliver promptly to the Company the amount of sale or loan proceeds required to pay the Exercise Price, such instructions may also include instructions to deliver the Required Withholding Amount to the Company. In such case, 
+
+4
+
+* * *
+
+##### 
+
+the Company will notify the broker promptly of the Committee’s determination of the Required Withholding Amount. 
+
+6\. Payment or Delivery by the Company. As soon as practicable after receipt of all items referred to in Section 4, and subject to the withholding referred to in Section 5, the Company will deliver or cause to be delivered to or at the direction of the Grantee (i) (a) a certificate representing the number of Option Shares purchased upon exercise of the Option, (b) a statement of holdings reflecting the number of Option Shares purchased upon exercise of the Option and held through the Direct Registration System, or (c) a confirmation of deposit into the designated broker’s account of the number of Option Shares, in book-entry form, purchased upon exercise of the Option (including, without limitation, any Option Shares deliverable following the completion of the cashless exercise procedures described in Section 4(b)(iii) above), and (ii) any cash payment to which the Grantee is entitled (a) in lieu of a fractional share of LBTYA, as provided in Section 2 above, or (b) following the requested sale of its Option Shares. Any delivery of shares of LBTYA will be deemed effected for all purposes when (i) (a) a certificate representing or statement of holdings reflecting such shares has been delivered personally to the Grantee or, if delivery is by mail, when the stock transfer agent of the Company has deposited the certificate or statement of holdings in the United States mail, addressed to the Grantee, or (b) confirmation of deposit into the designated broker’s account of such shares, in written or electronic format, is first made available to Grantee, and (ii) any cash payment will be deemed effected when a check from the Company, payable to or at the direction of the Grantee and in the amount equal to the amount of the cash payment, has been delivered personally to or at the direction of the Grantee or deposited in the United States mail, addressed to the Grantee or his or her nominee. 
+
+7\. Early Termination of the Option. Unless otherwise determined by the Committee in its sole discretion, the Option will terminate, prior to the expiration of the Term, at the time specified below: 
+
+(a) Subject to Section 7(b), if Termination of Service occurs other than (i) by the Company or a Subsidiary (whether for Cause or without Cause) or (ii) by reason of Grantee’s death or Disability, then the Option will terminate at the Close of Business on the first Business Day following the expiration of the 90-day period which began on the date of Termination of Service. 
+
+(b) If the Grantee dies (i) prior to Termination of Service or prior to the expiration of a period of time following Termination of Service during which the Option remains exercisable as provided in Section 7(a) or Section 7(c), as applicable, the Option will terminate at the Close of Business on the first Business Day following the expiration of the one-year period which began on the date of the Grantee’s death, or (ii) prior to the expiration of a period of time following Termination of Service during which the Option remains exercisable as provided in Section 7(d), the Option will terminate at the Close of Business on the first Business Day following the expiration of (A) the one-year period which began on the date of the Grantee’s death or (B) the Special Termination Period, whichever period is longer. 
+
+5
+
+* * *
+
+##### 
+
+(c) Subject to Section 7(b), if Termination of Service occurs by reason of Disability, then the Option will terminate at the Close of Business on the first Business Day following the expiration of the one-year period which began on the date of Termination of Service. 
+
+(d) If Termination of Service is by the Company or a Subsidiary without Cause (as determined in the sole discretion of the Committee), the Option will terminate at the Close of Business on the first Business Day following the expiration of the Special Termination Period. The Special Termination Period is the period of time beginning on the date of Termination of Service and continuing for the number of days that is equal to the sum of (a) 90, plus (b) 180 multiplied by the Grantee’s total Years of Continuous Service, provided that the Special Termination Period will in any event expire on the second anniversary of the date of Termination of Service. A Year of Continuous Service means a consecutive 12-month period, measured by the Grantee’s hire date (as reflected in the payroll records of the Company or a Subsidiary) and the anniversaries of that date, during which the Grantee is employed by the Company or a Subsidiary without interruption. For purposes of determining the Grantee’s Years of Continuous Service, Grantee’s employment with the Company’s former parent, Liberty Media Corporation (“LMC”), and any predecessor of the Company or LMC will be included, provided that the Grantee’s hire date with the Company or a Subsidiary occurred within 30 days following the Grantee’s termination of employment with LMC or such predecessor. If the Grantee was employed by a Subsidiary at the time of such Subsidiary’s acquisition by the Company, the Grantee’s employment with the Subsidiary prior to the acquisition date will not be included in determining the Grantee’s Years of Continuous Service unless the Committee, in its sole discretion, determines that such prior employment will be included. Notwithstanding the foregoing, the business combination in which Liberty Media International, Inc. and UnitedGlobalCom, Inc. and their respective Subsidiaries became Subsidiaries of the Company on June 15, 2005 shall not be deemed an acquisition of any such Subsidiary by the Company for purpose of the preceding sentence. 
+
+(e) If Termination of Service is by the Company or a Subsidiary for Cause, then the Option will terminate immediately upon such Termination of Service. 
+
+In any event in which the Option remains exercisable for a period of time following the date of Termination of Service as provided above, the Option may be exercised during such period of time only to the extent the same was exercisable as provided in Section 3 above on such date of Termination of Service. Unless the Committee otherwise determines, neither a change of the Grantee’s employment from the Company to a Subsidiary or from a Subsidiary to the Company or another Subsidiary, nor a change in Grantee’s status from an independent contractor to an employee, will be a Termination of Service for purposes of this Agreement if such change of employment or status is made at the request or with the express consent of the Company. Unless the Committee otherwise determines, however, any such change of employment or status that is not made at the request or with the express consent of the Company and any change in Grantee’s status from an employee to an independent contractor will be a Termination of Service within the meaning of this Agreement. Notwithstanding any period of time referenced in this Section 7 or any other provision of this Section 7 that may be construed to the contrary, the Option will in any event terminate upon the expiration of the Term. 
+
+6
+
+* * *
+
+##### 
+
+8\. Nontransferability. During the Grantee’s lifetime, the Option is not transferable (voluntarily or involuntarily) other than pursuant to a Domestic Relations Order and, except as otherwise required pursuant to a Domestic Relations Order, is exercisable only by the Grantee or the Grantee’s court appointed legal representative. The Grantee may designate a beneficiary or beneficiaries to whom the Option will pass upon the Grantee’s death and may change such designation from time to time by filing a written designation of beneficiary or beneficiaries with the Committee on the form annexed hereto as Exhibit C or such other form as may be prescribed by the Committee, provided that no such designation will be effective unless so filed prior to the death of the Grantee. If no such designation is made or if the designated beneficiary does not survive the Grantee’s death, the Option will pass by will or the laws of descent and distribution. Following the Grantee’s death, the Option, if otherwise exercisable, may be exercised by the person to whom such right passes according to the foregoing and such person will be deemed the Grantee for purposes of any applicable provisions of this Agreement. 
+
+9\. No Stockholder Rights. Prior to the exercise of the Option in accordance with the terms and conditions set forth in this Agreement, the Grantee will not be deemed for any purpose to be, or to have any of the rights of, a stockholder of the Company with respect to any Option Shares, nor will the existence of this Agreement affect in any way the right or power of the Company or its stockholders to accomplish any corporate act, including, without limitation, the acts referred to in Section 11.16 of the Plan. 
+
+10\. Adjustments. The Option will be subject to adjustment (including, without limitation, as to the number of Option Shares and the Exercise Price per share) in the sole discretion of the Committee and in such manner as the Committee may deem equitable and appropriate in connection with the occurrence of any of the events described in Section 4.2 of the Plan following the Grant Date. 
+
+11\. Restrictions Imposed by Law. Without limiting the generality of Section 11.8 of the Plan, the Grantee will not exercise the Option, and the Company will not be obligated to make any cash payment or issue or cause to be issued any shares of LBTYA, if counsel to the Company determines that such exercise, payment or issuance would violate any applicable law or any rule or regulation of any governmental authority or any rule or regulation of, or agreement of the Company with, any securities exchange or association upon which shares of LBTYA are listed or quoted. The Company will in no event be obligated to take any affirmative action in order to cause the exercise of the Option or the resulting payment of cash or issuance of shares of LBTYA to comply with any such law, rule, regulation or agreement. 
+
+12\. Notice. Unless the Company notifies the Grantee in writing of a different procedure, any notice or other communication to the Company with respect to this Agreement will be in writing and will be delivered personally or sent by United States first class mail, postage prepaid, overnight courier, freight prepaid or sent by facsimile and addressed as follows: 
+
+7
+
+* * *
+
+##### 
+
+Liberty Global, Inc.  
+12300 Liberty Boulevard  
+Englewood, Colorado 80112  
+Attn: General Counsel  
+Fax: 303-220-6691 
+
+Any notice or other communication to the Grantee with respect to this Agreement will be in writing and will be delivered personally, or will be sent by United States first class mail, postage prepaid, to the Grantee’s address as listed in the records of the Company on the Grant Date, unless the Company has received written notification from the Grantee of a change of address.
+
+13\. Amendment. Notwithstanding any other provision hereof, this Agreement may be supplemented or amended from time to time as approved by the Committee. Without limiting the generality of the foregoing, without the consent of the Grantee, 
+
+(a) this Agreement may be amended or supplemented from time to time as approved by the Committee (i) to cure any ambiguity or to correct or supplement any provision herein which may be defective or inconsistent with any other provision herein, or (ii) to add to the covenants and agreements of the Company for the benefit of the Grantee or surrender any right or power reserved to or conferred upon the Company in this Agreement, subject to any required approval of the Company’s stockholders and, provided, in each case, that such changes will not adversely affect the rights of the Grantee with respect to the Award evidenced hereby, or (iii) to reform the Award made hereunder as contemplated by Section 11.18 of the Plan or to exempt the Award made hereunder from coverage under Section 409A, or (iv) to make such other changes as the Company, upon advice of counsel, determines are necessary or advisable because of the adoption or promulgation of, or change in or of the interpretation of, any law or governmental rule or regulation, including any applicable federal or state securities laws; and 
+
+(b) subject to any required action by the Board or the stockholders of the Company, the Option granted under this Agreement may be canceled by the Company and a new Award made in substitution therefor, provided that the Award so substituted will satisfy all of the requirements of the Plan as of the date such new Award is made and no such action will adversely affect any Option to the extent then exercisable. 
+
+14\. Grantee Employment. 
+
+(a) Nothing contained in this Agreement, and no action of the Company or the Committee with respect hereto, will confer or be construed to confer on the Grantee any right to continue in the employ or service of the Company or any of its Subsidiaries or interfere in any way with any right of the Company or any Subsidiary, subject to the terms of any separate employment agreement to the contrary, to terminate the Grantee’s employment or service at any time, with or without cause. 
+
+(b) The Award hereunder is special incentive compensation that will not be taken into account, in any manner, as salary, earnings, compensation, bonus or benefits, in 
+
+8
+
+* * *
+
+##### 
+
+determining the amount of any payment under any pension, retirement, profit sharing, 401(k), life insurance, salary continuation, severance or other employee benefit plan, program or policy of the Company or any of its Subsidiaries or any employment agreement or arrangement with the Grantee. 
+
+(c) It is a condition of the Grantee’s Award that, in the event of Termination of Service for whatever reason, whether lawful or not, including in circumstances which could give rise to a claim for wrongful and/or unfair dismissal (whether or not it is known at the time of Termination of Service that such a claim may ensue), the Grantee will not by virtue of such Termination of Service, subject to Section 3 of this Agreement, become entitled to any damages or severance or any additional amount of damages or severance in respect of any rights or expectations of whatsoever nature the Grantee may have hereunder or under the Plan. Notwithstanding any other provision of the Plan or this Agreement, the Award hereunder will not form part of the Grantee’s entitlement to remuneration or benefits pursuant to the Grantee’s employment agreement or arrangement, if any. The rights and obligations of the Grantee under the terms of his or her employment agreement, if any, will not be enhanced hereby. 
+
+(d) In the event of any inconsistency between the terms hereof or of the Plan and any employment, severance or other agreement with the Grantee, the terms hereof and of the Plan shall control. 
+
+15\. Nonalienation of Benefits. Except as provided in Section 8 of this Agreement, (i) no right or benefit under this Agreement will be subject to anticipation, alienation, sale, assignment, hypothecation, pledge, exchange, transfer, encumbrance or charge, and any attempt to anticipate, alienate, sell, assign, hypothecate, pledge, exchange, transfer, encumber or charge the same will be void, and (ii) no right or benefit hereunder will in any manner be liable for or subject to the debts, contracts, liabilities or torts of the Grantee or other person entitled to such benefits. 
+
+16\. Data Privacy.
+
+(a) The Grantee’s acceptance hereof shall evidence the Grantee’s explicit and unambiguous consent to the collection, use and transfer, in electronic or other form, of the Grantee’s personal data by and among, as applicable, the Grantee’s employer (the “Employer”) and the Company and its subsidiaries and affiliates for the exclusive purpose of implementing, administering and managing the Grantee’s participation in the Plan. The Grantee understands that the Company and the Employer may hold certain personal information about the Grantee, including, but not limited to, the Grantee’s name, home address and telephone number, date of birth, social insurance number or other identification number, salary, bonus and employee benefits, nationality, job title and description, any shares of stock or directorships or other positions held in the Company, its subsidiaries and affiliates, details of all options, stock appreciation rights, restricted shares, restricted share units or any other entitlement to shares of stock or other Awards granted, canceled, exercised, vested, unvested or outstanding in the Grantee’s favor, annual performance objectives, performance reviews and performance ratings, for the purpose of implementing, administering and managing Awards under the Plan (“Data”). 
+
+9
+
+* * *
+
+##### 
+
+(b) The Grantee understands that Data may be transferred to any third parties assisting in the implementation, administration and management of the Plan, that these recipients may be located in the Grantee’s country or elsewhere, and that the recipients’ country (e.g. the United States) may have different data privacy laws and protections than the Grantee’s country. The Grantee understands that the Grantee may request a list with the names and addresses of any potential recipients of the Data by contacting the Grantee’s local human resources representative. The Grantee authorizes the recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing the Grantee’s participation in the Plan, including any requisite transfer of such Data as may be required to a broker or other third party with whom the Grantee may elect to deposit any shares of stock acquired with respect to an Award. 
+
+(c) The Grantee understands that Data will be held only as long as is necessary to implement, administer and manage the Grantee’s participation in the Plan. The Grantee understands that the Grantee may at any time view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing the Grantee’s local human resources representative. The Grantee understands, however, that refusing or withdrawing the Grantee’s consent may affect the Grantee’s ability to participate in the Plan. For more information on the consequences of a refusal to consent or withdrawal of consent, the Grantee may contact the Grantee’s local human resources representative. 
+
+17\. Governing Law. This Agreement will be governed by, and construed in accordance with, the internal laws of the State of Colorado. Each party irrevocably submits to the general jurisdiction of the state and federal courts located in the State of Colorado in any action to interpret or enforce this Agreement and irrevocably waives any objection to jurisdiction that such party may have based on inconvenience of forum. 
+
+18\. Construction. References in this Agreement to “this Agreement” and the words “herein,” “hereof,” “hereunder” and similar terms include all Exhibits and Schedules appended hereto. This Agreement is entered into, and the Award evidenced hereby is granted, pursuant to the Plan and shall be governed by and construed in accordance with the Plan and the administrative interpretations adopted by the Committee thereunder. The word “include” and all variations thereof are used in an illustrative sense and not in a limiting sense. All decisions of the Committee upon questions regarding this Agreement will be conclusive. Unless otherwise expressly stated herein, in the event of any inconsistency between the terms of the Plan and this Agreement, the terms of the Plan will control. The headings of the sections of this Agreement have been included for convenience of reference only, are not to be considered a part hereof and will in no way modify or restrict any of the terms or provisions hereof. 
+
+19\. Duplicate Originals. The Company and the Grantee may sign any number of copies of this Agreement. Each signed copy will be an original, but all of them together represent the same agreement. 
+
+20\. Rules by Committee. The rights of the Grantee and the obligations of the Company hereunder will be subject to such reasonable rules and regulations as the Committee may adopt from time to time. 
+
+10
+
+* * *
+
+##### 
+
+21\. Entire Agreement. This Agreement is in satisfaction of and in lieu of all prior discussions and agreements, oral or written, between the Company and the Grantee regarding the subject matter hereof. The Grantee and the Company hereby declare and represent that no promise or agreement not herein expressed has been made and that this Agreement contains the entire agreement between the parties hereto with respect to the Award and replaces and makes null and void any prior agreements between the Grantee and the Company regarding the Award. This Agreement will be binding upon and inure to the benefit of the parties and their respective heirs, successors and assigns. 
+
+22\. Grantee Acceptance. The Grantee will signify acceptance of the terms and conditions of this Agreement by signing in the space provided at the end hereof and returning a signed copy to the Company. If the Grantee does not execute and return this Agreement by  , 200 , the grant of the Option shall be null and void. 
+
+[Signature page follows.] 
+
+11
+
+* * *
+
+##### 
+
+Signature Page to Non-Qualified Stock Option Agreement (Series A)  
+dated as of  , 200 between Liberty Global, Inc., and Grantee  
+  
+LIBERTY GLOBAL, INC.  
+  
+By:  
+  
+Name: 
+
+Elizabeth M. Markowski   
+  
+Title:  Senior Vice President  
+  
+ACCEPTED:  
+  
+Grantee Name:  
+  
+Address:   
+  
+City/State/Country:  
+  
+Social Security Number:  
+  
+Grant No. 
+
+Number of shares of LBTYA as to which Option is granted: 
+
+12
+
+* * *
+
+##### 
+
+Exhibit A  
+to  
+Non-Qualified Stock Option Agreement (Series A)  
+dated as of  , 200 between Liberty Global, Inc. and Grantee
+
+A-1 
+
+* * *
+
+##### 
+
+Exhibit B  
+To  
+Non-Qualified Stock Option Agreement (Series A)  
+Dated as of  , 200 between Liberty Global, Inc. and Grantee
+
+NOTICE OF EXERCISE OF OPTION  
+FOR LIBERTY GLOBAL, INC. SERIES A COMMON STOCK
+
+TO: Liberty Global, Inc., Legal Department  
+FROM:  (Grantee)  
+DATE: 
+
+The undersigned hereby elects to exercise the following Option as to the number of Option Shares indicated below pursuant to and subject to the provisions of the Liberty Global, Inc. (“LGI”) 2005 Incentive Plan (the “Plan”) and the applicable Option agreement.   
+  
+1. Date of grant of Option and grant number:  
+  
+2. Exercise Price of Option:  
+  
+3. Number of Option Shares being purchased:  
+  
+4. Country of Employment:  
+  
+5. Employer Company:  
+  
+6. Check applicable payment instructions below for payment of the Exercise Price and any required withholding amount:  
+_____ Check is enclosed in the amount of US$  
+_____ Enclosed are irrevocable instructions to a broker to deliver to LGI promptly the amounts of the proceeds of the sale of all or a portion of the Option Shares or of a loan from the broker to you required to pay the Exercise Price and any Required Withholding Amount.  
+_____ Delivery of _____ shares of ___________ Common Stock valued at US$___________, which have been held by the undersigned at least six months.  
+_____ Other:   
+  
+7. You instruct LGI to send the LBTYA shares to the following account or address:  
+  
+I understand that the above-described Option will be considered exercised as to the number of Option Shares indicated above upon receipt of this Notice of Exercise by LGI. I also understand that LGI or a Subsidiary will withhold any amounts required by law for the payment of applicable taxes with respect to my exercise of this Option or any amounts owing to LGI or a Subsidiary.   
+  
+[Signature of Grantee]   
+  
+Address   
+  
+City/State/Zip   
+  
+Country   
+  
+E-mail address   
+  
+B-1 
+
+* * *
+
+##### 
+
+Exhibit C  
+to  
+Non-Qualified Stock Option Agreement (Series A)  
+dated as of  , 200 between Liberty Global, Inc. and Grantee
+
+Designation of Beneficiary
+
+I,  (the “Grantee”), hereby declare that upon my death  (the “Beneficiary”) of   
+Name 
+
+,   
+  
+Street Address 
+
+City  State  Zip Code  
+  
+who is my , will be entitled to the  
+Relationship to Grantee 
+
+Option and all other rights accorded the Grantee by the above-referenced grant agreement (the “Agreement”).
+
+It is understood that this Designation of Beneficiary is made pursuant to the Agreement and is subject to the conditions stated herein, including the Beneficiary’s survival of the Grantee’s death. If any such condition is not satisfied, such rights will devolve according to the Grantee’s will or the laws of descent and distribution. 
+
+It is further understood that all prior designations of beneficiary under the Agreement are hereby revoked and that this Designation of Beneficiary may only be revoked in writing, signed by the Grantee, and filed with the Company prior to the Grantee’s death.   
+  
+Date 
+
+Grantee   
+  
+C-1

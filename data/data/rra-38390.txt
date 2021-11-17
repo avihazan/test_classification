@@ -1,0 +1,353 @@
+  
+
+
+Exhibit 4.1
+
+
+
+This REGISTRATION RIGHTS AGREEMENT (this “Agreement”) between Kodiak Oil & Gas Corp, a Yukon Territory corporation (“Parent”), Kodiak Oil & Gas (USA) Inc., a Colorado corporation (“Buyer”), and Peak Grasslands, LLC f/k/a Peak North Dakota II, LLC, a Colorado limited liability company (“Seller”), is made as of , 2010.
+
+RECITALS
+
+A. WHEREAS, Parent, Buyer and Seller are a party to that certain Asset Purchase Agreement, dated as of October 19, 2010 (the “Asset Purchase Agreement”), that provides, among other things, that Buyer shall purchase all of Seller’s right, title and interest in and to the Properties (as defined therein) pursuant to the terms and conditions of the Asset Purchase Agreement.
+
+B. WHEREAS, subject to the terms and conditions of the Asset Purchase Agreement, at the Closing (as defined therein), Seller shall receive or become entitled to receive shares of common stock, no par value, of Parent (the “Parent Common Stock”).
+
+C. WHEREAS, as a condition precedent to the consummation of the transactions contemplated by the Asset Purchase Agreement, Parent has agreed to grant Seller certain registration rights, as set forth herein, with respect to the Registrable Securities (as defined herein).
+
+The parties hereby agree as follows:
+
+ARTICLE I \- - DEFINITIONS
+
+1.1 Definitions
+
+As used in this Agreement, the following terms shall have the following meanings:
+
+“Asset Purchase Agreement” shall have the meaning ascribed thereto in the Recitals hereof.
+
+“Business Day” means any day other than a Saturday, a Sunday, a United States federal holiday or a banking holiday in the State of Colorado.
+
+“Closing Date” means the date on which the closing of the transactions contemplated by the Asset Purchase Agreement occurs.
+
+“Holder” means Seller or any person to whom the rights under Article II have been duly transferred in accordance with Section 2.7 hereof.
+
+“Indemnified Party” shall have the meaning ascribed thereto in Section 2.4(c).
+
+“Indemnifying Party” shall have the meaning ascribed thereto in Section 2.4(c).
+
+“Information Deadline” means the date that is fifteen days following the Closing Date.
+
+* * *
+
+  
+
+
+“Parent Common Stock” shall have the meaning ascribed thereto in the Recitals hereof.
+
+“Registrable Securities” means (i) the Parent Common Stock, (ii) any additional securities of Parent received by a Holder as a result of being a Holder of Registrable Securities, upon a stock split, stock dividend, reorganization, recapitalization, merger or consolidation, exchange of securities or otherwise and (iii) any other securities deemed to be Registrable Securities pursuant to Section 2.7; provided, however, that in each case securities shall only be treated as Registrable Securities if and only for so long as they (A) have not been disposed of pursuant to a registration statement that is effective under the U.S. Securities Act, (B) have not been sold in a transaction exempt from the registration and prospectus delivery requirements of the U.S. Securities Act so that all transfer restrictions and restrictive legends with respect thereto are removed upon the consummation of such sale, (C) are held by a Holder and (D) either (i) have been held by the Holder for less than one year or (ii) are not eligible to be sold pursuant to Rule 144(b)(1)(i) promulgated under the U.S. Securities Act.
+
+“Registration Expenses” means all expenses incurred by Parent in complying with Section 2.1 hereof, including, without limitation, all registration, qualification and filing fees, printing expenses, escrow fees, fees and expenses of counsel and auditors for Parent, blue sky fees and expenses and the expense of any special audits or “cold comfort” letters incident to or required by any such registration (but excluding the fees of legal counsel for any Holder) and any fees and disbursements of underwriters customarily paid by issuers of securities.
+
+“Registration Period” shall have the meaning ascribed thereto in Section 2.1.
+
+“Registration Statement” shall have the meaning ascribed thereto in Section 2.1.
+
+“Required Holder Information” means such information reasonably requested by Parent, in a writing delivered to Seller, regarding a Holder and the distribution proposed by such Holder, including a Registration Statement questionnaire in the form provided by Parent.
+
+“SEC” means the U.S. Securities and Exchange Commission.
+
+“U.S. Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+“U.S. Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+ARTICLE II \- - REGISTRATION
+
+2.1 Registration Rights
+
+As required by the Asset Purchase Agreement, Parent has prepared and filed with the SEC a shelf registration statement on Form S-3 under the U.S. Securities Act for an offering to be made on a continuous basis pursuant to Rule 415 under the U.S. Securities Act covering the resale of the Registrable Securities (the “Registration Statement”). The Registration Statement (A) identifies the Holders as selling security holders, (B) sets forth the amount of Registrable Securities issued to each Holder at the Closing and (C) sets forth the plan of distribution set forth in Annex A attached hereto. Parent has paid the registration fee to cover the Registrable Securities in accordance with Rule 457
+
+* * *
+
+  
+
+
+under the U.S. Securities Act. The Registration Statement was declared effective by the SEC on [·], 2010, and the Parent shall use commercially reasonable efforts to cause it to remain effective for a period of one (1) year from the date hereof (subject to any “black-out” periods pursuant to Section 2.5) (the “Registration Period”). Parent will use its best efforts to effect all such registrations, obtain all such qualifications and comply with all such laws, rules and regulations as may be necessary in order to permit the sale, transfer and other disposition of the Registrable Securities by the Holders thereof pursuant to the Registration Statement (including, without limitation, the execution of any required undertaking to file post-effective amendments, appropriate qualifications or exemptions under applicable blue sky or other state securities laws and appropriate compliance with applicable securities laws, requirements or regulations).
+
+2.2 Expenses
+
+All Registration Expenses incurred in connection with any registration, qualification, exemption or compliance pursuant to Section 2.1 shall be borne by Parent or Buyer. All selling expenses relating to the sale of Registrable Securities registered by or on behalf of any Holder, including, but not limited to, all underwriting discounts, broker or similar commissions and all legal fees or other costs of the Holder shall be borne by such Holder.
+
+2.3 Duties of Parent
+
+In the case of the registration, qualification, exemption or compliance effected by Parent pursuant to this Agreement, Parent shall, upon reasonable request, inform each Holder as to the status of such registration, qualification, exemption and compliance. At its expense Parent shall:
+
+(a) except for such times as Parent is permitted hereunder to suspend the use of the prospectus forming part of the Registration Statement, use commercially reasonable efforts to keep such registration, and any qualification, exemption or compliance under state securities laws which Parent determines to obtain or which Parent obtains at the request of a Holder pursuant to Section 2.3(g), continuously effective with respect to a Holder, cause the Registration Statement (including the documents incorporated therein by reference) to comply as to form and with all applicable requirements of the U.S. Securities Act and the U.S. Exchange Act and keep such Registration Statement and the related prospectus free of any material misstatements or omissions, until all such securities cease to be Registrable Securities.
+
+(b) advise the Holders:
+
+(i) within two (2) Business Days when any post-effective amendment to the Registration Statement has become effective;
+
+(ii) as promptly as practicable, of any request by the SEC for amendments or supplements to the Registration Statement or the prospectus included therein or for additional information;
+
+(iii) as promptly as practicable, of the issuance by the SEC of any stop order suspending the effectiveness of the Registration Statement or the initiation of any proceedings for such purpose;
+
+* * *
+
+  
+
+
+(iv) as promptly as practicable, of the receipt by Parent of any notification with respect to the suspension of the qualification of the Registrable Securities included therein for sale in any jurisdiction or the initiation or threatening of any proceeding for such purpose; and
+
+(v) as promptly as practicable, of the occurrence of any event or the existence of any condition that requires the making of any changes in the Registration Statement or the prospectus so that, as of such date, the statements therein are not misleading and do not omit to state a material fact required to be stated therein or necessary to make the statements therein (in the case of the prospectus, in the light of the circumstances under which they were made) not misleading;
+
+(c) use its commercially reasonable efforts to obtain the withdrawal of any order suspending the effectiveness of any Registration Statement as soon as reasonably practicable;
+
+(d) if a Holder so requests in writing, promptly furnish to each such Holder, without charge, at least one copy of such Registration Statement and any post-effective amendment thereto, including financial statements and schedules, and, if explicitly requested, all exhibits in the form filed with the SEC;
+
+(e) during the Registration Period, promptly deliver to each such Holder, without charge, such numbers of copies required under the U.S. Securities Act of the Registration Statement prospectus and any amendment or supplement thereto; and Parent consents to the use, consistent with the provisions hereof, of the prospectus or any amendment or supplement thereto by each of the Holders in connection with the offer and sale of the Registrable Securities covered by the prospectus or any amendment or supplement thereto;
+
+(f) during the Registration Period, if a Holder so requests in writing, deliver to each Holder, without charge, (i) one copy of the following documents, other than those documents available via EDGAR (and excluding, in each case, exhibits thereto): (A) its annual report to its shareholders, if any (which annual report shall contain financial statements audited in accordance with generally accepted accounting principles in the United States of America by a firm of certified public accountants of recognized standing), (B) if not included in substance in its annual report to shareholders, its annual report on Form 10-K (or similar form), (C) its definitive proxy statement with respect to its annual meeting of shareholders, (D) each of its quarterly reports to its shareholders, and, if not included in substance in its quarterly reports to shareholders, its quarterly report on Form 10-Q (or similar form), and (E) a copy of the full Registration Statement; and (ii) if explicitly requested, any exhibits filed with respect to the foregoing;
+
+(g) promptly take such actions as may be necessary to register or qualify or obtain an exemption for offer and sale under the securities or blue sky laws of such United States jurisdictions as any Holder reasonably requests in writing, provided that Parent shall not for any such purpose be required to qualify generally to transact business as a foreign corporation in any jurisdiction where it is not so qualified or to consent to general service of process in any such jurisdiction, and do any and all other acts or things reasonably necessary or advisable to enable the offer and sale in such jurisdictions of the Registrable Securities covered by such Registration Statement;
+
+(h) upon the occurrence of any event contemplated by Section 2.3(b)(v) above, except for such times as Parent is permitted hereunder to suspend the use of the prospectus forming
+
+* * *
+
+  
+
+
+part of the Registration Statement and has suspended such use, Parent shall promptly prepare and file a post-effective amendment to the Registration Statement or a supplement to the related prospectus, or file any other required document so that, as thereafter delivered to purchasers of the Registrable Securities, the prospectus will not include any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading;
+
+(i) otherwise use all commercially reasonable efforts to comply in all material respects with all applicable rules and regulations of the SEC which could affect the sale of the Registrable Securities, including the applicable conditions of Rule 172(c) under the U.S. Securities Act;
+
+(j) use all commercially reasonable efforts to cause all Registrable Securities to continue to be listed on NYSE Amex LLC and each securities exchange or market on which equity securities issued by Parent have been listed;
+
+(k) if such registration or approval is necessary, use its best efforts to cause all Registrable Securities covered by such registration statement to be registered with or approved by such other governmental agencies or authorities to enable the Holder or Holders thereof to consummate the disposition of such Registrable Securities; and
+
+(l) use all commercially reasonable efforts to take all other steps necessary to (i) effect the registration of the Registrable Securities contemplated hereby, including the filing of any amendments and supplements to the initial Registration Statement or additional Registration Statements and any prospectus used in connection therewith necessary to keep the Registration Statement effective and register any Registrable Securities not registered by the initial Registration Statement, (ii) enable Parent to be eligible for Form S-3 with respect to resale by the Holders of the Registrable Securities and (iii) enable the Holders to sell Registrable Securities under Rule 144.
+
+2.4 Indemnification
+
+(a) To the extent permitted by law, Parent shall indemnify each Holder and each person controlling such Holder within the meaning of Section 15 of the U.S. Securities Act or Section 20 of the U.S. Exchange Act, against all claims, losses, damages and liabilities (or action in respect thereof), including any of the foregoing incurred in settlement of any litigation, commenced or threatened (subject to Section 2.4(c) below), arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in the Registration Statement, any prospectus, any amendment or supplement to any such Registration Statement or prospectus, or any other document incident to any such registration, qualification or compliance or arising out of or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, in light of the circumstances in which they were made, or arising out of or based on any violation by Parent of the U.S. Securities Act, the U.S. Exchange Act, or any state securities law, or of any rule or regulation promulgated under the U.S. Securities Act, the U.S. Exchange Act or any state securities law, or any other law applicable to Parent and relating to any action or inaction required of Parent in connection with any such registration, qualification or compliance, and will reimburse each Holder and each person controlling such Holder, for legal and other out-of-pocket expenses reasonably incurred in connection with investigating or defending any
+
+* * *
+
+  
+
+
+such claim, loss, damage, liability or action as incurred; provided that Parent will not be liable in any such case to the extent that any untrue statement or omission or allegation thereof is made in reliance upon and in conformity with written information furnished to Parent by or on behalf of such Holder for use in preparation of such Registration Statement, prospectus, amendment or supplement. Such indemnity shall remain in full force and effect regardless of any investigation made by or on behalf of such Holder and shall survive the transfer of such securities by such Holder.
+
+(b) Each Holder will severally, and not jointly, indemnify Parent, each of its directors, each of its officers who signed the Registration Statement, and each person who controls Parent within the meaning of Section 15 of the U.S. Securities Act or Section 20 of the U.S. Exchange Act, against all claims, losses, damages and liabilities (or actions in respect thereof), including any of the foregoing incurred in settlement of any litigation, commenced or threatened (subject to Section 2.4(c) below), arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in the Registration Statement, any prospectus, or any amendment or supplement to any such Registration Statement or prospectus, or arising out of or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, in light of the circumstances in which they were made, and will reimburse Parent, such directors and officers, and each person controlling Parent for legal and any other expenses reasonably incurred in connection with investigating or defending any such claim, loss, damage, liability or action as incurred, in each case to the extent, but only to the extent, that such untrue statement or omission or allegation thereof is made in reliance upon and in conformity with written information furnished to Parent by or on behalf of the Holder through an instrument duly executed by or on behalf of such Holder specifically stating that it is for use in preparation of the Registration Statement or such prospectus, amendment or supplement. Notwithstanding the foregoing, a Holder’s aggregate liability pursuant to this subsection (b) and subsection (d) shall be limited to the net amount received by the Holder from the sale of the Registrable Securities.
+
+(c) Each party entitled to indemnification under this Section 2.4 (the “Indemnified Party”) shall give notice to the party required to provide indemnification (the “Indemnifying Party”) promptly after such Indemnified Party has actual knowledge of any claim as to which indemnity may be sought, and shall permit the Indemnifying Party (at its expense) to assume the defense of any such claim or any litigation resulting therefrom, provided that counsel for the Indemnifying Party, who shall conduct the defense of such claim or litigation, shall be approved by the Indemnified Party (whose approval shall not unreasonably be withheld), and the Indemnified Party may participate in such defense at such Indemnified Party’s expense, and provided further that the failure of any Indemnified Party to give notice as provided herein shall not relieve the Indemnifying Party of its obligations under this Section 2.4, unless such failure is materially prejudicial to the Indemnifying Party in defending such claim or litigation and in any event shall not relieve the Indemnifying Party from any liability which it may have otherwise then on account of this Section 2.4. Notwithstanding the foregoing, the Indemnified Party shall have the right to assume the defense at the Indemnifying Party’s expense of any such claim or any litigation resulting therefrom if (i) the Indemnifying Party and the Indemnified Party shall have mutually agreed to the retention of such counsel by the Indemnified Party or (ii) the named parties to any such proceeding (including any impleaded parties) include both the Indemnifying Party and the Indemnified Party and the Indemnified Party shall have reasonably concluded that representation of both the Indemnifying Party and the Indemnified Party by the same counsel would be inappropriate due to actual or potential differing interests between them. It is understood that the Indemnifying Party shall not, in respect of the legal expenses of any Indemnified Party, in connection
+
+* * *
+
+  
+
+
+with any proceeding or related proceedings in the same jurisdiction, be liable for the fees and expenses of more than one separate firm (in addition to any local counsel) and that all such fees and expenses shall be reimbursed as they are incurred. An Indemnifying Party shall not be liable for any settlement of an action or claim effected without its written consent (which consent will not be unreasonably withheld). No Indemnifying Party, in its defense of any such claim or litigation, shall, except with the consent of each Indemnified Party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to each Indemnified Party of a release from all liability in respect to such claim or litigation.
+
+(d) If the indemnification provided for in this Section 2.4 is unavailable to an Indemnified Party or is insufficient with respect to any loss, liability, claim, damage or expense referred to therein, then the Indemnifying Party, in lieu of indemnifying such Indemnified Party thereunder, shall contribute to the amount paid or payable by such Indemnified Party as a result of such loss, liability, claim, damage or expense in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party on the one hand and of the Indemnified Party on the other in connection with the statements or omissions or other matter that resulted in such loss, liability, claim, damage or expense as well as any other relevant equitable considerations. The relative fault of the Indemnifying Party and of the Indemnified Party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Indemnifying Party or by the Indemnified Party and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission; provided, however, that in no event shall any person be liable for contribution to the extent that any such Claim arises out of or is based upon an untrue statement or omission made by such person seeking contribution.
+
+2.5 Suspensions and Other Limitations
+
+(a) Each Holder agrees that, upon receipt of any notice from Parent of the happening of any event requiring the preparation of a supplement or amendment to a prospectus relating to Registrable Securities so that, as thereafter delivered to the Holders, such prospectus shall not contain an untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading, each Holder will forthwith discontinue disposition of Registrable Securities pursuant to the Registration Statement and prospectus contemplated by Section 2.1 until its receipt of copies of the supplemented or amended prospectus from Parent or notice from Parent that the use of the existing prospectus may be resumed and, if so directed by Parent, each Holder shall deliver to Parent all copies, other than permanent file copies then in such Holder’s possession, of the prospectus covering such Registrable Securities current at the time of receipt of such notice.
+
+(b) Each Holder shall suspend, upon written request of Parent, any disposition of Registrable Securities pursuant to the Registration Statement and prospectus contemplated by Section 2.1 during no more than two (2) periods of no more than thirty (30) calendar days each during any twelve (12)-month period to the extent that the Board of Directors of Parent determines in good faith based on the advice of counsel that the sale of Registrable Securities under the Registration Statement would be reasonably likely to cause a violation of the U.S. Securities Act or U.S. Exchange Act.
+
+* * *
+
+(c) As a condition to the inclusion of a Holder’s Registrable Securities in the Registration Statement, Parent shall have received from each Holder, on or before the Information Deadline, the Required Holder Information.
+
+(d) Each Holder, severally and not jointly, hereby covenants with Parent that such Holder will not make any sale of the Registrable Securities without effectively causing the prospectus delivery requirements under the U.S. Securities Act to be satisfied unless such sale is exempt from registration.
+
+(e) Each Holder acknowledges and agrees that the Registrable Securities sold pursuant to the Registration Statement are not transferable on the books of Parent unless the stock certificate submitted to the transfer agent evidencing such Registrable Securities is accompanied by a certificate reasonably satisfactory to Parent to the effect that (i) the Registrable Securities have been sold in accordance with such Registration Statement and (ii) the requirement of delivering a current prospectus has been satisfied.
+
+(f) Each Holder, severally and not jointly, agrees not to take any action with respect to any distribution deemed to be made pursuant to such Registration Statement which would constitute a violation of Regulation M under the U.S. Exchange Act or any other applicable rule, regulation or law.
+
+(g) At the end of the Registration Period, the Holders shall discontinue sales of shares pursuant to such Registration Statement upon receipt of notice from Parent of its intention to remove from registration the shares covered by such Registration Statement which remain unsold, and, upon written request by Parent such Holders shall notify Parent of the number of shares registered which remain unsold as soon as practical upon receipt of such notice from Parent.
+
+2.6 Rule 144
+
+With a view to making available to the Holders the benefits of certain rules and regulations of the SEC which at any time permit the sale of the Registrable Securities to the public without registration, so long as the Holders still own Registrable Securities, Parent shall use its reasonable best efforts to:
+
+(a) cause the disqualification set forth in Rule 144(i) under the U.S. Securities Act not to apply to Parent or its securities;
+
+(b) make and keep public information available, as those terms are understood and defined in Rule 144 under the U.S. Securities Act, at all times;
+
+(c) file with the SEC in a timely manner all reports and other documents required of Parent under the U.S. Exchange Act; and
+
+(d) so long as a Holder owns any Registrable Securities, furnish to such Holder, upon any reasonable request, a written statement by Parent as to its compliance with Rule 144 under the U.S. Securities Act, and of the U.S. Exchange Act, a copy of the most recent annual or quarterly report of Parent, and such other reports and documents of Parent as such Holder may reasonably
+
+* * *
+
+  
+
+
+request in availing itself of any rule or regulation of the SEC allowing a Holder to sell any such securities without registration.
+
+2.7 Assignment of Rights
+
+Seller’s right to cause Parent to register Registrable Securities issued to Seller by Parent under Section 2.1 will be deemed to be transferred to any person in connection with a transfer by Seller of all or a portion of its Registrable Securities if the following conditions are satisfied: (i) such transfer may otherwise be effected in accordance with applicable securities laws; (ii) Seller gives prior written notice to Parent of the proposed transfer and such transferee’s name, address, telephone number and e-mail; (iii) such transferee is a member, partner, investor or affiliate of Peak Energy Resources, LLC, which is the parent company of Seller, and such transferee agrees to comply with the terms and provisions of this Agreement; (iv) such transfer is otherwise in compliance with this Agreement; and (v) such Registrable Securities continue to satisfy the definition of Registrable Securities immediately following such transfer. Subject to the foregoing, Parent agrees to take whatever action that may be required to identify in the Registration Statement or any prospectus supplement thereto any Holders that receive Registrable Securities. Except as specifically permitted by this Section 2.7, the rights with respect to Registrable Securities as set out herein shall not be transferable to any other person, and any attempted transfer shall cause all such rights to be forfeited.
+
+2.8 Waivers and Amendments
+
+This Agreement may not be amended, a provision of this Agreement or any default, misrepresentation or breach of warranty or agreement under this Agreement may not be waived, and a consent may not be rendered, except in a writing executed by the party against which such action is sought to be enforced. Neither the failure nor any delay by any person in exercising any right, power or privilege under this Agreement will operate as a waiver of such right, power or privilege, and no single or partial exercise of any such right, power or privilege will preclude any other or further exercise of such right, power or privilege or the exercise of any other right, power or privilege. In addition, no course of dealing between or among any persons having any interest in this Agreement will be deemed effective to modify or amend any part of this Agreement or any rights or obligations of any person under or by reason of this Agreement. The rights and remedies of the parties to this Agreement are cumulative and not exclusive of any rights or remedies provided by law.
+
+ARTICLE III \- - MISCELLANEOUS
+
+3.1 Further Assurances
+
+Each of the parties hereto upon the request of each of the other parties hereto shall do, execute, acknowledge and deliver or cause to be done, executed, acknowledged and delivered all such further acts, deeds, documents, assignments, transfers, conveyances, powers of attorney and assurances as may reasonably be necessary or desirable to complete the transactions contemplated herein.
+
+3.2 Notices
+
+All notices and other communications required under this Agreement shall (unless otherwise specifically provided herein) be in writing and be delivered personally, by recognized commercial
+
+* * *
+
+  
+
+
+courier or delivery service which provides a receipt, by telecopier or e-mail (in either case with receipt acknowledged), or by registered or certified mail (postage prepaid), at the following addresses:
+
+If to Buyer or Parent:
+
+Kodiak Oil & Gas (USA) Inc.
+
+1625 Broadway, Suite 250
+
+Denver, Colorado 80202
+
+Telephone: (303) 592-8075
+
+Facsimile: (303) 592-8071
+
+E-mail: LPeterson@kodiakog.com
+
+Attention: Lynn A. Peterson
+
+With copies to:
+
+Dorsey & Whitney LLP
+
+Columbia Center
+
+701 Fifth Avenue, Suite 6100
+
+Seattle, WA 98104-7043
+
+Telephone: (206) 903-8800
+
+Facsimile: (206) 903-8820
+
+E-mail: jones.randal@dorsey.com; luebeck.lisa@dorsey.com
+
+Attention: Randal R. Jones; Lisa M. Luebeck
+
+If to Seller:
+
+Peak Grasslands, LLC
+
+1910 Main Avenue
+
+Durango, Colorado 81301
+
+Telephone: (970) 247-1500
+
+Facsimile: (970) 247-5424
+
+E-mail: jvaughn@colopeaks.com
+
+Attention: Mr. Jack Vaughn
+
+With copies to:
+
+Thompson & Knight LLP
+
+One Arts Plaza
+
+1722 Routh Street, Suite 1500
+
+Dallas, Texas 75201-2533
+
+Telephone: (214) 969-1221
+
+Facsimile: (214) 999-9001
+
+E-mail: arthur.wright@tklaw.com; annmarie.cowdrey@tklaw.com
+
+Attention: Arthur Wright; Ann Marie Cowdrey
+
+If to any Holder other than Seller, per the contact information provided in the notice contemplated by Section 2.7;
+
+* * *
+
+  
+
+
+and shall be considered delivered on the date of receipt. Any of Buyer, Parent, Seller or a Holder may specify as its proper address any other post office address within the continental limits of the United States by giving notice to the others, in the manner provided in this Section 3.2, at least ten (10) days prior to the effective date of such change of address.
+
+3.3 Governing Law and Venue
+
+Without regard to principles of conflicts of law, this Agreement shall be construed and enforced in accordance with and governed by the laws of the State of Texas. The Parties agree that venue shall be Denver, Colorado.
+
+3.4 Entire Agreement
+
+This Agreement and the Asset Purchase Agreement constitute the entire agreement between the parties with respect to the transactions contemplated herein, and this Agreement and the Asset Purchase Agreement cancel and supersede any prior understandings, agreements, negotiations and discussions between the parties.
+
+3.5 Counterparts
+
+This Agreement may be executed in one or more counterparts, any one of which need not contain the signatures of more than one party, but all such counterparts taken together will constitute one and the same instrument. An e-mail or facsimile signature will be considered an original signature.
+
+3.6 Enurement
+
+This Agreement shall enure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, successors (including any successor by reason of a merger of any party), administrators and permitted assigns.
+
+3.7 Severability
+
+If any provision of this Agreement, or the application thereof to any person, place or circumstance, shall be held by a court of competent jurisdiction to be invalid, unenforceable or void, the remainder of this Agreement and such provisions as applied to other persons, places and circumstances shall remain in full force and effect only if, after excluding the portion deemed to be unenforceable, the remaining terms shall provide for the consummation of the transactions contemplated hereby in substantially the same manner as originally set forth at the later of the date this Agreement was executed or last amended.
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, Buyer, Parent and Seller have executed this Registration Rights Agreement as of the date first above written.
+
+BUYER:
+
+SELLER:  
+  
+KODIAK OIL & GAS (USA) INC.
+
+PEAK GRASSLANDS, LLC  
+  
+By:
+
+By:  
+  
+Name:
+
+Name:  
+  
+Title:
+
+Title:  
+  
+PARENT:  
+  
+KODIAK OIL & GAS CORP.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+* * *
+
+  
+

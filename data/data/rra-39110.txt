@@ -1,0 +1,288 @@
+* * *
+
+
+
+This REGISTRATION RIGHTS AGREEMENT (this “Agreement”), dated as of June 14, 2011, is by and between COUNTERPATH CORPORATION, a Nevada corporation (the “Corporation”), and (i) each subscriber in the Corporation’s Offering of Units (each as defined herein) (such subscribers being referred to herein individually as a “Subscriber” and collectively as the “Subscribers”); and (ii) each of the Agents (as defined herein) for the Offering. 
+
+A. The Corporation has agreed, on the terms and subject to the conditions set forth in the Subscription Agreement between the Corporation and each Subscriber (the “Subscription Agreement”) to issue and sell Units to each Subscriber. Each Unit (a “Unit”) is comprised of one Common Share (each a “Share”) and one-half (½) of one non-transferable common share purchase warrant (each whole warrant, a “Subscriber Warrant”). Each whole Subscriber Warrant entitles the holder to purchase one Common Share (a “Subscriber Warrant Share”) at a price of CDN$2.25 per Subscriber Warrant Share for a period of two years following the Closing Date of the Offering. 
+
+B. The Corporation has also agreed, on the terms and subject to the conditions set forth in the Agency Agreement between the Corporation and each of the Agents dated of even date herewith (the “Agency Agreement”) to issue as compensation to the Agents non-transferable warrants (the “Agents’ Warrants”) entitling the Agents to purchase that number of Common Shares (“Agents’ Warrant Shares”) equal to 7% of the number of Units sold by the Agents in the Offering, at an exercise price of CDN$1.75 per Agents’ Warrant Share for a period of eighteen (18) months following the Closing Date of the Offering.
+
+C. In order to induce each Subscriber to enter into the Subscription Agreement and each of the Agents to enter into the Agency Agreement, the Corporation has agreed to provide the Subscribers and the Agents with certain registration rights under the Securities Act of 1933, as amended, and under applicable state securities laws. 
+
+In consideration of each Subscriber entering into the Subscription Agreement and of each of the Agents entering into the Agency Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
+
+1\. DEFINITIONS. 
+
+For purposes of this Agreement, the following terms shall have the meanings specified: 
+
+“1933 Act” means the United States Securities Act of 1933, as amended. 
+
+“1934 Act” means the United States Securities Exchange Act of 1934, as amended. 
+
+“Agency Agreement” has the meaning set forth on the first page of this Agreement. 
+
+“Agents” means National Bank Financial Inc. and Canaccord Genuity Corp. 
+
+“Agents’ Warrants” has the meaning set forth on the first page of this Agreement. 
+
+“Agents’ Warrant Shares” has the meaning set forth on the first page of this Agreement. 
+
+“Agreement” has the meaning set forth on the first page of this Agreement. 
+
+* * *
+
+“Business Day” means, for purposes of Section 2 of this Agreement, any day except Saturday, Sunday or any federal holiday or other day on which the Commission is not open for business, and for all other purposes means any day except Saturday, Sunday or a statutory holiday in Vancouver, British Columbia or Toronto, Ontario. 
+
+“Closing” means the closing of the purchase and sale of the Units as contemplated by the Subscription Agreement and the Agency Agreement. 
+
+“Closing Date” is the date on which the Closing is completed. 
+
+“Commission” means the United States Securities and Exchange Commission. 
+
+“Common Share” means a common share in the capital of the Corporation. 
+
+“Corporation” has the meaning set forth on the first page of this Agreement. 
+
+“Effective Date” means the date on which a Registration Statement is declared effective by the Commission. 
+
+“Holder” means any person owning or having the right to acquire, through exercise of the Warrants or otherwise, Registrable Securities, including initially each Subscriber and each Agent and thereafter any permitted assignee thereof. 
+
+“Initial Registration Statement” has the meaning set forth in Section 2(a). 
+
+“Offering” means the offering pursuant to the Agency Agreement and the Subscription Agreement of up to 5,714,285 Units for gross aggregate proceeds of up to CDN$10,000,000. 
+
+“Registrable Securities” means the Shares, the Subscriber Warrant Shares, the Agents’ Warrant Shares and any shares of capital stock issued or issuable from time to time (with any adjustments) in replacement of, in exchange for, as a distribution on, or otherwise in respect of such Shares, Subscriber Warrant Shares or Agents’ Warrant Shares; provided, however, that any such shares shall cease to be Registrable Securities at such time as they may be sold by the Holder without registration under Rule 144 without limitation as to volume. 
+
+“Registration Deadline” means the date which is four months after the Closing Date. 
+
+“Registration Period” has the meaning set forth in Section 2(b). 
+
+“Registration Statement” means a registration statement or statements prepared in compliance with the 1933 Act and pursuant to Rule 415. 
+
+“Rule 144” means Rule 144 under the 1933 Act or any successor rule providing a similar exemption from 1933 Act registration requirements. 
+
+“Rule 415” means Rule 415 under the 1933 Act or any successor rule providing for the offering of securities on a continuous or delayed basis. 
+
+“Rule 416” means Rule 416 under the 1933 Act or any successor rule providing for the registration of securities to be issued as a result of stock splits, stock dividends and anti-dilution provisions. 
+
+2 
+
+* * *
+
+“Second Registration Statement” has the meaning set forth in Section 2(a). 
+
+“Share” has the meaning set forth on the first page of this Agreement. 
+
+“Subscriber” and “Subscribers” have the meanings set forth on the first page of this Agreement. 
+
+“Subscriber Warrant” has the meaning set forth on the first page of this Agreement. 
+
+“Subscriber Warrant Share” has the meaning set forth on the first page of this Agreement. 
+
+“Subscription Agreement” has the meaning set forth on the first page of this Agreement. 
+
+“Unit” has the meaning set forth on the first page of this Agreement. 
+
+2\. REGISTRATION. 
+
+(a) Registration Statement. Following the Closing of the Offering, the Corporation shall file with the Commission a Registration Statement on Form S-1 covering the resale of the Registrable Securities. Such Registration Statement shall state, to the extent permitted by Rule 416 under the 1933 Act, that it also covers such indeterminate number of additional Common Shares as may become issuable upon exercise of the Subscriber Warrants and the Agents’ Warrants in order to (i) prevent dilution resulting from stock splits, stock dividends or similar events and (ii) effect required anti-dilution adjustments pursuant to the terms of the Subscriber Warrants or the Agents’ Warrants and their governing documents. Notwithstanding any other provision in this Section 2, if the Corporation receives a comment from the staff of the Commission that effectively results in the Corporation having to reduce the number of Registrable Securities included in such Registration Statement (hereafter referred to as the “Initial Registration Statement”), then the Corporation, after having first used commercially reasonable efforts to persuade the staff of the Commission to withdraw such comment, may in its sole discretion reduce for each Holder on a pro rata basis the number of Registrable Securities to be included in the Initial Registration Statement. The Corporation agrees it will provide the Agents and their counsel with the opportunity to review any such comment received from the staff of the Commission and the Corporation’s proposed responses thereto and will allow the Agents and their counsel to provide input regarding the proposed responses before submitting them to the staff of the Commission. The Corporation further covenants and agrees that it will use commercially reasonable efforts to register the resale of all Registrable Securities not included in the Initial Registration Statement pursuant to this Section 2(a) by filing a second Registration Statement (the “Second Registration Statement”) six months after the Effective Date of the Initial Registration Statement, or as soon thereafter as is reasonably practicable, and will use commercially reasonable efforts to make the Second Registration Statement effective as soon as reasonably practicable after the date it is filed. 
+
+(b) Effectiveness. The Corporation shall use commercially reasonable efforts to cause the Initial Registration Statement to be made effective by the Registration Deadline and in any event as soon as reasonably practicable after the Closing Date. The Corporation shall respond promptly to any and all comments made by the staff of the Commission on the Initial Registration Statement and, if applicable, the Second Registration Statement, and shall submit to the Commission, within five (5) Business Days after the Corporation learns that no review of such Registration Statement will be made by the staff of the Commission or that the staff of the Commission has no further comments on such Registration Statement, as the case may be, a request for acceleration of the effectiveness of the Registration Statement to a time and date not later than two (2) Business Days after the submission of such request. The Corporation will maintain the effectiveness of the Initial Registration Statement and, if applicable, the Second Registration Statement until the earlier to occur of (i) the date on which all of the Registrable Securities eligible for resale thereunder have been publicly sold pursuant to such Registration Statements or Rule 144 and (ii) the date on which all of the Registrable Securities remaining to be sold under such Registration Statements (in the reasonable opinion of counsel to the Corporation) may be immediately sold to the public pursuant to Rule 144 under the 1933 Act (the period beginning on the Closing Date and ending on the earlier to occur of (i) or (ii) above being referred to herein as the “Registration Period”). 
+
+3 
+
+* * *
+
+(c) Registration of Other Securities. During the period beginning on the Closing Date and ending on the Effective Date, the Corporation shall refrain from filing any registration statement (other than (i) a Registration Statement filed hereunder, or (ii) a registration statement that qualifies to be filed on Form S-8 or any successor form or other form promulgated for similar purposes.
+
+3\. PIGGYBACK REGISTRATION. 
+
+If at any time prior to the expiration of the Registration Period, the Corporation proposes to file a registration statement under the 1933 Act, other than a registration statement on Form S-8 or Form S-4 or any successor form or other form promulgated for similar purposes, and a Registration Statement covering the sale of all of the Registrable Securities held by any Holder is not then effective and available for sales thereof by such Holder, the Corporation shall (a) give prior written notice to each such Holder of its intention to do so and (b) include all such Registrable Securities in the registration statement filed in connection with the Proposed Registration. 
+
+4\. OBLIGATIONS OF THE CORPORATION. 
+
+In addition to performing its obligations hereunder, including without limitation those pursuant to Section 2 above, the Corporation shall, with respect to each Registration Statement described in Section 2(a): 
+
+(a) prepare and file with the Commission such amendments and supplements to the Registration Statement and the prospectus used in connection with the Registration Statement as may be necessary to comply with the provisions of the 1933 Act or to maintain the effectiveness of the Registration Statement during the Registration Period, or as may be reasonably requested by a Holder in order to incorporate information concerning such Holder or such Holder's intended method of distribution; 
+
+(b) furnish to each Holder such number of copies of the prospectus included in the Registration Statement, including a preliminary prospectus, in conformity with the requirements of the 1933 Act, and such other documents as such Holder may reasonably request in order to facilitate the disposition of such Holder's Registrable Securities; 
+
+(c) use commercially reasonable efforts to register or qualify the Registrable Securities under the securities or “blue sky” laws of such jurisdictions within the United States as shall be reasonably requested from time to time by a Holder, and do any and all other acts or things which may be necessary or advisable to enable such Holder to consummate the public sale or other disposition of the Registrable Securities in such jurisdictions; provided that the Corporation shall not be required in connection therewith or as a condition thereto to qualify to do business or to file a general consent to service of process in any such jurisdiction or to subject itself to taxation in any such jurisdiction; 
+
+(d) in the event of an underwritten public offering of the Registrable Securities, enter into (together with all Holders proposing to distribute Registrable Securities through such underwriting) and perform its obligations under an underwriting agreement, in usual and customary form reasonably acceptable to the Corporation, with the managing underwriter of such offering; 
+
+4 
+
+* * *
+
+(e) notify each Holder immediately after becoming aware of the occurrence of any event (but shall not, without the prior written consent of such Holder, disclose to such Holder any facts or circumstances constituting material non-public information) as a result of which the prospectus included in the Registration Statement, as then in effect, is no longer compliant with the 1933 Act, and as promptly as practicable prepare and file with the Commission and furnish to each Holder a reasonable number of copies of a new, amended or supplemented prospectus that complies with the 1933 Act, and in the meantime keep each Holder informed of the status of the Corporation’s efforts to make the prospectus compliant with the 1933 Act; 
+
+(f) use all commercially reasonable efforts to prevent the issuance of any stop order or other order suspending the effectiveness of the Registration Statement and, if such an order is issued, to obtain the withdrawal thereof at the earliest possible time and to notify each Holder of the issuance of such order and the resolution thereof; 
+
+(g) furnish to each Holder, on the date that the Registration Statement, or any successor registration statement, becomes effective, a letter, dated such date, addressed to such Holder, confirming such effectiveness and, to the knowledge of the Corporation, the absence of any stop order; 
+
+(h) provide to each Holder and its representatives the reasonable opportunity to conduct a reasonable inquiry of the Corporation's financial and other records during normal business hours and make available its officers, directors and employees for questions regarding information which such Holder may reasonably request in order to fulfill any due diligence obligation on its part, subject, however, to the execution and delivery to the Corporation by such Holder of a customary non-disclosure agreement and provided that the Corporation shall not disclose any material non-public information to such Holder absent such Holder's written request therefor; 
+
+(i) permit counsel for each Holder, at such Holder's expense, to review the Registration Statement and all amendments thereto, and any comments made by the staff of the Commission concerning such Holder and the Corporation's responses thereto, within a reasonable period of time prior to the filing thereof with the Commission (or, in the case of comments made by the staff of the Commission, within a reasonable period of time following the receipt thereof by the Corporation); 
+
+(j) hold in confidence and not make any disclosure of information concerning a Holder provided to the Corporation if at the time such information is provided the Corporation is notified of the confidential nature of such information unless (i) disclosure of such information is necessary to comply with federal or state securities laws, (ii) the disclosure of such information is necessary to avoid or correct a misstatement or omission in any Registration Statement that includes such Holder’s Registrable Securities, (iii) the release of such information is ordered pursuant to a subpoena or other order from a court or governmental body of competent jurisdiction, (iv) such information has been made generally available to the public other than by disclosure in violation of this or any other agreement, or (v) such Holder consents to the form and content of any such disclosure. The Corporation shall, upon learning that disclosure of any information concerning an Holder is sought in or by a court or governmental body of competent jurisdiction or through other means, give prompt notice to such Holder prior to making such disclosure, and cooperate with the Holder, at the Holder’s expense, in taking appropriate action to prevent disclosure of, or to obtain a protective order for, such information; and 
+
+(k) comply with all applicable laws related to the Registration Statement and offering and sale of Registrable Securities and all applicable rules and regulations of governmental authorities in connection therewith, including, without limitation, the 1933 Act and the 1934 Act and the rules and regulations promulgated thereunder. 
+
+5 
+
+* * *
+
+5\. OBLIGATIONS OF EACH HOLDER. 
+
+In connection with the registration of Registrable Securities pursuant to a Registration Statement, each Holder shall: 
+
+(a) timely furnish to the Corporation in writing such information regarding itself and the intended method of disposition of such Registrable Securities, including the identity of and compensation to be paid to any proposed broker-dealer to be employed in connection therewith, as the Corporation shall reasonably request in order to effect the registration thereof; 
+
+(b) execute and deliver to the Corporation such written representations and undertakings as the Corporation and its counsel may reasonably require in order to ensure full compliance with relevant provisions of the 1933 Act and the 1934 Act; 
+
+(c) upon receipt of any notice from the Corporation of the happening of any event of the kind described in Sections 4(e) or 4(f), immediately discontinue any sale or other disposition of such Registrable Securities pursuant to such Registration Statement until the filing of an amendment or supplement as described in Section 4(e) or withdrawal of the stop order referred to in Section 4(f), and use commercially reasonable efforts to maintain the confidentiality of such notice and its contents; 
+
+(d) in the event of an underwritten offering of such Registrable Securities in which such Holder participates, enter into a customary and reasonable underwriting agreement and execute such other documents as the Corporation and/or the managing underwriter for such offering may reasonably request; 
+
+(e) to the extent required by applicable law, deliver a prospectus to the purchaser of such Registrable Securities; 
+
+(f) notify the Corporation when it has sold all of the Registrable Securities held by it; and 
+
+(g) notify the Corporation in the event that any information supplied by such Holder to the Corporation in writing for inclusion in such Registration Statement or related prospectus is untrue or omits to state a material fact required to be stated therein or necessary to make such information not misleading in light of the circumstances then existing; immediately discontinue any sale or other disposition of such Registrable Securities pursuant to such Registration Statement until the filing of an amendment or supplement to such prospectus as may be necessary so that such prospectus does not contain an untrue statement of material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing; and use commercially reasonable efforts to assist the Corporation as may be appropriate to make such amendment or supplement effective for such purpose. 
+
+6\. INDEMNIFICATION. 
+
+In the event that any Registrable Securities are included in a Registration Statement under this Agreement, including any registration statement described in Section 3: 
+
+6 
+
+* * *
+
+(a) To the extent permitted by law, the Corporation shall indemnify and hold harmless each Holder, the officers, directors, employees, agents and representatives of such Holder, and each person, if any, who controls such Holder within the meaning of the 1933 Act or the 1934 Act (collectively, the “Holder Indemnified Parties”), including in such Holder Indemnified Parties' capacity as a broker dealer, against any losses, claims, damages, liabilities or reasonable out-of-pocket expenses (whether joint or several) (collectively, including legal or other expenses reasonably incurred in connection with investigating or defending same, “Losses”), insofar as any such Losses arise out of or are based upon (i) any untrue statement or alleged untrue statement of a material fact contained in such Registration Statement, including any preliminary prospectus or final prospectus contained therein or any amendments or supplements thereto, (ii) the omission or alleged omission to state therein a material fact required to be stated therein, or necessary to make the statements therein, in light of the circumstances under which they were made, not misleading, (iii) any misrepresentation or breach of any representation or warranty made by the Corporation, or (iv) any violation or alleged violation by the Corporation of the 1933 Act, the 1934 Act or any applicable state securities laws in connection with the Registration Statement. Subject to the provisions of Section 6(c) below, the Corporation will reimburse such Holder, and each of the Holder Indemnified Parties, for any legal or other out-of-pocket expenses as reasonably incurred by any such entity or person in connection with investigating or defending any Loss; provided, however, that the foregoing indemnity shall not apply to amounts paid in settlement of any Loss if such settlement is effected without the consent of the Corporation (which consent shall not be unreasonably withheld), nor shall the Corporation be obligated to indemnify any person for any Loss to the extent that such Loss (i) is based upon and is in conformity with written information furnished by such person expressly for use in such Registration Statement, (ii) is based on a failure of such person to deliver or cause to be delivered the final prospectus contained in the Registration Statement and made available by the Corporation, if such delivery is required by applicable law, or (iii) relates to the sale of shares by such Holder after the Corporation has notified such Holder that an event described in Section 4(e) has occurred and has not yet provided the Holder with a new, amended or supplemented prospectus for delivery. The Corporation shall not enter into any settlement of a Loss that does not provide for the unconditional release of such Holder from all liabilities and obligations relating to such Loss. 
+
+(b) To the extent permitted by law, each Holder who is named in such Registration Statement as a selling stockholder, acting severally and not jointly, shall indemnify and hold harmless the Corporation, the officers, directors, employees, agents and representatives of the Corporation, and each person, if any, who controls the Corporation within the meaning of the 1933 Act or the 1934 Act, against any Losses to the extent (and only to the extent) that any such Losses (i) are based upon and arise from the written information furnished by such Holder to the Corporation expressly for use in such Registration Statement, (ii) are based on a failure of such Holder to deliver or cause to be delivered the final prospectus contained in the Registration Statement and made available by the Corporation, if such delivery is required by applicable law, or (iii) relate to the sale of shares by such Holder after the Corporation has notified such Holder that an event described in Section 4(e) has occurred and has not yet provided the Holder with a new, amended or supplemented prospectus for delivery. Subject to the provisions of Section 6(c) below, such Holder will reimburse any legal or other expenses as reasonably incurred by the Corporation and any such officer, director, employee, agent, representative, or controlling person, in connection with investigating or defending any such Loss; provided, however, that the foregoing indemnity shall not apply to amounts paid in settlement of any such Loss if such settlement is effected without the consent of such Holder (which consent shall not be unreasonably withheld); and provided, further, that, in no event shall any indemnity under this Section 6(b) exceed the net proceeds actually received from the sale of the Registrable Securities sold by such Holder under such Registration Statement. 
+
+(c) Promptly after receipt by an indemnified party under this Section 6 of notice of the commencement of any action (including any governmental action), such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Section 6, deliver to the indemnifying party a written notice of the commencement thereof and the indemnifying party shall have the right to participate in and to assume the defense thereof with counsel mutually satisfactory to the parties; provided, however, that an indemnified party shall have the right to retain its own counsel, with the reasonably incurred fees and expenses of one such counsel for all indemnified parties to be paid by the indemnifying party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate under applicable standards of professional conduct due to actual or potential conflicting interests between such indemnified party and any other party represented by such counsel in such proceeding. The failure to deliver written notice to the indemnifying party within a reasonable time of the commencement of any such action, to the extent prejudicial to its ability to defend such action, shall relieve such indemnifying party of any liability to the indemnified party under this Section 6 with respect to such action, but the omission so to deliver written notice to the indemnifying party will not relieve it of any liability that it may have to any indemnified party otherwise than under this Section 6 or with respect to any other action unless the indemnifying party is materially prejudiced as a result of not receiving such notice. 
+
+7 
+
+* * *
+
+(d) In the event that the indemnity provided in paragraph (a) or (b) of this Section 6 is unavailable or insufficient to hold harmless an indemnified party for any reason, the Corporation and each Holder agree, severally and not jointly, to contribute to the aggregate Losses to which the Corporation or such Holder may be subject in such proportion as is appropriate to reflect the relative fault of the Corporation and such Holder in connection with the statements or omissions which resulted in such Losses; provided, however, that in no case shall such Holder be responsible for any amount in excess of the net proceeds actually received from the sale of the Registrable Securities sold by it under the Registration Statement. Relative fault shall be determined by reference to whether any alleged untrue statement or omission relates to information provided by the Corporation or by such Holder. The Corporation and each Holder agree that it would not be just and equitable if contribution were determined by pro rata allocation or any other method of allocation which does not take account of the equitable considerations referred to above. Notwithstanding the provisions of this paragraph (d), no person guilty of fraudulent misrepresentation (within the meaning of Section 11(f)(1) of the 1933 Act) shall be entitled to contribution from any person who is not guilty of such fraudulent misrepresentation. For purposes of this Section 6, each person who controls a Holder within the meaning of either the 1933 Act or the 1934 Act and each officer, director, employee, agent or representative of such Holder shall have the same rights to contribution as such Holder, and each person who controls the Corporation within the meaning of either the 1933 Act or the 1934 Act and each officer, director, employee, agent or representative of the Corporation shall have the same rights to contribution as the Corporation, subject in each case to the applicable terms and conditions of this paragraph (d). 
+
+(e) The obligations of the Corporation and each Holder under this Section 6 shall survive the completion of any offering or sale of Registrable Securities pursuant to a Registration Statement under this Agreement, or otherwise. 
+
+7\. REPORTS. 
+
+With a view to making available to each Holder the benefits of Rule 144 and any other similar rule or regulation of the Commission that may at any time permit such Holder to sell securities of the Corporation to the public without registration, the Corporation agrees (until all of the Registrable Securities have been sold under a Registration Statement or sold pursuant to Rule 144) to: 
+
+(a) make and keep public information available, as those terms are understood and defined in Rule 144; 
+
+(b) file with the Commission in a timely manner all reports and other documents required of the Corporation under Section 13(a) of the 1934 Act; and 
+
+8 
+
+* * *
+
+(c) furnish to such Holder, so long as such Holder owns any Registrable Securities, promptly upon written request (i) a written statement by the Corporation, if true, that it has complied with the reporting requirements of Rule 144, the 1933 Act and the 1934 Act, (ii) to the extent not publicly available through the Commission's EDGAR database, a copy of the most recent annual or quarterly report of the Corporation and such other reports and documents so filed by the Corporation, and (iii) such other information as may be reasonably requested by such Holder in connection with such Holder's compliance with any rule or regulation of the Commission which permits the selling of any such securities without registration. 
+
+8\. MISCELLANEOUS. 
+
+(a) Expenses of Registration. All expenses, other than underwriting discounts and commissions and fees and expenses of counsel and other advisers to each Holder, incurred in connection with the registrations, filings or qualifications described herein, including (without limitation) all registration, filing and qualification fees, printers' and accounting fees, the fees and disbursements of counsel for the Corporation, shall be borne by the Corporation. 
+
+(b) Amendment; Waiver. Except as expressly provided herein, neither this Agreement nor any term hereof may be amended or waived except pursuant to a written instrument executed by the Corporation and the Holders of at least 80% of the Registrable Securities (whether or not then outstanding). Any amendment or waiver effected in accordance with this paragraph shall be binding upon each Holder, each future Holder and the Corporation. The failure of any party to exercise any right or remedy under this Agreement or otherwise, or the delay by any party in exercising such right or remedy, shall not operate as a waiver thereof. Notwithstanding the foregoing provisions, any amendment or waiver that affects any particular Holder in a manner different that the other Holders shall require such particular Holder’s prior written consent in respect thereof.
+
+(c) Notices. Any notice, demand or request required or permitted to be given by the Corporation or a Holder pursuant to the terms of this Agreement shall be in writing and shall be deemed delivered (i) when delivered personally or by verifiable email or facsimile transmission, unless such delivery is made on a day that is not a Business Day, in which case such delivery will be deemed to be made on the next succeeding Business Day, and (ii) on the next Business Day after timely delivery to a reputable overnight courier, addressed as follows: 
+
+If to the Corporation: 
+
+CounterPath Corporation   
+Suite 300, One Bentall Centre   
+505 Burrard Street, Box 95   
+Vancouver, BC V7X 1M3   
+Canada   
+Attn: Chief Executive Officer and Chief Financial Officer   
+Tel: (604) 320-3344   
+Fax: (604) 320-3399   
+Email: corporate@counterpath.com
+
+with a copy to: 
+
+Clark Wilson LLP   
+800 – 885 West Georgia Street   
+Vancouver, BC V6C 3H1 
+
+9 
+
+* * *
+
+Canada   
+Attn: Virgil Z. Hlus   
+Tel: (604) 891-7707   
+Fax: (604) 687-6314   
+Email: vzh@cwilson.com 
+
+and if to a Holder, to such address as shall be designated by such Holder in its Subscription Agreement or as otherwise designated by such Holder in writing to the Corporation. 
+
+(d) Assignment. Upon the private transfer by a Holder of any Registrable Securities, the rights of such Holder hereunder with respect to such securities so transferred shall be assigned automatically to the transferee thereof, and such transferee shall thereupon be deemed to be a “Holder” for purposes of this Agreement if: (i) such transfer is made in accordance with the applicable requirements of the Subscription Agreement; (ii) the transferee agrees in writing with the Corporation to be bound by all of the provisions of this Agreement, and (iii) the Corporation is furnished with written notice of the name and address of such transferee; provided, however, that the registration rights granted under this Agreement shall not be assigned to any person or entity that receives any Registrable Securities in a public transaction pursuant to an effective registration statement under the 1933 Act or pursuant to Rule 144. 
+
+(e) Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, and all of which together shall be deemed one and the same instrument. This Agreement, once executed by a party, may be delivered to any other party hereto by email or facsimile transmission. 
+
+(f) Governing Law. The contract arising out of this Agreement shall be governed by and construed in accordance with the laws of the State of Nevada.
+
+(g) Language. It is the express wish of the Subscriber that the Subscription Agreement and any related documentation be drawn up in English only. Il est de la volonté expresse du souscripteur que la convention de souscription ainsi que tout document connexe soient rédigés en langue anglaise uniquement. 
+
+(h) Holder of Record. A person is deemed to be a Holder whenever such person owns or is deemed to own of record Registrable Securities. If the Corporation receives conflicting instructions, notices or elections from two or more persons with respect to the same Registrable Securities, the Corporation shall act upon the basis of instructions, notice or election received from the record owner of such Registrable Securities. 
+
+(i) Entire Agreement. This Agreement, together with the Subscription Agreement for the Subscribers and together with the Agency Agreement for the Agents, constitutes the entire agreement between the parties with respect to the subject matter of this Agreement. 
+
+(j) Headings. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning hereof. 
+
+(k) Third Party Beneficiaries. This Agreement is intended for the benefit of the parties hereto and their respective permitted successors and assigns, and is not for the benefit of, nor may any provision hereof be enforced by, any other person. 
+
+[Signature Pages to Follow] 
+
+10 
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned have executed this Registration Rights Agreement as of the date first-above written. 
+
+“Corporation”   
+COUNTERPATH CORPORATION   
+By: ____________________________________________  
+Name: ______________________________________  
+Title: ______________________________________  
+“Subscriber”   
+____________________________________________  
+By: ____________________________________________  
+Name: ______________________________________  
+Title: ______________________________________  
+  
+11 
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned have executed this Registration Rights Agreement as of the date first-above written. 
+
+“Corporation”   
+COUNTERPATH CORPORATION   
+By: ____________________________________________  
+Name: ______________________________________  
+Title: ______________________________________  
+“Agent”   
+NATIONAL BANK FINANCIAL INC.   
+By: ____________________________________________  
+Name: ______________________________________  
+Title: ______________________________________  
+“Agent”   
+CANACCORD GENUITY CORP.   
+By: ____________________________________________  
+Name: ______________________________________  
+Title: ______________________________________  
+  
+12 
+
+* * *

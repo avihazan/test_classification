@@ -1,0 +1,101 @@
+EXHIBIT 10.3
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (the “Agreement”), is made, effective as of the 16th day of September, 2008 (hereinafter the “Date of Grant”), between United Fuel & Energy Corporation, a Nevada corporation (the “Company”), and William C. Bousema (the “Participant”).
+
+RECITALS:
+
+WHEREAS, the Company has adopted the United Fuel & Energy Corporation 2005 Equity Incentive Plan (the “Plan”), pursuant to which awards of shares of the Company’s common stock, par value $0.001 per share (the “Common Stock”), may be granted; and
+
+WHEREAS, the Board of Directors of the Company has determined that it is in the best interests of the Company and its stockholders to grant to the Participant an award of shares of Common Stock as a grant of Restricted Stock under the Plan, subject to the terms set forth herein.
+
+NOW THEREFORE, for and in consideration of the premises and the covenants of the parties contained in this Agreement, and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto, for themselves, their successors and assigns, hereby agree as follows:
+
+1. Grant of Restricted Stock. The Company hereby grants to the Participant on the Date of Grant 150,000 shares of Common Stock (the “Award”) on the terms and conditions set forth in this Agreement and as otherwise provided in the Plan. The Award shall vest in accordance with Section 3 hereof.
+
+2. Incorporation by Reference, Etc. The provisions of the Plan are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement shall be construed in accordance with the provisions of the Plan and any capitalized terms not otherwise defined in this Agreement shall have the definitions set forth in the Plan. The Compensation Committee of the Board of Directors of the Company (the “Committee”) shall have final authority to interpret and construe the Plan and this Agreement and to make any and all determinations under them, and its decision shall be final, binding and conclusive upon the Participant and his legal representative in respect of any questions arising under the Plan or this Agreement.
+
+3. Terms and Conditions.
+
+(a) Restrictions. The shares of Common Stock comprising the Award granted hereunder (the “Award Shares”) may not be sold, pledged or otherwise transferred (other than by will or the laws of decent and distribution or as otherwise permitted by the Committee) and may not be subject to lien, garnishment, attachment or other legal process. 
+
+(b) Vesting. The Award shall vest in twelve equal quarterly installments on the last day of each calendar quarter beginning on December 31, 2008. In order for Award Shares to vest under this Agreement, the Participant must be continuously serving as an employee of the Company from the Date of Grant through the date of vesting. As soon as practicable following each vesting date, the Company shall deliver to the Participant a stock certificate representing the vested Award Shares. 
+
+1
+
+* * *
+
+(c) Escrow of Shares. During the period of time between the Date of Grant and the earlier of each vesting date or the date on which any Award Shares are forfeited (the “Restriction Period”), the Award Shares shall be registered in the name of the Participant and held in escrow by the Company, and the Participant hereby agrees to provide one or more stock powers in substantially the form attached hereto as Exhibit A endorsed by the Participant in blank corresponding to each stock certificate representing the Award Shares. Upon vesting of any Award Shares, a certificate representing the vested Award Shares shall be delivered to the Participant as promptly as practicable following such vesting date and the Company will destroy the stock power corresponding to the certificate representing such vested Award Shares. 
+
+(d) Effect of Termination of Services as an Employee. If the Participant’s service as an employee of the Company is terminated (i) by the Company for Cause (as the term “Cause” is defined in that certain Employment Agreement between the Company and the Participant dated the date hereof (the “Employment Agreement”)), or (ii) by the Participant without Good Reason (as the term “Good Reason” is defined in the Employment Agreement), then any unvested Award Shares shall be immediately forfeited without further consideration to the Participant and the Company may use the stock powers corresponding to each stock certificate representing all unvested Award Shares to transfer record ownership of all such unvested Award Shares from the Participant to the Company or third party, in the Company’s sole discretion. If the Participant’s service as an employee of the Company is terminated (i) by the Company without Cause (as the term “Cause” is defined in the Employment Agreement), (ii) by the Participant for Good Reason (as the term “Good Reason” is defined in the Employment Agreement), (iii) upon the Participant’s death, or (iv) upon the Participant’s Disability (as the term “Disability” is defined in the Employment Agreement), then any unvested Award Shares shall immediately vest and the Company shall deliver to the Participant (or, in the event of Participant’s death, the Participant’s estate) the stock certificates representing the vested Award Shares.
+
+(e) Section 83(b) Election. Participant understands that, under Section 83 of the Internal Revenue Code (the “Code”), the difference between the fair market value of the Award Shares as of the Date of Grant and their fair market value at the time any forfeiture restrictions applicable to such shares lapse may be reportable as ordinary income at that time. Participant understands that Participant may elect to be taxed at the time the Award is granted hereunder to the extent of the full fair market value thereof as of the Date of Grant rather than when and as such Award Shares cease to be subject to forfeiture, by filing an election under Section 83(b) of the Code with the Internal Revenue Service within 30 days after the Date of Grant. If it is likely that the fair market value of the Award Shares at the time any forfeiture restrictions lapse will exceed the fair market value thereof as of the Date of Grant, the election may avoid adverse tax consequences in the future. Participant understands that the failure to make this filing within said 30-day period will result in the recognition of ordinary income by Participant (in the event the fair market value of the Award Shares increases after the Date of Grant) as the forfeiture restrictions lapse. PARTICIPANT ACKNOWLEDGES THAT IT IS PARTICIPANT’S SOLE RESPONSIBILITY, AND NOT THE COMPANY’S, TO FILE A TIMELY ELECTION UNDER SECTION 83(B), EVEN IF PARTICIPANT REQUESTS THE COMPANY OR ITS REPRESENTATIVE TO MAKE THIS FILING ON PARTICIPANT’S BEHALF.
+
+(f) Rights as a Stockholder. The Participant is entitled to receive all dividends and other distributions made with respect to the Award Shares registered in his or her name and is entitled to vote or execute proxies with respect to such Award Shares registered in his or her name, unless and until the Award Shares are forfeited pursuant to Section 3(d) above. Upon and following the vesting date, the Participant shall be the record owner of the Award Shares unless and until such shares are sold or otherwise disposed of, and as record owner shall be entitled to all rights of a common stockholder of the Company. Prior to the vesting date, the Participant shall not be deemed to be the owner of the Award Shares. 
+
+2
+
+* * *
+
+(g) Compliance With Securities Laws; Internal Revenue Code Section 409A. The Company will not be required to issue any shares of Common Stock pursuant to this Agreement if, in the opinion of counsel for the Company, such issuance would violate the Securities Act of 1933, as amended, or any other applicable federal or state securities laws or regulations. Prior to the issuance of any shares pursuant to this Agreement, the Company may require that the Participant (or the Participant’s legal representative upon the Participant’s death or disability) enter into such written representations, warranties and agreements as the Company may reasonably request in order to comply with applicable securities laws or with this Agreement. The Company may also delay issuance of shares of Common Stock hereunder to the extent set forth in Treasury Regulation Section 1.409A-2(b)(7).
+
+4. Miscellaneous.
+
+(a) Notices. All notices, demands and other communications provided for or permitted hereunder shall be made in writing and shall be by registered or certified first-class mail, return receipt requested, telecopier, courier service or personal delivery. All such notices, demands and other communications shall be deemed to have been duly given when delivered by hand, if personally delivered; when delivered by courier, if delivered by commercial courier service; five (5) business days after being deposited in the mail, postage prepaid, if mailed; and when receipt is mechanically acknowledged, if telecopied.
+
+(b) Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+(c) No Rights to Continued Service. Nothing contained in this Agreement shall be construed as giving the Participant any right to be retained, in any position, as an employee, consultant or director of the Company or its Subsidiaries or shall interfere with or restrict in any way the right of the Company or its Subsidiaries, which are hereby expressly reserved, to remove, terminate or discharge the Participant at any time for any reason whatsoever.
+
+(d) Bound by Plan. By signing this Agreement, the Participant acknowledges that he has received a copy of the Plan and has had an opportunity to review the Plan and agrees to be bound by all the terms and provisions of the Plan.
+
+(e) Successors. The terms of this Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns, and of the Participant and the beneficiaries, executors, administrators, heirs and successors of the Participant.
+
+(f) Entire Agreement. This Agreement and the Plan contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersedes all prior communications, representations and negotiations in respect thereto. No change, modification or waiver of any provision of this Agreement shall be valid unless the same is in writing and signed by the parties hereto. 
+
+3
+
+* * *
+
+(g) Governing Law. This Agreement shall be construed and interpreted in accordance with the laws of the State of Nevada without regard to principles of conflicts of law thereof, or principals of conflicts of laws of any other jurisdiction that could cause the application of the laws of any jurisdiction other than the State of Nevada.
+
+(h) Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+(i) Electronic Signatures. Delivery of a copy of this Agreement bearing an original signature by facsimile transmission (whether directly from one facsimile device to another by means of a dial-up connection or whether mediated by the worldwide web), by electronic mail in “portable document format” (“.pdf”) form, or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing the original signature. “Originally signed” or “original signature” means or refers to a signature that has not been mechanically or electronically reproduced.
+
+[Remainder of page intentionally left blank; signature page to follow]
+
+4
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day first written above.  
+  
+UNITED FUEL & ENERGY CORPORATION  
+  
+  
+  
+  
+  
+By:  /s/ Frank P. Greinke  
+  
+* * *
+
+Frank P. Greinke  
+Chief Executive Officer  
+  
+/s/ William C. Bousema  
+  
+* * *
+
+WILLIAM C. BOUSEMA  
+  
+[Signature page to Restricted Stock Agreement]
+
+5
+
+* * *

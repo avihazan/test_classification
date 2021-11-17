@@ -1,0 +1,954 @@
+  
+
+
+  
+
+
+Exhibit 99.2
+
+
+
+BETWEEN
+
+GREEN PLAINS RENEWABLE ENERGY, INC.
+
+AND
+
+THE PURCHASERS LISTED ON EXHIBIT A
+
+MAY 7, 2008
+
+  
+
+
+  
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+TABLE OF CONTENTS
+
+  
+
+
+Article I Definitions
+
+2
+
+Article II Purchase and Sale of Shares
+
+3
+
+Section 2.1 Sale and Purchase
+
+3
+
+Section 2.2 Closing
+
+3
+
+Section 2.3 Deliveries at Closing
+
+3
+
+Article III Representations and Warranties of Purchasers
+
+3
+
+Section 3.1 Requisite Power and Authority
+
+3
+
+Section 3.2 Investment Representations
+
+3
+
+Article IV Representations and Warranties of Green Plains and Merger Sub
+
+4
+
+Section 4.1 Incorporation of Representations and Warranties Concerning the Merger and Green Plains and Merger Sub
+
+4
+
+Section 4.2 Representations and Warranties Concerning the Purchase and Sale of the Shares
+
+5
+
+Article V Pre-Closing Covenants Relating to the Conduct of Business
+
+5
+
+Section 5.1 Operation of Business
+
+5
+
+Section 5.2 Notice of Changes
+
+6
+
+Article VI Other Agreements and Covenants
+
+6
+
+Section 6.1 Reasonable Best Efforts
+
+6
+
+Section 6.2 Full Access
+
+6
+
+Section 6.3 No Solicitation by Green Plains
+
+6
+
+Section 6.4 Corporate Governance Matters
+
+6
+
+Section 6.5 Nasdaq Listing
+
+6
+
+Section 6.6 Public Announcements
+
+6
+
+Article VII
+
+6
+
+Article VIII Conditions to Obligation to Close
+
+7
+
+Section 8.1 Conditions to Each Party’s Obligations
+
+7
+
+Section 8.2 Conditions to Green Plains’s Obligation
+
+7
+
+Section 8.3 Conditions to Purchaser’s Obligations
+
+7
+
+Section 8.4 Frustration of Closing Conditions
+
+8
+
+Article IX Termination
+
+8
+
+Section 9.1 Termination of Agreement
+
+8
+
+Section 9.2 Effect of Termination
+
+8
+
+Article X Miscellaneous
+
+8
+
+Section 10.1 Nonsurvival of Representations and Warranties
+
+8
+
+Section 10.2 No Third-Party Beneficiaries
+
+8
+
+Section 10.3 Succession and Assignment
+
+9
+
+Section 10.4 Amendment
+
+9
+
+Section 10.5 Waivers
+
+9
+
+Section 10.6 Notices
+
+9
+
+Section 10.7 Expenses
+
+10
+
+Section 10.8 Governing Law
+
+10
+
+Section 10.9 Jurisdiction and Venue
+
+10
+
+Section 10.10 Specific Performance
+
+10
+
+Section 10.11 Severability
+
+10
+
+Section 10.12 Entire Agreement
+
+10
+
+Section 10.13 Headings, etc
+
+10
+
+Section 10.14 Construction
+
+11
+
+Section 10.15 Exculpation Among Purchasers
+
+11
+
+Section 10.16 Counterparts
+
+11
+
+  
+
+
+  
+
+
+  
+  
+
+
+1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+STOCK PURCHASE AGREEMENT
+
+This Stock Purchase Agreement (this “Agreement”) is entered into on May 7, 2008 between Green Plains Renewable Energy, Inc., an Iowa corporation (“Green Plains”), and the purchasers listed on Exhibit A hereto (the “Purchasers”). Green Plains and the Purchasers are referred to collectively herein as the “Parties.”
+
+This Agreement is entered into in connection with a Merger Agreement dated of even date herewith by and among Green Plains, Green Plains Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of Green Plains (“Merger Sub”), and VBV LLC, a Delaware limited liability company (“VBV”). Under the Merger Agreement, Merger Sub will merge with and into VBV, and each outstanding limited liability company interest of VBV will be converted into the right to receive shares of Green Plains’s common stock as specified in the Merger Agreement (the “Merger”). Each of the Purchasers is a member of VBV.
+
+Now, therefore, in consideration of the premises and the mutual promises herein made, and in consideration of the representations, warranties, and covenants herein contained, the Parties agree as follows:
+
+  
+
+
+Article I  
+Definitions
+
+Definitions herein not otherwise defined herein have the meanings ascribed to them in the Merger Agreement. The definitions specified in this Agreement shall apply to capitalized terms in provisions incorporated by reference to the Merger Agreement. 
+
+“Closing” is defined in Section 2.2.
+
+“Majority of the Purchasers” means Purchasers who together are purchasing more than 50% of the Shares reflected on Exhibit A.
+
+“Material Adverse Effect” or “Material Adverse Change” means, when used in connection with Green Plains, any change, development, event, occurrence, effect or state of facts that, individually or in the aggregate with all such other changes, developments, events, occurrences, effects or states of facts is, or is reasonably likely to be, materially adverse to the business, assets, condition (financial or other) or results of operations or business prospects of Green Plains and its Subsidiaries, taken as a whole; provided, that none of the following shall be deemed either alone or in combination to constitute, or be taken into account in determining whether there has been, or is reasonably likely to be, a Material Adverse Change or a Material Adverse Effect: (a) any change, development, event, occurrence, effect or state of facts arising out of or resul ting from (i) capital market conditions generally or general economic conditions, including with respect to interest rates or currency exchange rates, (ii) geopolitical conditions or any outbreak or escalation of hostilities, acts of war or terrorism occurring after the date of this Agreement, (iii) any hurricane, tornado, flood, earthquake or other natural disaster occurring after the date of this Agreement, (iv) any change in applicable law, regulation or GAAP (or authoritative interpretation thereof) which is proposed, approved or enacted after the date of this Agreement, and (v) the announcement and pendency of this Agreement and the transactions contemplated hereby and thereby, including any lawsuit in respect hereof or thereof, compliance with the covenants contained herein or therein, and any loss of or change in relationship with any customer, supplier, distributor or other business partner, or departure of any employee or officer, of such party or any of its Subsidiaries, ex cept, in the cases of clauses (i), (ii), (iii), and (iv), to the extent that Green Plains and its Subsidiaries, taken as a whole, are materially disproportionately affected thereby as compared with other participants in the industries in which such party and its Subsidiaries operate (in which case the incremental disproportionate impact or impacts may be deemed either alone or in combination to constitute, or be taken into account in determining whether there has been, or is reasonably likely to be, a Material Adverse Change or a Material Adverse Effect); (b) any existing event, occurrence or circumstance with respect to which VBV has knowledge as of the date hereof; and (c) any adverse change in or effect on the business of Green Plains and its Subsidiaries that is cured by Green Plains before the earlier of (i) the Closing Date and (ii) the date on which the Merger Agreement is terminated. 
+
+  
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+“Shares” is defined in Section 2.1.
+
+Article II  
+Purchase and Sale of Shares
+
+Section 2.1 Sale and Purchase. Subject to the terms and conditions hereof, at the Closing (as defined below) Green Plains agrees to issue and sell to each Purchaser, severally and not jointly, and each Purchaser agrees to purchase from Green Plains, severally and not jointly, the number of shares (the “Shares”) set forth opposite each Purchaser’s name on Exhibit A at $10.00 per share.
+
+  
+
+
+Section 2.2 Closing. The closing of the sale and purchase of the Shares under this Agreement (the “Closing”) shall take place on the Closing Date of the Merger.
+
+  
+
+
+Section 2.3 Deliveries at Closing. At the Closing, (i) Green Plains will deliver to each Purchaser one or more certificates registered in the name of the Purchaser, or in such nominee name(s) as designated by each Purchaser in writing, representing the number of Shares to be purchased at the Closing by such Purchaser, and (ii) each Purchaser shall deliver to Green Plains by wire transfer of immediately available funds, the purchase price for the Shares purchased. The name(s) in which certificates are to be registered are as set forth on Exhibit A.
+
+  
+
+
+Article III  
+Representations and Warranties of Purchasers 
+
+Each Purchaser hereby represents and warrants to Green Plains, severally and not jointly, as follows:
+
+Section 3.1 Requisite Power and Authority. Such Purchaser that is not a natural person is an entity duly organized, validly existing and in good standing under the laws of its jurisdiction of formation. Such Purchaser has all necessary power and authority to execute and deliver this Agreement. All action on such Purchaser’s part required for the lawful execution and delivery of this Agreement has been or will be effectively taken prior to the Closing. Upon their execution and delivery, this Agreement will be valid and binding obligations of such Purchaser, enforceable in accordance with their terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforce ment of creditors’ rights, and (b) as limited by general principles of equity that restrict the availability of equitable remedies.
+
+Section 3.2 Investment Representations. Such Purchaser understands that none of the Shares has been registered under the Securities Act. Such Purchaser also understands that the Shares are being offered and sold pursuant to an exemption from registration contained in the Securities Act based in part upon Purchaser’s representations contained in the Agreement. Purchaser hereby represents and warrants as follows:
+
+(a)
+
+Purchaser Bears Economic Risk. Such Purchaser has substantial experience in evaluating and investing in private placement transactions of securities in companies similar to Green Plains so that it is capable of evaluating the merits and risks of its investment in Green Plains and has the capacity to protect its own interests. Such Purchaser must bear the economic risk of this investment indefinitely unless the Shares are registered pursuant to the Securities Act, or an exemption from registration is available. Such Purchaser has requested, received, reviewed, and understood all information it deems relevant in making an informed decision to purchase the Shares, including without limitation, the information contained in the Information Documents. 
+
+(b)
+
+Acquisition for Own Account. Such Purchaser is acquiring the Shares and the Conversion Shares for such Purchaser’s own account for investment only, and not with a view towards their distribution.
+
+  
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(c)
+
+Purchaser Can Protect Its Interest. Such Purchaser represents that by reason of its, or of its management’s, business or financial experience or relationship with Green Plains, such Purchaser has the capacity to protect its own interests in connection with the transactions contemplated in this Agreement and the Registration Rights Agreement. 
+
+(d)
+
+Accredited Purchaser. Such purchaser acknowledges that the offering of the Shares pursuant to this Agreement has not been reviewed by the SEC or any state regulatory authority. Such Purchaser represents that it is an “accredited investor” within the meaning of Regulation D under the Securities Act. Such Purchaser has also had the opportunity to ask questions of and receive answers from, Green Plains and its management regarding the terms and conditions of this investment.
+
+(e)
+
+Rule 144. Such Purchaser agrees that the Shares must be held indefinitely unless they are subsequently registered under the Securities Act or an exemption from such registration is available, and such securities will bear a restrictive legend similar to the following:
+
+“The securities represented by this certificate have not been registered under the Securities Act of 1933 (the “Act”) or any state securities laws. They may not be sold, assigned, pledged or otherwise transferred for value unless they are registered under the Act and any applicable state securities laws or the corporation receives an opinion of counsel satisfactory to it, or otherwise satisfies itself, that registration is not required.” 
+
+Such Purchaser has been advised or is aware of the provisions of Rule 144 under the Securities Act as in effect from time to time, which permits limited resale of shares purchased in a private placement subject to the satisfaction of certain conditions, including, among other things: the availability of certain current public information about Green Plains, the resale occurring following the required holding period under Rule 144 and the number of shares being sold during any three-month period not exceeding specified limitations.
+
+(f)
+
+Residence. If the Purchaser is an individual, then the Purchaser resides in the state or province identified in the address of the Purchaser set forth on Exhibit A; if the Purchaser is a partnership, corporation, limited liability company or other entity, then the principal place of business of the Purchaser, or if not the principal place of business, the office or offices in which its investment decision was made, is located at the address or addresses of the Purchaser set forth on Exhibit A.
+
+(g)
+
+Receipt of Information. Such Purchaser has had an opportunity to ask questions and receive answers concerning the business, properties, and financial condition of Green Plains and the terms and conditions of an investment in Green Plains, and has received all information (including projections about Green Plains) that such Purchaser believes is necessary or desirable in connection with an investment in Green Plains. Such Purchaser understands that any projections that it has received are based on numerous important assumptions and that some or all of such assumptions will likely prove to be incorrect and, accordingly, the actual results of Green Plains will vary from the projections and such variations may be material. Such Purchaser has been solely responsible for its own due diligence investigation of Green Plains and its business, for analysis of the merits and risk s of the investment made pursuant to this Agreement and for analysis of the terms of the investment.
+
+  
+
+
+Article IV  
+Representations and Warranties of Green Plains and Merger Sub
+
+Section 4.1 Incorporation of Representations and Warranties Concerning the Merger and Green Plains and Merger Sub. The representations and warranties of Green Plains and Merger Sub in the Merger Agreement, as qualified by the Green Plains Disclosure Schedule, are incorporated into this Agreement and constitute a part of this Agreement as if such representations and warranties were made to the Purchasers.
+
+  
+  
+
+
+4
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 4.2 Representations and Warranties Concerning the Purchase and Sale of the Shares. Except as set forth in the Green Plains Disclosure Schedule, Green Plains represents and warrants to Purchasers as follows:
+
+(a)
+
+Authorization of Transaction. Green Plains has full corporate power and authority to execute and deliver this Agreement and to perform its obligations hereunder. This Agreement constitutes the valid and legally binding obligation of Green Plains, enforceable in accordance with its terms and conditions. The execution, delivery, and performance of this Agreement and all other agreements contemplated hereby have been duly authorized by Green Plains. 
+
+(b)
+
+Non-contravention. Neither the execution and the delivery of this Agreement, nor the consummation of the transactions contemplated hereby, will (i) violate any constitution, statute, regulation, rule, injunction, judgment, order, decree, ruling, charge or other restriction of any Governmental Entity to which Green Plains is subject or any provision of the charter or bylaws of Green Plains or (ii) conflict with, result in a breach of, constitute a default under, result in the acceleration of, create in any party the right to accelerate, terminate, modify, or cancel, or require any notice under any agreement, contract, lease, license, instrument or other arrangement to which Green Plains is a party or by which it is bound or to which any of its assets is subject (or result in the imposition of any Lien upon any of its assets), except where the violation, conflict, breach, default, ac celeration, termination, modification, cancellation, failure to give notice or Lien would not have a Material Adverse Effect. Green Plains need give any notice to, make any filing with, or obtain any authorization, consent, or approval of any Governmental Entity in order for the Parties to consummate the transactions contemplated by this Agreement, except where the failure to give notice, to file, or to obtain any authorization, consent, or approval would not have a Material Adverse Effect. 
+
+(c)
+
+Offering Valid. Assuming the accuracy of the representations and warranties of each Purchaser contained in Article III hereof, the offer, sale, and issuance of the Shares will be exempt from the registration requirements of the Securities Act, and will have been registered or qualified (or are exempt from registration and qualification) under the registration, permit, or qualification requirements of all applicable state securities laws. Neither Green Plains nor any agent on its behalf has solicited or will solicit any offers to sell or has offered to sell or will offer to sell all or any part of the Shares to any person or persons so as to bring the sale of such Shares by Green Plains within the registration provisions of the Securities Act or any state securities laws.
+
+(d)
+
+Integration, Etc. Green Plains has not in the past nor will it hereafter take any action to sell, offer for sale or solicit offers to buy any securities of Green Plains which would bring the offer, issuance or sale of the Shares, as contemplated by this Agreement, within the provisions of Section 5 of the Securities Act. Neither Green Plains nor any of its affiliates (as defined in Rule 501(b) of Regulation D under the Securities Act) has directly, or through any agent, (i) sold, offered for sale, solicited offers to buy or otherwise negotiated in respect of, any “security” (as defined in the Securities Act) which is or could be integrated with the sale of the Shares in a manner that would require the registration under the Securities Act of the Shares or (ii) engaged in any form of general solicitation or general advertising (as those terms are used in Regulation D under the Securities Act) in connection with the offering of the Shares or in any manner involving a public offering within the meaning of Section 4(2) of the Securities Act.
+
+(e)
+
+Brokers’ Fees. Green Plains has no liability or obligation to pay any fees or commissions to any broker, finder or agent with respect to the transactions contemplated by this Agreement.
+
+  
+
+
+  
+
+
+Article V  
+Pre-Closing Covenants Relating to the Conduct of Business
+
+Section 5.1 Operation of Business. The covenants of Green Plains set forth in Section 5.1 of the Merger Agreement, as qualified by Section 5.1 of the Green Plains Disclosure Schedule, are hereby incorporated into this Agreement and form a part of this Agreement.
+
+  
+
+
+  
+  
+
+
+5
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 5.2 Notice of Changes. Green Plains shall promptly advise the Purchasers orally and in writing to the extent it has Knowledge of any material event, development or occurrence that would reasonably be expected to give rise to the failure of a condition set forth in Sections 8.1 or 8.3 of the Merger Agreement. No notification pursuant to this Section 5.2 shall affect the representations, warranties, covenants, or agreements of the parties (or remedies with respect thereto) or the conditions to the obligations of the parties under this Agreement.
+
+  
+
+
+  
+
+
+Article VI  
+Other Agreements and Covenants
+
+Section 6.1 Reasonable Best Efforts. Upon the terms and subject to the conditions set forth in this Agreement, each of the Parties agrees to use its reasonable best efforts to accomplish the following: (i) cause the conditions to Closing to be satisfied as promptly as practicable, (ii) obtain all necessary actions, waivers, consents and approvals from Governmental Entities and make of all necessary registrations and filings (including filings with Governmental Entities, if any) and take all reasonable steps as may be necessary to obtain an approval or waiver from, or to avoid an action or proceeding by any Governmental Entity, and (iii) obtain all necessary consents, approval s or waivers from third parties.
+
+Section 6.2 Full Access. Green Plains shall permit the Purchasers or representatives of the Purchasers, to have full access at all reasonable times, and in a manner so as not to interfere with the normal business operations of Green Plains and its Subsidiaries to their respective properties, personnel, books, records (including Tax records), contracts, and documents of or pertaining thereto. The Purchasers will treat and hold as such any Confidential Information it receives from Green Plains and its Subsidiaries in the course of the reviews contemplated by this Section 6.2, will not use any of the Confidential Information except in connection with this Agreement, and, if this Agreement is terminated for any reason whatsoever, will return to Green Plains and its Subs idiaries all tangible embodiments (and all copies) of the Confidential Information.
+
+Section 6.3 No Solicitation by Green Plains. The covenants of Green Plains set forth in Section 6.5 of the Merger Agreement are hereby incorporated into this Agreement and form a part of this Agreement.
+
+Section 6.4 Corporate Governance Matters. The covenants of Green Plains set forth in Section 6.9 of the Merger Agreement are hereby incorporated into this Agreement and form a part of this Agreement
+
+  
+
+
+Section 6.5 Nasdaq Listing. Green Plains shall use its reasonable best efforts to cause the Shares to be approved for listing on the Nasdaq Global Market, subject to official notice of issuance, as promptly as practicable after the date of this Agreement, and in any event prior to the Closing Date.
+
+Section 6.6 Public Announcements. None of the Parties shall issue a press release or make any public statements with respect to the transactions contemplated by this Agreement, except for a communication approved by Green Plains and VBV as specified in Section 6.11 of the Merger Agreement and except as either party may determine is required by applicable law or by obligations pursuant to any listing agreement with any national securities exchange.
+
+  
+
+
+Article VII  
+
+
+[Reserved]
+
+  
+
+
+  
+  
+
+
+6
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Article VIII  
+Conditions to Obligation to Close
+
+Section 8.1 Conditions to Each Party’s Obligations. The respective obligation of each party to consummate the transactions to be performed by it in connection with the Closing is subject to the completion of the Merger.
+
+Section 8.2 Conditions to Green Plains’s Obligation. 
+
+(a)
+
+Representations and Warranties. The obligation of Green Plains to complete a sale to any individual Purchaser is subject to satisfaction or waiver of the following condition: the representations and warranties set forth in Article III, with respect to the Purchaser, shall be true and correct in all material respects at and as of the Closing Date;
+
+(b)
+
+Lock-up Agreements. The obligation of Green Plains to complete a sale to any of the Purchasers is subject to such Purchasers’ entry into a lock-up agreement with Green Plains, substantially in the form set forth in Exhibit J to the Merger Agreement.
+
+Section 8.3 Conditions to Purchaser’s Obligations. The Purchasers’ obligations to consummate the transactions to be performed by it in connection with the Closing is subject to satisfaction, or waiver by a Majority of the Purchasers, of the following conditions:
+
+(a)
+
+Representations and Warranties. The representations and warranties set forth in Article IV shall be true and correct in all respects at and as of the Closing Date, except for inaccuracies the circumstances giving rise to which, individually or in the aggregate, do not constitute and could not reasonably be expected to result in, a Material Adverse Effect; provided, that to the extent that such representations and warranties are qualified by the term “material” or contain terms such as “Material Adverse Effect” or “Material Adverse Change,” such representations and warranties as so written shall be true and correct in all respects at and as of the Closing Date;
+
+(b)
+
+Performance of Covenants. Green Plains shall have performed and complied with all of its covenants hereunder in all material respects through the Closing; provided, that to the extent that such covenants are qualified by the term “material” or contain terms such as “Material Adverse Effect” or “Material Adverse Change,” Green Plains shall have performed and complied with all of such covenants as so written in all respects through the Closing;
+
+(c)
+
+Material Adverse Change. No Material Adverse Change shall have occurred between the date of the Green Plains’s last-filed periodic report pursuant to the Securities Exchange Act of 1934 and the Closing Date;
+
+(d)
+
+Consents, Permits and Waivers. Green Plains shall have obtained any and all consents, permits and waivers necessary or appropriate for consummation of the transactions contemplated by this Agreement (except for such as may be properly obtained subsequent to the Closing), including without limitation any consents required under the HSR Act.
+
+(e)
+
+Compliance Certificate. Green Plains shall have delivered to the Purchasers a Compliance Certificate, executed by the President of Green Plains, dated the Closing Date, to the effect that the conditions specified in subsections (a) through (d) of this Section 8.3 have been satisfied.
+
+(f)
+
+Secretary’s Certificate. The Purchasers shall have received from the Secretary of Green Plains, a certificate certifying the accuracy and validity of (i) the resolutions approved by the Board of Directors of Green Plains authorizing the transactions contemplated hereby, and (ii) the resolutions, report of the inspector of elections, or other evidence reasonably satisfactory to Purchasers, of the approval of the Merger Agreement and sale of the Shares by the shareholders of Green Plains, and (iii) good standing certificates with respect to Green Plains and each of its Subsidiaries from the applicable authorities in their respective states of incorporation or organization, as applicable, and any other jurisdiction in which Green Plains and any of its Subsidiaries is qualified to do business, dated a recent date before the Closing.
+
+  
+  
+
+
+7
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(g)
+
+Shareholders’ Agreement. Green Plains shall have executed and delivered to Purchasers a Shareholders’ Agreement in substantially the form attached as Exhibit B.
+
+  
+
+
+All actions to be taken by Green Plains in connection with consummation of the transactions contemplated hereby and all certificates, opinions, instruments, and other documents required to effect the transactions contemplated hereby will be reasonably satisfactory in form and substance to Purchasers. 
+
+Section 8.4 Frustration of Closing Conditions. No Party may rely on the failure of any condition set forth in Section 8.1, 8.2 or 8.3, as the case may be, to be satisfied if such failure was caused by such Party’s failure to use its reasonable best efforts to consummate the transactions contemplated by this Agreement as required by and subject to Section 6.1.
+
+  
+
+
+Article IX  
+Termination
+
+Section 9.1 Termination of Agreement. This Agreement may be terminated at any time prior to the Closing Date, whether before or after the Green Plains Shareholder Approval:
+
+(a)
+
+by mutual written consent of Green Plains and Majority of the Purchasers;
+
+(b)
+
+by a Majority of the Purchasers if the Merger Agreement is terminated pursuant to Section 9.1(b) of the Merger Agreement.
+
+(c)
+
+by Green Plains if the Merger Agreement is terminated by Green Plains pursuant to Section 9.1(c) of the Merger Agreement. 
+
+(d)
+
+by Majority of the Purchasers if the Merger Agreement is terminated by VBV pursuant to Section 9.1(d) of the Merger Agreement.
+
+(e)
+
+by a Majority of the Purchasers if the conditions specified in Section 8.3 are not satisfied or waived on or prior to the Closing Date of the Merger.
+
+Section 9.2 Effect of Termination. In the event of termination of this Agreement by either Green Plains or by a Majority of the Purchasers as provided in Section 9.1, this Agreement shall forthwith become void and have no effect, without any liability or obligation on the part of Green Plains or the Purchasers, other than the provisions of this Section 9.2 and Article X, which provisions survive such termination, and except to the extent that such termination results from the willful and material breach by a party of any of its representations, warranties, covenants or agreements set forth in this Agreement.
+
+  
+
+
+  
+
+
+Article X  
+Miscellaneous
+
+Section 10.1 Nonsurvival of Representations and Warranties. None of the representations and warranties in this Agreement or in any instrument delivered pursuant to this Agreement shall survive the Effective Time. This Section 10.1 shall not limit any covenant or agreement of the parties which by its terms contemplates performance after the Closing Date.
+
+Section 10.2 No Third-Party Beneficiaries. This Agreement shall not confer any rights or remedies upon any Person other than the Parties and their respective successors and permitted assigns.
+
+  
+  
+
+
+8
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 10.3 Succession and Assignment. This Agreement shall be binding upon and inure to the benefit of the Parties named herein and their respective successors and permitted assigns. No Party may assign either this Agreement or any of its rights, interests or obligations hereunder without the prior written approval of Green Plains and a Majority of the Purchasers; provided, however, that any Purchaser may (i) assign any or all of its rights and interests hereunder to one or more of its Affiliates or to Wilon Holdings S.A. or its Affiliates, and (ii) designate one or more of its Affiliates or Wilon Holdings S.A. or its Affiliates to perform its obligations hereunder (in any or all of which cases such Purchaser nonetheless shall remain responsible for the performance of all of its obligations hereunder).
+
+Section 10.4 Amendment. This Agreement may be amended by the parties at any time before or after the Green Plains Shareholder Approval; provided, however, that after any such approval, there shall not be made any amendment that by law requires further approval by the shareholders of Green Plains without the further approval of such shareholders. This Agreement may not be amended except by an instrument in writing signed on behalf of each of Green Plains and a Majority of the Purchasers.
+
+Section 10.5 Waivers. At any time prior to the Closing Date, a party may (a) extend the time for the performance of any of the obligations or other acts of the other parties, (b) waive any inaccuracies in the representations and warranties of the other parties contained in this Agreement or in any document delivered pursuant to this Agreement or (c) subject to the proviso of Section 10.4, waive compliance by the other party with any of the agreements or conditions contained in this Agreement. Any agreement on the part of a party to any such extension or waiver shall be valid only if set forth in an instrument in writing signed on behalf of such party. The failure of any party to this Agreement to assert any of its rights und er this Agreement or otherwise shall not constitute a waiver of such rights, nor shall any single or partial exercise by any party to this Agreement of any of its rights under this Agreement preclude any other or further exercise of such rights or any other rights under this Agreement.
+
+Section 10.6 Notices. All notices, requests, demands, claims, and other communications hereunder shall be in writing. Any notice, request, demand, claim, or other communication hereunder shall be deemed duly given (i) when delivered personally to the recipient, (ii) one business day after being sent to the recipient by reputable overnight courier service (charges prepaid), (iii) one business day after being sent to the recipient by facsimile transmission or electronic mail, or (iv) four business days after being mailed to the recipient by certified or registered mail, return receipt requested and postage prepaid, and addressed to the intended recipient as set forth below:
+
+if to Green Plains, to:
+
+with a copy (which shall not constitute effective notice) to:
+
+  
+  
+  
+Green Plains Renewable Energy, Inc.
+
+105 N. 31st Avenue, Suite 103
+
+Omaha, Nebraska 68131
+
+Facsimile No.: (402) 884-8776
+
+Attention: Wayne Hoovestol
+
+Husch Blackwell Sanders LLP
+
+1620 Dodge Street, Suite 2100
+
+Omaha, NE 68102
+
+Facsimile No.: (402) 964-5050
+
+Attention: Michelle S. Mapes, Esq.  
+  
+  
+
+
+and if to Purchasers, to:
+
+  
+
+
+the addresses listed for such Purchasers on Exhibit A hereto 
+
+  
+
+
+with a copy (which shall not constitute effective notice) to:
+
+  
+  
+  
+VBV LLC
+
+One South Dearborn, Suite 800
+
+Chicago, IL 60603
+
+Facsimile No.: (312) 345-1944
+
+Attention: Todd Becker
+
+Stoel Rives LLP
+
+33 South Sixth Street, Suite 4200
+
+Minneapolis, MN 55402
+
+Facsimile No.: (612) 373-8881
+
+Attention: David T. Quinby, Esq.  
+  
+  
+  
+
+
+9
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+  
+  
+  
+Any Party may change the address to which notices, requests, demands, claims, and other communications hereunder are to be delivered by giving the other Parties notice in the manner herein set forth. 
+
+Section 10.7 Expenses. Each of Green Plains and Purchasers will bear its own costs and expenses (including legal fees and expenses) incurred in connection with this Agreement and the transactions contemplated hereby.
+
+Section 10.8 Governing Law. This Agreement shall be governed by and construed in accordance with the domestic laws of the State of Delaware without giving effect to any choice or conflict of law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware; provided, however, that the laws of the state of Iowa shall govern the relative rights, obligations, powers, duties and other internal affairs of Green Plains and its board of directors.
+
+Section 10.9 Jurisdiction and Venue. Each of the Parties irrevocably agrees that any legal action or proceeding arising out of or related to this Agreement or for recognition and enforcement of any judgment in respect hereof brought by any other Party hereto or its successors or assigns may be brought and determined in the state or federal courts located in New Castle County, Delaware, and each of the Parties hereby irrevocably submits to the exclusive jurisdiction of the aforesaid courts for itself and with respect to its property, unconditionally, with regard to any such action or proceeding arising out of or relating to this Agreement and the transactions contemplated hereby (and agrees not to commence any action, suit or proceeding relating thereto except in such courts). Each of the Parties agrees further to accept service of process in any manner permitted by such court. Each of the parties hereby irrevocably and unconditionally waives, and agrees not to assert, by way of motion or as a defense, counterclaim or otherwise, in any action or proceeding arising out of or related to this Agreement or the transactions contemplated hereby, (a) any claim that it is not personally subject to the jurisdiction of the above-referenced courts for any reason other than the failure lawfully to serve process, (b) that it or its property is exempt or immune from jurisdiction of such courts or from any legal process commenced therein, and (c) to the fullest extent permitted by law, that (i) the suit, action or proceeding in such court is brought in an inconvenient forum, (ii) the venue of such suit, action or proceeding is improper, or (iii) this Agreement, or the subject matter hereof, may not be enfo rced in or by such court. The exclusive choice of forum set forth herein shall not be deemed to preclude the enforcement of any judgment obtained in such forum or the taking of any action under this Agreement to enforce such judgment in any appropriate jurisdiction.
+
+Section 10.10 Specific Performance. The Parties agree that irreparable damage would occur and that the Parties would not have any adequate remedy at law in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the Parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to enforce specifically the terms and provisions of this Agreement in the state or federal courts located in New Castle County, Delaware, in addition to any other remedy to which they are entitled at law or in equity.
+
+Section 10.11 Severability. Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction shall not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction.
+
+Section 10.12 Entire Agreement. This Agreement (including the exhibits, annexes, and schedules referred to herein) constitutes the entire agreement among the Parties and supersedes any prior understandings, agreements, or representations by or among the Parties, written or oral, to the extent they relate in any way to the subject matter hereof.
+
+Section 10.13 Headings, etc. The section headings contained in this Agreement are inserted for convenience only and shall not affect in any way the meaning or interpretation of this Agreement. Any reference to any federal, state, local, or foreign statute or law shall be deemed also to refer to all rules and regulations promulgated thereunder, unless the context requires otherwise. The word “including” shall mean including without limitation.
+
+  
+  
+
+
+10
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 10.14 Construction. The Parties have participated jointly in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the Parties and no presumption or burden of proof shall arise favoring or disfavoring any Party by virtue of the authorship of any of the provisions of this Agreement.
+
+Section 10.15 Exculpation Among Purchasers. Each Purchaser acknowledges that it is not relying upon any person, firm, or corporation, other than Green Plains and its officers and directors, in making its investment or decision to invest in Green Plains. Each Purchaser agrees that no Purchaser nor the respective controlling persons, officers, directors, partners, agents, or employees of any Purchaser shall be liable to any other Purchaser for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the Shares and Conversion Shares.
+
+Section 10.16 Counterparts. This Agreement may be executed in one or more counterparts (including by means of facsimile), each of which shall be deemed an original but all of which together will constitute one and the same instrument.
+
+  
+
+
+  
+
+
+  
+
+
+[Signature Page Follows]
+
+  
+
+
+  
+  
+
+
+11
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Stock Purchase Agreement on the date first above written.  
+  
+GREEN PLAINS RENEWABLE ENERGY, INC.  
+  
+By: 
+
+/s/ Wayne Hoovestol  
+  
+Name:
+
+Wayne Hoovestol  
+  
+Title: 
+
+Chief Executive Officer  
+  
+BIOVERDA INTERNATIONAL 
+
+HOLDINGS LIMITED  
+  
+By:  /s/ James Barry  
+  
+Name: 
+
+James Barry  
+  
+Title: 
+
+Director  
+  
+BIOVERDA US HOLDINGS LLC  
+  
+By: 
+
+/s/ Michael King  
+  
+Name: 
+
+Michael King  
+  
+Title: 
+
+Director  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+12
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Exhibit A
+
+Schedule of Purchasers  
+  
+Name and Address
+
+$ Investment
+
+Shares  
+  
+Bioverda International Holdings Limited
+
+Burton Court 
+
+Burton Hall Road 
+
+Dublin 8 
+
+IRELAND 
+
+Attention: Dave Geary, Director 
+
+Facsimile: +353 1 206 3742 
+
+$54,000,000
+
+5,400,000  
+  
+Bioverda US Holdings LLC
+
+One South Dearborn Street 
+
+Suite 800 
+
+Chicago, IL 60603 
+
+Attention: Dave Geary, Manager 
+
+Facsimile: (312) 345-1944 
+
+$6,000,000
+
+600,000  
+  
+Total:
+
+$60,000,000
+
+6,000,000  
+  
+  
+
+
+  
+  
+
+
+13
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Exhibit B
+
+Form of Shareholders’ Agreement
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+14
+
+  
+

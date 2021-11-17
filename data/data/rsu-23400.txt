@@ -1,0 +1,156 @@
+Exhibit 10.2
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”) is made as of the day of , 2012 (the “Effective Date”), between Carbon Natural Gas Company, a Delaware corporation (the “Company”), and (the “Employee”).
+
+1. Award. Pursuant to the Carbon Natural Gas Company 2011 Stock Incentive Plan, as amended (the “Plan”) and effective as of the Effective Date,  shares of the Company’s common stock, par value $0.01 per share (the “Restricted Stock Shares”), are being issued in the Employee’s name subject to certain restrictions thereon. The Restricted Stock Shares are being issued in consideration of services that the Employee has performed for the Company in 2011 and services to be provided to the Company in the future. The Restricted Stock Shares are being issued subject to acceptance of this Agreement by the Employee and satisfaction of the conditions of this Agreement. This award of Restricted Stock Shares is subject to all of the terms and provisions of the Plan, including future amendments thereto, if any. For paper copies of the Plan please contact Carbon Natural Gas Company, 1700 Broadway, Suite 1170, Denver, CO 80290, or call 720-407-7043. In the event of any conflict between the terms of this Agreement and the Plan, the Plan shall control.
+
+2. Restricted Stock. The Employee hereby accepts the Restricted Stock Shares and agrees as follows:
+
+(a) Forfeiture Restrictions. The Restricted Stock Shares may not be sold, assigned, pledged, exchanged, hypothecated or otherwise transferred, encumbered or disposed of to the extent then subject to the Forfeiture Restrictions (as hereinafter defined), and in the event of termination of the Employee’s employment with the Company for any reason other than death, Disability, or Involuntary Termination (as such terms are hereinafter defined), the Employee shall, for no consideration, forfeit to the Company all Restricted Stock Shares to the extent then subject to the Forfeiture Restrictions. The prohibition against transfer and the obligation to forfeit and surrender Restricted Stock Shares to the Company upon termination of employment are herein referred to as the “Forfeiture Restrictions.” The Forfeiture Restrictions shall be binding upon and enforceable against any transferee of Restricted Stock Shares. For purposes of this Agreement, the following capitalized words and terms shall have the meanings indicated below:
+
+(i) “Change in Control” means the occurrence of:
+
+(A) the acquisition within any 12-month period by any “Person” (as the term person is used for purposes of Section 13(d) or 14(d) of the Exchange Act), immediately after which such Person has “Beneficial Ownership” (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of thirty percent (30%) or more of the total voting power of the then outstanding stock of the Company entitled to vote generally in the election of directors, but excluding the following transactions (the “Excluded Acquisitions”):
+
+(1) any acquisition directly from the Company (other than an acquisition by virtue of the exercise of a conversion privilege of a security that was not acquired directly from the Company),
+
+(2) any acquisition by the Company, and
+
+(3) any acquisition by an employee benefit plan (or related trust) sponsored or maintained by the Company;
+
+(B) a change in the composition of the Board such that at any time during a period of 12 months or less, individuals who at the beginning of such period constitute the Board (and any new directors whose election by the Board or nomination for election by the Company’s stockholders was approved by a vote of at least a majority of the directors then still in office who either were directors at the beginning of the period or whose election or nomination for election was so approved) cease for any reason to constitute a majority thereof;
+
+1
+
+* * *
+
+  
+
+
+(C) an acquisition (other than an Excluded Acquisition) by any Person of fifty percent (50%) or more of the voting power or value of the Company’s stock;
+
+(D) the consummation of a merger, consolidation, reorganization or similar corporate transaction, whether or not the Company is the surviving company in such transaction, other than a merger, consolidation, or reorganization that would result in the Persons who are Beneficial Owners of the Company’s stock outstanding immediately prior thereto continuing to Beneficially Own, directly or indirectly, in substantially the same proportions, at least fifty percent (50%) of the combined voting power or value of the Company’s stock (or the stock of the surviving entity) outstanding immediately after such merger, consolidation or reorganization; or
+
+(E) the sale or other disposition during any 12 month period of all or substantially all of the assets of the Company, provided that such sale is of assets having a total gross fair market value equal to or greater than forty percent (40%) of the total gross fair market value of the assets of the Company immediately prior to such sale or disposition.
+
+The foregoing definition of “Change in Control” is intended to comply with the requirements of Section 409A of the Code and the guidance issued thereunder and shall be interpreted and applied by the Committee in a manner consistent therewith.
+
+(ii) “Disability” means disability as determined by the Committee in accordance with Section 22(e)(3) of the Code.
+
+(iii) “Fair Market Value” has the meaning provided in the Plan.
+
+(iv) “Involuntary Termination” means any termination of the Employee’s employment with the Company (including, if the Employee is party to a written employment agreement with the Company, a good reason termination in accordance with the terms and conditions of such written employment agreement) which does not result from a resignation by the Employee; provided, however, that the term “Involuntary Termination” shall not include a termination as a result of death, Disability, or a termination of the Employee’s employment by the Company (or its subsidiaries) by reason of the Employee’s unsatisfactory performance of his duties, to be determined by the Company in its sole discretion, or final conviction of (A) a misdemeanor involving money or property of the Company or which detrimentally affects the Company or its business or (B) a felony.
+
+(v) “Section 16 Person” shall mean an officer, director or affiliate of the Company or a former officer, director or affiliate of the Company who is subject to section 16 of the Securities Exchange Act of 1934, as amended.
+
+(b) Lapse of Forfeiture Restrictions. The Forfeiture Restrictions shall lapse as to the Restricted Stock Shares in accordance with the following schedule provided that the Employee has been continuously employed by the Company from the date of this Agreement through the lapse date:
+
+Lapse Date
+
+Percentage of Total Number of  
+Restricted Stock Shares as to  
+Which Forfeiture Restrictions Lapse  
+  
+First Anniversary of the Award
+
+One-third of the Restricted Stock Shares  
+  
+Second Anniversary of the Award
+
+One-third of the Restricted Stock Shares  
+  
+Third Anniversary of the Award
+
+One-third of the Restricted Stock Shares  
+  
+2
+
+* * *
+
+  
+
+
+Notwithstanding the foregoing, the Forfeiture Restrictions shall lapse as to all of the Restricted Stock Shares then subject to the Forfeiture Restrictions on the first to occur of (i) the date of a Change in Control provided that the Employee has been continuously employed by the Company from the date of this Agreement to the date of such Change in Control or (ii) the date the Employee’s employment with the Company is terminated by reason of death, Disability, or Involuntary Termination.
+
+(c) Certificates. A certificate evidencing the Restricted Stock Shares shall be issued by the Company in the Employee’s name, pursuant to which Employee shall have all of the rights of a stockholder of the Company with respect to the Restricted Stock Shares, including, without limitation, voting rights and, subject to section 2(d), the right to receive dividends; provided, however, that dividends paid in shares of the Company’s stock shall be subject to the Forfeiture Restrictions. The Employee may not sell, transfer, pledge, exchange, hypothecate or otherwise dispose of the Restricted Stock Shares until the Forfeiture Restrictions have expired; a breach of the terms of this Agreement shall cause a forfeiture of the Restricted Stock Shares. The Company, in its discretion, may elect to complete the delivery of the Restricted Stock Shares by means of an electronic, book-entry statement, instead of issuing physical share certificates.
+
+Certificates, if any, shall be delivered upon issuance to the Secretary of the Company or to such other depository as may be designated by the Committee as a depository for safekeeping until the forfeiture of such Restricted Stock Shares occurs or the Forfeiture Restrictions lapse pursuant to the terms of the Plan and this Agreement. Upon the lapse of the Forfeiture Restrictions, the Company shall cause a new certificate or certificates to be issued without legend (except for any legend required pursuant to applicable securities laws or any other agreement to which the Employee is a party) in the name of the Employee in exchange for the certificate evidencing the Restricted Stock Shares, or, as may be the case, it shall issue appropriate instructions to the transfer agent if the electronic, book-entry method is utilized. In any event, the Company, in its discretion, may elect to deliver the shares in certificate form or electronically to a brokerage account established for the Employee’s benefit at a brokerage financial institution selected by the Company. At the Company’s request, the Employee shall deliver to the Company a stock power, endorsed in blank, relating to the Restricted Stock Shares and the Employee agrees to complete and sign any other documents and take additional action that the Company may request to enable it to deliver the Restricted Stock Shares on the Employee’s behalf.
+
+(d) Treatment of Dividends. Any dividends declared or paid on the Restricted Stock Shares shall be (i) deferred until the lapsing of the Forfeiture Restrictions applicable to such Shares and (b) held by the Company for the account of the Employee until such time. The Committee shall determine whether such dividends are to be reinvested in shares (which shall be held as additional Restricted Stock Shares) or held in cash. If deferred dividends are to be held in cash, there may be credited at the end of each year (or portion thereof) interest on the amount of the account at a rate per annum as the Committee, in its discretion, may determine. Payment of deferred dividends in respect of the Restricted Stock Shares (whether held in cash or as additional Restricted Stock Shares), together with interest accrued thereon, if any, shall be made upon the lapsing of the Forfeiture Restrictions applicable to the Restricted Stock Shares in respect of which the deferred dividends were paid, and any dividends deferred (together with any interest accrued thereon) in respect of any of the Restricted Stock Shares shall be forfeited upon the forfeiture of such shares.
+
+(e) Corporate Acts. The existence of the Restricted Stock Shares shall not affect in any way the right or power of the Board or the stockholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, any merger or consolidation of the Company, any issue of debt or equity securities, the dissolution or liquidation of the Company or any sale, lease, exchange or other disposition of all or any part of its assets or business or any other corporate act or proceeding. The prohibitions of Section 2(a) hereof shall not apply to the transfer of Restricted Stock Shares pursuant to a plan of reorganization of the Company, but the stock, securities or other property received in exchange therefor shall also become subject to the Forfeiture Restrictions and provisions governing the lapsing of such Forfeiture Restrictions applicable to the original Restricted Stock Shares for all purposes of this Agreement and the certificates representing such stock, securities or other property shall be legended to show such restrictions.
+
+3. Withholding of Tax. To the extent that the receipt of the Restricted Stock Shares or the lapse of any Forfeiture Restrictions results in compensation income or wages to the Employee for federal or state income tax purposes, the Employee shall deliver to the Company at the time of such receipt or lapse, as the case may be, such
+
+3
+
+* * *
+
+  
+
+
+amount of money as the Company may require to meet its obligation under applicable tax laws or regulations. The Employee may elect with respect to this Agreement to surrender or authorize the Company to withhold shares of stock of the Company (valued at their Fair Market Value on the date of surrender or withholding of such shares) to satisfy any tax required to be withheld by reason of compensation income or wages resulting under this Agreement. An election pursuant to the preceding sentence shall be referred to herein as a “Stock Withholding Election” and the Company retains the right to impose conditions on the Employee’s rights regarding any Stock Withholding Election. All Stock Withholding Elections shall be made by written notice to the Company at its principal executive office addressed to the attention of the Secretary. If the Employee is not a Section 16 Person, the Employee may revoke such election by delivering to the Secretary written notice of such revocation prior to the date such election is implemented through actual surrender or withholding of shares of stock of the Company (the “Withholding Date”). If the Employee is a Section 16 Person, the Stock Withholding Election must:
+
+(a) be irrevocable and made six months prior to the Withholding Date, or
+
+(b) (i) be approved by the Committee, either before or after such election is made, (ii) be made, and the Withholding Date occur, during a period beginning on the third business day following the date of release by the Company for publication of quarterly and annual summary statements of sales and earnings and ending on the twelfth business day following such date, and (iii) be made more than six months after the effective date of this Agreement.
+
+If the Employee fails to pay the required amount to the Company or fails to make a Stock Withholding Election, the Company is authorized to withhold from any cash remuneration (or, if the Employee is not a Section 16 Person, stock remuneration, including withholding any Restricted Stock Shares distributable to the Employee under this Agreement) then or thereafter payable to the Employee any tax required to be withheld by reason of compensation income or wages resulting under this Agreement or the disposition of Restricted Stock Shares acquired under this Agreement.
+
+4. Tax Consequences. The Employee has reviewed with the Employee’s own tax advisors the federal, state, local and foreign tax consequences of the grant of Restricted Stock Shares and the transactions contemplated by this Restricted Stock Agreement. The Employee is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Employee understands that the Employee (and not the Company) shall be responsible for any tax liability that may arise as a result of the transactions contemplated by this Restricted Stock Agreement. The Employee understands that Section 83 of the Code, taxes as ordinary income the difference between the purchase price for any restricted property (such as the Restricted Stock Shares granted hereunder) and the fair market value of the Restricted Stock Shares as of the date the Forfeiture Restrictions applicable to the Restricted Stock Shares lapse. The Employee understands that the Employee may elect to be taxed at the time the Restricted Stock Shares are granted rather than when and as the Forfeiture Restrictions lapse by filing an election under Code Section 83(b) with the Internal Revenue Service within 30 days from the date of grant of the Restricted Stock Shares. The Employee acknowledges that it is the Employee’s sole responsibility, and not the Company’s, to file a timely election under Code Section 83(b), even if the Employee requests the Company or its representatives to make this filing on his or her behalf.
+
+5. Status of Stock. The Employee agrees that the Restricted Stock Shares issued under this Agreement will not be sold or otherwise disposed of in any manner which would constitute a violation of any applicable federal or state securities laws. The Employee also agrees that certificates, if any, representing the Restricted Stock Shares shall bear the following restrictive legends in order to reflect the Forfeiture Restrictions and to assure compliance with applicable securities laws,
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER UNITED STATES FEDERAL OR STATE SECURITIES LAWS AND MAY NOT BE OFFERED FOR SALE, SOLD OR OTHERWISE TRANSFERRED OR ASSIGNED FOR VALUE, DIRECTLY OR INDIRECTLY, NOR MAY THE SECURITIES BE TRANSFERRED ON THE BOOKS OF THE COMPANY, WITHOUT REGISTRATION OF SUCH SECURITIES UNDER ALL APPLICABLE UNITED STATES FEDERAL AND STATE SECURITIES LAWS OR COMPLIANCE WITH AN APPLICABLE EXEMPTION THEREFROM, SUCH COMPLIANCE, AT THE OPTION OF THE COMPANY, TO BE EVIDENCED BY AN OPINION OF
+
+4
+
+* * *
+
+  
+
+
+STOCKHOLDER’S COUNSEL, IN A FORM ACCEPTABLE TO THE COMPANY, THAT NO VIOLATION OF SUCH REGISTRATION PROVISIONS WOULD RESULT FROM ANY PROPOSED TRANSFER OR ASSIGNMENT.
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO FORFEITURE AND TRANSFER RESTRICTION PROVISIONS AS CONTAINED IN A RESTRICTED STOCK AGREEMENT BY AND BETWEEN THE COMPANY AND [ ] DATED [ ].
+
+The Employee further agrees that (i) the Company may refuse to register the transfer of the Restricted Stock Shares on the stock transfer records of the Company if such proposed transfer would constitute a violation of the Forfeiture Restrictions or, in the opinion of counsel satisfactory to the Company, of any applicable securities law, and (ii) the Company may give related instructions to its transfer agent, if any, to stop registration of the transfer of the Restricted Stock Shares.
+
+6. Employment Relationship. For purposes of this Agreement, the Employee shall be considered to be in the employment of the Company as long as the Employee remains an employee of either the Company or a Subsidiary (as such term is defined in the Plan). Without limiting the scope of the preceding sentence, it is expressly provided that the Employee shall be considered to have terminated employment with the Company at the time of the termination of the “Subsidiary” status under the Plan of the entity or other organization that employs the Employee. Nothing in this Agreement, the Plan or the award of any Restricted Stock Shares thereunder, shall confer upon the Employee the right to continued employment by the Company or affect in any way the right of the Company to terminate such employment at any time. Unless otherwise provided in a written employment agreement or by applicable law, the Employee’s employment by the Company shall be on an at-will basis, and the employment relationship may be terminated at any time by either the Employee or the Company for any reason (or no reason at all), with or without cause. Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee, and its determination shall be final.
+
+7. Notices. Any notices or other communications provided for in this Agreement shall be sufficient if in writing. In the case of the Employee, such notices or communications shall be effectively delivered if hand delivered to the Employee at his principal place of employment or if sent by registered or certified mail to the Employee at the last address the Employee has filed with the Company. In the case of the Company, such notices or communications shall be effectively delivered if sent by registered or certified mail to the Company at its principal executive offices.
+
+8. Parachute Payment. In the event that the receipt of the Restricted Stock Shares or the lapse of any Forfeiture Restrictions would constitute a parachute payment (within the meaning of section 280G of the Code) at a time when the Employee’s severance agreement, if any, with the Company that is in effect as of the date hereof (or any successor agreement) is in effect, then the amount of such parachute payment shall be treated as a payment to the Employee for purposes of determining the amount of any gross-up payment to be made to the Employee under the terms of any such severance agreement (or any successor agreement) with respect to the excise tax imposed by Section 4999 of the Code.
+
+9. Entire Agreement; Amendment. This Agreement replaces and merges all previous agreements and discussions relating to the same or similar subject matters between the Employee and the Company and constitutes the entire agreement between the Employee and the Company with respect to the subject matter of this Agreement. This Agreement may not be modified in any respect by any verbal statement, representation or agreement made by any employee, officer, or representative of the Company or by any written agreement unless signed by an officer of the Company authorized to execute such document. Except as provided below, any modification of this Agreement shall be effective only if it is in writing and signed by both the Employee and an authorized officer of the Company.
+
+10. Binding Effect. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under the Employee.
+
+11. Controlling Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware.
+
+5
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be duly executed by an officer thereunto duly authorized, and the Employee has executed this Agreement, all as of the date first above written.
+
+CARBON NATURAL GAS COMPANY  
+  
+By:  
+  
+Patrick R. McDonald,   
+  
+Chief Executive Officer  
+  
+EMPLOYEE  
+  
+SS#:  
+  
+6
+
+* * *

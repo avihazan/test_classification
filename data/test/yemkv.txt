@@ -1,0 +1,279 @@
+##### 
+
+Exhibit 10.3  
+
+
+
+
+This Option Agreement (“Option Agreement”) is made as of the 30th day of March, 2007 (the “Effective Date”), by and between ReGen Biologics, Inc., a Delaware corporation (hereinafter referred to as the “Company”), and the undersigned investor (together with its successors and permitted assigns, the “Holder”). 
+
+RECITALS
+
+WHEREAS, in order to induce the Holder to enter into that certain Subscription Agreement between the Company and the Holder dated as of March 30, 2007 (the “Subscription Agreement”), the parties have entered into this Option Agreement granting to the Holder an option to purchase, pursuant to the terms and conditions set forth herein, the Option Shares (as hereinafter defined); 
+
+NOW, THEREFORE, BE IT RESOLVED, in consideration of the mutual covenants expressed herein and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the parties agree as follows: 
+
+AGREEMENT
+
+1. GRANT AND VESTING OF OPTION.  
+  
+(a) Grant. Subject to the terms hereof, the Company hereby grants to the Holder the option (the “Option”) to purchase from the Company such number of shares (the “Option Shares”) of : (i) the Company’s Series D Convertible Preferred Stock, $0.01 par value per share (the “Preferred Stock”), equal to the number of shares purchased by the Holder pursuant to the Subscription Agreement; or (ii) if the Preferred Stock has been converted to shares of the Company’s Common Stock, $0.01 par value per share (the “Common Stock”) pursuant to paragraph 7(a) of the Company’s Certificate of Designations, Preferences and Rights of Series D Convertible Preferred Stock (the “Mandatory Conversion”), such number of shares of Common Stock equal to the number of shares of Common Stock such Holder would have been entitled to receive upon conversion of the Preferred Stock such Holder purchased pursuant to the Subscription Agreement.  
+(b) Vesting. The Holder may exercise this Option upon, and not later than fifteen (15) calendar days following, the Company’s public announcement of receipt of Food and Drug Administration clearance of the Company’s collagen scaffold device as a class II device (the last date of such 15-day period, the “Expiration Date”). In no event shall this Option be exercised later than the Termination Date provided for below.  
+  
+* * *
+
+##### 
+
+(c) Exercise Price. The “Exercise Price” (which shall be subject to adjustment whenever there shall occur a stock split, combination, reclassification or other similar event involving the Preferred Stock or the Common Stock, as applicable) shall be (i) $42.00 per share of Preferred Stock or (ii) if applicable pursuant to Paragraph 1(a)(ii) of this Option Agreement, $0.42 per share of Common Stock.  
+(d) Term. The Option shall terminate upon the earlier of (i) the Expiration Date, (ii) December 31, 2007 (the “Termination Date”) and (iii) partial exercise as provided by Section 2 below.  
+  
+2. EXERCISE OF OPTION. In order to exercise the Option, the Holder must present at the Company’s principal executive offices the following:  
+  
+(a) the original Option Agreement together with a fully executed Option Exercise Form in the form attached hereto and made a part hereof as Exhibit A, including the representation to the Company that all of the representations and warranties made by the Holder in Section 6(b) of this Option Agreement are true and correct on the date of exercise; and  
+(b) a certified or bank cashier’s check payable to the Company or a wire transfer of immediately available funds in the amount of the product of the Option Shares to be exercised and the Exercise Price (such amount, the “Exercise Amount”).  
+The Company shall promptly thereafter deliver, or cause to be delivered, to the Holder certificates for the number of Option Shares being purchased. If the Holder elects to exercise the Option for less than all of the Options Shares subject hereto, the option to purchase the remainder of the Option Shares shall immediately terminate.  
+  
+3. TRANSFER. This Option may not be transferred or assigned in any manner, without the consent of the Company in its sole and absolute discretion.  
+4. RIGHTS AND OBLIGATIONS OF THE HOLDER. The Holder shall not, by virtue hereof, be entitled to any rights as a stockholder in the Company, either at law or in equity; provided, however, in the event that any certificate representing Option Shares is issued to the Holder upon exercise of some or all of the Option, the Holder shall, for all purposes, be deemed to have become the holder of record of such Option Shares on the date on which full payment of the Exercise Amount was made, irrespective of the date of delivery of the certificate representing such Option Shares. The rights of the Holder are limited to those expressed herein.  
+5. REGISTRATION RIGHTS. The Holder shall have the following registration rights with respect to the Option Shares:  
+  
+(a) Required Registration. Following the Mandatory Conversion, the Company agrees to register the resale of the Option Shares by filing a  
+  
+-2-
+
+* * *
+
+##### 
+
+Registration Statement on Form S-1 or on any other form for which the Company then qualifies and is available (the “Registration Statement”) with the SEC within the earlier of (i) thirty (30) calendar days after the filing of the Company’s Form 10-K for the prior fiscal year or (ii) ninety (90) calendar days after the Expiration Date, or registering such Option Shares on any Registration Statement filed by the Company. The Company shall subsequently use commercially reasonable efforts to cause the SEC to declare the Registration Statement effective as soon as possible. The Company shall thereafter maintain the effectiveness of the Registration Statement until the earlier of (a) the date on which all the Option Shares have been sold pursuant to the Registration Statement or Rule 144 promulgated under the Securities Act (“Rule 144”), (b) such time as the Company reasonably determines, based on an opinion of counsel, that all of the holders of options granted contemporaneously with the Option will be eligible to sell under Rule 144 all of the Option Shares then owned by such holders within the volume limitations imposed by paragraph (e) of Rule 144 in the three (3) month period immediately following the termination of the effectiveness of the Registration Statement, and (c) the first anniversary of the date the Registration Statement was declared effective by the SEC. The Registration Statement filed pursuant to this Section 5(a) may include other securities of the Company that are held by individuals, partnerships, corporations, business trusts, joint stock companies, estates, trusts, unincorporated associations, joint ventures or other entities who, by virtue of agreements with the Company, are entitled to similar registration rights. 
+
+(b) Registration Procedures.  
+  
+i. In case of the Registration Statement effected by the Company subject to this Section 5, the Company shall keep the Holder advised in writing as to the initiation of such registration, and as to the completion thereof. In addition, subject to Section 5(a) above, the Company shall, to the extent applicable to the Registration Statement:  
+  
+a) prepare and file with the SEC such amendments and supplements to the Registration Statement as may be necessary to keep such registration continuously effective and free from any material misstatement or omission necessary to make the statements therein, in light of the circumstances, not misleading, and comply with provisions of the Securities Act with respect to the disposition of all securities covered thereby during the period referred to in Section 5(a);  
+b) update, correct, amend and supplement the Registration Statement as necessary;  
+  
+-3-
+
+* * *
+
+##### 
+
+c) notify the Holder promptly when the Registration Statement is declared effective by the SEC, and furnish such number of prospectuses, including preliminary prospectuses, and other documents incident thereto as Holder may reasonably request from time to time;  
+d) use its commercially reasonable efforts to register or qualify such Option Shares under such other securities or blue sky laws of such jurisdictions of the United States where an exemption is not available and as Holder may reasonably request to enable it to consummate the disposition in such jurisdiction of the Option Shares (provided that the Company will not be required to (A) qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify but for this provision, or (B) consent to general service of process in any such jurisdiction, or (C) subject itself to taxation in any jurisdiction where it is not already subject to taxation);  
+e) notify Holder at any time when a prospectus relating to the Option Shares is required to be delivered under the Securities Act, of the happening of any event as a result of which the prospectus included in the Registration Statement contains an untrue statement of a material fact or omits any fact necessary to make the statements therein not misleading and, subject to Section 5(a), the Company will prepare a supplement or amendment to such prospectus, so that, as thereafter delivered to purchasers of such shares, such prospectus will not contain any untrue statements of a material fact or omit to state any fact necessary to make the statements therein, in light of the circumstances under which they were made, not misleading;  
+f) cause all such Option Shares to be listed on each securities exchange on which similar securities issued by the Company are then listed and obtain all necessary approvals for trading thereon;  
+g) provide a transfer agent and registrar for all such Option Shares not later than the effective date of the Registration Statement;  
+h) upon the sale of any Option Shares pursuant to the Registration Statement, direct the transfer agent to remove all restrictive legends from all certificates or other instruments evidencing the Option Shares;  
+i) With a view to making available to the Holder the benefits of certain rules and regulations of the SEC that at any time  
+  
+-4-
+
+* * *
+
+##### 
+
+permit the sale of the Option Shares to the public without registration, so long as any Option Shares are outstanding, the Company shall use its commercially reasonable efforts for a period of two years following the Effective Date: 
+
+(1) to make and keep public information available, as those terms are understood and defined in Rule 144(c) under the Securities Act;  
+(2) to file with the SEC in a timely manner all reports and other documents required of the Company under the Exchange Act; and  
+(3) to furnish to the Holder upon any reasonable request a written statement by the Company as to its compliance with the public information requirements of Rule 144(c) under the Securities Act; and  
+  
+j) To advise the Holder promptly after it has received notice or obtained knowledge of the existence of any stop order by the SEC delaying or suspending the effectiveness of the Registration Statement or of the initiation or threat of any proceeding for that purpose, and to make every commercially reasonable effort to obtain the withdrawal of any order suspending the effectiveness of the Registration Statement at the earliest possible time.  
+  
+ii. Notwithstanding anything stated or implied to the contrary in Section 5(b)(i) above, the Company shall not be required to consent to any underwritten offering of the Option Shares or to any specific underwriter participating in any underwritten public offering of the Option Shares.  
+iii. Each Holder agrees that upon receipt of any notice from the Company of the happening of any event of the kind described in Section 5(b)(i)(e), and subject to Section 5(d), such Holder will forthwith discontinue such Holder’s disposition of Option Shares pursuant to the registration statement relating to such Option Shares until such Holder’s receipt of the copies of the supplemented or amended prospectus contemplated by Section 5(b)(i)(e) and, if so directed by the Company, will deliver to the Company at the Company’s expense all copies, other than permanent file copies, then in such Holder’s possession, of the prospectus relating to such Option Shares current at the time of receipt of such notice.  
+iv. Except as required by law, all expenses incurred by the Company in complying with this Section 5, including but not limited to, all registration, qualification and filing fees, printing expenses, fees   
+  
+-5-
+
+* * *
+
+##### 
+
+and disbursements of counsel and accountants for the Company, blue sky fees and expenses (including fees and disbursements of counsel related to all blue sky matters) incurred in connection with any registration, qualification or compliance pursuant to this Section 5 shall be borne by the Company. All underwriting discounts and selling commissions applicable to a sale incurred in connection with any registration of Option Shares and the legal fees and other expenses of a Holder shall be borne by such Holder. 
+
+(c) Further Information. If Option Shares owned by a Holder are included in any registration, such Holder shall furnish the Company such information regarding itself as the Company may reasonably request and as shall be required in connection with any registration (or amendment or supplement thereto), referred to in this Agreement, and Holder shall indemnify the Company with respect thereto in accordance with Section 9 hereof. The Holder hereby represents and warrants to the Company that it has accurately and completely provided the requested information and answered questions (a) through (i) on the signature pages of the Subscription Agreement, and the Holder agrees and acknowledges that the Company may rely on such information as being true and correct for purposes of preparing and filing the Registration Statement at the time of filing thereof and at the time it is declared effective, unless the Holder has notified the Company in writing to the contrary prior to such time.  
+(d) Right of Suspension.  
+  
+i. Notwithstanding any other provision of this Agreement or any related agreement to the contrary, the Company shall have the right, at any time, to suspend the effectiveness of the Registration Statement and offers and sales of the Option Shares pursuant thereto whenever, in the good faith judgment of the Company, (i) continuing such effectiveness or permitting such offers and sales could reasonably be expected to have an adverse effect upon the Company’s ability to raise additional funds pursuant to one or more private placements of shares of the Company or any debt securities of the Company, a proposed sale of all or substantially all of the assets of the Company or a merger, acquisition, reorganization, recapitalization or similar current transaction materially affecting the capital, structure, or equity ownership of the Company, (ii) the Registration Statement must be suspended in order to register additional shares of Preferred Stock or Common Stock, (iii) there exists a material development or a potential material development with respect to or involving the Company that the Company would be obligated to disclose in the prospectus used in connection with the Registration Statement, which disclosure, in the good faith judgment of the Company, after considering the advice of counsel, would be premature or otherwise inadvisable at such time, or (iv) the Registration   
+  
+-6-
+
+* * *
+
+##### 
+
+Statement or related prospectus or any document incorporated or deemed to be incorporated therein by reference contains an untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances, not misleading, including without limitation that period annually during which any Registration Statement would require suspension pending the Issuer’s new fiscal year financial statements (a “Suspension Event”). In the event that the Company shall determine to so suspend the effectiveness of the Registration Statement and offers and sales of the Option Shares pursuant thereto, the Company shall, in addition to performing those acts required to be performed under the Securities Act and/or the Exchange Act or deemed advisable by the Company, deliver to each Holder written notice thereof, signed by the Chief Financial Officer or Chief Executive Officer of the Company. Upon receipt of such notice, the Holders shall discontinue disposition of the Option Shares pursuant to the Registration Statement and prospectus until such Holders (x) are advised in writing by the Company that the use of the Registration Statement and prospectus (and offers and sales thereunder) may be resumed, (y) have received copies of a supplemental or amended prospectus, if applicable, and (z) have received copies of any additional or supplemental filings which are incorporated or deemed to be incorporated by reference into such prospectus. The Company will exercise commercially reasonable efforts to ensure that the use of the Registration Statement and prospectus may be resumed as quickly as practicable. 
+
+ii. The Company’s right to suspend the effectiveness of the Registration Statement and the offers and sales of the Option Shares pursuant thereto, as described above in this Section 5(d), shall be for a period of time (the “Suspension Period”) beginning on the date of the occurrence of the Suspension Event and expiring on the earlier to occur of (i) the date on which the Suspension Event ceases, or (ii) ninety (90) days after the occurrence of the Suspension Event; provided, however, that there shall not be more than two Suspension Periods in any 12-month period. Notwithstanding the foregoing, the Company shall be able to suspend the effectiveness of the Registration Statement and offers and sales of the Option Shares for any time period as may reasonably be required in order to update the Registration Statement to replace financial information which is no longer current, as required by applicable securities law.  
+iii. In addition, in connection with any underwritten public offering of securities of the Company, if requested by the Company or its managing underwriter, each Holder will enter into a lock-up   
+  
+-7-
+
+* * *
+
+##### 
+
+agreement pursuant to which such Holder will not, during the seven (7) days prior to, and for a period no longer than one hundred eighty (180) days following, the date of the prospectus (or if the offering is pursuant to a shelf registration statement, the date of the pricing prospectus supplement) relating to the offering, offer, sell or otherwise dispose of any securities of the Company without the prior consent of the Company and the managing underwriter, provided that the executive officers and directors of the Company enter into lock-up agreements for a period at least as long and on the same terms. 
+
+6. COVENANTS.  
+  
+(a) The Company covenants and agrees that all Option Shares delivered upon exercise (in accordance with the terms and conditions set forth herein) of the Option will, upon delivery, be duly and validly authorized and issued, fully paid and non-assessable, and free from all liens and charges with respect to the purchase thereof.  
+(b) The Company covenants and agrees that this Option Agreement has been duly and validly authorized, executed and delivered. In addition, the Company agrees at all times to reserve and keep available an authorized number of (i) shares of the Preferred Stock sufficient to permit the exercise in full of the Option or (ii) after the Mandatory Conversion, shares of its Common Stock sufficient to permit the exercise in full of the Option.  
+  
+7. REPRESENTATIONS AND WARRANTIES.  
+  
+(a) The Option Shares will not be registered under the Securities Act of 1933, as amended, or the rules and regulations promulgated thereunder (such Act and rules and regulations being hereinafter referred to as the “Act”) or any state securities laws. The Holder agrees that the sale or any other disposition of the Option Shares will be made in compliance with federal and applicable state securities laws.  
+(b) The Holder hereby represents and warrants to the Company as follows:  
+  
+i. it is an “accredited investor” within the meaning of Rule 501 under the Act;  
+ii. it is sophisticated and experienced in matters of equity investing in general and in financial and business matters related to the business of the Company in particular, capable of evaluating the merits and risks of an investment in the Option and the Option Shares;  
+  
+-8-
+
+* * *
+
+##### 
+
+iii. it is acquiring the Option and will acquire the Option Shares for investment for its own account and not with a view to any distribution thereof in violation of Federal or applicable state securities laws;  
+iv. this Option Agreement and the transactions hereby have been duly approved by all requisite action of the Holder, and the Holder has full power and authority to enter into and perform its obligations under this Option Agreement, and to otherwise carry out the transactions contemplated by this Option Agreement, without the consent or approval of, notice to or registration with any person, association, entity or governmental authority;  
+v. this Option Agreement is a legal, valid and binding obligation of the Holder enforceable in accordance with its terms; and  
+vi. the execution, delivery, performance and consummation of this Option Agreement and the transactions provided for herein do not and will not violate: (a) any contract, agreement or other commitment to which the Holder is a party, or by which the Holder is bound; or (b) any order, writ, injunction, decree, statute, ordinance, rule or regulation applicable to the Holder.  
+  
+8. FRACTIONAL SHARES. The Company shall not be required to issue any fraction of a share of Preferred Stock or, after the Mandatory Conversion, any fraction of a share of Common Stock, upon the exercise of the Option. If any fractional interest in a share of Preferred Stock or Common Stock, as the case may be, shall be deliverable upon the exercise of the Option (in whole or in part), the Company shall make an adjustment therefor in cash equal to such fraction multiplied by the closing price of the Preferred Stock or Common Stock, as the case may be, on the business day directly preceding the day of exercise. If there is no closing price, then the fraction shall be multiplied by the fair market value of a share of Preferred Stock or Common Stock, as the case may be, as determined by the Board of Directors of the Company.  
+9. INDEMNIFICATION.  
+  
+(a) Indemnification by the Company. The Company will indemnify and hold harmless each Holder of Option Shares which are included in a registration statement pursuant to the provisions of Section 5 hereof and any underwriter (as defined in the Securities Act) for such Holder, and any person who controls such Holder within the meaning of either Section 15 of the Securities Act or Section 20 of the Exchange Act or such underwriter within the meaning of the Securities Act, and any officer, director, investment adviser, employee, agent, partner, member or affiliate of such Holder (each, a “Holder Indemnified Party”), from and against, and will reimburse each such Holder Indemnified Party with respect to,   
+  
+-9-
+
+* * *
+
+##### 
+
+any and all claims, actions, demands, losses, damages, liabilities, costs and reasonably incurred expenses to which such Holder or any such Holder Indemnified Party may become subject under the Securities Act or otherwise, insofar as such claims, actions, demands, losses, damages, liabilities, costs or reasonably incurred expenses arise out of or are based upon (i) any untrue statement or alleged untrue statement of any material fact contained in such registration statement, any prospectus contained therein or any amendment or supplement thereto, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, or (ii) any materially inaccurate representation or breach of any material warranty, agreement or covenant of the Company contained herein; provided, however, that the Company will not be liable in any such case to the extent that any such claim, action, demand, loss, damage, liability, cost or expense is caused by an untrue statement or alleged untrue statement or omission or alleged omission (1) made in conformity with information furnished by such Holder in writing specifically for use in the preparation thereof, or (2) which was cured in an amendment or supplement to the prospectus (or any amendment or supplement thereto) delivered to the Holder on a timely basis to permit proper delivery thereof prior to the date on which any Option Shares were transferred or sold. 
+
+(b) Indemnification by the Holder. Each Holder of Option Shares which are included in a registration statement pursuant to the provisions of Section 5 hereof will indemnify and hold harmless the Company, and any Person who controls the Company within the meaning of either Section 15 of the Securities Act or Section 20 of the Exchange Act, and any officer, director, employee, agent, partner, member or affiliate of the Company (each, an “Company Indemnified Party”) from and against, and will reimburse the Company Indemnified Parties with respect to, any and all losses, damages, liabilities, costs or reasonably incurred expenses to which such Company Indemnified Parties may become subject under the Securities Act or otherwise, insofar as such losses, damages, liabilities, costs or reasonably incurred expenses are caused by any untrue or alleged untrue statement of any material fact contained in such registration statement, any prospectus contained therein or any amendment or supplement thereto, or are caused by the omission or the alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein, in light of the circumstances in which they were made, not misleading, in each case to the extent, but only to the extent, that such untrue statement or alleged untrue statement or omission or alleged omission was so made solely in reliance upon and in conformity with written information furnished by such Holder specifically for use in the preparation thereof; provided, however, that the liability of any Holder pursuant to this Section 9(b) shall be limited to an amount not to exceed the net proceeds received by such Holder from the sale of Option Shares  
+  
+-10-
+
+* * *
+
+##### 
+
+pursuant to the registration statement which gives rise to such obligation to indemnify. 
+
+(c) Procedures. Promptly after receipt by a party indemnified pursuant to the provisions of Section 9(a) or Section 9(b) of notice of the commencement of any action involving the subject matter of the foregoing indemnity provisions, such indemnified party will, if a claim thereof is to be made against the indemnifying party pursuant to the provisions of Section 9(a) or Section 9(b), notify the indemnifying party of the commencement thereof; but the omission to so notify the indemnifying party will not relieve it from any liability which it may have to an indemnified party otherwise than under this Section 9 and shall not relieve the indemnifying party from liability under this Section 9, except to the extent that such indemnifying party is materially prejudiced by such omission. In case such action is brought against any indemnified party and such indemnified party notifies the indemnifying party of the commencement thereof, the indemnifying party shall have the right to participate in, and, to the extent that it may wish, jointly with any other indemnifying party similarly notified, to assume the defense thereof, with counsel reasonably satisfactory to such indemnified party, and after notice from the indemnifying party to such indemnified party of its election to assume the defense thereof, the indemnifying party will not be liable to such indemnified party pursuant to the provisions of Section 9(a) or Section 9(b) for any legal or other expense subsequently incurred by such indemnified party in connection with the defense thereof. No indemnifying party shall be liable to an indemnified party for any settlement of any action or claim without the consent of the indemnifying party. No indemnifying party will consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such indemnified party of a release from all liability in respect to such claim or litigation.  
+  
+10. SURVIVAL. The obligations of the Holder as set forth in Section 4 hereof shall survive the exercise of the Option in full and the termination of this Option Agreement.  
+11. NOTICES. Any notice required or permitted to be given hereunder shall be in writing, and shall be either (i) personally delivered, (ii) sent by U.S. certified or registered mail, return receipt requested, postage prepaid, or (iii) sent by Federal Express or other reputable common carrier guaranteeing next business day delivery, to the respective addresses of the parties set forth below, or to such other place as any party hereto may by notice given as provided herein designate for receipt of notices hereunder. Any such notice shall be deemed given and effective upon receipt or refusal of receipt thereof by the primary party to whom it is to be sent.  
+  
+-11-
+
+* * *
+
+##### 
+
+To the Holder, at the address provided in the Subscription Agreement.   
+  
+To the Company: ReGen Biologics, Inc.  
+  
+509 Commerce Street  
+  
+Franklin Lakes, NJ 07417  
+  
+Attention: Brion D. Umidi  
+  
+Telecopy: 201.651.5141  
+  
+with a copy to:  
+  
+Pillsbury Winthrop Shaw Pittman LLP  
+  
+1650 Tysons Boulevard  
+  
+McLean, VA 22102  
+  
+Attention: David C. Main, Esq.  
+  
+Telecopy: 703.770.7901  
+  
+12. GOVERNING LAW. This Option Agreement shall be governed by the laws of the State of New York without reference to its principles of conflicts of laws.  
+13. LITIGATION. It is the intent of the parties upon execution hereof that this Option Agreement be deemed to have been prepared by all of the parties to the end that no party shall be entitled to the benefit of any favorable interpretation or construction of any term or provision hereof under any rule or law.  
+14. ENTIRE AGREEMENT. This Option Agreement, together with the Subscription Agreement and the Certificate of Designations, Preferences and Rights relating to the Preferred Stock, contains the entire understanding between the parties concerning the subject matter of this Option Agreement. There are no representations, agreements, arrangements or undertakings, oral or written, between the parties relating to the subject matter of this Option Agreement which are not fully expressed herein, in the Subscription Agreement or in the Certificate of Designations, Preferences and Rights relating to the Preferred Stock, and all prior agreements, to the extent they pertain to the subject matter herein, are canceled and of no further force or effect. This Option Agreement may not be amended or modified except in a writing signed by the parties hereto.  
+15. BINDING EFFECT. This Option Agreement shall be binding upon and inure to the benefit of the Company and the Holder. Nothing in this Option Agreement is intended or shall be construed to confer upon any other person any right, remedy or claim, in equity or at law, or to impose upon any other person any duty, liability or obligation.  
+  
+-12-
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the parties have caused this Option Agreement to be duly executed as of the date first above written.   
+  
+REGEN BIOLOGICS, INC.  
+  
+/s/ BRION D. UMIDI  
+By:  Brion D. Umidi   
+Its: Senior VP and CFO  
+NAME OF HOLDER:  
+  
+Ivy Healthcare Capital II, L.P.  
+SIGNATURE:  
+  
+Ivy Capital Partners II, LLC, as General Partner  
+By:  /s/ ROBERT W. PANGIA  
+Name:  Robert W. Pangia  
+Title: Co-Manager  
+  
+-13-
+
+* * *
+
+##### 
+
+EXHIBIT A 
+
+OPTION EXERCISE FORM 
+
+______________, 200_ 
+
+ReGen Biologics, Inc.  
+509 Commerce Street  
+Franklin Lakes, NJ 07417  
+Attention: Brion D. Umidi  
+Telecopy: 201.651.5141 
+
+The undersigned hereby irrevocably elects to exercise its rights under the Option Agreement dated  , 2007 made by and between ReGen Biologics, Inc. and the undersigned, by purchasing the number of Option Shares listed below and hereby makes payment of the Exercise Amount listed below.   
+  
+Number of Option Shares Purchased   
+  
+Exercise Price Per Share: 
+
+$  
+  
+Exercise Amount: 
+
+$  
+  
+The undersigned hereby represents and warrants to the Company that all of the representations and warranties made by the Holder in Section 7(b) of the Option Agreement are true and correct as of the date set forth above. 
+
+Please register and deliver the Option Shares in the name and to the address set forth below.   
+  
+Name:  
+  
+(Please typewrite or print in block letters)  
+  
+Address:  
+  
+NAME OF HOLDER:  
+  
+SIGNATURE OF HOLDER:  
+  
+By:  
+  
+Name:  
+  
+Title:

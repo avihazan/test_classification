@@ -1,0 +1,147 @@
+EXHIBIT 10.1
+
+
+
+This Performance Award Agreement (this “Agreement”) is made and entered into as of ____________, ____ (the “Grant Date”) by and between Team, Inc., a Delaware corporation (the “Company”) and ____________ (the “Grantee”).
+
+WHEREAS, the Company has adopted the Team, Inc. 2006 Stock Incentive Plan (the “Plan”) pursuant to which Performance Awards may be granted; and
+
+WHEREAS, the Committee has determined that it is in the best interests of the Company and its shareholders to grant the award of Performance Awards provided for herein.
+
+NOW, THEREFORE, the parties hereto, intending to be legally bound, agree as follows:
+
+1\. Grant of Performance Share Units. Pursuant to Section VI of the Plan, the Company hereby grants to the Grantee an Award of [____] Performance Stock Units (the “Award”), which amount shall be subject to reduction by the Committee as provided by this Agreement and the Plan. Each Performance Stock Unit (“PSU”) represents the right to receive one share of Common Stock, subject to the terms and conditions set forth in this Agreement and the Plan.
+
+2\. Performance Criteria. Subject to adjustment as provided in Section 3 below, the Award shall become vested if the Company’s [Performance Measure] is equal to [________] for the period commencing on [____ and ending on ____] (the “Performance Period”). For purposes of this provision, [Performance Measure] shall be determined based on the financial information reported in the Company’s quarterly and annual reports filed with the Securities and Exchange Commission, provided that such amount shall be adjusted to take into account income charges for restructuring, extraordinary, unusual or non-recurring items, discontinued operations and cumulative effect of accounting changes, each as defined by Generally Accepted Accounting Principles or changes in tax laws, as identified on the face of the income statements or in the footnotes thereto, or in the Management Discussion and Analysis section of the Company’s annual report.
+
+3\. Additional Performance Goals. Pursuant to Section 6.4 of the Plan, the Committee has retained the right to eliminate or reduce the number of shares of stock which are subject to any Performance Based Award. On or before [___], the Committee will review the Company’s overall performance based on the factors provided in Exhibit 1 and will reduce the number of PSUs which are subject to this Award.
+
+4\. Determination of Performance. Following completion of the Performance Period and prior to [____], the Committee will review and certify in writing whether the Performance Goal has been achieved. At that time, the Committee will decide whether to exercise its negative discretion to reduce the number of PSUs subject to this Agreement as permitted by Section 3 above and Section 6.4 of the Plan. Following the issuance of this certification, the number of PSUs that the Grantee shall earn, if any, shall be final, conclusive and binding on the Grantee, and on all other persons, to the maximum extent permitted by law.
+
+* * *
+
+5\. Vesting of PSUs. The PSUs are subject to forfeiture until they vest. Except as otherwise provided herein, the PSUs will vest and become non-forfeitable on [____], subject to (i) the achievement of the Performance Criteria, (ii) the exercise of the Committee’s discretion to reduce the number of PSUs subject to this Award, and (iii) the Grantee's “Continuous Service” with the Company from the Grant Date through [____].
+
+6\. Termination of Continuous Service.
+
+6.1 Except as otherwise expressly provided in this Agreement, if the Grantee's employment with the Company terminates for any reason at any time prior to [_____], all of the PSUs shall be automatically forfeited upon such termination of Continuous Service and neither the Company nor any Affiliate shall have any further obligations to the Grantee under this Agreement.
+
+6.2 Notwithstanding Section 6.1, if the Grantee's Continuous Service terminates during the Performance Period as a result of the Grantee's death or Disability, the Grantee will vest on such date in a portion of the PSUs determined by multiplying (i) [Target Award Number] by (ii) a fraction, the numerator of which equals the number of days that the Grantee was employed between [Start of Performance Period] and the date of death or Disability, and the denominator of which equals [End of Performance Period]. Any remaining PSUs subject to this Agreement shall be forfeited on the date of death or Disability.
+
+7\. Effect of a Change in Control. If there is a Change in Control during the Performance Period, the Grantee shall be vested in [Target Award Level] PSUs on the effective date of the Change in Control, which amount shall be paid no later than thirty (30) days following such Change in Control. Any remaining PSUs subject to this Agreement shall be forfeited on the date the Change in Control occurs.
+
+8\. Payment of PSUs. Payment in respect of the PSUs earned for the Performance Period shall be made in shares of Common Stock and shall be issued to the Grantee as soon as practicable following the vesting date and in any event within sixty (60) days following the vesting date. The Company shall (i) issue and deliver to the Grantee the number of shares of Common Stock equal to the number of vested PSUs less applicable tax withholding, and (ii) enter the Grantee's name on the books of the Company as the shareholder of record with respect to the shares of Common Stock delivered to the Grantee.
+
+9\. Transferability. Subject to any exceptions set forth in this Agreement or the Plan, the PSUs or the rights relating thereto may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Grantee, except by will or the laws of descent and distribution, and upon any such transfer by will or the laws of descent and distribution, the transferee shall hold such PSUs subject to all of the terms and conditions that were applicable to the Grantee immediately prior to such transfer.
+
+* * *
+
+10\. Rights as Shareholder; Dividend Equivalents.
+
+10.1 The Grantee shall not have any rights of a shareholder with respect to the shares of Common Stock underlying the PSUs, including, but not limited to, voting rights and the right to receive or accrue dividends or dividend equivalents.
+
+10.2 Upon and following the vesting of the PSUs and the issuance of shares, the Grantee shall be the record owner of the shares of Common Stock underlying the PSUs unless and until such shares are sold or otherwise disposed of, and as record owner shall be entitled to all rights of a shareholder of the Company (including voting and dividend rights, if any).
+
+11\. No Right to Continued Service. Neither the Plan nor this Agreement shall confer upon the Grantee any right to be retained in any position, as an Employee, Consultant or Director of the Company. Further, nothing in the Plan or this Agreement shall be construed to limit the discretion of the Company to terminate the Grantee's Continuous Service at any time, with or without Cause.
+
+12\. Adjustments. If any change is made to the outstanding Common Stock or the capital structure of the Company, if required, the PSUs shall be adjusted or terminated in any manner as contemplated by Section 7 of the Plan.
+
+13\. Tax Liability and Withholding.
+
+13.1 The Grantee shall be required to pay to the Company, and the Company shall have the right to deduct from any compensation paid to the Grantee pursuant to the Plan, the amount of any required withholding taxes in respect of the PSUs and to take all such other action as the Company deems necessary to satisfy all obligations for the payment of such withholding taxes. As a condition of the receipt of this grant, prior to the vesting of the PSUs Grantee hereby agrees to make such arrangements as the Company may require in order to satisfy any federal, state, local or foreign withholding tax obligations that the Company, in its sole discretion, determines may arise in connection with the receipt of this grant or the issuance of shares of Common Stock (the “Tax Obligations”). Grantee understands that the Company shall not be required to issue any shares of Common Stock under the Plan unless and until such Tax Obligations are satisfied.
+
+13.2 The Company intends, and Grantee hereby authorizes the Company, to satisfy the Tax Obligations by withholding from the Grantee’s vested PSUs the number of full shares of Common Stock having an aggregate market value at that time of vesting equal to the amount the Company determines are equal to the Tax Obligations, with the remainder to be satisfied by withholding from Grantee’s wages or other cash compensation payable by the Company or your employer. To the extent the Company determines that the number of PSUs or shares of Common Stock withheld pursuant to this Paragraph is insufficient to satisfy such Tax Obligations, Grantee hereby authorizes the Company or Grantee’s employer to deduct from Grantee’s compensation the additional amounts necessary to fully satisfy the Tax Obligations. If the Company chooses not to deduct such amount from Grantee’s compensation, Grantee agrees to pay the Company, in cash or by check, the additional amount necessary to fully satisfy the Tax Obligations. Grantee hereby agrees to take any further actions and execute any additional documents as may be necessary to effectuate the provisions of this Paragraph.
+
+* * *
+
+13.3 Notwithstanding any action the Company takes with respect to any or all income tax, social insurance, payroll tax, or other tax-related withholding (“Tax-Related Items”), the ultimate liability for all Tax-Related Items is and remains the Grantee's responsibility and the Company (i) makes no representation or undertakings regarding the treatment of any Tax-Related Items in connection with the grant, vesting or settlement of the PSUs or the subsequent sale of any shares, and (ii) does not commit to structure the PSUs to reduce or eliminate the Grantee's liability for Tax-Related Items.
+
+14\. Non-competition and Non-solicitation.
+
+14.1 In consideration of the PSUs, the Grantee agrees and covenants not to:
+
+(a) contribute his or her knowledge, directly or indirectly, in whole or in part, as an employee, officer, owner, manager, advisor, consultant, agent, partner, director, shareholder, volunteer, intern or in any other similar capacity to an entity engaged in the same or similar business as the Company and its Affiliates, including those engaged in the business of specialty maintenance and construction services required in maintaining high temperature and high pressure piping systems and vessels utilized extensively in heavy industry, which service includes, but is not limited to, inspection and assessment, field heat treating, leak repair, fugitive emissions control, hot tapping, field machining, technical bolting, field valve repair asset integrity and reliability management services and products involving advanced inspection and engineering assessment and the sale and service of waterworks valves and any other services Team currently provides for a period of two (2) years following the Grantee's termination of Continuous Service;
+
+(b) directly or indirectly, solicit, hire, recruit, attempt to hire or recruit, or induce the termination of employment of any employee of the Company or its Affiliates for eighteen (18) months following the Grantee's termination of Continuous Service; or
+
+(c) directly or indirectly, solicit, contact (including, but not limited to, e-mail, regular mail, express mail, telephone, fax, and instant message), attempt to contact or meet with the current customers of the Company or any of its Affiliates for purposes of offering or accepting goods or services similar to or competitive with those offered by the Company or any of its Affiliates for a period of two (2) years following the Grantee's termination of Continuous Service.
+
+14.2 If the Grantee breaches any of the covenants set forth in Section 14.1:
+
+(a) all unvested PSUs shall be immediately forfeited; and
+
+(b) the Grantee hereby consents and agrees that the Company shall be entitled to seek, in addition to other available remedies, a temporary or permanent injunction or other equitable relief against such breach or threatened breach from any court of competent jurisdiction, without the necessity of showing any actual damages or that money damages would not afford an adequate remedy, and without the necessity of posting any bond or other security. The aforementioned equitable relief shall be in addition to, not in lieu of, legal remedies, monetary damages or other available forms of relief.
+
+* * *
+
+15\. Compliance with Law. The issuance and transfer of shares of Common Stock in connection with the PSUs shall be subject to compliance by the Company and the Grantee with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company's shares of Common Stock may be listed. No shares of Common Stock shall be issued or transferred unless and until any then applicable requirements of state and federal laws and regulatory agencies have been fully complied with to the satisfaction of the Company and its counsel.
+
+16\. Notices. Any notice required to be delivered to the Company under this Agreement shall be in writing and addressed to the Chief Legal Officer of the Company at the Company's principal corporate offices. Any notice required to be delivered to the Grantee under this Agreement shall be in writing and addressed to the Grantee at the Grantee's address as shown in the records of the Company. Either party may designate another address in writing (or by such other method approved by the Company) from time to time.
+
+17\. Governing Law. This Agreement will be construed and interpreted in accordance with the laws of the State of Texas without regard to conflict of law principles.
+
+18\. Interpretation. Any dispute regarding the interpretation of this Agreement shall be submitted by the Grantee or the Company to the Committee for review. The resolution of such dispute by the Committee shall be final and binding on the Grantee and the Company.
+
+19\. PSUs Subject to Plan. This Agreement is subject to the Plan as approved by the Company's shareholders. The terms and provisions of the Plan, as it may be amended from time to time, are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail.
+
+20\. Successors and Assigns. The Company may assign any of its rights under this Agreement. This Agreement will be binding upon and inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer set forth herein, this Agreement will be binding upon the Grantee and the Grantee's beneficiaries, executors, administrators and the person(s) to whom the PSUs may be transferred by will or the laws of descent or distribution.
+
+21\. Severability. The invalidity or unenforceability of any provision of the Plan or this Agreement shall not affect the validity or enforceability of any other provision of the Plan or this Agreement, and each provision of the Plan and this Agreement shall be severable and enforceable to the extent permitted by law.
+
+* * *
+
+22\. Discretionary Nature of Plan. The Plan is discretionary and may be amended, cancelled or terminated by the Company at any time, in its discretion. The grant of the PSUs in this Agreement does not create any contractual right or other right to receive any PSUs or other Awards in the future. Future Awards, if any, will be at the sole discretion of the Company. Any amendment, modification, or termination of the Plan shall not constitute a change or impairment of the terms and conditions of the Grantee's employment with the Company.
+
+23\. Amendment. The Committee has the right to amend, alter, suspend, discontinue or cancel the PSUs, prospectively or retroactively; provided, that, no such amendment shall adversely affect the Grantee's material rights under this Agreement without the Grantee's consent.
+
+24\. Section 162(m). All payments under this Agreement are intended to constitute “qualified performance-based compensation” within the meaning of Section 162(m) of the Code. This Award shall be construed and administered in a manner consistent with such intent.
+
+25\. Section 409A. This Agreement is intended to comply with Section 409A of the Code or an exemption thereunder and shall be construed and interpreted in a manner that is consistent with the requirements for avoiding additional taxes or penalties under Section 409A of the Code. Notwithstanding the foregoing, the Company makes no representations that the payments and benefits provided under this Agreement comply with Section 409A of the Code and in no event shall the Company be liable for all or any portion of any taxes, penalties, interest or other expenses that may be incurred by the Grantee on account of non-compliance with Section 409A of the Code.
+
+26\. No Impact on Other Benefits. The value of the Grantee's PSUs is not part of his or her normal or expected compensation for purposes of calculating any severance, retirement, welfare, insurance or similar employee benefit.
+
+27\. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together will constitute one and the same instrument. Counterpart signature pages to this Agreement transmitted by facsimile transmission, by electronic mail in portable document format (.pdf), or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing an original signature.
+
+28\. Acceptance. The Grantee hereby acknowledges receipt of a copy of the Plan and this Agreement. The Grantee has read and understands the terms and provisions thereof, and accepts the PSUs subject to all of the terms and conditions of the Plan and this Agreement. The Grantee acknowledges that there may be adverse tax consequences upon the vesting or settlement of the PSUs or disposition of the underlying shares and that the Grantee has been advised to consult a tax advisor prior to such vesting, settlement or disposition.
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+  
+
+
+TEAM, INC.  
+  
+By: ________________________
+
+Name: _____________________
+
+Title: ______________________  
+  
+ACCPETED AND AGREED:  
+  
+GRANTEE
+
+By: _________________________
+
+Name: _______________________
+
+Date: ________________________  
+  
+  
+
+
+* * *
+
+Performance Share Award Agreement
+
+  
+
+
+Exhibit 1
+
+  
+
+
+* * *

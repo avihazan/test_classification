@@ -1,0 +1,159 @@
+EXHIBIT 10.12
+
+  
+
+
+OPTIONABLE, INC.
+
+  
+
+
+
+
+  
+
+
+  
+
+
+  
+
+
+THIS NONSTATUTORY STOCK OPTION AGREEMENT (the “Agreement”) is made and entered into as of March 1, 2011 (the “Grant Date”) by and between Optionable, Inc., a Delaware corporation (the “Company”), and J. Michael Templeton (the “Optionee”).
+
+WHEREAS, the Company desires to grant the Optionee a stock option under the Company’s 2004 Stock Option Plan, as amended on March 1, 2011, (the “Plan”) to acquire shares of the Company’s Common Stock, $0.001 par value per share (the “Common Stock”).
+
+WHEREAS, the Plan provides that each option is to be evidenced by an award agreement, setting forth the terms and conditions of the option.
+
+NOW THEREFORE, in consideration of the premises and of the mutual covenants and agreements contained herein, the Company and the Optionee hereby agree as follows:
+
+1. Grant of Option. The Company hereby grants to the Optionee, under the Plan and subject to the terms and conditions of the Plan, a stock option (the “Option”) to purchase all or any part of the number of shares of Common Stock (the “Shares”) set forth below the Optionee’s name on the signature page hereto, on the terms and conditions hereinafter set forth. The Option granted hereunder shall be treated as a nonstatutory stock option and is not intended to constitute an incentive stock option under section 422 of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+2. Exercise Price. The exercise price per share (“Exercise Price”) for the Shares covered by the Option shall be the closing trading price of the Company’s stock on the day immediately preceding the Grant Date ($0.02 per share), as quoted on the Over-the-Counter Bulletin Board, subject to adjustment pursuant to Section 9.
+
+3. Vesting.
+
+The right to exercise the Option shall be 20,000 vested upon the Grant Date. The “Vested Percentage” of the Option shall be as follows:
+
+20,000 six months after the Grant Date
+
+  
+
+
+20,000 twelve months after the Grant Date
+
+20,000 eighteen-months after the Grant Date
+
+20,000 twenty-four months after the Grant Date
+
+* * *
+
+  
+
+
+The right to exercise this Option shall immediately vest in the event of a “Change of Control” of the Company. For this purpose, a “Change of Control” means the acquisition after the date hereof, directly or indirectly, by any Person of ownership of, or the power to direct the exercise of voting power with respect to, a majority of the issued and outstanding voting shares of the Company. For this purpose, a “Person” means an individual or a corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, government (or an agency or political subdivision thereof) or other entity of any kind.
+
+  
+
+
+If the Optionee resigns for Good Reason (as defined in the Plan) or has his employment with, or services to, the Company terminated without Cause (as defined in the Plan), then all his Options shall be fully vested and exercisable on the effective date of such resignation or termination of services or employment.
+
+  
+
+
+4. Term of Options.
+
+(a) Cancellation and Forfeiture. The Option shall be cancelled and shall be null and void, and the Optionee shall forfeit all rights pursuant to the Option, (i) if the Optionee does not execute and return this Agreement to the Company within sixty (60) days of the Grant Date, (ii) unless otherwise agreed to in writing by the Board, upon the Optionee’s bankruptcy, and (iii) upon the Optionee’s attempted assignment or transfer of the Option in violation of Section 8.
+
+(b) Termination. The Option shall terminate and shall no longer be exercisable, even if vested, upon the earliest to occur of (i) any of the events in Section 11 of the Plan and (ii) the second year anniversary of the effective date of the Optionee’s (A) resignation for Good Reason (as defined in the Plan) or (B) termination of employment with, or services to, the Company without Cause (as defined in the Plan).
+
+5. Exercise of Option.
+
+(a) Exercisability. The Option shall be exercisable at any time prior to its termination pursuant to Section 11 of the Plan only to the extent of the Vested Percentage as of that time; provided that if the Optionee resigns for Good Reason or if the Optionee’s employment with, or services to, the Company is terminated without Cause, then all his Options shall be fully exercisable and vested on the effective date of such resignation or termination of services or employment; provided further that all Options shall immediately vest and be exercisable in the event of a Change of Control of the Company.
+
+(b) Method of Exercise. To the extent the Option is exercisable pursuant to Section 5(a), the Optionee may exercise the Option in full or in part by giving written notice to the Company, signed by the Optionee (or his legal representative or heir, in the event of the Optionee’s death), stating the Optionee’s election to exercise the Option and the number of whole Shares for which the Option is being exercised. The written notice must be accompanied by (i) full payment of the exercise price for the number of Shares being purchased, and (ii) an executed copy of the form of investor representation letter referred to in Section 6(b), if required pursuant to such Section 6(b).
+
+2
+
+* * *
+
+(c) Payment of Exercise Price. Payment of the exercise price for the number of Shares for which the Option is being exercised shall be made:
+
+(i) In cash or by check payable to the order of the Company;
+
+(ii) at the discretion of the Board, by tender to the Company of shares of Common Stock owned by the Optionee, acceptable to the Board, having a Fair Market Value (as defined in the Plan) on the date of exercise at least equal to the exercise price;
+
+(iii) at the discretion of the Board, by a combination of the methods described above; or
+
+(iv) by such other method as may be approved by the Board.
+
+(d) Maintenance of Shares. The Company shall at all times during the term of the Option reserve and keep available such number of shares of its Common Stock as will be sufficient to satisfy the requirements of the Option.
+
+6. Securities Law Restrictions and Registration Rights.
+
+(a) The grant of the Option and the issuance of Shares upon exercise of the Option shall be subject to compliance with all applicable requirements of federal, state or foreign law with respect to such securities. The Option may not be exercised if the issuance of Shares upon such exercise would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations. As a condition to the exercise of the Option, the Company may require the Optionee to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be reasonably requested by the Company.
+
+(b) The Company shall be under no obligation to cause a registration statement or a post-effective amendment to any registration statement to be prepared for the purposes of covering the issue of Shares; provided that if the Optionee resigns for Good Reason or if his employment with, or services to, the Company is terminated without Cause, then the Optionee shall have the right to require the Company use its best efforts to file, at the Company’s sole cost and expense, a registration statement promptly upon the Company’s receipt of Optionee’s written request. The Company shall not be obligated to file more than one registration under such demand rights.
+
+7. Tax Withholding. Upon exercise of the Option, in whole or in part, and as a condition thereto, the Optionee shall remit to the Company an amount sufficient to satisfy the Optionee’s share of all United States federal, state and local withholding tax requirements, in such manner and amount as shall be specified by the Board.  With respect to an Optionee that is an employee or consultant of Company, the Company shall have the right to withhold (or to cause one of the Company’s subsidiaries to withhold), from compensation otherwise payable to the Optionee, an amount sufficient to satisfy all federal, state and local withholding tax requirements prior to the issuance of such Shares and the delivery of any certificate or certificates for such Shares, and from time to time thereafter to the extent such withholding obligations arise in connection with the Option, including, without limitation, obligations arising upon (i) the exercise, in whole or in part, of the Option, (ii) the transfer, in whole or in part, of any Shares acquired on exercise of the Option, (iii) the operation of any law or regulation providing for the imputation of interest, or (iv) the lapsing of any restriction with respect to any Shares acquired on exercise of the Option. The Optionee acknowledges that the Company may issue a Form W-2, W-2c, 1099 or substitute therefore, as appropriate, to the Optionee with respect to any United States income recognized by the Optionee with respect to the Option.
+
+3
+
+* * *
+
+8. Non-Transferability.
+
+(a) Unless otherwise approved by the Board in its discretion, the Option may be exercised during the lifetime of the Optionee only by the Optionee and may not be assigned or transferred in any manner, except by will or by the laws of descent and distribution. Upon the Optionee’s death, the Optionee’s legal representative, or any person empowered under the Optionee’s will or under applicable laws of descent and distribution, may exercise the Option to the extent unexercised and exercisable by the Optionee as of the date of death.
+
+(b) Except as provided in Section 8(a), without the prior written consent of the Board, no right or benefit under this Agreement shall be subject to anticipation, alienation, sale, assignment, pledge, encumbrance or charge, and any attempt to anticipate, alienate, sell, assign, pledge, encumber or charge the same without such consent, if applicable, shall be void. Except with such consent, no right or benefit under this Agreement shall in any manner be liable for or subject to the debts, contracts, liabilities or torts of the Optionee.
+
+9. Change in Stock Subject to Option. In the event of a recapitalization, reclassification, stock dividend, stock split, reverse stock split, or other change in corporate structure affecting the Common Stock, the Board may adjust the terms of the Option in accordance with Section 3 of the Plan.
+
+10. No Special Rights; Duties of Optionee.
+
+(a) The Optionee shall have no rights as a stockholder with respect to any Shares covered by the Option until the date of the issuance of a certificate or certificates for the Shares for which the Option has been exercised. No adjustment shall be made for dividends or distributions or other rights for which the record date is prior to the date such certificate or certificates are issued, except as provided pursuant to Section 13 of the Plan.
+
+(b) Nothing contained in this Agreement shall be construed or deemed by any person under any circumstances to bind the Company to commence or continue the employment or consulting relationship of the Optionee for the period within which this Option may be exercised, nor shall this Agreement be construed to create any duty of the Company or any of its affiliates or any of its other shareholders to the Optionee, or any duty of the Optionee to the Company or any of its affiliates or other shareholders, comparable to the duties which partners or joint venturers may owe to each other. However, during the period that the Optionee provides employment or consulting services to the Company, the Optionee shall render diligently and faithfully the services which are assigned to the Optionee from time to time by the Board or by the executive officers of the Company. The Optionee shall at no time take any action which directly or indirectly would be inconsistent with the best interests of the Company.
+
+4
+
+* * *
+
+11. Notices. Any notices or other communications required to be given hereunder shall be given by hand delivery or by certified or registered mail, return receipt requested, with all fees prepaid and addressed, if to the Company, to it at 55 Saint Marks Place, Suite 4, New York, NY 10003, and if to the Optionee, at the address set forth on the signature page hereto, or to such other address as either party may specify in writing from time to time.
+
+12. Termination or Amendment. The Board may terminate or amend the Plan and/or the Option at any time; provided, however, that no such termination or amendment may adversely affect the Option or any unexercised portion thereof without the written consent of the Optionee.
+
+13. Integrated Agreement. This Agreement constitutes the entire understanding and agreement of the Optionee and the Company with respect to the subject matter contained herein and supersedes any prior understanding or agreement between the parties, whether or not in writing, including, but not limited to, any prior grant by the Company or any of its officers or authorized representatives to the Optionee of an option or warrant to purchase Common Stock. There are no agreements, understandings, restrictions, representations, or warranties among the Optionee and the Company other than those as set forth or provided for herein. To the extent contemplated herein, the provisions of this Agreement shall survive any exercise of the Option and shall remain in full force and effect.
+
+14. Binding Effect. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrations, successors and assigns.
+
+15. Governing Law. This Agreement shall be governed by, and construed and enforced in accordance with, the internal laws of the State of New York, without regard to principles of conflicts of laws.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+5
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed this Nonstatutory Stock Option Agreement as of the Grant Date.
+
+OPTIONABLE, INC.  
+  
+By:  
+  
+Name: Brad P. O’Sullivan  
+  
+Title: Chief Executive Officer  
+  
+The undersigned Optionee represents that the Optionee is familiar with the terms and provisions of this Nonstatutory Stock Option Agreement and the Plan, and hereby accepts the Option subject to all of the terms and provisions thereof. The Optionee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Board upon any questions arising under this Nonstatutory Stock Option Agreement and the Plan. The undersigned acknowledges receipt of a copy of the Plan.  
+  
+Signature of Optionee  
+  
+J. Michael Templeton  
+  
+Address:  
+  
+Social Security Number:  
+Number of Shares Subject to Option: 100,000  
+  
+6

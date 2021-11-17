@@ -1,0 +1,222 @@
+EXHIBIT 10.1
+
+  
+
+
+FARO TECHNOLOGIES, INC. 
+
+
+
+  
+
+
+ARTICLE I
+
+EFFECTIVE DATE AND PURPOSE
+
+This Employment Agreement (the “Agreement”) is made and entered into effective as of October 20, 2006 by and between FARO Technologies, Inc. (the “Company”) and JAY FREELAND (hereinafter referred to as the “Executive”). The Company believes that an effective and stable management team is essential to promoting the best interests of the Company and its shareholders. Given the Executive’s strong performance and diligent work efforts, the Company wishes to assure Executive’s continued services in the event of a change of control. As a change in control of the Company may adversely affect Executive’s employment security the Company desires to provide an incentive for the Executive to remain employed with the Company during the period leading up to any such change of control, and to encourage the Executive to devote full and continued attention to the business of the Company and use best efforts to consummate any such change of control. 
+
+  
+
+
+ARTICLE II
+
+DEFINITIONS
+
+Section 2.1 Act means the Securities Exchange Act of 1934, as amended. 
+
+Section 2.2 Affiliate and Associate shall have the respective meanings ascribed to such terms in Rule 12b-2 of the General Rules and Regulations of the Act.
+
+Section 2.3 Beneficial Owner. For purposes of this Agreement, a Person shall be deemed to be the “Beneficial Owner” of any securities: 
+
+(a) which such Person or any of such Person’s Affiliates or Associates has the right to acquire (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding, or upon the exercise of conversion rights, exchange rights, rights, warrants or options, or otherwise; provided, however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, securities tendered pursuant to a tender or exchange offer made by or on behalf of such Person or any of such Person’s Affiliates or Associates until such tendered securities are accepted for purchase; 
+
+(b) which such Person or any of such Person’s Affiliates or Associates, directly or indirectly, has the right to vote or dispose of or has “beneficial ownership” of (as determined pursuant to Rule 13d-3 of the General Rules and Regulations under the Act), including pursuant to any agreement, arrangement or understanding; provided, however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, any security under this Subsection (b) as a result of an agreement, arrangement or understanding to vote such security if the agreement, arrangement or understanding: (i) arises solely from a revocable proxy or consent given to such Person in response to a public proxy or consent solicitation made pursuant to, and in accordance with, the applicable rules and regulations under the Act and (ii) is not also then reportable on a Schedule 13D under the Act (or any comparable or successor report); or 
+
+* * *
+
+(c) which are beneficially owned, directly or indirectly, by any other Person with which such Person or any of such Person’s Affiliates or Associates has any agreement, arrangement or understanding for the purpose of acquiring, holding, voting (except pursuant to a revocable proxy as described in Subsection (b)(i) above) or disposing of any voting securities of the Company.
+
+Section 2.4 Board (or Board of Directors) means the Board of Directors of the Company.
+
+Section 2.5 Change of Control means the occurrence of any of the following: 
+
+(a) any Person (other than (i) an Affiliate of the Company, (ii) any employee benefit plan of the Company or any Affiliate thereof, or (iii) any Person organized, appointed or established pursuant to the terms of any such benefit plan) is or becomes the Beneficial Owner of securities of the Company representing at least thirty percent (30%) of either (i) the combined voting power of the Company’s then outstanding securities; or (ii) the outstanding shares of the then outstanding shares of common stock of the Company; or
+
+(b) a change in the composition of the Company’s Board of Directors such that the individuals who, as of the effective date of this Agreement, constitute the Board (such Board hereinafter referred to as the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided however, for purposes of this definition, that any individual who becomes a member of the Board subsequent to the effective date hereof, whose election or nomination for election was approved by a vote of at least a majority of those individuals who are members of the Board and who were also members of the Incumbent Board (or deemed to be such pursuant to this proviso) shall be considered as though such individual were a member of the Incumbent Board; but provided further, that any such individual whose initial assumption of office occurs as a result of either an actual or threatened election contest (as such terms are used in Rule 14a-11 of Regulation 14A promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board shall not be so considered as a member of the Incumbent Board; or
+
+(c) the approval by the shareholders of the Company of any one of the following transactions:
+
+-2-
+
+* * *
+
+(i) 
+
+a reorganization, merger or consolidation of the Company with any other Person, other than one which results in the voting securities of the Company outstanding immediately prior to such merger or consolidation continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or any parent there) at least 50% of the combined voting power of the voting securities of the Company or such surviving entity or any parent thereof outstanding immediately after such merger or consolidation; or  
+  
+(ii) 
+
+an agreement for the sale of disposition by the Company of all or substantially all of the Company’s assets, other than a sale or disposition by the Company of all or substantially all of the Company’s assets to an entity, at least 75% of the combined voting power of the voting securities of which are owned by shareholders of the Company in substantially the same proportions as their ownership of the Company immediately prior to such sale.  
+  
+(d) Notwithstanding the foregoing, no “Change in Control” shall be deemed to have occurred if there is consummated any transaction or series of integrated transactions immediately following which the record holders of the common stock of the Company immediately prior to such transaction or series of transactions continue to have substantially the same proportionate ownership in an entity which owns all or substantially all of the assets of the Company immediately following such transaction or series of transactions.
+
+Section 2.6 Cause shall be determined by the Board of the Company means (a) an act of fraud or embezzlement against the Company or acceptance of a bribe or kickback; (b) the conviction or a plea of nolo contendere by the Executive of a felony or of a crime involving fraud, dishonesty, violence or moral turpitude; (c) willful and continued refusal to substantially perform assigned duties (other than any refusal resulting from incapacity due to physical or mental illness or Disability); and (d) willful engagement in gross misconduct materially and demonstrably injurious to the Company.
+
+Section 2.7 Change of Control Date means the first date on which a Change of Control has occurred.
+
+Section 2.8 Code means the Internal Revenue Code of 1986, including any amendments or successor tax codes. Any reference to a specific provision of the Code shall mean any successor provision thereto.
+
+Section 2.9 Disability means a disability that would entitle the Executive to payment of monthly disability payments under any Company long-term disability plan. 
+
+-3-
+
+* * *
+
+Section 2.10 Good Reason means any of the following to which the Executive has not consented in writing: (a) a material breach by the Company of the Company’s obligations to the Executive under this Agreement, which breach is not cured to the Executive’s reasonable satisfaction within ten (10) days after written notification to the Company describing in reasonable detail such breach and stating that such notice is being delivered pursuant to this Agreement; (b) a reduction in the Executive’s base salary to an amount below the base annual salary in effect as of the date of this Agreement; (c) a material reduction in the Executive’s benefits, including retirement, Company-paid insurance, sick leave, expense reimbursement and vacation time, as provided by the Company (except consistent with a general reduction of such benefits to executives of the Company as a whole); (d) an ongoing material and substantial diminution in the duties of the Executive not consistent with that of an executive with his position and duties; or (e) relocation of the Executive’s principal office to a location more than 25 miles from the Company’s headquarters on the date of this Agreement.
+
+Section 2.11 Person means any individual, firm, partnership, corporation or other entity, including any successor (by merger or otherwise) of such entity, or a group of any of the foregoing acting in concert.
+
+ARTICLE III
+
+EVENTS UPON CHANGE OF CONTROL
+
+Section 3.1 Change of Control Payment. If the Executive is actively employed by the Company or any of its Affiliates on the day immediately preceding the Change of Control Date, the Executive shall receive a Change of Control payment equal to 2.99 times the greater of (A) Executive’s base annual salary as of the date of this Agreement; and (B) Executive’s then-current base annual salary. The payment described herein shall be paid to the Executive in a cash lump sum on, or as soon as practicable after, the Change of Control Date. 
+
+Section 3.2 Accelerated Vesting of Options. Upon a Change of Control, all unvested options with respect to the Company’s stock held by the Executive shall vest and become immediately exercisable and shall be exercisable for a period ending on the later of (A) the fifth anniversary of the Change of Control Date or (B) the last date that such option would otherwise be exercisable under the terms of the option agreement or the plan pursuant to which such option was granted; provided, that in no event shall any option be exercisable after the expiration of the original term of the option.
+
+ARTICLE IV
+
+SEVERANCE PAYMENTS
+
+Section 4.1 Severance Payments Upon Certain Terminations of Employment. Upon the termination of the Executive’s employment by the Executive for Good Reason or by the Company without Cause, the Executive shall be entitled to the following severance:
+
+-4-
+
+* * *
+
+(a) The Company shall make payments to the Executive of continued salary for one year at a rate equal to the Executive’s base salary in effect at the time of such termination, payable pursuant to normal payroll procedures of the Company;
+
+(b) The Company shall pay to Executive, in a lump sum and as promptly as practicable after such termination, Executive’s earned but unpaid compensation accrued through the date of such termination;
+
+(c) All of the Executive’s unvested options for shares of the Company’s stock and all of the Executive’s unvested shares of restricted shares of the Company’s stock shall automatically vest in full as of the date of such termination;
+
+(d) Until the earlier of (i) twelve (12) months following termination; or (ii) the Executive’s securing coverage, through another employer, of benefits similar to those provided by the Company, the Company shall provide the same coverage to the Executive under the Company’s “employee welfare benefit plans” (as defined in Section 3(1) of the Employee Retirement Income Security Act of 1974) as is provided by the Company to comparable employees, or, in lieu of such coverage, the Company may reimburse the Executive on a net after-tax basis, for the cost of individual insurance coverage for the Executive and his dependents under a policy or policies that provide benefits not less favorable than the benefits provided under such employee welfare benefit plans; and
+
+(e) The Company also shall pay to the Executive all reasonable attorney’s fees and expenses incurred by the Executive in disputing in good faith any issue hereunder relating to the termination of Executive’s employment, in seeking in good faith to obtain or enforce any benefit or right provided by this Agreement or in connection with any tax audit or proceeding to the extent attributable to the application of Section 4999 of the Code to any payment or benefit provided hereunder. Such payments shall be made within five (5) business days after delivery of the Executive’s written requests for payment accompanied with such evidence of fees and expenses incurred as the Company reasonably may require.
+
+The Executive shall not be required to mitigate the amount of any payment or benefit contemplated by this Agreement (whether by seeking new employment or in any other manner). No such payment shall be reduced by earnings that the Executive may receive from any other source.
+
+  
+
+
+ARTICLE V
+
+NONQUALIFIED DEFERRED COMPENSATION OMNIBUS PROVISION
+
+Section 5.1 General. It is intended that any payment or benefit which is provided pursuant to or in connection with this Agreement which is considered to be nonqualified deferred compensation subject to Section 409A of the Code shall be paid and provided in a manner, and at such time and in such form, as complies with the applicable requirements of Section 409A of the Code to avoid the unfavorable tax consequences provided therein for noncompliance. In connection with effecting such compliance with Section 409A of the Code, the following shall apply:
+
+-5-
+
+* * *
+
+(a) Notwithstanding any other provision of this Agreement, the Company is authorized to amend this Agreement, to delay the payment of any monies and/or provision of any benefits in such manner as may be determined by it to be necessary or appropriate to comply, or to evidence or further evidence required compliance, with Section 409A of the Code (including any transition or grandfather rules thereunder);
+
+(b) If the Executive is a “key employee” of a publicly traded corporation within the meaning of Section 416(i) and any payment or provision of any benefit hereunder is subject to Section 409A in connection with a “separation from service” within the meaning of the U.S. Treasury Regulations promulgated under Section 409A, no payment or benefit shall be made or provided until the earlier of (i) the expiration of the six (6) month period measured from the date of the Executive’s “separation from service”; or (ii) the date of the Executive’s death (the “409A Payment Date”). In the event such payments are otherwise due to be made installments or periodically during the period from “separation of service” to the 409A Payment Date (the “Deferral Period”), the payments which would otherwise have been made during the Deferral Period shall be accumulated and paid in a lump sum upon the 409A Payment Date, and the balance of the payments shall be made as otherwise scheduled. In the event benefits are required to be deferred, any such benefit may be provided during the Deferral Period at the Executive’s expense, with the Executive having a right to reimbursement from the Company once the Deferral Period ends, and the balance of the benefits shall be provided as otherwise scheduled.
+
+  
+
+
+ARTICLE VI
+
+SUCCESSORS AND ASSIGNS
+
+Section 6.1 Successors and Assigns of Company. If the Company sells, assigns or transfers all or substantially all of its business and assets to any Person or if the Company merges into or consolidates or otherwise combines (where the Company does not survive such combination) with any Person (any such event, a "Sale of Business"), then the Company shall assign this Agreement to such Person and cause such Person to expressly assume and agree to perform from and after the date of such assignment all of the terms, conditions and provisions imposed by this Agreement upon the Company. In case of such assignment by the Company and the assumption and agreement by such Person, "Company" as used in this Agreement shall thereafter mean the Person that assumes and agrees to perform this Agreement as provided for in this Section or that otherwise becomes bound by all the terms and provisions of this Agreement by operation of law, and this Agreement shall inure to the benefit of, and be enforceable by, such Person. The Executive shall, in his or her discretion, be entitled to proceed against any or all of such Persons, any Person which theretofore was such a successor to the Company and the Company (as so defined) in any action to enforce any rights of the Executive. Except as provided in this Section, this Agreement shall not be assignable by the Company. 
+
+-6-
+
+* * *
+
+Section 6.2 Successors and Assigns of Executive. The Executive shall not have the right to assign, transfer, alienate, anticipate, pledge or encumber any portion of a payment due hereunder, nor shall such amounts be subject to seizure by legal process by any creditor of such Executive. All rights of the Executive under this Agreement shall inure to the benefit of and be enforceable by the Executive's personal or legal representatives, executors, administrators, heirs and beneficiaries. In the event of the Executive's death, all amounts payable to the Executive under the Agreement if the Executive had lived, shall be paid to the Executive's estate, heirs or representatives.
+
+ARTICLE VII
+
+MISCELLANEOUS
+
+Section 7.1 Notices. Notices given pursuant to this Agreement shall be in writing and shall be deemed given when personally delivered or sent by telecopy transmission or three (3) days after being sent by United States mail, postage prepaid to the parties at their respective address set forth below:
+
+To the Company:
+
+  
+
+
+FARO Technologies, Inc.
+
+Attention: Chief Financial Officer
+
+125 Technology Park
+
+Lake Mary, FL 32746
+
+  
+
+
+To the Executive:
+
+  
+
+
+To Executive’s address contained in the Company’s records.
+
+  
+
+
+Section 7.2 Severability. The provisions of this Agreement shall be regarded as divisible, and if any of such provisions or any part are declared invalid or unenforceable by a court of competent jurisdiction, the validity and enforceability of the remainder of such provisions or parts and the applicability thereof shall not be affected thereby.
+
+Section 7.3 Withholding. The Company shall be entitled to withhold from amounts to be paid to the Executive any federal, state or local withholding or other taxes or charges which it is from time to time required to withhold. The Company shall be entitled to rely on an opinion of nationally recognized tax counsel if any question as to the amount or requirement of any such withholding shall arise.
+
+Section 7.4 Entire Agreement. This Agreement embodies the entire Agreement and understanding between the Company and Executive relating to the subject matter hereof.
+
+-7-
+
+* * *
+
+Section 7.5 Governing Law; Resolution of Disputes. The laws of the State of Florida and the federal laws of the United States of America, excluding the laws of those jurisdictions pertaining to resolution of conflicts with laws of other jurisdictions, govern the validity, enforcement, construction, and interpretation of this Agreement. In the event that there is any litigation under this Agreement, Executive and the Company (a) consent to the personal jurisdiction of the state and federal courts having jurisdiction in Orange County, Florida, (b) stipulate that the proper, convenient, and exclusive venue for any legal proceeding arising out of this Agreement is Orange County, Florida, for a state court proceeding, or the Middle District of Florida, Orlando Division, for a federal court proceeding, and (c) waive any defense, whether asserted by motion or pleading, that Orange County, Florida, or the Middle District of Florida, Orlando Division, is an improper or inconvenient venue. 
+
+Section 7.6 No Waiver. No waiver of any provision of this Agreement shall be valid unless in writing and signed by the person against whom it is sought to be enforced. The failure by either party to insist upon strict performance of any provision will not be construed as a waiver or relinquishment of the right to insist upon strict performance of the same provision at any other time, or any other provision of this Agreement.
+
+Section 7.7 Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original but all of which together will constitute one and the same instrument.
+
+Section 7.8 Headings. The headings contained are for reference only and shall not affect the meaning or interpretation of any provision of this Agreement
+
+Section 7.9 Further Assurances. Each party hereto shall cooperate and shall take such further action and shall execute and deliver such further documents as may be reasonably necessary in order to carry out the provisions and purposes of this Agreement.
+
+Section 7.10 No Strict Construction. The parties have jointly participated in the negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the parties hereto, and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement.
+
+EXECUTIVE ACKNOWLEDGES THAT HE HAS CAREFULLY READ THIS AGREEMENT, WAS AFFORDED SUFFICIENT OPPORTUNITY TO CONSULT WITH LEGAL COUNSEL OF HIS CHOICE, AND TO ASK QUESTIONS AND RECEIVE SATISFACTORY ANSWERS REGARDING THIS AGREEMENT, UNDERSTANDS HIS RIGHTS AND OBLIGATIONS UNDER IT, AND SIGNED IT OF HIS OWN FREE WILL AND VOLITION.
+
+-8-
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Executive and Company have executed this Agreement as of the date first written above.
+
+COMPANY:  
+FARO TECHNOLOGIES, INC.  
+/s/ Simon Raab   
+Name: Simon Raab  
+Title: Co-Chief Executive Officer  
+EXECUTIVE:  
+/s/ Jay Freeland   
+  
+Name: Jay Freeland  
+  
+  
+
+
+-9-
+
+* * *

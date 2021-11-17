@@ -1,0 +1,217 @@
+EXHIBIT 10.1 
+
+
+
+This Stock Purchase Agreement (this “Agreement”) is made as of the 10th day of January, 2011 by and among Calando Pharmaceuticals, Inc., a Delaware corporation (the “Company”), Arrowhead Research Corporation, a Delaware corporation (“Arrowhead”) and the investors listed on Exhibit A attached hereto (including Arrowhead, each, an “Investor” and, together, the “Investors”). 
+
+WHEREAS, the Company has issued to Arrowhead a series of promissory notes issued prior to November 2008, with the total outstanding principal and accrued interest owed as of October 31, 2010 being $$5,946,840 (the “Prior Indebtedness”), which the Company and Arrowhead desire to convert to a newly issued Series C Preferred Stock, par value $0.0001 per share, of the Company (the “Series C Stock”) at a purchase price of $0.155 per share; 
+
+WHEREAS, the Company has issued to Arrowhead a series of promissory notes issued after June 2009 and the Company is additionally indebted to Arrowhead through a series of intercompany loans carried on the books of the Company, with the total outstanding principal and accrued interest owed as of October 31, 2010 being $2,152,787, (the “Current Indebtedness” and together with the Prior Indebtedness, the “Indebtedness”), which the Company and Arrowhead desire to convert to a newly issued Series B Preferred Stock, $0.0001 par value per share, of the Company (the “Conversion Series B Stock”) at a purchase price of $0.155 per share; 
+
+WHEREAS, the Arrowhead and the Investors wish to purchase and the Company wishes to sell for cash up to 7,000,000 shares of Series B Preferred Stock, par value $0.0001 per share (the “Purchase Series B Stock”, together with the Conversion Series B Stock, the “Series B Stock”) at a purchase price of $0.155 per share; 
+
+NOW, THEREFORE, in consideration for the mutual promises set forth herein and for other good and valuable consideration, the parties hereby agree as follows: 
+
+1\. Purchase and Sale of Preferred Stock. 
+
+1.1 Sale and Issuance of Series B Preferred Stock and Series C Preferred Stock; Cancellation of Notes. 
+
+(a) Simultaneously with the sale and purchase of the Series B and Series C Stock, the Company shall adopt and file with the Secretary of State of the State of Delaware the Third Amended and Restated Certificate of Incorporation of the Company in the form of Exhibit B attached to this Agreement (the “Restated Certificate”). 
+
+(b) Subject to the terms and conditions of this Agreement, each Investor agrees to purchase at the Closing and the Company agrees to sell and issue to each Investor at the Closing, that number of shares of Series B Stock and/or Series C Stock set forth opposite each Investor’s name on Exhibit A, at a purchase price of fifteen cents ($0.15) per share in the form of (a) cash, solely with respect to the Purchase Series B Stock, (paid by check or wire transfer) in United States Dollars to the Company and/or (b) cancellation of indebtedness of the Company owed to such Investor, solely with respect to the Conversion Series B Stock and the Series C Stock. The shares of Series B Stock and Series C Stock issued to the Investors pursuant to this Agreement shall be referred to in this Agreement as the “Shares.” 
+
+1 
+
+* * *
+
+1.2 Closing; Delivery. 
+
+(a) The consummation of the purchase and sale of the Shares (the “Closing”) shall be conditional upon the satisfaction of the closing conditions set forth herein, and take place on [date] at the Company’s principal office at 201 South Lake Avenue, Suite 703, Pasadena, California 91101 or at such other time and place as the Company and the Investors mutually agree upon. 
+
+(b) As consideration for the portion of the Shares issued in exchange for cancellation of the Indebtedness and effective upon the Closing without any further action by the parties, the Indebtedness shall be deemed cancelled. 
+
+(c) Following the Closing, and conditional upon the cancellation of the Indebtedness, the Company shall deliver to such Investor a certificate representing the Shares being purchased by such Investor at the Closing. 
+
+1.3 Defined Terms Used in this Agreement. In addition to the terms defined above, the following terms used in this Agreement shall be construed to have the meanings set forth or referenced below. 
+
+“Code” means the Internal Revenue Code of 1986, as amended. 
+
+“Investors’ Rights Agreement” means the Amended and Restated Investors’ Rights Agreement between the Company and certain of its stockholders and investors, dated as of April 17, 2008. 
+
+“Material Adverse Effect” means a material adverse effect on the business, assets (including intangible assets), liabilities, financial condition, property or results of operations of the Company, taken as a whole. 
+
+“Investor” means each of the Investors who is a party to this Agreement. 
+
+“Securities Act” means the Securities Act of 1933, as amended. 
+
+“to the Company’s knowledge” shall mean the actual knowledge of Christopher Anzalone and Kenneth C. Myszkowski. 
+
+2\. Representations and Warranties of the Company. The Company hereby represents and warrants to each Investor the following: 
+
+2.1 Organization, Good Standing, Corporate Power and Qualification. The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has all requisite corporate power and authority to carry on its business as presently conducted and as proposed to be conducted. The Company is duly qualified to transact business and is in good standing in each jurisdiction in which the nature of its business or its ownership of its properties requires it to be so qualified, except where a failure to be so qualified would not have a Material Adverse Effect. 
+
+2 
+
+* * *
+
+2.2 Capitalization. Immediately prior to the Closing, the authorized capital of the Company consists of: 
+
+(a) 250,000,000 shares of Common Stock, $0.0001 par value per share (“Common Stock”), 140,812,123 shares of which are issued and outstanding. All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws. 
+
+(b) 75,000,000 shares of Preferred Stock, $0.0001 par value per share, of which (i) 5,000 shares have been designated Series A Preferred Stock, $0.0001 par value per shares (“Series A Stock”), 2,950 shares of which are issued and outstanding, each of which shares is convertible into 1,734.16 shares of common stock, subject to adjustment as set forth in the Company’s Articles of Incorporation, (ii) ) 39,000,000 million shares have been designated Series B Preferred Stock, $0001 par value per shares (“Series B Stock”), and 26,000,000 million shares have been designated Series C Preferred Stock, $0001 par value per shares (“Series C Stock”). 
+
+(c) There are issued and outstanding options to purchase 7,840,557 shares of Common Stock pursuant to the Insert Therapeutics, Inc. (n/k/a Calando Pharmaceuticals, Inc.) 2000 Stock Option/Stock Issuance Plan and the Calando 2005 Stock Option and Stock Incentive Plan. 
+
+(d) There are issued and outstanding warrants to purchase 3,675,473 shares of Common Stock. Except for (i) the rights provided in the Investors’ Rights Agreement, (ii) the securities and rights described in Section 2.2(b), Section 2.2(c) and Section 2.2(d) of this Agreement, and (iii) the certain of the demand notes (which shall be cancelled effective upon the Closing), there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or any securities convertible into or exchangeable for shares of Common Stock or Preferred Stock. 
+
+2.3 Subsidiaries. The Company does not currently own or control, directly or indirectly, any interest in any other corporation, partnership, trust, joint venture, limited liability company, association, or other business entity. The Company is not a participant in any joint venture, partnership or similar arrangement. 
+
+2.4 Authorization. All corporate action required to be taken by the Company’s Board of Directors and stockholders in order to authorize the Company to enter into this Agreement, and to issue the Shares at the Closing and the Common Stock issuable upon conversion of the Shares, has been taken or will be taken prior to the Closing. All action on the part of the officers of the Company necessary for the execution and delivery of this Agreement, the performance of all obligations of the Company under this Agreement to be performed as of the Closing, and the issuance and delivery of the Shares has been taken or will be taken prior to the Closing. This Agreement constitutes the valid and legally binding obligation of the Company, enforceable against the Company in accordance with its respective terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application relating to or affecting the enforcement of creditors’ rights generally, or (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies. 
+
+3 
+
+* * *
+
+2.5 Valid Issuance of Shares. The Shares, when issued, sold and delivered in accordance with the terms and for the consideration set forth in this Agreement, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under applicable state and federal securities laws and liens or encumbrances created by or imposed by an Investor. Assuming the accuracy of the representations of the Investors in Section 3 of this Agreement and subject to the filings described in Section 2.6(ii) below, the Shares will be issued in compliance with all applicable federal and state securities laws. The Common Stock issuable upon conversion of the Shares has been duly reserved for issuance, and upon issuance in accordance with the terms of the Restated Certificate, will be validly issued, fully paid and nonassessable and free of restrictions on transfer other than restrictions on transfer under applicable federal and state securities laws and liens or encumbrances created by or imposed by an Investor. Based in part upon the representations of the Investors in Section 3 of this Agreement, and subject to Section 2.6 below, the Common Stock issuable upon conversion of the Shares will be issued in compliance with all applicable federal and state securities laws. 
+
+2.6 Governmental Consents and Filings. Assuming the accuracy of the representations made by the Investors in Section 3 of this Agreement, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state or local governmental authority is required on the part of the Company in connection with the consummation of the transactions contemplated by this Agreement, except for (i) the filing of the Restated Certificate, and (ii) filings pursuant to Regulation D of the Securities Act, and applicable state securities laws, which have been made or will be made in a timely manner. 
+
+2.7 Compliance with Other Instruments. The execution, delivery and performance by the Company of this Agreement, and the consummation of the transactions contemplated hereby, do not and will not, after the giving of notice, the lapse of time or both, or otherwise, violate or constitute a default under (a) any provisions of the Restated Certificate (following the filing of same) or Bylaws of the Company, (b) any term, provision or covenant of any note, indenture, mortgage or material contract to which the Company is a party or by which it is bound, or (c) to the Company’s knowledge, any provision of federal or state statute, rule or regulation applicable to the Company or any judgment, order, writ or decree to which the Company is a party or by which the Company is bound, except in each case, where such violation or default would not have a Material Adverse Effect. 
+
+3\. Representations and Warranties of the Investors. Each Investor hereby represents and warrants to the Company, severally and not jointly, that: 
+
+4 
+
+* * *
+
+3.1 Authorization. Each Investor has full power and authority to enter into this Agreement. This Agreement constitutes valid and legally binding obligations of the Investor, enforceable in accordance with their terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’ rights generally, and as limited by laws relating to the availability of a specific performance, injunctive relief, or other equitable remedies. 
+
+3.2 Purchase Entirely for Own Account. This Agreement is made with the Investor in reliance upon the Investor’s representation to the Company, which by the Investor’s execution of this Agreement, the Investor hereby confirms, that the Shares to be acquired by the Investor will be acquired solely for investment for the Investor’s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Investor has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing this Agreement, the Investor further represents that the Investor does not presently have any contract, undertaking, agreement or arrangement with any Person to sell, transfer or grant participations to such Person or to any third person, with respect to any of the Shares. The Investor has not been formed for the specific purpose of acquiring the Shares. 
+
+3.3 Disclosure of Information. The Investor has had an opportunity to discuss the Company’s business, management, financial affairs and the terms and conditions of the offering of the Shares with the Company’s management. The Investor has received all information requested by such Investor and had all questions concerning the foregoing and the Shares answered to such Investor’s satisfaction prior to such Investor’s execution and delivery of this Agreement. The foregoing, however, does not limit or modify the representations and warranties of the Company in Section 2 of this Agreement or the right of the Investors to rely thereon. 
+
+3.4 Restricted Securities. The Investor understands that the Shares have not been, and will not be, registered under the Securities Act, by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Investor’s representations as expressed herein. The Investor understands that the Shares are “restricted securities” under applicable U.S. federal and state securities laws and that, pursuant to these laws, the Investor must hold the Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available. The Investor acknowledges that the Company has no obligation to register or qualify the Shares, or the Common Stock into which it may be converted, for resale. The Investor further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the Shares, and on requirements relating to the Company which are outside of the Investor’s control, and which the Company is under no obligation and may not be able to satisfy. 
+
+5 
+
+* * *
+
+3.5 No Public Market. The Investor understands that no public market now exists for the Shares, and that the Company has made no assurances that a public market will ever exist for the Shares. 
+
+3.6 Legends. The Investor understands that the Shares and any securities issued in respect of or exchange for the Shares, may bear one or all of the following legends: 
+
+(a) “THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AND HAVE BEEN ACQUIRED FOR INVESTMENT AND NOT WITH A VIEW TO, OR IN CONNECTION WITH, THE SALE OR DISTRIBUTION THEREOF. NO SUCH TRANSFER MAY BE EFFECTED WITHOUT AN EFFECTIVE REGISTRATION STATEMENT RELATED THERETO OR AN OPINION OF COUNSEL IN A FORM SATISFACTORY TO THE COMPANY THAT SUCH REGISTRATION IS NOT REQUIRED UNDER THE SECURITIES ACT OF 1933.” 
+
+(b) Any legend required by the securities laws of any state to the extent such laws are applicable to the Shares represented by the certificate so legended. 
+
+3.7 Accredited Investor. The Investor is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the Securities Act, which definition if summarized on Exhibit C attached hereto. 
+
+3.8 No General Solicitation. Neither the Investor, nor any of its officers, directors, employees, agents, stockholders or partners has either directly or indirectly, including through a broker or finder (a) engaged in any general solicitation, or (b) published any advertisement in connection with the offer and sale of the Shares. 
+
+3.9 Exculpation Among Investors. Each Investor acknowledges that it is not relying upon any person, firm or corporation, other than the Company and its officers and directors, in making its investment or decision to invest in the Company. Each Investor agrees that no Investor nor the respective controlling persons, officers, directors, partners, agents, or employees of any Investor shall be liable to any other Investor for any action heretofore or hereafter taken or omitted to be taken by any of them in connection with the purchase of the Shares. 
+
+3.10 Residence. If the Investor is an individual, then the Investor resides in the state or province identified in the address of the Investor set forth on Exhibit A; if the Investor is a partnership, corporation, limited liability company or other entity, then the office or offices of the Investor in which its principal place of business is located is at the address or addresses of the Investor set forth on Exhibit A. 
+
+4\. Miscellaneous. 
+
+4.1 Survival of Warranties. Unless otherwise set forth in this Agreement, the representations and warrants of the Company and the Investors contained in or made pursuant to this Agreement shall survive the execution and delivery of this Agreement and the Closing and shall in no way be affected by any investigation of the subject matter thereof made by or on behalf of the Investors or the Company. 
+
+6 
+
+* * *
+
+4.2 Transfer; Successors and Assigns. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. 
+
+4.3 Governing Law. This Agreement shall be governed by and construed in accordance with the General Corporation Law of the State of Delaware, without regard to its principles of conflicts of laws. 
+
+4.4 Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement may also be executed and delivered by facsimile signature and in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+
+4.5 Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
+
+4.6 Notices. All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given: (a) upon personal delivery to the party to be notified, (b) when sent by confirmed electronic mail or facsimile if sent during normal business hours of the recipient, and if not so confirmed, then on the next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) day after deposit with a nationally recognized overnight courier, specifying next day delivery, with written verification of receipt. All communications shall be sent to the respective parties at their address as set forth on the signature page or Exhibit A, or to such e-mail address, facsimile number or address as subsequently modified by written notice given in accordance with this Section 6.7. 
+
+4.7 Attorney’s Fees. If any action at law or in equity (including arbitration) is necessary to enforce or interpret the terms of this Agreement, the prevailing party shall be entitled to reasonable attorney’s fees, costs and necessary disbursements in addition to any other relief to which such party may be entitled. 
+
+4.8 Amendments and Waivers. Any term of this Agreement may be amended, terminated or waived only with the written consent of the Company and the holders of at least a majority of the then-outstanding Shares. Any amendment or waiver effected in accordance with this Section 6.10 shall be binding upon the Investors and each transferee of the Shares (or the Common Stock issuable upon conversion thereof), each future holder of all such securities, and the Company. Notwithstanding anything to the contrary contained herein, Section 4 may not be amended, terminated or waived. 
+
+7 
+
+* * *
+
+4.9 Severability. The invalidity of unenforceability of any provision hereof shall in no way affect the validity or enforceability of any other provision. 
+
+4.10 Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, shall impair any such right, power or remedy of such non-breaching or non-defaulting party nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement or by law or otherwise afforded to any party, shall be cumulative and not alternative. 
+
+4.11 Entire Agreement. This Agreement (including the Exhibits hereto) and the Restated Certificate constitute the full and entire understanding and agreement among the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing among the parties are expressly canceled. 
+
+8 
+
+* * *
+
+The parties have executed this Series A Preferred Stock Purchase Agreement as of the date first written above.   
+  
+COMPANY:  
+CALANDO PHARMACEUTICALS, INC.  
+  
+By:
+
+/s/ Christopher Anzalone  
+  
+Name:
+
+Christopher Anzalone  
+  
+Title:
+
+Chief Executive Officer  
+  
+Address:
+
+201 South Lake Avenue, Suite 703 Pasadena, CA 91101  
+  
+[Investor signature pages follow] 
+
+* * *  
+  
+INVESTOR:  
+  
+ARROWHEAD RESEARCH CORP.
+
+(Print Name of Investor)  
+  
+By: /s/ Kenneth Myszkowski  
+Name: Kenneth Myszkowski  
+Title: Chief Financial Officer  
+Address: 201 South Lake Avenue, Suite 703 Pasadena, CA 91101  
+  
+* * *
+
+EXHIBIT A 
+
+Schedule of Investors 
+
+Arrowhead Research Corporation 
+
+201 South Lake Avenue 
+
+Suite 703 
+
+Pasadena, CA 91101   
+  
+Investment Amount
+
+Method of Payment
+
+Number of Shares Purchased  
+  
+$1,000,000
+
+Cash 6,451,613 Shares of Series B Preferred Stock  
+  
+$2,152,787
+
+Cancellation of New Indebtedness 13,888,948 Shares of Series B Preferred Stock  
+  
+$5,946,840*
+
+Cancellation of Old Indebtedness 38,366,710 Shares of Series C Preferred Stock

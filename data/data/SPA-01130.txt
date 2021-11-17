@@ -1,0 +1,281 @@
+Exhibit 10.1
+
+
+
+THIS STOCK PURCHASE AGREEMENT (this “Agreement”) is entered into as of September 14, 2015 (the “Effective Date”) by and between BioTime, Inc., a California corporation (the “Company”) and the undersigned identified on the signature page attached hereto (“Purchaser”).
+
+  
+
+
+ARTICLE 1.
+
+PURCHASE AND SALE OF SHARES
+
+1.1  Sale of Shares. Purchaser hereby irrevocably agrees to purchase from the Company, and the Company agrees to sell to Purchaser pursuant to the Registration Statement (as defined below), the number of common shares, no par value (“Shares”), shown on the signature page of this Agreement, at the price of $3.29 per Share (the “Purchase Price”).
+
+  
+
+
+ARTICLE 2.
+
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+
+  
+
+
+Except as set forth in the most current prospectus (the “Prospectus”) included in Registration Statement on Form S-3 (File No. 333-201824) (the “Registration Statement”) under the Securities Act of 1933, as amended (the “Securities Act”) registering the offer and sale of the Shares, and in a prospectus supplement filed in accordance with Rule 424(b) under the Securities Act describing the offer of the Shares (the “Prospectus Supplement”), including all documents and information incorporated by reference therein, the Company represents and warrants to Purchaser that:
+
+2.1  Organization. The Company is a corporation duly organized, validly existing and in good standing under the laws of the state of California. The Company is duly qualified to do business in the state of California and in each other state in which it is doing business and where the failure to so qualify could have a material adverse effect on its business, operations, or properties, or could subject the Company to fines or penalties that are material to the Company’s financial condition.
+
+2.2  Authority; Enforceability. The Company has the power and authority to execute and deliver this Agreement and to perform all of its obligations hereunder. This Agreement has been duly authorized, executed and delivered by the Company and is the valid and binding agreement of the Company, enforceable in accordance with its terms subject to: (i) laws of general application relating to bankruptcy, insolvency and the relief of debtors; and (ii) general principles of equity.
+
+2.3  Valid Issuance of Shares. The Shares that are being purchased by Purchaser hereunder, when issued, sold and delivered in accordance with the terms of this Agreement, including payment of the Purchase Price, will be duly and validly issued, fully paid, and nonassessable.
+
+* * *
+
+2.4  Capitalization. The Company is authorized to issue the following shares of capital stock: 125,000,000 common shares, no par value, and 2,000,000 preferred shares, no par value. As of September 2, 2015, there were: no preferred shares issued and outstanding; 84,156,127 common shares issued and 79,262,185 common shares outstanding excluding 4,893,942 common shares held by subsidiaries and treated as treasury shares.
+
+2.5  Disclosure Documents; Financial Statements. The Company has filed all reports required to be filed by it under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), including pursuant to Section 13(a) or 15(d) thereof (the foregoing materials being collectively referred to herein as the SEC Reports), during the twelve (12) months prior to the date hereof. None of the SEC Reports, when filed, contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. The financial statements of the Company included in the SEC Reports (i) have been prepared in accordance with United States generally accepted accounting principles (“GAAP”) applied on a consistent basis during the periods involved, except as may be otherwise specified in such financial statements or the notes thereto, or, in the case of unaudited statements, as permitted by Form 10-Q, and except that the unaudited financial statements may not contain footnotes and are subject to normal and recurring year-end adjustments that will not, individually or in the aggregate, be material in amount); and (ii) fairly present in all material respects the consolidated financial position of the Company and its subsidiaries on a consolidated basis as of the respective dates thereof and the consolidated results of operations and cash flows of the Company and its subsidiaries for the periods covered thereby.
+
+2.6  Absence of Certain Changes. Since June 30, 2015, except as specifically disclosed in SEC Reports, (i) there has not been any material adverse change in the financial condition, assets, liabilities, revenues, or business of the Company and its subsidiaries, taken as a whole, (ii) the Company has not incurred any liabilities (contingent or otherwise) other than (A) trade payables, accrued expenses, licensing fees and similar expenses, and other liabilities incurred in the ordinary course of business consistent with past practice, (B) liabilities not required to be reflected in the Company’s financial statements pursuant to GAAP or not required to be disclosed in filings made with the Securities and Exchange Commission (“SEC”), and (C) liabilities arising under this Agreement, and (iii) the Company has not declared or made any dividend or distribution of cash or other property to its stockholders or purchased, redeemed, or made any agreements to purchase or redeem any shares of its capital stock.
+
+2.7  Internal Controls. The Company maintains a process of “internal controls over financial reporting” (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that is designed to provide reasonable assurances: (i) that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles; (ii) that receipts and expenditures are being made only in accordance with the authorizations of management and directors; and (iii) regarding prevention or timely detection of the unauthorized acquisition, use or disposition of the assets of the Company and its subsidiaries that could have a material effect on the financial statements. The Company maintains a system of “disclosure controls and procedures” (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that is designed to provide reasonable assurances that all material information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, as appropriate, to allow timely decisions regarding required disclosure, and otherwise to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and regulations of the SEC.
+
+2
+
+* * *
+
+2.8  Registration Statement.
+
+(a) The Company has prepared and filed the Registration Statement in conformity with the requirements of the Securities Act. The Registration Statement is effective under the Securities Act and no stop order preventing or suspending the effectiveness of the Registration Statement or suspending or preventing the use of the Prospectus or the Prospectus Supplement has been issued by the SEC and no proceedings for that purpose have been instituted or, to the knowledge of the Company, are threatened by the SEC. The Company shall file a final Prospectus Supplement with the SEC pursuant to Rule 424(b) no later than two (2) business days after the Effective Date. The Registration Statement, and the Prospectus together with the Prospectus Supplement, do not contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements contained therein, in light of the circumstances under which they were made, not misleading.
+
+(b) When issued pursuant to this Agreement and the Registration Statement at Closing, the Shares will be free of restrictions on transfer under the Securities Act, other than such restrictions as may be applicable under Rule 144 under the Securities Act with respect to sales or transfers of securities by an affiliate (as defined in Rule 144) of the issuer should Purchaser be or become an affiliate of the Company.
+
+2.9  Listing and Maintenance Requirements. The Company has not, in the 12 months preceding the date hereof, received notice from the NYSE MKT to the effect that the Company is not in compliance with the listing or maintenance requirements of the NYSE MKT.
+
+2.10  Taxes. Since January 1, 2013, the Company has filed when due all federal, state, and local income tax returns, and all other returns with respect to taxes which are required to be filed with the appropriate authorities of the jurisdictions where business is transacted by the Company, or where the Company owns any property, and any taxes due, as reflected on such tax returns, have been paid.
+
+3
+
+* * *
+
+2.11  Subsidiaries. The Company’s subsidiaries are shown in its Quarterly Report on Form 10-Q for the three and six months ended June 30, 2015.
+
+2.12  No Conflict. The Company is not in violation or default of any provision of its Articles of Incorporation or bylaws, and is not in violation or default in any material respect of any instrument, judgment, order, writ, decree or contract to which it is a party or by which it is bound, or, to its knowledge, of any provision of any federal or state statute, rule or regulation applicable to it. The execution and delivery of this Agreement and consummation of the sale of the Shares contemplated by this Agreement (a) do not and will not violate any provisions of (i) any rule, regulation, statute, or law, (ii) the terms of any order, writ or decree of any court or judicial or regulatory authority or body, (iii) the Articles of Incorporation or bylaws of the Company, or (iv) the rules and regulations of the NYSE MKT applicable to the listing of the Company’s common shares, (b) will not conflict with or result in a breach of any condition or provision or constitute a default under or pursuant to the terms of any Material Contract (as defined below), and (c) will not result in the creation or imposition of any lien, charge or encumbrance upon any of the Shares or upon any of the assets or properties of the Company. The term Material Contract means any contract, agreement, license, lease, deed of trust, mortgage, lien, debenture, promissory note, or instrument to which the Company is a party (i) the termination of or default under which could have a material adverse effect on the business, financial condition, assets or prospects of the Company, or (ii) that constitutes a lien or security interest on any real or personal property of the Company the loss of which through a foreclosure sale would have a material adverse effect on the business, financial condition, assets or prospects of the Company.
+
+2.13  Litigation. Other than as disclosed in the SEC Reports, there is no lawsuit, arbitration proceeding, or administrative action or proceeding pending or threatened against the Company which (a) questions the validity of this Agreement or any action taken or to be taken by the Company in connection with this Agreement or the issue and sale of the Shares hereunder, (b) alleges any infringement of any trademark, service mark, or patent by the Company, or (c) if adversely decided would have a material adverse effect upon the business, financial condition, assets or prospects of the Company.
+
+2.14  Patents and Trademarks. The Company is the sole and exclusive owner of or has a valid license to use all patents, trademarks, service marks, trade names, copyrights, trade secrets, information, proprietary rights and processes presently used by the Company in its business as now conducted, without any conflict with or, to the Company’s knowledge infringement of the rights of others, except as disclosed in the SEC Reports. The Company has not received any communications alleging that it has violated or, by conducting its business as presently conducted, violates any of the patents, trademarks, service marks, trade names, copyrights or trade secrets or other proprietary rights of any other person or entity.
+
+4
+
+* * *
+
+2.15  Title to Property. The Company has good and marketable title to its property and assets free and clear of all mortgages, liens, loans and encumbrances. Title to all of the personal and real property used by the Company is held in the name of the Company or a subsidiary or is licensed or leased from a third party. With respect to the property leased or licensed from a third party, the Company is in compliance with such leases and licenses in all material respects and, to Company's knowledge, the Company holds a valid leasehold or license. All facilities, machinery, equipment, fixtures, vehicles and other properties owned, leased or used by the Company are in good operating condition and repair (subject to ordinary wear and tear) and are reasonably fit and usable for the purposes for which they are being used.
+
+2.16  Regulatory Permits. The Company possess all certificates, authorizations and permits issued by the appropriate federal, state, local or foreign regulatory authorities necessary to conduct its businesses as described in the SEC Reports (“Permits”), except where the failure to possess such Permits would not result in a material adverse effect, and the Company has not received any notice of proceedings relating to the revocation or modification of any Permit, the revocation or proposed modification of which would result in a material adverse effect.
+
+2.17  Employee Benefit Plans. Other than the Company’s Equity Incentive Plan and stock option and similar equity incentive plans maintained by Company subsidiaries, the Company does not have and has never maintained or sponsored any Employee Benefit Plan as defined in the Employee Retirement Income Security Act of 1974, as amended.
+
+2.18  Labor Agreements and Actions; Employee Compensation. The Company is not be bound by or subject to (and none of its assets or properties is bound by or subject to) any written or oral contract, commitment or arrangement with any labor union, and no labor union has requested or, to the Company's knowledge, has sought to represent any of the employees, representatives or agents of the Company. There is no strike or other labor dispute involving the Company pending, nor to the Company's knowledge, threatened, that could have a material adverse effect on the assets, properties, financial condition, operating results or business of the Company, nor is the Company aware of any labor organization activity involving its employees. The Company is not aware that any officer or key employee, or that any group of key employees, intends to terminate their employment the Company, nor does the Company have a present intention to terminate the employment of any of the foregoing. The employment of each officer and employee of the Company is terminable at the will of the Company. To its knowledge, the Company has complied in all material respects with all applicable state and federal equal employment opportunity and other laws related to employment.
+
+5
+
+* * *
+
+ARTICLE 3.
+
+REPRESENTATIONS AND WARRANTIES OF PURCHASER
+
+Purchaser hereby represents and warrants with respect to only itself to the Company the following:
+
+3.1  Organization. Purchaser, if not a natural person, is a corporation, limited liability company, partnership, trust or other entity duly organized, validly existing and in good standing under the laws of the state or other jurisdiction in which it is incorporated or otherwise organized.
+
+3.2  Authority; Enforceability. Purchaser has the power and authority to execute and deliver this Agreement and to perform all of its obligations under this Agreement. This Agreement has been duly authorized and executed by Purchaser and is the valid and binding agreement of Purchaser enforceable in accordance with its terms, except (i) to the extent limited by any bankruptcy, insolvency, or similar law affecting the rights of creditors generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies.
+
+3.3  No Conflict. The execution and delivery of this Agreement, and consummation of the transactions contemplated hereunder, including the purchase of the Shares, by Purchaser do not and will not violate any provisions of (i) any rule, regulation, statute, or law applicable to Purchaser or (ii) the terms of any order, writ, or decree of any court or judicial or regulatory authority or body by which Purchaser is bound, or (iii) the articles of incorporation, bylaws, or similar charter or governing documents of Purchaser.
+
+3.4  No Short Sales. Purchaser has not, nor has any person or entity acting on behalf of or pursuant to any understanding, agreement, or arrangement with Purchaser, directly or indirectly executed any “short sale,” as defined in SEC Rule SHO, of the common shares of the Company since June 30, 2015.
+
+3.5  Place of Business or Residence. Purchaser represents and warrants that Purchaser has Purchaser’s principal place of business or residence as set forth on the signature page of this Agreement.
+
+6
+
+* * *
+
+ARTICLE 4.
+
+CLOSING
+
+4.1  Time and Place of Closing. The consummation of the purchase and sale of the Shares (“Closing”) shall take place in on the third Business Day after the execution and delivery of this Agreement by Purchasers and the Company (the “Closing Date”). On the Closing Date, Purchaser shall pay in full the Purchase Price for the Shares purchased by wire transfer of the Purchase Price for the Shares being purchased by Purchaser, in immediately available funds, to an account designated by the Company. The Purchase Price shall be paid in United States Dollars. On the Closing Date, the Company shall issue to Purchaser the Shares purchased, against payment of the Purchase Price. Closing shall occur at the principal office of the Company or at such other place as the parties may agree. A “Business Day” shall be any day on which the banks in New York are not required or permitted to close.
+
+4.2  Documents to be Delivered By the Company. The Company shall deliver the following documents to Purchaser at the Closing:
+
+(a) Prospectus. A copy of the most current prospectus (the “Prospectus”) included in Registration Statement on Form S-3 (File No. 333-201824) under the Securities Act registering the offer and sale of the Shares (the “Registration Statement”), and a prospectus supplement filed in accordance with Rule 424(b) under the Securities Act describing the offer of the Shares; provided that the Prospectus and Prospectus Supplement may be delivered in accordance with Rule 172 under the Securities Act;
+
+(b) Shares. The Shares purchased by Purchaser, registered in the name of Purchaser delivered electronically via The Depository Trust Company Deposit / Withdrawal at Custodian system (“DWAC”).
+
+4.3  Conditions of the Company's Obligation to Close. The obligation of the Company to sell the Shares to Purchaser on each Closing Date is conditioned upon the following:
+
+(a) Payment and Delivery. The Company’s receipt of the Purchase Price for the Shares being sold to Purchaser;
+
+(b) Representations and Warranties. The representations and warranties made by Purchaser in ARTICLE 3 of this Agreement shall be true and correct in all material respects when made and on the Closing Date; provided, that any representation and warranty that is itself qualified by a materiality standard shall be true and correct in all respects; and
+
+(c) Performance of Covenants. Purchaser shall have fully performed all covenants and agreements required to be performed by Purchaser on or before the Closing Date.
+
+7
+
+* * *
+
+4.4  Conditions of Purchaser’s Obligation to Close. The obligation of Purchaser to purchase the Shares from the Company on any Closing Date is conditioned upon the following:
+
+(a) Delivery. Purchaser's receipt of the items required to be delivered by the Company under Section 4.2.
+
+(b) Representations and Warranties. The representations and warranties made by the Company in ARTICLE 2 of this Agreement shall be true and correct in all material respects when made and on the applicable Closing Date, unless made as of a specific date in which case they shall be accurate as of such date, and Purchaser shall have received from the Company a certificate, dated as of the Closing Date, to such effect signed by the Chief Executive Officer of the Company; provided, that any representation and warranty that is itself qualified by a materiality standard shall be true and correct in all respects.
+
+(c) Performance. The Company shall have performed and complied with all agreements, obligations and conditions contained in this Agreement that are required to be performed or complied with by it on or before the applicable Closing Date.
+
+(d) Bankruptcy; Insolvency. The Company shall not be subject to (i) any order for relief, or subject to any pending proceeding for reorganization or liquidation, under the United States Bankruptcy Code, as amended, or under any other law pertaining to insolvency of the Company or creditor’s rights generally, (ii) any appointment of a receiver for the Company or any of its assets, or (iii) any plan or action of dissolution or liquidation of the Company or its business.
+
+(e) No Material Adverse Event. No material adverse event shall have occurred since June 30, 2015.
+
+(f) Listing. The common shares of the Company shall be designated for quotation or listed on the NYSE MKT and on the Tel Aviv Stock Exchange (“TASE”), and the NYSE MKT and TASE shall not have suspended the listing or trading of the Company’s common shares, nor shall suspension by the SEC or the NYSE MKT or TASE have been threatened, as of the Closing Date, (A) in writing by the SEC, the NYSE MKT, or the TASE, or (B) by falling below applicable minimum listing maintenance requirements.
+
+8
+
+* * *
+
+  
+
+
+ARTICLE 5.
+
+ADDITIONAL COVENANTS
+
+  
+
+
+5.1  Further Assurances. Each party will execute, acknowledge, and deliver such additional certificates and documents and will take such additional actions as the other party may reasonably request on or after a Closing Date to effect, complete or perfect the issue and sale of the Shares to Purchaser.
+
+5.2  Purchasers’ Market Activity. Purchaser agrees that Purchaser shall not, prior to the public announcement by the Company that it has entered into this Agreement, engage in any stabilization activity in connection with the Company’s common shares, or otherwise bid for or engage in any purchase or sale, including any short sale (as defined in SEC Rule SHO) of the Company’s common shares, directly or through or in arrangement with any entity in control of, controlled by, or under common control with Purchaser. Purchaser covenants and agrees that until such time as the transactions contemplated by this Agreement are publicly disclosed by the Company pursuant to a press release, Purchaser will maintain the confidentiality of the existence and terms of this Agreement.
+
+5.3  Public Disclosure by the Company. Following the execution of this Agreement, the Company shall issue a press release and file a Current Report on Form 8-K describing the terms of the transactions contemplated by this Agreement, in the form required by the Exchange Act and attaching this Agreement as an exhibit to such filing.
+
+5.4  Publicity. No Purchaser shall issue any press release or make any similar public statement or communication disclosing the terms of this Agreement or the transactions hereunder without the prior written consent of the Company, provided that the Company’s consent shall not unreasonably be withheld or delayed if such disclosure is required by law and Purchaser shall have provided the Company with a copy of the proposed press release or other public statement or communication a reasonable time prior to the public release or dissemination thereof.
+
+  
+
+
+ARTICLE 6.
+
+MISCELLANEOUS
+
+6.1  Governing Law. This Agreement shall be construed and governed in all respects by the internal laws of the State of California without giving effect to any choice of law rule that would cause the application of the laws of any jurisdiction other than the internal laws of the State of California to the rights and duties of the parties. All disputes and controversies arising out of or in connection with this Agreement shall be resolved non-exclusively by the state and federal courts located in the State of New York and the State of California, and each party agrees to submit to the jurisdiction of said courts.
+
+9
+
+* * *
+
+6.2  Successors and Assigns. The parties may not assign their rights or obligations under this Agreement, directly or by operation of law, without the consent of the other party. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the respective successors, assigns, heirs, executors and administrators of Purchaser and the Company.
+
+6.3  Entire Agreement; Amendment. This Agreement constitutes the full and entire understanding and agreement among the parties with regard to the subject matter of this Agreement. This Agreement and any term of this Agreement may be amended, waived, discharged or terminated only by a written instrument signed by the parties.
+
+6.4  Notices, etc. All notices and other communications required or permitted to be given pursuant to this Agreement shall be in writing and shall be deemed given (a) four (4) days after being deposited in the mail, certified air postage prepaid, return receipt requested, or (b) when delivered by hand, by messenger or next Business Day or overseas express air freight service (such as FedEX or DHL), or (c) on the date of facsimile transmission (FAX) or electronic mail (email) if sent at or prior to 5:30 p.m. (New York City time) on a Business Day, or the next Business Day after the date of facsimile or email transmission, if sent on a day that is not a Business Day or later than 5:30 p.m. (New York City time) on a Business Day, in any case addressed as follows:
+
+To Purchaser:
+
+At the address or FAX number or email address of Purchaser shown on the signature page of this Agreement  
+  
+To the Company: 
+
+BioTime Inc.  
+  
+1301 Harbor Bay Parkway
+
+Alameda, California 94502
+
+Attention: Chief Financial Officer
+
+FAX: (510) 521- 3389
+
+Email: rpeabody@biotimemail.com  
+  
+Any party may change its address for the purpose of this Agreement by giving notice to each other party in accordance with this Section.
+
+6.5  Expenses. Purchaser and the Company shall bear their own expenses, including fees and expenses of their own advisers, counsel, accountants and other experts, if any, and all other expenses incurred by the party incident to the negotiation, preparation, execution, delivery and performance of this Agreement. The Company shall pay all stamp taxes and other taxes and duties levied in connection with the delivery of the Shares to Purchaser.
+
+10
+
+* * *
+
+6.6  Brokers. Purchaser shall have no liability to any broker, finder, investment banker, or other advisor retained or engaged by the Company or any subsidiary of the Company in connection with the transactions contemplated by this Agreement.
+
+6.7  Titles and Subtitles. The titles or headings of the Articles and Sections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement.
+
+6.8  Severability. If one or more provisions of this Agreement are held to be unenforceable under applicable law, each such unenforceable provision shall be excluded from this Agreement and the balance of this Agreement shall be interpreted as if each such unenforceable provision were so excluded, and the balance of this Agreement as so interpreted shall be enforceable in accordance with its terms.
+
+6.9  Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. This Agreement may be executed with signatures transmitted among the parties by facsimile or by email delivery of a pdf format data file, and no party shall deny the validity of a signature or this Agreement signed and so transmitted on the basis that a signed document is represented by a copy or facsimile or pdf format data file and not an original.
+
+6.10  Termination. This Agreement may be terminated by Purchaser with respect to itself, by written notice to the Company, or by the Company with respect to all Purchasers, by written notice to all Purchasers, in either case if the Closing has not been consummated on or before the third Business Day after the Effective Date other than due to a breach of this Agreement or any covenant or agreement hereunder by the party seeking to so terminate this Agreement. Termination of this Agreement will not affect the right of any party not in breach of its covenants and agreements under this Agreement to sue for any breach of this Agreement by the other party.
+
+[Signatures on following page]
+
+11
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned parties have executed this Agreement as of the date first above written.
+
+  
+
+
+COMPANY:
+
+BioTime, Inc.
+
+By: ______________________________________
+
+Title: _____________________________________
+
+  
+
+
+PURCHASER:
+
+  
+
+
+__________________________________________
+
+  
+
+
+By: ____________________________________
+
+  
+
+
+Title: ___________________________________
+
+  
+
+
+Number of Shares Purchased: ____________________
+
+  
+
+
+Address:
+
+______________________________  
+  
+______________________________  
+  
+FAX Number: ___________________
+
+Email: _________________________  
+  
+  
+
+
+12

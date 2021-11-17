@@ -1,0 +1,91 @@
+Exhibit 10.20 
+
+
+
+UNDER THE 
+
+SWITCH & DATA 2007 STOCK INCENTIVE PLAN 
+
+This Nonqualified Stock Option Agreement (this “Option Agreement”) is made and entered into effective as of {date of grant} (the “Date of Grant”), by and between Switch & Data Facilities Company, Inc., a Delaware corporation (the “Company”), and {name of grantee} (the “Grantee”). Capitalized terms not defined herein shall have the meaning ascribed to them in the Switch & Data 2007 Stock Incentive Plan (the “Plan”). [NOTE: The Option Agreement may be used for an option granted as a substitute and replacement for an option granted by a predecessor entity that is merged into or acquired by the Company, in which event the following provision is included: On {date of grant of prior option}, the Company’s predecessor {name of predecessor entity} (the “Predecessor”) granted to the Grantee a nonqualified stock option to purchase {number of shares subject to prior option} shares of the Predecessor’s {description of predecessor stock subject to prior option} for ${exercise price of prior option} per share under the {name of plan under which prior option was granted} (the “Predecessor Option”). The Company and the Predecessor executed and consummated {description of transaction agreement between Company and predecessor entity} pursuant to which the Predecessor {has merged with and into the Company, or has been acquired by the Company, whichever is applicable} (the {“Merger” or “Acquisition” whichever is applicable}. In accordance with the terms of the {Merger or Acquisition}, the Company wishes to grant to the Grantee, and the Grantee wishes to accept from the Company, a nonqualified stock option pursuant to the terms of the Plan as a substitute and replacement for the Predecessor Option.] 
+
+1\. Number of Shares. The Company hereby grants to the Grantee a nonqualified stock option (the “Option”) to purchase {number of shares} Shares (the “Option Shares”) with an Exercise Price of ${exercise price} per Share, subject to all of the terms and conditions of this Option Agreement and the Plan. [NOTE: If the Option is granted in substitution for an option granted by a predecessor entity, the following provision is included: The Company grants the Option as a complete substitution for and replacement of the Predecessor Option. The Grantee accepts the Option as a complete substitution for and replacement of the Predecessor Option.] 
+
+2\. Option Term. The term of the Option and of this Option Agreement (the “Option Term”) shall commence on the Date of Grant set forth above and, unless the Option is previously terminated pursuant to Section 5 of the Plan, shall terminate on {expiration date} (the “Expiration Date”). Upon termination of Grantee’s Continuous Status as an Employee or Consultant, the Option shall terminate {period of time} after the Date of Termination, or such longer period as may be applicable upon death or Disability of Grantee as provided in the Plan. Notwithstanding the above, as of the Expiration Date, all rights of the Grantee hereunder shall terminate. 
+
+3\. Vesting and Exercisability. 
+
+(a) The Grantee’s interest in the Option shall vest according to the schedule described in this Section 3 and shall be exercisable as to not more than the vested percentage of the shares subject to the Option at any point in time. To the extent the Option is either unexercisable or unexercised, the unexercised portion shall accumulate until the Option both becomes exercisable and is exercised, subject to the provisions of Section 2 of the Agreement. Except as otherwise provided in Section 3(b) below, the Option shall become vested according to the following schedule: 
+
+(b) The Administrator, in its sole and absolute discretion, may accelerate the vesting of the Option at any time. 
+
+4\. Method of Exercise of Option. 
+
+(a) The Option may be exercised by delivering to the Company an executed stock option exercise notice in the form approved by the Administrator from time to time, which shall set forth (i) the Grantee’s election to exercise the Option, (ii) the number of full Option Shares being purchased and (iii) any representations, warranties and agreements regarding the Grantee’s investment intent and access to information as may be required by the Company to comply with applicable securities laws, and payment in full of the aggregate Exercise Price. 
+
+* * *
+
+(b) The Option may not be exercised unless such exercise is in compliance with all applicable federal and state securities law, as they are in effect on the date of exercise. 
+
+(c) Payment of the aggregate Exercise Price for Option Shares being purchased may be made (i) in cash, (ii) by check, (iii) by wire transfer, (iv) in the sole and absolute discretion of the Administrator, such other methods as provided by the terms of the Plan. 
+
+(d) The Option may not be exercised for a fraction of a share. 
+
+5\. Nontransferability of Option. The Option shall be exercisable, during the Grantee’s lifetime, only by the Grantee or, during the period the Grantee is under legal disability, by the Grantee’s guardian or legal representative. The terms of the Plan and this Option Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Grantee. Without limiting the generality of the foregoing, except as otherwise provided herein, the Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Grantee other than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company. 
+
+6\. Notices. All notices and other communications under this Option Agreement shall be in writing and shall be given by facsimile or first class mail, certified or registered with return receipt requested, and shall be deemed to have been duly given three days after mailing or 24 hours after transmission by facsimile to the respective parties named below:   
+  
+If to Company:
+
+SWITCH & DATA FACILITIES COMPANY, INC.
+
+1715 North Westshore Boulevard, Suite 650
+
+Tampa, Florida 33607
+
+Attn: General Counsel  
+  
+If to the Grantee, any notice shall be sent to the Grantee care of the Company at the above address of the Company unless and until such other address is provided to the Company by or on behalf of the Grantee. 
+
+Either party hereto may change such party’s address for notices by notice duly given pursuant hereto. 
+
+7\. Securities Laws Requirements. The Option shall not be exercisable to any extent, and the Company shall not be obligated to transfer any Option Shares to the Grantee upon exercise of such Option, if such exercise, in the opinion of counsel for the Company, would violate the Securities Act of 1933, as amended (the “Securities Act”) (or any other federal or state statutes having similar requirements as may be in effect at that time). 
+
+8\. Change in Control. In the event of a Change in Control, then the following provisions shall apply: 
+
+(a) Dissolution or Liquidation. In the event of the proposed dissolution or liquidation of the Company, to the extent that an Award is outstanding, it will terminate immediately prior to the consummation of such proposed action. The Board may, in the exercise of its sole and absolute discretion in such instances, declare that the Option shall terminate as of a date fixed by the Board and give the Grantee the right to exercise the Option as to all or any part of the Covered Stock, including Shares as to which the Option would not otherwise be exercisable. 
+
+(b) Merger or Asset Sale. Except as otherwise determined by the Board, in its sole and absolute discretion, prior to the occurrence of a merger of the Company with or into another corporation, or the sale of substantially all of the assets of the Company, in the event of such a merger or sale the Option shall be assumed or an equivalent option or right shall be substituted by the successor corporation or a Parent or Subsidiary of the successor corporation. In the event that the successor corporation or a Parent or Subsidiary of the successor corporation does not agree to assume the Option or to substitute an equivalent option or right, the Board may, in the exercise of its sole and absolute discretion and in lieu of such assumption or substitution, provide for the Grantee to have the right to exercise the Option as to all or a portion of the Covered Stock, including Shares as to 
+
+* * *
+
+which it would not otherwise be exercisable. If the Board makes the Option exercisable in lieu of assumption or substitution in the event of a merger or sale of assets, the Administrator shall notify the Grantee that the Option shall be fully exercisable for a period of 15 days from the date of such notice, and the Option will terminate upon the expiration of such period. For the purposes of this paragraph, the Option shall be considered assumed if, following the merger or sale of assets, the option or right confers the right to purchase, for each Share of Covered Stock subject to the Option immediately prior to the merger or sale of assets, the consideration (whether stock, cash, or other securities or property) received in the merger or sale of assets by holders of Common Stock for each Share held on the effective date of the transaction (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding Shares); provided, however, that if such consideration received in the merger or sale of assets was not solely common stock of the successor corporation or its Parent, the Board may, with the consent of the successor corporation and the participant, provide for the consideration to be received upon the exercise of the Option, for each Share subject to the Option, to be solely common stock of the successor corporation or its Parent equal in Fair Market Value to the per Share consideration received by holders of Common Stock in the merger or sale of assets. 
+
+(c) Except as otherwise determined by the Board, in its sole and absolute discretion, prior to the occurrence of a Change in Control other than the dissolution or liquidation of the Company, a merger of the Company with or into another corporation, or the sale of substantially all of the assets of the Company, in the event of such a Change in Control, the Option, to the extent exercisable and vested, shall be terminated in exchange for a cash payment equal to the Change in Control Price (reduced by the exercise price applicable to such Option). These cash proceeds shall be paid to the Grantee or, in the event of death of the Grantee prior to payment, to the estate of the Grantee or to a person who acquired the right to exercise the Option by bequest or inheritance. 
+
+9\. Withholding Requirements. The Company shall deduct from all cash distributions under the Plan any taxes required to be withheld by federal, state, local or foreign government. Whenever the Company proposes or is required to issue or transfer Shares under the Plan, the Company shall have the right to require the recipient to remit to the Company an amount sufficient to satisfy any federal, state, local and foreign withholding tax requirements prior to the delivery of any certificate or certificates for such shares. The Grantee may pay the withholding tax in cash, or the Grantee may elect to have the number of Shares he is to receive reduced by the smallest number of whole Shares that, when multiplied by the Fair Market Value of the Shares determined as of the Tax Date (defined below), is sufficient to satisfy federal, state, local and foreign, if any, withholding taxes arising from exercise or payment of a grant under the Plan (a “Withholding Election”). The Grantee may make a Withholding Election only if the Withholding Election is made on or prior to the date on which the amount of tax required to be withheld is determined (the “Tax Date”) by executing and delivering to the Company a properly completed notice of Withholding Election as prescribed by the Administrator. The Administrator may in its sole and absolute discretion disapprove and give no effect to the Withholding Election. 
+
+10\. Failure to Enforce Not a Waiver. The failure of the Company to enforce at any time any provision of this Option Agreement shall in no way be construed to be a waiver of such provision or of any other provision hereof. 
+
+11\. Governing Law. This Option Agreement shall be governed by and construed according to the laws of the State of Delaware without regard to its principles of conflict of laws. 
+
+12\. Incorporation of the Plan. The Plan is hereby incorporated by reference and made a part hereof, and the Option and this Option Agreement shall be subject to all terms and conditions of the Plan. 
+
+13\. Amendments. This Option Agreement may be amended or modified at any time only by an instrument in writing signed by each of the parties hereto. 
+
+14\. Rights as a Stockholder. Neither the Grantee nor any of the Grantee’s successors in interest shall have any rights as a stockholder of the Company with respect to any Shares subject to the Option until the date of issuance of a stock certificate for such Shares. 
+
+* * *
+
+15\. Agreement Not a Contract for Services. Neither the Plan, the granting of the Option, this Option Agreement nor any other action taken pursuant to the Plan shall constitute or be evidence of any agreement or understanding, express or implied, that the Grantee has a right to continue to provide services as an officer, director, employee, consultant or advisor of the Company or any parent, Subsidiary or affiliate of the Company for any period of time or at any specific rate of compensation. 
+
+16\. Authority of the Administrator. The Administrator shall have full authority to interpret and construe the terms of the Plan and this Option Agreement. The determination of the Administrator as to any such matter of interpretation or construction shall be final, binding and conclusive. 
+
+17\. Acceptance. The Grantee hereby acknowledges receipt of a copy of the Plan and this Option Agreement. The Grantee has read and understand the terms and provision thereof, and accepts the Option subject to all the terms and conditions of the Plan and this Option Agreement. 
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Option Agreement on the day and year first above written.   
+  
+SWITCH & DATA FACILITIES COMPANY, INC.  
+By:  
+Name:  
+Title:  
+Grantee

@@ -1,0 +1,335 @@
+Exhibit 4.1
+
+Execution Version
+
+
+
+BY AND AMONG
+
+ENERGY TRANSFER EQUITY, L.P.
+
+AND
+
+REGENCY GP ACQUIRER, L.P.
+
+* * *
+
+##### 
+
+REGISTRATION RIGHTS AGREEMENT
+
+THIS REGISTRATION RIGHTS AGREEMENT (this “Agreement”) is made and entered into as of May 26, 2010, by and among ENERGY TRANSFER EQUITY, L.P., a Delaware limited partnership (“ETE”) and REGENCY GP ACQUIRER, L.P. (“GE”). 
+
+This Agreement is made in connection with this issuance of the ETE Common Units to GE pursuant to that certain General Partner Purchase Agreement dated as of May 10, 2010 (the “GP Purchase Agreement”) by and among GE, ETE and ETE GP Acquirer, LLC, a Delaware limited liability company. ETE and GE have agreed to enter into this Agreement pursuant to Section 2.3 of the GP Purchase Agreement. In consideration of the mutual covenants and agreements set forth herein and for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged by each party hereto, the parties hereby agree as follows: 
+
+ARTICLE I.  
+DEFINITIONS
+
+Section 1.01 Definitions. Capitalized terms used herein without definition shall have the meanings given to them in the Purchase Agreement. The terms set forth below are used herein as so defined: 
+
+“Commission” means the U.S. Securities and Exchange Commission. 
+
+“Common Units” means the common units issuable upon conversion of the Series A Preferred Units representing limited partner interests in ETE. 
+
+“Contribution Agreement” has the meaning specified therefor in the preamble of this Agreement. 
+
+“Effectiveness Period” has the meaning specified therefor in Section 2.01(a) of this Agreement. 
+
+“ETE” has the meaning specified therefor in the preamble of this Agreement. 
+
+“ETP” means Energy Transfer Partners, L.P., a Delaware limited partnership. 
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+
+“GE” has the meaning specified therefor in the preamble of this Agreement. 
+
+“GP Purchase Agreement” has the meaning specified therefor in the preamble of this Agreement. 
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+
+2
+
+* * *
+
+##### 
+
+“Holder” means the record holder of any Registrable Securities. 
+
+“Losses” has the meaning specified therefor in Section 2.07(a) of this Agreement. 
+
+“Managing Underwriter” means, with respect to any Underwritten Offering, the book running lead manager of such Underwritten Offering. 
+
+“Registrable Securities” means the Common Units until such time as such securities cease to be Registrable Securities pursuant to Section 1.02 hereof. 
+
+“Registration Expenses” has the meaning specified therefor in Section 2.06(a) of this Agreement. 
+
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder. 
+
+“Selling Expenses” has the meaning specified therefor in Section 2.06(a) of this Agreement. 
+
+“Selling Holder” means a Holder who is selling Registrable Securities pursuant to a Shelf Registration Statement. 
+
+“Series A Preferred Units” means the Series A Preferred Units representing limited partner interest in ETE issued to GE pursuant to the GP Purchase Agreement. 
+
+“Shelf Registration” has the meaning specified therefor in Section 2.01(a) of this Agreement. 
+
+“Shelf Registration Statement” has the meaning specified therefor in Section 2.01(a) of this Agreement. 
+
+“Underwritten Offering” means an offering (including an offering pursuant to a Shelf Registration Statement) in which Common Units are sold to an underwriter on a firm commitment basis for reoffering to the public or an offering that is a “bought deal” with one or more investment banks. 
+
+Section 1.02 Registrable Securities. Any Registrable Security will cease to be a Registrable Security when (a) a registration statement covering such Registrable Security has been declared effective by the Commission and such Registrable Security has been sold or disposed of pursuant to such effective registration statement; (b) such Registrable Security has been disposed of pursuant to any section of Rule 144 (or any successor rule or regulation to Rule 144); (c) such Registrable Security is held by ETE or one of its subsidiaries; or (d) such Registrable Security is eligible for resale (without restriction, including but not limited to, volume limitations) under Rule 144 (or any similar provisions then in force under the Securities Act) under the Securities Act. 
+
+3
+
+* * *
+
+##### 
+
+ARTICLE II.  
+REGISTRATION RIGHTS
+
+Section 2.01 Shelf Registration. 
+
+(a) Shelf Registration. (a) At the option and upon the request of the holders of a majority of the Common Units issued upon conversion of the Series A Preferred Units, ETE shall prepare and file a registration statement under the Securities Act to permit the public resale of the Registrable Securities from time to time as permitted by Rule 415 (or any similar provision then in force) of the Securities Act (the “Shelf Registration Statement”). ETE shall use its reasonable best efforts to file the Shelf Registration Statement within 45 days of any such request and cause it to be effective as soon as reasonably practicable thereafter (the “Shelf Registration”); provided, however, that ETE shall not be required to effect more than one registration pursuant to this Section 2.01(a). The Shelf Registration Statement filed pursuant to this Section 2.01(a) shall be on such appropriate registration form of the Commission as shall be selected by ETE; provided, however, that if a prospectus supplement will be used in connection with the marketing of an Underwritten Offering from the Shelf Registration Statement and the Managing Underwriter at any time shall notify GE in writing that, in the sole judgment of such Managing Underwriter, inclusion of detailed information to be used in such prospectus supplement is of material importance to the success of the Underwritten Offering of such Registrable Securities, ETE shall use its reasonable best efforts to include such information in such a prospectus supplement. ETE will cause the Shelf Registration Statement filed pursuant to this Section 2.01(a) to be continuously effective under the Securities Act until all Registrable Securities covered by the Shelf Registration Statement have been distributed in the manner set forth and as contemplated in the Shelf Registration Statement or there are no longer any Registrable Securities outstanding (the “Effectiveness Period”). The Shelf Registration Statement when declared effective (including the documents incorporated therein by reference) will comply as to form with all applicable requirements of the Securities Act and the Exchange Act and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading. If ETE determines in good faith that the requested registration would be materially detrimental to ETE or ETP because such registration would (x) materially interfere with a significant acquisition, reorganization or other similar transaction involving ETE or ETP, (y) require premature disclosure of material information that ETE has a bona fide business purpose for preserving as confidential or (z) render ETE unable to comply with requirements under applicable securities laws, then ETE shall have the right to postpone such requested registration for a period of not more than three months after receipt of GE’s request, such right pursuant to this Section 2.01(b) not to be utilized more than twice in any twelve-month period. 
+
+(b) Delay Rights. Notwithstanding anything to the contrary contained herein, ETE may, upon written notice to any Selling Holder whose Registrable Securities are included in the Shelf Registration Statement, suspend such Selling Holder’s use of any prospectus which is a part of the Shelf Registration Statement (in which event the Selling Holder shall discontinue sales of the Registrable Securities pursuant to the Shelf Registration Statement) if ETE or ETP (i) is pursuing a financing, acquisition, merger, reorganization, disposition or other similar transaction and determines in good faith that its ability to pursue or consummate such a transaction would be materially adversely affected by any required disclosure of such transaction 
+
+4
+
+* * *
+
+##### 
+
+in the Shelf Registration Statement or (ii) has experienced some other material non-public event the disclosure of which at such time, in the good faith judgment of ETE or ETP would materially adversely affect ETE or ETP. Upon disclosure of such information or the termination of the condition described above, ETE shall provide prompt notice to the Selling Holders whose Registrable Securities are included in the Shelf Registration Statement, and shall promptly terminate any suspension of sales it has put into effect and shall take such other actions to permit registered sales of Registrable Securities as contemplated in this Agreement. 
+
+Section 2.02 Underwritten Offering. In the event that the Selling Holders holding a majority of the Registrable Securities outstanding at such time elect to dispose of Registrable Securities under the Shelf Registration Statement pursuant to an Underwritten Offering, ETE shall enter into an underwriting agreement in customary form with the Managing Underwriter or Underwriters, which shall include, among other provisions, indemnities to the effect and to the extent provided in Section 2.07, and shall take all such other reasonable actions as are requested by the Managing Underwriter in order to expedite or facilitate the registration and disposition of the Registrable Securities; provided, however, that ETE shall not be required to facilitate, participate in, or otherwise have any obligations whatsoever with respect to, any Underwritten Offering pursuant to this Section 2.02 unless such Underwritten Offering covers at least $100,000,000 of Registerable Securities based on the closing price of the ETE Common Units on the trading day immediately prior to such requested Underwritten Offering. In connection with any Underwritten Offering under this Agreement, ETE shall be entitled to select the Managing Underwriter or Underwriters, subject to the consent of GE not to be unreasonably withheld. No Selling Holder may participate in such Underwritten Offering unless such Selling Holder agrees to sell its Registrable Securities on the basis provided in such underwriting agreement and completes and executes all questionnaires, powers of attorney, indemnities and other documents reasonably required under the terms of such underwriting agreement. Each Selling Holder may, at its option, require that any or all of the representations and warranties by, and the other agreements on the part of, ETE to and for the benefit of such underwriters also be made to and for such Selling Holder’s benefit and that any or all of the conditions precedent to the obligations of such underwriters under such underwriting agreement also be conditions precedent to its obligations. No Selling Holder shall be required to make any representations or warranties to or agreements with ETE other than representations, warranties or agreements regarding such Selling Holder and its ownership of the securities being registered on its behalf and its intended method of distribution and any other representation required by law. If any Selling Holder disapproves of the terms of an underwriting, such Selling Holder may elect to withdraw therefrom by notice to ETE and the Managing Underwriter; provided, however, that such withdrawal must be made up to and including the time of pricing of such offering to be effective. No such withdrawal or abandonment shall affect ETE’s obligation to pay Registration Expenses. 
+
+Section 2.03 Registration Procedures. In connection with its obligations contained in Section 2.01, ETE will, as expeditiously as possible: 
+
+(a) prepare and file with the Commission such amendments and supplements to the Shelf Registration Statement and the prospectus used in connection therewith as may be necessary to keep the Shelf Registration Statement effective for the Effectiveness Period and as may be necessary to comply with the provisions of the Securities Act with respect to the disposition of all securities covered by the Shelf Registration Statement; 
+
+5
+
+* * *
+
+##### 
+
+(b) furnish to each Selling Holder (i) as far in advance as reasonably practicable before filing the Shelf Registration Statement or any supplement or amendment thereto, upon request, copies of reasonably complete drafts of all such documents proposed to be filed (including furnishing or making available exhibits and each document incorporated by reference therein to the extent then required by the rules and regulations of the Commission), and provide each such Selling Holder the opportunity to object to any information pertaining to such Selling Holder and its plan of distribution that is contained therein and make the corrections reasonably requested by such Selling Holder with respect to such information prior to filing the Shelf Registration Statement or supplement or amendment thereto, and (ii) such number of copies of the Shelf Registration Statement and the prospectus included therein and any supplements and amendments thereto as such Persons may reasonably request in order to facilitate the public sale or other disposition of the Registrable Securities covered by such Shelf Registration Statement; 
+
+(c) if applicable, use its reasonable best efforts to register or qualify the Registrable Securities covered by the Shelf Registration Statement under the securities or blue sky laws of such jurisdictions as the Selling Holders or, in the case of an Underwritten Offering, the Managing Underwriter, shall reasonably request, provided that neither ETE nor its general partner will be required to qualify generally to transact business in any jurisdiction where it is not then required to so qualify or to take any action which would subject it to general service of process in any such jurisdiction where it is not then so subject; 
+
+(d) promptly notify each Selling Holder and each underwriter, at any time when a prospectus relating thereto is required to be delivered under the Securities Act, of (i) the filing of the Shelf Registration Statement or any prospectus or prospectus supplement to be used in connection therewith, or any amendment or supplement thereto, and, with respect to such Shelf Registration Statement, when the same has become effective; and (ii) any written comments from the Commission with respect to any filing referred to in clause (i) and any written request by the Commission for amendments or supplements to the Shelf Registration Statement or any prospectus or prospectus supplement thereto; 
+
+(e) immediately notify each Selling Holder and each underwriter, at any time when a prospectus relating thereto is required to be delivered under the Securities Act, of (i) the happening of any event as a result of which the prospectus or prospectus supplement contained in the Shelf Registration Statement, as then in effect, includes an untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, in the light of the circumstances then existing; (ii) the issuance or threat of issuance by the Commission of any stop order suspending the effectiveness of the Shelf Registration Statement, or the initiation of any proceedings for that purpose; or (iii) the receipt by ETE of any notification with respect to the suspension of the qualification of any Registrable Securities for sale under the applicable securities or blue sky laws of any jurisdiction. Following the provision of such notice, ETE agrees to as promptly as practicable amend or supplement the prospectus or prospectus supplement or take other appropriate action so that the prospectus or prospectus supplement does not include an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading, in the light of the circumstances then existing, and to take such other 
+
+6
+
+* * *
+
+##### 
+
+action as is necessary to remove a stop order, suspension, threat thereof or proceedings related thereto; 
+
+(f) furnish to each Selling Holder copies of any and all transmittal letters or other correspondence with the Commission or any other governmental agency or self-regulatory body or other body having jurisdiction (including any domestic or foreign securities exchange) relating to such offering of Registrable Securities; 
+
+(g) in the case of an Underwritten Offering, furnish upon request and addressed to the underwriters and to the Selling Holders, (i) an opinion of counsel for ETE, dated the effective date of the closing under the underwriting agreement, and (ii) a “comfort letter”, dated the effective date of the applicable registration statement or the date of any amendment or supplement thereto and a letter of like kind dated the date of the closing under the underwriting agreement, in each case, signed by the independent public accountants who have certified ETE’s financial statements included or incorporated by reference into the applicable registration statement, and each of the opinion and the “comfort letter” shall be in customary form and covering substantially the same matters with respect to such registration statement (and the prospectus and any prospectus supplement included therein) and as are customarily covered in opinions of issuer’s counsel and in accountants’ letters delivered to the underwriters in Underwritten Offerings of securities, and such other matters as such underwriters may reasonably request; 
+
+(h) otherwise use its reasonable best efforts to comply with all applicable rules and regulations of the Commission, and make available to its security holders, as soon as reasonably practicable, an earnings statement covering the period of at least 12 months, but not more than 18 months, beginning with the first full calendar month after the effective date of such registration statement, which earnings statement shall satisfy the provisions of Section 11(a) of the Securities Act and Rule 158 promulgated thereunder; 
+
+(i) make available to the appropriate representatives of the Managing Underwriter and Selling Holders access to such information and ETE personnel as is reasonable and customary to enable such parties to establish a due diligence defense under the Securities Act; provided that ETE need not disclose any information to any such representative unless and until such representative has entered into a confidentiality agreement with ETE; 
+
+(j) cause all such Registrable Securities registered pursuant to this Agreement to be listed on each securities exchange or nationally recognized quotation system on which similar securities issued by ETE are then listed; 
+
+(k) use its reasonable best efforts to cause the Registrable Securities to be registered with or approved by such other governmental agencies or authorities as may be necessary by virtue of the business and operations of ETE to enable the Selling Holders to consummate the disposition of such Registrable Securities; 
+
+(l) provide a transfer agent and registrar for all Registrable Securities covered by such registration statement not later than the effective date of such registration statement; and 
+
+7
+
+* * *
+
+##### 
+
+(m) enter into customary agreements and take such other actions as are reasonably requested by the Selling Holders or the underwriters, if any, including participation in “roadshows,” as are reasonably required in order to expedite or facilitate the disposition of such Registrable Securities. 
+
+Each Selling Holder, upon receipt of notice from ETE of the happening of any event of the kind described in subsection (e) of this Section 2.03, shall forthwith discontinue disposition of the Registrable Securities until such Selling Holder’s receipt of the copies of the supplemented or amended prospectus contemplated by subsection (e) of this Section 2.03 or until it is advised in writing by ETE that the use of the prospectus may be resumed, and has received copies of any additional or supplemental filings incorporated by reference in the prospectus, and, if so directed by ETE, such Selling Holder will, or will request the managing underwriter or underwriters, if any, to deliver to ETE (at ETE’s expense) all copies in their possession or control, other than permanent file copies then in such Selling Holder’s possession, of the prospectus covering such Registrable Securities current at the time of receipt of such notice. 
+
+Section 2.04 Cooperation by Holders. ETE shall have no obligation to include in the Shelf Registration Statement units of a Holder who has failed to timely furnish such information which, in the opinion of counsel to ETE, is reasonably required in order for the Shelf Registration Statement or any prospectus or prospectus supplement thereto, as applicable, to comply with the Securities Act. 
+
+Section 2.05 Restrictions on Public Sale by Holders of Registrable Securities. Each Holder of Registrable Securities who is included in the Shelf Registration Statement agrees not to effect any public sale or distribution of the Registrable Securities during the lock-up period contained in a prospectus supplement filed with the Commission with respect to the pricing of an Underwritten Offering, provided that (i) ETE gives written notice to such Holder of the date of the commencement and termination of such period with respect to any such Underwritten Offering and (ii) the duration of the foregoing restrictions shall be no longer than the duration of the shortest restriction generally imposed by the underwriters on ETE or on the officers or directors or any other unitholder of ETE on whom a restriction is imposed. 
+
+Section 2.06 Expenses. 
+
+(a) Certain Definitions. “Registration Expenses” means all expenses incident to ETE’s performance under or compliance with this Agreement to effect the registration of Registrable Securities in a Shelf Registration, and the disposition of such securities, including, without limitation, all registration, filing, securities exchange listing fees, all registration, filing, qualification and other fees and expenses of complying with securities or blue sky laws, fees of the Financial Industry Regulatory Authority, transfer taxes and fees of transfer agents and registrars, all word processing, duplicating and printing expenses, the fees and disbursements of counsel and independent public accountants for ETE, including the expenses of any special audits or “comfort letters” required by or incident to such performance and compliance. Except as otherwise provided in Section 2.07 hereof, ETE shall not be responsible for legal fees incurred by Holders in connection with the exercise of such Holders’ rights hereunder. In addition, ETE shall not be responsible for any “Selling Expenses,” which means all underwriting fees, discounts and selling commissions allocable to the sale of the Registrable Securities. 
+
+8
+
+* * *
+
+##### 
+
+(b) Expenses. ETE will pay all Registration Expenses in connection with any Shelf Registration Statement filed pursuant to Section 2.01(a) of this Agreement, whether or not the Shelf Registration Statement becomes effective or any sale is made pursuant to the Shelf Registration Statement. Each Selling Holder shall pay all Selling Expenses in connection with any sale of its Registrable Securities hereunder. 
+
+Section 2.07 Indemnification. 
+
+(a) By ETE. In the event of a registration of any Registrable Securities under the Securities Act pursuant to this Agreement, ETE will indemnify and hold harmless each Selling Holder thereunder, its directors and officers and each underwriter pursuant to the applicable underwriting agreement with such underwriter and each Person, if any, who controls such Selling Holder or underwriter within the meaning of the Securities Act and the Exchange Act, against any losses, claims, damages, expenses or liabilities (including reasonable attorneys’ fees and expenses) (collectively, “Losses”), joint or several, to which such Selling Holder or underwriter or controlling Person may become subject under the Securities Act, the Exchange Act or otherwise, insofar as such Losses (or actions or proceedings, whether commenced or threatened, in respect thereof) arise out of or are based upon any untrue statement or alleged untrue statement of any material fact contained in the Shelf Registration Statement, any preliminary prospectus or final prospectus contained therein, or any amendment or supplement thereof, or arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein (in the case of a prospectus, in light of the circumstances under which they were made) not misleading, and will reimburse each such Selling Holder, its directors and officers, each such underwriter and each such controlling Person for any legal or other expenses reasonably incurred by them in connection with investigating or defending any such Loss or actions or proceedings; provided, however, that ETE will not be liable in any such case if and to the extent that any such Loss arises out of or is based upon an untrue statement or alleged untrue statement or omission or alleged omission so made in conformity with information furnished by such Selling Holder, such underwriter or such controlling Person in writing specifically for use in the Shelf Registration Statement or any prospectus contained therein or any amendment or supplement thereof. Such indemnity shall remain in full force and effect regardless of any investigation made by or on behalf of such Selling Holder or any such director, officer or controlling Person, and shall survive the transfer of such securities by such Selling Holder. 
+
+(b) By Each Selling Holder. Each Selling Holder agrees severally and jointly to indemnify and hold harmless ETE, its directors and officers, and each Person, if any, who controls ETE within the meaning of the Securities Act or of the Exchange Act to the same extent as the foregoing indemnity from ETE to the Selling Holders, but only with respect to information regarding such Selling Holder furnished in writing by or on behalf of such Selling Holder expressly for inclusion in the Shelf Registration Statement or any prospectus contained therein or any amendment or supplement thereof relating to the Registrable Securities; provided, however, that the liability of each Selling Holder shall not be greater in amount than the dollar amount of the proceeds (net of any Selling Expenses) received by such Selling Holder from the sale of the Registrable Securities giving rise to such indemnification. 
+
+9
+
+* * *
+
+##### 
+
+(c) Notice. Promptly after receipt by an indemnified party hereunder of notice of the commencement of any action, such indemnified party shall, if a claim in respect thereof is to be made against the indemnifying party hereunder, notify the indemnifying party in writing thereof, but the omission so to notify the indemnifying party shall not relieve it from any liability which it may have to any indemnified party other than under this Section 2.07. The indemnifying party shall be entitled to participate in and, to the extent it shall wish, to assume and undertake the defense thereof with counsel reasonably satisfactory to such indemnified party and, after notice from the indemnifying party to such indemnified party of its election so to assume and undertake the defense thereof, the indemnifying party shall not be liable to such indemnified party under this Section 2.07 for any legal expenses subsequently incurred by such indemnified party in connection with the defense thereof other than reasonable costs of investigation and of liaison with counsel so selected; provided, however, that, (i) if the indemnifying party has failed to assume the defense and employ counsel or (ii) if the defendants in any such action include both the indemnified party and the indemnifying party and counsel to the indemnified party shall have concluded that there may be reasonable defenses available to the indemnified party that are different from or additional to those available to the indemnifying party, or if the interests of the indemnified party reasonably may be deemed to conflict with the interests of the indemnifying party, then the indemnified party shall have the right to select a separate counsel and to assume such legal defense and otherwise to participate in the defense of such action, with the reasonable expenses and fees of one such separate counsel (firm) and other reasonable expenses related to such participation to be reimbursed by the indemnifying party as incurred. Notwithstanding any other provision of this Agreement, no indemnified party shall settle any action brought against it with respect to which it is entitled to indemnification hereunder without the consent of the indemnifying party, unless the settlement thereof imposes no liability or obligation on, and includes a complete and unconditional release from all liability of, the indemnifying party. 
+
+(d) Contribution. If the indemnification provided for in this Section 2.07 is held by a court or government agency of competent jurisdiction to be unavailable to ETE or any Selling Holder or is insufficient to hold it harmless in respect of any Losses, then each such indemnifying party, in lieu of indemnifying such indemnified party, shall contribute to the amount paid or payable by such indemnified party as a result of such Losses as between ETE on the one hand and such Selling Holder on the other hand, in such proportion as is appropriate to reflect the relative fault of ETE on the one hand and of such Selling Holder on the other in connection with the statements or omissions which resulted in such Losses, as well as any other relevant equitable considerations; provided, however, that in no event shall such Selling Holder be required to contribute an aggregate amount in excess of the dollar amount of proceeds (net of Selling Expenses) received by such Selling Holder from the sale of Registrable Securities giving rise to such indemnification. The relative fault of ETE on the one hand and each Selling Holder on the other hand shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact has been made by, or relates to, information supplied by such party, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission. The parties hereto agree that it would not be just and equitable if contributions pursuant to this paragraph were to be determined by pro rata allocation or by any other method of allocation which does not take account of the equitable considerations referred to in the first sentence of this paragraph. The amount paid by an indemnified party as a result of the Losses 
+
+10
+
+* * *
+
+##### 
+
+referred to in the first sentence of this paragraph shall be deemed to include any legal and other expenses reasonably incurred by such indemnified party in connection with investigating or defending any Loss which is the subject of this paragraph. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who is not guilty of such fraudulent misrepresentation. 
+
+(e) Other Indemnification. The provisions of this Section 2.07 shall be in addition to any other rights to indemnification or contribution which an indemnified party may have pursuant to law, equity, contract or otherwise. 
+
+Section 2.08 Rule 144 Reporting. With a view to making available the benefits of certain rules and regulations of the Commission that may permit the sale of the Registrable Securities to the public without registration, ETE agrees to use its reasonable best efforts to: 
+
+(a) Make and keep public information regarding ETE available, as those terms are understood and defined in Rule 144 of the Securities Act, at all times from and after the date hereof; 
+
+(b) File with the Commission in a timely manner all reports and other documents required of ETE under the Securities Act and the Exchange Act at all times from and after the date hereof; and 
+
+(c) So long as a Holder owns any Registrable Securities, furnish to such Holder forthwith upon request a copy of the most recent annual or quarterly report of ETE, and such other reports and documents so filed as such Holder may reasonably request in availing itself of any rule or regulation of the Commission allowing such Holder to sell any such securities without registration. 
+
+Section 2.09 Transfer or Assignment of Registration Rights. The rights to cause ETE to include Registrable Securities in a Shelf Registration Statement may be transferred or assigned by GE to one or more transferee(s) or assignee(s) of such Registrable Securities, provided that (a) such transferee or assignee receives at least 20% of the Common Units (or 20% of the Series A Preferred Units prior to conversion) covered by this Agreement, (b) ETE is given written notice prior to any said transfer or assignment, stating the name and address of each such transferee and identifying the securities with respect to which such registration rights are being transferred or assigned, and (c) each such transferee or assignee assumes in writing responsibility for its portion of the obligations of GE under this Agreement. 
+
+Section 2.10 Information by Holder. Any Holder or Holders of Registrable Securities included in any registration statement shall promptly furnish to ETE such information regarding such Holder or Holders and the distribution proposed by such Holder or Holders as ETE may reasonably request and as shall be required in connection with any registration, qualification or compliance referred to herein. 
+
+11
+
+* * *
+
+##### 
+
+ARTICLE III.  
+MISCELLANEOUS
+
+Section 3.01 Communications. All notices and other communications provided for or permitted hereunder shall be made in writing by facsimile, courier service or personal delivery: 
+
+If to GE to:  
+GE Energy Financial Services  
+800 Long Ridge Road  
+Stanford, Connecticut 06927  
+Telephone: (203) 316-7355  
+Facsimile: (203) 961-2606  
+Attention: Portfolio-Regency 
+
+With a copy (not itself constituting notice) to: 
+
+GE Energy Financial Services  
+800 Long Ridge Road  
+Stanford, Connecticut 06927  
+Telephone: (203) 357-4151  
+Facsimile: (203) 357-6632  
+Attention: General Counsel 
+
+and 
+
+Latham & Watkins LLP  
+885 Third Avenue  
+New York, New York 10022  
+Telephone: (212) 906-1259  
+Facsimile: (212) 751-4864  
+Attention: Charles E. Carpenter 
+
+If to the ETE to: 
+
+Energy Transfer Equity, L.P.  
+3738 Oak Lawn  
+Dallas, Texas 75219  
+Telephone: (832) 668-1210 or (214) 981-0763  
+Facsimile: (832) 668-1127  
+Attention: General Counsel 
+
+and 
+
+Vinson & Elkins LLP  
+2500 First City Tower  
+1001 Fannin, Suite 2500  
+Houston, Texas 77007 
+
+12
+
+* * *
+
+##### 
+
+Telephone: (713) 758-3613  
+Facsimile: (713) 615-5725  
+Attention: Douglas E. McWilliams 
+
+All such notices and communications shall be deemed to have been received at the time delivered by hand, if personally delivered; when receipt acknowledged, if sent via facsimile or sent via Internet electronic mail; and when actually received, if sent by any other means. 
+
+Section 3.02 Successor and Assigns. This Agreement shall inure to the benefit of and be binding upon the successors and assigns of each of the parties, including subsequent Holders of Registrable Securities to the extent permitted herein. 
+
+Section 3.03 Assignment of Rights. All or any portion of the rights and obligations of GE under this Agreement may be transferred or assigned by GE only in accordance with Section 2.09 of this Agreement. 
+
+Section 3.04 Recapitalization, Exchanges, etc. Affecting the Common Units. The provisions of this Agreement shall apply to the full extent set forth herein with respect to any and all units of ETE or any successor or assign of ETE (whether by merger, consolidation, sale of assets or otherwise) which may be issued in respect of, in exchange for or in substitution of, the Registrable Securities, and shall be appropriately adjusted for combinations, recapitalizations and the like occurring after the date of this Agreement. 
+
+Section 3.05 Specific Performance. Damages in the event of breach of this Agreement by a party hereto may be difficult, if not impossible, to ascertain, and it is therefore agreed that each such Person, in addition to and without limiting any other remedy or right it may have, will have the right to an injunction or other equitable relief in any court of competent jurisdiction, enjoining any such breach, and enforcing specifically the terms and provisions hereof, and each of the parties hereto hereby waives any and all defenses it may have on the ground of lack of jurisdiction or competence of the court to grant such an injunction or other equitable relief. The existence of this right will not preclude any such Person from pursuing any other rights and remedies at law or in equity which such Person may have. 
+
+Section 3.06 Counterparts. This Agreement may be executed in any number of counterparts and by different parties hereto in separate counterparts, each of which counterparts, when so executed and delivered, shall be deemed to be an original and all of which counterparts, taken together, shall constitute but one and the same Agreement. 
+
+Section 3.07 Headings. The headings in this Agreement are for convenience of reference only and shall not limit or otherwise affect the meaning hereof. 
+
+Section 3.08 Governing Law. The laws of the State of Delaware shall govern this Agreement without regard to principles of conflict of laws. 
+
+Section 3.09 Severability of Provisions. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions 
+
+13
+
+* * *
+
+##### 
+
+hereof or affecting or impairing the validity or enforceability of such provision in any other jurisdiction. 
+
+Section 3.10 Entire Agreement. This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein. There are no restrictions, promises, warranties or undertakings, other than those set forth or referred to herein with respect to the rights granted by ETE set forth herein. This Agreement supersedes all prior agreements and understandings between the parties with respect to such subject matter. 
+
+Section 3.11 Amendment. This Agreement may be amended only by means of a written amendment signed by ETE and the Holders of a majority of the then outstanding Registrable Securities; provided, however, that no such amendment shall materially and adversely affect the rights of any Holder hereunder without the consent of such Holder. 
+
+Section 3.12 No Presumption. In the event any claim is made by a party relating to any conflict, omission, or ambiguity in this Agreement, no presumption or burden of proof or persuasion shall be implied by virtue of the fact that this Agreement was prepared by or at the request of a particular party or its counsel. 
+
+[Signature page follows] 
+
+14
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.   
+  
+REGENCY GP ACQUIRER, L.P.  
+  
+By: REGENCY GP HOLDCO I LLC,   
+its general partner  
+  
+By: AIRCRAFT SERVICES CORPORATION,   
+its managing member  
+  
+By:  /s/ Mark Mellana   
+Mark Mellana,   
+Authorized Signatory   
+ENERGY TRANSFER EQUITY, L.P.  
+  
+By: LE GP, LLC, its general partner  
+  
+By:  /s/ John W. McReynolds   
+John W. McReynolds,   
+President and Chief Financial Officer   
+  
+Signature Page to Registration Rights Agreement 

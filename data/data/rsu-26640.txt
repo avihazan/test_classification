@@ -1,0 +1,217 @@
+Exhibit 10.1 
+
+AMENDED & RESTATED 
+
+EXTENDED STAY AMERICA, INC. 
+
+
+
+RESTRICTED STOCK UNIT AGREEMENT 
+
+(Time-Vesting & Performance-Vesting) 
+
+THIS AWARD AGREEMENT (the “Agreement”) is made effective as of September 3, 2015, between Extended Stay America, Inc. (the “Company”), a Delaware corporation, and Gerardo I. Lopez (the “Grantee”). Capitalized terms used but not defined in this Agreement shall have the meaning attributed to such terms under the Amended and Restated Extended Stay America, Inc. Long-Term Incentive Plan (the “Plan”). 
+
+WHEREAS, the Company desires to grant the restricted stock units (the “RSUs”) (the “Award”) provided for herein to the Grantee pursuant to the Plan and the terms and conditions set forth herein. 
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows: 
+
+1. Grant of Award.   
+  
+The Company hereby grants to the Grantee, an aggregate of 600,000 RSUs, consisting of Time Vesting RSUs and Performance RSUs (in each case, as defined below). The Performance RSUs are intended to constitute “qualified performance-based compensation” within the meaning of Section 162(m) of the Code. The numbers of Performance Vesting RSUs set forth in Section 1(b) below are the numbers of RSUs that may be deemed to vest assuming performance at target levels. The number of Performance Vesting RSUs that actually vest may be higher or lower than the number of Performance Vesting RSUs set forth in Section 1(b) based on actual performance. Subject to the provisions of this Agreement and the Plan, each vested RSU represents the right to receive one (1) Paired Share. 
+
+(a) 100,000 RSUs shall be subject to time vesting (the “Time Vesting RSUs”) in accordance with the schedule set forth in Section 2(a). 
+
+(b) 500,000 RSUs shall be subject to performance vesting based on the attainment of the absolute total shareholder return goals as set forth in Section 2(b) (the “Performance RSUs”). 
+
+2. Vesting.   
+  
+Subject to the terms and conditions hereof and the Grantee’s continued employment with the Company or any of its Subsidiaries on each applicable Vesting Date (as defined below), the Grantee shall vest in the RSUs as set forth below. The RSUs shall apply only with respect to a whole a number of Paired Shares. 
+
+(a) Time-Vesting RSUs. Subject to the Grantee’s continued employment with the Company or any of its Subsidiaries, the following portions of the Time-Vesting RSUs shall vest and no longer be subject to cancellation pursuant to Section 3 on the following dates:   
+  
+Vesting Date
+
+Percent of Time Vesting RSUs Vesting  
+  
+August 31, 2016
+
+33 1/3 %   
+  
+August 31, 2017
+
+33 1/3 %   
+  
+August 31, 2018
+
+33 1/3 %   
+  
+1 
+
+* * *
+
+(b) Performance-Based RSUs. On August 31, 2018 (the “TSR Vesting Date”, subject to the Grantee’s continued employment with the Company or any of its Subsidiaries, a percentage of the Performance RSUs shall vest and no longer be subject to cancellation pursuant to Section 3 based on the extent to which the TSR target for the period beginning on the announcement of Grantee’s appointment as President and Chief Executive Officer through August 31, 2018 (the “Performance Period”) is attained, as set forth on Appendix A (the cumulative target, the “TSR Target”). The vesting of the Performance RSUs shall be subject to the certification by the Committee of the extent to which the TSR Target has been achieved. 
+
+(c) Change in Control. Notwithstanding Section 2(a) and Section 2(b), all of the Grantee’s outstanding Time Vesting RSUs and Performance Vesting RSUs that are not vested as of the date of a Change in Control shall vest immediately upon such Change in Control. 
+
+3. Effect of Termination of Service.   
+  
+Except as otherwise provided in this Agreement or as otherwise determined by the Committee, if the Grantee’s employment with the Company and its Subsidiaries and Affiliates Terminates for any reason, all RSUs that are not vested as of the date of such Termination (and the right to any payment in respect of dividends or distributions pursuant to Section 7 with respect to such RSUs) shall be forfeited for no consideration and the Grantee shall have no further rights with respect to such RSUs. If the Grantee is Terminated following August 31, 2018, but before the level of achievement of the TSR Target has been certified by the Committee, the Grantee shall continue to be entitled to receive any portion of Performance RSUs that vested as of August 31, 2018 based on the Committee’s determination of the achievement of the TSR Target, and such vested Performance RSUs shall be settled in accordance with Section 4. 
+
+4. Settlement.   
+  
+On September 15 (or, in any year when September 15 falls on a non-business day, the business day immediately prior to such date) immediately following the vesting of any Time-Vesting RSUs or Performance Vesting RSUs, such RSU’s shall be settled, and in settlement thereof, (i) the Company shall issue to the Grantee one share of common stock of the Company (a “Company Common Share”) and (ii) ESH REIT shall issue to the Grantee one share of Class B stock of ESH Hospitality, Inc. ( “ESH REIT”) (a “Class B REIT Share”), which Company Common Share and Class B REIT Share shall be stapled together as a Paired Share, as described in the Plan. 
+
+5. Restrictions on Transfer.   
+  
+(a) The RSUs subject to this Award may not be sold, transferred, assigned or otherwise disposed of, and may not be pledged or otherwise hypothecated (other than pursuant to a definitive agreement executed by the Company in connection with a Corporate Transaction). 
+
+(b) Any Paired Shares received in settlement of the RSUs pursuant to Section 4 shall be subject to (i) any transfer or other restrictions set forth in any agreement with the Company or ESH REIT to which the Grantee is party and (ii) the share ownership guidelines of the Company and ESH REIT. 
+
+6. Rights as Stockholder.   
+  
+A RSU is not a Paired Share and the Grantee will have no rights as a stockholder with respect to the RSUs. 
+
+2 
+
+* * *
+
+7. Dividend Equivalent Rights.   
+  
+In the event of a dividend or other distribution made in respect of Paired Shares, the Grantee will be entitled to receive, in respect of each RSU underlying the Award, the per Paired Share amount received by other stockholders in respect of a Paired Share in connection with such dividend, provided, however, that any entitlement to or payment of dividends or distributions declared or paid on the Paired Shares shall be owing and paid to the Grantee only at the same time as the RSUs in respect of which such dividends or distributed are settled pursuant to this Agreement.
+
+8. No Right to Continued Employee Status.   
+  
+Nothing contained in this Agreement shall confer upon the Grantee the right to the continuation of his or her Employee status or to interfere with the right of the Company or any of its Subsidiaries or other Affiliates to terminate the Grantee’s employment. 
+
+9. Taxation.   
+  
+The Grantee understands that when the RSUs are settled in accordance with Section 4, the Grantee will be obligated to recognize income, for Federal, state and local income tax purposes, as applicable, in an amount equal to the Fair Market Value of the Paired Shares as of such date, and the Grantee is responsible for all tax obligations that arise in connection with the RSUs. 
+
+The issuance of any Company Common Shares or Class B REIT Shares shall be subject to the Grantee’s satisfaction of all applicable tax withholding obligations in cash or in such other manner as may be approved by the Committee. The Grantee may elect to have the Company and ESH REIT withhold a number of Company Common Shares and Class B REIT Shares, as applicable, together having an aggregate equal to the tax withholding amounts due with respect to settlement of the RSUs. The Company shall have the right to require that the Grantee furnish information deemed necessary by the Company to meet any tax reporting obligation as a condition to issuing and releasing any Paired Shares pursuant to the Award. 
+
+10. Delivery of Shares and Restrictive Legend.   
+  
+(a) Certificates or evidence of book-entry shares representing the Paired Shares issued upon settlement of RSUs pursuant to Section 4 of this Agreement will be delivered to or otherwise made available to the Grantee (or, at the discretion of the Grantee, joint in the names of the Grantee and the Grantee’s spouse) or to the Grantee’s nominee at such person’s request. 
+
+(b) The certificates representing the Paired Shares issued upon settlement of RSUs pursuant to Section 4 shall be subject to such stop transfer orders and other restrictions as set forth in the Company’s certificate of incorporation and ESH REIT’s certificate of incorporation, and as the Committee may deem advisable under the Plan or under applicable state and Federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange unless an exemption to such registration or qualification is available and satisfied. The Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions. 
+
+11. Securities Laws.   
+  
+The obligation of the Company and ESH REIT, as applicable, to issue and deliver the RSUs and any Paired Shares hereunder shall be subject to all applicable laws, rule and regulations, and such 
+
+3 
+
+* * *
+
+approvals by governmental agencies as may be required. The Grantee hereby agrees not to offer, sell or otherwise attempt to dispose of any Paired Shares issued to the Grantee pursuant to this Agreement in any way which would: (x) require the Company or ESH REIT to file any registration statement with the Securities and Exchange Commission (or any similar filing under state law or the laws of any other county) or to amend or supplement any such filing or (y) violate or cause the Company or ESH REIT to violate the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, the rules and regulations promulgated thereunder, or any other Federal, state or local law, or the laws of any other country. 
+
+12. Modification of the Agreement.   
+  
+This Agreement may not be modified, amended, terminated and no provision hereof may be waived in whole or in part except by a written agreement signed by the Company, ESH REIT and the Grantee and no modification shall, without the consent of the Grantee, alter to the Grantee’s detriment or impair any rights of the Grantee under this Agreement except to the extent permitted under the Plan. 
+
+13. Notices.   
+  
+Unless otherwise provided herein, any notices or other communication given or made pursuant to this Agreement or the Plan shall be in writing and shall be deemed to have been duly given (i) as of the date delivered, if personally delivered (including receipted courier service) or overnight delivery service, with confirmation of receipt; (ii) one (1) business day after being sent by reputable commercial overnight delivery service courier, with confirmation of receipt; or (iii) three (3) business days after being mailed by registered or certified mail, return receipt requested, postage prepaid and addressed to the intended recipient as set forth below:   
+  
+If to the Company: 11525 N. Community House Road, Suite 100  
+Charlotte, North Carolina 28277  
+Attn: General Counsel  
+If to ESH REIT: 11525 N. Community House Road, Suite 100  
+Charlotte, North Carolina 28277  
+Attn: General Counsel  
+  
+If to the Grantee, at the most recent address, facsimile number or email contained in the Company’s records. 
+
+14. Agreement Subject to Plan and Applicable Law.   
+  
+This Award is made pursuant to the Plan and shall be interpreted to comply therewith. A copy of the Plan is attached hereto. Any provision of this Award inconsistent with the Plan shall be considered void and replaced with the applicable provision of the Plan. The Plan shall control in the event there shall be any conflict between the Plan and this Agreement, and it shall control as to any matters not contained in this Agreement. The Committee shall have authority to make constructions of this Agreement, and to correct any defect or supply any omission or reconcile any inconsistency in this Agreement, and to prescribe rules and regulations relating to the administration of this Award and other Awards granted under the Plan. 
+
+This Award shall be governed by the laws of the State of Delaware, without regard to the conflicts of law principles thereof, and subject to the exclusive jurisdiction of the courts therein. 
+
+4 
+
+* * *
+
+15. Headings.   
+  
+Headings are for convenience only and are not deemed to be part of this Agreement. Unless otherwise indicated, any reference to a Section herein is a reference to a Section of this Agreement. 
+
+16. Severability and Reformation.   
+  
+If any provision of this Agreement shall be determined by a court of law to be unenforceable for any reason, such unenforceability shall not affect the enforceability of any of the remaining provisions hereof; and this Agreement, to the fullest extent lawful, shall be reformed and construed as if such unenforceable provision, or part thereof, had never been contained herein, and such provision or part thereof shall be reformed or construed so that it would be enforceable to the maximum extent legally possible. 
+
+17. Clawback.   
+  
+This Award shall be subject to clawback or recapture to the extent required by applicable law. 
+
+18. Binding Effect.   
+  
+This Agreement shall be binding upon the parties hereto, together with their personal executors, administrator, successors, personal representatives, heirs and permitted assigns. 
+
+19. Entire Agreement.   
+  
+This Agreement supersedes all prior written and oral agreements and understandings among the parties as to its subject matter and constitutes the entire agreement of the parties with respect to the subject matter hereof, except to the extent that the Plan may be considered to address the subject matter hereof. If there is any conflict between this Agreement and the Plan, then the applicable terms of the Plan shall govern. 
+
+20. Waiver.   
+  
+Waiver by any party of any breach of this Agreement or failure to exercise any right hereunder shall not be deemed to be a waiver of any other breach or right whether or not of the same or a similar nature. The failure of any party to take action by reason of such breach or to exercise any such right shall not deprive the party of the right to take action at any time while or after such breach or condition giving rise to such rights continues. 
+
+[Signature Page Follows]
+
+5 
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed this Award as of the date first above written.   
+  
+EXTENDED STAY AMERICA, INC.  
+By:  
+  
+Name: John R. Dent  
+Title: General Counsel & Corporate Secretary  
+GRANTEE  
+By:  
+  
+Name: Gerardo I. Lopez  
+  
+The terms of this Award and the issuance of the
+
+Class B REIT Shares covered by the Award have
+
+been approved pursuant to the Amended & Restated ESH Hospitality, Inc. Long-Term Incentive Plan.  
+  
+ESH HOSPITALITY, INC.  
+By:  
+Name: John R. Dent  
+Title: General Counsel & Corporate  
+Secretary  
+  
+6 
+
+* * *
+
+Appendix A   
+  
+Absolute Total Shareholder Return (“TSR”)
+
+Compound Annual Growth Rate (“CAGR”)
+
+Percentage of  
+Performance RSUs Earned  
+Maximum TSR representing a CAGR of 25% 150 %   
+Target TSR representing a CAGR of 20% 100 %   
+Threshold TSR representing a CAGR of 15% 50 %   
+TSR representing a CAGR below 15% 0 %   
+  
+For CAGR between 15% and 20% and between 20% and 25%, the percentage of Performance RSUs earned shall be determined by linear interpolation. 
+
+For purposes of this Agreement, “TSR” means the total return realized by the owner of a Paired Share during the period beginning on the announcement of Grantee’s appointment as President and Chief Executive Officer through August 31, 2018 (the “Period”), consisting of: 
+
+(a) the difference (positive or negative) between the average daily opening and closing value of a Paired Share over the last twenty trading days of the Period minus the average of the daily opening and closing value of the stock over the twenty trading days immediately preceding the Period, plus 
+
+(b) the dividends paid on such Paired Share during the period. 
+
+CAGR is the annual compound growth rate of the TSR implied on a straight-line basis over the period. 
+
+7 

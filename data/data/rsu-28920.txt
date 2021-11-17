@@ -1,0 +1,145 @@
+* * *
+
+* * *
+
+Exhibit 10.5I
+
+LONG TERM INCENTIVE PERFORMANCE SHARE
+
+
+
+PURSUANT TO THE JOHN BEAN TECHNOLOGIES CORPORATION
+
+INCENTIVE COMPENSATION AND STOCK PLAN
+
+  
+
+
+This Agreement is made as of <> (the "Grant Date") by JOHN BEAN TECHNOLOGIES CORPORATION, a Delaware corporation, (the "Company") and <> (the "Employee").
+
+  
+
+
+In 2008, the Board of Directors of the Company (the “Board”) adopted the John Bean Technologies Corporation Incentive Compensation and Stock Plan (the "Plan"). The Plan, as it may be amended and continued, is incorporated by reference and made a part of this Agreement and will control the rights and obligations of the Company and the Employee under this Agreement. Except as otherwise expressly provided herein, all capitalized terms have the meanings provided in the Plan. To the extent there is a conflict between the Plan and this Agreement, the provisions of the Plan will control.
+
+  
+
+
+The Compensation Committee of the Board (the “Committee”) determined that it would be to the competitive advantage and interest of the Company and its stockholders to grant an award of restricted stock units to the Employee, the amount of which will vary based on the Company’s performance, as an inducement to remain in the service of the Company or one of its affiliates (collectively, the “Employer”), and as an incentive for increased efforts during such service. The Compensation Committee intends that the Award granted herein qualify as performance-based compensation under Section 162(m) of the Internal Revenue Code of 1986, as amended.
+
+The Committee, on behalf of the Company, grants to the Employee an award (the “Award”) of << Target # Granted>> restricted stock units (the “RSU’s”), which is equal to an equivalent number of shares of the Company’s common stock par value of $0.01 per share (the "Common Stock"). The number of RSU’s ultimately earned by the Employee will depend upon the Company’s << year>> performance on << number >> performance criteria - << identify performance criteria >>. The actual number of RSU’s earned by the Employee will be determined at a meeting of the Committee following the completion of the << year>> calendar year, at which time the Committee will certify whether the performance criteria have been satisfied and will review and approve the Company’s calculation of the Company’s performance on the two measures’ specified performance criteria. The total number of RSU’s issued will vary between 0-200% of the target award amount depending on where in the specified performance range for each measure the Company’s full year performance on the two measures falls. There will be a minimum level for each measure below which the Employee will receive 0% of the target award, and correspondingly a maximum performance level which, even if exceeded, will not generate more than 200% of the target award. In between the minimum and maximum performance targets the performance level of each measure will be plotted on a predefined curve which will indicate the percent of the target award achieved (see attached). The performance achieved on each measure will be added together and divided by two to determine the actual percentage payout of the target award amount.
+
+* * *
+
+  
+
+
+The award is made upon the following terms and conditions:
+
+  
+
+
+1\. Vesting. The RSU’s ultimately earned by the Employee will vest on the first trading day in January three years after the grant date (the “Vesting Date”). Upon the Vesting Date, the RSU’s will be immediately settled in shares of Common Stock and be immediately transferable thereafter. Notwithstanding the foregoing, the RSU’s will vest in the event of the Employee’s death or Disability, or a Change in Control of the Company and will be immediately settled in shares of Common Stock and be immediately transferable thereafter (but in any event within 70 days). For purposes of determining the amount of the resulting award, it will be assumed that the Company achieved “target” performance on each of the performance measures, resulting in the payment of 100% of the target award amount of this grant. Notwithstanding the foregoing, in the event of the Employee’s retirement under the Company’s pension plan on or after age 62, the RSU’s will not vest until the Vesting Date and upon such Vesting Date, such RSU’s will be immediately settled in shares of Common Stock and will be immediately transferable thereafter (and, in any event, within 70 days thereafter), with the amount of the resulting award to be determined on the basis of the Company’s achievement of the performance criteria. All RSU’s will be forfeited upon termination of the Employee's employment with the Employer before the Vesting Date for a reason other than death, Disability or retirement under the Company’s pension plan on or after age 62.
+
+  
+
+
+2\. Adjustment. The Committee shall make equitable substitutions or adjustments in the RSU’s as it determines to be appropriate in the event of any corporate event or transaction such as a stock split, merger, consolidation, separation, including a spin-off or other distribution of stock or property of the Company, reorganization or any partial or complete liquidation of the Company; provided, any such substitutions or adjustments shall be made in such a manner so as to comply with Treas. Reg. Section 1.162-27(e)(2)(iii)(C).
+
+  
+
+
+3\. Rights as Stockholder.
+
+  
+
+
+(a) Until the RSU’s are settled in shares of Common Stock, the Employee shall have no rights as stockholder of the Company. The vested RSU’s will be settled in shares of Common Stock and issued in the form of a book entry registration in the amount earned as a result of Company performance.
+
+* * *
+
+(b) Prior to the Vesting Date, the Employee may not vote, sell, exchange, transfer, pledge, hypothecate or otherwise dispose of any of the RSU’s. The RSU’s have Dividend Equivalent Rights subject to the same vesting requirements as stated in Section 1 of this agreement and such rights are subject to forfeiture to the same extent as the underlying RSU’s.
+
+  
+
+
+4\. No Limitation on Rights of the Company. The granting of RSU’s will not in any way affect the right or power of the Company to make adjustments, reclassifications or changes in its capital or business structure or to merge, consolidate, reincorporate, dissolve, liquidate or sell or transfer all or any part of its business or assets.
+
+  
+
+
+5\. Employment. Nothing in this Agreement or in the Plan will be construed as constituting a commitment, guarantee, agreement or understanding of any kind or nature that the Employer will continue to employ the Employee, or as affecting in any way the right of the Employer to terminate the employment of the Employee at any time.
+
+  
+
+
+6\. Government Regulation. The Company's obligation to deliver Common Stock following the Vesting Date will be subject to all applicable laws, rules and regulations and to such approvals by any governmental agencies or national securities exchanges as may be required.
+
+  
+
+
+7\. Withholding. The Employer will comply with all applicable withholding tax laws, and will be entitled to take any action necessary to effectuate such compliance. The Company may withhold a portion of the Common Stock to which the Employee or beneficiary otherwise would be entitled equivalent in value to the taxes required to be withheld, determined based upon the Fair Market Value of the Common Stock. For purposes of withholding, Fair Market Value shall be equal to the closing price of the amount of Common Stock earned by the Employee pursuant to this award on the Vesting Date, or, if the Vesting Date is not a business day, the next business day immediately following the Vesting Date.
+
+  
+
+
+8\. Notice. Any notice to the Company provided for in this Agreement will be addressed to it in care of its Secretary, John Bean Technologies Corporation, 70 West Madison, Chicago, Illinois 60602, and any notice to the Employee (or other person entitled to receive the RSU’s) will be addressed to such person at the Employee’s address now on file with the Company, or to such other address as either may designate to the other in writing. Any notice will be deemed to be duly given when enclosed in a properly sealed envelope addressed as stated above and deposited, postage paid, in a post office or branch post office regularly maintained by the United States government.
+
+* * *
+
+  
+
+
+9\. Administration. The Committee administers the Plan. The Employee’s rights under this Agreement are expressly subject to the terms and conditions of the Plan, a copy of which is attached hereto, including any guidelines the Committee adopts from time to time.
+
+  
+
+
+10\. Binding Effect. This Agreement will inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrators, successors and permitted assigns.
+
+  
+
+
+11\. Sole Agreement. This Agreement is the entire agreement between the parties to it, and any and all prior oral and written representations are merged into this Agreement. This Agreement may only be amended by written agreement between the Company and the Employee. Employee expressly acknowledges that the form of the grant agreement that the Employee accepts electronically through the Fidelity NetBenefits website is intended to facilitate the administration of this restricted stock award and may not be a full version of this Agreement due to limitation inherit in such website that are imposed by Fidelity. The terms of this Agreement will govern the Employee’s award in the event of any inconsistency with the agreement viewed or accepted by the Employee on the Fidelity NetBenefits website.
+
+  
+
+
+12\. Governing Law. The interpretation, performance and enforcement of this Agreement will be governed by the laws of the State of Delaware.
+
+  
+
+
+13\. Privacy. Employee acknowledges and agrees to the Employer transferring certain personal data of such Employee to the Company for purposes of implementing, performing or administering the Plan or any related benefit. Employee expressly gives his consent to the Employer and the Company to process such personal data.
+
+  
+
+
+Executed as of the Grant Date.
+
+  
+
+
+JOHN BEAN TECHNOLOGIES CORPORATION
+
+By:  
+  
+Vice President, Human Resources
+
+(Employee)  
+  
+(Title)  
+  
+(Division)  
+  
+(Address)  
+  
+(Social Security Number)  
+  
+  
+
+
+This document constitutes part of a prospectus covering securities that have been registered under the Securities Act of 1933.
+
+  
+

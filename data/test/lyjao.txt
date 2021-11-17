@@ -1,0 +1,171 @@
+EXHIBIT 10.5
+
+
+
+PIONEER NATURAL RESOURCES COMPANY
+
+2006 LONG TERM INCENTIVE PLAN
+
+February 18, 2009
+
+To: «First_Name» «Middle» «Last_Name»«Suffix»
+
+Pioneer Natural Resources Company, a Delaware corporation (the “Company”), is pleased to grant you an award (the “Award”) to receive «Total_Shares» Restricted Stock Units (the “Restricted Stock Units”) whereby each Restricted Stock Unit represents the right to receive one share of common stock, par value $0.01, of the Company (the “Stock”), plus an additional amount pursuant to Section 2, subject to certain restrictions and on the terms and conditions contained in this Restricted Stock Unit Award Agreement (the “Agreement”) and the Pioneer Natural Resources Company 2006 Long Term Incentive Plan (the “Plan”). A copy of the Plan is available upon request. Except as provided below, to the extent that any provision of this Agreement conflicts with the expressly applicable terms of the Plan, you acknowledge and agree that those terms of the Plan shall control and, if necessary, the applicable provisions of this Agreement shall be deemed amended so as to carry out the purpose and intent of the Plan. Terms that have their initial letters capitalized, but that are not otherwise defined in this Agreement, shall have the meanings given to them in the Plan in effect as of the date of this Agreement.
+
+This Agreement sets forth the terms of the agreement between you and the Company with respect to the Restricted Stock Units. By accepting this Agreement, you agree to be bound by all of the terms hereof.
+
+1. No Shareholder Rights. The Restricted Stock Units granted pursuant to this Agreement do not and shall not entitle you to any rights of a stockholder of the Company prior to the date shares of Stock are issued to you in settlement of the Award. Your rights with respect to Restricted Stock Units shall remain forfeitable at all times prior to the date on which rights become vested and the restrictions with respect to the Restricted Stock Units lapse in accordance with Section 4, 6 or 7.
+
+2. Dividend Equivalents. In the event that the Company declares and pays a dividend in respect of its outstanding shares of Stock and, on the record date for such dividend, you hold Restricted Stock Units granted pursuant to this Agreement that have not been settled, the Company shall pay to you an amount in cash equal to the cash dividends you would have received if you were the Beneficial Owner, as of such record date, of the number of shares of Stock related to the portion of your Restricted Stock Units that have not been settled as of such record date, such payment to be made on or promptly following the date that the Company pays such dividend (however, in no event shall the dividend equivalent payment be made later than 30 days following the date on which the Company pays such dividend).
+
+* * *
+
+3. Conversion of Restricted Stock Units; Issuance of Stock; Payment of Stock. No shares of Stock shall be issued to you prior to the date on which the Restricted Stock Units vest and the restrictions with respect to the Restricted Stock Units lapse, in accordance with Section 4, 6 or 7. Neither this Section 3 nor any action taken pursuant to or in accordance with this Section 3 shall be construed to create a trust of any kind. After any Restricted Stock Units vest pursuant to Section 4, 6 or 7 the Company shall, on or promptly following the applicable dates set forth in Section 5, cause to be issued Stock in book entry form registered in your name in payment of such vested Restricted Stock Units upon receipt by the Company of any required tax withholding with respect to such shares. The value of any fractional Restricted Stock Units shall be paid in cash at the time Stock is issued to you in connection with the Restricted Stock Units. The value of the fractional Restricted Stock Units shall equal the percentage of a Restricted Stock Unit represented by a fractional Restricted Stock Unit multiplied by the Fair Market Value of the Stock. The value of such shares of Stock shall not bear any interest owing to the passage of time.
+
+4. Expiration of Restrictions and Risk of Forfeiture. Subject to the terms and conditions of this Agreement, the forfeiture restrictions on the Restricted Stock Units granted pursuant to this Agreement will expire in full on the third anniversary of the date of this Agreement (the “Vesting Date”); provided, however, that such restrictions will expire on the Vesting Date only if you have been an employee of the Company or of a Subsidiary continuously from the date of this Agreement through the Vesting Date; provided, further, however, that if you cease to be an employee of the Company or of a Subsidiary for any reason after the Vesting Date, all Restricted Stock Units granted pursuant to this Agreement will survive the termination of employment.
+
+5. Payment Date. The payment date of the Stock related to your Restricted Stock Units will be the date on which the restrictions on such Restricted Stock Units expire as provided in Section 4, 6 or 7 of this Agreement; provided that, notwithstanding the provisions of Section 7(c), in the event that restrictions on your Restricted Stock Units expire due to the termination of your employment relationship with the Company and each of its Subsidiaries by which you are employed as a result of your Normal Retirement, then the payment date of the Stock related to such Restricted Stock Units will be the date on which the restrictions on such Restricted Stock Units would have expired as provided in Section 4 had you remained an employee of the Company or of a Subsidiary continuously from the date of this Agreement through the Vesting Date.
+
+6. Change in Control of the Company. Notwithstanding Section 4 of this Agreement, but subject to Section 27 of this Agreement, uponthe occurrence of a Change in Control, all of the Restricted Stock Units subject to this Award shall become immediately and unconditionally vested and the shares of Stock related to such Restricted Stock Units shall be paid to you immediately.
+
+7.
+
+Termination of Employment.  
+  
+(a) Termination By Employee Without Good Reason. If your employment relationship with the Company or any of its Subsidiaries is terminated voluntarily by you prior to the Vesting Date and such termination is not a Termination for Good Reason (as such term is
+
+2  
+  
+* * *
+
+defined in the Severance Agreement between you and the Company or one of its Subsidiaries), then all Restricted Stock Units granted pursuant to this Agreement shall become null and void as of the date of such termination.
+
+(b) Termination By The Company for Cause. If your employment relationship with the Company or any of its Subsidiaries is terminated by the Company prior to the Vesting Date and such termination is a Termination for Cause (as such term is defined in the Severance Agreement between you and the Company or one of its Subsidiaries), then all Restricted Stock Units granted pursuant to this Agreement shall become null and void as of the date of termination.
+
+(c) Other Termination Events. Subject to Section 27 of this Agreement, if your employment relationship with the Company and each of its Subsidiaries by which you are employed is terminated prior to the Vesting Date as a result of any of the following events:
+
+(i)
+
+your death;  
+  
+(ii)
+
+your Disability;  
+  
+(iii)
+
+your Normal Retirement;  
+  
+(iv) a termination by you that is a Termination for Good Reason; or  
+  
+(v)
+
+a termination by the Company that is not a Termination for Cause,  
+  
+then the restrictions on a number of the Restricted Stock Units shall automatically lapse such that the number of Restricted Stock Units for which the restrictions have lapsed as of the termination date will be equal to the product of (i) the total number of Restricted Stock Units granted to you pursuant to this Agreement, times (ii) a fraction, the numerator of which is the number of full months (counting the month in which your termination of employment occurs as a full month), beginning with the first full month following the date of this Agreement, during which you were employed by the Company and/or any Subsidiary and the denominator of which is 36.
+
+The portion, if any, of your Restricted Stock Units for which the restrictions have not lapsed as of the termination date of your employment relationship shall become null and void as of the termination date; provided, however, that the portion, if any, of this Award for which forfeiture restrictions have lapsed as of the date of termination shall survive.
+
+For purposes of this Section 7(c), “Disability” shall have the meaning ascribed to it in the Severance Agreement between you and the Company or one of its Subsidiaries; and the term “Normal Retirement” shall mean the termination of your employment relationship with the Company and each of its Subsidiaries by which you are employed due to your retirement on or after the date that you attain age 60.
+
+8. Adjustment Provisions. In the event there is any change in the Stock by reason of any reorganization, recapitalization, stock split, stock dividend, combination of shares or otherwise, the number of shares associated with the Award of Restricted Stock Units subject to
+
+3  
+  
+* * *
+
+this Agreement shall be adjusted in the manner consistent with the adjustment provisions provided in Section 9(b) and 9(c)(ii) of the Plan.
+
+9. Furnish Information. You agree to furnish to the Company all information requested by the Company to enable it to comply with any reporting or other requirements imposed upon the Company by or under any applicable statute or regulation.
+
+10. Remedies. The parties to this Agreement shall be entitled to recover from each other reasonable attorneys’ fees incurred in connection with the enforcement of the terms and provisions of this Agreement whether by an action to enforce specific performance or for damages for its breach or otherwise.
+
+11. Information Confidential. As partial consideration for the granting of the Award hereunder, you hereby agree with the Company that you will keep confidential all information and knowledge, except that which has been disclosed in any public filings required by law, that you have relating to the terms and conditions of this Agreement; provided, however, that such information may be disclosed as required by law and may be given in confidence to your spouse, tax and financial advisors, or to a financial institution to the extent that such information is necessary to secure a loan. In the event any breach of this promise comes to the attention of the Company, it shall take into consideration that breach in determining whether to recommend the grant of any future similar award to you, as a factor militating against the advisability of granting any such future award to you.
+
+12. Payment of Taxes. The Company may from time to time require you to pay to the Company (or the Company’s Subsidiary if you are an employee of a Subsidiary of the Company) the amount that the Company deems necessary to satisfy the Company’s or its Subsidiary’s current or future obligation to withhold federal, state or local income or other taxes or social security or other obligations that you incur as a result of the Award, including without limitation with respect to any payment pursuant to Section 2 of this Agreement. With respect to any required tax withholding, unless another arrangement is permitted by the Company in its discretion, the Company shall withhold from the shares of Stock to be issued to you the number of shares necessary to satisfy the Company’s obligation to withhold taxes, that determination to be based on the shares’ Fair Market Value at the time as of which such determination is made. In the event the Company subsequently determines that the aggregate Fair Market Value of any shares of Stock withheld as payment of any tax withholding obligation is insufficient to discharge that tax withholding obligation, then you shall pay to the Company, immediately upon the Company’s request, the amount of that deficiency.
+
+13. Right of the Company and Subsidiaries to Terminate Employment. Nothing contained in this Agreement shall confer upon you the right to continue in the employ of the Company or any Subsidiary of the Company, or interfere in any way with the rights of the Company or any Subsidiary of the Company to terminate your employment at any time.
+
+14. No Liability for Good Faith Determinations. Neither the Company nor the members of the Board and the Committee shall be liable for any act, omission or determination taken or made in good faith with respect to this Agreement or the Restricted Stock Units granted hereunder.
+
+4  
+  
+* * *
+
+15. No Guarantee of Interests. The Board and the Company do not guarantee the Stock of the Company from loss or depreciation.
+
+16. Company Records. Records of the Company or its Subsidiaries regarding your period of employment, termination of employment and the reason therefor, leaves of absence, re-employment, and other matters shall be conclusive for all purposes hereunder, unless determined by the Company to be incorrect.
+
+17. Severability. If any provision of this Agreement is held to be illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining provisions hereof, but such provision shall be fully severable and this Agreement shall be construed and enforced as if the illegal or invalid provision had never been included herein.
+
+18. Notices. Whenever any notice is required or permitted hereunder, such notice must be in writing and personally delivered or sent by mail. Any such notice required or permitted to be delivered hereunder shall be deemed to be delivered on the date on which it is personally delivered, or, whether actually received or not, on the third Business Day after it is deposited in the United States mail, certified or registered, postage prepaid, addressed to the person who is to receive it at the address which such person has theretofore specified by written notice delivered in accordance herewith. The Company or you may change, at any time and from time to time, by written notice to the other, the address which it or he had previously specified for receiving notices.
+
+The Company and you agree that any notices shall be given to the Company or to you at the following addresses:
+
+Company:
+
+Pioneer Natural Resources Company  
+  
+Attn: Corporate Secretary  
+  
+5205 N. O’Connor Boulevard, Suite 200  
+  
+Irving, Texas 75039-3746  
+  
+Holder:
+
+At your current address as shown in the Company’s records.  
+  
+19. Waiver of Notice. Any person entitled to notice hereunder may waive such notice in writing.
+
+20. Successors. This Agreement shall be binding upon you, your legal representatives, heirs, legatees and distributees, and upon the Company, its successors and assigns.
+
+21. Headings. The titles and headings of Sections are included for convenience of reference only and are not to be considered in construction of the provisions hereof.
+
+22. Governing Law. All questions arising with respect to the provisions of this Agreement shall be determined by application of the laws of the State of Delaware except to the extent Delaware law is preempted by federal law. The obligation of the Company to sell and deliver Stock hereunder is subject to applicable laws and to the approval of any governmental authority required in connection with the authorization, issuance, sale, or delivery of such Stock.
+
+5  
+  
+* * *
+
+23. Execution of Receipts and Releases. Any payment of cash or any issuance or transfer of shares of Stock or other property to you, or to your legal representative, heir, legatee or distributee, in accordance with the provisions hereof, shall, to the extent thereof, be in full satisfaction of all claims of such Persons hereunder. The Company may require you or your legal representative, heir, legatee or distributee, as a condition precedent to such payment or issuance, to execute a release and receipt therefor in such form as it shall determine.
+
+24. Amendment. This Agreement may be amended at any time unilaterally by the Company, provided that such amendment is consistent with all applicable laws and does not reduce any rights or benefits you have accrued pursuant to this Agreement. This Agreement may also be amended at any time unilaterally by the Company to the extent the Company believes in good faith that such amendment is necessary or advisable to bring this Agreement in compliance with any applicable laws, including Section 409A of the Code.
+
+25. The Plan. This Agreement is subject to all the terms, conditions, limitations and restrictions contained in the Plan; provided, however, that notwithstanding anything to the contrary herein, any provision of this Agreement that is inconsistent with the provisions of Section 9(c), (e), and (f) of the Plan shall control over such provisions of the Plan.
+
+26. Agreement Respecting Securities Act of 1933. You represent and agree that you will not sell the Stock that may be issued to you pursuant to your Restricted Stock Units except pursuant to an effective registration statement under the Securities Act of 1933 or pursuant to an exemption from registration under the Securities Act of 1933 (including Rule 144 of the Securities Act).
+
+27.
+
+Special Provisions Addressing Section 409A of the Code.  
+  
+(a) Change in Control. Notwithstanding the provisions of Section 6 that may be to the contrary, if a Change in Control occurs at a time when you have reached the age of 60 or later, no shares of Stock related to the Restricted Stock Units shall be paid to you as a result of that Change in Control unless the event constituting such Change in Control also constitutes a “change in the ownership or effective control” or “in the ownership of a substantial portion of the assets” of the Company within the meaning of Section 409A of the Code and the regulations and other authoritative guidance promulgated thereunder (collectively, the “Nonqualified Deferred Compensation Rules”); except that, to the extent permitted under the Nonqualified Deferred Compensation Rules, payment may be made in respect of this Award, upon the occurrence of a Change in Control, as determined by the Committee in its discretion, to the extent necessary to pay employment or other taxes imposed on the Award. To the extent shares of Stock related to the Restricted Stock Units are not paid to you upon a Change in Control as a result of the limitations described in the preceding sentence, the payment date of the Stock related to your Restricted Stock Units shall be the earlier to occur of:
+
+(i)
+
+the time or times specified in Section 4 of this Agreement;  
+  
+(ii) your separation from service with the Company (determined in accordance with the Company’s written and generally applicable policies regarding what constitutes a “separation from service” for purposes of Section 409A of the Code);
+
+6  
+  
+* * *
+
+provided that, if at the time of the Change in Control you are a “specified employee” within the meaning of Section 409A of the Code, as determined in accordance with the procedures specified or established by the Company in accordance with the Nonqualified Deferred Compensation Rules (a “Specified Employee”), this date shall be the earlier of (A) the date of your death, or (B) the date that is six months and one day following the date of your separation from service with the Company; or
+
+(iii) a Change in Control that constitutes a “change in the ownership or effective control” or “in the ownership of a substantial portion of the assets” of the Company within the meaning of the Nonqualified Deferred Compensation Rules.
+
+(b) Termination of Employment. Notwithstanding the provisions of Section 7(c) that may be to the contrary, if you have reached the age of 60 or later at the time of the event giving rise to the termination of your employment relationship with the Company and each of its Subsidiaries, any payment that becomes due to you pursuant to Section 7(c) of this Agreement shall only be paid to you on the earlier to occur of:
+
+(i)
+
+the time or times specified in Section 4 of this Agreement; or  
+  
+(ii) the date of your separation from service with the Company; provided that, if at the time of the Change in Control you are a Specified Employee, this date shall be the earlier of (A) the date of your death, or (B) the date that is six months and one day following the date of your separation from service with the Company;
+
+provided that, to the extent permitted under the Nonqualified Deferred Compensation Rules, payment shall be made in respect of this Award, upon your termination of employment, as determined by the Committee in its discretion, to the extent necessary to pay employment or other taxes imposed on the Award.
+
+28. Electronic Delivery and Acknowledgement. No signature by you is required to accept the award represented by this Agreement. By your acceptance of this award, you are acknowledging that you have received and read, understood and accepted all the terms, conditions and restrictions of this Agreement and the Plan. The Company may, in its sole discretion, deliver any documents related to this award and this Agreement, or other awards that have been or may be awarded under the Plan, by electronic means, including prospectuses, proxy materials, annual reports and other related documents, and the Company may, in its sole discretion, engage a third party to effect the delivery of these documents on its behalf and provide other administrative services related to this award and the Plan. By your acceptance of the award represented by this Agreement, you consent to receive such documents by electronic delivery and to the engagement of any such third party.
+
+7

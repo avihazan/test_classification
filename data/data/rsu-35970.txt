@@ -1,0 +1,136 @@
+[FORM RSU – ANNUAL (DIRECTOR)]
+
+  
+
+
+Exhibit 10.7.6
+
+CARE CAPITAL PROPERTIES, INC.
+
+
+
+THIS RESTRICTED STOCK UNIT AGREEMENT (“Agreement”) is made and entered into as of the ____ day of __________, 2015 by and between CARE CAPITAL PROPERTIES, INC., a Delaware corporation (the “Company”), and ___________, a non-employee director of the Company (“Director”), pursuant to the Company’s 2015 Incentive Plan (the “Plan”) (capitalized terms not defined herein shall have the meaning ascribed to them in the Plan).
+
+AGREEMENT:
+
+The parties agree as follows:
+
+1\. Issuance of RSUs. The Company hereby grants to Director Restricted Stock Units in respect of ______ Shares (“RSUs”) under the Plan.
+
+2\. Vesting of RSUs. If Director has not previously forfeited any of the RSUs, the RSUs shall vest and become non-forfeitable on the day immediately preceding the date of the Company’s next regularly-scheduled annual meeting of stockholders.
+
+3\. Cessation of Service. If Director ceases to be a director of the Company for any reason other than as set forth in the next sentence, all RSUs which have not previously vested in accordance with Section 2 of this Agreement, and which do not vest as of such cessation of service by application of this Section 3, shall be forfeited as of such cessation of service and reconveyed to the Company by Director without additional consideration, and Director shall have no further rights with respect thereto. Notwithstanding the foregoing, (a) upon a Change in Control while Director is in active service as a director of the Company, all unvested RSUs shall vest in full as of such Change in Control, and (b) if Director ceases to be a director of the Company due to Director’s death or Disability, all unvested RSUs shall vest in full as of such cessation of service.
+
+4\. Settlement of RSUs. Except as otherwise provided by a deferral election pursuant to Section 5 of this Agreement, vested RSUs shall be settled in Shares as soon as reasonably practicable following the date that the RSUs become vested pursuant to Section 2 or Section 3 of this Agreement, but in any event on or prior to March 15th of the calendar year following the calendar year in which the RSUs become vested. 
+
+If, however, Director elects to defer settlement of RSUs as provided in Section 5 of this Agreement, the RSUs shall be settled as set forth in the Deferral Election Agreement entered into by Director and accepted by the Company.
+
+5\. Deferral Election. Director may elect to defer settlement of RSUs that would otherwise be settled pursuant to Section 4. The Committee shall, in its sole discretion, establish the rules and procedures for such deferral elections and payment deferrals.
+
+  
+
+
+1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+6\. Dividend Equivalents. Director shall be credited with dividend equivalents with respect to RSUs under this Agreement.
+
+On each ordinary dividend or other distribution date with respect to Shares, an amount equal to the ordinary cash dividends or the fair market value of property other than Shares that would have been paid or distributed on a number of Shares equal to the number of RSUs held by Director as of the close of business on the record date for such ordinary dividend or distribution shall, subject to Section 4.3 of the Plan, be paid in cash to Director. Subject to Section 4.3 of the Plan, if any ordinary dividend or distribution with respect to Shares is payable in Shares, Director shall be credited with an additional number of Restricted Stock Units equal to the product of the number of RSUs held by Director on the record date for such ordinary dividend or distribution multiplied by the number of Shares (including fractions thereof) distributable as an ordinary dividend or distribution on a Share. Restricted Stock Units that are credited to Director pursuant to the immediately preceding sentence shall be subject to the same restrictions as the RSUs.
+
+7\. No Rights as Stockholder. Except as set forth in Section 6, Director shall have no voting or other rights as a stockholder of the Company with respect to any RSUs. Upon the settlement of RSUs pursuant to Section 4 or Section 5 of this Agreement, Director shall have full voting and other rights as a stockholder of the Company.
+
+8\. Independent Tax Advice. Director acknowledges that determining the actual tax consequences to Director of receiving RSUs or Shares upon the settlement of RSUs, or deferring or disposing of RSUs or Shares in respect of RSUs may be complicated. These tax consequences will depend, in part, on Director’s specific situation and may also depend on the resolution of currently uncertain tax law and other variables not within the control of the Company. Director is aware that Director should consult a competent and independent tax advisor for a full understanding of the specific tax consequences to Director of receiving, deferring or disposing of RSUs or Shares in respect of RSUs. Prior to executing this Agreement, Director either has consulted with a competent tax advisor independent of the Company to obtain tax advice concerning the RSUs and Shares in respect of RSUs in light of Director’s specific situation or has had the opportunity to consult with such a tax advisor but chose not to do so.
+
+9\. Restriction on Transfer of RSUs. Director shall not Transfer any of the RSUs except to the extent permitted by the Committee. For the purposes of this Agreement, the term “Transfer” shall mean any sale, exchange, assignment, gift, encumbrance, lien, transfer by bankruptcy or judicial order, transfer by operation of law and all other types of transfers and dispositions, whether direct or indirect, voluntary or involuntary.
+
+10\. Agreement Does Not Grant Service Continuation. The granting of RSUs or their settlement in Shares shall not be construed as granting to Director any right to continue as a director or any other relationship with the Company. The right of the Company to terminate Director’s service at any time, for any reason, with or without consent, is specifically reserved.
+
+11\. General Provisions.
+
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(a) Incorporation of Plan. Except as specifically provided herein, this Agreement is and shall be in all respects subject to the terms and conditions of the Plan, a copy of which Director acknowledges receiving prior to the execution hereof and the terms of which are incorporated by reference.
+
+(b) Captions. The captions and section headings used herein are for convenience only, shall not be deemed part of this Agreement and shall not in any way restrict or modify the context or substance of any section or paragraph of this Agreement.
+
+(c) Governing Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware without regard to its conflict of laws rules.
+
+(d) Defined Terms. All capitalized terms not defined herein shall have the same meanings set forth in the Plan, unless a different meaning is plainly required by the context.
+
+(e) Section 409A. To the extent Section 409A of the Code is applicable to any RSUs, it is intended that such RSUs comply with the deferral, payout and other limitations and restrictions imposed under Section 409A of the Code. Notwithstanding any other provision, the Company, to the extent it deems necessary or advisable in its sole discretion, reserves the right, but shall not be required, to unilaterally amend or modify this Agreement to help RSUs qualify for exemption from or compliance with Section 409A of the Code; provided, however, that the Company makes no representation that RSUs under the Plan shall be exempt from or comply with Section 409A of the Code and makes no undertaking to comply with Section 409A of the Code or to preclude Section 409A of the Code from applying to any RSUs. Director understands that Section 409A of the Code is complex, that any additional taxes and other liabilities under Section 409A of the Code are Director’s responsibility and that the Company encourages Director to consult a tax advisor regarding the potential impact of Section 409A of the Code.
+
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on and as of the date first above written.
+
+  
+
+
+CARE CAPITAL PROPERTIES, INC.
+
+  
+
+
+  
+  
+  
+By: 
+
+  
+Name:   
+Title:  
+  
+  
+
+
+  
+[NAME]
+
+  
+
+
+  
+
+
+4
+
+  
+

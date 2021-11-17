@@ -1,0 +1,162 @@
+INSPIREMD, INC. 
+
+
+
+1\. Grant of Option. Pursuant to this nonqualified stock option agreement (this “Agreement”), InspireMD, Inc., a Delaware corporation (the “Company”), hereby grants to
+
+Campbell Rogers, MD  
+(the “Optionee”)  
+  
+an option (the “Stock Option”) to purchase one hundred twenty-five thousand (125,000) full shares (the “Optioned Shares”) of common stock of the Company, par value $0.0001 per share (the “Common Stock”), at an “Exercise Price” equal to $2.12 per share (being the fair market value per share of the Common Stock on the Date of Grant). The “Date of Grant” of this Stock Option is September 3, 2013. The “Option Period” shall commence on the Date of Grant and shall expire on the date immediately preceding the tenth (10th) anniversary of the Date of Grant, unless terminated earlier in accordance with Section 3 below. The Stock Option is a nonqualified stock option. This Stock Option is intended to comply with the provisions governing nonqualified stock options under the final Treasury Regulations issued on April 17, 2007, in order to exempt this Stock Option from application of Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+2\. Vesting; Time of Exercise. Except as specifically provided in this Agreement, the Optioned Shares shall become vested and exercisable as provided below:
+
+a. One-third (1/3) of the total Optioned Shares (rounded down for fractional shares) shall vest and become exercisable on the first anniversary of the Date of Grant, provided that the Optionee has continuously provided services to the Company and/or its subsidiaries and affiliates (collectively, the “Group”) as an employee, consultant, or outside director through that date.
+
+b. An additional one-third (1/3) of the total Optioned Shares (rounded down for fractional shares) shall vest and become exercisable on the second anniversary of the Date of Grant, provided that the Optionee has continuously provided services to the Group as an employee, consultant, or outside director through that date.
+
+c. The remaining one-third (1/3) of the total Optioned Shares shall vest and become exercisable on the third anniversary of the Date of Grant, provided that the Optionee has continuously provided services to the Group as an employee, consultant, or outside director through that date.
+
+In the event that (i) a Transaction (as defined below) occurs, (ii) this Agreement is not assumed by the Successor Company (as defined below) or the Acquiring Company (as defined below), as applicable, (iii) the Successor Company or the Acquiring Company, as applicable, does not substitute its own stock option for this Stock Option, then upon the effective date of such Transaction, the total Optioned Shares not previously vested shall thereupon immediately become fully vested and this Stock Option shall become fully exercisable, if not previously so exercisable. For purposes of this Agreement, a “Transaction” means any of the following events: (A) a merger or consolidation of the Company with or into any company (the “Successor Company”) resulting in the Successor Company being the surviving entity; or (B) an acquisition of: (x) all or substantially all of the shares of Common Stock or assets of the Company in one or more related transactions to another party, or (y) all or substantially all of the assets of the Company, in one or more related transactions to another party, in each case such acquirer of shares or assets is referred to herein as the “Acquiring Company.”  
+  
+Notwithstanding paragraphs (a), (b), and (c) above, in the event the Optionee is either (i) not reelected as a director at the Company’s 2014 annual meeting of stockholders, or (ii) not nominated for reelection as a director at the Company’s 2014 annual meeting of stockholders, the Optioned Shares shall immediately become 100% vested and exercisable on the date of such failure to be reelected or nominated, as applicable, provided that the Optionee has continuously provided services to the Group as an employee, consultant, or outside director through that date and the Stock Option has not otherwise been forfeited by the Optionee.
+
+3\. Term; Forfeiture.
+
+a. Except as otherwise provided in this Agreement, to the extent the unexercised portion of the Stock Option relates to Optioned Shares which are not vested on the date the Optionee terminates all service (as an employee, outside director or consultant) with the Company for any reason, the Stock Option will be terminated on that date. The unexercised portion of the Stock Option that relates to Optioned Shares which are vested will terminate at the first of the following to occur:
+
+i. 5 p.m. on the date the Option Period terminates;
+
+ii. 5 p.m. on the date which is twenty-four (24) months following the date of the Optionee’s termination of service due to death;
+
+iii. 5 p.m. on the date which is twelve (12) months following the date of the Optionee’s termination of service due to disability;
+
+iv. 5 p.m. on the date which is ninety (90) days following the date of the Optionee’s termination of service by the Company without Cause (as defined below);
+
+v. immediately upon the Optionee’s termination of service for Cause;
+
+vi. 5 p.m. on the date which is thirty (30) days following the date of the Optionee’s termination of service for any reason not otherwise specified in this Section 3.a.; and
+
+vii. 5 p.m. on the date the Company causes any portion of the Stock Option to be forfeited pursuant to Section 6 hereof.
+
+b. For the purposes hereof, “Cause” shall exist if the Optionee (i) breaches any of the material terms or conditions of any agreement to provide services to the Group, including, without limitation, the breach of any duty of non-disclosure or non-competition; (ii) engages in willful misconduct or acts in bad faith with respect to any company in the Group; or (iii) is convicted of a criminal offence involving moral turpitude. Notwithstanding anything herein to the contrary, if the Optionee is terminated for Cause, then all Optioned Shares (including vested Optioned Shares), whether exercisable or not on the date that the Group delivers to the Optionee a termination notice, shall expire and may not be exercised.
+
+2  
+  
+4\. Who May Exercise. Subject to the terms and conditions set forth in Sections 2 and 3 above, during the lifetime of the Optionee, the Stock Option may be exercised only by the Optionee, or by the Optionee’s guardian or personal or legal representative. If Optionee dies prior to the dates specified in Section 3 hereof, and the Optionee has not exercised the Stock Option as to the maximum number of vested Optioned Shares as set forth in Section 2 hereof as of the date of death, the following persons may exercise the exercisable portion of the Stock Option on behalf of the Optionee at any time prior to the earliest of dates specified in Section 3 hereof: the personal representative of his estate, or the person who acquired the right to exercise the Stock Option by bequest or inheritance or by reason of the death of the Optionee; provided that the Stock Option shall remain subject to the other terms of this Agreement and applicable laws, rules, and regulations.
+
+5\. No Fractional Shares. The Stock Option may be exercised only with respect to full shares, and no fractional share of Common Stock shall be issued.
+
+6\. Manner of Exercise. Subject to such administrative regulations as the Company may from time to time adopt, the Stock Option may be exercised by the delivery of an exercise notice to the Company, in such form and substance as may be prescribed by the Company, setting forth the number of Optioned Shares with respect to which the Stock Option is to be exercised, the date of exercise thereof (the “Exercise Date”) which shall be at least three (3) days after giving such notice unless an earlier time shall have been mutually agreed upon. On the Exercise Date, the Optionee shall deliver to the Company consideration with a value equal to the total Exercise Price of the Optioned Shares to be purchased, payable as follows: cash, cashier’s check, or certified check payable to the order of the Company.
+
+Upon payment of all amounts due from the Optionee, the Company shall cause certificates for the Optioned Shares then being purchased to be delivered to the Optionee (or the person exercising the Optionee’s Stock Option in the event of his death) at its principal business office promptly after the Exercise Date. The obligation of the Company to deliver such Optioned Shares shall, however, be subject to the condition that if at any time the Company shall determine in its discretion that the listing, registration, or qualification of the Stock Option or the Optioned Shares upon any securities exchange or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary as a condition of, or in connection with, the Stock Option or the issuance or purchase of the Optioned Shares thereunder, then the Stock Option may not be exercised in whole or in part unless such listing, registration, qualification, consent, or approval shall have been effected or obtained free of any conditions not reasonably acceptable to the Company.
+
+If the Optionee fails to pay for any of the Optioned Shares specified in such notice or fails to accept delivery thereof, then the Company may cause the Stock Option and the right to purchase such Optioned Shares to be forfeited by the Optionee.
+
+7\. Nonassignability. The Stock Option is not assignable or transferable by the Optionee except by will or by the laws of descent and distribution.
+
+8\. Rights as Stockholder. The Optionee will have no rights as a stockholder with respect to the Optioned Shares until the issuance of a certificate or certificates to the Optionee or the registration of such shares in the Optionee’s name. The Optioned Shares shall be subject to the terms and conditions of this Agreement. Except as otherwise provided in Section 9 hereof, no adjustment shall be made for dividends or other rights for which the record date is prior to the issuance of such Optioned Shares. The Optionee, by his execution of this Agreement, agrees to execute any documents requested by the Company in connection with the issuance of the Optioned Shares. 
+
+9\. Adjustment of Number of Optioned Shares and Related Matters. The number of Optioned Shares covered by the Stock Option, and the exercise price, shall be subject to adjustment as follows:
+
+3  
+  
+a. In the event that the shares of Common Stock of the Company are subdivided or combined into a greater or smaller number of shares, or if the shares of Common Stock of the Company are exchanged for other securities of the Company, by reason of a reclassification, recapitalization, consolidation, reorganization, dividend or other distribution (whether in the form of cash, stock or other property), stock split, spin-off, combination or exchange of shares, repurchase of shares, change in corporate structure or otherwise, then the Optionee shall be entitled, upon exercise of the Stock Option and subject to the conditions herein stated, to purchase such number of shares of Common Stock or such other securities of the Company as were exchangeable for the number of shares of Common Stock of the Company which the Optionee would have been entitled to purchase had the Optionee exercised the Stock Option immediately prior to such an event, and appropriate adjustments shall be made in the exercise price per share to reflect such subdivision, combination or exchange.
+
+b. Subject to paragraph (c) below, in the event of a Transaction, while unexercised Optioned Shares remain, the Company determines in good faith that adjustment is required in order to preserve the benefits or potential benefits to the Optionee, the Company may at its sole discretion (1) cause the Stock Option to be substituted with the corresponding and adjusted number of options to purchase shares of the surviving entity (or an affiliated entity of the surviving entity) - of the same class and the same substitution rate as the shares received by the holders of shares of Common Stock of the Company in exchange for their Common Stock, or (2) in the event holders of the shares of Common Stock received cash as consideration for their shares in the Transaction, cause the Stock Option to be cancelled in exchange for a cash payment equal to the cash the Optionee would have received had he exercised the Stock Option immediately prior to the Transaction, as adjusted for the payment of the appropriate exercise price. In the case of such substitution, appropriate adjustments shall be made in the quantity and exercise price to reflect such action, and all other material terms and conditions of the Agreement shall remain in force.
+
+c. In the event of a Transaction, the Successor Company or the Acquiring Company shall have the right, among other alternatives, to substitute the Stock Option for its own securities (the “Substitute Shares”) or to retain this Agreement with no change. In the event the Successor Company or the Acquiring Company chooses to substitute the Stock Option for Substitute Shares, appropriate equitable adjustments shall be made in the purchase price per share of the Substitute Shares, and all other terms and conditions of the Agreement shall remain in force.
+
+The Company shall determine the specific adjustments to be made under this Section 9, and its determination shall be conclusive. Notwithstanding anything herein to the contrary, no such adjustment shall be made or authorized to the extent that such adjustment would cause the Stock Option or this Agreement to violate Section 409A of the Code. Such adjustments shall be made in accordance with the rules of any securities exchange, stock market, or stock quotation system to which the Company is subject.
+
+10\. Nonqualified Stock Option. The Stock Option shall not be treated as an “incentive stock option” under Section 422 of the Code.
+
+11\. Voting. The Optionee, as record holder of some or all of the Optioned Shares following exercise of this Stock Option, has the exclusive right to vote, or consent with respect to, such Optioned Shares until such time as the Optioned Shares are transferred in accordance with this Agreement; provided, however, that this Section shall not create any voting right where the holders of such Optioned Shares otherwise have no such right.
+
+4  
+  
+12\. Specific Performance. The parties acknowledge that remedies at law will be inadequate remedies for breach of this Agreement and consequently agree that this Agreement shall be enforceable by specific performance. The remedy of specific performance shall be cumulative of all of the rights and remedies at law or in equity of the parties under this Agreement.
+
+13\. Optionee’s Representations. Notwithstanding any of the provisions hereof, the Optionee hereby agrees that he will not exercise the Stock Option granted hereby, and that the Company will not be obligated to issue any shares of Common Stock to the Optionee hereunder, if the exercise thereof or the issuance of such shares shall constitute a violation by the Optionee or the Company of any provision of any law or regulation of any governmental authority. Any determination in this connection by the Company shall be final, binding, and conclusive. The rights and obligations of the Company and the rights and obligations of the Optionee are subject to all applicable laws, rules, and regulations.
+
+14\. Investment Representations. Notwithstanding anything herein to the contrary, the Optionee hereby represents and warrants to the Company, that:
+
+a. This Stock Option and the Optioned Shares are being acquired for investment purposes only for the Optionee’s own account and not with a view to or in connection with any distribution, re-offer, resale or other disposition not in compliance with the Securities Act of 1933 (the “Securities Act”) and applicable state securities laws;
+
+b. The Optionee, alone or together with the Optionee’s representatives, possesses such expertise, knowledge and sophistication in financial and business matters generally, and in the type of transactions in which the Company proposes to engage in particular, that the Optionee is capable of evaluating the merits and economic risks of acquiring this Stock Option and the Optioned Shares;
+
+c. The Optionee has had access to all of the information with respect to this Stock Option and the Optioned Shares that the Optionee deems necessary to make a complete evaluation thereof, and has had the opportunity to question the Company concerning the Stock Option and Optioned Shares;
+
+d. The decision of the Optionee to acquire the Stock Option for investment has been, and any subsequent decision to acquire any Optioned Shares will be, based solely upon an evaluation made by the Optionee;
+
+e. The Optionee understands that the Stock Option and Optioned Shares constitute “restricted securities” under the Securities Act and have not been registered under the Securities Act in reliance upon a specific exemption therefrom, which exemption depends upon, among other things, the bona fide nature of the Optionee’s investment intent as expressed herein. The Optionee further understands that the Stock Option and Optioned Shares must be held indefinitely unless they are subsequently registered under the Securities Act or an exemption from such registration is available;
+
+f. The Optionee acknowledges and understands that the Company is under no obligation to register the Stock Option or the Optioned Shares and that the certificates evidencing the Optioned Shares will be imprinted with a legend which prohibits the transfer of such Shares unless they are registered or such registration is not required in the opinion of counsel satisfactory to the Company and any other legend required under applicable state securities laws; and
+
+5  
+  
+g. The Optionee is, and at the time of exercise will be, an “accredited investor,” as such term is defined in Section 501 of Regulation D promulgated under the Securities Act.
+
+15\. Optionee’s Acknowledgments. The Optionee hereby agrees to accept as binding, conclusive, and final all decisions or interpretations of the Company, upon any questions arising under this Agreement.
+
+16\. Law Governing. This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Delaware (excluding any conflict of laws rule or principle of Delaware law that might refer the governance, construction, or interpretation of this Agreement to the laws of another state).
+
+17\. No Right to Continue Service or Employment. Nothing herein shall be construed to confer upon the Optionee the right to continue in the employ or to provide services to the Company or the Group, whether as an employee or as a consultant or as an outside director, or interfere with or restrict in any way the right of the Company or the Group to discharge the Optionee at any time.
+
+18\. Legal Construction. In the event that any one or more of the terms, provisions, or agreements that are contained in this Agreement shall be held by a court of competent jurisdiction to be invalid, illegal, or unenforceable in any respect for any reason, the invalid, illegal, or unenforceable term, provision, or agreement shall not affect any other term, provision, or agreement that is contained in this Agreement and this Agreement shall be construed in all respects as if the invalid, illegal, or unenforceable term, provision, or agreement had never been contained herein.
+
+19\. Covenants and Agreements as Independent Agreements. Each of the covenants and agreements that is set forth in this Agreement shall be construed as a covenant and agreement independent of any other provision of this Agreement. The existence of any claim or cause of action of the Optionee against the Company, whether predicated on this Agreement or otherwise, shall not constitute a defense to the enforcement by the Company of the covenants and agreements that are set forth in this Agreement.
+
+20\. Entire Agreement. This Agreement supersedes any and all other prior understandings and agreements, either oral or in writing, between the parties with respect to the subject matter hereof and constitute the sole and only agreements between the parties with respect to the said subject matter. All prior negotiations and agreements between the parties with respect to the subject matter hereof are merged into this Agreement. Each party to this Agreement acknowledges that no representations, inducements, promises, or agreements, orally or otherwise, have been made by any party or by anyone acting on behalf of any party, which are not embodied in this Agreement and that any agreement, statement or promise that is not contained in this Agreement shall not be valid or binding or of any force or effect.
+
+21\. Parties Bound. The terms, provisions, and agreements that are contained in this Agreement shall apply to, be binding upon, and inure to the benefit of the parties and their respective heirs, executors, administrators, legal representatives, and permitted successors and assigns, subject to the limitation on assignment expressly set forth herein.
+
+22\. Modification. No change or modification of this Agreement shall be valid or binding upon the parties unless the change or modification is in writing and signed by the parties; provided, however, that the Company may change or modify this Agreement without the Optionee’s consent or signature if the Company determines, in its sole discretion, that such change or modification is necessary for purposes of compliance with or exemption from the requirements of Section 409A of the Code or any regulations or other guidance issued thereunder. 
+
+6  
+  
+23\. Headings. The headings that are used in this Agreement are used for reference and convenience purposes only and do not constitute substantive matters to be considered in construing the terms and provisions of this Agreement.
+
+24\. Gender and Number. Words of any gender used in this Agreement shall be held and construed to include any other gender, and words in the singular number shall be held to include the plural, and vice versa, unless the context requires otherwise.
+
+25\. Notice. Any notice required or permitted to be delivered hereunder shall be deemed to be delivered only when actually received by the Company or by the Optionee, as the case may be, at the addresses set forth below, or at such other addresses as they have theretofore specified by written notice delivered in accordance herewith:
+
+a. Notice to the Company shall be addressed and delivered as follows:
+
+InspireMD, Inc.
+
+3 Menorat Hamaor St.
+
+Tel Aviv, Israel 67448
+
+Attn: Craig Shore
+
+Facsimile: 972-3-691-7692
+
+b. Notice to the Optionee shall be addressed and delivered as set forth on the signature page.
+
+26\. Tax Requirements. The Optionee is hereby advised to consult immediately with his or her own tax advisor regarding the tax consequences of this Agreement. The Company or, if applicable, any subsidiary (for purposes of this Section 26, the term “Company” shall be deemed to include any applicable subsidiary), shall have the right to deduct from all amounts paid in cash or other form, any Federal, state, local, or other taxes required by law to be withheld in connection with this Agreement. The Company may, in its sole discretion, also require the Optionee receiving Optioned Shares to pay the Company the amount of any taxes that the Company is required to withhold in connection with the Optionee’s income arising with respect to the Stock Option. Such payments shall be required to be made when requested by Company and may be required to be made prior to the delivery of any Optioned Shares. Such payment may be made (i) by the delivery of cash to the Company in an amount that equals or exceeds (to avoid the issuance of fractional shares under (iii) below) the required tax withholding obligations of the Company; (ii) if the Company, in its sole discretion, so consents in writing, the actual delivery by the exercising Optionee to the Company of shares of the Company’s common stock, which shares so delivered have an aggregate fair market value that equals or exceeds (to avoid the issuance of fractional shares under (iii) below) the required tax withholding payment; (iii) if the Company, in its sole discretion, so consents in writing, the Company’s withholding of a number of Optioned Shares to be delivered upon the exercise of this Stock Option, which shares so withheld have an aggregate fair market value that equals (but does not exceed) the required tax withholding payment; or (iv) any combination of (i), (ii), or (iii). The Company may, in its sole discretion, withhold any such taxes from any other cash remuneration otherwise paid by the Company to the Optionee.
+
+* * * * * * * *
+
+[Remainder of Page Intentionally Left Blank
+
+Signature Page Follows.]
+
+7  
+  
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized officer, and the Optionee, to evidence his consent and approval of all the terms hereof, has duly executed this Agreement, as of the date specified in Section 1 hereof.
+
+COMPANY:  
+InspireMD, Inc.  
+By:  /s/ Alan W. Milinazzo  
+Name: Alan W. Milinazzo  
+Title: Chief Executive Officer  
+OPTIONEE:  
+/s/ Campbell Rogers, MD  
+Signature  
+Name: Campbell Rogers, MD  
+Address: 1160 Westridge Dr.  
+Portola Valley, CA 94063  
+  
+8

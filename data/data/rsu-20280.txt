@@ -1,0 +1,115 @@
+Exhibit 10.1
+
+No. of shares subject to option: «Shares»
+
+Option No: «GrantNo»  
+  
+CELLDEX THERAPEUTICS, INC.
+
+
+
+THIS AGREEMENT dated as of the «OptDate» (the “Effective Date”), between CELLDEX THERAPEUTICS, INC., a Delaware corporation (the “Company”), and «FirstName» «LastName» (the “Optionee”).
+
+W I T N E S S E T H:
+
+1. Grant of Option. Pursuant to the provisions of the Celldex Therapeutics, Inc. 2008 Stock Option and Incentive Plan (the “Plan”), the Company hereby grants to Optionee, subject to the terms and conditions herein set forth, the right and option (the “Option”) to purchase from the Company all or any part of an aggregate of «Shares» shares of Common Stock, $.001 par value (“Common Stock”), of the Company at the purchase price of «OptPrice» per share.
+
+2. Terms and Conditions. It is understood and agreed that the Option is subject to the following terms and conditions:
+
+(a) Option Expiration Date. The Option shall expire ten years after the Effective Date (such date being herein referred to as the “Expiration Date”) except as otherwise provided in paragraph (d) of this Section 2.
+
+(b) Vesting of Option. Except as otherwise provided in this Agreement, Optionee may purchase from the Company pursuant to the Option, as follows:
+
+25% of the shares subject to the Option at any time after the first anniversary of the Effective Date;
+
+An additional 6.25% of the shares subject to the Option will vest each subsequent quarter following the first anniversary of the Effective Date;
+
+Vesting of the Option granted under this Agreement shall terminate as of the date on which the Optionee’s employment with the Company terminates, which for purposes of this Agreement includes employment by a designated affiliate of the Company.
+
+(c) Exercise of Option; Payment of Purchase Price; Tax Withholding.
+
+(i) The Option shall be exercised by Optionee by notice to the Company stating the number of shares with respect to which the Option is being exercised.
+
+(ii) At the time of any exercise, the purchase price of the shares as to which the Option shall be exercised shall be paid to the Company in U.S. Dollars in cash or 
+
+* * *
+
+  
+
+
+by check; by delivery of whole shares of common stock of the Company (“Optionee Stock”) which have been owned by the Optionee free of any substantial restriction for at least six (6) months, valued at their fair market value, as determined under Section 5(d)(ii) of the Plan, as of the first business day preceding the notice of election equal to the purchase price; by delivering a properly executed exercise notice in a form approved by the Administrator together with irrevocable instructions to a broker to promptly deliver to the Corporation the amount of applicable sale or loan proceeds to pay such purchase price; or by a combination of the foregoing. Any shares of Optionee Stock being delivered must be accompanied by a duly executed assignment to the Company in blank or with stock power attached, together with a written representation that such shares of Optionee Stock are owned by the Optionee free and clear of all liens, claims and encumbrances and such other representations as the Company shall determine.
+
+(iii) Upon any exercise of the Option, the Optionee shall make appropriate arrangements to meet any withholding requirements of Federal, state, local or foreign tax laws.
+
+(d) Exercise Upon Death, Disability or Termination of Employment.
+
+(i) In the event of the death of Optionee while an employee of the Company, the Option may be exercised, to the extent that Optionee was entitled to do so at the date of his termination of employment, by the person or persons to whom Optionee’s rights under the Option pass by will or applicable law, or if no such person has such right, by his executors or administrators, at any time, or from time to time, within one (1) year after the date of Optionee’s death, but in no event later than the Expiration Date.
+
+(ii) If Optionee’s employment with the Company shall terminate because of permanent disability, Optionee may exercise the Option to the extent that Optionee was entitled to do so at the date of termination of employment, at any time, or from time to time, within one (1) year of the date of termination of employment, but in no event later than the Expiration Date.
+
+(iii) If Optionee’s employment with the Company is terminated for “cause,” as determined by the Administrator, Optionee’s ability to exercise the Option shall terminate on the date of termination of employment.
+
+(iv) If Optionee’s employment with the Company shall terminate for any reason other than death, permanent disability or “cause,” as provided for above, Optionee may exercise the Option, to the extent that Optionee could have done so at the date of termination of employment, at any time, or from time to time, within three (3) months of the date of termination of employment, but in no event later than the Expiration Date.
+
+(e) Nontransferability. The Option shall not be transferable other than by will or by the law of descent and distribution. During the lifetime of Optionee, the Option shall be exercisable only by the Optionee.
+
+(f) Change of Control. In the event of a Change of Control, as defined in the Plan, the portion of this 
+
+5
+
+* * *
+
+  
+
+
+Option which the Optionee is not entitled to exercise shall be accelerated with the occurrence of the Change of Control and the Optionee shall have the right to exercise such portion of this Option, subject to the exceptions and terms provided in the Plan.
+
+(g) No Rights as Stockholder. Optionee shall have no rights as a stockholder with respect to any shares of Common Stock subject to the Option prior to the date of issuance of a certificate or certificates for such shares.
+
+(h) No Right to Continued Employment. Neither the Option nor this Agreement shall confer upon Optionee any right with respect to continuance of employment by the Company, nor shall it interfere in any way with the right of the Company to terminate Optionee’s employment at any time.
+
+(i) Compliance with Law and Regulations. The Option and the obligation of the Company to sell and deliver shares hereunder shall be subject to all applicable federal and state laws, rules and regulations and to such approvals by any government or regulatory agency as may be required. If at any time the Administrator shall determine in its discretion that the listing, registration or qualification of the shares covered by the Option upon any national securities exchange or under any federal or state law, or the consent or approval of any governmental regulatory body, is necessary or desirable as a condition of, or in connection with, the sale or purchase of shares, no shares will be delivered to Optionee unless and until such listing, registration, qualification, consent or approval shall have been effected or obtained, or otherwise provided for, free of any conditions not acceptable to the Administrator. If shares are not required to be registered, but are exempt from registration, upon exercising all or any portion of the Option, Optionee shall represent that the shares being acquired are being acquired for investment only and not with a view to their sale or distribution thereof, and shall make such other representations as deemed appropriate by counsel to the Company. Stock certificates evidencing unregistered shares acquired upon exercise of the option shall be subject to stop transfer instructions by the Company to the transfer agent for the shares and shall bear any legend required by applicable state securities laws.
+
+(j) Definition. As used in this Agreement, “cause” means (i) dishonest statements or acts of the Optionee with respect to the Company or any affiliate of the Company; (ii) the commission by or indictment of the Optionee for (A) a felony or (B) any misdemeanor involving moral turpitude, deceit, dishonesty or fraud (indictment, for these purposes, meaning an indictment, probable cause hearing or any other procedure pursuant to which an initial determination of probable or reasonable cause with respect to such offense is made); or (iii) gross negligence, willful misconduct or insubordination of the Optionee with respect to the Company or any affiliate of the Company.
+
+3. Optionee Bound by Plan. Optionee hereby acknowledges that this Option is subject to all the terms and provisions of the Plan. Capitalized terms used in this Agreement but not defined have the meanings set forth in the Plan.
+
+4. Status of Option. The Option is intended to qualify as an incentive stock option within the meaning of Section 422 of the Internal Revenue Code of 1986, as amended, but the Company does not represent or warrant that the Option qualifies or will be treated as such. Optionee acknowledges that stock options granted to Optionee by the Company (including the Option) may not be treated as incentive stock options to the extent that the aggregate fair market value of stock with respect to which such options are first exercisable during any calendar year exceeds 
+
+6
+
+* * *
+
+  
+
+
+$100,000 (determined as of the date or dates such options were granted). Optionee should consult with his own tax advisors regarding the tax effects of the Option and the requirements necessary to obtain favorable income tax treatment under Section 422 of the Internal Revenue Code, including, but not limited to, holding period requirements.
+
+5. Notices. Any notice hereunder to the Company shall be addressed to it at its office, 119 Fourth Avenue, Needham, Massachusetts, 02494-2725; Attention: Controller, and any notice hereunder to Optionee shall be addressed to Optionee at the address below, subject to the right of either party to designate at any time hereafter in writing some other address.
+
+6. Counterparts. This Agreement may be executed in two counterparts each of which shall constitute one and the same instrument.
+
+7
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the day set forth above.
+
+CELLDEX THERAPEUTICS, INC.  
+  
+By:  
+  
+«FirstName» «LastName»  
+  
+Address:
+
+Name:  
+  
+Title:  
+  
+8
+
+* * *

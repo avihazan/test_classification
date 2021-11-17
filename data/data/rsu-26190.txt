@@ -1,0 +1,176 @@
+* * *
+
+* * *
+
+EXHIBIT 10.29  
+
+
+A.M. CASTLE & CO.
+
+  
+
+
+
+
+(2011-2013 LTCP)
+
+  
+
+
+A.M. CASTLE & CO.
+
+2008 RESTRICTED STOCK, STOCK OPTION
+
+AND EQUITY COMPENSATION PLAN
+
+GRANTEE:   
+  
+ADDRESS:  
+  
+SOCIAL SECURITY NUMBER:  
+  
+NUMBER OF PERFORMANCE SHARES:  (THRESHOLD AWARD)  
+(TARGET AWARD)  
+(MAXIMUM AWARD)  
+  
+DATE OF GRANT:  
+  
+  
+
+
+This is an award agreement (the "Award Agreement") between A.M. Castle & Co., a Maryland corporation (the "Corporation"), and the individual named above (the "Grantee"). Subject to the conditions set forth herein, the Corporation hereby grants to the Grantee, as of the Grant Date specified above, the above-stated Target Award of Performance Shares and Maximum Award of Performance Shares, which may be earned in accordance with Section 2, on the terms and conditions contained herein and in the Corporation’s 2008 Restricted Stock, Stock Option and Equity Compensation Plan approved by the shareholders April 24, 2008, as may be amended from time to time (the "Plan"). Capitalized terms used but not otherwise defined herein shall have the meaning ascribed to them in the Plan.
+
+  
+
+
+1\. Performance Vesting. Subject to Sections 2, 3 and 4, the Corporation shall deliver to the Grantee one share of Common Stock for each whole Performance Share that is earned in accordance with the following schedule:
+
+Corporation’s Performance Measures
+
+Weighting
+
+Threshold
+
+Target
+
+Max  
+  
+Relative Total Shareholder Return
+
+50%  
+  
+Modified ROIC
+
+50%  
+  
+Performance levels for RTSR shall be measured based on performance over the performance period. Performance levels for Modified ROIC shall be measured based on performance during any one fiscal year during the performance period and shall be based on obtaining the respective Modified ROIC performance goals (threshold, target or maximum) for any one fiscal year during the performance period. If the Modified ROIC returns meet or exceed threshold performance level for any two or more fiscal years during the performance period, then any payout will be based on the highest of the fiscal years in which threshold performance is obtained, and the award opportunity attributable to the Modified ROIC performance measure will be increased by an additional 20 percentage points, not to exceed the maximum performance award otherwise payable under the Modified ROIC measure. If the Corporation’s actual performance is between the amounts listed above, the percentage of the Award shall be interpolated on a straight line basis. 
+
+EX-1
+
+* * *
+
+2\. Delivery of Shares. The number of shares of Common Stock that the Grantee earns under Section 1 will be delivered to the Grantee as soon as administratively practicable after the end of the Performance Period; provided, however, that in lieu of shares of Common Stock, the payment may be made in cash or other equity based property or any combination thereof, as the Committee may determine in its sole discretion. Before such delivery, the Committee shall certify in writing the number of Performance Shares that the Grantee have earned. No fractional shares will be delivered pursuant to this Award and fractional shares shall be rounded down.
+
+3\. Employment Termination. If the Grantee’s employment with the Corporation and its subsidiaries terminates before the end of the Performance Period, this Performance Share Award shall be forfeited on the date of such termination.
+
+4\. Transferability.  The Performance Shares shall not be sold, pledged, assigned, hypothecated, transferred or disposed of in any manner, whether by the operation of law or otherwise. Any attempted transfer of the Performance Shares prohibited by this Section 4 shall be null and void.
+
+5\. Adjustments. The Performance Shares shall be subject to adjustment or substitution in accordance with Section V of the Plan.
+
+6\. Withholding. The Grantee are responsible for all applicable federal, state and local income and employment taxes (including taxes of any foreign jurisdiction) which the Corporation is required to withhold at any time with respect to the Performance Shares to satisfy its minimum statutory withholding requirements. Such payment shall be made in full at the Grantee’s election, in cash or check, by withholding from the Grantee’s next normal payroll check, or by the tender of shares of Common Stock payable under this Award. Shares of Common Stock tendered as payment of required withholding shall be valued at the closing price per share of Common Stock on the date such withholding obligation arises.
+
+7\. Miscellaneous
+
+(a) Disclaimer of Rights. Nothing contained herein shall constitute an obligation for continued employment.
+
+(b) Rights Unsecured. The Grantee shall have only the Corporation’s unfunded, unsecured promise to pay pursuant to the terms of this Award. The Grantee’s rights shall be that of an unsecured general creditor of the Corporation and the Grantee shall not have any security interest in any assets of the Corporation.
+
+(c) No Adjustment for Dividends. The number of performance shares shall not be adjusted for the payment of any cash dividend on shares of common stock of the Corporation before the issuance of a stock certificate representing the earned Award.
+
+(d) Offset. The Corporation may deduct from amounts otherwise payable under this Award all amounts owed by the Grantee to the Corporation and its affiliates to the maximum extent permitted by applicable law.
+
+(e) Terms of Plan. The Award is subject to the terms and conditions set forth in the Plan, which are incorporated into and shall be deemed to be a part of this Award, without regard to whether such terms and conditions (including, for example, provisions relating to certain changes in capitalization of the Corporation) are otherwise set forth in this Award. In the event that there is any inconsistency between the provisions of this Award and of the Plan, the provisions of the Plan shall govern.
+
+(f)  Amendment. This Award Agreement may be amended only by a writing executed by the Corporation and the Grantee that specifically states that it is amending this Award Agreement. Notwithstanding the foregoing, this Award Agreement may be amended solely by the Committee by a writing which specifically states that it is amending this Award Agreement, so long as a copy of such amendment is delivered to the Grantee, and provided that no such amendment adversely affecting the rights of the Grantee hereunder may be made without the Grantee’s written consent. Without limiting the foregoing, the Committee reserves the right to change, by written notice to the Grantee, the provisions of the Performance Shares or this Award Agreement in any way it may deem necessary or advisable to carry out the purpose of the grant as a result of any change in applicable laws or regulations or any future law, regulation, ruling or judicial decisions, provided that any such change shall be applicable only to the Performance Shares which are than subject to restrictions as provided herein.
+
+  
+
+
+EX-2 
+
+* * *
+
+(g) Severability. If any term, provision, covenant or restriction contained herein is held by a court or a federal regulatory agency of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions contained herein shall remain in full force and effect, and shall in no way be affected, impaired or invalidated.
+
+(h) Controlling Law. The Award shall be construed, interpreted and applied in accordance with the law of the State of Illinois, without giving effect to the choice of law provisions thereof. The Grantee agrees to irrevocably submit any dispute arising out of or relating to this Award to the exclusive concurrent jurisdiction of the state and federal courts located in Illinois. The Grantee also irrevocably waive, to the fullest extent permitted by applicable law, any objection the Grantee may now or hereafter have to the laying of venue of any such dispute brought in such court or any defense of inconvenient forum for the maintenance of such dispute, and the Grantee agree to accept service of legal process from the courts of Illinois.
+
+(i) Code Section 409A Compliance. To the extent applicable, it is intended that this Award and the Plan not be subject to or otherwise comply with the provisions of Code Section 409A, so that the income inclusion provisions of Code Section 409A(a)(1) do not apply. This Award and the Plan shall be interpreted and administered in a manner consistent with this intent, and any provision that would cause the Award or the Plan to fail to satisfy Code Section 409A shall have no force and effect until amended to comply with Code Section 409A (which amendment may be retroactive to the extent permitted by Code Section 409A and may be made by the Corporation without the Grantee’s consent).
+
+8\. Definitions.  As used herein, the following terms shall be defined as set forth below:
+
+(a) “Award” means the Performance Share Award to the Grantee as set forth herein, and as may be amended as provided herein.
+
+(b) “Board” means the Corporation’s Board of Directors.
+
+(d) “Code” means the Internal Revenue Code of 1986, as amended.
+
+(e) “Committee” means the Human Resources Committee of the Board.
+
+(f) “Common Stock” means the Corporation’s $.01 par value common stock.
+
+(g) “Grant Date” means the date this Award is made to the Grantee, as set forth on the first page of the Award.
+
+(h) “Maximum Award” means that maximum number of Performance Shares awarded to the Grantee as set forth on the first page of the Award, representing Two Hundred Percent (200%) of the Target Award.
+
+(i) “Modified ROIC” shall be calculated as follows:
+
+(a) the sum of the Company’s reported net income for the fiscal year plus pre-tax interest expense for such fiscal year; divided by
+
+(b) the sum of the Company’s market capitalization as of December 31, 2010 (equal to the product of the 60-day trailing average price of the Company’s common stock as of December 31, 2010, multiplied by the total number of shares of the Company’s common stock outstanding as of December 31, 2010), plus the book value of the Company’s long-term debt as of December 31, 2010.
+
+EX-3 
+
+* * *
+
+(j) “Performance Period” means the Corporation’s three (3) consecutive fiscal years commencing with the fiscal year beginning ________.
+
+(k) “Performance Share” means a restricted stock unit under the Plan that is subject to restrictions based on the attainment of certain performance criteria, as described herein, and represents a bookkeeping entry that records the equivalent of one share of Common Stock.
+
+(l) “Relative Total Shareholder Return” means percentile rank of the Company’s Total Shareholder Return (TSR) against an external benchmark established by the Committee in its sole discretion. The composition of the external benchmark may be adjusted by the Committee from time to time throughout the Performance Period based on criteria established by the Committee.
+
+(m) “Target Award” means that number of Performance Shares specified as such on the first page of the Award.
+
+(n) “Threshold Award” means that threshold number of Performance Shares awarded to the Grantee as set forth on the first page of the Award, representing Fifty Percent (50%) of the Target Award.
+
+(o) “Total Shareholder Return” means the stock price appreciation, plus dividends reinvested and plus cash equivalent distributions reinvested over a specific period of time. Total Shareholder Return is expressed as a percentage increase (decrease) over the beginning value of the stock.
+
+  
+
+
+The Corporation and the Grantee hereby agree to the terms and conditions of this Award Agreement and have executed it as of the Date of Grant set forth above.
+
+  
+
+
+A. M. CASTLE & CO.
+
+  
+
+
+By: ___________________________________
+
+Its: Vice President, General Counsel & Secretary
+
+  
+
+
+  
+
+
+_______________________________________
+
+Grantee
+
+EX-4
+
+* * *

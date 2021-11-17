@@ -1,0 +1,221 @@
+Exhibit 10.1
+
+
+
+Peerless Systems Corporation, a Delaware Corporation, (the “Company”) and its successors and assigns, and Timothy E. Brog, a natural person (“Executive”) (collectively, the “Parties”), make this EMPLOYMENT AGREEMENT (“Agreement”) as of July 11, 2013.
+
+RECITALS
+
+WHEREAS, the Company wishes to employ Executive and Executive wishes to be employed as the Company’s Chief Executive Officer.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the Company and Executive agree as follows:
+
+AGREEMENT
+
+1\. Term. The Company hereby agrees to employ Executive as Chief Executive Officer commencing on the date hereof and continuing for a period of one (1) year (the “Initial Period”). On each of the first, second and third anniversaries of the date hereof, Executive’s employment and this Agreement shall be automatically extended for an additional one (1) year period (an “Extension Period”) unless terminated by either party to this Agreement by written notice given to the other party not less than one hundred and twenty (120) days prior to such anniversary (such Initial Period or Extension Period, whichever employment period shall be in effect at any given time, shall hereinafter be referred to the “Contractual Employment Period”). From and after the fourth anniversary of the date hereof, this Agreement may be terminated by either party upon not less than ninety (90) days’ notice to the other party. 
+
+2\. Duties.
+
+(a) Duties and Responsibilities. Executive will report to the Company’s Board of Directors (the “Board”). Executive shall be employed as Chief Executive Officer of the Company and shall perform and discharge the duties which may be assigned to him from time to time by the Board in connection with the conduct of the Company’s business as well as those duties which are normally and customarily vested in a Chief Executive Officer of a corporation. Executive’s job responsibilities shall include, but not be limited to, anything reasonably requested or required of Executive by the Board on behalf of the Company.
+
+(b) Extent of Services and Business Activities. Executive shall devote his full-time efforts to the business of the Company and shall not devote material time to other activities except (i) for serving on the Board of Directors of Eco-Bat Technologies Ltd or (ii) with the prior written consent of the Board. Executive covenants and agrees that for so long as he is employed by the Company, Executive shall not, whether as an executive, employee, employer, consultant, agent, principal, partner, member, stockholder, corporate officer or director, or in any other individual or representative capacity, for compensation, engage in or participate in or render material services to any other person or entity, provided, however, that, notwithstanding the foregoing, Executive may invest in securities of any entity, solely for investment purposes, if (x) such securities are traded on any national securities exchange or the National Association of Securities Dealers, Inc. Automated Quotation System, and (y) Executive does not, directly or indirectly, own 4.9% or more of any class of securities of such entity.
+
+* * *
+
+(c) Location. Executive shall regularly perform his duties from the established Peerless office (the “Office”) at such location as reasonably determined by Executive and agreed to by the Board. In addition to spending time at the Office, Executive may be required to travel from time to time in order to perform his duties hereunder. 
+
+3\. Compensation.
+
+(a) Base Salary. From and after June 24, 2013 until the termination of his employment, Executive shall be paid an annual base salary (“Base Salary”) as follows:
+
+Fiscal Year
+
+Base Salary  
+  
+2014
+
+$359,000  
+  
+2015
+
+$369,000  
+  
+2016
+
+$389,000  
+  
+2017 and thereafter
+
+$399,000  
+  
+Executive’s Base Salary shall be payable in installments consistent with the payroll practices established by the Company with respect to its senior executive employees. The Base Salary specified above shall apply with respect to the corresponding period ending January 31 in the year shown above, regardless of any change that may occur with respect to the Company’s actual fiscal year.
+
+(b) Equity and Incentive Compensation. On the date hereof, (i) Executive shall forfeit 150,000 shares of unvested restricted stock issued pursuant to the Employment Agreement between the Company and Executive dated August 26, 2010 and (ii) the Company shall issue to Executive a total of 250,000 restricted shares (the “Restricted Shares”) of common stock, par value $.001 per share, of the Company (the “Common Stock”) pursuant to the agreement attached hereto as Exhibit A, which shall vest in accordance with the schedule set forth below. Such Restricted Shares shall vest as follows:
+
+Number of Restricted Shares Vested
+
+Target Price  
+  
+62,500
+
+$3.75  
+  
+62,500
+
+$4.00  
+  
+62,500
+
+$4.25  
+  
+62,500
+
+$4.50  
+  
+The Restricted Shares shown on each row of the table above shall vest on the first date before the fourth anniversary of the date hereof, if any, that the average closing price of the Common Stock as reported on the Nasdaq Capital Market for any fifteen (15) consecutive trading days immediately prior to such date (“15-Day Average Price”) is greater than or equal to the corresponding Target Price for such Restricted Shares set forth in the table above, provided that Executive remains employed by the Company as of the applicable vesting date. For the avoidance of doubt, no trading day included in such 15-Day Average Price may precede the date of this Agreement. 
+
+2
+
+* * *
+
+Notwithstanding the foregoing, (A) if Executive’s employment pursuant to this Agreement is terminated without Cause (as defined below) prior to the fourth anniversary of the date hereof: (i) if 187,500 of the Restricted Shares have vested on or before the date of Executive’s termination, then the remaining 62,500 Restricted Shares shall vest; and (ii) if less than 187,500 of the Restricted Shares have vested on or before the Termination Date, then 125,000 of the Restricted Shares shall vest and any other unvested Restricted Shares shall be forfeited and have no further effect and (B) if a Qualifying Event (as defined below) is completed prior to the fourth anniversary of the date hereof, any remaining Restricted Shares granted under this Agreement shall vest, provided that Executive remains employed by the Company on the date such Qualifying Event is completed. Notwithstanding anything to the contrary in this Agreement, all Restricted Shares that have not vested on or before the fourth anniversary of the date hereof shall be forfeited and shall have no further effect. 
+
+For the purposes of this Paragraph 3(b), the occurrence of any of the following with Board approval shall constitute a “Qualifying Event”: (x) the Company publicly announces its intent to terminate its registration of the Common Stock under Section 12(g) of the Securities and Exchange Act of 1934 (the “Exchange Act”); (y) the Company shall have commenced a self-tender offer for not less than 33% of the Company’s shares of Common Stock outstanding immediately preceding such self-tender offer at an offer price at least equal to the 15-Day Average Price applicable on the date such offer price is determined by the Company’s Board of Directors; and (z) the Company shall have completed any other extraordinary transaction in which shares of the Company equal to not less than 20% of the shares of Company stock outstanding immediately prior to such transaction were issued as part of such transaction. 
+
+Any dividends paid in cash, securities or other property by the Company shall reduce the target prices set forth in the above table by an amount equal to the value of such dividend.
+
+(c) Options and Bonus. Executive is eligible to receive semi-annual incentive options and bonus payments at the sole discretion of the Board. All equity awards shall be subject to the terms and conditions set forth in the Amended and Restated Peerless Systems Corporation 2005 Incentive Award Plan (the “Plan”) and such other terms approved by the Board.
+
+(d) Payment. Payment of all compensation to Executive hereunder shall be made in accordance with the relevant written Company policies in effect from time to time, including normal payroll practices, and shall be subject to all applicable employment and withholding taxes. This provision shall survive the termination of Executive’s employment with the Company, for any reason.
+
+3
+
+* * *
+
+4.
+
+Other Employment Benefits.  
+  
+(a) Business Expenses. Upon submission of itemized expense statements, in the manner as shall be specified by the Company, Executive shall be entitled to reimbursement for reasonable business and travel expenses duly incurred by Executive in the performance of his duties under this Agreement, pursuant to written Company policy and any relevant written policies established by the Board and provided to Executive. 
+
+(b) Benefit Plans. To the extent offered by the Company, Executive shall be entitled to participate, on a basis commensurate with his position, in the Company’s medical insurance, retirement (e.g., non-matching 401(k) plan) and other benefit plans pursuant to their terms and conditions during the term of this Agreement. Nothing in this Agreement shall preclude the Company or any affiliate of the Company from terminating or amending any employee benefit plan or program from time to time.
+
+(c) No Other Benefits. Executive understands and acknowledges that the compensation and benefits specified in Paragraphs 3, 4 and 5 of this Agreement are the only compensation and benefits he is entitled to receive under this Agreement.
+
+5\. Termination of Employment.
+
+(a) Payments Upon Termination. If Executive’s employment is terminated for any reason by either party, the Company shall promptly pay or provide to Executive, or his estate, (i) Executive’s earned but unpaid Base Salary accrued through the date of termination, (ii) accrued, but unpaid, vacation time through such date of termination, (iii) reimbursement of any business expenses incurred by the Executive prior to the date of termination that are reimbursable under Paragraph 4(a) above, and (iv) any vested benefits and other amounts due to Executive under any plan, program, policy of, or other agreement with, the Company (subsections (i) to (iv), above, are referred to together as the “Accrued Obligations”). If Executive’s employment is terminated by the Company without Cause (as Cause is defined below) for any reason prior to the end of the Contractual Employment Period then in effect, the Company shall pay Executive in a lump sum payment any remaining Base Salary owed through the end of such Contractual Employment Period. 
+
+(b) Severance Payments. In addition to the payments set forth in Paragraph 5(a), in the event Executive’s employment is terminated by the Company without Cause (as Cause is defined below) or resulting from a non-renewal of this Agreement without Cause and Executive executes a general release in favor of the Company in the form attached hereto as Exhibit B, the Company shall pay (i) Executive his then current Base Salary for a period of twelve (12) months (the “Severance Period”) and (ii) Executive’s health insurance (i.e., medical, dental and vision) for the Severance Period (collectively, the “Severance Payment”). The Severance Payment, if any, would be payable in a lump sum at the termination of Executive’s employment. 
+
+(c) Benefits. Executive shall have one year from his last day of employment to exercise any vested but unexercised stock options.
+
+4
+
+* * *
+
+(d) Definition of Cause. For purposes of this Agreement, “Cause” shall be defined as (i) Executive’s conviction, pleading guilty or pleading no contest with respect to a felony involving dishonesty or moral turpitude, (ii) Executive’s commission of any act of theft, fraud, dishonesty, or falsification of any employment or Company records, (iii) Executive’s refusal without proper legal reason to substantially perform the duties and responsibilities required of Executive, or (iv) any material breach by Executive of any material term of this Agreement and/or of Executive’s fiduciary duties to the Company.
+
+6\. Executive’s Duties Upon Termination. 
+
+(a) Cooperation. After notice of termination, Executive shall, at the Company’s expense and subject to Executive’s professional availability, cooperate with the Company, as reasonably requested by the Company, to effect a transition of Executive’s responsibilities and to ensure that the Company is aware of all matters being handled by Executive.
+
+(b) Return of Company Property. Within seven days of the termination of Executive’s employment under this Agreement for any reason, Executive will return all Company property in Executive’s possession to the Company.
+
+7\. Assignment and Transfer. Executive’s rights and obligations under this Agreement shall not be transferable by assignment or otherwise, and any purported assignment, transfer or delegation thereof shall be void. This Agreement shall be assignable by the Company and inure to the benefit of, and be binding upon and enforceable by, any purchaser of substantially all of Company’s assets, any corporate successor to the Company or any assignee thereof; provided however that such assignee assumes in writing the Company’s obligations hereunder.
+
+8\. No Inconsistent Obligations. This Agreement shall represent Executive’s sole agreement with the Company as to the subject matter herein. Executive has no material obligations, legal or otherwise, inconsistent with the terms of this Agreement or with Executive undertaking employment with the Company. Executive represents and warrants that Executive has the right and power to enter into this Agreement, to perform Executive’s obligations hereunder and by entering into this Agreement and performing Executive’s obligations hereunder Executive is not in conflict with any agreement with any third party. The Company represents and warrants that the Company has all requisite corporate power and authority to execute and deliver this Agreement and to perform its obligations hereunder.
+
+9.
+
+Miscellaneous.  
+  
+(a) Survival. The provisions of this Agreement, including, without limitation Paragraph 9(c) (Arbitration), contained herein shall survive the termination of employment.
+
+(b) Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut without regard to conflict of law principles.
+
+5
+
+* * *
+
+(c) Arbitration. With the exception of any claims for workers compensation, unemployment insurance, claims before any governmental administrative agencies or claims related to the National Labor Relations Act, any controversy relating to this Agreement or Executive’s employment shall be settled by binding arbitration according to the American Arbitration Association’s Employment Arbitration Rules and Mediation Procedures (available at http://www.adr.org) and subject to the Federal Arbitration Act and the Federal Rules of Civil Procedure (including their mandatory and permission rights to discovery.) This provision to arbitrate applies to both Company and Executive. Such arbitration shall be presided over by a single arbitrator in Connecticut. Such binding arbitration is applicable to any and all claims under state and federal employment related statutes including, without limitation, the Fair Employment and Housing Act, the Age Discrimination in Employment Act, the Family Medical Leave Act, the Title VII of the Civil Rights Act and any similar statute law or regulation of the state of Connecticut, as well as any claims related to a claimed breach of this Agreement. The Company shall bear all costs uniquely associated with the arbitration process, including the arbitrator’s fees where required by law. The arbitrator shall have the authority to award any damages authorized by law, including, without limitation, costs and attorneys’ fees. The Parties agree to execute all documents necessary to keep the documents, findings, and award, if any, of the arbitration confidential, including, without limitation, execution of a protective order.
+
+(d) Amendment. This Agreement may be amended only by a writing signed by Executive and by a duly authorized representative of the Company (other than Executive) as approved by the Board.
+
+(e) Severability. If any term, provision, covenant or condition of this Agreement, or the application thereof to any person, place or circumstance, shall be held to be invalid, unenforceable or void, the remainder of this Agreement and such term, provision, covenant or condition as applied to other persons, places and circumstances shall remain in full force and effect, provided however, that any such provision found invalid, unenforceable or void shall be deemed amended only to the extent necessary and shall preserve the intent of the parties hereto.
+
+(f) Construction. The headings and captions of this Agreement are provided for convenience only and are intended to have no effect in construing or interpreting this Agreement. The language in all parts of this Agreement shall be in all cases construed according to its fair meaning and not strictly for or against the Company or Executive.
+
+(g) Nonwaiver. No failure or neglect of either party hereto in any instance to exercise any right, power or privilege hereunder or under law shall constitute a waiver of any other right, power or privilege or of the same right, power or privilege in any other instance. All waivers by either party hereto must be contained in a written instrument signed by the party to be charged and, in the case of the Company, by an officer of the Company (other than Executive) or other person duly authorized by the Company.
+
+6
+
+* * *
+
+(h) I.R.C. 409A. Unless otherwise expressly provided, any payment of compensation by the Company to Executive, whether pursuant to this Agreement or otherwise, shall be made within two and one-half months (2½ months) after the later of the end of the calendar year or the Company’s fiscal year in which Executive’s right to such payment vests (i.e., is not subject to a “substantial risk of forfeiture” for purposes of Section 409A of the Internal Revenue Code of 1986, as amended (“Code”)). To the extent that any severance payments come within the definition of “involuntary severance” under Code Section 409A, such amounts up to the lesser of two times Executive’s annual compensation for the year preceding the year of termination or two times the Code Section 401(a)(17) limit for the year of termination, shall be excluded from “deferred compensation” as allowed under Code Section 409A, and shall not be subject to the following Code Section 409A compliance requirements. All payments of “nonqualified deferred compensation” (within the meaning of Code Section 409A) are intended to comply with the requirements of Code Section 409A, and shall be interpreted in accordance therewith. Neither party individually or in combination may accelerate any such deferred payment, except in compliance with Code Section 409A, and no amount shall be paid prior to the earliest date on which it is permitted to be paid under Code Section 409A. In the event that Executive is determined to be a “key employee” (as defined in Code Section 416(i) (without regard to paragraph (5) thereof)) of the Company at a time when its stock is deemed to be publicly traded on an established securities market, payments determined to be “nonqualified deferred compensation” payable following termination of employment shall be made no earlier than the earlier of (i) the last day of the sixth (6th) complete calendar month following such termination of employment, or (ii) Executive’s death, consistent with the provisions of Code Section 409A. Any payment delayed by reason of the prior sentence shall be paid out in a single lump sum at the end of such required delay period in order to catch up to the original payment schedule. Notwithstanding anything herein to the contrary, no amendment may be made to this Agreement if it would cause the Agreement or any payment hereunder not to be in compliance with Code Section 409A.
+
+(i) Notices. All notices, requests, demands, claims and other communications hereunder will be in writing. Any notice, request, demand, claim or other communication hereunder will be deemed duly given as of the day such information is sent by registered or certified mail, return receipt requested, postage prepaid, and addressed to the intended recipient as set forth below:
+
+If to Executive to the address set forth on Exhibit C hereto.
+
+With a copy to:
+
+If to the Company:
+
+Peerless Systems Corporation
+
+Attn: Chairman of the Compensation Committee
+
+1055 Washington Blvd, 8th Floor
+
+Stamford, CT 06901
+
+Tel: (203) 350-0040 
+
+With a copy to:
+
+Peerless Systems Corporation
+
+Attn: General Counsel
+
+7
+
+* * *
+
+1055 Washington Blvd, 8th Floor
+
+Stamford, CT 06901
+
+Tel: (203) 350-0040
+
+  
+Any party may send any notice, request, demand, claim, or other communication hereunder to the intended recipient at the address set forth above using any other means (including personal delivery with receipt acknowledged, expedited courier, messenger service, telecopy, telex, or electronic mail), but no such notice, request, demand, claim, or other communication will be deemed to have been duly given unless and until it is received by the intended recipient (which shall be evidenced by fax or e-mail confirmation, or registered receipt, or declaration via a messenger). Any Party may change the address to which notices, requests, demands, claims, and other communications hereunder are to be delivered by giving the other Party notice in the manner herein set forth.
+
+(j) Assistance in Litigation. Executive shall, during and after termination of employment, upon reasonable notice, furnish such information and proper assistance to the Company as may reasonably be required by the Company in connection with any litigation in which it or any of its subsidiaries or affiliates is, or may become a party; provided, however, that such assistance following termination shall be furnished at mutually agreeable times and for mutually agreeable compensation.
+
+(k) Executive Acknowledgment. The undersigned Executive hereby acknowledges that he has had the option to consult legal counsel in regard to this Agreement, that he has read and understands this Agreement, that he is fully aware of its legal effect, and that he has entered into it freely and voluntarily and based on his own judgment and not on any representations or promises other than those contained in this Agreement. 
+
+(l) Counterparts. This Agreement may be executed in two (2) or more counterparts, each of which will be deemed an original and all of which together will constitute one and the same instrument.
+
+(m) Entire Agreement. This Agreement and the documents referenced herein and executed herewith contain the entire agreement and understanding between the Parties hereto and supersede any prior or contemporaneous written or oral agreements, representations and warranties between them respecting the subject matter hereof.
+
+8
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the date set forth above.
+
+Peerless Systems Corporation
+
+By:  /s/ Matthew Dickman  
+Name: Matthew Dickman  
+Title: Director and Authorized Signatory  
+Dated: July 11, 2013  
+  
+/s/ Timothy Brog  
+  
+Timothy Brog ("Executive")  
+  
+Dated: July 11, 2013  
+  
+9

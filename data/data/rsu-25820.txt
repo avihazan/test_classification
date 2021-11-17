@@ -1,0 +1,418 @@
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+PACIFIC PREMIER BANCORP, INC.
+
+AMENDED AND RESTATED
+
+2012 LONG-TERM INCENTIVE PLAN
+
+
+
+This RESTRICTED STOCK UNIT AGREEMENT (this “Agreement”), effective as of ___________________________ (the “Grant Date”), is made by and between Pacific Premier Bancorp, Inc., a Delaware corporation (the “Company”), and _________________ (the “Participant”). This Restricted Stock Unit Award is made pursuant to the terms of the Pacific Premier Bancorp, Inc. 2012 Long-Term Incentive Plan (the “Plan”), a copy of which has been provided to the Participant and the terms of which are hereby incorporated by reference and made part of this Agreement. Unless otherwise indicated, whenever capitalized terms are used in this Agreement, they shall have the meanings set forth in the Plan.
+
+ARTICLE I.
+
+GRANT OF RESTRICTED STOCK UNITS
+
+  
+
+
+Section 1.1. Grant of Restricted Stock Units [and Dividend Equivalents]
+
+  
+
+
+Subject to the terms and conditions provided in this Agreement and the Plan, the Company hereby grants to the Participant [INSERT MAXIMUM NUMBER OF RSUs] Restricted Stock Units as of the Grant Date, which shall vest, if at all, in accordance with Sections 1.2 and 1.3 below. The Participant shall have no right to vote or receive dividends or any other rights as a shareholder of the Company with respect to the Restricted Stock Units unless and until the Restricted Stock Units become vested and non-forfeitable [and if shares of Common Stock are delivered to the Participant in accordance with Section 2.1 of this Agreement. The Participant is not required to pay any cash consideration for the Award] Not applicable if the Participant is awarded Dividend Equivalents. [Pursuant to Section 10.03 of the Plan, each Restricted Stock Unit of the Participant shall be credited with Dividend Equivalents for cash and stock dividends paid by the Company in respect of a share of Common Stock. The Dividend Equivalents shall be subject to the same terms and conditions applicable to the Restricted Stock Units, including, but not limited to, vesting, forfeiture, restrictions on transferability, and the timing of payment or settlement.]
+
+Section 1.2. Vesting
+
+  
+
+
+(a)The Restricted Stock Units have been credited to a bookkeeping account on behalf of the Participant. The Restricted Stock Units shall be earned in whole, in part, or not at all, as provided herein. Following the end of each fiscal year in the a three-year performance period that commences on the Grant Date (such three-year period is referred to as “the Performance Period”), the Committee shall determine the Company’s achievement of the performance goals, described in more detail below, and shall certify such 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+results in writing. Upon such certification, a portion of the Restricted Stock Units may become vested (the “Vesting Date,” as applicable), if the Company achieves a pre-determined level of the performance goals and the Participant remains in service on the Vesting Date. Any Restricted Stock Units that fail to vest by the end of each year in the Performance Period in accordance with the terms of this Agreement shall be forfeited and reconveyed to the Company without further consideration or any act or action by the Participant. For purposes of this Agreement, the performance goals shall be based on the Company’s annual return on average tangible common equity, as adjusted for merger-related expenses (“AROATCE”), and the Company’s adjusted nonperforming assets as a percentage of total assets. The Company’s AROATCE performance must attain at least the “threshold level” of the goal for the Restricted Stock Units to be eligible to vest in a given year of the Performance Period. If, for a particular year in the Performance Period, the Company’s level of attainment of the AROATCE goal falls below the threshold level, the Participant shall not vest in any Restricted Units in that year and shall forfeit 33.33% of the Restricted Units eligible for vesting in that year. If the Company’s level of attainment of the AROATCE goal set forth below falls between “threshold” to “target” and “target” to “maximum,” the Committee shall use straight line interpolation to determine the vested portion of the Restricted Stock Units for that year in the Performance Period. Any Restricted Stock Units that fail to vest at the end of the Performance Period shall be forfeited immediately and reconveyed to the Company without further consideration or any act or action by the Participant and the Participant shall have no further right or interest in the Restricted Stock Units. The “threshold,” “target,” and “maximum” for the Company’s AROATCE performance goal and the portion of the Restricted Stock Units eligible for vesting if the Company achieves such level are as follows:
+
+  
+
+
+(i)Threshold: If AROATCE equals 8% (the “threshold”) in a given year of the Performance Period, [INSERT NUMBER EQUAL TO 60% OF ONE-THIRD OF GRANT] Restricted Stock Units shall become eligible for vesting;
+
+  
+
+
+(ii)Target: If AROATCE equals 10% (the “target”) in the first or second year of the Performance Period, [INSERT NUMBER EQUAL TO 80% OF ONE-THIRD OF GRANT] Restricted Stock Units shall become eligible for vesting, and if AROATCE equals or exceeds 10% in the third year of the Performance Period, the remaining Restricted Stock Units shall become eligible for vesting;
+
+  
+
+
+(iii)Maximum: In the first and second years of the Performance Period, if AROATCE equals or exceeds 12% (the “maximum”) in such year of the Performance Period, [INSERT NUMBER EQUAL TO ONE-THIRD OF GRANT] Restricted Stock Units shall become eligible for vesting.
+
+  
+
+
+If the Company’s nonperforming assets as a percentage of total assets, as adjusted to exclude nonperforming assets acquired through acquisitions, is equal to or exceeds 2%, the Committee may, in its sole discretion, reduce the amount of Restricted Stock Units that may become vested and nonforfeitable in the applicable year of the Performance Period as a result of the Company achieving one of the levels described in subsections (i) through (iii) above.
+
+(b)Except as may be otherwise provided in Section 1.3 of this Agreement, in the event the Participant’s service as an Employee, Officer, director or consultant terminates for any reason other than death or Disability, vesting shall cease and any Restricted Stock Units that have not yet vested on such date shall be forfeited immediately and reconveyed to the Company without further consideration or any act or action by the Participant and the Participant shall have no further right or interest in the Restricted Stock Units. Notwithstanding the foregoing, the Committee may, in the event the Participant’s status as an Employee, Officer, director or consultant terminates without Cause or for Good Reason, the Committee, in its sole discretion, may waive the automatic forfeiture of any or all such Restricted Stock Units and the Participant may be eligible to vest in his or her Restricted 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Stock Units at the end of each year remaining in the Performance Period in accordance with Section 1.2 and the Company shall settle such Restricted Stock Units in accordance with Article II. 
+
+  
+
+
+Section 1.3. Acceleration of Vestingas
+
+  
+
+
+a.Notwithstanding subsection (a) above, in the event the Participant’s status as an Employee, Officer, director or consultant terminates due to death or Disability, any of the Restricted Stock Units that have not yet vested shall become immediately vested.
+
+  
+
+
+b.Notwithstanding subsection (a) above, in the event the Participant’s employment terminates without Cause or for Good Reason within two (2) years following a Change in Control, any of the Restricted Stock Units that have not yet vested upon the consummation of such termination of employment following the Change in Control shall become immediately vested. Notwithstanding the foregoing, in no event shall such acceleration of vesting take place with respect to any Restricted Stock Units that have been forfeited prior to the effective date of the Change in Control.
+
+  
+
+
+ARTICLE II.
+
+SETTLEMENT OF RESTRICTED STOCK UNITS
+
+  
+
+
+Section 2.1. Timing and Manner of Settlement of Restricted Stock Units
+
+  
+
+
+a.Unless and until the Restricted Stock Units become vested and nonforfeitable in accordance with Section 1.2 or 1.3 of this Agreement, the Participant shall have no right to settlement of any such Restricted Stock Units. Reasonably promptly after the Vesting Date (and in any event not later than two and one-half (2-1/2) months after the end of the year in which such Restricted Stock Units vest), such vested and non-forfeitable Restricted Stock Units shall be settled by the Company delivering to the Participant (or his beneficiary in the event of death) either (i) a certificate evidencing a number of shares of Common Stock equal to the number of vested Restricted Stock Units that become vested and non-forfeitable upon the Vesting Date ; (ii) cash equal to the Fair Market Value of the Common Stock as of the Vesting Date with respect to each vested Restricted Stock Unit; or (iii) a combination of (i) and (ii); provided, however, that any shares of Common Stock delivered to the Participant shall be endorsed with the appropriate legends determined by the Company. [In addition, the Participant may become entitled to receive payments equal to any cash dividends and other distributions paid with respect to a corresponding number of shares of Restricted Stock Units covered by the Award, which cash payments shall be subject to the same forfeiture restrictions as apply to the Restricted Stock Units and shall be paid at the same time that the corresponding shares are issued in respect of the Participant’s vested Restricted Stock Units, provided that if any such dividends or distributions are paid in shares, then the Participant shall automatically be granted a corresponding number of additional Restricted Stock Units subject to the Award.] Applicable if the Award includes Dividend Equivalents
+
+  
+
+
+b.Notwithstanding subsection (a) above, in the event that (i) the Participant is subject to the Company’s policy permitting officers and directors to sell shares only during certain “window” periods, in effect from time to time (the “Policy”) or the Participant is otherwise prohibited from selling shares of the Company’s Common Stock in the public market and any shares covered by the Restricted Stock Units are scheduled to be delivered on a day (the “Original Distribution Date”) that does not occur during an open “window period” applicable to the Participant or a day on which the Participant is permitted to sell shares of the Company’s common stock pursuant to a written plan that meets the requirements of Rule 10b5-1 under the Exchange Act, as determined by the Company in accordance with the Policy, or does not occur on a date 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+when the Participant is otherwise permitted to sell shares of the Company’s common stock on the open market, and (ii) the Company elects not to satisfy its tax withholding obligations by withholding shares from the Participant’s distribution, then such shares shall not be delivered on such Original Distribution Date and shall instead be delivered on the first business day of the next occurring open “window period” applicable to the Participant pursuant to such Policy (regardless of whether the Participant is still providing continuous services at such time) or the next business day when the Participant is not prohibited from selling shares of the Company’s Common Stock in the open market, but in no event later than the fifteenth (15th) day of the third calendar month of the calendar year following the calendar year in which the shares covered by the Restricted Stock Units vest. Settlement of the Restricted Stock Units pursuant to the provisions of this Section 2.1 is intended to comply with the requirements for the short-term deferral exemption available under Treasury Regulations Section 1.409A-1(b)(4) and shall be construed and administered in such manner. The form of such delivery of the shares (e.g., a stock certificate or electronic entry evidencing such shares) shall be determined by the Company. Neither the Participant nor any of the Participant’s successors, heirs, assigns or personal representatives shall have any further rights or interests in any Restricted Stock Units that are so paid. 
+
+  
+
+
+c.If the Restricted Stock Units are subject to, and not exempt from Code Section 409A, the following provisions in this subsection (c) shall supersede anything to the contrary in subsection (a), the Company, subject to subsection (b), shall settle the vested Restricted Stock Units within sixty (60) days after the Vesting Date (provided that, to the extent required to comply with Code Section 409A, if such sixty (60) day period spans calendar years, the payment shall be made in the second calendar year). 
+
+  
+
+
+Section 2.2. Tax Consequences
+
+  
+
+
+The Company shall withhold from any amounts due and payable by the Company to the Participant (or secure a cash payment from the Participant in lieu of withholding) the amount of any federal or state withholding or other taxes, if any, due from the Company with respect to the Restricted Stock Units, and the Company may defer such issuance until such withholding or payment is made unless otherwise indemnified to its satisfaction with respect thereto. The Company shall have the right to: (i) deduct from other compensation payable to the Participant; (ii) make deductions from any settlement of the Restricted Stock Units in an amount sufficient to satisfy the withholding from any settlement of the Restricted Stock Units, in each case in an amount sufficient to satisfy the withholding obligation; (iii) require the Participant to pay such required sums directly to the Company or (iii) take such other action as may be necessary or appropriate to satisfy the withholding obligation. 
+
+If the Participant is required to pay the sum directly to the Company, payment in cash or by check for such sums required to pay the taxes due shall be delivered to the Company. The Participant may elect to have such tax withholding obligation satisfied, in whole or in part, by authorizing (i) the Company to withhold from shares of Common Stock to be issued by the Company, a number of shares of Common Stock with an aggregate Fair Market Value that would satisfy the tax withholding amount due, or (ii) a third party broker to sell a number of shares of Common Stock that are otherwise deliverable to the Participant with an aggregate Fair Market Value that would satisfy the tax withholding amount due. The Company shall have no obligation upon vesting of shares of Common Stock to issue stock certificates to the Participant for the shares of Common Stock until payment with respect to taxes due has been received, unless the tax withholding as of or prior to the distribution of Common Stock is sufficient to cover all sums due.
+
+Section 2.3. Adjustments in Restricted Stock Units
+
+  
+
+
+Notwithstanding any other provision of this Agreement, the Committee may make adjustments with 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+respect to the Restricted Stock Units in accordance with the provisions of Article V of the Plan. 
+
+Section 2.4. Securities Law Compliance
+
+  
+
+
+A Participant may not be issued any shares in respect of vested Restricted Stock Units unless either (i) the shares are registered under the Securities Act; or (ii) the Company has determined that such issuance would be exempt from the registration requirements of the Securities Act. Any grant of Restricted Stock Units also must comply with other applicable laws and regulations governing the Award, and the Company may cancel the Award if it determines that such Award would not be in material compliance with such laws and regulations.
+
+Section 2.5. Clawback
+
+  
+
+
+The Restricted Stock Units and any cash or shares of Common Stock paid or issued pursuant to this Agreement and the Plan shall be subject to any compensation recoupment policy of the Company that is applicable by its terms to the Participant and to Awards of this type.
+
+ARTICLE III.
+
+OTHER PROVISIONS
+
+Section 3.1. Administration
+
+  
+
+
+The Committee shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret, amend or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and binding upon the Participant, the Company and all other interested persons. No member of the Committee shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Restricted Stock Units. In its absolute discretion, the Board may at any time and from time to time exercise any and all rights and duties of the Committee under the Plan and this Agreement except with respect to matters which, under Rule 16b-3 or Code Section 162(m), or any regulations or rules issued thereunder, are required to be determined in the sole discretion of the Committee.
+
+Section 3.2. Limitations on Transferability
+
+  
+
+
+The Restricted Stock Units shall not be assignable or transferable by the Participant, other than (i) by will or the laws of descent and distribution, (ii) to family members or entities (including trusts) established for the benefit of the Participant or the Participant’s family members; and (iii) to any other person to the extent permitted by applicable securities law.
+
+Section 3.3. No Right of Continued Employment or Service
+
+  
+
+
+Nothing in this Agreement shall interfere with or limit in any way the right of the Company to terminate the Participant’s employment or service at any time, nor confer upon the Participant any right to continue in the employ or service of the Company.
+
+Section 3.4. Participant’s Representation
+
+  
+
+
+The Participant agrees upon request to execute any further documents or instruments necessary or desirable in the sole determination of the Company to carry out the purposes or intent of your Award. The 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Participant acknowledges and agrees that he or she has reviewed this Agreement and the Plan in its entirety, had an opportunity to obtain the advice of counsel prior to executing and accepting this Agreement, and fully understand all provisions of the Award. The Participant hereby acknowledges receipt or the right to receive a document providing the information required by Rule 428(b)(1) promulgated under the Securities Act, which includes the Plan prospectus. In addition, the Participant acknowledges receipt of the Company’s policy permitting officers and directors to sell shares only during certain “window” periods and the Company’s insider trading policy, in effect from time to time. This Agreement shall be subject to all applicable laws, rules, and regulations, and to such approvals by any governmental agencies or national securities exchanges as may be required. 
+
+Section 3.5. Notices
+
+  
+
+
+Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of the officer designated as the Administrator from time to time, and any notice to be given to the Participant shall be addressed to him at the address given beneath his signature hereto. By a notice given pursuant to this Section 3.5, either party may hereafter designate a different address for notices to be given to him. Any notice which is required to be given to the Participant shall, if the Participant is then deceased, be given to the Participant’s personal representative if such representative has previously informed the Company of his or her status and address by written notice under this Section 3.5. Any notice shall be deemed duly given when delivered (i) by hand or (ii) by courier service, when provided to an internationally recognized overnight delivery service for overnight delivery.
+
+Section 3.6. Unsecured Obligation
+
+  
+
+
+The Award of Restricted Stock Units pursuant to this Agreement is unfunded, and the Participant shall be considered an unsecured creditor of the Company with respect to the Company’s obligation, if any, to issue shares or make any payment pursuant to this Agreement. Nothing contained in this Agreement, and no action taken pursuant to its provisions, shall create or be construed to create a trust of any kind or a fiduciary relationship between you and the Company or any other person.
+
+Section 3.7. Effect on Other Employee Benefit Plans
+
+  
+
+
+The value of the Award subject to this Agreement shall not be included as compensation, earnings, salaries, or other similar terms used when calculating the Participant’s benefits under any employee benefit plan sponsored by the Company, except as such plan otherwise expressly provides. The Company expressly reserves its rights to amend, modify, or terminate any of the Company’s employee benefit plans.
+
+Section 3.8. Compliance with Section 409A of the Code
+
+  
+
+
+This Agreement is intended to comply with the requirements of Code Section 409A, to the extent applicable and shall be construed and administered such that the Award either (i) qualifies for an exemption from the requirements of Code Section 409A or (ii) satisfies the requirements of Code Section 409A. If an Award is subject to Code Section 409A, (i) distributions shall only be made in a manner and upon an event permitted under Code Section 409A, (ii) payments to be made upon a termination of employment shall only be made upon a “separation from service” under Code Section 409A, (iii) unless the Award specifies otherwise, each installment payment shall be treated as a separate payment for purposes of Code Section 409A, and (iv) in no event shall a Participant, directly or indirectly, designate the calendar year in which a distribution is made except in accordance with Code Section 409A. Any Award that is subject to Code Section 409A and that is to be distributed to a “specified employee, “ as defined in Code Section 409A(a)(2)(B)(i) upon separation from service shall be administered so that any distribution with respect to such Award shall be 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+postponed for six (6) months following the date of the Participant's separation from service, if required by Code Section 409A. If a distribution is delayed pursuant to Code Section 409A, the distribution shall be paid within fifteen (15) days after the end of the six-month period. If the Participant dies during such six-month period, any postponed amounts shall be paid within ninety (90) days of the Participant's death. The determination of a specified employee, including the number and identity of persons considered specified employees and the identification date, shall be made by the Committee or its delegate each year in accordance with Code Section 416(i) and the “specified employee” requirements of Code Section 409A. 
+
+Section 3.9. Titles
+
+  
+
+
+Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+Section 3.10. Construction
+
+  
+
+
+This Agreement shall be administered, interpreted and enforced under the internal laws of the State of Delaware without regard to conflicts of laws thereof.
+
+Section 3.11. Conformity to Securities Laws
+
+  
+
+
+The Participant acknowledges that the Plan is intended to conform to the extent necessary with all provisions of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, and any and all regulations and rules promulgated by the Securities and Exchange Commission thereunder, including, without limitation, the applicable exemptive conditions of Rule 16b-3. Notwithstanding anything herein to the contrary, the Plan shall be administered, and the Restricted Stock Units are granted and may be settled, only in such a manner as to conform to such laws, rules and regulations. To the extent permitted by applicable law, the Plan and this Agreement shall be deemed amended to the extent necessary to conform to such laws, rules and regulations.
+
+Section 3.12. Amendments
+
+  
+
+
+This Agreement and the Plan may be amended without the consent of the Participant provided that such amendment would not affect in any materially adverse manner any rights of the Participant under this Agreement. No amendment of this Agreement shall, without the consent of the Participant, affect in any materially adverse manner any rights of the Participant under this Agreement.
+
+[Signature page follows.]
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto.
+
+PACIFIC PREMIER BANCORP, INC.
+
+  
+
+
+  
+
+
+  
+
+
+By: 
+
+Name: Steven R. Gardner
+
+Title: President & Chief Executive Officer
+
+  
+
+
+PARTICIPANT
+
+  
+
+
+Name:
+
+Address: 
+
+City, State, Zip:
+
+Phone number:
+
+Passport number:
+
+  
+
+
+  
+
+
+  
+
+
+  
+

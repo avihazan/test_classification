@@ -1,0 +1,187 @@
+Exhibit 10.4
+
+SPECIAL GRANT
+
+Agreement Number: 
+
+APAC Customer Services, Inc.
+
+
+
+This Agreement is entered into and made effective as of by and between APAC Customer Services, Inc., an Illinois corporation (the “Company”), and (the “Optionee”). 
+
+W I T N E S S E T H: 
+
+WHEREAS, the Compensation Committee of the Board of Directors of the Company desires to encourage and enable the Optionee to acquire or increase his or her proprietary interest in the Company by granting the Optionee an option to purchase common stock of the Company, par value of $.01 per share (“Shares”), as authorized under the APAC Customer Services, Inc. Second Amended and Restated 1995 Incentive Stock Plan (the “Plan”); 
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants set forth in this Agreement, the Company and Optionee hereby agree as follows: 
+
+1\. Grant of Option. Subject to the terms and conditions provided in this Agreement and the Plan, the Company hereby grants to the Optionee a nonqualified stock option to purchase all or part of Shares of the Company (the “Option”) at a per share purchase price of , effective as of (the “Grant Date”). The Option shall not be treated as an incentive stock option within the meaning of Section 422 of the Internal Revenue Code of 1986. 
+
+2\. Time of Exercise.
+
+(a) Except as provided below in this paragraph, from and after , as long as the Optionee continues to be an employee of the Company or of one of its subsidiaries, the Option shall become exercisable, to a maximum cumulative extent, in accordance with the following schedule:   
+  
+Exercise Date Cumulative Number of Shares  
+  
+On or after 1st anniversary of Grant Date 
+
+20% of Shares  
+  
+On or after 2nd anniversary of Grant Date 
+
+40% of Shares  
+  
+On or after 3rd anniversary of Grant Date 
+
+60% of Shares  
+  
+On or after 4th anniversary of the Grant  
+Date 
+
+  
+80% of Shares  
+  
+On or after 5th anniversary of the Grant  
+Date 
+
+  
+100% of Shares  
+  
+Notwithstanding the foregoing, the Option may not be exercised for fractional Shares and the Option may not be exercised for less than 100 Shares at a time, unless it is for the balance of the Shares available under the Option.
+
+The exercisability of the Option shall not be affected by leaves of absence approved in writing by the President of the Company or by any change of employment, so long as the Optionee continues to be an employee of the Company or of one of its subsidiaries. 
+
+(b) Notwithstanding paragraph 2(a), the following provisions shall govern: 
+
+(i) Disability, Death or Retirement. If the Optionee’s employment is terminated due to “Disability,” death or “Retirement” (as each such capitalized term is defined below in paragraph 4), the exercisability of the Option shall accelerate and the Option shall become exercisable, to a maximum cumulative extent, in accordance with the following schedule:   
+  
+Termination Date Cumulative Number of Shares  
+  
+On or after Grant Date, but before 1st  
+anniversary of Grant Date 
+
+  
+20% of Shares  
+  
+On or after 1st anniversary of Grant  
+Date, but before 2nd anniversary of  
+Grant Date 
+
+  
+  
+40% of Shares  
+  
+On or after 2nd anniversary of Grant  
+Date, but before 3rd anniversary of  
+Grant Date 
+
+  
+  
+60% of Shares  
+  
+On or after 3rd anniversary of Grant Date 
+
+80% of Shares  
+  
+On or after 4th anniversary of Grant Date 
+
+100% of Shares  
+  
+In the event that the Optionee’s employment terminates due to Optionee’s Retirement, any Shares that first become exercisable as a result of this provision shall hereinafter be referred to as “Restricted Shares.”
+
+(ii) Change in Control. If a “Change in Control” (defined below in paragraph 4) occurs while the Optionee is employed with the Company or one of its subsidiaries, to the extent that the Option is then not exercisable, its exercisability shall accelerate as to fifty percent (50%) of the previously unexercisable portion, and the Option shall thereafter become additionally exercisable (if at all) to the extent it would have been exercisable without such acceleration. 
+
+(iii) Termination After Change in Control. If the Optionee’s employment terminates for “Good Reason” (defined below in paragraph 4) or by the Company other than With Cause, on or within twenty-four (24) months following a Change in Control, the Option shall become exercisable with respect to all Shares covered by the Option. 
+
+(iv) Other Terminations. The foregoing provisions of this Section 2(b) to the contrary notwithstanding, the Committee (as defined below in paragraph 11), in its sole discretion, may at any time cause all or part of Optionee’s unexercisable Option to become exercisable upon a termination of Optionee’s employment, with or without designating all or part of such exercisable portion of the Option as Restricted Shares. 
+
+3\. Term of Option. Except as provided below, the term of the Option shall be for a ten (10) year period, beginning on the Grant Date and ending on (the “Expiration Date”). 
+
+(a) Termination With Cause. If the Company terminates the Optionee’s employment With Cause, the Option shall expire immediately and all rights to purchase Shares hereunder shall cease. 
+
+(b) Disability or Death. If the Optionee’s employment with the Company or one of its subsidiaries terminates due to the Optionee’s Disability or death, the Option shall expire one (1) year after the date of such termination. In such circumstance, the Option shall only be exercisable to the extent it was exercisable as of such termination date (as determined above under paragraph 2) and shall not be exercisable with respect to any additional Shares. 
+
+(c) Other Termination. If the Optionee’s employment with the Company or one of its subsidiaries terminates for any reason other than Disability, death, or With Cause, the Option shall expire 90 days after such termination. In such circumstance, the Option shall only be exercisable to the extent it was exercisable as of such termination date (as determined above under paragraph 2) and shall not be exercisable with respect to any additional Shares. 
+
+Notwithstanding the foregoing provisions of this paragraph 3, in no event may the Option be exercised later than the Expiration Date. 
+
+4\. Definitions. For purposes of this Agreement, the following definitions shall apply: 
+
+(a) A “Change in Control” shall be deemed to have occurred if (i) a tender offer shall be made and consummated for the ownership of more than 50% of the outstanding voting securities of the Company, (ii) the Company shall be merged or consolidated with another corporation and as a result of such merger or consolidation less than 50% of the outstanding voting securities of the surviving or resulting corporation shall be owned in the aggregate by the former shareholders of the Company, as the same shall have existed immediately prior to such merger or consolidation, (iii) the Company shall sell all or substantially all of its assets to another corporation which is not a wholly-owned subsidiary or affiliate, (iv) as the result of, or in connection with, any contested election for the Board of Directors, or any tender or exchange offer, merger or business combination or sale of assets, or any combination of the foregoing (a “Transaction”), the persons who were Directors of the Company before the Transaction shall cease to constitute a majority of the Board of Directors of the Company, or any successor thereto, or (v) a person, within the meaning of Section 3(a)(9) or of Section 13(d)(3) of the Securities and Exchange Act of 1934 (“Exchange Act”), other than any employee benefit plan then maintained by the Company, shall acquire more than 50% of the outstanding voting securities of the Company (whether directly, indirectly, beneficially or of record). For purposes hereof, ownership of voting securities shall take into account and shall include ownership as determined by applying the provisions of Rule 13d-3(d)(1)(i) pursuant to the Exchange Act. Notwithstanding the foregoing, (i) a Change in Control will not occur for purposes of this Agreement merely due to the death of Theodore G. Schwartz, or as a result of the acquisition, by Theodore G. Schwartz, alone or with one or more affiliates or associates, as defined in the Exchange Act, of securities of the Company, as part of a going-private transaction or otherwise, unless Mr. Schwartz or his affiliates, associates, family members or trusts for the benefit of family members (collectively, the “Schwartz Entities”) do not control, directly or indirectly, at least twenty-seven percent (27%) of the resulting entity, and (ii) if the Schwartz Entities control, directly or indirectly, less than twenty-seven percent (27%) of the Company’s voting securities while it is a public company, then “33-1/3%” shall be substituted for “50%” in clauses (i) and (v) of the first sentence of this paragraph, and “66-2/3%” shall be substituted for “50%” in clause (ii) of the first sentence of this paragraph. 
+
+(b) “Disability” shall mean disability as determined under the Company’s long term disability benefit plan then in effect covering the Optionee. 
+
+(c) “Good Reason” shall mean termination of the Optionee’s employment by the Optionee (I) in accordance with such term as it may be defined under the employment agreement or employment security agreement between Optionee and the Company, if any, and (II) as hereinafter provided in the absence of such agreement providing for termination for “Good Reason,” but only if, without Optionee’s consent and after notice by the Optionee to the Company and a fifteen (15) day opportunity by the Company to cure: (i) the Optionee’s principal place of work (not including regular business travel) is relocated by more than fifty (50) miles, (ii) the Optionee’s duties, responsibilities or authority as an executive employee are materially reduced or diminished; provided that any reduction or diminishment in any of the foregoing resulting merely from the acquisition of the Company and its existence as a subsidiary or division of another entity shall not be sufficient to constitute Good Reason, (iii) the rate of base salary or bonus opportunity (as a percentage of base salary) due to the Optionee is reduced, and such reduction is not remedied within thirty (30) days of the Optionee’s notice to the Company thereof, or (iv) there is a liquidation, dissolution, consolidation or merger of the Company or transfer of all or a significant portion of its assets unless a successor or successors (by merger, consolidation or otherwise) to which all or a significant portion of its assets have been transferred shall have assumed all duties and obligations of the Company under such Employment Agreement, if any. 
+
+(d) “Retirement” shall mean a termination of Optionee’s employment (other than due to Optionee’s Disability, death or With Cause) in which (i) Optionee has completed at least ten (10) years of continuous active employment with the Company (including authorized leaves of absence) (“Service”) and (ii) the sum of Optionee’s age and Service on the date of termination of employment is equal to or greater than seventy (70). 
+
+(e) Termination “With Cause” shall mean termination of the Optionee’s employment by the Company (I) in accordance with such term as it may be defined under the employment agreement between Optionee and the Company, if any, and (II) as hereinafter provided in the absence of such agreement, due to (i) gross misconduct or gross negligence in the performance of the Optionee’s employment duties; (ii) willful disobedience by the Optionee of the lawful directions received from the Company or from the person to whom the Optionee directly reports or of established policies of the Company; or (iii) commission by the Optionee of a crime involving fraud or moral turpitude that can reasonably be expected to have an adverse effect on the business, reputation or financial situation of the Company. 
+
+5\. Method of Exercise.
+
+(a) The Option may be exercised only by delivering written notice to the Treasurer of the Company. Contemporaneously with such delivery, the Optionee shall tender the full purchase price of the Shares by any of the following methods or combination thereof: 
+
+(i) A certified or cashier’s check payable to the order of the Company; 
+
+(ii) Certificates of Shares of the Company that have been held by the Optionee for at least (6) six months (or such longer period as may be required to avoid a charge to earnings for financial reporting purposes) that have a fair market value equal to such purchase price or the portion thereof so paid on the date of exercise, or delivery by the Optionee of a written attestation of the same; and/or 
+
+(iii) A copy of irrevocable instructions to a broker to promptly deliver to the Company the amount of proceeds from a sale of Shares equal to the exercise price. To facilitate the foregoing, the Company may enter into agreements for coordinated procedures with one or more brokerage firms. Exercise of the Option pursuant to this subparagraph (a)(iii) shall be subject to compliance with federal and state securities laws and trading policies established by the Company and applicable to the Optionee. 
+
+(b) In addition to tendering payment, 
+
+(i) the Optionee shall be required to execute a Restricted Stock Purchase Agreement substantially in the form of Exhibit A hereto, if the Optionee purchased Restricted Shares; and 
+
+(ii) the Optionee (or the purchaser under paragraph 7 below) shall furnish such other documents or representations (including, without limitation, representations as to the intention of the Optionee, or the purchaser under paragraph 7 below, to acquire Shares for investment) as the Company may reasonably request in order to comply with securities, tax or other laws then applicable to the exercise of the Option. 
+
+6\. Repayment of Option Gain. Subject to the provisions of a Restricted Stock Purchase Agreement, if applicable pursuant to paragraph 5(b)(i), which shall apply with respect to the Shares subject thereto, if prior to the occurrence of a Change of Control: (i) the Company terminates the Optionee’s employment With Cause during the six month period after the Optionee’s exercise of all or any portion of the Option, or (ii) the Optionee violates any promise, covenant, or agreement relating to (A) restrictions on the Optionee’s ability to compete with the Company or solicit its customers or employees; or (B) the Optionee’s duty to keep information about the Company confidential, prior to or during the six month period after the Optionee exercises all or any portion of the Option, then the Company may rescind the Optionee’s exercise of the Option within two years of the exercise. In the event of such rescission, the Optionee shall pay to the Company, with respect to each Share purchased pursuant to the Option, an amount equal to the excess of the Fair Market Value of such Share on the date of exercise over the per share purchase price of such Share, in such manner and on such terms and conditions as may be required, and the Company shall be entitled to a right of set-off against any amount owed to the Optionee by the Company. 
+
+7\. Non-Transferability; Death. The Option is not transferable by the Optionee other than by will or the laws of descent and distribution and is exercisable during the Optionee’s lifetime only by him. If the Optionee dies while in the employ of the Company or of one of its subsidiaries, the Option may be exercised during the period described above in paragraph 3(b) (but in no event later than the Expiration Date) by his estate or the person to whom the Option passes by will or the laws of descent and distribution, but only to the extent that the Optionee could have exercised the Option on the date of his death as determined above under paragraph 2. Notwithstanding the foregoing, the Option may be transferred to members of the Optionee’s immediate family (which for purposes of this Option shall be limited to the Optionee’s spouse, children and grandchildren), or to one or more trusts for the benefit of the Optionee’s family members (as defined above) or to one or more partnerships in which such family members and/or trusts are the only partners. 
+
+8\. Registration. Any Shares issued pursuant to the Optionee’s exercise of the Option hereunder shall be Shares that are listed on the NASDAQ National Market or other nationally recognized stock exchange, and registered under the Securities Act of 1933, as amended. 
+
+9\. Adjustments.
+
+(a) If the Company shall at any time change the number of issued Shares without new consideration to the Company (such as by stock dividend, stock split, recapitalization, reorganization, exchange of shares, liquidation, combination or other change in corporate structure affecting the Shares) or make a distribution of cash or property which has a substantial impact on the value of issued Shares, the total number of Shares hereunder and the per share purchase price shall be adjusted so that the total net value of the Option shall not be changed. 
+
+(b) In the case of any sale of assets, merger, consolidation, combination or other corporate reorganization or restructuring of the Company with or into another corporation which results in the outstanding Shares being converted into or exchanged for different securities, cash or other property, or any combination thereof (an “Acquisition”), subject to the terms of the Plan, the Optionee shall have the right thereafter and during the term of the Option (subject however to all of the terms and conditions set forth herein), to receive upon exercise thereof the Acquisition Consideration (as defined below) receivable upon the Acquisition by a holder of the number of Shares which might have been obtained upon exercise of the Option or portion thereof, as the case may be, immediately prior to the Acquisition. The term “Acquisition Consideration” shall mean the kind and amount of securities, cash or other property or any combination thereof receivable in respect of one Share upon consummation of an Acquisition. 
+
+10\. Subject to Plan. The Option is subject to all of the terms and conditions set forth in the Plan. Any capitalized terms not defined herein shall be subject to the definitions set forth in the Plan. This Agreement hereby incorporates the Plan by reference. In the event that the Agreement is silent on any term or condition that is contained in the Plan, such term or condition shall be governed by and administered in accordance with the terms and conditions of the Plan. In the event of any discrepancy between the express terms and conditions of this Agreement and those of the Plan, the terms and conditions of the Plan shall control. 
+
+11\. Administration and Interpretation. The Compensation Committee of the Board of Directors of the Company (the “Committee”) shall administer and interpret the terms and provisions of this Agreement. Any interpretation and construction by the Committee of any term or provision of the Plan, this Agreement, or other matters related to the Plan shall be final, conclusive and binding upon the Optionee and his or her heirs. 
+
+12\. Enforceability. This Agreement shall be binding upon the Optionee and his estate, assignee, transferee, personal representative and beneficiaries. 
+
+13\. Governing Law; Severability. This Agreement shall be construed, interpreted and enforced in accordance with the laws of the State of Illinois. If any one provision of this Agreement shall be determined invalid or unenforceable, such determination shall have no effect on the remaining provisions. 
+
+14\. Withholding. The Company shall have the right to require, prior to the issuance or delivery of any Shares hereunder, payment by the Optionee of any federal, state or local income taxes required by law to be withheld upon the exercise of all or any part of the Option. The Company may, in its discretion and subject to such rules as it may adopt as are necessary to prevent the withholding from being subject to Section 16(b) of the Exchange Act, permit the Optionee to satisfy any tax withholding obligation associated with the exercise of the Option, in whole or in part, by electing to have the Company withhold from the Shares otherwise deliverable as a result of such exercise Shares having a value (based on their fair market value on the date of delivery) equal to the amount required to be withheld. 
+
+15\. No Employment Rights. Nothing contained herein shall confer upon the Optionee any right to continue in the employ of the Company or any of it subsidiaries, or to interfere with or limit the right of the Company or of such subsidiary to terminate the Optionee’s employment at any time. 
+
+16\. Shareholders Rights. The Optionee or other person or entity exercising the Option shall have no rights as a shareholder of record of the Company with respect to Shares issuable upon the exercise of the Option until such Shares have been issued. 
+
+17\. Entire Agreement. This Agreement contains the entire understanding of the Company and the Optionee with respect to the terms of the Option granted hereunder, and shall not be modified or amended on or after the Grant Date, except in writing, signed by both parties. A waiver by either party under this Agreement shall not be deemed to be a waiver of any later default. 
+
+18\. Notices. All notices under this Agreement shall be in writing and shall be deemed to have been made when delivered or mailed by registered, or certified mail, or by a nationally recognized overnight delivery service, postage or charges prepaid. All notices to the Company shall be sent to: 
+
+APAC Customer Services, Inc.   
+Six Parkway North Center   
+Fourth Floor   
+Deerfield, IL 60015   
+Attn: General Counsel 
+
+All notices to the Optionee shall be sent to the Optionee’s last known address on the Company’s records, or such other address as the Optionee may furnish to the Company. 
+
+19\. Acknowledgment of Agreement Protecting Company Interests. As additional consideration for the Company granting the Option, the Optionee acknowledges that Optionee’s rights herein are subject to the terms and conditions of the Optionee’s Agreement Protecting Company Interests (whether entered into previously or in connection with this Option grant).
+
+* * * 
+
+IN WITNESS WHEREOF, the Company and the Optionee have caused this Agreement to be executed on the date first above written. 
+
+APAC Customer Services, Inc.
+
+By: /s/ Marc T. Tanenberg
+
+Its: Senior Vice President and Chief Financial Officer  
+  
+Optionee:

@@ -1,0 +1,123 @@
+Exhibit 10.17(D) 
+
+YAHOO! INC. 
+
+1995 STOCK PLAN 
+
+(AS AMENDED AND RESTATED JUNE 12, 2007) 
+
+
+
+THIS RESTRICTED STOCK AWARD AGREEMENT, (the “Agreement”), dated as of January 30, 2009 (the “Date of Grant”), is made by and between Yahoo! Inc., a Delaware corporation (the “Company”), and Carol Bartz (the “Grantee”). 
+
+WHEREAS, the Company has adopted the Yahoo! Inc. 1995 Stock Plan, as amended (the “Plan”), pursuant to which the Company may grant Restricted Stock; 
+
+WHEREAS, the Company desires to grant to the Grantee the number of shares of Restricted Stock provided for herein; 
+
+NOW, THEREFORE, in consideration of the recitals and the mutual agreements herein contained, the parties hereto agree as follows: 
+
+Section 1. Grant of Restricted Stock Award
+
+(a) Grant of Restricted Stock. The Company hereby grants to the Grantee 639,386 shares (the “Shares”) of Restricted Stock (the “Award”) on the terms and conditions set forth in this Agreement and as otherwise provided in the Plan. 
+
+(b) Incorporation of Plan; Capitalized Terms; Definitions.
+
+(i) The provisions of the Plan are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement shall be construed in accordance with the provisions of the Plan and the Grantee’s offer letter with the Company, dated as of January 13, 2009 (the “Offer Letter”). Consistent with the terms of the Offer Letter, the Administrator shall have final authority to interpret and construe the Plan and this Agreement and to make any and all determinations thereunder, and its decision shall be binding and conclusive upon the Grantee and her legal representative in respect of any questions arising under the Plan or this Agreement. 
+
+(ii) Any capitalized terms not otherwise defined in this Agreement shall have the definitions set forth in the Plan. In addition to the terms defined in the Plan, the following terms shall have the meanings set forth in the Offer Letter: “Cause,” “Change in Control,” “Disability,” and “Good Reason.” 
+
+* * *
+
+Section 2. Terms and Conditions of Award
+
+The grant of Restricted Stock provided in Section 1(a) shall be subject to the following terms, conditions and restrictions: 
+
+(a) Ownership of Shares. Subject to the restrictions set forth in the Plan and this Agreement, the Grantee shall possess all incidents of ownership of the Restricted Stock granted hereunder, including the right to receive or reinvest dividends with respect to such Restricted Stock (although such dividends shall be treated, to the extent required by applicable law, as additional compensation for tax purposes if paid on Restricted Stock and stock dividends will be subject to the restrictions provided in Section 2(b)) and the right to vote such Restricted Stock. 
+
+(b) Dividends. Any dividends with respect to Restricted Stock shall be subject to the same restrictions as the Restricted Stock with regard to which they are issued and shall herein be encompassed within the term “Restricted Stock.” All other non-property distributions received in respect of the Restricted Stock shall be payable to the Grantee immediately following vesting of the Restricted Stock. 
+
+(c) Restrictions. The Restricted Stock and any interest therein, may not be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of, except by will or the laws of descent and distribution, during the Restricted Period. Any attempt to dispose of any Restricted Stock in contravention of the above restriction shall be null and void and without effect. 
+
+(d) Certificate; Book Entry Form; Legend. The Company shall issue the Shares of Restricted Stock either (i) in certificate form or (ii) in book entry form, registered in the name of the Grantee, with legends, or notations, as applicable, referring to the terms, conditions and restrictions applicable to the Award. The Grantee agrees that any certificate issued for Restricted Stock prior to the lapse of any outstanding restrictions relating thereto shall be inscribed with the following legend: 
+
+This certificate and the shares of stock represented hereby are subject to the terms and conditions, including forfeiture provisions and restrictions against transfer (the “Restrictions”), contained in the Yahoo! Inc. 1995 Stock Plan, as amended, and an agreement entered into between the registered owner and the Company. Any attempt to dispose of these shares in contravention of the Restrictions, including by way of sale, assignment, transfer, pledge, hypothecation or otherwise, shall be null and void and without effect. 
+
+(e) Lapse of Restrictions. Subject to the provisions of this Agreement and the Plan, twenty-five percent (25%) of the Shares of Restricted Stock shall vest on each of the following dates: March 31, June 30, September 30, and December 26, 2009. Upon the lapse of restrictions relating to any Shares of Restricted Stock, the Company shall, as applicable, either remove the notations on any such Shares of Restricted Stock issued in book-entry form or deliver to the Grantee or the Grantee’s personal representative a stock certificate representing a number of Shares of Common Stock, free of the restrictive legend described in Section 2(d), equal to the number of Shares of Restricted Stock with respect to which such restrictions have lapsed. If certificates representing such Restricted Stock shall have theretofore been delivered to the Grantee, such certificates shall be returned to the Company, complete with any necessary signatures or instruments of transfer prior to the issuance by the Company of such unlegended Shares of Common Stock. 
+
+2 
+
+* * *
+
+(f) Termination of Employment.
+
+(i) In the event Grantee’s employment with the Company, Parent or any Subsidiary is terminated by the Company without Cause or due to Disability, by the Grantee for Good Reason or due to Grantee’s death prior to the lapsing of the restrictions in accordance with Section 2(e) hereof with respect to any Shares of the Restricted Stock granted hereunder, the Award shall, notwithstanding the provisions of Section 2(e), fully vest on the date of such termination of employment and be free of any restrictions under Section 2(e), and shall also cease to be subject to the Clawback (as defined in Section 2(g) below). 
+
+(ii) Subject to Section 2(g) below, in the event Grantee’s employment is terminated with the Company, Parent or any Subsidiary for any reason other than a termination described in (i) above, prior to the lapsing of restrictions in accordance with Section 2(e) with respect to any portion of the Restricted Stock granted hereunder, such portion of the Restricted Stock held by the Grantee shall be automatically forfeited by the Grantee as of the date of termination. 
+
+(iii) Any Shares of Restricted Stock forfeited pursuant to this Agreement shall be transferred to, and reacquired by, the Company without payment of any consideration by the Company, and neither the Grantee nor any of the Grantee’s successors, heirs, assigns or personal representatives shall thereafter have any further rights or interests in such shares. If certificates for any such Shares containing restrictive legends shall have theretofore been delivered to the Grantee (or her legatees or personal representative), such certificates shall be returned to the Company, complete with any necessary signatures or instruments of transfer. 
+
+(g) Clawback. Notwithstanding anything to the contrary herein, the Award will be subject to clawback solely in accordance with Section 3 of the Offer Letter if the Grantee’s employment is terminated by the Company for Cause or by the Grantee without Good Reason prior to January 1, 2013 (the “Clawback”). 
+
+(h) Change in Control. The following provisions shall apply to a Change in Control of the Company. 
+
+(i) In the event there is a Change in Control of the Company and the Award is continued, assumed or substituted in connection with the Change in Control, the Award shall continue to vest in accordance with Section 2(e). 
+
+(ii) Notwithstanding (i) above, in the event there is a Change in Control of the Company and the Award is not continued, assumed or substituted in connection with the Change in Control, the Award shall, notwithstanding the provisions of Section 2(e), fully vest on the date of such Change in Control and be free of any restrictions under Section 2(e), and shall also cease to be subject to the Clawback. 
+
+3 
+
+* * *
+
+(i) Income Taxes. Except as provided in the next sentence, the Company shall withhold and/or reacquire a number of Shares having a Fair Market Value equal to the taxes that the Company determines it is required to withhold under applicable tax laws with respect to the Restricted Stock (with such withholding obligation determined based on any applicable minimum statutory withholding rates), in connection with the vesting of the Restricted Stock. In the event the Company cannot (under applicable legal, regulatory, listing or other requirements) satisfy such tax withholding obligation in such method, the Grantee makes a Section 83(b) election pursuant to Section 2(j) below, or the parties otherwise agree in writing, then , the Company may satisfy such withholding by any one or combination of the following methods: (i) by requiring the Grantee to pay such amount in cash or check; ; (ii) by deducting such amount out of any other compensation otherwise payable to the Grantee; and/or (iii) by allowing the Grantee to surrender shares of Common Stock of the Company which (a) in the case of shares initially acquired from the Company (upon exercise of a stock option or otherwise), have been owned by the Grantee for such period (if any) as may be required to avoid a charge to the Company’s earnings, and (b) have a Fair Market Value on the date of surrender equal to the amount required to be withheld. For these purposes, the Fair Market Value of the Shares to be withheld or repurchased, as applicable, shall be determined on the date that the amount of tax to be withheld is to be determined. 
+
+(j) Section 83(b) Election. The Grantee hereby acknowledges that she may file an election pursuant to Section 83(b) of the Code to be taxed currently on the Fair Market Value of the Shares of Restricted Stock (less any purchase price paid for the Shares), provided that such election must be filed with the Internal Revenue Service no later than thirty (30) days after the grant of such Restricted Stock. The Grantee will seek the advice of her own tax advisors as to the advisability of making such a Section 83(b) election, the potential consequences of making such an election, the requirements for making such an election, and the other tax consequences of the Restricted Stock award under federal, state, and any other laws that may be applicable. The Company and its affiliates and agents have not and are not providing any tax advice to the Grantee. 
+
+Section 3. Miscellaneous
+
+(a) Notices. Any and all notices, designations, consents, offers, acceptances and any other communications provided for herein shall be given in writing and shall be delivered either personally or by registered or certified mail, postage prepaid, which shall be addressed, in the case of the Company to both the Chief Financial Officer and the General Counsel of the Company at the principal office of the Company and, in the case of the Grantee, to the Grantee’s address appearing on the books of the Company or to the Grantee’s residence or to such other address as may be designated in writing by the Grantee. 
+
+(b) No Right to Continued Employment. Nothing in the Plan or in this Agreement shall confer upon the Grantee any right to continue in the employ of the Company, a Parent or any Subsidiary or shall interfere with or restrict in any way the right of the Company, Parent or any Subsidiary, which is hereby expressly reserved, to remove, terminate or discharge the Grantee at any time for any reason whatsoever, with or without Cause and with or without advance notice. 
+
+4 
+
+* * *
+
+(c) Bound by Plan. By signing this Agreement, the Grantee acknowledges that she has received a copy of the Plan and has had an opportunity to review the Plan and agrees to be bound by all the terms and provisions of the Plan. 
+
+(d) Adjustments. The Award shall be adjusted by the Committee at the same time as adjustments are made in accordance with Section 16 of the Plan with regard to “Adjustments Upon Change in Capitalization, Corporate Transactions” in a manner similar to, and subject to, the same requirements under Section 16 of the Plan. For purposes of this Award, the term “stock dividend” under Section 16 of the Plan shall include dividends or other distributions of the stock of the Subsidiaries of the Company. 
+
+(e) Successors. The terms of this Agreement shall be binding upon and inure to the benefit of the Company, its successors and assigns, and of the Grantee and the beneficiaries, executors, administrators, heirs and successors of the Grantee. 
+
+(f) Invalid Provision. The invalidity or unenforceability of any particular provision thereof shall not affect the other provisions hereof, and this Agreement shall be construed in all respects as if such invalid or unenforceable provision had been omitted. 
+
+(g) Modifications. No change, modification or waiver of any provision of this Agreement shall be valid unless the same is in writing and signed by the parties hereto. 
+
+(h) Entire Agreement. This Agreement, the Plan and the Offer Letter contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and therein and supersede all prior communications, representations and negotiations in respect thereto. 
+
+(i) Governing Law. This Agreement and the rights of the Grantee hereunder shall be construed and determined in accordance with the laws of the State of Delaware. 
+
+(j) Headings. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement. 
+
+(k) Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. 
+
+5 
+
+* * *
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto as of the 30th day of January, 2009.   
+  
+YAHOO! INC.  
+By: Michael J. Callahan  
+Its: Executive Vice President, General Counsel and Secretary  
+Signature:
+
+/s/ Michael J. Callahan  
+  
+Carol Bartz  
+Signature:
+
+/s/ Carol Bartz  
+  
+Printed Name: Carol Bartz  
+  
+6 

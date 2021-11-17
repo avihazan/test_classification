@@ -1,0 +1,292 @@
+Exhibit 10.2
+
+ORIGINOIL, INC.
+
+
+
+  
+
+
+This Restricted Stock Grant Agreement (the “Agreement”) is made and entered into as of  DATE , (the “Effective Date”) by and between OriginOil, Inc., a Nevada corporation (the “Company”), and the person named below (the “Grantee”).
+
+Grantee:   
+Address:   
+Total Number of Shares to Be Granted: (the “Restricted Shares”)  
+  
+1. Grant of Restricted Shares. In consideration for the performance of services by the Grantee for the Company, whether as a director, officer, employee or consultant, the Company hereby grants the Restricted Shares to the Grantee, subject to the conditions of this Agreement. As used in this Agreement, the term “Shares” shall mean shares of the Company’s common stock, par value $0.001 per share, which includes the Restricted Shares granted under this Agreement, and all securities received (i) in replacement of the Shares, (ii) as a result of stock dividends or stock splits with respect to the Shares, (iii) in replacement of the Shares in a merger, recapitalization, reorganization or similar corporate transaction; and (iv) pursuant to an adjustment to the number of Shares issuable on any vesting date by virtue of Section 2.7 of this Agreement.
+
+  
+
+
+2\. Issuance and Vesting. The Restricted Shares shall vest and be issued to the Grantee upon the satisfaction of the conditions set forth in Section 2.1 and 2.2 of this Agreement. The Restricted Shares are forfeitable as set forth in Section 2.4 and Section 2.5 of this Agreement.
+
+  
+
+
+2.1 Schedule of Company Performance Goals. Grantee shall be eligible for the issuance of Restricted Shares for each Company Performance Goal attained as follows:
+
+  
+
+
+  
+
+
+Restricted Shares
+
+Company Performance Goals  
+  
+[40%]
+
+The Company’s consolidated gross revenue, calculated in accordance with generally accepted accounting principles, consistently applied, equals or exceeds $2,500,000 for the trailing twelve-month period as reported in the Company’s quarterly or annual financial statements  
+  
+[60%]
+
+The Company’s consolidated net profit, calculated in accordance with generally accepted accounting principles, consistently applied, equals or exceeds $500,000 for the trailing twelve-month period as reported in the Company’s quarterly or annual financial statements.  
+  
+1
+
+* * *
+
+2.2 Vesting and Issuance of Eligible Restricted Shares and Cash Distribution. After a particular Company Performance Goal has been met, the Restricted Shares associated with that particular Company Performance Goal shall be eligible for vesting (the “Eligible Restricted Shares”). The Eligible Restricted Shares shall vest on a monthly basis, based on the following formula:
+
+Monthly Vested Shares =  Vesting Percentage x Prior Monthly Trade Value  
+Fair Market Value of the Company’s Shares  
+  
+  
+
+
+For the purposes of this Agreement,
+
+  
+
+
+(i) the “Prior Monthly Trade Value” of the Company’s Shares shall mean the aggregate sum of the Daily Trade Value in the calendar month immediately before the date of determination.
+
+  
+
+
+(ii) the “Daily Trade Value” is defined as the closing trade price of the Company’s Shares multiplied by the daily trade volume. For example, if the closing trade price was $1.00 and the daily trade volume on that day was 500,000 shares, then the Daily Trade Value for that day would be $500,000.
+
+  
+
+
+(iii) the “Vesting Percentage” shall mean the product (expressed as a percentage) of (a) 10%, multiplied by (b) a fraction, (1) the numerator of which is [__________] [insert number of Restricted Shares on first page], and (2) the denominator of which shall be such number of shares of common stock as determined by the Company from time to time in its sole discretion, and which shall initially be 62,500,000. For example, if the numerator is 10,000,000 and the denominator is 62,500,000, then the Vesting Percentage shall be 1.6%.
+
+(iv) the “Fair Market Value” shall equal the average of the trailing ten (10) closing trade prices of the Company’s common stock on the last ten (10) trading days of the month immediately prior to the date of determination as quoted on the public securities trading market on which the Company’s common stock is then traded; provided, that if the Company’s common stock is not then publicly trading or quoted, “Fair Market Value” shall be determined by the Company’s Board of Directors in good faith.
+
+  
+
+
+If the Company’s common stock is no longer publicly traded, then the Board of Directors in good faith shall determine the Monthly Vested Shares.
+
+  
+
+
+If the Prior Monthly Trade Value is less than $50,000, then zero Eligible Restricted Shares shall vest for that month.
+
+  
+
+
+By way of example only, if the Vesting Percentage is 1.6%, the Prior Monthly Trade Value is $10,000,000 and the Fair Market Value is $1.00, then the number of Monthly Vested Shares shall be 160,000.
+
+  
+
+
+The Monthly Vested Shares, if any, shall be computed on the first day of every month for the prior month (the “Monthly Vesting Date”). Subject to reduction as set forth in this paragraph below, fifty percent (50%) of the Shares of the Monthly Vested Shares shall be issued to the Grantee within ten (10) business days. The Fair Market Value (as described in Section 2.8 below) of the remaining amount of Monthly Vested Shares shall be paid by the Company to the Grantee in cash, in lieu of Shares (the “Cash Distribution”). If the Grantee is an employee of the Company as of the Monthly Vesting Date, then the Company shall withhold the Grantee’s share of the Required Payroll Taxes (as defined below) on the full Fair Market Value of all one hundred percent (100%) of the Monthly Vested Shares from the Cash Distribution and pay the balance, if any, to the Grantee within thirty (30) business days. If the Cash Distribution is not sufficient to pay the Required Payroll Taxes, then the amount of the Cash Distribution shall be increased to equal the amount of the Required Payroll Taxes and the number of Shares issued from the Monthly Vested Shares shall be decreased accordingly. If the Grantee is not an employee of the Company as of the Monthly Vesting Date, then the Cash Distribution shall equal fifty percent (50%) of the total Fair Market Value of all one hundred percent (100%) of the Monthly Vested Shares, and the Grantee shall assume full responsibility for all taxes associated with the Shares issued from the Monthly Vested Shares and the Cash Distribution. For the purposes of this Agreement, the term “Required Payroll Taxes” means the amount of payroll taxes mandated by federal, state, and local law to be withheld by an employer from an employee’s compensation for ultimate payment to the appropriate government agency, plus additional withholding mutually and voluntarily agreed to in writing by the Grantee and the Company.
+
+2
+
+* * *
+
+  
+
+
+2.3 Lock-Up Agreement. For a period three (3) years after vesting and issuance, Grantee hereby agrees that Grantee shall not without the prior written consent of the Company, offer, pledge, sell, contract to sell, grant any option for the sale of, or otherwise dispose of, directly or indirectly, the Shares issued from the Monthly Vested Shares, otherwise permitted by Rule 144 promulgated under the Securities Act and consents to the placement of a legend with respect to the foregoing on each certificate representing the Shares issued from the Monthly Vested Shares.
+
+  
+
+
+2.4 Forfeiture. Grantee shall forfeit all vesting rights for any Eligible Restricted Shares that have not vested within five (5) years of the date that the Eligible Restricted Shares were eligible for vesting.
+
+  
+
+
+2.5 Termination. If the Grantee ceases to provide any services to the Company as officer, director, employee or consultant, for any reason before the date that the Company Performance Goals have been met (it being understood that if the Grantee continues without interruption to serve thereafter in one or more capacities as officer, director, employee or consultant of the Company this shall not be considered a cessation of service), then the Restricted Shares associated with the unmet Company Performance Goals as of the date of such cessation of services shall immediately be forfeited as of the date of such cessation of services. The Eligible Restricted Shares associated with any Company Performance Goals met prior to the date the Grantee ceases to provide any services to the Company shall continue to vest and be issued to the Grantee in accordance with Sections 2.2 and 2.3 of this Agreement.
+
+2.6 Title to Shares. The exact spelling of the name(s) under which Grantee shall take title to the Shares is:
+
+Grantee desires to take title to the Shares as follows:
+
+[ ] Individual, as separate property
+
+[ ] Husband and wife, as community property
+
+[ ] Joint Tenants
+
+2.7 Adjustment to Number of Shares. The Company agrees that if the Fair Market Value of the Company’s common stock on the Monthly Vesting Date is less than the Fair Market Value of the Company’s common stock on the Effective Date, then the number of Monthly Vested Shares issuable (assuming all conditions are satisfied) within ten business days of the Monthly Vesting Date shall be increased so that the aggregate Fair Market Value of Monthly Vested Shares issuable equals the aggregate Fair Market Value that such number of Shares would have had on the Effective Date.
+
+  
+
+
+3. Representations and Warranties of Grantee. Grantee represents and warrants to the Company that:
+
+3.1 Agrees to Terms of this Agreement. Grantee has received a copy of this Agreement, has read and understands the terms of this Agreement, and agrees to be bound by its terms and conditions.
+
+3.2 Acceptance of Shares for Own Account for Investment. Grantee is acquiring the Shares for Grantee's own account for investment purposes only and not with a view to, or for sale in connection with, a distribution of the Shares within the meaning of the Securities Act of 1933, as amended (the “Securities Act”). Grantee has no present intention of selling or otherwise disposing of all or any portion of the Shares.
+
+3.3 Access to Information. Grantee has had access to all information regarding the Company and its present and prospective business, assets, liabilities and financial condition that Grantee reasonably considers important in making the decision to acquire the Shares, and Grantee has had ample opportunity to ask questions of the Company's representatives concerning such matters and this investment.
+
+3.4 Understanding of Risks. Grantee is fully aware of: (i) the highly speculative nature of the investment in the Shares; (ii) the financial hazards involved; (iii) the lack of liquidity of the Shares and the restrictions on transferability of the Shares (e.g., that Grantee may not be able to sell or dispose of the Shares or use them as collateral for loans); (iv) the qualifications and backgrounds of the management of the Company; and (v) the tax consequences of investment in the Shares. Grantee is capable of evaluating the merits and risks of this investment, has the ability to protect Grantee's own interests in this transaction and is financially capable of bearing a total loss of this investment.
+
+3.5 No General Solicitation. At no time was Grantee presented with or solicited by any publicly issued or circulated newspaper, mail, radio, television or other form of general advertising or solicitation in connection with the offer, sale and issue of the Shares.
+
+4. Compliance with Securities Laws. Grantee understands and acknowledges that the Shares have not been registered with the Securities and Exchange Commission (the “SEC”) under the Securities Act and that, notwithstanding any other provision of this Agreement to the contrary, the issuance of any Shares is expressly conditioned upon compliance with the Securities Act and all applicable state securities laws. Grantee agrees to cooperate with the Company to ensure compliance with such laws.
+
+5\. Restricted Securities.
+
+5.1 No Transfers Unless Registered or Exempt. In addition to the lock-up agreement in Section 2.3 above, Grantee understands that Grantee may not transfer any Shares unless such Shares are registered under the Securities Act and qualified under applicable state securities laws or unless, in the opinion of counsel to the Company, exemptions from such registration and qualification requirements are available. Grantee understands that only the Company may file a registration statement with the SEC and that the Company is under no obligation to do so with respect to the Shares. Grantee has also been advised that exemptions from registration and qualification may not be available or may not permit Grantee to transfer all or any of the Shares in the amounts or at the times proposed by Grantee.
+
+3
+
+* * *
+
+5.2 SEC Rule 144. In addition, Grantee has been advised that SEC Rule 144 promulgated under the Securities Act, which permits certain limited sales of unregistered securities, is not presently available with respect to the Shares and, in any event, requires that the Shares be held for a minimum of six months, and in certain cases one (1) year, after they have been acquired, before they may be resold under Rule 144. Grantee understands that Rule 144 may indefinitely restrict transfer of the Shares so long as Grantee remains an "affiliate" of the Company.
+
+6. Market Standoff Agreement. Grantee agrees in connection with any registration of the Company's securities that, upon the request of the Company or the underwriters managing any public offering of the Company's securities, Grantee shall not sell or otherwise dispose of any Shares without the prior written consent of the Company or such underwriters, as the case may be, for such period of time (not to exceed one hundred eighty (180) days) after the effective date of such registration requested by such underwriters and subject to all restrictions as the Company or the underwriters may specify. Grantee further agrees to enter into any agreement reasonably required by the underwriters to implement the foregoing.
+
+  
+
+
+7\. Company Take-Along Right.
+
+  
+
+
+7.1 Approved Sale. If the Board of Directors of the Company (the “Board”) shall deliver a notice to Grantee (a “Sale Event Notice”) stating that the Board has approved a sale of all or a portion of the Company (an “Approved Sale”) and specifying the name and address of the proposed parties to such transaction and the consideration payable in connection therewith, Grantee shall (i) consent to and raise no objections against the Approved Sale or the process pursuant to which the Approved Sale was arranged, (ii) waive any dissenter’s rights and other similar rights, and (iii) if the Approved Sale is structured as a sale of securities, agree to sell Grantee’s Shares on the terms and conditions of the Approved Sale which terms and conditions shall treat all stockholders of the Company equally (on a pro rata basis), except that shares having a liquidation preference may, if so provided in the documents governing such shares, receive an amount of consideration equal to such liquidation preference in addition to the consideration being paid to the holders of Shares not having a liquidation preference.
+
+  
+
+
+Grantee shall take all necessary and desirable lawful actions as directed by the Board and the stockholders of the Company approving the Approved Sale in connection with the consummation of any Approved Sale, including without limitation, the execution of such agreements and such instruments and other actions reasonably necessary to (A) provide the representations, warranties, indemnities, covenants, conditions, non-compete agreements, escrow agreements and other provisions and agreements relating to such Approved Sale and, (B) effectuate the allocation and distribution of the aggregate consideration upon the Approved Sale, provided, that this Section 8 shall not require Grantee to indemnify the purchaser in any Approved Sale for breaches of the representations, warranties or covenants of the Company or any other stockholder, except to the extent (x) Grantee is not required to incur more than its pro rata share of such indemnity obligation (based on the total consideration to be received by all stockholders that are similarly situated and hold the same class or series of capital stock) and (y) such indemnity obligation is provided for and limited to a post-closing escrow or holdback arrangement of cash or stock paid in connection with the Approved Sale.
+
+  
+
+
+7.2 Costs. Grantee shall bear Grantee’s pro rata share (based upon the amount of consideration to be received) of the reasonable costs of any sale of Shares pursuant to an Approved Sale to the extent such costs are incurred for the benefit of all selling stockholders of the Company and are not otherwise paid by the Company or the acquiring party. Costs incurred by Grantee on Grantee’s own behalf shall not be considered costs of the transaction hereunder.
+
+  
+
+
+7.3 Share Delivery. At the consummation of the Approved Sale, Grantee shall, if applicable, deliver certificates representing the Shares to be transferred, duly endorsed for transfer and accompanied by all requisite stock transfer taxes, if any, and the Shares to be transferred shall be free and clear of any liens, claims or encumbrances (other than restrictions imposed by this Section 7) and Grantee shall so represent and warrant.
+
+  
+
+
+7.4 Termination of Company Take-Along Right. The Take-Along Right shall terminate as to the Shares upon the Public Trading Date of the Shares. For the purposes of this Agreement, the “Public Trading Date” of the Shares is the date on which the Shares first become freely tradable, without volume or manner-of-sale restrictions or current public information requirements, under the Securities Act, either pursuant to Rule 144 or another provision of the Securities Act, and are no longer subject to lock-up under Section 2.3 of this Agreement. The holder of the Shares may apply to have all restrictive transfer legends removed from the certificates evidencing the Shares, provided that the request for legend removal is made at such times and in such manner that removal is accomplished in compliance with the Securities Act and the rules and regulations promulgated under the Securities Act, and Section 2.3 of this Agreement; and provided further, that any proposed sale of Shares must comply with all Company policies and procedures, and with applicable federal, state and local laws.
+
+8. Rights as a Stockholder. Subject to the terms and conditions of this Agreement, Grantee shall have all of the rights of a stockholder of the Company with respect to the Shares after the Restricted Shares vest until such time as Grantee disposes of the Shares.
+
+9\. Restrictive Legends and Stop-Transfer Orders.
+
+9.1 Legends. Grantee understands and agrees that the Company shall place the legends set forth below or similar legends on any stock certificate(s) evidencing the Shares, together with any other legends that may be required by state or federal securities laws, the Company's Articles of Incorporation or Bylaws, any other agreement between Grantee and the Company or any agreement between Grantee and any third party:
+
+THE SECURITIES REPRESENTED HEREBY HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE "SECURITIES ACT"), OR UNDER THE SECURITIES LAWS OF CERTAIN STATES. THESE SECURITIES ARE SUBJECT TO RESTRICTIONS ON TRANSFERABILITY AND RESALE AND MAY NOT BE TRANSFERRED OR RESOLD EXCEPT AS PERMITTED UNDER THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS, PURSUANT TO REGISTRATION OR EXEMPTION THEREFROM. INVESTORS SHOULD BE AWARE THAT THEY MAY BE REQUIRED TO BEAR THE FINANCIAL RISKS OF THIS INVESTMENT FOR AN INDEFINITE PERIOD OF TIME. THE ISSUER OF THESE SECURITIES MAY REQUIRE AN OPINION OF COUNSEL IN FORM AND SUBSTANCE SATISFACTORY TO THE ISSUER TO THE EFFECT THAT ANY PROPOSED TRANSFER OR RESALE IS IN COMPLIANCE WITH THE SECURITIES ACT AND ANY APPLICABLE STATE SECURITIES LAWS.
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO A THREE (3) YEAR LOCK-UP RESTRICTION FROM DATE OF ISSUANCE AND A 180 DAY MARKET STANDOFF RESTRICTION AS SET FORTH IN A CERTAIN AGREEMENT BETWEEN THE ISSUER AND THE ORIGINAL HOLDER OF THESE SHARES, A COPY OF WHICH MAY BE OBTAINED AT THE PRINCIPAL OFFICE OF THE ISSUER. AS A RESULT OF SUCH AGREEMENT, THESE SHARES MAY NOT BE TRADED PRIOR TO THE EXPIRATION OF THE THREE (3) YEAR LOCK-UP PERIOD AND 180 DAYS AFTER THE EFFECTIVE DATE OF A PUBLIC OFFERING OF THE COMMON STOCK OF THE ISSUER HEREOF. SUCH RESTRICTION IS BINDING ON TRANSFEREES OF THESE SHARES.
+
+9.2 Stop-Transfer Instructions. Grantee agrees that, to ensure compliance with the restrictions imposed by this Agreement, the Company may issue appropriate "stop-transfer" instructions to its transfer agent, if any, and if the Company transfers its own securities, it may make appropriate notations to the same effect in its own records.
+
+4
+
+* * *
+
+  
+
+
+9.3 Refusal to Transfer. The Company shall not be required (i) to transfer on its books any Shares that have been sold or otherwise transferred in violation of any of the provisions of this Agreement or (ii) to treat as owner of such Shares, or to accord the right to vote or pay dividends to any purchaser or other transferee to whom such Shares have been so transferred.
+
+  
+
+
+10. Tax Consequences. GRANTEE UNDERSTANDS THAT GRANTEE MAY SUFFER ADVERSE TAX CONSEQUENCES AS A RESULT OF GRANTEE'S ACQUISITION OR DISPOSITION OF THE SHARES. GRANTEE REPRESENTS (i) THAT GRANTEE HAS CONSULTED WITH A TAX ADVISER THAT GRANTEE DEEMS ADVISABLE IN CONNECTION WITH THE ACQUISITION OR DISPOSITION OF THE SHARES AND (ii) THAT GRANTEE IS NOT RELYING ON THE COMPANY FOR ANY TAX ADVICE.
+
+  
+
+
+11. Compliance with Laws and Regulations. The issuance and transfer of the Shares shall be subject to and conditioned upon compliance by the Company and Grantee with all applicable state and federal laws and regulations and with all applicable requirements of any stock exchange or automated quotation system on which the Company's common stock may be listed or quoted at the time of such issuance or transfer.
+
+  
+
+
+12. Successors and Assigns. The Company may assign any of its rights under this Agreement. This Agreement shall be binding upon and inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer herein set forth, this Agreement shall be binding upon Grantee and Grantee's heirs, executors, administrators, legal representatives, successors and assigns.
+
+  
+
+
+13. Governing Law; Severability. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Nevada as such laws are applied to agreements between Nevada residents entered into and to be performed entirely within Nevada, excluding that body of laws pertaining to conflict of laws. If any provision of this Agreement is determined by a court of law to be illegal or unenforceable, then such provision shall be enforced to the maximum extent possible and the other provisions shall remain fully effective and enforceable.
+
+  
+
+
+14. Notices. Any notice required to be given or delivered to the Company shall be in writing and addressed to the Corporate Secretary of the Company at its principal corporate offices. Any notice required to be given or delivered to Grantee shall be in writing and addressed to Grantee at the address indicated above or to such other address as Grantee may designate in writing from time to time to the Company. All notices shall be deemed effectively given upon personal delivery, (i) three (3) days after deposit in the United States mail by certified or registered mail (return receipt requested), (ii) one (1) business day after its deposit with any return receipt express courier (prepaid), or (iii) one (1) business day after transmission by facsimile or email.
+
+  
+
+
+15. Further Instruments. The parties agree to execute such further instruments and to take such further action as may be reasonably necessary to carry out the purposes and intent of this Agreement.
+
+  
+
+
+16. Headings; Counterparts. The captions and headings of this Agreement are included for ease of reference only and shall be disregarded in interpreting or construing this Agreement. All references herein to Sections shall refer to Sections of this Agreement. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and all of which together shall constitute one and the same agreement.
+
+  
+
+
+17. Entire Agreement. This Agreement constitutes the entire agreement and understanding of the parties with respect to the subject matter of this Agreement, and supersedes all prior understandings and agreements, whether oral or written, between the parties hereto with respect to the specific subject matter of this Agreement.
+
+  
+
+
+18. Equitable Adjustments. The number of Restricted Shares, Monthly Vested Shares, Eligible Restricted Shares and Shares, the Company’s Market Capitalization and similar figures set forth herein shall be equitably adjusted in the sole discretion of the Company to offset the effect of stock splits or similar events.
+
+5
+
+* * *
+
+  
+
+
+WHEREOF, the Company has caused this Agreement to be executed by its duly authorized representative and Grantee has executed this Agreement as of the Effective Date.
+
+  
+
+
+OriginOil, Inc. Grantee  
+  
+By:   
+  
+(Signature)  
+  
+(Please print name)  (Please print name)  
+  
+Chief Executive Officer   
+(Please print title)  
+  
+  
+
+
+6
+
+* * *
+
+Spouse Consent
+
+The undersigned spouse of _______________________ (the “Grantee”) has read, understands, and hereby approves the Restricted Stock Grant Agreement between OriginOil, Inc., a Nevada corporation (the “Company”) and Grantee (the “Agreement”). In consideration of the Company's granting my spouse the right to purchase the Shares as set forth in the Agreement, the undersigned hereby agrees to be irrevocably bound by the Agreement and further agrees that any community property interest shall similarly be bound by the Agreement. The undersigned hereby appoints Grantee as my attorney-in-fact with respect to any amendment or exercise of any rights under the Agreement.
+
+Date:   
+Print Name of Grantee's Spouse  Signature of Grantee's Spouse  
+(Please print title)  Address:   
+o Check this box if you do not have a spouse.  
+  
+7

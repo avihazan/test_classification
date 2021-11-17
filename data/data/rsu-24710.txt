@@ -1,0 +1,445 @@
+Exhibit 10.1
+
+
+
+THIS AGREEMENT, dated as of December 14, 2007 is made by and between Rockwood Holdings, Inc., a Delaware corporation (hereinafter referred to as the “Company”), and [NAME] an employee of the Company or a Subsidiary (as defined below) or Affiliate (as defined below) of the Company, hereinafter referred to as “Optionee.”
+
+WHEREAS, the Company wishes to afford the Optionee the opportunity to purchase shares of its common stock, par value $0.01 per share (the “Common Stock”);
+
+WHEREAS, the Company wishes to carry out the Plan (as hereinafter defined), the terms of which are hereby incorporated by reference and made a part of this Agreement; and
+
+WHEREAS, the committee of the Company’s board of directors appointed to administer the Plan (the “Committee”) has determined that it would be to the advantage and best interest of the Company and its shareholders to grant the Option provided for herein to the Optionee as an incentive for increased efforts during his term of office with the Company or its Subsidiaries or Affiliates, and has advised the Company thereof and instructed the undersigned officers to issue said Option;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, receipt of which is hereby acknowledged, the parties hereto do hereby agree as follows:
+
+# ARTICLE I
+
+# 
+
+# DEFINITIONS
+
+# 
+
+Whenever the following terms are used in this Agreement, they shall have the meaning specified in the Plan or below unless the context clearly indicates to the contrary.
+
+## Section 1.1. - Affiliate
+
+## 
+
+“Affiliate” shall mean, with respect to the Company, any entity directly or indirectly controlling, controlled by, or under common control with, the Company or any other entity designated by the Board of Directors in which the Company or an Affiliate has an interest.
+
+## Section 1.2. - Cause
+
+## 
+
+“Cause” shall mean (i) the Optionee’s willful and continued failure to perform duties, which are within the control of the Optionee and consistent with such Optionee’s title and position, that is not cured within 15 days following written notice of such failure, (ii) the Optionee’s conviction of or plea of guilty or no contest to a (x) felony or (y) crime involving moral turpitude, (iii) the Optionee’s willful malfeasance or misconduct which is injurious to the Company or its Subsidiaries, other than in a manner that is insignificant or inconsequential, (iv) a breach by Optionee of the material terms of any non-compete, non-solicitation or confidentiality covenants or agreements by which the Optionee may be bound, following notice of such breach (which notice may be oral or written) or (v) any violation by the Optionee of any material written Company policy after written notice of such breach, if such violation is shown by the Company to be reasonably expected to result in material injury to the business, reputation or financial condition of the Company.
+
+## 
+
+* * *
+
+  
+
+
+## 
+
+## Section 1.3. - Change of Control
+
+## 
+
+“Change of Control” shall mean (i) sales of all or substantially all of the assets of the Company to a Person who is not Kohlberg Kravis Roberts & Co. Ltd (“KKR”) or an affiliate of KKR (collectively, the “KKR Partnerships”), (ii) a sale by KKR or any of its respective affiliates resulting in more than 50% of the voting stock of the Company being held by a Person or Group that does not include KKR or any of its respective affiliates, or (iii) a merger, consolidation, recapitalization or reorganization of the Company with or into another Person which is not an affiliate of KKR; if, and only if, as a result of any of the foregoing events in clauses (i), (ii) or (iii) above, the KKR Partnerships lose the ability, without the approval of any Person (applicable to the respective foregoing events in clauses (i), (ii) or (iii) above) who is not an affiliate of KKR, to elect a majority of the Board of Directors (or the board of directors of the resulting entity). Notwithstanding the foregoing, if any of the transactions described in clauses (i), (ii) or (iii) of the preceding sentence shall occur and the other Person involved in such transaction (or its ultimate parent entity) is an operating company controlled by KKR or an affiliate of KKR prior to such transaction (an “Alternate KKR Entity”), then the determination of whether a change of control has occurred shall be made by determining whether an event set forth in clauses (i), (ii) or (iii) above has occurred (including the ability to elect a majority of the Board or the board of directors of the resulting entity) if the Alternate KKR Entity is treated as being unaffiliated with KKR and by treating the voting power of the Alternate KKR Entity in the Company (or the resulting entity) as if it were held by a Person unaffiliated with KKR.
+
+## Section 1.4. - Disability
+
+## 
+
+“Disability” shall mean a determination, made at the request of the Optionee or upon the reasonable request of the Company set forth in a notice to the Optionee, by a physician selected by the Company and the Optionee, that the Optionee is unable to perform his duties as an employee of the Company or its subsidiaries and in all reasonable medical likelihood such inability will continue for a period in excess of 180 consecutive days.
+
+## Section 1.5. - Good Reason
+
+## 
+
+“Good Reason” shall mean without the Optionee’s consent, (i) a reduction in the Optionee’s base salary or annual bonus opportunity (other than a reduction in base salary that is offset by an increase in bonus opportunity upon the attainment of reasonable financial targets, which reduction may not exceed 10% of the Optionee’s base salary in any 12 month period), (ii) a substantial reduction in the Optionee’s duties and responsibilities, which continues beyond 15 days after written notice by the Optionee to the Company of such reduction, (iii) the elimination or reduction of the Optionee’s eligibility to participate in the Company’s benefit programs that is inconsistent with the eligibility of similarly situated employees of the Company to participate therein, (iv) a transfer of the Optionee’s primary workplace by more than 35 miles from the current workplace, (v) any serious chronic mental or physical illness of an immediate family member that requires the Optionee to terminate his or her employment with the Company because of a substantial interference with his or her duties at the Company or (vi) any failure by the Company to pay when due any payment owed to the Optionee within 15 days after the date such payment becomes due.
+
+## Section 1.6. - Grant Date
+
+## 
+
+“Grant Date” shall mean December 14, 2007, the date on which the Option provided for in this Agreement is granted.
+
+## Section 1.7. - Group
+
+## 
+
+“Group” shall mean two or more Persons acting together as a partnership, limited partnership, syndicate or other group for the purpose of acquiring, holding or disposing of securities of the Company.
+
+* * *
+
+  
+
+
+## Section 1.8. - Option
+
+“Option” shall mean the Option (which shall, in part and to the extent permitted by applicable law and as set forth on the signature page hereto, be an “incentive stock option”, within the meaning of Section 422 of the Code) to purchase Common Stock granted under this Agreement. To the extent that, for any reason, an Option intended to be an incentive stock option does not qualify as an incentive stock option, it shall be deemed an option that is not an incentive stock option.
+
+## Section 1.9. - Person
+
+## 
+
+“Person” shall mean “person”, as such term is used for purposes of Section 13(d) or 14(d) of the Securities Exchange Act of 1934, as amended (or any successor section thereto).
+
+## Section 1.10. - Plan
+
+## 
+
+“Plan” shall mean the Amended and Restated 2005 Stock Purchase and Option Plan of Rockwood Holdings, Inc. and Subsidiaries.
+
+## Section 1.11. - Retirement
+
+## 
+
+“Retirement” shall mean retirement at age 62 or over (or such other age as may be approved by the Board of Directors) after having been employed by the Company or a Subsidiary for at least five full years.
+
+##  Section 1.12. - Secretary
+
+## 
+
+“Secretary” shall mean the Secretary of the Company.
+
+# ARTICLE II
+
+# 
+
+# GRANT OF OPTIONS
+
+# 
+
+## Section 2.1. - Grant of Option
+
+## 
+
+For good and valuable consideration, on and as of the date hereof the Company irrevocably grants to the Optionee an Option to purchase any part or all of an aggregate of the number of shares set forth on the signature page hereof of its Common Stock upon the terms and conditions set forth in this Agreement.
+
+## Section 2.2. - Exercise Price
+
+## 
+
+Subject to Section 2.4, the exercise price of the shares of Common Stock covered by the Option shall be $32.39 per share without commission or other charge (which is the fair market value per share of the Common Stock on the Grant Date).
+
+## Section 2.3. - No Guarantee of Employment
+
+## 
+
+Nothing in this Agreement or in the Plan shall confer upon the Optionee any right to continue in the employ of the Company or any Subsidiary or Affiliate or shall interfere with or restrict in any way the rights of the Company and its Subsidiaries or Affiliates, which are hereby expressly reserved, to terminate the employment of the Optionee at any time for any reason whatsoever, with or without cause.
+
+* * *
+
+  
+
+
+## Section 2.4. - Adjustments in Option Pursuant to Merger, Consolidation, etc.
+
+## 
+
+(a) Subject to Sections 8 and 9 of the Plan, in the event that the outstanding shares of the stock subject to the Option, are, from time to time, changed into or exchanged for a different number or kind of shares of the Company or other securities of the Company by reason of a merger, consolidation, recapitalization, reclassification, stock split, stock dividend, combination of shares, or other corporate event, the Committee shall make, as appropriate and equitable, an adjustment in the number and kind of shares and/or the amount of consideration as to which or for which, as the case may be, such Option, or portions thereof then unexercised, shall be exercisable and/or, other than in an event that is a Change of Control, shall pay to the Optionee a dividend in respect of the shares of Common Stock subject to the Option, in any event in order to allow the Optionee to participate in such corporate event in an equitable manner. Any such adjustment made by the Committee shall be final and binding upon the Optionee, the Company and all other interested persons.
+
+(b) Subject to Sections 8 and 9 of the Plan, in the event of a Change of Control in which all of the then outstanding Common Stock will be cancelled and converted into the right to receive a cash payment per share of Common Stock (such cash payment, the “Change of Control Consideration”), the Committee may, in its discretion, either: (i) cause the Option (to the extent then outstanding and not previously exercised) to, effective as of the effective date of such a Change of Control, be converted into a right to receive a cash payment (payable as soon as practicable after the Change of Control) equal to the product of (x) the excess, if any, of (A) the Change of Control Consideration, over (B) the exercise price per share of Common Stock subject to such Option, multiplied by (y) the total number of shares of Common Stock subject to such Option; or (ii) cause the Option (to the extent then outstanding and not previously exercised) to, effective as of the effective date of such a Change of Control, be substituted for new options to purchase shares of common stock of an acquiring or surviving entity (or any other entity that may provide for such a substitute award under Section 424 of the Code) (or, to the extent permitted under Section 409A of the Code, be substituted for stock appreciation rights settled in cash or other equity or equity-based awards) that will substantially preserve the otherwise applicable terms of the Option, as determined by the Committee in its sole discretion. In the event that the exercise price of any Option is equal to or greater than the Change of Control Consideration, such Option shall be automatically cancelled and have no further force or effect without payment of any consideration in respect thereof.
+
+(c) In the event of a Change of Control in which Section 2.4(b) hereof does not apply, the Committee shall take any such other actions as may be in accordance with Sections 8 and 9 of the Plan and Section 2.4(a) of this Agreement in connection with the Option, or portions thereof unexercised.
+
+(d) All actions taken by the Committee under this Section 2.4 shall be final and binding upon the Optionee, the Company and all other interested persons.
+
+# ARTICLE III
+
+# 
+
+# PERIOD OF EXERCISABILITY
+
+# 
+
+## Section 3.1. - Commencement of Exercisability
+
+## 
+
+### (a) So long as the Optionee continues to be employed by the Company or its Subsidiaries, the Option shall become exercisable pursuant to the following schedule:
+
+Date Option Becomes Exercisable
+
+Percentage of Option Shares Granted  
+As to Which Option Is Exercisable  
+  
+December 31, 2008
+
+33 1/3
+
+%  
+  
+December 31, 2009
+
+66 2/3
+
+%  
+  
+December 31, 2010
+
+100
+
+%  
+  
+### 
+
+* * *
+
+  
+
+
+### (b) Notwithstanding the foregoing, the Option shall become immediately exercisable as to 100% of the shares of Common Stock subject to such Option as follows (but only to the extent such Option has not otherwise terminated or become exercisable): (i) in the event that the Optionee’s employment is terminated by the Company and its Subsidiaries without Cause or the Optionee resigns with Good Reason within the two-year period that commences on the effective date of a Change of Control, but only if such termination occurs at least six months after the Grant Date; or (ii) in the event the Optionee’s employment is terminated as a result of the Optionee’s death or Disability.
+
+### 
+
+### (c) Notwithstanding the foregoing, the Option shall become immediately exercisable as to 50% of the shares of Common Stock subject to such Option (but only to the extent such Option has not otherwise terminated or become exercisable) in the event that the Optionee’s employment is terminated by the Company and its Subsidiaries without Cause or the Optionee resigns with Good Reason within the two-year period that commences on the effective date of a Change of Control, but only if such termination occurs within six months of the Grant Date.
+
+### 
+
+### (d) Notwithstanding the foregoing, no Option (which do(es) not otherwise become exercisable or vested in accordance with Section 3.1(a), (b) or (c) above) shall become exercisable as to any additional shares of Common Stock following the termination of employment of the Optionee for any reason and any Option, which is unexercisable or not vested as of the Optionee’s termination of employment, shall be immediately cancelled and/or forfeited by the Optionee without consideration therefor.
+
+### 
+
+## Section 3.2. - Expiration of Option
+
+## 
+
+The Optionee may not exercise the Option to any extent after the first to occur of the following events:
+
+### (a) The seventh anniversary of the Grant Date, so long as the Optionee remains employed through such anniversary; or
+
+### 
+
+### (b) The seventh anniversary of the Grant Date, if the Optionee’s employment is terminated by reason of Retirement; or
+
+### 
+
+### (c) The first anniversary of the date of the Optionee’s termination of employment due to the Optionee’s death or Disability; or
+
+### 
+
+### (d) The first anniversary of the date of the Optionee’s termination of employment if the Optionee’s employment is terminated by the Company without Cause or the Optionee resigns with Good Reason within the two-year period that commences on the effective date of a Change of Control; or
+
+### 
+
+### (e) Ninety (90) days after an Optionee’s termination of employment by the Company for any reason, other than due to the Optionee’s Disability or for Cause, or by the Optionee for any reason, except as set forth in Section 3.2(d) above; or
+
+### 
+
+### (f) Immediately upon termination, if the Optionee’s employment is terminated by the Company for Cause; or
+
+### 
+
+### (g) If the Committee so determines pursuant to Section 2.4(b)(i), the effective date of a Change of Control; or
+
+### 
+
+* * *
+
+  
+
+
+### 
+
+### (h) If the Committee so determines pursuant to Section 9 of the Plan, the effective date of either the merger or consolidation of the Company into another Person, or the exchange or acquisition by another Person of all or substantially all of the Company’s assets or 80% or more of its then outstanding voting stock, or the recapitalization, reclassification, liquidation or dissolution of the Company. At least ten (10) days prior to the effective date of such merger, consolidation, exchange, acquisition, recapitalization, reclassification, liquidation or dissolution, the Committee shall give the Optionee notice of such event if the Option has then neither been fully exercised nor become unexercisable under this Section 3.2.
+
+### 
+
+# ARTICLE IV
+
+# 
+
+# EXERCISE OF OPTION
+
+# 
+
+## Section 4.1. - Person Eligible to Exercise
+
+## 
+
+During the lifetime of the Optionee, only he may exercise an Option or any portion thereof. After the death of the Optionee, any exercisable portion of an Option may, prior to the time when an Option becomes unexercisable under Section 3.2, be exercised by his personal representative or by any person empowered to do so under the Optionee’s will or under the then applicable laws of descent and distribution.
+
+## Section 4.2. - Partial Exercise
+
+## 
+
+Any exercisable portion of an Option or the entire Option, if then wholly exercisable, may be exercised in whole or in part at any time prior to the time when the Option or portion thereof becomes unexercisable under Section 3.2; provided, however, that any partial exercise shall be for whole shares of Common Stock only.
+
+## Section 4.3. - Manner of Exercise
+
+## 
+
+An Option, or any exercisable portion thereof, may be exercised solely by delivering to the Secretary or his office all of the following prior to the time when the Option or such portion becomes unexercisable under Section 3.2:
+
+### (a) Notice in writing signed by the Optionee or the other person then entitled to exercise the Option or portion thereof, stating that the Option or portion thereof is thereby exercised, such notice complying with all applicable rules established by the Committee;
+
+### 
+
+### (b) Full payment (in cash, by check or by a combination thereof) for the shares with respect to which such Option or portion thereof is exercised;
+
+### 
+
+### (c) A bona fide written representation and agreement, in a form satisfactory to the Committee, signed by the Optionee or other person then entitled to exercise such Option or portion thereof, stating that the shares of stock are being acquired for his own account, for investment and without any present intention of distributing or reselling said shares or any of them except as may be permitted under the Securities Act of 1933, as amended (the “Act”), and then applicable rules and regulations thereunder, and that the Optionee or other person then entitled to exercise such Option or portion thereof will indemnify the Company against and hold it free and harmless from any loss, damage, expense or liability resulting to the Company if any sale or distribution of the shares by such person is contrary to the representation and agreement referred to above; provided, however, that the Committee may, in its reasonable discretion, take whatever additional actions it deems reasonably necessary to ensure the observance and performance of such representation and agreement and to effect compliance with the Act and any other federal or state securities laws or regulations;
+
+### 
+
+* * *
+
+  
+
+
+### 
+
+### (d) Full payment to the Company of all amounts which, under federal, state or local law, it is required to withhold upon exercise of the Option; and
+
+### 
+
+### (e) In the event the Option or portion thereof shall be exercised pursuant to Section 4.1 by any person or persons other than the Optionee, appropriate proof of the right of such person or persons to exercise the option.
+
+### 
+
+In addition to the foregoing, the Optionee may, in the Committee’s good faith discretion, make payment of the exercise price (as required in Section 4.3(b) above) in shares of Common Stock that the Optionee has held for at least six months or otherwise pursuant to an irrevocable broker loan program established by the Committee; and may also pay any taxes required to be withheld and paid upon any exercise (as required in Section 4.3(d) above) pursuant to an irrevocable broker loan program established by the Committee.
+
+Without limiting the generality of the foregoing, the Committee may require an opinion of counsel acceptable to it to the effect that any subsequent transfer of shares acquired on exercise of an Option does not violate the Act, and may issue stop-transfer orders covering such shares. Share certificates evidencing stock issued on exercise of this Option shall bear an appropriate legend referring to the provisions of subsection (c) above and the agreements herein. The written representation and agreement referred to in 
+
+subsection (c) above shall, however, not be required if the shares to be issued pursuant to such exercise have been registered under the Act, and such registration is then effective in respect of such shares.
+
+## Section 4.4. - Conditions to Issuance of Stock Certificates
+
+## 
+
+The shares of stock deliverable upon the exercise of an Option, or any portion thereof, may be either previously authorized but unissued shares or issued shares, which have then been reacquired by the Company. Such shares shall be fully paid and nonassessable. The Company shall not be required to issue or deliver any certificate or certificates for shares of stock purchased upon the exercise of an Option or portion thereof prior to fulfillment of all of the following conditions:
+
+### (a) The obtaining of approval or other clearance from any state or federal governmental agency which the Committee shall, in its reasonable and good faith discretion, determine to be necessary or advisable; and
+
+### 
+
+### (b) The lapse of such reasonable period of time following the exercise of the Option as the Committee may from time to time establish for reasons of administrative convenience.
+
+### 
+
+## Section 4.5. - Rights as Stockholder
+
+## 
+
+The holder of an Option shall not be, nor have any of the rights or privileges of, a stockholder of the Company in respect of any shares purchasable upon the exercise of the Option or any portion thereof unless and until certificates representing such shares shall have been issued by the Company to such holder.
+
+# ARTICLE V
+
+# 
+
+# MISCELLANEOUS
+
+# 
+
+## Section 5.1. - Administrationp
+
+## 
+
+The Committee shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee shall be final and binding upon the Optionee, the Company and all other interested persons. No member of the Committee shall be personally liable for any action, determination or
+
+* * *
+
+  
+
+
+interpretation made in good faith with respect to the Plan or the Options. In its absolute discretion, the Board of Directors may at any time and from time to time exercise any and all rights and duties of the Committee under the Plan and this Agreement.
+
+## Section 5.2. - Option Not Transferable
+
+## 
+
+Neither the Option nor any interest or right therein or part thereof shall be liable for the debts, contracts or engagements of the Optionee or his successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect; provided, however, that this Section 5.2 shall not prevent transfers by will or by the applicable laws of descent and distribution.
+
+## Section 5.3. - Shares to Be Reserved
+
+## 
+
+The Company shall at all times during the term of the Option reserve and keep available such number of shares of stock as will be sufficient to satisfy the requirements of this Agreement.
+
+## Section 5.4. - Notices
+
+## 
+
+Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its Secretary, and any notice to be given to the Optionee shall be addressed to him at the address given beneath his signature hereto. By a notice given pursuant to this Section 5.4, either party may hereafter designate a different address for notices to be given to him. Any notice, which is required to be given to the Optionee, shall, if the Optionee is then deceased, be given to the Optionee’s personal representative if such representative has previously informed the Company of his status and address by written notice under this Section 5.4. Any notice shall have been deemed duly given when enclosed in a properly sealed envelope or wrapper addressed as aforesaid, deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service.
+
+## Section 5.5. - Titles
+
+## 
+
+Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+## Section 5.6. - Applicability of Plan
+
+## 
+
+The Option and the shares of Common Stock issued to the Optionee upon exercise of the Option shall be subject to all of the terms and provisions of the Plan, to the extent applicable to the Option and such shares. In the event of any conflict between this Agreement and the Plan, the terms of the Plan shall control.
+
+## Section 5.7. - Amendment
+
+## 
+
+This Agreement may be amended only by a writing executed by the parties hereto, which specifically states that it is amending this Agreement.
+
+## Section 5.8. - Governing Law
+
+## 
+
+The laws of the State of Delaware shall govern the interpretation, validity and performance of the terms of this Agreement regardless of the law that might be applied under principles of conflicts of laws.
+
+* * *
+
+  
+
+
+## Section 5.9. - Arbitration
+
+## 
+
+### In the event of any controversy among the parties hereto arising out of, or relating to, this Agreement which cannot be settled amicably by the parties, such controversy shall be finally, exclusively and conclusively settled by mandatory arbitration conducted in New York expeditiously in accordance with the American Arbitration Association rules, by a single independent arbitrator. If the parties are unable to agree on the selection of an arbitrator, then any party may petition the American Arbitration Association for the appointment of the arbitrator, which appointment shall be made within ten days of the petition therefor. Either the Company or the Optionee may institute such arbitration proceeding by giving written notice to the other party. The arbitrator shall hold a hearing within 30 days of his or her appointment. In preparation for their presentation at such hearing, each party may depose a maximum of four people. Each such deposition shall last no more than six hours. Each side may file with the arbitrator one brief, not in excess of 30 pages, excluding exhibits. Each side shall have no more than eight hours to present its position to the arbitrator. The hearing shall be no more than three days in length. The decision of the arbitrator shall be final and binding upon all parties hereto and shall be rendered pursuant to a written decision, which contains a detailed recital of the arbitrator’s reasoning. Judgment upon the award rendered may be entered in any court having jurisdiction thereof.
+
+### 
+
+[Signatures on next page.]
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto.
+
+ROCKWOOD HOLDINGS, INC.  
+  
+By  
+  
+Its:  
+  
+OPTIONEE:  
+  
+Address  
+  
+Optionee’s Taxpayer Identification Number:  
+  
+Aggregate number of shares
+
+of Common Stock for which
+
+the Option granted
+
+hereunder is exercisable
+
+(100% of total number of shares):
+
+; of which
+
+shall be incentive stock options and
+
+shall be non-qualified stock options.  
+  
+* * *

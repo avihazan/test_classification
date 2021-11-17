@@ -1,0 +1,98 @@
+Exhibit 10.1
+
+[Form as of 2/26/09] 
+
+[Text that appears in brackets should be added to the agreement as appropriate.]
+
+THERMO FISHER SCIENTIFIC INC.
+
+
+
+Granted Under   
+[NAME OF EQUITY INCENTIVE PLAN]
+
+1\. Award of Restricted Stock Units. 
+
+This agreement sets forth the terms and conditions of an award by Thermo Fisher Scientific Inc., a Delaware corporation (the “Company”), on  , 200[ ] (the “Award Date”) to  (the “Participant”) of  restricted stock units of the Company (individually, an “RSU” and collectively, the “RSUs”). Each RSU represents the right to receive one share of common stock, $1.00 par value, of the Company (“Common Stock”) pursuant to the terms, conditions and restrictions set forth in this Agreement and in the Company’s [Name of Equity Incentive Plan] (the “Plan”). The shares of Common Stock that are issuable upon vesting of the RSUs are referred to in this agreement as Shares. Capitalized terms used in this Agreement and not otherwise defined shall have the same meaning as in the Plan. 
+
+2\. Vesting Schedule. 
+
+The RSUs shall  . [The vesting of RSUs shall be in accordance with the provision of the Plan. For a Restricted Stock Award that vests based solely on the passage of time, insert the following in the blank above: “vest as to [ ]% of the original number of RSUs on the [ ] anniversary of the Award Date and as to an additional [ ] % of the original number of RSUs at the end of [each] anniversary of the Award Date following the first anniversary of the Award Date until the [ ] anniversary of the Award Date (the each anniversary a “Vesting Date” and the final such Vesting Date, the “Final Vesting Date”)”]; provided, that on each such Vesting Date the Participant is, and has been at all times since the Award Date, an employee, officer or director of, or consultant or advisor to, the Company or any other entity the employees, officers, directors, consultants, or advisors of which are eligible to receive restricted stock awards under the Plan (an “Eligible Participant”). 
+
+3\. Forfeiture. 
+
+(a) Termination of Relationship with the Company. In the event that the Participant ceases to be an Eligible Participant for any reason other than those set forth in paragraphs (b) through (d) below prior to the Final Vesting Date, the RSUs that have not previously vested shall be immediately forfeited to the Company. 
+
+(b) Death or Disability. In the event that the Participant’s employment with the Company or a Subsidiary is terminated by reason of death or “disability” (as defined below) prior to the Final Vesting Date, the RSUs that have not previously vested shall vest 100% upon 
+
+* * *
+
+##### 
+
+the date of such death or disability. For the purposes of this Agreement, a Participant shall be deemed to be “disabled” at such time as the Participant is receiving disability benefits under the Company’s Long Term Disability Coverage, as then in effect. 
+
+(c) Discharge by the Company other than for Cause. In the event that the Participant’s employment with the Company or a Subsidiary, as the case may be, is terminated by the Company or such Subsidiary other than for “Cause” (as defined in the Plan), or by the Participant for “Good Reason” (as defined in the Plan), in each case, within 18 months of a Change in Control Event, the RSUs that have not previously vested shall vest 100% upon the effective date of such termination. 
+
+(d) Retirement. If the Participant “retires” from the Company or a Subsidiary prior to the Final Vesting Date, the RSUs that have not previously vested shall vest 100% upon the effective date of such retirement, provided that the retirement date occurs at least one year after the Award Date. For the purposes of this Agreement, a Participant shall be deemed to have “retired” upon his or her resignation from employment with the Company or a Subsidiary either (i) after the age of 55 and the completion of 10 continuous years service to the Company or a Subsidiary comprising at least 20 hours per week or (ii) after the age of 60 and the completion of 5 continuous years service to the Company or a Subsidiary comprising at least 20 hours per week, but only if such resignation results in the occurrence of a separation from service (as defined for purposes of Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”)). 
+
+(e) Vesting Dates. Each date upon which an RSU vests pursuant to paragraphs (b) through (d), above, shall be a Vesting Date. 
+
+4\. Delivery of Shares
+
+(a) The Company shall deliver the Shares that become issuable upon the vesting of an RSU on a Vesting Date (i) to the Participant as soon as administratively practicable or (ii) in the event that the Participant’s employment with the Company is terminated by reason of death, to the Participant’s estate as soon as administratively practicable, but in either event no later than 60 days after such Vesting Date. 
+
+(b) The Company shall not be obligated to deliver Shares to the Participant unless the issuance and delivery of such Shares shall comply with all relevant provisions of law and other legal requirements including, without limitation, any applicable federal or state securities laws and the requirements of any stock exchange upon which shares of Common Stock may then be listed. 
+
+5\. Restrictions on Transfer. 
+
+The Participant shall not sell, assign, transfer, pledge, hypothecate or otherwise dispose of, by operation of law or otherwise (collectively “transfer”) any RSUs, or any interest therein, except by will or the laws of descent and distribution. 
+
+6\. Provisions of the Plan. 
+
+* * *
+
+##### 
+
+This Agreement is subject to the provisions of the Plan, a copy of which is furnished to the Participant with this Agreement. 
+
+7\. Dividends. 
+
+(a) If at any time during the period between the Award Date and the date that the RSU vests, the Company pays a dividend or other distribution with respect to its Common Stock, including without limitation a distribution of shares of the Company’s stock by reason of a stock dividend, stock split or otherwise, then on the date the Shares issuable upon vesting of the RSU are delivered, the Company shall pay the Participant the dividend or other distribution that would have been paid on such Share if the Participant had owned such Shares during the period beginning on the Award Date and ending on the respective Vesting Date. No dividend or other distribution shall be paid with respect to RSUs that are forfeited. 
+
+(b) Except as set forth in Section 7(a) above and in the Plan, neither the Participant nor any person claiming under or through the Participant shall be, or have any rights or privileges of, a stockholder of the Company in respect of the Shares issuable pursuant to the RSUs granted hereunder until the Shares have been delivered to the Participant. 
+
+8\. Withholding Taxes; No Section 83(b) Election. 
+
+(a) The Participant expressly acknowledges that the delivery of Shares to the Participant will give rise to “wages” subject to withholding. Unless the Participant provides notice to the Company prior to the delivery of the Shares that the Participant will make payment to the Company on the date of delivery to satisfy all required withholding taxes, the Participant hereby authorizes the Company to hold back from the shares to be delivered pursuant to Section 4 of this Agreement of that number of shares calculated to satisfy all such federal, state, local or other applicable taxes required to be withheld in connection with such delivery of Shares; provided, however, that the total tax withholding where Shares are being used to satisfy such tax obligations cannot exceed the Company’s minimum statutory withholding obligations (based on minimum statutory withholding rates for federal and state tax purposes, including payroll taxes, that are applicable to such wages). 
+
+(b) The Participant acknowledges that no election under Section 83(b) of the Code may be filed with respect to this Award. 
+
+9\. No Right To Employment or Other Status. The grant of an award of RSUs shall not be construed as giving the Participant the right to continued employment or any other relationship with the Company or a Subsidiary. The Company and Subsidiaries expressly reserve the right at any time to dismiss or otherwise terminate its relationship with the Participant free from any liability or claim under the Plan or this Agreement, except as expressly provided herein. 
+
+10\. Governing Law. This Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware without regard to any applicable conflicts of laws. 
+
+11\. Unfunded Rights. The right of the Participant to receive Common Stock pursuant to this Agreement is an unfunded and unsecured obligation of the Company. The Participant shall have 
+
+* * *
+
+##### 
+
+no rights under this Agreement other than those of an unsecured general creditor of the Company. 
+
+12\.  Compliance with Section 409A of the Code. If and to the extent any portion of any payment under this Agreement to the Participant in connection with his or her employment termination is determined to constitute “nonqualified deferred compensation” within the meaning of Section 409A of the Code and the Participant is a specified employee as defined in Section 409A(a)(2)(B)(i) of the Code, as determined by the Company in accordance with its procedures, by which determination the Participant (through accepting the Award) agrees that he or she is bound, such portion of the payment, compensation or other benefit shall not be paid before the day that is six months plus one day after the date of “separation from service” (as determined under Code Section 409A) (the “New Payment Date”), except as Code Section 409A may then permit. The aggregate of any payments that otherwise would have been paid to the Participant during the period between the date of separation from service and the New Payment Date shall be paid to the Participant in a lump sum on such New Payment Date, and any remaining payments will be paid on their original schedule. 
+
+The Company makes no representations or warranty and shall have no liability to the Participant or any other person if any provisions of or payments, compensation or other benefits under this Agreement are determined to constitute nonqualified deferred compensation subject to Code Section 409A but do not to satisfy the conditions of that section. 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.   
+  
+THERMO FISHER SCIENTIFIC INC.  
+  
+By:  
+  
+Title:  
+  
+Address:  
+  
+[Name of Participant]  
+  
+Address:

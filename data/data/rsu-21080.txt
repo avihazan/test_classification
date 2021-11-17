@@ -1,0 +1,328 @@
+EXHIBIT 10.1
+
+  
+
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”) is made and entered into as of June 11 , 2014 (the “Effective Date”), by and between Steadfast Income REIT, Inc., a Maryland corporation (“Company”), and Steadfast Income Advisor, LLC, a Delaware limited liability company (“Advisor”). 
+
+WHEREAS, pursuant to Section 24 of the Advisory Agreement, by and among Company, Advisor and Steadfast Income REIT Operating Partnership, L.P., the Company’s operating partnership (the “Advisory Agreement”), Company has agreed to pay to Advisor $5,000,000 in fees in the event that the Company’s cumulative distributions are covered (subject to limitations) by the Company’s cumulative modified funds from operations; and
+
+WHEREAS, in consideration of the Advisor and its affiliates’ assistance in consummating the Company’s initial public offering, the board of directors of the Company (the “Board”) has determined that it is advisable to replace such performance-based fee requirement with a grant of restricted stock of the Company on the terms and conditions set forth in this Agreement and to amend the Advisory Agreement pursuant to Amendment No. 6 to the Advisory Agreement, a form of which is attached hereto as Exhibit A; and
+
+WHEREAS, the Company has determined that the fair market value of Company common stock on the Effective Date is equal to $10.24 per share; 
+
+NOW, THEREFORE, in consideration of the foregoing premises and for other good and valuable consideration, the parties hereby agree as follows:
+
+ARTICLE I
+
+  
+
+
+ISSUANCE OF RESTRICTED STOCK
+
+  
+
+
+1.1 Issuance of Restricted Stock. Pursuant to the terms of this Agreement, Company is issuing to Advisor 488,281.25 restricted shares of Company common stock (the “Shares”), upon the terms and conditions set forth in this Agreement.
+
+1.2 Issuance Date. The Shares shall be granted on the Effective Date. 
+
+1.3 Vesting. The Restrictions (as defined in Section 2.1 of this Agreement) shall lapse, and Shares shall become non-forfeitable, pursuant to the terms set forth on Annex A hereto (the “Vesting Schedule”).
+
+1.4 Rights as Stockholder. Except as otherwise provided herein, Advisor shall have all the rights of a stockholder with respect to said Shares during the Restricted Period (as defined in Section 2.2 of this Agreement) and after vesting, including the right to vote the Shares and to receive all dividends or other distributions paid or made with respect to the Shares. If Advisor forfeits any of the Shares pursuant to this Agreement, Advisor shall no longer have any rights as a stockholder with respect to such forfeited Shares or any interest therein, and Advisor shall no longer be entitled to vote or to receive dividends on such Shares. 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+ARTICLE II
+
+  
+
+
+RESTRICTIONS ON SHARES
+
+2.1 Restrictions. The Shares are subject to each of the following restrictions (the “Restrictions”). “Restricted Shares” mean those Shares that are subject to the Restrictions imposed hereunder which Restrictions have not then expired or terminated. Restricted Shares may not be sold, transferred, exchanged, assigned, pledged, hypothecated or otherwise encumbered to or in favor of any party, or be subjected to any lien, obligation or liability of Advisor to any other party. If Advisor’s service to the Company under the Advisory Agreement terminates for any reason other than as set forth in clause (iv) of the Vesting Schedule, then Advisor shall forfeit all of Advisor’s right, title and interest in and to the Restricted Shares as of the date of termination, and such Restricted Shares shall revert to the Company immediately following the event of forfeiture. The Restrictions imposed under this Section 2.1 shall apply to all Shares or other securities issued with respect to Restricted Shares hereunder in connection with any merger, reorganization, consolidation, recapitalization, stock dividend or other change in corporate structure affecting the Shares. 
+
+2.2 Release of Shares from Restrictions. The Shares shall be released from the Restrictions as indicated on the Vesting Schedule. The period prior to such expiration is referred to herein as the “Restricted Period.” 
+
+2.3 No Registration. Advisor understands that (a) the Shares have not been registered with the Securities and Exchange Commission and are being offered and sold in reliance on an exemption from registration pursuant to Section 4(2) of the Securities Act of 1933, as amended (the “1933 Act”), and (b) the Shares have not been registered under state securities laws and are being offered and sold pursuant to exemptions specified in said laws, and unless registered, the Shares may not be re-offered for sale or resold except in a transaction or as a security exempt under those laws and in accordance with the terms and conditions of the limitations set forth in the Company’s Second Amended and Restated Articles of Amendment and Restatement (as may be amended from time to time).
+
+ARTICLE III
+
+  
+
+
+OTHER PROVISIONS
+
+3.1 Adjustment for Certain Transactions. In the event of any stock dividend, stock split, reverse stock split, recapitalization, combination, reclassification, or similar change in the capital structure of Company, the Board shall make such appropriate and equitable adjustments in the Restricted Shares as it deems necessary, in its sole discretion, to prevent dilution or enlargement of rights immediately resulting from such transaction. The provisions of this Agreement shall apply, to the full extent set forth herein with respect to the Shares, to any and all shares of capital stock or other securities, property or cash which may be issued in respect of, in exchange for, or in substitution of the Shares, and shall be appropriately adjusted for any stock dividends, splits, reverse splits, combinations, recapitalizations and the like occurring after the date hereof.
+
+3.2 Taxes. Advisor has reviewed with its own tax advisors the federal, state, local and foreign tax consequences of this investment and the transactions contemplated by this Agreement. Advisor is relying solely on such advisors and not on any statements or representations of Company or any of its agents. Advisor understands that Advisor (and not Company) shall be responsible for Advisor’s own tax liability that may arise as a result of this investment or the transactions contemplated by this Agreement.
+
+  
+
+
+LEGAL02/34849741v3
+
+* * *
+
+  
+
+
+3.3 Restrictive Legends and Stop-Transfer Orders.
+
+(a) The Shares will be registered in the name of the Advisor as of the Effective Date and may be held by the Company during the Restricted Period in certificated or uncertificated form.
+
+(b) Any share certificate(s) evidencing the Shares issued hereunder shall be endorsed with the following legend and any other legend(s) that may be required by any applicable federal or state securities laws:
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO THE TERMS AND CONDITIONS (INCLUDING FORFEITURE AND RESTRICTIONS AGAINST TRANSFER) CONTAINED IN A RESTRICTED STOCK AGREEMENT BETWEEN THE COMPANY AND THE STOCKHOLDER, A COPY OF WHICH IS ON FILE WITH THE SECRETARY OF THE COMPANY. RELEASE FROM SUCH TERMS AND CONDITIONS MAY BE MADE ONLY IN ACCORDANCE WITH THE PROVISIONS OF SUCH AGREEMENT.
+
+(c) If shares of the Company’s common stock are certificated, stock certificates for the Shares, without the first above legend, shall be delivered to Advisor upon request of Advisor after the expiration of the Restricted Period, but delivery may be postponed for such period as may be required for the Company with reasonable diligence to comply, if deemed advisable by the Company, with registration requirements under the 1933 Act, listing requirements under the rules of any stock exchange, and requirements under any other law or regulation applicable to the issuance or transfer of the Shares.
+
+(d) Advisor agrees that, in order to ensure compliance with the Restrictions referred to herein, Company may issue appropriate “stop transfer” instructions to its transfer agent, if any, and that, if Company transfers its own securities, it may make appropriate notations to the same effect in its own records.
+
+(e) Company shall not be required: (i) to transfer on its books any Shares that have been sold or otherwise transferred in violation of any of the provisions of this Agreement, or (ii) to treat as owner of such Shares or to accord the right to vote or pay dividends to any purchaser or other transferee to whom such Shares shall have been so transferred.
+
+3.4 Taxes. Company shall be entitled to require payment of any sums required by federal, state or local tax law to be withheld with respect to the transfer of the Shares or the lapse of the Restrictions with respect to the Shares, or any other taxable event related thereto. Advisor agrees that it will not make an election to be taxed upon grant of the Restricted Shares under Section 83(b) of the Internal Revenue Code. 
+
+3.5 Notices. Any notice to be given under the terms of this Agreement to Company shall be addressed to the Company in care of the Secretary of the Company, and any notice to be given to Advisor shall be addressed to Advisor at the address given beneath Advisor’s signature hereto. By a notice given pursuant to this Section 3.6, either party may hereafter designate a different address for notices to be given to that party. Any notice shall be deemed duly given when sent via email or when sent by certified mail (return receipt requested) and deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service.
+
+3.6 Titles. Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+  
+
+
+LEGAL02/34849741v3
+
+* * *
+
+  
+
+
+3.7 Governing Law; Severability. This Agreement shall be administered, interpreted and enforced under the laws of the State of Delaware without regard to conflicts of laws thereof. Should any provision of this Agreement be determined by a court of law to be illegal or unenforceable, the other provisions shall nevertheless remain effective and shall remain enforceable.
+
+3.8 Authority of Board. The Board will administer the Restricted Shares and may correct any defect, supply any omission or reconcile any inconsistency in this Agreement in the manner and to the extent it deems necessary to carry out its intent in granting the Restricted Shares. The Board’s interpretation of this Agreement and all decisions and determinations by the Board with respect to the Restricted Shares are final, binding, and conclusive on all parties. 
+
+3.9 Amendments. This Agreement may not be modified, amended or terminated except by an instrument in writing, signed by Advisor and by a duly authorized representative of the Company.
+
+3.10 Successors and Assigns. Company may assign any of its rights under this Agreement to single or multiple assignees, and this Agreement shall inure to the benefit of the successors and assigns of Company. Advisor may not assign any of its rights and obligations under this Agreement without the prior written consent of Company. 
+
+  
+
+
+LEGAL02/34849741v3
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties have executed this Restricted Stock Agreement as of the date first written above.  
+  
+Very truly yours,
+
+STEADFAST INCOME REIT, INC.:  
+  
+By:
+
+/s/ Ella S. Neyland  
+  
+Name: Ella S. Neyland Title: President  
+  
+Address:
+
+18100 Von Karman Avenue
+
+Suite 500
+
+Irvine, California 92612  
+  
+STEADFAST INCOME ADVISOR, LLC:  
+  
+By:
+
+/s/ Ana Marie del Rio  
+  
+Name: Ana Marie del Rio   
+Title: Secretary  
+  
+Address:
+
+18100 Von Karman Avenue
+
+Suite 500
+
+Irvine, California 92612  
+  
+  
+
+
+LEGAL02/34849741v3
+
+* * *
+
+  
+
+
+EXHIBIT A
+
+  
+
+
+[PLEASE REFER TO EXHIBIT 10.2 TO THIS CURRENT REPORT ON FORM 8-K]
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+LEGAL02/34849741v3
+
+* * *
+
+  
+
+
+  
+
+
+ANNEX A
+
+  
+
+
+VESTING SCHEDULE  
+  
+Vesting Schedule:
+
+Subject to the terms and conditions of the Restricted Stock Agreement, the Restrictions (as defined in the Restricted Stock Agreement) shall expire on the earliest to occur of the following:  
+  
+(i)
+
+as to the percentages of the Restricted Shares and on the respective dates specified in the following schedule, provided that Advisor remains the advisor providing services to the Company pursuant to the Advisory Agreement on each such date:  
+  
+Vesting Date
+
+Percentage of Shares Vested  
+  
+December 31, 2015
+
+50%  
+  
+December 31, 2016
+
+50%  
+  
+(ii)
+
+as to all of the Restricted Shares upon a Liquidity Event (as defined in the Company’s Second Amended and Restated Articles of Amendment, as may be amended from time to time);  
+  
+(iii)
+
+as to all of the Restricted Shares on the date that the Company’s cumulative modified funds from operations (as defined in the Company’s Annual Report on Form 10-K) since October 13, 2009 exceed the lesser of (1) the cumulative amount of any distributions paid to the Company’s stockholders or (2) an amount that is equal to a 7.0% cumulative, non-compounded, annual return on the Company’s stockholders’ invested capital; and  
+  
+(iv)
+
+as to all of the Restricted Shares upon the Company’s termination of, or failure to renew, the Advisory Agreement other than for “cause” (as defined in the Advisory Agreement).  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+LEGAL02/34849741v3

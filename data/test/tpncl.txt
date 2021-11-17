@@ -1,0 +1,330 @@
+Exhibit 10.1 
+
+
+
+* * *
+
+TABLE OF CONTENTS   
+  
+Page  
+1. Purchase and Sale of Stock 1  
+1.1. Sale and Issuance of Stock 1  
+1.2. Closing; Delivery 2  
+1.3. Defined Terms Used in this Agreement 2  
+2. Representations and Warranties of the Vendor 2  
+2.1. Pass Through Representations 2  
+2.2. Capitalization 2  
+2.3. Authorization 2  
+2.4. Governmental Consents and Filings 2  
+3.1. Organization, Good Standing, Corporate Power and Qualification 4  
+3.2. Authorization 4  
+4. Representations and Warranties of the Purchaser 5  
+4.1. Authorization 5  
+4.2. Purchase Entirely for Own Account 5  
+4.3. Disclosure of Information 5  
+4.4. No Public Market 6  
+5. Covenants of the Vendor 6  
+5.1. Indemnity 6  
+5.2. Limitations 6  
+5.3. Resale Limitation 6  
+6. Covenants of the Seller 7  
+6.1. Indemnity 7  
+6.2. Limitations 7  
+7. Conditions to the Purchasers’ Obligations at Closing 7  
+7.1. Representations and Warranties 7  
+7.2. Performance 8  
+7.3. Compliance Certificate 8  
+7.4. Qualifications 8  
+7.5. Registration Rights Agreement 8  
+7.6. Secretary’s Certificate 8  
+7.7. Proceedings and Documents. 8  
+  
+* * *  
+  
+8\.  Conditions of the Company’s Obligations at Closing 8  
+8.1. Representations and Warranties 8  
+8.2. Performance 8  
+8.3. Qualifications 8  
+8.4. Registration Rights Agreement 8  
+9\.  Miscellaneous 9  
+9.1. Survival of Warranties 9  
+9.2. Successors and Assigns 9  
+9.3. Governing Law 9  
+9.4. Counterparts 9  
+9.5. Titles and Subtitles 9  
+9.6. Notices 9  
+9.7. No Finder’s Fees 9  
+9.8. Fees and Expenses 10  
+9.9. Amendments and Waivers 10  
+9.10. Severability 10  
+9.11. Delays or Omissions 10  
+9.12. Entire Agreement 10  
+9.13. Dispute Resolution 10  
+  
+* * *
+
+STOCK PURCHASE AGREEMENT 
+
+THIS STOCK PURCHASE AGREEMENT (this “Agreement”) is made as of the 31st day of May, 2012 by and among Sunlogics Power Fund, Inc (the “Seller”), DayStar Technologies, Inc., a Delaware corporation (the “Purchaser”), and Ronald Garry Yost (the “Vendor”). 
+
+WHEREAS, the Seller owns all of the issued and outstanding capital stock of Eco Energy Solutions (Australia) Pty Limited, a corporation formed under the laws of Australia (the “Company”); 
+
+WHEREAS, the Seller purchased all of the outstanding equity interest of the Company pursuant to a Share Purchase Agreement dated March 16, 2012 by and among the Purchaser and the Vendor, and such agreement was amended in April 2012, (as amended, the “Eco Share Purchase Agreement”); 
+
+WHEREAS, the Purchaser desires to purchase certain shares of the Company from the Seller; and 
+
+WHEREAS, in exchange for the Shares (as defined below), the Purchaser will issue the DayStar Shares (as defined below) directly to the Vendor and the Vendor will cancel certain obligations owed by the Seller to the Vendor under the Eco Share Purchase Agreement. 
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual agreements contained herein, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+The parties hereby agree as follows: 
+
+1\. Purchase and Sale of Stock. 
+
+1.1. Sale and Issuance of Stock. 
+
+(a) Subject to the terms and conditions of this Agreement, the Purchaser agrees to purchase at the Closing and the Seller agrees to sell to the Purchaser at the Closing (as defined in Section 1.2) ten (10) shares of Common Stock of the Company (the “Common Stock”). The shares of Common Stock purchased pursuant to this Agreement are referred to in this Agreement as the “Shares.” In exchange for the Shares, the Company will issue to the Vendor an aggregate of two hundred eighty-five thousand seven hundred fourteen (285,714) shares of the Purchaser’s common stock, par value $0.01 per share (the “DayStar Shares”) pursuant to written instructions from the Vendor received by the Purchaser at least three (3) U.S. business days’ prior to Closing. In exchange for receipt of the DayStar Shares, the Vendor has agreed that the outstanding principal amount of the Convertible Note Payable by the Seller to the Vendor under the Eco Share Purchase Agreement shall be reduced to $7,200,000 from $8,000,000, and that any interest accrued in respect of the $800,000 reduction in principal shall be deemed fully paid as of the Closing. 
+
+1 
+
+* * *
+
+1.2. Closing; Delivery. The purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at 10:00 a.m., on May 31, 2012, or at such other time and place as the Seller, the Purchaser and the Vendor mutually agree upon, orally or in writing (which time and place are designated as the “Closing”). 
+
+1.3. Defined Terms Used in this Agreement. In addition to the terms defined herein, terms used in this Agreement but not defined shall have the meanings set forth in the Eco Share Purchase Agreement. 
+
+2\. Representations and Warranties of the Vendor. The Vendor represents and warrants to the Purchaser as follows: 
+
+2.1. Pass Through Representations. Each of the representations and warranties made by the Vendor to the Seller under Sections 10 and 11 of the Eco Share Purchase Agreement is hereby made, mutatis mutandis, by the Vendor to the Purchaser hereunder as if set forth herein in its entirety. 
+
+2.2. Capitalization. Immediately prior to the Closing, there are 100 shares of the Company’s Common Stock issued and outstanding. All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws. 
+
+2.3. Authorization. All action required to be taken by such Vendor in order to enter into the Agreements and a Registration Rights Agreement in substantially the form attached hereto as Exhibit A (the “Registration Rights Agreement,” and together with this Agreement, the “Transaction Agreements”), has been taken or will be taken prior to the Closing. All action of such Vendor necessary for the execution and delivery of the Transaction Agreements, the performance of all obligations of such Vendor under the Transaction Agreements to be performed as of the Closing has been taken or will be taken prior to the Closing. The Transaction Agreements, when executed and delivered by the Purchaser and the Seller, shall constitute valid and legally binding obligations of the Vendor, enforceable against such Vendor in accordance with their respective terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application relating to or affecting the enforcement of creditors’ rights generally, or (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies. 
+
+2.4. Governmental Consents and Filings. Assuming the accuracy of the representations made by the Purchaser in Section 4 of this Agreement, no consent, approval, order or authorization of, or registration, qualification, designation, declaration or filing with, any federal, state or local governmental authority is required on the part of the Vendor in connection with the consummation of the transactions contemplated by this Agreement. 
+
+2 
+
+* * *
+
+2.5. Compliance with Other Instruments. The execution and delivery of this Agreement, the consummation of the transactions contemplated by this Agreement and the fulfillment of and compliance with the terms and provisions of this Agreement do not and will not: 
+
+(i) conflict with, result in a breach of, constitute a default under or accelerate or permit the acceleration of the performance required by any agreement, instrument, lease, license, permit or authority to which such Vendor is a party or is subject or by which such Vendor is bound;   
+  
+(ii) result in the creation of any lien, charge or encumbrance or other right in favor of a third party against the Shares;   
+  
+(iii) give to others any material interest or right, including rights of purchase, termination, cancellation or acceleration with respect to the Shares; or   
+  
+(iv) violate any provision of any law, statute or regulation or any judicial, administrative or governmental order, award, judgment, ruling or decree binding on or applicable to such Vendor or the Shares.   
+  
+2.6. Other Proceedings. There is not, and will not be, as of the Closing, any judicial, administrative or governmental action, claim, proceeding, suit or investigation in progress or pending or threatened which may materially affect the value of the Shares or which may affect the ability of such Vendor to consummate the transactions contemplated by this Agreement. 
+
+2.7. Other Conflicts. There are no charges, judgments, orders, writs, decrees or injunctions in existence, contemplated or threatened, against or in respect of the Shares, or which may affect the ability of such Vendor to consummate the transactions contemplated by this Agreement. 
+
+2.8. Accredited Investors. Vendor is an accredited investor as defined in Rule 501(a) of Regulation D promulgated under the Securities Act. 
+
+2.9. No General Solicitation. Neither the Purchaser, nor any of its officers, directors, employees, agents, stockholders or partners has either directly or indirectly, including through a broker or finder (a) engaged in any general solicitation, or (b) published any advertisement in connection with the offer and sale of the Shares. 
+
+2.10. Residence. The Vendor resides in the state or province identified in the address of such Vendor set forth on the signature pages hereto. 
+
+2.11. Purchase Entirely for Own Account. This Agreement is made with the Vendor in reliance upon the Vendor’s representations to the Purchaser, which by the execution of this Agreement, the Vendor hereby confirms, that the DayStar Shares to be acquired by the Vendor will be acquired for investment for such Vendor’s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Vendor 
+
+3 
+
+* * *
+
+has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing this Agreement, the Vendor further represents that such Vendor does not presently have any contract, undertaking, agreement or arrangement with any person to sell, transfer or grant participations to such person or to any third person, with respect to any of the DayStar Shares. The Vendor has not been formed for the specific purpose of acquiring the DayStar Shares. 
+
+2.12. Disclosure of Information. Such Vendor has had an opportunity to discuss the Purchaser’s business, management, financial affairs and the terms and conditions of the offering of the Shares with the Purchaser’s management and has had an opportunity to review the Purchaser’s facilities. 
+
+2.13. Restricted Securities. The Vendor understands that the DayStar Shares have not been registered under the Securities Act, are being issued by reason of a specific exemption from the registration provisions of the Securities Act which depends upon, among other things, the bona fide nature of the investment intent and the accuracy of the Vendor’s representations as expressed herein. The Vendor understands that the DayStar Shares are “restricted securities” under applicable U.S. federal and state securities laws and that, pursuant to these laws, the Vendor must hold the DayStar Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or an exemption from such registration and qualification requirements is available. The Vendor acknowledges that the Purchaser has no obligation to register or qualify the DayStar Shares for resale except as set forth in the Registration Rights Agreement. The Vendor further acknowledges that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the DayStar Shares, and on requirements relating to DayStar which are outside of the Vendor’s control, and which DayStar is under no obligation and may not be able to satisfy. 
+
+3\. Representations and Warranties of the Seller. The Seller hereby represents and warrants to the Purchaser as follows: 
+
+3.1. Organization, Good Standing, Corporate Power and Qualification. The Seller is a corporation duly organized, validly existing and in good standing under the laws of Canada and has all requisite corporate power and authority to carry on its business as presently conducted and as proposed to be conducted. The Seller is duly qualified to transact business and is in good standing in each jurisdiction in which it conducts business. 
+
+3.2. Authorization. All corporate action required to be taken by the Seller’s Board of Directors and stockholders in order to authorize the Seller to enter into the Transaction Agreements has been taken or will be taken prior to the Closing. All action on the part of the officers of the Seller necessary for the execution and delivery of the Transaction Agreements, the performance of all obligations of the Seller under the Transaction Agreements to be performed as of the Closing, and the delivery of the Shares has been taken or will be taken prior to the Closing. The Transaction Agreements, when executed and delivered by the Purchaser and the Vendor, shall constitute valid and legally binding obligations of the Seller, enforceable against the Seller in accordance with their respective terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of 
+
+4 
+
+* * *
+
+general application relating to or affecting the enforcement of creditors’ rights generally, or (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies. 
+
+3.3. Ownership. The Seller is the only legal and beneficial owner of the Shares and the Shares now, and at the Closing will, constitute 100% all of the issued and outstanding shares in the capital of the Company. 
+
+3.4. Title. The Shares are free and clear of all security interests, encumbrances, charges, and other third party rights and interests of every nature and kind including, without limiting the generality of the foregoing, any existing or contingent statutory rights, obligations, liabilities or transfer impediments. 
+
+3.5. Other Equity Interests. There are no outstanding warrants, options, or other rights to acquire the Shares or any portion of the Shares, and without limiting the generality of the foregoing, no person has any option or right (whether at law, pre-emptive, contractual, equitable or otherwise) capable of becoming an agreement to purchase all or any portion of the Shares. 
+
+4\. Representations and Warranties of the Purchaser. The Purchaser hereby represents and warrants to the Seller and the Vendor that: 
+
+4.1. Authorization. The Purchaser has full power and authority to enter into the Transaction Agreements. The Transaction Agreements to which the Purchaser is a party, when executed and delivered by the Purchaser, will constitute valid and legally binding obligations of the Purchaser, enforceable in accordance with their terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, and any other laws of general application affecting enforcement of creditors’ rights generally, and as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies, or (b) to the extent the indemnification provisions contained in the Investors’ Rights Agreement may be limited by applicable federal or state securities laws. 
+
+4.2. Purchase Entirely for Own Account. This Agreement is made with the Purchaser in reliance upon the Purchaser’s representation to the Seller and the Vendor, which by the Purchaser’s execution of this Agreement, the Purchaser hereby confirms, that the Shares to be acquired by the Purchaser will be acquired for investment for the Purchaser’s own account, not as a nominee or agent, and not with a view to the resale or distribution of any part thereof, and that the Purchaser has no present intention of selling, granting any participation in, or otherwise distributing the same. By executing this Agreement, the Purchaser further represents that the Purchaser does not presently have any contract, undertaking, agreement or arrangement with any Person to sell, transfer or grant participations to such Person or to any third Person, with respect to any of the Shares. The Purchaser has not been formed for the specific purpose of acquiring the Shares. 
+
+4.3. Disclosure of Information. The Purchaser has had an opportunity to discuss the Company’s business, management, financial affairs and the terms and conditions of the offering of the Shares with the Company’s management and has had an opportunity to review 
+
+5 
+
+* * *
+
+the Company’s facilities. The foregoing, however, does not limit or modify the representations and warranties of the Company in Section 2 of this Agreement or the right of the Purchaser to rely thereon. 
+
+4.4. No Public Market. The Purchaser understands that no public market now exists for the Shares, and that the Company has made no assurances that a public market will ever exist for the Shares. 
+
+5\. Covenants of the Vendor. The Vendor agrees as follows: 
+
+5.1. Indemnity. The Vendor agrees to indemnify the Purchaser against: 
+
+(i) any and all claims, actions, causes of action, liabilities, losses, damages, costs, charges, expenses, legal fees and disbursements (on a solicitor and his own client basis), fines and penalties which the Purchaser may suffer, incur, or be liable for, directly, or indirectly, in consequence of a breach of any of the representations and warranties of such Vendor contained, or incorporated, in Section 2;   
+  
+(ii) any claims, liabilities, and actions, causes of action, liabilities, losses, damages, costs, charges, expenses, legal fees and disbursements (on a solicitor and his own client basis), fines, or penalties arising from actions of such Vendor at any time prior to the Closing and which are imposed upon the Purchaser under or by virtue of the laws of any jurisdiction;   
+  
+(iii) Indemnification procedure: If any matter or thing shall be claimed against any person in respect of which indemnity is provided herein, such person (the indemnified party) will notify in writing the person who provided the indemnity (the indemnifying party)or the nature of the claim. Further the indemnified party shall give prompt written notice to the indemnifying party of any written or oral notice or inquiry, notice of assessment, or notice of reassessment received from a taxing authority and relating to a matter that may give rise to a claim for indemnity under this clause;   
+  
+(iv) The amount of any indemnification due for tax claims pursuant to this section shall be net of the present value of any tax benefits resulting from the reassessment and any such claim for indemnity, and include the amount necessary to hold the indemnified party harmless after tax.   
+  
+5.2. Limitations. The indemnities contained in Section 5.1 shall survive the Closing and remain in full force and effect after the Closing for a period of one year. 
+
+5.3. Resale Limitation. The Vendor hereby agree, that without the prior written consent of the Purchaser for a period of six (6) months after the date hereof , the Vendor will not sell any of the DayStar Shares and thereafter will be subject to the limitations on resale set forth in Exhibit A. For purposes of this Section 4 and Exhibit A, “sell” shall mean any sale, directly or indirectly of the DayStar Shares or any interest in the DayStar Shares, and shall 
+
+6 
+
+* * *
+
+include any sale of securities that would be deemed a sale of the DayStar Shares if the DayStar Shares were held by a person subject to Section 16 of the Securities Exchange Act of 1934, and shall include the establishment of a put equivalent position (as defined in Rule 16a-l of the Rules promulgated under the Exchange Act) with respect to the DayStar Shares. 
+
+6\. Covenants of the Seller. The Seller agrees as follows: 
+
+6.1. Indemnity. The Seller severally agrees to indemnify the Purchaser against: 
+
+(i) any and all claims, actions, causes of action, liabilities, losses, damages, costs, charges, expenses, legal fees and disbursements (on a solicitor and his own client basis), fines and penalties which the Purchaser may suffer, incur, or be liable for, directly, or indirectly, in consequence of a breach of any of the representations and warranties of the Seller contained in Section 3;   
+  
+(ii) any claims, liabilities, and actions, causes of action, liabilities, losses, damages, costs, charges, expenses, legal fees and disbursements (on a solicitor and his own client basis), fines, or penalties arising from actions of the Seller at any time prior to the Closing and which are imposed upon the Purchaser under or by virtue of the laws of any jurisdiction;   
+  
+(iii) Indemnification procedure: If any matter or thing shall be claimed against any person in respect of which indemnity is provided herein, such person (the indemnified party) will notify in writing the person who provided the indemnity (the indemnifying party)or the nature of the claim. Further the indemnified party shall give prompt written notice to the indemnifying party of any written or oral notice or inquiry, notice of assessment, or notice of reassessment received from a taxing authority and relating to a matter that may give rise to a claim for indemnity under this clause;   
+  
+(iv) The amount of any indemnification due for tax claims pursuant to this section shall be net of the present value of any tax benefits resulting from the reassessment and any such claim for indemnity, and include the amount necessary to hold the indemnified party harmless after tax.   
+  
+6.2. Limitations. The indemnities contained in Section 6.1 shall survive the Closing and remain in full force and effect after the Closing for a period of one year. 
+
+7\. Conditions to the Purchasers’ Obligations at Closing. The obligations of the Purchaser to purchase Shares at the Closing are subject to the fulfillment, on or before such Closing, of each of the following conditions, unless otherwise waived: 
+
+7.1. Representations and Warranties. The representations and warranties of the Vendor and the Sellers contained in Section 2 and Section 3 shall be true and correct in all respects as of such Closing. 
+
+7 
+
+* * *
+
+7.2. Performance. The Vendor and the Sellers shall have performed and complied with all covenants, agreements, obligations and conditions contained in this Agreement that are required to be performed or complied with by the Vendor and the Sellers on or before such Closing. 
+
+7.3. Compliance Certificate. The President of the Seller shall deliver to the Purchasers at such Closing a certificate certifying that the conditions specified in Subsections 7.1 and 7.2 have been fulfilled. 
+
+7.4. Qualifications. All authorizations, approvals or permits, if any, of any governmental authority or regulatory body of Australia or the United States or of any state that are required in connection with the lawful issuance and sale of the Shares pursuant to this Agreement shall be obtained and effective as of the Closing. 
+
+7.5. Registration Rights Agreement. The Vendor and the Purchaser shall have executed and delivered the Registration Rights Agreement. 
+
+7.6. Secretary’s Certificate. The Secretary of the Seller shall have delivered to the Purchaser at the Closing a certificate certifying (i) the Bylaws of the Company, and (ii) resolutions of the Board of Directors of the Company approving the Transaction Agreements and the transactions contemplated under the Transaction Agreements. 
+
+7.7. Proceedings and Documents. All corporate and other proceedings in connection with the transactions contemplated at the Closing and all documents incident thereto shall be reasonably satisfactory in form and substance to the Purchaser, and the Purchaser (or its counsel) shall have received all such counterpart original and certified or other copies of such documents as reasonably requested. Such documents may include good standing certificates. 
+
+8\. Conditions of the Company’s Obligations at Closing. The obligations of the Seller to sell the Shares to the Purchaser at the Closing are subject to the fulfillment, on or before the Closing, of each of the following conditions, unless otherwise waived: 
+
+8.1. Representations and Warranties. The representations and warranties of the Purchaser contained in Section 4 shall be true and correct in all respects as of such Closing. 
+
+8.2. Performance. The Purchaser shall have performed and complied with all covenants, agreements, obligations and conditions contained in this Agreement that are required to be performed or complied with by them on or before such Closing. 
+
+8.3. Qualifications. All authorizations, approvals or permits, if any, of any governmental authority or regulatory body of the United States or of any state that are required in connection with the lawful issuance and sale of the Shares pursuant to this Agreement shall be obtained and effective as of the Closing. 
+
+8.4. Registration Rights Agreement. The Vendor and the Purchaser shall have executed and delivered the Registration Rights Agreement. 
+
+8 
+
+* * *
+
+9\. Miscellaneous. 
+
+9.1. Survival of Warranties. Unless otherwise set forth in this Agreement, the representations and warranties of the Seller, the Vendor and the Purchaser contained in or made pursuant to this Agreement shall survive the execution and delivery of this Agreement and the Closing and shall in no way be affected by any investigation or knowledge of the subject matter thereof made by or on behalf of the Purchasers or the Company. The covenants of the parties set forth or referred to in Section 7 shall survive the Closing. 
+
+9.2. Successors and Assigns. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement. 
+
+9.3. Governing Law. This Agreement shall be governed by the internal law of the State of Delaware. 
+
+9.4. Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Counterparts may be delivered via facsimile, electronic mail (including pdf) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes. 
+
+9.5. Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
+
+9.6. Notices. All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt or: (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. All communications shall be sent to the respective parties at their address as set forth on the signature page or to such e-mail address, facsimile number or address as subsequently modified by written notice given in accordance with this Subsection 9.6. If notice is given to the Company, a copy shall also be sent to [Seller Counsel Name and Address] and if notice is given to the Purchasers, a copy shall also be given to Stephen T. Adams, Greenberg Traurig, LLP, One International Place, Boston, MA 02110. 
+
+9.7. No Finder’s Fees. Each party represents that it neither is nor will be obligated for any finder’s fee or commission in connection with this transaction. The Purchaser agrees to indemnify and to hold harmless the Company and the Founder from any liability for 
+
+9 
+
+* * *
+
+any commission or compensation in the nature of a finder’s or broker’s fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Purchaser or any of its officers, employees, or representatives is responsible. The Founder agrees to indemnify and hold harmless the Purchaser from any liability for any commission or compensation in the nature of a finder’s or broker’s fee arising out of this transaction (and the costs and expenses of defending against such liability or asserted liability) for which the Company or any of its officers, employees or representatives is responsible. 
+
+9.8. Fees and Expenses. The Purchaser, on the one hand, and the Founder, on behalf of the Founder and the Company, on the other hand, shall each pay their own fees and expenses in connection with the negotiation, documentation and consummation of the transactions contemplated hereby. 
+
+9.9. Amendments and Waivers. Any term of this Agreement may be amended, terminated or waived only with the written consent of the Company, the Founder and the Purchaser. Any amendment or waiver effected in accordance with this Subsection 8.9 shall be binding upon the Purchaser and each transferee of the Shares each future holder of all such securities, and the Company. 
+
+9.10. Severability. The invalidity or unenforceability of any provision hereof shall in no way affect the validity or enforceability of any other provision. 
+
+9.11. Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, shall impair any such right, power or remedy of such non-breaching or non-defaulting party nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement or by law or otherwise afforded to any party, shall be cumulative and not alternative. 
+
+9.12. Entire Agreement. This Agreement (including the Exhibits hereto and the other Transaction Agreements constitute the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties are expressly canceled. 
+
+9.13. Dispute Resolution. The parties (a) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts of Delaware and to the jurisdiction of the United States District Court for the District of Delaware for the purpose of any suit, action or other proceeding arising out of or based upon this Agreement, (b) agree not to commence any suit, action or other proceeding arising out of or based upon this Agreement except in the state courts of Delaware or the United States District Court for the District of Delaware, and (c) 
+
+10 
+
+* * *
+
+hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or the subject matter hereof may not be enforced in or by such court. 
+
+WAIVER OF JURY TRIAL: EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT, THE OTHER TRANSACTION DOCUMENTS, THE SECURITIES OR THE SUBJECT MATTER HEREOF OR THEREOF. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS. EACH PARTY HERETO HEREBY FURTHER WARRANTS AND REPRESENTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL. 
+
+11 
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Stock Purchase Agreement as of the date first written above.   
+  
+SELLER:  
+SUNLOGICS POWER FUND  
+  
+By:
+
+/s/ Michael Matvieshen  
+  
+i 
+
+* * *  
+  
+PURCHASER:  
+DAYSTAR TECHNOLOGIES, INC.  
+By:
+
+/s/ Peter Lacey  
+  
+Name: Peter Lacey  
+(print)  
+Title: Interim President and CEO  
+VENDOR:  
+  
+/s/ Ronald Garry Yost  
+  
+Ronald Garry Yost  
+  
+* * *
+
+EXHIBIT A 
+
+[Registration Rights Agreement] 
+
+* * *
+
+EXHIBIT B 
+
+The Vendor will not sell any DayStar Shares if such sale would cause the amount of DayStar Shares sold within the preceding 90 calendar day period to exceed one percent (1%) of the total reported volume of trading in the common stock of the Company in the same preceding 90 calendar day period; provided, however, that notwithstanding the foregoing, the Vendor may sell up to 71,429 DayStar Shares (as may be adjusted for stock splits and similar actions) in each of the four consecutive, non-overlapping 90 day periods following the expiration of the six month prohibition on resales set forth in Section 5 of the Agreement. 

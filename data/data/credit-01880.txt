@@ -1,0 +1,190 @@
+Exhibit 10.1 
+
+
+
+Loan Agreement 
+
+between 
+
+Beijing AmazGame Age Internet Technology Co., Ltd. 
+
+and 
+
+Beijing Sohu New Media Information Technology Co., Ltd. 
+
+* * *
+
+LOAN AGREEMENT 
+
+This Loan Agreement (this “Agreement”) is made in the People’s Republic of China (the “PRC” or “China”) as of October 24, 2016 
+
+BETWEEN: 
+
+(1) Beijing AmazGame Age Internet Technology Co., Ltd., a limited liability company established and validly existing under the laws of the PRC, with its registered address at Room 1210, Building 3, No.3 Xijing Road, Badachu High-Tech Park, Shijingshan District, Beijing (the “Lender”); and   
+  
+(2) Beijing Sohu New Media Information Technology Co., Ltd., a limited liability company established and validly existing under the laws of the PRC, with its registered address at Suite 802, 8/F, SOHU.com Internet Plaza, Building 9, No.1 Park, Zhongguancun East Road, Haidian District, Beijing (the “Borrower”).   
+  
+Each of the Lender and the Borrower may hereinafter be referred to collectively as the “Parties” and individually as a “Party.” 
+
+Article 1 Loan 
+
+1.1 Loan Amount and Purpose of Loan Proceeds  
+  
+On the terms and subject to the conditions of this Agreement, the Lender agrees to grant a loan facility to the Borrower in an aggregate amount up to One Billion Renminbi (RMB 1,000,000,000.00), for the purpose of financing the working capital requirements of the Borrower and its affiliates (the “Loan”). 
+
+2 
+
+* * *
+
+1.2 Term of Loan  
+  
+The Borrower shall make the initial utilization from the date of this Agreement to 31 December 2016. The Loan hereunder shall have a term of one (1) year commencing on the date of the Borrower’s initial utilization of the Loan hereunder, and may be extended for an additional period of one (1) year by the written consent of the Lender at the written request of the Borrower therefor. During such term of the Loan, the Borrower may utilize the Loan in separate drawdowns. The term for each drawdown of the Loan made hereunder is one (1) year, which will start from the drawdown date of such Loan and may be extended for one (1) year by the written consent of the Lender at the written request of the Borrower therefor (the “Term of the Loan”). The request for extension of the Term of the Loan shall be submitted by the Borrower no later than one month before the expiry of the term of such Loan 
+
+1.3 Drawdown  
+  
+1.3.1 Subject to the satisfaction of the conditions set out in Article 1.3.2, the Loan may be utilized by the Borrower in separate drawdowns. The Borrower shall submit to the Lender a drawdown request in writing prior to each proposed drawdown of the Loan, specifying the amount to be utilized and the details of the account which the loan proceeds will be credited to. Within ten (10) business days after receipt of such written request from the Borrower, the Lender shall advance the Loan to the Borrower in the amount and to the account as specified in such written request.   
+  
+1.3.2 The conditions for utilization of each Loan hereunder include:   
+  
+(i) the representations made by the Borrower in Article 2 are true, accurate and complete; and 
+
+(ii) the Pledge Agreement referred to in Article 1.5.5 has been executed and entered into effect. 
+
+3 
+
+* * *
+
+1.4 Interest  
+  
+The Borrower shall pay to the Lender accrued interest on the Loan at the fixed rate of 6% per annum based on a year of 360 days. Interest on the Loan shall accrue annually from the date of each drawdown and be payable on each anniversary of the drawdown date for the Loan hereunder (or if not a business day, the next business day). The amount of interest shall be calculated in accordance with the following formula: 
+
+Interest = the outstanding principal amount of the Loan × the actual number of days the principal of the Loan is outstanding × (interest rate / 360 days) 
+
+1.5 Repayment and Prepayment  
+  
+1.5.1 To the extent that the Loan is not accelerated or prepaid in accordance with the other provisions of this Article, the Borrower shall repay the then outstanding principal of the Loan, together with any accrued interest due and payable thereon on the expiry date of the Term of the Loan (“Maturity Date”).   
+  
+1.5.2 The Borrower may, if it gives the Lender a written request for prepayment prior to the Maturity Date and such request is approved by the Lender in writing, prepay the whole or any part of the principal amount of the Loan, together with all accrued interest on the principal amount being prepaid. The written request for prepayment shall be submitted by the Borrower no later than one (1) month before the Maturity Date.   
+  
+1.5.3 In the case of the occurrence of any of the following events (each an “Event of Default”):   
+  
+(i) the Borrower fails to pay the principal of any Loan or interest thereon as and when due and payable;   
+  
+(ii) the Borrower: (a) is insolvent or becomes unable to pay its debts when due; (b) declares its inability to pay its debts when due; or (c) becomes subject to bankruptcy, liquidation or restructuring proceedings;   
+  
+4 
+
+* * *
+
+(iii) the Borrower ceases to carry on its business; or   
+  
+(iv) in the opinion of the Lender, there is a material adverse change in the assets, business, commitments or prospects of the Borrower,   
+  
+then, the Lender may, in its discretion, declare the occurrence of an Event of Default, cancel further disbursements of any amount of the Loan, and demand full repayment of the Loan from the Borrower whereupon all of the outstanding principal of the Loan and any accrued interest thereon shall be forthwith due and payable in full. 
+
+1.5.4 No fees or penalties shall be charged by the Lender on any prepayment made hereunder.   
+  
+1.5.5 Changyou.com Limited as the pledgee (“Changyou”) and Sohu.com (Game) Limited as the pledgor (“Sohu”) enter into a share pledge agreement with respect to the shares of Changyou held by Sohu on the date hereof (the “Pledge Agreement”). If any Event of Default occurs, the Lender will have the right to instruct Changyou to enforce the pledge created under the Pledge Agreement and to acquire the shares of Changyou held by Sohu in the amount equal to the outstanding principal and interest of the Loan (the “Transferred Shares”). After Changyou acquires the Transferred Shares, the principal and interest of the Loan owed by the Borrower to the Lender in the amount equal to the value of the Transferred Shares shall be discharged. For the purpose of this Article 1.5.5, the price per share of the Transferred Shares shall be calculated at the lesser of (1) the average of the closing prices of Changyou stocks over 30 trading days prior to the date of execution of the Pledge Agreement or (2) the average of the closing prices of Changyou stocks over 30 trading days prior to the date of the occurrence of the Event of Default. For the avoidance of doubt, the exchange rate of Reminbi to US Dollar shall be the mid-rate of Reminbi to US Dollar published by the People’s Bank of China on the date of the occurrence of the Event of Default. For the avoidance of doubt, the Lender is entitled to (but not obliged to) exercise the rights under this Article 1.5.5.   
+  
+5 
+
+* * *
+
+Article 2 Representations and Warranties 
+
+The Borrower represents and warrants to the Lender as follows, which representations and warranties shall be deemed to be repeated on each drawdown date: 
+
+2.1 Corporate Status and Power  
+  
+The Borrower is a company duly organized, validly existing and in good standing under the laws of the PRC. The Borrower has full corporate power, authority and legal rights to execute, deliver and perform this Agreement. 
+
+2.2 Corporate Authorization  
+  
+The execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate action on the part of the Borrower. 
+
+2.3 No Conflict  
+  
+The execution, delivery and performance by it of this Agreement do not conflict with: 
+
+(i) its constitutional documents or any agreement, instrument or understanding binding upon it; 
+
+(ii) any third party rights; or 
+
+(iii) any law or regulation applicable to it. 
+
+2.4 Compliance with Law  
+  
+The Borrower is in compliance in material respects with all applicable laws of the PRC. 
+
+6 
+
+* * *
+
+2.5 Books and Records  
+  
+All the books and records of the Borrower have been completely, adequately and accurately kept, and there are no material discrepancies or inaccuracies contained therein. 
+
+2.6 Litigation  
+  
+There is no material litigation initiated against the Borrower. 
+
+2.7 Material Adverse Change  
+  
+There is no material adverse change in its assets, business, commitments or prospects. 
+
+Article 3 Miscellaneous 
+
+3.1 Governing Law  
+  
+This Agreement shall be governed by and construed in accordance with the laws of the PRC. 
+
+3.2 Records  
+  
+The accounting records maintained by the Lender as to the Borrower’s indebtedness hereunder shall constitute, in the absence of manifest error, conclusive evidence of the indebtedness of the Borrower hereunder. 
+
+3.3 Dispute Resolution  
+  
+Any dispute arising out of or in connection with this Agreement shall be settled by the Parties through amicable negotiation. If the Parties fail to settle the dispute through such negotiation within thirty (30) calendar days of delivery by a Party of the written notice to the other Party of such dispute, the dispute shall be submitted to arbitration by the China International Economic and Trade Arbitration Commission (the “Arbitration Commission”) in Beijing, in accordance with the Arbitration Rules of the Arbitration Commission in effect. The arbitration shall be conducted in Chinese. The arbitration award of the Arbitration Commission shall be final and shall be binding on both Parties. Each Party agrees to be bound by and carry out such arbitration award. 
+
+7 
+
+* * *
+
+3.4 Counterparts  
+  
+This Agreement may be executed in four counterparts, with each Party holding two copies, each of which shall have equal legal effect. 
+
+3.5 Language  
+  
+This Agreement is made in Chinese. 
+
+3.6 Effectiveness  
+  
+This Agreement shall take effect when it is duly executed by the authorized representative of each Party and affixed with the company seal of each Party. 
+
+8 
+
+* * *
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed by their respective duly authorized representatives as of the date first written above. 
+
+Lender: Beijing AmazGame Age Internet Technology Co., Ltd. (Company Seal)   
+  
+By:
+
+/s/ Dewen Chen  
+  
+Name: Dewen Chen  
+Title: Chief Executive Officer  
+  
+Borrower: Beijing Sohu New Media Information Technology Co., Ltd. (Company Seal)   
+  
+By:
+
+/s/ Charles Zhang  
+  
+Name: Charles Zhang  
+  
+Title: Chairman and Chief Executive Officer  
+  
+9 

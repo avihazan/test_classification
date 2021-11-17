@@ -1,0 +1,231 @@
+Exhibit 10.19 
+
+NON-EMPLOYEE BOARD MEMBER 
+
+GILEAD SCIENCES, INC. 
+
+
+
+RECITALS 
+
+A. Optionee is to render valuable services to the Corporation as a non-employee Director, and this Agreement is executed pursuant to, and is intended to carry out the purposes of, the Plan in connection with the Corporation’s grant of an option to Optionee in his or her capacity as a non-employee Director. 
+
+B. All capitalized terms in this Agreement shall have the meaning assigned to them in the attached Appendix. 
+
+NOW, THEREFORE, the Corporation hereby grants an option to Optionee upon the following terms and conditions: 
+
+1\. Grant of Option. The Corporation hereby grants to Optionee, as of the Grant Date, an option to purchase the Option Shares under the Plan. The number of Option Shares purchasable under the option, the applicable vesting schedule for the option, the exercise price per share and the remaining terms and conditions governing the option shall be as set forth in this Agreement. 
+
+AWARD SUMMARY   
+  
+Optionee:
+
+«FIRST_NAME» «MIDDLE_NAME» «LAST_NAME»  
+Grant Date: «OPTION_DATE»  
+Exercise Price: «OPTION_PRICE» per share  
+Number of Option Shares: «SHARES_GRANTED» shares of Common Stock  
+Expiration Date: «EXPIRATION_DATE_PERIOD_1»*  
+Type of Option: Non-Statutory Stock Option  
+Exercise Schedule: The option will vest and become exercisable for the Option Shares in four (4) successive equal quarterly installments upon Optionee’s completion of each quarter of Continuous Service over the one (1) year period measured from the Grant Date.  
+  
+* The option will in no event remain exercisable beyond the close of business on the last business day immediately prior to the Expiration Date. 
+
+1 
+
+* * *
+
+2\. Option Term. The term of this option shall commence on the Grant Date and continue to be in effect until the close of business on the last business day prior to the Expiration Date, unless sooner terminated in accordance with Paragraph 5 or 6 below. 
+
+3\. Limited Transferability. The following provisions shall govern the transferability of this option: 
+
+(a) This option may be assigned in whole or in part during Optionee’s lifetime to one or more members of Optionee’s Immediate Family or to a trust established for the Optionee and/or one or more Immediate Family members, provided such assignment constitutes a gratuitous transfer by the Optionee for which no consideration is directly or indirectly received. The assigned portion may only be exercised by the person who acquires a proprietary interest in the option pursuant to the assignment. The terms applicable to the assigned portion shall be the same as those in effect for the option immediately prior to such assignment and shall be set forth in such documents to be executed by the Optionee and the assignee as the Corporation may deem appropriate. 
+
+(b) Optionee may also designate one or more persons as the beneficiary or beneficiaries of this option. Should Optionee die while holding this option, then the option shall, in accordance with such designation, be automatically transferred to such beneficiary or beneficiaries upon the Optionee’s death. Such beneficiary or beneficiaries shall take the transferred option subject to all the terms and conditions of this Agreement, including (without limitation) the limited time period during which this option may, pursuant to Paragraph 5 below, be exercised following Optionee’s death. 
+
+4\. Dates of Exercise. This option shall become exercisable for the Option Shares in a series of installments over Optionee’s period of Continuous Service in accordance with the Exercise Schedule set forth in Paragraph 1 above. As the option becomes exercisable for such installments, those installments shall accumulate, and the option shall remain exercisable for the accumulated installments until (i) the close of business on the last business day prior to the Expiration Date or (ii) the sooner termination of the option term under Paragraph 5 or 6 below. 
+
+5\. Cessation of Service. The option term specified in Paragraph 2 above shall terminate (and this option shall cease to be outstanding) prior to the Expiration Date should any of the following provisions become applicable: 
+
+(a) Except as otherwise expressly provided in subparagraphs (b) through (d) of this Paragraph 5, should Optionee cease to remain in Continuous Service for any reason while this option is outstanding, then Optionee shall have until the close of business on the last business day prior to the expiration of the three-(3) year period measured from the date of such cessation of Continuous Service during which to exercise this option for any or all of the Option Shares for which this option is at the time vested and exercisable, but in no event shall this option be exercisable at any time after the close of business on the last business day prior to the Expiration Date. 
+
+* * *
+
+(b) Should Optionee’s Continuous Service terminate by reason of his or her death while this option is outstanding, then this option may be exercised for any or all of the Option Shares at the time subject to this option by (i) the personal representative of Optionee’s estate, (ii) the person or persons to whom the option is transferred pursuant to Optionee’s will or the laws of inheritance following Optionee’s death or (iii) the person or persons to whom this option is transferred during Optionee’s lifetime pursuant to a permitted transfer under Paragraph 3(a) above, as the case may be. However, if Optionee dies while holding this option and has an effective beneficiary designation in effect for this option at the time of his or her death, then the designated beneficiary or beneficiaries shall have the exclusive right to exercise this option following Optionee’s death. Any such right to exercise this option shall lapse, and this option shall cease to be outstanding, upon the close of business on the last business day prior to the earlier of (i) the expiration of the three-(3) year period measured from the date of Optionee’s death or (ii) the Expiration Date. Upon the expiration of such limited exercise period, this option shall terminate and cease to be outstanding for any exercisable Option Shares for which the option has not otherwise been exercised. 
+
+(c) The applicable period of post-service exercisability in effect pursuant to the foregoing provisions of this Paragraph 5 shall automatically be extended by an additional period of time equal in duration to any interval within such post-service exercise period during which the exercise of this option or the immediate sale of the Option Shares acquired under this option cannot be effected in compliance with applicable federal and state securities laws, but in no event shall such an extension result in the continuation of this option beyond the close of business on the last business day prior to the Expiration Date. 
+
+(d) Should Optionee’s Continuous Service be terminated for Cause, or should Optionee engage in any other conduct, while in such service or following cessation of Continuous Service, that is materially detrimental to the business or affairs of the Corporation (or any Related Entity), as determined in the sole discretion of the Administrator, then this option shall terminate immediately and cease to be outstanding. 
+
+(e) For purposes of the foregoing provisions of this Paragraph 5, Optionee shall not be deemed to cease Continuous Service if Optionee continues to serve the Corporation as a Director Emeritus immediately following his or her cessation of service as a Board member without an intervening break in Continuous Service. 
+
+6\. Change in Control. 
+
+(a) Should Optionee remain in Continuous Service until the effective date of a Change in Control, then this option, to the extent outstanding at the time but not otherwise fully exercisable, shall automatically accelerate so that this option shall, immediately prior to the effective date of such Change in Control, become exercisable for all of the Option Shares at the time subject to this option and may be exercised for any or all of those Option Shares as fully vested shares of Common Stock. 
+
+* * *
+
+(b) Immediately following the consummation of a Change in Control transaction, this option shall terminate and cease to be outstanding, except to the extent assumed by the successor corporation (or parent thereof) or otherwise continued in effect pursuant to the terms of the Change in Control transaction. 
+
+(c) If this option is assumed in connection with a Change in Control or otherwise continued in effect, then this option shall be appropriately adjusted, immediately after such Change in Control, to apply to the number and class of securities into which the shares of Common Stock subject to this option would have been converted in consummation of such Change in Control had those shares actually been outstanding at the time. Appropriate adjustments shall also be made to the Exercise Price, provided the aggregate Exercise Price shall remain the same. To the extent the actual holders of the Corporation’s outstanding Common Stock receive cash consideration for their Common Stock in consummation of the Change in Control, the successor corporation may, in connection with the assumption or continuation of this option but subject to the Administrator’s approval, substitute one or more shares of its own common stock with a fair market value equivalent to the cash consideration paid per share of Common Stock in such Change in Control, provided such common stock is readily tradable on an established U.S. securities exchange or market. 
+
+(d) This Agreement shall not in any way affect the right of the Corporation to adjust, reclassify, reorganize or otherwise change its capital or business structure or to merge, consolidate, dissolve, liquidate or sell or transfer all or any part of its business or assets. 
+
+7\. Adjustment in Option Shares. Should any change be made to the Common Stock by reason of any stock split, stock dividend, recapitalization, combination of shares, exchange of shares, spin-off transaction, or other change affecting the outstanding Common Stock as a class without the Corporation’s receipt of consideration, or should the value of outstanding shares of Common Stock be substantially reduced as a result of a spin-off transaction or an extraordinary dividend or distribution, or should there occur any merger, consolidation or other reorganization, then equitable and proportional adjustments shall be made by the Administrator to (i) the total number and/or class of securities subject to this option and (ii) the Exercise Price. The adjustments shall be made in such manner as the Administrator deems appropriate in order to reflect such change, and those adjustments shall be final, binding and conclusive upon Optionee and any other person or persons having an interest in the option. In the event of any Change in Control transaction, the adjustment provisions of Paragraph 6(c) above shall be controlling. 
+
+8\. Stockholder Rights. The holder of this option shall not have any stockholder rights with respect to the Option Shares until such person shall have exercised the option, paid the Exercise Price and become a holder of record of the purchased shares. 
+
+* * *
+
+9\. Manner of Exercising Option. 
+
+(a) In order to exercise this option with respect to all or any portion of the Option Shares for which this option is at the time vested and exercisable, Optionee (or any other person or persons exercising the option) must take the following actions: 
+
+(i) Execute and deliver to the Corporation a Notice of Exercise as to the Option Shares for which the option is exercised or comply with such other procedures as the Corporation may establish for notifying the Corporation, directly or through a brokerage firm authorized by the Corporation to effect option exercises, of the exercise of this option for one or more Option Shares. The applicable Notice of Exercise may be obtained upon request through stockadministration@gilead.com or by telephoning Stock Administration at 650-522-5517. 
+
+(ii) Pay the aggregate Exercise Price for the purchased shares in one or more of the following forms: 
+
+(A) cash or check made payable to the Corporation; or 
+
+(B) through a special sale and remittance procedure pursuant to which Optionee (or any other person or persons exercising the option) shall concurrently provide irrevocable instructions (i) to a brokerage firm (reasonably satisfactory to the Corporation for purposes of administering such procedure in accordance with the Corporation’s pre-clearance/pre-notification policies) to effect the immediate sale of all or a sufficient portion of the purchased shares so that such brokerage firm can remit to the Corporation, on the settlement date, sufficient funds out of the resulting sale proceeds to cover the aggregate Exercise Price payable for all the purchased shares plus all applicable Withholding Taxes and (ii) to the Corporation to deliver the certificates for the purchased shares directly to such brokerage firm on such settlement date. 
+
+Except to the extent the sale and remittance procedure is utilized in connection with the option exercise, payment of the Exercise Price must accompany the Notice of Exercise (or other notification procedure) delivered to the Corporation in connection with the option exercise. 
+
+(iii) Furnish to the Corporation appropriate documentation that the person or persons exercising the option (if other than Optionee) have the right to exercise this option. 
+
+(iv) Make appropriate arrangements with the Corporation (or Parent or Subsidiary employing or retaining Optionee) for the satisfaction of all applicable Withholding Taxes. 
+
+* * *
+
+(b) As soon as practical after the Exercise Date, the Corporation shall issue to or on behalf of Optionee (or any other person or persons exercising this option) a certificate for the purchased Option Shares (either in paper or electronic form), with the appropriate legends affixed thereto. 
+
+(c) In no event may this option be exercised for any fractional shares. 
+
+10\. Compliance with Laws and Regulations. 
+
+(a) The exercise of this option and the issuance of the Option Shares upon such exercise shall be subject to compliance by the Corporation and Optionee with all Applicable Laws relating thereto. 
+
+(b) The inability of the Corporation to obtain approval from any regulatory body having authority deemed by the Corporation to be necessary to the lawful issuance and sale of any Common Stock pursuant to this option shall relieve the Corporation of any liability with respect to the non-issuance or sale of the Common Stock as to which such approval shall not have been obtained. The Corporation, however, shall use its best efforts to obtain all such approvals. 
+
+11\. Successors and Assigns. Except to the extent otherwise provided in Paragraphs 3 and 6 above, the provisions of this Agreement shall inure to the benefit of and be binding upon the Corporation and its successors and assigns and Optionee, Optionee’s assigns, the legal representatives, heirs and legatees of Optionee’s estate and any beneficiaries of this option designated by Optionee. 
+
+12\. Notices. Any notice required to be given or delivered to the Corporation under the terms of this Agreement shall be in writing and addressed to the Corporation at its principal corporate offices. Any notice required to be given or delivered to Optionee shall be in writing and addressed to Optionee at the most current address then indicated for Optionee on the Corporation’s records or shall be delivered electronically to Optionee through the Corporation’s electronic mail system. All notices shall be deemed effective upon personal delivery or electronic delivery as specified above or upon deposit in the U.S. mail, postage prepaid and properly addressed to the party to be notified. 
+
+13\. Construction. This Agreement and the option evidenced hereby are made and granted pursuant to the Plan and are in all respects limited by and subject to the terms of the Plan. In the event of any conflict between the provisions of this Agreement and the terms of the Plan, the terms of the Plan shall be controlling. All decisions of the Administrator with respect to any question or issue arising under the Plan or this Agreement shall be conclusive and binding on all persons having an interest in this option. 
+
+14\. Governing Law. The interpretation, performance and enforcement of this Agreement shall be governed by the laws of the State of California without resort to California’s conflict-of-laws rules. 
+
+* * *
+
+15\. Excess Shares. If the Option Shares covered by this Agreement exceed, as of the Grant Date, the number of shares of Common Stock which may without stockholder approval be issued under the Plan, then this option shall be void with respect to those excess shares, unless stockholder approval of an amendment sufficiently increasing the number of shares of Common Stock issuable under the Plan is obtained in accordance with the provisions of the Plan. In no event shall the option be exercisable with respect to any of the excess Option Shares unless and until such stockholder approval is obtained. 
+
+16\. No Impairment of Rights. This Agreement shall not in any way be construed or interpreted so as to affect adversely or otherwise impair the right of the Corporation or its stockholders to remove Optionee from the Board at any time in accordance with the provisions of applicable law. 
+
+17\. Plan Prospectus. The official prospectus for the Plan is attached if this option is the first option made to Optionee under the October 2007 restatement of the Plan. Optionee may obtain an additional printed copy of the prospectus by contacting Stock Administration through the internet at stockadministration@gilead.com or by telephoning 650-522-5517. 
+
+18\. Optionee Acceptance. Optionee must accept the terms and conditions of this Agreement either electronically through the electronic acceptance procedure established by the Corporation or through a written acceptance delivered to the Corporation in a form satisfactory to the Corporation. In no event shall this option be exercised in the absence of such acceptance. 
+
+IN WITNESS WHEREOF, Gilead Sciences, Inc. has caused this Agreement to be executed on its behalf by its duly-authorized officer on the day and year first indicated above.   
+  
+GILEAD SCIENCES, INC.  
+  
+By:  
+  
+Title:  
+  
+* * *
+
+APPENDIX 
+
+The following definitions shall be in effect under the Agreement: 
+
+A. Administrator shall mean the Compensation Committee of the Board (or any subcommittee thereof) acting in its capacity as administrator of the Plan. 
+
+B. Agreement shall mean this Stock Option Agreement. 
+
+C. Applicable Laws shall mean the legal requirements related to the Plan and the option under applicable provisions of the federal securities laws, state corporate and state securities laws, the Code, the rules of any applicable Stock Exchange on which the Common Stock is listed for trading, and the rules of any non-U.S. jurisdiction applicable to options granted to residents therein. 
+
+D. Board shall mean the Corporation’s Board of Directors. 
+
+E. Cause shall mean the termination of Optionee’s Continuous Service as a result of Optionee’s (i) performance of any act, or failure to perform any act, in bad faith and to the detriment of the Corporation; (ii) dishonesty, intentional misconduct, material breach of any fiduciary duty owed to the Corporation; or (iii) commission of a crime involving dishonesty, breach of trust, or physical or emotional harm to any person. 
+
+F. Change in Control shall mean a change in ownership or control of the Corporation effected through any of the following transactions: 
+
+(i) a merger, consolidation or other reorganization approved by the Corporation’s stockholders, unless securities representing more than fifty percent (50%) of the total combined voting power of the voting securities of the successor corporation are immediately thereafter beneficially owned, directly or indirectly and in substantially the same proportion, by the persons who beneficially owned the Corporation’s outstanding voting securities immediately prior to such transaction; 
+
+(ii) a sale, transfer or other disposition of all or substantially all of the Corporation’s assets; 
+
+(iii) the closing of any transaction or series of related transactions pursuant to which any person or any group of persons comprising a “group” within the meaning of Rule 13d-5(b)(1) of the 1934 Act (other than the Corporation or a person that, prior to such transaction or series of related transactions, directly or indirectly controls, is controlled by or is under common control with, the Corporation) becomes directly or indirectly (whether as a result of a single acquisition or by reason of one or more acquisitions within the twelve- (12) month period ending with the most recent acquisition) the beneficial owner (within the meaning of Rule 13d-3 of the 1934 Act) of securities possessing (or 
+
+A-1 
+
+* * *
+
+convertible into or exercisable for securities possessing) more than fifty percent (50%) of the total combined voting power of the Corporation’s outstanding securities (as measured in terms of the power to vote with respect to the election of Board members) outstanding immediately after the consummation of such transaction or series of related transactions, whether such transaction involves a direct issuance from the Corporation or the acquisition of outstanding securities held by one or more of the Corporation’s existing stockholders; or 
+
+(iv) a change in the composition of the Board over a period of twelve (12) consecutive months or less such that a majority of the Board members ceases, by reason of one or more contested elections for Board membership, to be comprised of individuals who either (a) have been Board members continuously since the beginning of such period or (b) have been elected or nominated for election as Board members during such period by at least a majority of the Board members described in clause (A) above who were still in office at the time the Board approved such election or nomination. 
+
+In no event, however, shall a Change in Control be deemed to occur upon a merger, consolidation or other reorganization effected primarily to change the State of the Corporation’s incorporation or to create a holding company structure pursuant to which the Corporation becomes a wholly-owned subsidiary of an entity whose outstanding voting securities immediately after its formation are beneficially owned, directly or indirectly, and in substantially the same proportion, by the persons who beneficially owned the Corporation’s outstanding voting securities immediately prior to the formation of such entity. 
+
+G. Code shall mean the Internal Revenue Code of 1986, as amended. 
+
+H. Common Stock shall mean shares of the Corporation’s common stock. 
+
+I. Consultant shall mean any person, including an advisor, who is compensated by the Corporation or any Related Entity for services performed as a non-employee consultant; provided, however, that the term “Consultant” shall not include non-employee Directors serving in their capacity as Board members. The term “Consultant” shall include (i) a former Board member during his or her period of service as Director Emeritus immediately following his or her cessation of service as a Board member, without an intervening break in Continuous Service, or (ii) an individual serving as a member of the board of directors of a Related Entity. 
+
+J. Continuous Service shall mean the performance of services for the Corporation or a Related Entity (whether now existing or subsequently established) by a person in the capacity of an Employee, Director or Consultant. For purposes of this Agreement, Optionee shall be deemed to cease Continuous Service immediately upon the occurrence of either of the following events: (i) Optionee no longer performs services in any of the foregoing capacities for the Corporation or any Related Entity or (ii) the entity for which Optionee is performing such services ceases to remain a Related Entity of the Corporation, even though Optionee may subsequently continue to perform services for that entity. 
+
+A-2 
+
+* * *
+
+K. Corporation shall mean Gilead Sciences, Inc., a Delaware corporation, and any successor corporation to all or substantially all of the assets or voting stock of Gilead Sciences, Inc. which shall by appropriate action adopt the Plan. 
+
+L. Director shall mean a member of the Board. 
+
+M. Domestic Partner shall mean a person who meets and continues to meet all of the criteria detailed in the Gilead Sciences Affidavit of Domestic Partnership when the Domestic Partnership has been internally registered with the Corporation by filing with the Corporation an original, properly completed, notarized Gilead Sciences Affidavit of Domestic Partnership. 
+
+N. Employee shall mean an individual who is in the employ of the Corporation (or any Related Entity), subject to the control and direction of the employer entity as to both the work to be performed and the manner and method of performance. 
+
+O. Exercise Date shall mean the date on which the option shall have been exercised in accordance with Paragraph 9 of the Agreement. 
+
+P. Exercise Price shall mean the exercise price per Option Share as specified in Paragraph 1 of the Agreement. 
+
+Q. Exercise Schedule shall mean the schedule set forth in Paragraph 1 of the Agreement, pursuant to which the option is to vest and become exercisable for the Option Shares in four (4) successive equal quarterly installments upon Optionee’s completion of each quarter of Continuous Service over the one (1) year period measured from the Grant Date. 
+
+R. Expiration Date shall mean the date specified in Paragraph 1 of the Agreement for measuring the maximum term for which the option may remain outstanding. 
+
+S. Fair Market Value per share of Common Stock on any relevant date shall be the closing price per share of Common Stock (or the closing bid, if no sales were reported) on that date, as quoted on the Stock Exchange that is at the time serving as the primary trading market for the Common Stock; provided, however, that if there no reported closing price or closing bid for that date, then the closing price or closing bid, as applicable, for the last trading date on which such closing price or closing bid was quoted shall be determinative of such Fair Market Value. The applicable quoted price shall be as reported in The Wall Street Journal or such other source as the Administrator deems reliable. 
+
+T. Grant Date shall mean the date of grant of the option as specified in Paragraph 1 of the Agreement. 
+
+U. Immediate Family shall mean, with respect to Optionee, any child, stepchild, grandchild, parent, stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law or sister-in-law including adoptive relationships, Domestic Partner, a trust in which such persons (or person) 
+
+A-3 
+
+* * *
+
+have more than fifty percent (50%) of the beneficial interest, a foundation in which such persons (or person) control the management of such entity’s assets, or any other entity in which such persons (or person) own more than fifty percent (50%) of the voting interests. 
+
+V. 1934 Act shall mean the Securities Exchange Act of 1934, as amended from time to time. 
+
+W. Non-Statutory Option shall mean an option not intended to satisfy the requirements of Code Section 422. 
+
+X. Notice of Exercise shall mean the notice of option exercise in the form prescribed by the Corporation. 
+
+Y. Option Shares shall mean the number of shares of Common Stock subject to the option as specified in Paragraph 1 of the Agreement. 
+
+Z. Optionee shall mean the person to whom the option is granted pursuant to the Agreement. 
+
+AA. Parent shall mean a “parent corporation,” whether now or hereafter established, as defined in Section 424(e) of the Code. 
+
+BB. Plan shall mean the Corporation’s 2004 Equity Incentive Plan, as amended from time to time. 
+
+CC. Related Entity shall mean (i) any Parent or Subsidiary of the Corporation and (ii) any corporation in an unbroken chain of corporations beginning with the Corporation and ending with the corporation in the chain for which Optionee provides services as an Employee, Director or Consultant, provided each corporation in such chain owns securities representing at least twenty percent (20%) of the total outstanding voting power of the outstanding securities of another corporation or entity in such chain and there is a legitimate non-tax business purpose for making this option grant to Optionee. 
+
+DD. Stock Exchange shall mean the American Stock Exchange, the Nasdaq Global or Global Select Market or the New York Stock Exchange. 
+
+EE. Subsidiary shall mean a “subsidiary corporation,” whether now or hereafter established, as defined in Section 424(f) of the Code. 
+
+FF. Withholding Taxes shall mean any federal, state and local taxes required to be withheld by the Corporation in connection with the exercise of the option. 
+
+A-4 

@@ -1,0 +1,114 @@
+EXHIBIT 10.1(a)
+
+
+
+RESTRICTED STOCK AGREEMENT
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”) is made as of , between Symmetry Medical Inc., a Delaware corporation (the “Company”), and (“Grantee”).
+
+WHEREAS, the Grantee is a director of the Company; and
+
+WHEREAS, the grant of the shares of restricted stock (as governed by the Company’s Amended and Restated 2004 Equity Incentive Plan (the “Plan”)) to the Grantee described herein has been authorized by the Company’s Compensation Committee and Board of Directors (the “Board”).
+
+NOW, THEREFORE, pursuant to the Plan, the Company, upon the terms and conditions set forth herein, hereby grants to you 1,000 restricted shares of Common Stock, par value $.0001, (“Common Stock”) of the Company (the “Restricted Shares”) effective as of the date hereof (the “Date of Grant”), and subject to the terms and conditions of the Plan and the terms and conditions of this Agreement.
+
+1\. Definitions. All capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to them in the Plan.
+
+2\. Issuance of Shares. In consideration of the Grantee’s service as a director of the Company, the Restricted Shares shall be issued to the Grantee, and, upon payment to the Company by the Grantee of the aggregate par value thereof, which payment shall be made within 10 days of the date hereof, shall be fully paid and nonassessable and shall be represented by a certificate or certificates issued in the name of the Grantee and endorsed with an appropriate legend referring to the restrictions hereinafter set forth.
+
+3\. Restrictions on Transfer of Shares. The Restricted Shares may not be sold, assigned, transferred, conveyed, pledged, exchanged or otherwise encumbered or disposed of (each, a “Transfer”) by the Grantee, except to the Company, until they have become nonforfeitable as provided in Section 4 hereof. Any purported encumbrance or disposition in violation of the provisions of this Section 3 shall be void AB INITIO, and the other party to any such purported transaction shall not obtain any rights to or interest in the Restricted Shares. As and when permitted by the Plan, the Committee may in its sole discretion waive the restrictions on transferability with respect to all or a portion of the Restricted Shares. Notwithstanding the foregoing, Grantee may not Transfer Restricted Shares which have become nonforfeitable as provided in Section 3 hereof unless such Restricted Shares are registered pursuant to the Securities Act of 1933 (the “Securities Act”) or under Rule 144 promulgated under the Securities Act or unless the Company and its counsel agree with Grantee that such Transfer is not required to be registered under the Securities Act.
+
+4\. Vesting of Shares.
+
+(a) Subject to Section 5 hereof, the Restricted Shares shall vest and become nonforfeitable if the Grantee remains a director of the Company through the vesting dates set forth below with respect to the number of Restricted Shares set forth next to such date:
+
+Vesting Date
+
+Number of Restricted  
+Shares Vesting on  
+such Vesting Date  
+  
+December 31, 2006
+
+333.33  
+  
+December 31, 2007
+
+333.33  
+  
+December 31, 2008
+
+333.33  
+  
+1
+
+* * *
+
+  
+
+
+(b) Notwithstanding the provisions of Section 4(a) above, in connection with a Change in Control, the provisions set forth in Section 13 of the Plan shall govern with respect to the acceleration of the vesting of the Restricted Shares.
+
+(c) Notwithstanding the provisions of Section 4(a) above, the Board may, in its sole discretion, accelerate the vesting of shares of the Restricted Shares at any time.
+
+5\. Forfeiture of Shares. If the Grantee ceases to be a director of the Company due to death, Disability or Retirement during any period of restriction, any non-vested Restricted Shares shall immediately vest and all restrictions on the Restricted Shares shall lapse. If the Grantee ceases to be a director of the Company for any other reason, any non-vested Restricted Shares shall be forfeited by the Grantee and the certificate(s) representing the non-vested portion of the Restricted Shares so forfeited shall be canceled.
+
+6\. Dividend, Voting and Other Rights. Except as otherwise provided in this Agreement, from and after the Date of Grant, the Grantee shall have all of the rights of a stockholder with respect to the Restricted Shares, including the right to vote the Restricted Shares and receive any dividends that may be paid thereto, provided, however, that any additional Common Stock or other securities that the Grantee may become entitled to receive pursuant to a stock dividend, stock split, recapitalization, combination of shares, merger, consolidation, separation or reorganization or any other change in the capital structure of the Company shall be subject to the same risk of forfeiture and restrictions on transfer as the forfeitable Restricted Shares in respect of which they are issued or transferred and shall become Restricted Shares for the purposes of this Agreement.
+
+7\. Retention of Stock Certificate(s) by the Company. The certificate(s) representing the Restricted Shares shall be held in custody by the Company, together with a stock power in the form of Exhibit A hereto which shall be endorsed in blank by the Grantee and delivered to the Company within 10 days of the date hereof, until such shares have become nonforfeitable in accordance with Section 4.
+
+8\. Investment Representation. Grantee hereby represents and warrants to the Company that: (i) the Grantee has had an opportunity to ask questions and receive answers concerning the terms and conditions of the offering of the Restricted Shares and has had full access to such other information concerning the Company as it has requested; (ii) Grantee is acquiring the Restricted Shares to be acquired by it hereunder for its own account with the present intention of holding such securities for purposes of investment; (iii) Grantee is an “accredited investor” within the meaning of Rule 501 Regulation D promulgated under the Securities Act; (iv) Grantee understands that the Restricted Shares constitute “restricted securities” within the meaning of Rule 144 promulgated under the Securities Act and the certificates representing such Restricted Shares will bear a legend stating, and Grantee hereby agrees, that such securities may not be transferred without the consent of the issuer or its legal counsel as to compliance with the Securities Act; (v) Grantee does not intend to sell such securities in a public distribution in violation of any applicable foreign, federal or state securities laws.
+
+9\. Reserved.
+
+10\. Compliance with Law. The Company shall make reasonable efforts to comply with all applicable federal and state securities laws, provided, however, notwithstanding any other provision of this Agreement, the Company shall not be obligated to issue or release from restrictions on transfer any Restricted Shares pursuant to this Agreement if such issuance or release would result in a violation of any such law.
+
+11\. Withholding Taxes. If the Company shall be required to withhold any federal, state, local or foreign tax in connection with any issuance or vesting of Restricted Shares or other securities pursuant to this Agreement, and the amounts available to the Company for such withholding are insufficient, the Grantee shall pay the tax or make provisions that are satisfactory to the Company for the payment thereof. The Grantee may elect to satisfy all or any part of any such withholding obligation by surrendering to the Company a portion of the Restricted Shares that become nonforfeitable hereunder, and the Restricted Shares so surrendered by the Grantee shall be credited against any such withholding obligation at the market value (determined with reference to the then current price of the Company’s Common Stock as quoted on the New York Stock Exchange) per Share of such Restricted Shares on the date of such surrender.
+
+12\. Conformity with Plan. The Agreement and the Restricted Shares granted pursuant hereto are intended to conform in all respects with, and are subject to all applicable provisions of, the Plan (which is incorporated herein by
+
+2
+
+* * *
+
+  
+
+
+reference). Inconsistencies between this letter agreement and the Plan shall be resolved in accordance with the terms of the Plan. By executing this Agreement, you acknowledge and agree to be bound by all of the terms of this Agreement and the Plan.
+
+13\. Amendments. The provisions of this Agreement may be amended and waived only with the prior written consent of the Company and the Grantee.
+
+14\. Severability. In the event that one or more of the provisions of this Agreement shall be invalidated for any reason by a court of competent jurisdiction, any provision so invalidated shall be deemed to be separable from the other provisions hereof, and the remaining provisions hereof shall continue to be valid and fully enforceable.
+
+15\. Successors and Assigns. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the successors, administrators, heirs, legal representatives and assigns of the Grantee and the successors and assigns of the Company.
+
+16\. Notices. Any notice to the Company provided for herein shall be in writing to the attention of the Secretary of the Company at Symmetry Medical Inc., 220 W. Market Street, Warsaw, Indiana 46580, and any notice to the Grantee shall be addressed to the Grantee at his address currently on file with the Company. Except as otherwise provided herein, any written notice shall be deemed to be duly given if and when hand delivered, or five business days after having been mailed by United States registered or certified mail, return receipt requested, postage prepaid, or three business days after having been sent by a nationally recognized overnight courier service, addressed as aforesaid. Any party may change the address to which notices are to be given hereunder by written notice to the other party as herein specified, except that notices of changes of address shall be effective only upon receipt.
+
+17\. Governing Law. The laws of the State of New York, without giving effect to the principles of conflict of laws thereof, shall govern the interpretation, performance and enforcement of this Agreement.
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first set forth above.
+
+SYMMETRY MEDICAL INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+ACKNOWLEDGED AND AGREED:  
+  
+(Signature of Grantee)  
+  
+EXHIBIT “A”  
+FORM OF ASSIGNMENT SEPARATE FROM CERTIFICATE
+
+FOR VALUE RECEIVED, hereby sells, assigns and transfers unto , shares of the Common Stock, par value $0.001 per share, of Symmetry Medical Inc., a Delaware corporation (the “Company”) standing in its name on the books of said Company represented by Certificate Number , and does hereby irrevocably constitute and appoint as attorney to transfer the said stock on the books of the Company with full power of substitution in the premises.
+
+Date:  
+  
+Holder  
+  
+3
+
+* * *

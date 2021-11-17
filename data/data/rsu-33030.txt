@@ -1,0 +1,255 @@
+  
+
+
+EXHIBIT 10.2
+
+RADIAN GROUP INC.
+
+2008 EQUITY COMPENSATION PLAN
+
+  
+
+
+
+
+This STOCK OPTION AGREEMENT, dated as of June 6, 2012 (the “Date of Grant”), is delivered by Radian Group Inc., a Delaware corporation (the “Company”), to S.A. Ibrahim, an employee of the Company or one of its Subsidiaries (the “Grantee”).
+
+RECITALS
+
+WHEREAS, the Radian Group Inc. 2008 Equity Compensation Plan, as amended (the “Plan”), permits the grant of stock options to employees, officers, directors, consultants and advisors of the Company to purchase shares of Common Stock, in accordance with the terms and provisions of the Plan; 
+
+WHEREAS, the Company desires to grant a Nonqualified Stock Option to the Grantee, and the Grantee desires to accept such Nonqualified Stock Option, on the terms and conditions set forth herein and in the Plan; and
+
+WHEREAS, the applicable provisions of the Plan are incorporated in this Stock Option Agreement by reference, including the definitions of terms contained in the Plan (unless such terms are otherwise defined herein). 
+
+NOW, THEREFORE, the parties hereto, intending to be legally bound hereby, agree as follows: 
+
+1.Grant of Option. Subject to the terms and conditions set forth in this Stock Option Agreement, the Company, with the approval and at the direction of the Committee, hereby grants to the Grantee a Nonqualified Stock Option to purchase 320,060 shares of Common Stock at an exercise price of $2.45 per share (the “Option”) under the Plan. The Grantee hereby accepts the Option and agrees to be bound by the terms and conditions of this Stock Option Agreement and the Plan with respect to the award. 
+
+2.Vesting. 
+
+(a)Provided the Grantee meets any applicable vesting requirements set forth in this Stock Option Agreement, and provided that the Stock Price Hurdle (as defined below) is met, except as set forth in Sections 3 and 5 below, the Option awarded under this Stock Option Agreement shall vest as follows:  
+  
+Date
+
+Vested Shares subject to the Option  
+  
+(subject to achievement of the Stock Price Hurdle)
+
+  
+
+
+3rd Anniversary of the 50% of the shares
+
+Date of Grant 
+
+  
+
+
+4th Anniversary of the Remaining 50% of the shares
+
+Date of Grant 
+
+(b)Notwithstanding the foregoing, the Option will only vest if the closing price of the Company’s Common Stock on the New York Stock Exchange equals or exceeds $4.90 per share for ten consecutive trading days ending on or after June 6, 2015 (the “Stock Price Hurdle”), except as provided in Sections 3 and 5 below. If the Stock Price Hurdle has not been met on the third anniversary of the Date of Grant, the Option with respect to 50% of the shares will vest on the first date after the third anniversary on which the Stock Price Hurdle is met, provided the Grantee remains employed by the Company or a Subsidiary through the applicable vesting date. If the Stock Price Hurdle has not been met by the fourth anniversary of the Date of Grant, the Option with respect to the remaining 50% of the shares will vest on the first date after the fourth anniversary on which the Stock Price Hurdle is met, provided the Grantee remains employed by the Company or a Subsidiary through the applicable vesting date. The Stock Price Hurdle must be met by June 5, 2022 in order for the Option to vest under this Section 2.
+
+(c)If the vesting schedule above would produce a fractional share, the portion of the Option that is exercisable shall be rounded down to the nearest whole share. 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+(d)Except as provided in Sections 3, 4 and 5 below, no portion of the Option will vest after the Grantee’s employment with the Company and its Subsidiaries has terminated for any reason. In the event of any termination of employment, the Grantee will forfeit the portion of the Option that does not vest either before the termination date or on the applicable date designated in Sections 3, 4 or 5. 
+
+3.Disability and Death. In the event of the Grantee’s death or Disability while employed by the Company or a Subsidiary, the Grantee’s Option will automatically vest in full on the date of the Grantee’s death or Disability, as applicable, regardless of whether the Stock Price Hurdle has been met. For purposes of this Stock Option Agreement, “Disability” shall mean the Grantee is determined to have a medically determinable physical or mental disability that entitles the Grantee to receive long-term disability benefits under the Company’s long-term disability plan.
+
+4.Retirement. 
+
+(a)If the Grantee terminates employment on account of Retirement, the Grantee’s Option shall continue to vest in accordance with Section 2, subject to achievement of the Stock Price Hurdle, except as provided in Section 5 below, but without regard to continued employment. 
+
+(b)For purposes of this Stock Option Agreement, “Retirement” shall mean the Grantee’s separation from service, without Cause, other than on account of death or Disability, following the Grantee’s attainment of age 55 and completion of 5 years of service with the Company or a Subsidiary.
+
+(c)For purposes of this Stock Option Agreement, “Cause” shall have the meaning given that term in the Grantee’s Employment Agreement with the Company dated as of April 5, 2011 (the “Employment Agreement”). 
+
+5.Change of Control. 
+
+(a)If a Change of Control occurs, the Grantee’s Option shall continue to vest in accordance with Section 2(a) on the third and fourth anniversaries of the Date of Grant, without regard to whether the Stock Price Hurdle is met, provided that the Grantee remains continuously employed by the Company and its Subsidiaries through such vesting date. If the Change of Control occurs after the third anniversary of the Date of Grant and before the Stock Price Hurdle has been met, the Option with respect to 50% of the shares will vest on the Change of Control date. If the Change of Control occurs after the fourth anniversary of the Date of Grant and before the Stock Price Hurdle has been met, the Option with respect to all of the shares will vest on the Change of Control date. 
+
+(b)Notwithstanding the foregoing, if a Change of Control occurs and the Grantee’s employment with the Company and its Subsidiaries is terminated by the Company or a Subsidiary without Cause or the Grantee terminates employment for Good Reason (as defined in the Employment Agreement), and the Grantee’s date of termination occurs (or in the event of the Grantee’s termination for Good Reason, the event giving rise to Good Reason occurs), in each case, during the period beginning on the date that is 90 days before the Change of Control and ending on the date that is one year following the Change of Control, the Option will automatically vest in full on the Grantee’s date of termination (or, if later, on the date of the Change of Control), regardless of whether the Stock Price Hurdle has been met. However, in no event may the Option be exercised after ten years from the Date of Grant. In order to terminate employment for Good Reason under this Stock Option Agreement, the Grantee must provide a written notice of termination with respect to termination for Good Reason to the Company within 90 days after the event constituting Good Reason has occurred. The Company shall have a period of 30 days in which it may correct the act, or the failure to act, that gave rise to the Good Reason event as set forth in the notice of termination. If the Company does not correct the act, or the failure to act, the Grantee must terminate employment for Good Reason within 30 days after the end of the cure period, in order for the termination to be considered a Good Reason termination. Notwithstanding the foregoing, in no event will the Grantee have Good Reason for termination if a material diminution of the Grantee’s authority, duties, or responsibilities occurs in connection with the Grantee’s inability to perform his or her duties on account of illness or short-term or long-term disability. 
+
+(c)Except as provided in subsection (b), if the Grantee’s employment terminates on account of Retirement before a Change of Control, and a Change of Control subsequently occurs, the Grantee’s Option shall continue to vest in accordance with Section 5(a), but without regard to continued employment. Except as provided in subsection (b), if the Grantee’s employment terminates on account of Retirement on or after a Change of Control, the Grantee’s Option shall continue to vest in accordance with Section 5(a), but without regard to continued employment.
+
+(d)For the avoidance of doubt, in no event shall a Change of Control occur as a result of the Company’s participation in the Troubled Asset Relief Program under the Emergency Economic Stabilization Act of 2008, the American Recovery and Reinvestment Act of 2009, or any similar program of the United States, any of its states, or any of their respective political subdivisions, departments, agencies or instrumentalities.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+6.Exercise of the Option. When the Option becomes vested in accordance with Sections 2, 3, 4, or 5 above, the Grantee may exercise part or all of the vested and exercisable Option by delivering a duly completed notice of intent to exercise to the Company, specifying the number of shares as to which the Option is to be exercised and the method of payment. Payment of the exercise price shall be made in accordance with procedures in effect from time to time based on the type of payment being made but, in any event, prior to issuance of the shares of Common Stock. The Grantee shall pay the exercise price (i) in cash, (ii) with the approval of the Committee, by delivering shares of Common Stock, which shall be valued at their fair market value on the date of exercise, or by attestation (on a form prescribed by the Committee) to ownership of shares of Common Stock having a fair market value on the date of exercise equal to the exercise price, (iii) by payment through a broker in accordance with procedures permitted by Regulation T of the Federal Reserve Board or (iv) by any combination of the foregoing. The Company’s obligation to deliver shares of Common Stock upon exercise of the Option shall be subject to all applicable laws, rules and regulations and also to such approvals by governmental agencies as may be deemed appropriate by the Committee. Upon exercise of the Option (or portion thereof), the Option (or portion thereof) will terminate and cease to be outstanding. 
+
+7.Transferability.
+
+(a)During the Grantee’s lifetime, except as set forth in subsection (b) below, exercise of the Option shall be solely by the Grantee (or his or her legal guardian or legal representative) and, after the Grantee’s death, the Option shall be exercisable (subject to the limitations specified in the Plan) solely by the legal representatives of the Grantee, or by the person or persons who acquire the right to exercise such Option by will or by the laws of descent and distribution, to the extent that the Option was outstanding as of the date of the Grantee’s death. Neither the Option nor any right hereunder shall be assignable or otherwise transferable except by will or by the laws of descent and distribution or except as otherwise permitted by the Plan, nor shall any Option be subject to attachment, execution or other similar process. In the event of any attempt by the Grantee to alienate, assign, pledge, hypothecate or otherwise dispose of any Option or any right hereunder, except as provided for herein, or in the event of the levy of any attachment, execution or similar process upon the rights or interest hereby conferred, the Company may terminate any Option by notice to the Grantee and the Option and all rights hereunder shall thereupon become null and void. 
+
+(b)Notwithstanding the foregoing, the Committee may provide that a Grantee may transfer this Option to family members, one or more trusts for the benefit of family members, or one or more partnerships of which family members are the only partners, according to such terms as the Committee may determine; provided that the Grantee receives no consideration for the transfer of an Option and the transferred Option shall continue to be subject to the same terms and conditions as were applicable to the Option immediately before the transfer.
+
+8.Termination of the Option. 
+
+(a)The Option shall have a term of ten years from the Date of Grant and shall terminate at the expiration of that period (on June 5, 2022), unless the Option is terminated at an earlier date pursuant to the provisions of this Stock Option Agreement or the Plan.
+
+(b)The Option granted and subsequently vested hereunder (including pursuant to Section 5 hereof) shall terminate immediately after the first to occur of: (i) one year after the termination of the Grantee’s employment with the Company or a Subsidiary due to an involuntary termination by the Company or a Subsidiary without Cause (except as provided in subsection (c) below), (ii) one year after the termination of the Grantee’s employment with the Company or a Subsidiary by the Grantee for Good Reason during the Change of Control period described in Section 5(b) hereof (except as provided in subsection (c) below), (iii) 90 days after the Grantee’s voluntary termination of employment with the Company and its Subsidiaries (except as provided in subsection (c) below or as provided in clause (ii) above), or (iv) ten years from the Date of Grant.
+
+(c)In the event of the termination of the Grantee’s employment on account of Retirement, Disability or death of a Grantee, the Option held by the Grantee may be exercised, pursuant to the terms of the Plan, by the Grantee (or the Grantee’s personal representative) at any time prior to the expiration of the ten-year term of the Option.
+
+(d)Notwithstanding the foregoing, in no event may the Option be exercised after ten years from the Date of Grant (after June 5, 2022). In the event a Grantee’s employment is terminated by the Company or a Subsidiary for Cause, the Option (including the vested portion, if any) held by such Grantee shall immediately terminate and be of no further force or effect.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+9.Certain Corporate Changes. If any change is made to the Common Stock (whether by reason of merger, consolidation, reorganization, recapitalization, stock dividend, stock split, combination of shares, or exchange of shares or any other change in capital structure made without receipt of consideration), then unless such event or change results in the termination of the Option, the Committee shall adjust, in an equitable manner and as provided in the Plan, the number and class of shares subject to the Option held by the Grantee and/or the exercise price of such Option, and the Stock Price Hurdle, if appropriate, to reflect the effect of such event or change in the Company’s capital structure in such a way as to preserve the value of the Option. Any adjustment that occurs under the terms of this Section 9 or the Plan will not change the timing or form of payment with respect to any exercised Option or portion thereof.
+
+10.Restrictive Covenants. 
+
+(a)During the Grantee’s employment with the Company and its Affiliates, and during the period beginning on the date on which the Grantee’s employment with the Company and its Affiliates terminates for any reason and ending on the later of (i) 12 months after the employment termination date or (ii) the end of the Consulting Period (as defined in the Employment Agreement), if applicable (the “Restricted Period”), the Grantee hereby agrees that he will not, without the Company’s express written consent, engage (directly or indirectly) in any employment or business activity whose primary business involves a business in which the Company is then materially and actively engaged (for purposes of clarity, as of April 5, 2011, this would consist of providing mortgage insurance or financial guaranty insurance) (“Company Business”) within the United States of America; provided, however, that this restriction shall not apply if the Company is no longer engaged in writing new business with respect to such Company Business, unless (x) the Company has taken material steps to actively pursue opportunities for writing new business with respect to the Company Business and (y) the Board determines in reasonable good faith that it expects the Company, during the Restricted Period, in fact to actively pursue such opportunities. The Board shall make such determination within 10 business days of notification by the Grantee that he proposes to engage in activity that would violate this Section 10(a) but for the proviso in the preceding sentence, it being understood that the Grantee shall be obligated to provide such notification. The Grantee further agrees that, given the nature of the Company Business, a nationwide geographic scope is appropriate and reasonable.
+
+(b)For purposes of this Stock Option Agreement, the Grantee acknowledges and agrees that the terms “Confidential Information” and “Trade Secrets” shall mean information that the Company or any of its Affiliates owns or possesses, that the Company or its Affiliates have developed at significant expense and effort, that they use or that is potentially useful in the business of the Company or its Affiliates, that the Company or its Affiliates treat as proprietary, private or confidential, and that is not generally known to the public. The Grantee further acknowledges that the Grantee’s relationship with the Company is one of confidence and trust such that the Grantee has in the past been, and may in the future be, privy to Confidential Information and Trade Secrets of the Company or any of its Affiliates.
+
+(c)During the Grantee’s employment with the Company and its Affiliates, the Consulting Period, and the 12-month period following the later of the Grantee’s employment termination date or the end of the Consulting Period, if applicable, the Grantee covenants and agrees that the Grantee shall not, directly or indirectly through others, (i) hire or attempt to hire any employee of the Company or any of its Affiliates, (ii) solicit or attempt to solicit any employee of the Company or its Affiliates to become an employee, consultant or independent contractor to, for or of any other person or business entity, or (iii) solicit or attempt to solicit any employee, or any consultant or independent contractor of the Company or any of its Affiliates to change or terminate his or her relationship with the Company or any of its Affiliates, unless, in each case of (i) through (iii), more than three months shall have elapsed between the last day of such person’s employment or service with the Company or any of its Affiliates and the first date of such solicitation or hiring or attempt to solicit or hire. If any employee, consultant or independent contractor is hired or solicited by any entity that has hired or agreed to hire the Grantee, such hiring or solicitation shall be conclusively presumed to be a violation of this Agreement; provided, however, that any hiring or solicitation pursuant to a general solicitation conducted by an entity that has hired or agreed to hire the Grantee, or by a headhunter employed by such entity, which does not involve the Grantee, shall not be a violation of this Section 10(c).
+
+(d)During the Grantee’s employment with the Company and its Affiliates and the Restricted Period, the Grantee covenants and agrees that the Grantee shall not, either directly or indirectly through others:
+
+(i)solicit, divert, appropriate or do business with, or attempt to solicit, divert, appropriate or do business with, any customer for whom the Company or any of its Affiliates provided goods or services within 12 months prior to the later of the Grantee’s employment termination date or the end of the Consulting Period (the “Termination Date”) or any actively sought prospective customer of the Company or any of its Affiliates for the purpose of providing such customer or actively sought prospective customer with services or products competitive with those offered by the Company or any of its Affiliates during the Grantee’s employment or service with the Company or any of its Affiliates, or 
+
+(ii)encourage any customer for whom the Company or any of its Affiliates provided goods or services within 12 months prior to the Termination Date to reduce the level or amount of business such customer conducts with the Company or any of its Affiliates.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+(e)The Grantee acknowledges and agrees that the business of the Company and its Affiliates is highly competitive, that the Confidential Information and Trade Secrets have been developed by the Company at significant expense and effort, and that the restrictions contained in this Section 10 are reasonable and necessary to protect the legitimate business interests of the Company and its Affiliates.
+
+(f)Because the Grantee’s services are personal and unique and the Grantee has had and will continue to have access to and has become and will continue to become acquainted with Confidential Information and Trade Secrets, the parties to this Stock Option Agreement acknowledge and agree that any breach by the Grantee of any of the covenants or agreements contained in Section 10 will result in irreparable injury to the Company or any of its Affiliates, as the case may be, for which money damages could not adequately compensate such entity. Therefore, the Company or any of its Affiliates shall have the right (in addition to any other rights and remedies which it may have at law or in equity and in addition to the forfeiture requirements set forth in Section 10(g) below) to seek to enforce Section 10 and any of its provisions by injunction, specific performance or other equitable relief, without bond and without prejudice to any other rights and remedies that the Company or any of its Affiliates may have for a breach, or threatened breach, of the restrictive covenants set forth in Section 10. The Grantee agrees that in any action in which the Company or any of its Affiliates seeks injunction, specific performance or other equitable relief, the Grantee will not assert or contend that any of the provisions of Section 10 are unreasonable or otherwise unenforceable. The Grantee irrevocably and unconditionally (i) agrees that any legal proceeding arising out of this paragraph may be brought in the United States District Court for the Eastern District of Pennsylvania, or if such court does not have jurisdiction or will not accept jurisdiction, in any court of general jurisdiction in Philadelphia County, Pennsylvania, (ii) consents to the non-exclusive jurisdiction of such court in any such proceeding, and (iii) waives any objection to the laying of venue of any such proceeding in any such court. The Grantee also irrevocably and unconditionally consents to the service of any process, pleadings, notices or other papers. 
+
+(g)The Grantee acknowledges and agrees that in the event the Grantee breaches any of the covenants or agreements contained in this Section 10:
+
+(i)The Committee may in its discretion determine that the Grantee shall forfeit the outstanding Option (without regard to whether any portion of the Option has vested), and the outstanding Option shall immediately terminate, and
+
+(ii)The Committee may in its discretion require the Grantee to return to the Company any shares of Common Stock received upon exercise of the Option, net of the exercise price paid by the Grantee upon exercise of the Option; provided, that if the Grantee has disposed of any shares of Common Stock received upon exercise of the Option, then the Committee may require the Grantee to pay to the Company, in cash, the fair market value of such shares of Common Stock as of the date of disposition, net of the exercise price paid by the Grantee upon exercise of the Option. The Committee shall exercise the right of recoupment provided in this Section 10(g)(ii) within 180 days after the Committee’s discovery of the Grantee’s breach of any of the covenants or agreements contained in this Section 10.
+
+(h)If any portion of the covenants or agreements contained in this Section 10, or the application hereof, is construed to be invalid or unenforceable, the other portions of such covenants or agreements or the application thereof shall not be affected and shall be given full force and effect without regard to the invalid or unenforceable portions to the fullest extent possible. If any covenant or agreement in this Section 10 is held to be unenforceable because of the duration thereof or the scope thereof, then the court making such determination shall have the power to reduce the duration and limit the scope thereof, and the covenant or agreement shall then be enforceable in its reduced form. The covenants and agreements contained in this Section 10 shall survive the termination of this Stock Option Agreement.
+
+11.Grant Subject to Plan Provisions. This Stock Option Agreement is made pursuant to the terms of the Plan, the terms of which are incorporated herein by reference, and shall in all respects be interpreted in accordance therewith. The decisions of the Committee shall be conclusive upon any question arising hereunder. The Grantee’s receipt of the Option awarded under this Stock Option Agreement constitutes such Grantee’s acknowledgment that all decisions and determinations of the Committee with respect to the Plan, this Stock Option Agreement, and/or the Option shall be final and binding on the Grantee, his or her beneficiaries and any other person having or claiming an interest in such Option. The settlement of any award with respect to the Option is subject to the provisions of the Plan and to interpretations, regulations and determinations concerning the Plan as established from time to time by the Committee in accordance with the provisions of the Plan. A copy of the Plan will be furnished to each Grantee upon request. Additional copies may be obtained from the Corporate Secretary of the Company, 1601 Market Street, Philadelphia, Pennsylvania 19103-2197.
+
+12.No Employment or Other Rights. Neither the granting of the Option, nor any other action taken with respect to such Option, shall confer upon the Grantee any right to continue in the employ of the Company or a Subsidiary or shall interfere in any way with the right of the Company or a Subsidiary to terminate Grantee’s employment at any time. The right of the Company or a Subsidiary to terminate at will the Grantee’s employment or service at any time for any reason is specifically reserved.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+13.No Stockholder Rights. Neither the Grantee, nor any person entitled to exercise the Grantee’s rights in the event of the Grantee’s death or in accordance with the terms of this Stock Option Agreement, shall have any of the rights and privileges of a stockholder with respect to the shares subject to the Option, except to the extent that certificates for such shares shall have been issued upon the exercise of the Option as provided for herein (or an appropriate book entry has been made). Except as described in the Plan, no adjustments are made for dividends or other rights if the applicable record date occurs before Grantee’s shares are issued (or an appropriate book entry has been made).
+
+14.Assignment and Transfers. The rights and protections of the Company hereunder shall extend to any successors or assigns of the Company and to the Company’s parents, subsidiaries, and other Affiliates. This Stock Option Agreement may be assigned by the Company without the Grantee’s consent.
+
+15.Income Taxes; Withholding Taxes. All obligations of the Company under this Stock Option Agreement shall be subject to the rights of the Company as set forth in the Plan to withhold amounts required to be withheld for any taxes, if applicable. At the time of exercise, the Company shall have the right to deduct from other compensation, or to withhold shares of Common Stock, in an amount equal to the federal (including FICA), state, local and foreign income taxes and other amounts as may be required by law to be withheld with respect to the exercise of the Option, provided that any share withholding shall not exceed the Grantee’s minimum applicable withholding tax rate for federal (including FICA), state, local and foreign tax liabilities.
+
+16.Applicable Law. The validity, construction, interpretation and effect of this instrument shall exclusively be governed by, and determined in accordance with, the applicable laws of the State of Delaware, excluding any conflicts or choice of law rule or principle. This Grant shall be subject to any required approvals by any governmental or regulatory agencies. This Grant shall also be subject to any applicable clawback or recoupment policies, share trading policies and other policies that may be implemented by the Board from time to time. Notwithstanding anything in this Stock Option Agreement to the contrary, the Plan, this Stock Option Agreement, and the Option awarded hereunder shall be subject to all applicable laws, including any laws, regulations, restrictions or governmental guidance that becomes applicable in the event of the Company’s participation in any governmental programs, and the Committee reserves the right to modify this Stock Option Agreement and the Option as necessary to conform to any restrictions imposed by any such laws, regulations, restrictions or governmental guidance or to conform to any applicable clawback or recoupment policies, share trading policies and other policies that may be implemented by the Board from time to time. As a condition of participating in the Plan, and by the Grantee’s acceptance of the Option, the Grantee is deemed to have agreed to any such modifications that may be imposed by the Committee, and agrees to sign such waivers or acknowledgments as the Committee may deem necessary or appropriate with respect to such modifications.
+
+17.Notice. Any notice to the Company provided for in this Stock Option Agreement shall be addressed to it in care of the Corporate Secretary of the Company, 1601 Market Street, Philadelphia, Pennsylvania 19103-2197, and any notice to the Grantee shall be addressed to such Grantee at the current address shown on the payroll of the Company, or to such other address as the Grantee may designate to the Company in writing in accordance with this Section. Except as otherwise provided by this Section, any notice provided for hereunder shall be delivered by hand, sent by telecopy or electronic mail or enclosed in a properly sealed envelope addressed as stated above, registered and deposited, postage and registry fee prepaid in the United States mail or other mail delivery service. Notice to the Company shall be deemed effective upon receipt. By receipt of the Option granted hereunder, Grantee hereby consents to the delivery of information (including without limitation, information required to be delivered to the Grantee pursuant to the applicable securities laws) regarding the Company, the Plan, the Option via the Company’s electronic mail system or other electronic delivery system.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused its duly authorized officer to execute and attest this instrument, and the Grantee has placed his or her signature hereon, effective as of the date of the grant set forth above.
+
+  
+
+
+RADIAN GROUP INC.
+
+  
+
+
+By: /s/ Anita Scott 
+
+  
+
+
+  
+
+
+I hereby accept the award of the Option described in this Stock Option Agreement pursuant to the terms and conditions described herein, and I agree to be bound by all terms of the Plan and this Stock Option Agreement, including without limitation the restrictive covenants set forth in Section 10, by either signing this Stock Option Agreement below or by electronically acknowledging and accepting this Stock Option Agreement following the date of the Company’s electronic notification to me. I hereby agree that all decisions and determinations of the Committee with respect to the Option shall be final and binding. 
+
+  
+  
+  
+Acknowledged and Agreed by Award Recipient:
+
+  
+
+
+  
+
+
+Signature:_/s/ Sanford A. Ibrahim__________________
+
+  
+
+
+Print Name:Sanford A. Ibrahim___________________
+
+  
+
+
+Date:July 19, 2012  
+  
+  
+
+
+  
+
+
+  
+

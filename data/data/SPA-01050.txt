@@ -1,0 +1,433 @@
+Exhibit 10.l  
+
+
+
+
+  
+
+
+THIS IS A STOCK PURCHASE AGREEMENT (this “Agreement”) dated as of March 17, 2009 (the “Effective Date”), by and between Global Energy Holdings Group, Inc., a Delaware corporation (“Global”), and 2020 Energy, LLC, an Arizona limited liability company (“Purchaser”). Global and Purchaser are each a “Party,” and collectively the “Parties.”
+
+  
+
+
+WITNESSETH:
+
+  
+
+
+WHEREAS, Global is the record and beneficial owner of five million three hundred one thousand three hundred (5,301,300) shares of common stock, par value $0.001 per share (the “Common Stock”), of New Generation Biofuels Holdings, Inc., a Florida corporation (“NGBF”);
+
+  
+
+
+WHEREAS, Purchaser wishes to purchase the shares and Global desires to sell the shares to Purchaser in accordance with the terms and conditions set forth herein;
+
+  
+
+
+WHEREAS, Global and NGBF are parties to that certain amended and restated sublicense agreement, dated as June 15, 2006, between H2Diesel, Inc. (predecessor in interest to NGBF) and Global (the “Sublicense Agreement”), pursuant to which NGBF sublicenses to Global certain technology and rights related to the manufacture of a vegetable oil based biodiesel as set forth in the Sublicense Agreement; and
+
+  
+
+
+WHEREAS, as an inducement to Purchaser to enter into this Agreement, Global desires to assign to, and Purchaser desires to accept the assignment of, Global’s rights and obligations under the Sublicense Agreement upon receipt of NGBF’s written consent to such assignment and in accordance with the terms and conditions set forth herein.
+
+  
+
+
+NOW, THEREFORE, in consideration of the mutual covenants, agreements representations and warranties contained herein, the Parties hereby agree as follows:
+
+  
+
+
+ARTICLE I
+
+PURCHASE OF SHARES
+
+Section 1.1 Purchase and Sale; Purchase Price. Effective the date of this Agreement, Global hereby sells, assigns and transfers to Purchaser, and Purchaser hereby purchases from Global, for eleven cents ($0.11) per share, all of the shares of Common Stock owned by Global (being 5,301,300 shares of Common Stock) (the “Purchased Shares”), for an aggregate purchase price of Five Hundred Eighty-Three Thousand One Hundred Forty-Three and 0/100 Dollars ($583,143.00) (the “Purchase Price”).
+
+Section 1.2 Delivery of the Purchased Shares. As soon as reasonably practicable following the Effective Date, Global shall deliver (or shall cause to be delivered) the stock certificates representing all of the Purchased Shares (the “Certificates”), together with separate stock transfer powers duly completed, executed and endorsed by Global for the transfer of the Purchased Shares to Purchaser (the “Stock Transfer Powers”), to the Escrow Agent (defined below in Section 1.3(a)), in accordance with the Escrow Letter Agreement (defined below in Section 1.3(a)).
+
+  
+
+
+* * *
+
+  
+
+
+Section 1.3 Payment of Purchase Price; Escrow. 
+
+(a) Purchaser has deposited the full amount of the Purchase Price in escrow with Siller Wilk LLP, Purchaser’s counsel, located at 675 Third Avenue, New York, New York 10017-5704, serving as an escrow agent (the “Escrow Agent”). Upon delivery to the Escrow Agent of the Certificates, together with the Stock Transfer Powers, the Escrow Agent shall release the Purchase Price to Global in accordance with the Escrow Letter Agreement among Global, Purchaser and the Escrow Agent, dated as of March 17, 2009 (the “Escrow Letter Agreement”), by initiating a wire transfer in the full amount of the Purchase Price in immediately available U.S. funds to Global pursuant to the wire transfer instructions provided by Global in the Escrow Letter Agreement.
+
+(b) If the Escrow Agent fails to release and pay to Global the full Purchase Price in accordance with, and subject to the conditions of, Section 1.3(a), Purchaser shall remain liable for (and indemnify Global for) the Purchase Price, or any portion thereof that is not so released and paid.
+
+(c) Purchaser acknowledges that the Certificates to be delivered to the Escrow Agent will be in the name of Global when delivered and accompanied with the Stock Transfer Powers duly evidencing the transfer of the Purchased Shares to Purchaser. Upon delivery in accordance with Section 1.3(a), the Purchase Price will be released and paid to Global, regardless of any opinions of counsel, consents of the issuer or transfer agent or other requirements NGBF and/or its transfer agent may request or require to transfer the Purchased Shares into the name of Purchaser upon the books and records of NGBF.
+
+ARTICLE II
+
+ASSIGNMENT OF SUBLICENSE AGREEMENT
+
+Section 2.1 Assignment of Sublicense Agreement. Subject to satisfaction of the condition set forth in Section 2.2, Global shall assign the Sublicense Agreement and all of its rights thereunder and shall delegate its obligations thereunder to Purchaser, and Purchaser shall accept such assignment of the Sublicense Agreement and Global’s rights thereunder and shall assume Global’s obligations under the Sublicense Agreement, as promptly as practicable after satisfaction of the condition set forth in Section 2.2 (the “Sublicense Assignment”).
+
+Section 2.2 Written Consent of NGBF. Purchaser acknowledges that Section 16 of the Sublicense Agreement prohibits the Sublicense Assignment as contemplated by Section 2.1 hereof. Therefore, Purchaser and Global shall use commercially reasonable efforts to obtain a written consent from NGBF to the Sublicense Assignment, provided, that failure to obtain such written consent shall not constitute a breach of this Agreement by either party. NGBF’s written consent to the Sublicense Assignment is a condition precedent to Global’s obligation to assign the Sublicense Agreement to Purchaser pursuant to Section 2.1 and to Purchaser’s obligation to accept the assignment and assume Global’s obligations under the Sublicense Agreement pursuant to Section 2.1.
+
+  
+
+
+\- 2 \- -
+
+* * *
+
+  
+
+
+Section 2.3 Assignment and Assumption Instrument. In order to effect the Sublicense Assignment, upon obtaining the written consent of NGBF to the Sublicense Assignment, as contemplated in Section 2.2, Global and Purchaser shall execute and deliver to each other an assignment and assumption agreement in the form attached to this Agreement as Exhibit A.
+
+ARTICLE III
+
+REPRESENTATIONS AND WARRANTIES
+
+Section 3.1 Representations and Warranties of Global. Global hereby represents and warrants to Purchaser as follows:
+
+(a) Global is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware and has the requisite corporate power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution, delivery and performance of this Agreement by Global has been duly and validly authorized by all necessary corporate and stockholder action, and no other corporate proceedings on its or its stockholders part are necessary to authorize this Agreement. This Agreement has been duly and validly executed and delivered by Global, and, assuming the due authorization, execution and delivery of this Agreement by Purchaser, constitutes the legal, valid and binding obligation, enforceable against Global in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally and subject to the effect of general principles of equity (regardless of whether considered in a proceeding at law or in equity).
+
+(b) Global’s execution, delivery and performance of this Agreement will not constitute a violation of any provision of any law, rule or regulation applicable to Global or conflict with, violate, result in a breach of, or constitute a default under, Global’s certificate of incorporation or bylaws, or any agreement, instrument, judgment, order or decree to which it is a party or by which it or its assets are bound.
+
+(c) Except for filings required under federal or state securities laws and the written consent of NGBF required for the Sublicense Assignment, no consent, approval or authorization of, or declaration, filing or registration with, any governmental or regulatory authority or third party is required to be made or obtained by Global in connection with the execution and delivery of this Agreement by Global, or the performance by Global of its obligations hereunder.
+
+(d) Global is the holder of record and beneficial owner of the Purchased Shares, free and clear of any liens, encumbrances or restrictions, other than restrictions on transfer imposed by federal and applicable state securities laws. There are no outstanding options, warrants or other rights or agreements of any kind (other than this Agreement) for the purchase or acquisition from, or the sale by, Global of any of the Purchased Shares. Global is not a party to any voting trust, proxy or other agreement or understanding with respect to the voting of the Purchased Shares. Upon consummation of the transactions contemplated in this Agreement, Purchaser will acquire valid title to the Purchased Shares free and clear of any liens, restrictions or encumbrances, other than restrictions on transfer imposed by federal and applicable state securities laws.
+
+  
+
+
+\- 3 \- -
+
+* * *
+
+  
+
+
+(e) There are no claims for investment banking fees, brokerage commissions, finder's fees or similar compensation (other than professional fees to attorneys and accountants) in connection with the transactions contemplated by this Agreement based on any arrangement or agreement made by or on behalf of Global.
+
+Section 3.2 Representations and Warranties of Purchaser. Purchaser hereby represents and warrants to Global as follows:
+
+(a) Purchaser is a limited liability company duly organized, validly existing and in good standing under the laws of Arizona with its principal place of business in Arizona, and has the requisite power and authority to execute and deliver this Agreement and to perform its obligations hereunder. The execution, delivery and performance of this Agreement by Purchaser has been duly and validly authorized by all necessary limited liability company action, and no other proceedings on the part of Purchaser or its managers or members are necessary to authorize this Agreement. This Agreement has been duly and validly executed and delivered by Purchaser, and, assuming the due authorization, execution and delivery of this Agreement by Global, constitutes the legal, valid and binding obligation of Purchaser, enforceable against Purchaser in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting creditors’ rights generally and subject to the effect of general principles of equity (regardless of whether considered in a proceeding at law or in equity).
+
+(b) The execution, delivery and performance of this Agreement by Purchaser will not constitute a violation of any provision of any law, rule or regulation applicable to Purchaser or conflict with, violate, result in a breach of, or constitute a default under, the operating agreement (or other governing documents) of Purchaser, or any agreement, instrument, judgment, order or decree to which Purchaser is a party or by which it is bound.
+
+(c) Except for filings required under federal or state securities laws and the written consent of NGBF required for the Sublicense Assignment, no consent, approval or authorization of, or declaration, filing or registration with, any governmental or regulatory authority or third party is required to be made or obtained by Purchaser in connection with the execution and delivery of this Agreement, or the performance by Purchaser of its obligations hereunder.
+
+(d) Purchaser is an “accredited investor” as such term is defined in Rule 501 of Regulation D under the Securities Act of 1933, as amended (the “Securities Act”). Purchaser is acquiring the Purchased Shares for investment purposes only, for its own account and not with a view to, or for resale in connection with, the distribution or other disposition of the Purchased Shares in contravention of the Securities Act or applicable state securities laws (the “State Acts”).
+
+  
+
+
+\- 4 \- -
+
+* * *
+
+  
+
+
+(e) Purchaser has such knowledge and experience in financial and business matters that Purchaser is capable of evaluating the merits and risks of the investment contemplated by this Agreement and making an informed investment decision with respect thereto.
+
+(f) Purchaser understands that the Purchased Shares have not been registered under the Securities Act or any State Acts, and may not be transferred unless subsequently registered thereunder or pursuant to an exemption from registration, and that a legend indicating such restrictions will be placed on the certificates representing such shares.
+
+(g) Except as expressly set forth in Section 3.1(d), Global makes no representation or warranty of any kind with respect to NGBF or the Purchased Shares, and Purchaser hereby acknowledges that in making its investment decision with respect to the purchase of the Purchased Shares, it has not relied on any representation or warranty by Global with respect to NGBF or the Purchased Shares, except for the representation and warranty made in Section 3.1(d).
+
+(h) There are no claims for investment banking fees, brokerage commissions, finder's fees or similar compensation (other than professional fees to attorneys and accountants) in connection with the transactions contemplated by this Agreement based on any arrangement or agreement made by or on behalf of Purchaser.
+
+ARTICLE IV
+
+MISCELLANEOUS
+
+Section 4.1 No Waivers, Amendments.
+
+(a) No failure or delay by any Party in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any single or partial exercise thereof preclude any other or further exercise thereof or the exercise of any other right, power or privilege. The rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies provided by law.
+
+(b) No amendment, modification or supplement to this Agreement shall be enforced against any Party unless such amendment, modification or supplement is signed by all of the Parties.
+
+(c) Any provision of this Agreement may be waived if, but only if, such waiver is in writing and is signed by the Party against whom the enforcement of such waiver is sought.
+
+  
+
+
+\- 5 \- -
+
+* * *
+
+  
+
+
+Section 4.2 Notices. Any notice provided for in this Agreement shall be made in writing and will be deemed properly delivered if either personally delivered or sent by facsimile transmission (upon receipt of a machine-generated confirmation of delivery), overnight courier or mailed certified or registered mail, return receipt requested, postage prepaid, to the recipient as follows:
+
+(a) If to Global, to the attention of its President and Chief Executive Officer, at 3348 Peachtree Road NE, Suite 250, Tower Place 200, Atlanta, Georgia 30326, or to such other attention and address as Global may have specified by notice to Purchaser from time to time;
+
+(b) If to Purchaser, to the attention of Purchaser at 4211 Northern Boulevard, Long Island City, New York 11101, or to such other attention and address as Purchaser may have specified by notice to Global from time to time.
+
+Any such notice shall be effective (x) if delivered personally or by facsimile transmission, when received, (y) if sent by overnight courier, on the date contained in a written confirmation of delivery provided by such courier, or (z) if mailed postage-prepaid and with return receipt requested, five (5) days after being mailed as described above.
+
+  
+
+
+Section 4.3 Governing Law; Submission to Jurisdiction. 
+
+(a) This Agreement shall be governed by and construed in accordance with the laws of the State of New York applicable to contracts executed and to be performed entirely within that state.
+
+(B) GLOBAL AND PURCHASER HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF ANY NEW YORK STATE COURT SITTING IN NEW YORK COUNTY OR NASSAU COUNTY OR FEDERAL COURT OF THE UNITED STATES OF AMERICA SITTING IN THE EASTERN OR SOUTHERN DISTRICTS OF NEW YORK IN CONNECTION WITH ANY PROCEEDING ARISING OUT OF OR OTHERWISE RELATING TO THIS AGREEMENT, AND CONSENT TO SERVICE OF PROCESS WITH RESPECT TO SUCH COURTS IN AND OF THE STATE OF NEW YORK BEING MADE BY REGISTERED OR CERTIFIED MAIL TO IT IN ACCORDANCE WITH SECTION 4.2.
+
+Section 4.4 Section Headings. The section headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement.
+
+Section 4.5 Construction. The language used in this Agreement will be deemed to be the language chosen by the Parties to express their mutual intent, and no rule of strict construction will be applied against any Party.
+
+  
+
+
+\- 6 \- -
+
+* * *
+
+  
+
+
+Section 4.6 Entire Agreement; No Other Representations. This Agreement, including the exhibits hereto, constitutes the entire agreement and understanding between the Parties relating to the subject matter hereof and supersedes any and all prior agreements and understandings, written or oral, relating to the subject matter hereof. None of the Parties has made any representations or warranties concerning the subject matter of this Agreement except those set forth in Article III hereof.
+
+Section 4.7 Severability. Any term or provision of this Agreement which is invalid or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such invalidity or unenforceability without rendering invalid or unenforceable the remaining terms and provisions of this Agreement or affecting the validity or enforceability of any of the terms or provisions of this Agreement in any other jurisdictions, it being intended that all rights and obligations of the Parties hereunder shall be enforceable to the fullest extent permitted by law.
+
+Section 4.8 Counterparts. This Agreement may be signed in counterparts, each of which shall constitute an original and which together shall constitute one and the same agreement.
+
+Section 4.9 Parties in Interest. Neither this Agreement nor any of the rights of the Parties hereunder shall be assigned by any of the Parties without the prior written consent of the other Party. This Agreement and all the provisions hereof shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns.
+
+Section 4.10 Further Assurances. The Parties agree to execute, acknowledge, deliver, file and record such further certificates, amendments, instruments, agreements and documents, and to do all such other acts and things, as may be required by law or as may be necessary or advisable to carry out the intent and purposes of this Agreement.
+
+Section 4.11 Survival. The representations, warranties, covenants and agreements of the Parties contained in this Agreement shall survive the purchase and sale of the Purchased Shares pursuant to this Agreement. The representations and warranties of the Parties contained in this Agreement shall expire three (3) years from the date of this Agreement, except that if, prior to such expiration, a Party has made a claim or claims in writing to another Party of a breach of one or more representations and warranties by such Party, such representations and warranties shall survive for purposes of resolution of such claim or claims.
+
+[Signatures on following pages]
+
+\- 7 \- -
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the date first written above.
+
+  
+
+
+  
+
+
+GLOBAL ENERGY HOLDINGS GROUP, INC.  
+  
+By:
+
+/s/ Rom Papadopoulos  
+  
+Name: Rom Papadopoulos  
+  
+Title: Executive Vice President  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be executed as of the date first written above.
+
+  
+
+
+  
+
+
+2020 ENERGY, LLC  
+  
+By:
+
+/s/ Abraham Jacobi  
+  
+Name: Abraham Jacobi,  
+  
+Its sole member  
+  
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+EXHIBIT A
+
+  
+
+
+FORM OF ASSIGNMENT AND ASSUMPTION INSTRUMENT
+
+  
+
+
+  
+
+
+ASSIGNMENT OF SUBLICENSE AGREEMENT
+
+BY
+
+GLOBAL ENERGY HOLDINGS GROUP, INC.
+
+TO
+
+2020 ENERGY, LLC
+
+  
+
+
+This Assignment and Assumption Agreement (this "Instrument") is made and entered into as of _______ __, 2009, by and between Global Energy Holdings Group, Inc., a Delaware corporation (“Assignor”), and 2020 Energy, LLC, an Arizona limited liability company (“Assignee”).
+
+  
+
+
+WHEREAS, Assignor and Assignee have entered into that certain stock purchase agreement, dated as of March 17, 2009 (the “Agreement”), by which Assignor has sold to Assignee, and Assignee has purchased from Assignor, all of the outstanding capital stock of New Generation Biofuels Holdings, Inc., a Florida corporation (“NGBF”), that are owned by Assignor, pursuant to the terms and conditions set forth in the Agreement;
+
+  
+
+
+WHEREAS, Assignor and NGBF are parties to that certain amended and restated sublicense agreement, dated as June 15, 2006, between H2Diesel, Inc. (predecessor in interest to NGBF) and Assignor (the “Sublicense Agreement”), pursuant to which NGBF sublicenses to Assignor certain technology and rights related to the manufacture of a vegetable oil based biodiesel as set forth in the Sublicense Agreement;
+
+  
+
+
+WHEREAS, under the Agreement, Assignor has agreed to assign and delegate the Sublicense Agreement and all of its rights and obligations thereunder to Assignee, and Assignee has agreed to accept such assignment and assume Assignor’s obligations under the Sublicense Agreement (the “Assignment”), subject to receipt from NGBF of a written consent to the Assignment; and
+
+  
+
+
+WHEREAS, NGBF has executed and delivered a written consent, dated _______ __, 2009, to the Assignment.
+
+  
+
+
+NOW, THEREFORE, for and in consideration of the premises and the mutual covenants contained herein, and for other good and valuable consideration, the receipt, adequacy and legal sufficiency of which are hereby acknowledged, the parties hereby agree as follows:
+
+  
+
+
+1\. Assignment and Assumption. Effective as of the date hereof, Assignor hereby assigns, transfers, conveys, and delivers, absolutely, unconditionally and irrevocably, to Assignee all of Assignor’s right, title, and interest in and to the Sublicense Agreement and hereby delegates all of Assignor’s duties and obligations thereunder. Assignee hereby accepts the assignment of the Sublicense Agreement and assumes and agrees to observe and perform all of the duties and obligations, and to pay and discharge when due all of the liabilities of Assignor to be observed, performed, paid or discharged under the Sublicense Agreement.
+
+  
+
+
+* * *
+
+  
+
+
+2\. Further Actions. Each of the parties hereto covenants and agrees to execute and deliver, at the reasonable request of the other party hereto, such further instruments and to take such other actions, as such other party may reasonably request, to more effectively consummate the assignment contemplated by this Instrument.
+
+3\. Section Headings. The section headings contained in this Instrument are for reference purposes only and shall not affect the meaning or interpretation of this Instrument.
+
+4\. Notice. All notices, requests and other communications to be given by any party hereunder shall be in writing and delivered in accordance with Section 4.2 of the Agreement.
+
+5\. Governing Law; Submission to Jurisdiction.
+
+(a) This Instrument shall be governed by and construed in accordance with the laws of the State of New York applicable to contracts executed and to be performed entirely within that state.
+
+(b) ASSIGNOR AND ASSIGNEE HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF ANY NEW YORK STATE COURT SITTING IN NEW YORK COUNTY OR NASSAU COUNTY OR FEDERAL COURT OF THE UNITED STATES OF AMERICA SITTING IN THE EASTERN OR SOUTHERN DISTRICTS OF NEW YORK IN CONNECTION WITH ANY PROCEEDING ARISING OUT OF OR OTHERWISE RELATING TO THIS INSTRUMENT, AND CONSENT TO SERVICE OF PROCESS WITH RESPECT TO SUCH COURTS IN AND OF THE STATE OF NEW YORK BEING MADE BY REGISTERED OR CERTIFIED MAIL TO IT IN ACCORDANCE WITH SECTION 4.
+
+6\. Binding Effect. This Instrument shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns.
+
+7\. Counterparts. This Instrument may be executed in any number of counterparts, each of which shall be an original, and all of such counterparts together shall constitute one and the same instrument.
+
+  
+
+
+[Signatures on following pages]
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned has executed this Instrument as of the date first written above.
+
+  
+
+
+  
+
+
+ASSIGNOR:
+
+GLOBAL ENERGY HOLDINGS GROUP, INC.  
+  
+By:  
+  
+Rom Papadopoulos  
+  
+Executive Vice President  
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the undersigned has executed this Instrument as of the date first written above.
+
+  
+
+
+  
+
+
+ASSIGNEE:
+
+2020 ENERGY, LLC  
+  
+By:  
+  
+Abraham Jacobi,  
+  
+Its sole member  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * * * *
+
+  
+
+
+* * *
+
+  
+

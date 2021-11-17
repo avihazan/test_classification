@@ -1,0 +1,149 @@
+  
+
+
+Exhibit 10.53
+
+
+PURSUANT TO THE PROJECT 350 PERFORMANCE AWARD  
+GRANTED UNDER THE  
+SIX FLAGS ENTERTAINMENT CORPORATION LONG-TERM INCENTIVE PLAN
+
+* * * * *
+
+Participant:
+
+Grant Date:
+
+Number of Restricted Stock Units Granted:
+
+* * * * *
+
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Agreement”), dated as of the Grant Date specified above, is entered into by and between Six Flags Entertainment Corporation, a corporation organized in the State of Delaware (the “Company”), and the Participant specified above, pursuant to the Project 350 Performance Award granted under Six Flags Entertainment Corporation Long-Term Incentive Plan, as in effect and as amended from time to time (the “Plan”), which is administered by the Committee to grant Restricted Stock Units (“RSUs”) to the Participant;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises hereinafter set forth and for other good and valuable consideration, the parties hereto hereby mutually covenant and agree as follows:
+
+1. Incorporation By Reference; Plan Document Receipt. This Agreement is subject in all respects to the terms and provisions of the Plan (including, without limitation, any amendments thereto adopted at any time and from time to time unless such amendments are expressly intended not to apply to the Award provided hereunder), all of which terms and provisions are made a part of and incorporated in this Agreement as if they were each expressly set forth herein. Any capitalized term not defined in this Agreement shall have the same meaning as is ascribed thereto in the Plan. The Participant hereby acknowledges receipt of a true copy of the Plan and that the Participant has read the Plan carefully and fully understands its content. In the event of any conflict between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall control.
+
+2. Grant of Restricted Stock Unit Award. The Company hereby grants to the Participant in accordance with the Project 350 Performance Award, as of the Grant Date specified above, the number of RSUs specified above. Each RSU corresponds to one share of Company Stock. Except as otherwise provided by the Plan, the Participant agrees and understands that nothing contained in this Agreement provides, or is intended to provide, the Participant with any protection against potential future dilution of the Participant’s interest in the Company for any reason, and no adjustments shall be made for dividends in cash or other property, distributions or other rights in respect of the shares of Company Stock underlying the RSUs, except as otherwise specifically provided for in the Plan or this Agreement. By accepting this Award, the Participant agrees that the Company and its Affiliates by grant of the RSUs subject to this Award and by fulfillment of the terms of this Agreement will fully discharge any and all obligations or commitments to grant equity awards to the Participant pursuant to the Project 350 Performance Award, including, without limitation, any such obligations or commitments set forth in any employment agreement.
+
+3. Vesting.
+
+(a) Subject to the provisions of Sections 3(b) through 3(e) hereof, the RSUs subject to this Award shall vest in accordance with the following two vesting conditions:
+
+· 2012 EBITDA. The Company’s adjusted EBITDA for the calendar year ending December 31, 2012 must be at least $321.75 (“2012 Target Adjusted EBITDA”). If 2012 Target Adjusted EBITDA is not achieved for 2012, 50% of the RSUs subject to this Award will be immediately forfeited.
+
+* * *
+
+  
+
+
+· Time Vesting. The outstanding RSUs subject to this Award (i.e., determined after any forfeiture due to the failure to achieve the 2012 Target Adjusted EBITDA) will vest on completion of the Company’s 2012 audit (“2012 Audit Completion”) if the Participant is then employed by the Company or its Subsidiaries.
+
+(b) Termination of Employment without Cause or for Good Reason. In the event the Participant’s employment with the Company and its Subsidiaries is terminated by the Company without Cause or by the Participant for Good Reason prior to the 2012 Audit Completion, the Participant will vest in the pro rata portion [based on the portion of the time vesting period (the time period from the completion of Company’s 2011 audit until the completion of the Company’s 2012 audit) the Participant is employed by the Company or its Subsidiaries] of the RSUs subject to this Award that would otherwise have vested upon 2012 Audit Completion (i.e., assuming the 2012 Target Adjusted EBITDA is achieved, the Participant will vest in a pro rata portion of the total RSUs subject to this Award; assuming the 2012 Target Adjusted EBITDA is not achieved, the Participant will vest in a pro rata portion of 50% of the RSUs subject to this Award).
+
+(c) Termination due to Death or Disability. If the Participant’s employment with the Company and its Subsidiaries is terminated prior to the 2012 Audit Completion due to the Participant’s death or Disability, the RSUs subject to this Award will 100% vest if the 2012 Target Adjusted EBITDA is achieved.
+
+(d) Change in Control. If the Participant’s employment is terminated by the Company and its Subsidiaries without Cause or by the Participant for Good Reason during the twelve (12) month period following a Change in Control, the RSUs subject to this Award will 100% vest if the 2012 Target Adjusted EBITDA is achieved. This Section 3(d) does not limit the vesting pursuant to Section 3(b) of outstanding RSUs subject to this Award if the 2012 Target Adjusted EBITDA is not achieved.
+
+(e) Committee Discretion to Accelerate Vesting. Notwithstanding the foregoing, the Committee may, in its sole discretion, provide for accelerated vesting of the RSUs at any time and for any reason.
+
+(f) Waiver of Accelerated Vesting. Notwithstanding anything set forth in any agreement between the Participant and the Company and/or an Affiliate to the contrary, including, without limitation, any employment agreement between the Participant and the Company and/or an Affiliate effective as of the date hereof, for purposes of this Agreement, the accelerated vesting provisions set forth in Sections 3(b), 3(c), 3(d), and 3(e) hereof shall be the exclusive provisions that shall accelerate the vesting of the RSUs granted hereunder and the Participant hereby waives any provision set forth in any agreement between the Participant and the Company and/or an Affiliate that would otherwise accelerated the vesting of the RSUs granted hereunder.
+
+(g) Forfeiture. Subject to Sections 3(b), 3(c) and 3(d) and the Committee’s discretion to accelerate vesting hereunder, all unvested RSUs shall be immediately forfeited upon the Participant’s termination of employment for any reason.
+
+4. Delivery of Shares.
+
+(a) General. Subject to the provisions of Sections 4(b) and 4(c) hereof, within thirty (30) days following the vesting of the RSUs, the Participant shall receive the number of shares of Company Stock that correspond to the number of RSUs that have become vested on the applicable vesting date.
+
+(b) Blackout Periods. If the Participant is subject to any Company “blackout” policy or other trading restriction imposed by the Company on the date such distribution would otherwise be made pursuant to Section 4(a) hereof, such distribution shall be instead made on the earlier of (i) the date that the Participant is not subject to any such policy or restriction and (ii) the later of (A) the end of the calendar year in which such distribution would otherwise have been made and (B) a date that is immediately prior to the expiration of two and one-half months following the date such distribution would otherwise have been made hereunder.
+
+(c) Deferrals. If permitted by the Company, the Participant may elect, subject to the terms and conditions of the Plan and any other applicable written plan or procedure adopted by the Company from time to time for purposes of such election, to defer the distribution of all or any portion of the shares of Company Stock that would otherwise be distributed to the Participant hereunder (the “Deferred Shares”), consistent with the requirements of Section 409A of the Code. Upon the vesting of RSUs that have been so deferred, the applicable number of Deferred Shares shall be
+
+* * *
+
+  
+
+
+credited to a bookkeeping account established on the Participant’s behalf (the “Account”). Subject to Section 5 hereof, the number of shares of Company Stock equal to the number of Deferred Shares credited to the Participant’s Account shall be distributed to the Participant in accordance with the terms and conditions of the Plan and the other applicable written plans or procedures of the Company, consistent with the requirements of Section 409A of the Code.
+
+5. Dividends; Rights as Stockholder. Cash dividends on shares of Company Stock issuable hereunder shall be credited to a dividend book entry account on behalf of the Participant with respect to each RSU granted to the Participant, provided that such cash dividends shall not be deemed to be reinvested in shares of Company Stock and shall be held uninvested and without interest and paid in cash at the same time that the shares of Company Stock underlying the RSUs are delivered to the Participant in accordance with the provisions hereof (as to any shares of stock delivered). Stock dividends on shares of Company Stock shall be credited to a dividend book entry account on behalf of the Participant with respect to each RSU granted to the Participant, provided that such stock dividends shall be paid in shares of Company Stock at the same time that the shares of Company Stock underlying the RSUs are delivered to the Participant in accordance with the provisions hereof (as to any shares of stock delivered). Except as otherwise provided herein, the Participant shall have no rights as a stockholder with respect to any shares of Company Stock covered by any RSU unless and until the Participant has become the holder of record of such shares.
+
+6. Non-Transferability. No portion of the RSUs may be sold, assigned, transferred, encumbered, hypothecated or pledged by the Participant, other than to the Company as a result of forfeiture of the RSUs as provided herein, unless and until payment is made in respect of vested RSUs in accordance with the provisions hereof and the Participant has become the holder of record of the vested shares of Company Stock issuable hereunder.
+
+7. Governing Law. All questions concerning the construction, validity and interpretation of this Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, without regard to the choice of law principles thereof.
+
+8. Withholding of Tax. As a condition to receiving the shares of Company Stock hereunder, the Participant must remit to the Company an amount sufficient to satisfy any federal, state, local and foreign taxes of any kind (including, but not limited to, the Participant’s FICA and SDI obligations) which the Company, in its sole discretion, deems necessary to be withheld or remitted to comply with the Code and/or any other applicable law, rule or regulation with respect to the RSUs and, if the Participant fails to do so, the Company may refuse to issue or transfer any shares of Company Stock otherwise required to be issued pursuant to this Agreement.
+
+9. Legend. The Company may at any time place legends referencing any applicable federal, state or foreign securities law restrictions on all certificates representing shares of Company Stock issued pursuant to this Agreement. The Participant shall, at the request of the Company, promptly present to the Company any and all certificates representing shares of Company Stock acquired pursuant to this Agreement in the possession of the Participant in order to carry out the provisions of this Section 9.
+
+10. Securities Representations. This Agreement is being entered into by the Company in reliance upon the following express representations and warranties of the Participant. The Participant hereby acknowledges, represents and warrants that:
+
+(a) The Participant has been advised that the Participant may be an “affiliate” within the meaning of Rule 144 under the Securities Act and in this connection the Company is relying in part on the Participant’s representations set forth in this Section 10.
+
+(b) If the Participant is deemed an affiliate within the meaning of Rule 144 of the Securities Act, the shares of Company Stock issuable hereunder must be held indefinitely unless an exemption from any applicable resale restrictions is available or the Company files an additional registration statement (or a “re-offer prospectus”) with regard to such shares of Company Stock and the Company is under no obligation to register such shares of Company Stock (or to file a “re-offer prospectus”).
+
+(c) If the Participant is deemed an affiliate within the meaning of Rule 144 of the Securities Act, the Participant understands that (i) the exemption from registration under Rule 144 will not be available unless (A) a public trading market then exists for the Company Stock of the Company, (B) adequate information concerning the Company is then available to the public, and (C) other terms and conditions of Rule 144 or any exemption therefrom are complied with,
+
+* * *
+
+  
+
+
+and (ii) any sale of the shares of Company Stock issuable hereunder may be made only in limited amounts in accordance with the terms and conditions of Rule 144 or any exemption therefrom.
+
+11. Entire Agreement; Amendment. This Agreement, together with the Plan, contains the entire agreement between the parties hereto with respect to the subject matter contained herein, and supersedes all prior agreements or prior understandings, whether written or oral, between the parties relating to such subject matter. The Committee shall have the right, in its sole discretion, to modify or amend this Agreement from time to time in accordance with and as provided in the Plan. This Agreement may also be modified or amended by a writing signed by both the Company and the Participant. The Company shall give written notice to the Participant of any such modification or amendment of this Agreement as soon as practicable after the adoption thereof.
+
+12. Notices. Any notice hereunder by the Participant shall be given to the Company in writing and such notice shall be deemed duly given only upon receipt thereof by the General Counsel of the Company. Any notice hereunder by the Company shall be given to the Participant in writing and such notice shall be deemed duly given only upon receipt thereof at such address as the Participant may have on file with the Company.
+
+13. No Right to Employment. Any questions as to whether and when there has been a termination of employment and the cause of such termination shall be determined in the sole discretion of the Committee. Nothing in this Agreement shall interfere with or limit in any way the right of the Company, its Subsidiaries or its Affiliates to terminate the Participant’s employment or service at any time, for any reason and with or without Cause.
+
+14. Transfer of Personal Data. The Participant authorizes, agrees and unambiguously consents to the transmission by the Company (or any Subsidiary) of any personal data information related to the RSUs awarded under this Agreement for legitimate business purposes (including, without limitation, the administration of the Plan). This authorization and consent is freely given by the Participant.
+
+15. Compliance with Laws. The grant of RSUs and the issuance of shares of Company Stock hereunder shall be subject to, and shall comply with, any applicable requirements of any foreign and U.S. federal and state securities laws, rules and regulations (including, without limitation, the provisions of the Securities Act of 1933, as amended, the Exchange Act and in each case any respective rules and regulations promulgated thereunder) and any other law, rule, regulation or exchange requirement applicable thereto. The Company shall not be obligated to issue the RSUs or any shares of Company Stock pursuant to this Agreement if any such issuance would violate any such requirements. As a condition to the settlement of the RSUs, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate to evidence compliance with any applicable law or regulation.
+
+16. Binding Agreement; Assignment. This Agreement shall inure to the benefit of, be binding upon, and be enforceable by the Company and its successors and assigns. The Participant shall not assign (except in accordance with Section 6 hereof) any part of this Agreement without the prior express written consent of the Company.
+
+17. Headings. The titles and headings of the various sections of this Agreement have been inserted for convenience of reference only and shall not be deemed to be a part of this Agreement.
+
+18. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which shall constitute one and the same instrument.
+
+19. Further Assurances. Each party hereto shall do and perform (or shall cause to be done and performed) all such further acts and shall execute and deliver all such other agreements, certificates, instruments and documents as either party hereto reasonably may request in order to carry out the intent and accomplish the purposes of this Agreement and the Plan and the consummation of the transactions contemplated thereunder.
+
+20. Severability. The invalidity or unenforceability of any provisions of this Agreement in any jurisdiction shall not affect the validity, legality or enforceability of the remainder of this Agreement in such jurisdiction or the validity, legality or enforceability of any provision of this Agreement in any other jurisdiction, it being intended that all rights and obligations of the parties hereunder shall be enforceable to the fullest extent permitted by law.
+
+21. Acquired Rights. The Participant acknowledges and agrees that: (a) the Company may terminate or amend the Plan at any time; (b) no past grants or awards (including, without limitation, the RSUs awarded
+
+* * *
+
+  
+
+
+hereunder) give the Participant any right to any grants or awards in the future whatsoever; and (c) any benefits granted under this Agreement are not part of the Participant’s ordinary salary, and shall not be considered as part of such salary in the event of severance, redundancy or resignation.
+
+22. Definitions. For purposes of this Agreement, the terms “Cause”, “Change in Control”, “Disability” and “Good Reason” shall have the meanings set forth in Participant’s employment agreement with the Company dated as of .
+
+* * * * *
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written above.
+
+SIX FLAGS ENTERTAINMENT CORPORATION  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+PARTICIPANT  
+  
+Name:  
+  
+* * *
+
+  
+

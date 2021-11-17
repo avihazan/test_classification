@@ -1,0 +1,135 @@
+Exhibit 10.16
+
+
+
+  
+
+
+(Officer Incentive Stock Option)
+
+  
+
+
+This Stock Option Agreement (this “Agreement”), effective as of «GrantDate» (the “Grant Date”), is by and between Lexicon Pharmaceuticals, Inc., a Delaware corporation (the “Company”), and «Name» (“Optionee”).
+
+  
+
+
+To carry out the purposes of the Lexicon Pharmaceuticals, Inc. Equity Incentive Plan (the “Plan”), by providing Optionee the opportunity to purchase shares of Common Stock, par value $0.001 per share, of the Company (“Stock”), and in consideration of the mutual agreements and other matters set forth herein and in the Plan, the Company and Optionee hereby agree as follows:
+
+  
+
+
+1\. Grant of Option. The Company hereby grants to Optionee the right and option (the “Option”) to purchase all or any part of an aggregate of «Shares» shares of Stock, on the terms and conditions set forth in this Agreement and in the Plan. The Option shall be treated as an “incentive stock option” within the meaning of section 422(b) of the Internal Revenue Code of 1986, as amended (the “Code”), to the maximum extent permitted under the Code, and as a non-statutory stock option to the extent it exceeds the limitations imposed by the Code for incentive stock options.
+
+  
+
+
+2\. Exercise Price. The price at which Optionee may purchase Stock upon exercise of the Option (the “Exercise Price”) shall be $«Price» per share, which has been determined to be the Fair Market Value (as defined in the Plan) of the Stock on the Grant Date. The Exercise Price is subject to adjustment under certain circumstances as provided in the Plan.
+
+  
+
+
+3\. Term. The Option shall expire on the 10th anniversary of the Grant Date, subject to earlier termination under the circumstances specified in Section 8 of this Agreement.
+
+  
+
+
+4\. Exercisability and Vesting. (a) Subject to the terms and conditions set forth in this Agreement and the Plan, the Option may be exercised, in whole or in part, at any time and from time to time during the term of the Option, to purchase the number of shares of Stock that have vested and become exercisable in accordance with this Agreement. The Option shall vest and become exercisable with respect to (i) 25% of the total number of shares of Stock subject to the Option on «VestingDate» and (ii) an additional 1/48 of the total number of shares subject to the Option each month thereafter; provided that such options shall become vested with respect to all remaining unvested shares in the event of a Change in Control (as defined below); and provided further, that, upon the termination of Optionee’s Continuous Service (as defined in the Plan), the Option shall cease to vest and shall terminate with respect to all shares of Stock that have not vested and become exercisable prior to such time.
+
+  
+
+
+(b) A “Change in Control” shall be deemed to have occurred if any of the following shall have taken place: (i) any “person” (as such term is used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934 (the “Exchange Act”)) other than Invus, L.P. and its affiliates (collectively, “Invus”) is or becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act, or any successor provisions thereto), directly or indirectly, of securities of the Company representing 35% or more of the combined voting power of the Company’s then-outstanding voting securities; (ii) Invus becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act, or any successor provisions thereto), directly or indirectly, of securities of the Company representing 50% or more of the combined voting power of the Company’s then-outstanding voting securities; (iii) the approval by the stockholders of the Company of a reorganization, merger, or consolidation, in each case with respect to which persons who were stockholders of the Company immediately prior to such reorganization, merger or consolidation do not, immediately thereafter, own or control more than 50% of the combined voting power of the reorganized, merged or consolidated Company’s then-outstanding securities entitled to vote generally in the election of directors in substantially the same proportions as their ownership of the Company’s outstanding voting securities prior to such reorganization, merger or consolidation; (iv) a liquidation or dissolution of the Company or the sale of all or substantially all of the Company’s assets; (v) in the event any person is elected by the stockholders of the Company to the Company’s board of directors (the “Board”) who has not been nominated for election by a majority of the Board or any duly appointed committee thereof; or (vi) following the election or removal of directors, a majority of the Board consists of individuals who were not members of the Board two years before such election or removal, unless the election of each director who is not a director at the beginning of such two-year period has been approved in advance by directors representing at least a majority of the directors then in office who were directors at the beginning of the two-year period. The Compensation Committee of the Board, in its discretion, may deem any other corporate event affecting the Company to be a “Change in Control” hereunder.
+
+* * *
+
+  
+
+
+5\. Procedures for Exercise. Subject to the terms and conditions set forth in this Agreement and the Plan, the Option may be exercised by delivery to the Company at its principal executive office of (i) written notice addressed to the Secretary of the Company specifying the number of shares of Stock as to which the Option is being exercised and (ii) payment in full of the Exercise Price for such shares. The Exercise Price shall be paid in cash or in such other manner as may be authorized by the administrator of the Plan in accordance with the terms of the Plan. If the offering, sale and delivery of the shares of Stock issuable upon exercise of the Option have not been registered under the Securities Act of 1933 (the “Securities Act”), the Company may require Optionee, as a condition to Optionee’s exercise of the Option, to enter into a stock purchase agreement containing such representations and warranties as the Company may deem necessary to permit the issuance of the Stock purchased upon exercise of the Option in compliance with the Securities Act and applicable state securities laws.
+
+  
+
+
+6\. No Rights of Ownership in Stock Before Issuance. No person shall be entitled to the rights and privileges of stock ownership with respect to any shares of Stock issuable upon exercise of the Option until such shares have been issued in accordance with the terms of this Agreement and the Plan.
+
+  
+
+
+7\. Non-Transferability. The Option may not be transferred by Optionee otherwise than by will or the laws of descent and distribution or pursuant to a qualified domestic relations order (as defined in Title I of the Employee Retirement Income Security Act of 1974, as amended, or the rules thereunder).
+
+  
+
+
+8\. Termination of Option. If Optionee’s Continuous Service is terminated for any reason other than (i) the Disability (as defined in the Plan) or death of Optionee or (ii) the Company’s termination of Optionee’s employment without cause, the Option shall remain exercisable, with respect to the shares of Stock that had vested under the terms of this Agreement before the date of such termination, for a period of 90 days after the date of such termination (but in no event later than the expiration date of the Option specified in Section 3 of this Agreement), following which 90-day period this Agreement and Optionee’s right to exercise the Option shall terminate. If Optionee’s Continuous Service is terminated because of (i) the Disability or death of Optionee or (ii) the Company’s termination of Optionee’s employment without cause, the Option shall remain exercisable, with respect to the shares of Stock that had vested under the terms of this Agreement before the date of such termination, for a period of one year after the date of such termination (but in no event later than the expiration date of the Option specified in Section 3 of this Agreement), following which one-year period this Agreement and Optionee’s right to exercise the Option shall terminate; provided that the Option shall not be treated as an “incentive stock option” within the meaning of the Code if the Option is exercised more than 90 days following the termination of Optionee’s Continuous Service as a result of the Company’s termination of Optionee’s employment without cause. Notwithstanding the foregoing, if the employment of Optionee by the Company is terminated for cause, this Agreement and Optionee’s right to exercise any portion of the Option, whether or not vested, shall terminate at the commencement of business on the date of such termination. For purposes of this Agreement, “cause” shall mean (x) the breach of a material obligation of Optionee under any agreement between Optionee and the Company, (y) gross negligence or willful or intentional wrongdoing or misconduct on the part of Optionee, or (z) Optionee’s conviction of a felony offense or a crime involving moral turpitude.
+
+2
+
+* * *
+
+  
+
+
+9\. Withholding of Tax. To the extent that the Company is required under applicable federal or state income tax laws to withhold any amount on account of any present or future tax imposed as a result of the exercise of the Option, Optionee shall pay the Company, at the time of such exercise, funds in an amount sufficient to permit the Company to satisfy such withholding obligations in full. If Optionee fails to pay such amount, the Company shall be authorized (i) to withhold from any cash remuneration then or thereafter payable to Optionee any tax required to be withheld or (ii) to refuse to issue or transfer any shares otherwise required to be issued pursuant to the terms of this Agreement.
+
+  
+
+
+10\. Status of Stock. (a) Unless the offering, sale and delivery of the shares of Stock issuable upon exercise of the Option have been registered under the Securities Act, Optionee agrees that any shares of Stock purchased upon exercise of the Option shall be acquired for investment without a view to distribution, within the meaning of the Securities Act, and shall not be sold, transferred, assigned, pledged or hypothecated in the absence of an effective registration statement under the Securities Act and applicable state securities laws or an applicable exemption from the registration requirements of the Act and any applicable state securities laws. Optionee further agrees that the shares of Stock which Optionee may acquire by exercising the Option will not be sold or disposed of in any manner which would constitute a violation of any other applicable federal or state securities laws. In addition, Optionee agrees (i) that the certificates representing the shares of Stock issued under this Agreement may bear such legend or legends as the administrator of the Plan deems appropriate in order to assure compliance with applicable securities laws, and (ii) that the Company may give instruction to its transfer agent, if any, to stop transfer of the shares of Stock issued under this Agreement on the stock transfer records of the Company, if such proposed transfer would, in the opinion of counsel to the Company, constitute a violation of any applicable securities law or any such agreements.
+
+  
+
+
+(b) Optionee further agrees that the Option granted herein shall be subject to the requirement that if at any time the administrator of the Plan shall determine, in its discretion, that the listing, registration or qualification of the shares of Stock subject to such Option upon any securities exchange or market or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary or desirable as a condition of, or in connection with, the purchase or issuance of shares of Stock hereunder, such Option may not be exercised in whole or in part unless such listing, registration, qualification, consent or approval shall have been effected or obtained free of any conditions not reasonably acceptable to the administrator of the Plan.
+
+  
+
+
+11\. Stock Option Plan. The Plan, a copy of which is available for inspection by Optionee or other persons entitled to exercise this Option at the Company’s principal executive office during business hours, is incorporated by reference in this Agreement. The Option is subject to, and the Company and Optionee agree to be bound by, all of the terms and conditions of the Plan. In the event of a conflict between this Agreement and the Plan, the terms of the Plan shall control. Subject to the terms of the Plan, the administrator of the Plan shall have authority to construe the terms of this Agreement, and the determinations of the administrator of the Plan shall be final and binding on Optionee and the Company.
+
+  
+
+
+12\. Binding Agreement. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under Optionee.
+
+  
+
+
+3
+
+* * *
+
+13\. Governing Law. This Agreement and all actions taken hereunder shall be governed by and construed in accordance with the laws of the State of Delaware.
+
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be duly executed and Optionee has executed this Agreement as of the day and year first above written.
+
+  
+
+
+Lexicon Pharmaceuticals, Inc.  
+  
+By:  
+  
+Arthur T. Sands, M.D., Ph.D.  
+  
+President and Chief Executive Officer  
+  
+Optionee  
+  
+[Name]  
+  
+  
+
+
+4  
+

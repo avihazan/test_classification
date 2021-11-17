@@ -1,0 +1,329 @@
+Exhibit 10.10
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+
+
+This Option Agreement (the “Agreement”), effective as of August 29, 2014 (the “Effective Date”), is entered by and between MabVax Therapeutics, Inc., with a principal place of business at 11588 Sorrento Valley Road, Suite 20, San Diego, CA 92121 (“MabVax”), and Juno Therapeutics, Inc., with a principal place of business at 307 Westlake Avenue North, Suite 300, Seattle, WA 98109 (“Juno”).
+
+BACKGROUND
+
+A.
+
+MabVax owns certain Patent Rights (as defined below) relating to certain antibody binding domains;  
+  
+B.
+
+MabVax has isolated Domains (as defined herein) with binding specificity for human GD2 or sialyl Lewis A antigens, and Controls certain patents and patent applications with respect to such Domains;  
+  
+C.
+
+MabVax represents that it will, on or about the Effective Date, enter into an agreement with Memorial Sloan-Kettering Cancer Center (“MSKCC”) under which MabVax will deliver certain Biological Materials (defined below) to MSKCC for research purposes (“MSKCC Agreement”). MabVax represents that, under the MSKCC Agreement, MSKCC has no right to transfer Domains provided by MabVax under the MSKCC Agreement, or CARs that contain such Domains, or the sequences of any such Domains, to any person or entity (including Juno) without MabVax’s consent; and  
+  
+D.
+
+Juno desires to obtain an exclusive option to obtain from MabVax a license under the Patent Rights (as defined herein), and MabVax desires to grant such an option to Juno, on the terms and conditions herein.  
+  
+NOW, THEREFORE, in consideration of the premises and mutual promises set forth in this Agreement, and other good and valuable consideration, the exchange, receipt and sufficiency of which are acknowledged, MabVax and Juno agree as follows:
+
+1.
+
+DEFINITIONS  
+  
+1.1 “Affiliate” means, with respect to a party, any person or entity, which controls, is controlled by or is under common control with such party, and only for the duration of such control. For the purpose of this definition, “control” means: (a) direct or indirect ownership of fifty percent (50%) or more (or, if fifty percent (50%) or less, the maximum ownership interest permitted by applicable law) of the stock or shares having the right to vote for the election of directors of such corporate entity; or (b) the possession, directly or indirectly, of the power to direct, or cause the direction of, the management or policies of such entity, whether through the ownership of voting securities, by contract or otherwise. For avoidance of doubt, Telik, Inc., a Delaware corporation, will constitute an “Affiliate” of MabVax.
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+1
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+1.2 “Biological Materials” means any genetic sequences (such as cDNA and genes), vectors, constructs, cells, plasmids and/or other biological materials containing a Domain, or a portion thereof.
+
+1.3 “CAR Product” means any T-cell based product containing a CAR where the CAR includes a Domain, and where such product is under development, developed, made or sold by Juno or its Affiliates or sublicensees.
+
+1.4 “CAR T-Cell Product” means any T-cell based product containing a CAR.
+
+1.5 “Chimeric Antigen Receptor” or “CAR” means chimeric antigen receptor.
+
+1.6 “Confidential Information” means: (a) the terms and conditions of this Agreement; (b) any information disclosed or made available by a party to the other party in connection with this Agreement that is in written, graphic, machine readable or other tangible form and, in each case, is marked “Confidential” or in some other manner to indicate its confidential nature; (c) information disclosed orally hereunder which is identified as confidential when disclosed and such disclosure of confidential information is confirmed in writing within thirty (30) days by the disclosing party; and (d) any other information of the type or nature that should reasonably be understood by a reasonable business person, in the context of the disclosure, to be confidential.
+
+1.7 “Change of Control” means with respect to MabVax: (a) the sale of all or substantially all of its assets; (b) any issuance, sale, or transfer of the outstanding shares of capital stock or equity of MabVax (whether in a single transaction or in a series of related transactions) as a result of which the holders of the voting power of the outstanding capital stock or equity of MabVax immediately prior to such transaction, own less than fifty percent (50%) of the then outstanding capital shares of securities entitled to vote generally in the election of the directors (or other managing authority) of MabVax or the surviving or resulting corporation or acquirer, as the case may be, immediately following such transaction; or (c) the merger or consolidation of MabVax with another entity (whether in a single transaction or in a series of transactions) as a result of which the holders of the voting power of the outstanding capital stock of MabVax immediately prior to such transaction, own less than fifty percent (50%) of the then outstanding capital shares of securities or equity entitled to vote generally in the election of the directors (or other managing authority) of MabVax or the surviving or resulting corporation or acquirer, as the case may be, immediately following such transaction.
+
+1.8 “Control” or “Controlled” means possession of the ability to grant the license provided for herein at any time during the term of this Agreement without violating the terms of any agreement or other arrangement with a third party.
+
+1.9 “Cover” (in all its verb and adjectival forms, such as “Covered” and “Covers”) means (a) with respect to a Valid Claim in an issued patent, that, in the absence of a license, the use, offer for sale, sale, importation or manufacture of the product in question would infringe such Valid Claim or (b) with respect to a Valid Claim in a pending application, that, in the absence of a license, the use,
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+2
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+offer for sale, sale, importation or manufacture of the product in question would infringe such Valid Claim, should such a claim issue.
+
+1.10 “Domain” means [*****].
+
+1.11 “Field” means the detection, diagnosis and/or treatment of cancer in humans and/or animals.
+
+1.12 “Licensed Product” means any CAR Product that is Covered by a Valid Claim.
+
+1.13 “Option Period” means the period from the Effective Date until the earlier of either (i) June 30, 2016; or (ii) ninety (90) days from the date that MSKCC completes its research under the MSKCC Agreement.
+
+1.14 “Patent Rights” means: (a) the patent applications and patents listed on Exhibit A hereto; (b) any patent applications and patents owned or Controlled by MabVax or its Affiliates disclosing or claiming any Domain, provided, however, that upon a Change of Control of MabVax during the term of this Agreement, the foregoing is limited to those patent applications and patents that were Controlled by MabVax and its Affiliates prior to the Change of Control (but, with respect to Affiliates, only those Affiliates that qualified as Affiliates of MabVax immediately prior to such Change of Control); (c) all divisionals, continuations, and continuations-in-part of the foregoing patents and/or patent applications, and all foreign counterparts thereof; (d) any patents in any jurisdiction hereafter issuing on any of the foregoing applications; and (e) any renewals, reissues, re-examinations or extensions (such as supplementary protection certificates) of or for any of the preceding. The list of Patent Rights on Exhibit A will be updated annually by MabVax pursuant to Section 5.2.
+
+1.15 “Target(s)” means (i) GD2 and/or (ii) sialyl Lewis A antigen, as the context may dictate.
+
+1.16 “Territory” means all countries, jurisdictions and territories.
+
+1.17 “Third Party” means any person or entity other than the parties hereto and their respective Affiliates.
+
+1.18 “Valid Claim” means a claim: (a) of an issued and unexpired patent included within the Patent Rights, unless the claim has been held unenforceable or invalid by a court or other government body of competent jurisdiction, has been irretrievably abandoned or disclaimed, or has otherwise been finally admitted or determined to be invalid, unpatentable or unenforceable, whether through reissue, reexamination, disclaimer or otherwise, provided that if the holding of such court or governmental body is later reversed by a court or agency with overriding authority, the claim shall be reinstated as a Valid Claim with respect to sales made after the date of such reversal; (b) of a pending patent application within the Patent Rights to the extent the claim continues to be prosecuted in good faith for a period of time not to exceed [*****] from its earliest priority filing date in the applicable country; or (c) under any
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+3
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+supplementary protection certificates, pediatric exclusivity periods, any other patent term extensions and exclusivity periods and the like of any patents and patent applications described in this Section 1.18.
+
+2.
+
+OPTION  
+  
+2.1 Grant to Juno. MabVax hereby grants to Juno an exclusive option to obtain an exclusive, royalty-bearing license (which license would include the right to grant and authorize sublicenses through multiple tiers) under the Patent Rights and under MabVax’s right, title and interest in and to Biological Materials to develop, make, have made, use, import, have imported, sell, have sold, offer for sale and otherwise exploit Licensed Products within the Territory for use in the Field.
+
+2.2 Option Period; Exercise. Juno may exercise its option at any time during the Option Period upon written notice to MabVax.
+
+2.3 Further Agreement; Financial Terms. During the ninety (90) day period immediately following the Effective Date, MabVax and Juno will negotiate in good faith with respect to the terms (other than financial terms) of the license agreement that would be used by the parties to document the license granted pursuant to any exercise of the option described in Sections 2.1 and 2.2 (“License Agreement”). Upon agreement, MabVax and Juno will amend this Agreement to add such license agreement as Exhibit B to this Agreement. [*****]. Upon agreement, the parties will enter into a definitive agreement in substantially the form attached hereto as Exhibit B. In the event the parties are unable to agree on the financial terms within 90 days from Juno’s exercise of the Option, [*****].
+
+2.4 Exclusivity. During the Option Period, MabVax will not: (a) use, or permit any Third Party other than MSKCC to use any Domain to generate any CAR T-Cell Product; (b) engage in partnership, collaboration, licensing or similar discussions or negotiations with any Third Party other than MSKCC with regard to such Third Party’s use of the Patent Rights and/or any Domain(s) to generate any CAR T-Cell Product; or (c) enter into any agreement with any Third Party other than MSKCC for any of the foregoing.
+
+2.5 Biological Materials. During the Option Period, MabVax will not transfer any Biological Materials to Juno or its Affiliates or any Third Party other than MSKCC for the purpose of generating any CAR or any product containing any CAR.
+
+2.6 Option Fee. In consideration for the option and other rights granted herein, Juno will pay to MabVax an option fee of [*****] within five (5) days of the Effective Date.
+
+2.7 Juno Obligations. Juno will review data provided by MSKCC to Juno regarding the Domains in a similar manner to its review of data provided by MSKCC to Juno for other domains at a similar stage of research and development. In all instances, Juno will retain the right in its sole discretion to determine whether to exercise the option hereunder during the Option Period.
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+4
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+3.
+
+CONFIDENTIAL INFORMATION  
+  
+3.1 Non-Disclosure and Non-Use. Except as expressly provided in this Article 3, the parties agree that, during the term of this Agreement and for [*****] thereafter, the receiving party (a) will not publish or otherwise disclose to any third party, and (b) will not use for any purpose except for the purposes contemplated by this Agreement any Confidential Information furnished to it by the other party pursuant to this Agreement. Each party will take reasonable measures to protect the secrecy of and avoid disclosure and unauthorized use of the Confidential Information of the other party. Without limiting the foregoing, each party, as a receiving party, will take at least those measures that it takes to protect its own confidential information of a similar nature. The obligations under this Article 3 will not apply to any information to the extent that it can be established by the receiving party by competent proof that such information:
+
+(i) was already known to the receiving party, other than under an obligation of confidentiality, at the time of disclosure by the disclosing party under this Article 3;
+
+(ii) was generally available to the public or otherwise part of the public domain at the time of its disclosure to the receiving party by the disclosing party under this Article 3;
+
+(iii) became generally available to the public or otherwise part of the public domain after its disclosure by the disclosing party under this Article 3 other than through any act or omission of the receiving party in breach of this Agreement;
+
+(iv) was independently developed by the receiving party without use of or reference to the disclosing party’s Confidential Information, as such development is shown by the receiving party’s records (however such records do not need to document that the development was independent); or
+
+(v) was subsequently lawfully disclosed, without any non-use or non-disclosure obligations for the benefit of the disclosing party, to the receiving party by a person other than the disclosing party.
+
+Juno acknowledges that it has no right to receive, and MabVax shall not provide the Domains, or the genetic sequences of any antibody or antibody fragment therein, or any binding domain therein, under this Agreement. In any event, however, the Domains constitute MabVax Confidential Information (subject to the provisions of Section 3.1).
+
+3.2 Permitted Use and Disclosures. Each party may use or disclose Confidential Information disclosed to it by the other party to the extent such use or disclosure is reasonably necessary in complying with any applicable law, order, rule or regulation of any court or governmental body or governmental agency or otherwise submitting information to tax or other governmental authorities, provided that such party will provide the other party with prompt written notice of such planned disclosure prior to such disclosure (only to the extent prior notice is allowed under applicable laws, orders, rules or regulations) so that the other party may seek a protective order or other
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+5
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+appropriate relief. Subject to the foregoing sentence and the disclosing party’s compliance with its obligations thereunder, such party may furnish the portion of the documents and information that it is legally compelled or it is otherwise required to disclose in connection therewith. Each party may disclose the terms of this Agreement to the extent such disclosure is reasonably necessary in: (i) filings under applicable securities laws or regulations or per the rules of any securities exchange or similar organization; (ii) to potential and actual acquirers, and to investors, underwriters and lenders, subject to reasonable non-use and non-disclosure requirements; and (iii) to their and their Affiliates’ respective employees, directors, contractors, legal advisors, accountants, and financial advisors, subject to reasonable non-use and non-disclosure requirements. The receiving party will be responsible for the compliance of such directors, officers, employees, contractors, legal advisors, accountants and financial advisors with this Article 3.
+
+4.
+
+REPRESENTATIONS AND WARRANTIES  
+  
+4.1 MabVax. MabVax represents and warrants that: (a) it is a corporation duly organized validly existing and in good standing under the laws of Delaware; (b) the execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate action on the part of MabVax; (c) as of the Effective Date and to MabVax’s actual knowledge, there are no threatened or pending actions, lawsuits, claims or arbitration proceedings brought against MabVax in any way relating to the Domains and/or Patent Rights; (d) it will provide written notice to Juno of any threatened or pending actions, lawsuits, claims or arbitration proceedings brought against MabVax in any way relating to the Domains and/or Patent Rights of which MabVax becomes aware; (e) it has not entered into on or prior to the Effective Date, and will not enter into any agreement during the term of this Agreement, with any third party which is in conflict with the rights granted to Juno under this Agreement, and has not taken, and will not take during the term of this Agreement, any action that is inconsistent with the rights granted to Juno under this Agreement; (f) as of the Effective Date, to MabVax’s actual knowledge, the manufacture, use and sale of Domains does not infringe or misappropriate any intellectual property rights of any third party; (g) this Agreement is a legal and valid obligation binding upon MabVax and enforceable in accordance with its terms, and the execution, delivery and performance of this Agreement by the parties does not conflict with any agreement, instrument or understanding to which MabVax is a party or by which it is bound; and (h) except for the option granted to Juno hereunder, it owns all right, title and interest in and to the Patent Rights.
+
+4.2 Juno. Juno represents and warrants that: (a) it is a corporation duly organized validly existing and in good standing under the laws of the State of Delaware; (b) the execution, delivery and performance of this Agreement have been duly authorized by all necessary corporate action on the part of Juno; and (c) this Agreement is a legal and valid obligation binding upon Juno and enforceable in accordance with its terms, and the execution, delivery and performance of this Agreement by the parties does not conflict with any agreement, instrument or understanding to which Juno is a party or by which it is bound.
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+6
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+4.3 Disclaimer. EXCEPT AS EXPRESSLY SET FORTH IN THIS ARTICLE 4, NEITHER PARTY MAKES ANY REPRESENTATIONS NOR EXTENDS ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, WITH RESPECT TO ANY INTELLECTUAL PROPERTY RIGHTS OR THE PATENT RIGHTS OR ANY OTHER MATTER, AND DISCLAIMS ALL SUCH REPRESENTATIONS AND WARRANTIES. Nothing contained in this Agreement shall be construed as a warranty or representation by MabVax as to the validity or scope of any of the Patent Rights, or that any patent will issue within the Patent Rights, or that the Patent Rights include or will include Valid Claims, or, except as expressly set forth in Section 4.1 or Article 5, that anything made, used, sold or otherwise disposed of under any license granted by MabVax is or will be free from infringement of patents, copyrights, and other rights of Third Parties.
+
+5.
+
+INTELLECTUAL PROPERTY MATTERS  
+  
+5.1 Ownership. As between the parties, MabVax will remain the sole and exclusive owner of the Patent Rights, and reserves all right, title and interest therein and thereto, and no license is granted under the Patent Rights or any other intellectual property rights to Juno pursuant to this Agreement by implication or estoppel; except, in each case, for the option therein and thereto granted to Juno hereunder.
+
+5.2 MabVax’s Responsibilities. MabVax will have the sole right, at its expense, to control the preparation, filing, prosecution and maintenance of the Patent Rights, and any interference or opposition proceeding relating thereto, using patent counsel of its choice and at its sole expense. During the term of this Agreement, MabVax will provide to Juno an updated Exhibit A from time to time, but MabVax will provide such an update on at least an annual basis during the thirty (30) days immediately preceding each anniversary of the Effective Date. MabVax agrees that it will not file or assist any third party to file any patent application disclosing or claiming any materials containing a CAR directed against any Domain, and/or their use.
+
+5.3 Enforcement. If either party hereto becomes aware that any Patent Rights are being or have been infringed by any third party, such party will promptly notify the other party hereto in writing describing the facts relating thereto in reasonable detail (subject to any obligations of confidentiality restricting such notice). MabVax will have the sole and exclusive right, but not the obligation, to prosecute and control any action, suit or proceeding with respect to such infringement, including any declaratory judgment action (each an “Action”), at its expense; such control to include using counsel of its choice and may retain any recovery attained in such an Action.
+
+6.
+
+TERM AND TERMINATION  
+  
+6.1 Term. The term of this Agreement will commence on the Effective Date, and unless earlier terminated as provided in this Article 6, will continue in full force and effect until the earlier of (i) Juno’s exercise of the option pursuant to Section 2.2; or (ii) expiration of the Option Period.
+
+6.2 Termination for Cause. If either party materially breaches this Agreement, the other party may elect to give the breaching party written notice describing the alleged breach. If the
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+7
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+breaching party has not cured or discontinued such breach within thirty (30) days after receipt of such notice, the notifying party will be entitled, in addition to any other rights it may have under this Agreement, to terminate this Agreement effective immediately upon written notice.
+
+6.3 Termination by MabVax. If Juno, its Affiliates, or their employees, directors or officers is party to any action or proceeding, whether filed by it or under its authority, or in which it joins, in which a determination is sought that any of the Patent Rights are invalid or unenforceable, or which constitutes an opposition to any of the Patent Rights, MabVax may elect to give Juno written notice describing such action or proceeding and the alleged involvement therein. If Juno has not cured or discontinued the alleged involvement in such action or proceeding within ten (10) business days after receipt of such notice specifying such ten (10) business day cure period, MabVax will be entitled to terminate this Agreement effective immediately upon written notice.
+
+6.4 Termination for Insolvency. Either party may terminate this Agreement if the other becomes the subject of a voluntary or involuntary petition in bankruptcy or any proceeding relating to insolvency, receivership, liquidation, or composition or the benefit of creditors, if that petition or proceeding is not dismissed with prejudice within sixty (60) days after filing.
+
+6.5 Permissive Termination. Juno may terminate this Agreement at any time with thirty (30) days prior written notice to MabVax.
+
+6.6 Effect of Termination.
+
+(a) Accrued Rights and Obligations. Termination rights are cumulative and without prejudice to either party’s other available rights and remedies. Termination of this Agreement for any reason will not release any party hereto from any liability which, at the time of such termination, has already accrued to the other party or which is attributable to a period prior to such termination, nor preclude either party from pursuing any rights and remedies it may have hereunder or at law or in equity which accrued or are based upon any event occurring prior to such termination.
+
+(b) Return of Confidential Information. All documents and other tangible objects containing or representing Confidential Information that have been disclosed by either party to the other party, and all copies or extracts thereof that are in the possession or control of the other party, will be destroyed or returned to the disclosing party within thirty (30) days after the disclosing party’s written request (“Return Request”). Notwithstanding the foregoing provisions of this Section 6.6(b), each party acknowledges that the receiving party will not be required to return to the disclosing party or destroy those copies of the disclosing party’s Confidential Information that: (i) were stored on the receiving party’s backup, disaster recovery or business continuity systems in the ordinary course of the receiving party’s business; or (ii) the receiving party retains to comply with legal or regulatory obligations or to protect or exercise its rights under this Agreement. For clarification, following the termination of this Agreement, the receiving party will neither retrieve nor use such disclosing party’s Confidential Information for any purpose other than the intended use of the systems in subsection (i) above or for the limited purposes under subsection (ii) above.
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+8
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+6.7 Survival. Sections 4.3, 6.6 and 6.7 and Article 1, 3 and 7 of this Agreement will survive expiration or termination of this Agreement for any reason.
+
+7.
+
+MISCELLANEOUS  
+  
+7.1 Independent Contractors. The relationship of the parties under this Agreement is that of independent contractors. Neither party will be deemed to be an employee, agent, partner, franchisor, franchisee, joint venture or legal representative of the other for any purpose as a result of this Agreement or the transactions contemplated thereby, and neither will have the right, power or authority to create any obligation or responsibility on behalf of the other.
+
+7.2 Assignment. The parties agree that neither this Agreement nor their rights and obligations under this Agreement will be delegated, assigned or otherwise transferred to a third party, in whole or part, whether voluntarily or by operation of law, including by way of sale of assets, merger or consolidation, without prior written consent of the other party. Notwithstanding the foregoing, each party may, without such consent, assign this Agreement and its rights and obligations hereunder in their entirety: (a) to an Affiliate of such party; or (b) in connection with the transfer or sale of all or substantially all of its assets to which this Agreement relates, or in the event of its merger, consolidation, change in control or similar transaction. Subject to the foregoing, this Agreement will be binding on and inure to the benefit of the parties and their permitted successors and assigns. Any attempted delegation, assignment or transfer in violation of the foregoing will be null and void.
+
+7.3 Governing Law. This Agreement will be governed by, interpreted and enforced in accordance with the laws of the State of Delaware, without regard to principles of conflicts of laws. All disputes arising out of this Agreement will be subject to the exclusive jurisdiction and venue of the state and federal courts located in New Castle County, Delaware (and the appellate courts thereof), and each party hereby irrevocably consents to the personal and exclusive jurisdiction and venue thereof.
+
+7.4 Notices. Any notices required or permitted under this Agreement or required by law must be in writing by first class certified mail or international express delivery service (such as DHL), in each case properly posted and fully prepaid to the applicable address below, or to such other address as either party may substitute by written notice under this Section 7.4. Notice will be deemed to have been given when delivered or, if delivery is not accomplished by reason or some fault of the addressee, when tendered.
+
+If to MabVax: 
+
+MabVax Therapeutics, Inc.  
+  
+11588 Sorrento Valley Road, Suite 20  
+  
+San Diego, CA 92121  
+  
+Attention: J. David Hansen, President and CEO  
+  
+If to Juno:
+
+Juno Therapeutics, Inc.  
+  
+307 Westlake Avenue North, Suite 300  
+  
+Seattle, WA 98109  
+  
+Attention: General Counsel  
+  
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+9
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+7.5 Construction. Whenever the words “include,” “includes” or “including” are used in this Agreement they will be deemed to be followed by the words “without limitation”. A reference to any legislation or to any provision of any legislation will include any modification, amendment, re-enactment thereof, any legislative provision substituted therefore and all rules, regulations and statutory instruments issued or related to such legislation. The parties and their respective counsel have had an opportunity to fully negotiate this Agreement. If any ambiguity or question of intent or interpretation arises, this Agreement will be construed as if drafted jointly by the parties, and no presumption or burden of proof will arise favoring or disfavoring any party by virtue of the authorship of any provision of this Agreement. No prior draft of this Agreement will be used in the interpretation or construction of this Agreement. Headings are used for convenience only and will not in any way affect the construction or interpretation of this Agreement.
+
+7.6 Severability. If any provision, or portion thereof, in this Agreement is held to be invalid or unenforceable to any extent, such provision of this Agreement will be enforced to the maximum extent permissible by applicable law so as to effect the intent of the parties, and the remainder of the Agreement will remain in full force and effect. The parties will negotiate in good faith a valid and enforceable substitute provision for any invalid or unenforceable provision that most nearly achieves the intent and economic effect of such invalid or unenforceable provision as if it were enforceable.
+
+7.7 Waiver. Any waiver of any provision of this Agreement or of a party’s rights or remedies under this Agreement must be in writing to be effective. Failure, neglect, or delay by a party to enforce the provisions of this Agreement or its rights or remedies at any time, will not be construed as a waiver of such party’s rights under this Agreement and will not in any way affect the validity of the whole or any part of this Agreement or prejudice such party’s right to take subsequent action. No exercise or enforcement by either party of any right or remedy under this Agreement will preclude the enforcement by such party of any other right or remedy under this Agreement or that such party is entitled by law to enforce.
+
+7.8 Entire Agreement; Modification. This Agreement (including the Exhibits and any amendments hereto signed by both parties) sets forth the entire agreement and understanding of the parties with respect to the subject matter of this Agreement, and supersedes all prior oral and written, and contemporaneous oral, communications, representations, understandings, and agreements between the parties with respect to such subject matter. This Agreement may not be altered, amended or modified in any way except by a writing (excluding email or similar electronic transmissions) signed by the authorized representatives of both parties.
+
+7.9 Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original and all of which together will constitute one and the same Agreement.
+
+[Signature Page to Option Agreement Follows]
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+10
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+IN WITNESS WHEREOF, MabVax and Juno have executed this Agreement by their respective duly authorized representatives.
+
+MABVAX THERAPEUTICS, INC.
+
+JUNO THERAPEUTICS, INC.  
+  
+By:
+
+/s/ J. David Hansen
+
+By:
+
+/s/ Kendall M. Mohler  
+  
+Print Name:
+
+J. David Hansen
+
+Print Name:
+
+Kendall M. Mohler  
+  
+Title:
+
+President and CEO
+
+Title:
+
+CSO  
+  
+[Signature Page to Option Agreement]
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+11
+
+* * *
+
+CONFIDENTIAL TREATMENT REQUESTED
+
+Exhibit A
+
+Patent Rights
+
+[*****]
+
+Portions of this Exhibit, indicated by [*****], were omitted and have been filed separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of 1933, as amended.
+
+12

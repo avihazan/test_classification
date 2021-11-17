@@ -1,0 +1,304 @@
+##### 
+
+Exhibit 10.4 
+
+XO COMMUNICATIONS, INC.
+
+
+
+REGISTRATION RIGHTS AGREEMENT, dated as of January 16, 2003, among the parties listed on Schedule I hereto (the “Holders”) and XO Communications, a Delaware corporation (the “Company”). 
+
+R E C I T A L S
+
+WHEREAS, on June 17, 2002, the Company commenced it case (the “Bankruptcy Case”) under Chapter 11 of the United Stated Code (the “Bankruptcy Code”) in the United States Bankruptcy Court for the Southern District of New York (the “Bankruptcy Court”); 
+
+WHEREAS, the Holders were holders of claims against the Company in the Bankruptcy Case; 
+
+WHEREAS, on November 15, 2002, the Bankruptcy Court confirmed the Third Amended Plan of Reorganization of the Company (the “Plan”); 
+
+WHEREAS, on January 16, 2003 (the “Effective Date”), the Plan and the related transactions contemplated thereby were consummated, at which time the Holders claims were cancelled and they received New Reorganization Common Stock (as defined below) and New Warrants (as defined in below); 
+
+WHEREAS, the Company has agreed to grant the Holders certain registration rights; 
+
+WHEREAS, the Company and the Holders desire to define the registration rights of the Holders on the terms and subject to the conditions herein set forth. 
+
+NOW, THEREFORE, in consideration of the foregoing premises and for other good and valuable consideration, the parties hereby agree as follows: 
+
+SECTION 1. DEFINITIONS
+
+As used in this Agreement, the following terms have the respective meaning set forth below: 
+
+Commission: shall mean the Securities and Exchange Commission or any other federal agency at the time administering the Securities Act; 
+
+Effective Date: shall have the meaning set forth in the Recitals above; 
+
+* * *
+
+##### 
+
+Exchange Act: shall mean the Securities Exchange Act of 1934, as amended and the rules and regulations promulgated thereunder; 
+
+Holder: shall mean any holder of Registrable Securities; 
+
+Initiating Holder: shall mean any Holder or Holders who in the aggregate are Holders of more than 50% of the then outstanding Registrable Securities; 
+
+New Reorganization Common Stock: shall mean any common stock of the Company, par value $0.01 per share, issued on or after the Effective Date. 
+
+New Warrants: shall mean any warrants to purchase New Reorganization Common Stock issued pursuant to the Plan. 
+
+Person: shall mean an individual, partnership, joint-stock company, corporation, trust or unincorporated organization, and a government or agency or political subdivision thereof; 
+
+Plan: shall have the meaning as set forth in the recitals. 
+
+Register, Registered and Registration: shall mean to a registration effected by preparing and filing a registration statement in compliance with the Securities Act (and any post-effective amendments filed or required to be filed) and the declaration or ordering of effectiveness of such registration statement; 
+
+Registrable Securities: shall mean the Warrants and the shares of New Reorganization Common Stock (together with any securities issued or issuable in respect thereof by way of a dividend or stock split or in connection with a combination of shares, recapitalization, merger, consolidation or other reorganization or otherwise) issued or issuable to the Holders pursuant to the Plan or pursuant to the exercise of the Rights and the Warrants; provided, however, that any shares of New Reorganization Common Stock that cease to be owned by Holder or any of its Affiliates shall cease to be Registrable Securities; 
+
+Registration Expenses: shall mean all expenses incurred by the Company in compliance with Section 2(a), (b) and (c) hereof, including, without limitation, all registration and filing fees, printing expenses, fees and disbursements of counsel for the Company, fees and expenses of one counsel for all the Holders in an amount not to exceed $15,000, blue sky fees and expenses and the expense of any special audits incident to or required by any such registration (but excluding the compensation of regular employees of the Company, which shall be paid in any event by the Company); provided, however, that Registration Expenses shall exclude Selling Expenses; 
+
+Rights: shall mean any rights to purchase New Reorganization Common Stock issued in the rights offering established pursuant to the Plan; 
+
+-2-
+
+* * *
+
+##### 
+
+Security, Securities: shall have the meaning set forth in Section 2(1) of the Securities Act; 
+
+Securities Act: shall mean the Securities Act of 1933, as amended and the rules and regulations promulgated thereunder; and 
+
+Selling Expenses: shall mean all underwriting discounts and selling commissions applicable to the sale of Registrable Securities and all fees and disbursements of counsel for each of the Holders other than the fees and expenses of one counsel for all the Holders referenced in the definition of Registration Expenses above. 
+
+SECTION 2. REGISTRATION RIGHTS
+
+(a) Requested Registration.  
+  
+(i) Request for Registration. If the Company shall receive from an Initiating Holder, at any time after the Effective Date, subject to Section (2)(i), if applicable, a written request that the Company effect any registration with respect to more than 30% of the Registrable Securities, the Company will:  
+  
+(1) promptly give written notice of the proposed registration, qualification or compliance to all other Holders; and  
+(2) as soon as practicable, use its diligent best efforts to effect such registration (including, without limitation, the execution of an undertaking to file post-effective amendments, appropriate qualification under applicable blue sky or other state securities laws and appropriate compliance with applicable regulations issued under the Securities Act) as may be so requested and as would permit or facilitate the sale and distribution of all or such portion of such Registrable Securities as are specified in such request, together with all or such portion of the Registrable Securities of any Holder or Holders joining in such request as are specified in a written request received by the Company within 10 business days after written notice from the Company is given under Section 2(a)(i)(1) above; provided that the Company shall not be obligated to effect, or take any action to effect, any such registration pursuant to this Section 2(a):  
+  
+(A) In any particular jurisdiction in which the Company would be required to execute a general consent to service of process in effecting such registration, qualification or compliance, unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act or applicable rules or regulations thereunder;  
+(B) After the Company has effected two (2) such registrations pursuant to this Section 2(a) and such registrations have  
+  
+-3-
+
+* * *
+
+##### 
+
+been declared or ordered effective and the sales of such Registrable Securities shall have closed;  
+(C) If the Registrable Securities requested by all Holders to be registered pursuant to such request do not have an anticipated aggregate public offering price (before any underwriting discounts and commissions) of not less than $5,000,000;  
+(D) During the period starting with the date sixty (60) days prior to the Company’s good faith estimate of the date of filing of, and ending on the date six (6) months immediately following the effective date of, any registration statement pertaining to securities of the Company (other than a registration of securities in a Rule 145 transaction, with respect to an employee benefit plan or with respect to the Company’s first registered public offering of its stock), provided that the Company is actively employing in good faith all reasonable efforts to cause such registration statement to become effective; or  
+(E) If the Company shall furnish to the Initiating Holders a certificate signed by an officer of the Company stating that in the good faith judgment of the Board of Directors it would be significantly detrimental to the Company or its stockholders for a registration statement to be filed or securities to be offered, in which case the Company’s obligation to use its best efforts to comply with this Section 2 shall be deferred for a period not to exceed ninety (90) days from the date of receipt of written request from the Initiating Holders; provided, however, that the Company shall not exercise such right more than once in any six-month period.  
+  
+The registration statement filed pursuant to the request of the Initiating Holders may, subject to the provisions of Section 2(a)(ii) below, include other securities of the Company which are held by Persons who, by virtue of agreements with the Company, are entitled to include their securities in any such registration (“Other Stockholders”). In the event any Holder requests a registration pursuant to this Section 2(a) in connection with a distribution of Registrable Securities to its partners, the registration shall provide for the resale by such partners, if requested by such Holder. 
+
+The registration rights set forth in this Section 2 may be assigned, in whole or in part, to any transferee of Registrable Securities (who shall be bound by all obligations of this Agreement). 
+
+-4-
+
+* * *
+
+#####   
+  
+(ii) Underwriting. If the Initiating Holders intend to distribute the Registrable Securities covered by their request by means of an underwriting, they shall so advise the Company as a part of their request made pursuant to Section 2(a).  
+  
+If Other Stockholders request such inclusion, the Holders shall offer to include the securities of such Other Stockholders in the underwriting and may condition such offer on their acceptance of the further applicable provisions of this Section 2. The Holders whose shares are to be included in such registration and the Company shall (together with all Other Stockholders proposing to distribute their securities through such underwriting) enter into an underwriting agreement in customary form with the representative of the underwriter or underwriters selected for such underwriting by the Initiating Holders and reasonably acceptable to the Company. Notwithstanding any other provision of this Section 2(a), if the representative advises the Holders in writing that marketing factors require a limitation on the number of shares to be underwritten, the securities of the Company held by Other Stockholders shall be excluded from such registration to the extent so required by such limitation. If, after the exclusion of such shares, further reductions are still required, the number of shares included in the registration by each Holder shall be reduced on a pro rata basis (based on the number of shares held by such Holder), by such minimum number of shares as is necessary to comply with such request. No Registrable Securities or any other securities excluded from the underwriting by reason of the underwriter’s marketing limitation shall be included in such registration. If any Other Stockholder who has requested inclusion in such registration as provided above disapproves of the terms of the underwriting, such Person may elect to withdraw therefrom by written notice to the Company, the underwriter and the Initiating Holders. The securities so withdrawn shall also be withdrawn from registration. If the underwriter has not limited the number of Registrable Securities or other securities to be underwritten, the Company and officers and directors of the Company may include its or their securities for its or their own account in such registration if the representative so agrees and if the number of Registrable Securities and other securities which would otherwise have been included in such registration and underwriting will not thereby be limited. 
+
+(b) Company Registration.   
+  
+(i) If the Company shall determine to register any of its equity securities either for its own account or for the account of Other Stockholders, other than a registration relating solely to employee benefit plans, or a registration relating solely to a Commission Rule 145 transaction, or a registration on any registration form (including Form S-4) which does not permit secondary sales or does not include substantially the same information as would be required to be included in a registration statement covering the sale of Registrable Securities, the Company will:  
+  
+(1) promptly give to each of the Holders a written notice thereof (which shall include a list of the jurisdictions in which the Company intends to attempt to qualify such securities under the applicable blue sky or other state securities laws); and  
+(2) include in such registration (and any related qualification under blue sky laws or other compliance), and in any underwriting involved  
+  
+-5-
+
+* * *
+
+#####   
+  
+therein, all the Registrable Securities specified in a written request or requests, made by the Holders within fifteen (15) days after receipt of the written notice from the Company described in clause (i) above, except as set forth in Section 2(b)(ii) below. Such written request may specify all or a part of the Holders’ Registrable Securities. In the event any Holder requests inclusion in a registration pursuant to this Section 2(b) in connection with a distribution of Registrable Securities to its partners, the registration shall provide for the resale by such partners, if requested by such Holder.  
+  
+(ii) Underwriting. If the registration of which the Company gives notice is for a registered public offering involving an underwriting, the Company shall so advise each of the Holders as a part of the written notice given pursuant to Section 2(b)(i)(1). In such event, the right of each of the Holders to registration pursuant to this Section 2(b) shall be conditioned upon such Holders’ participation in such underwriting and the inclusion of such Holders’ Registrable Securities in the underwriting to the extent provided herein. The Holders whose shares are to be included in such registration shall (together with the Company and the Other Stockholders distributing their securities through such underwriting) enter into an underwriting agreement in customary form with the representative of the underwriter or underwriters selected for underwriting by the Company. Notwithstanding any other provision of this Section 2(b), if the representative determines that marketing factors require a limitation on the number of shares to be underwritten, and the representative may (subject to the allocation priority set forth below) limit the number of Registrable Securities to be included in the registration and underwriting to not less than twenty five percent (25%) of the shares included therein (based on the number of shares). The Company shall so advise all holders of securities requesting registration, and the number of shares of securities that are entitled to be included in the registration and underwriting shall be allocated in the following manner: The securities of the Company held by officers, directors and Other Stockholders of the Company (other than Registrable Securities and other than securities held by holders who by contractual right demanded such registration (“Demanding Holders”)) shall be excluded from such registration and underwriting to the extent required by such limitation, and, if a limitation on the number of shares is still required, the number of shares that may be included in the registration and underwriting by each of the Holders and Demanding Holders shall be reduced, on a pro rata basis (based on the number of shares held by such Holder), by such minimum number of shares as is necessary to comply with such limitation. If any of the Holders or any officer, director or Other Stockholder disapproves of the terms of any such underwriting, he may elect to withdraw therefrom by written notice to the Company and the underwriter. Any Registrable Securities or other securities excluded or withdrawn from such underwriting shall be withdrawn from such registration.  
+  
+(c) Form S-3. The Company shall use its best efforts to qualify for registration on Form S-3 for secondary sales. After the Company has qualified for the use of Form S-3, the Holders shall have the right to request three (3) registrations on Form S-3 (such requests shall be in writing and shall state the number of shares of Registrable Securities to be disposed of and the intended method of disposition of shares by such holders), provided that the 
+
+-6-
+
+* * *
+
+##### 
+
+Company shall not be obligated to effect, or take any action to effect, any such registration pursuant to this Section 2(c):   
+  
+(i) Unless the Holder or Holders requesting registration propose to dispose of shares of Registrable Securities having an aggregate price to the public (before deduction of Selling Expenses) of more than $5,000,000;  
+(ii) Within 180 days of the effective date of the most recent registration pursuant to this Section 2(c) in which securities held by the requesting Holder could have been included for sale or distribution;  
+(iii) In any particular jurisdiction in which the Company would be required to execute a general consent to service of process in effecting such registration, qualification or compliance, unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act or applicable rules or regulations thereunder;  
+(iv) During the period starting with the date sixty (60) days prior to the Company’s good faith estimate of the date of filing of, and ending on the date six (6) months immediately following the effective date of, any registration statement pertaining to securities of the Company (other than a registration of securities in a Rule 145 transaction or with respect to an employee benefit plan), provided that the Company is actively employing in good faith all reasonable efforts to cause such registration statement to become effective; provided, however, that the Company may only delay an offering pursuant to this Section 2(c)(iv) for a period of not more than sixty (60) days, if a filing of any other registration statement is not made within that period and the Company may only exercise this right once in any twelve (12) month period; or  
+(v) If the Company shall furnish to the Holders a certificate signed by an officer of the Company stating that in the good faith judgment of the Board of Directors it would be significantly detrimental to the Company or its stockholders for a registration statement to be filed in the near future, in which case the Company’s obligation to use its best efforts to comply with this Section 2(c) shall be deferred for a period not to exceed ninety (90) days from the date of receipt of written request from the Holders; provided, however, that the Company shall not exercise such right more than once in any six-month period.  
+  
+The Company shall give written notice to all Holders of the receipt of a request for registration pursuant to this Section 2(c) and shall provide a reasonable opportunity for other Holders to participate in the registration, provided that if the registration is for an underwritten offering, the terms of Section 2(a)(ii) shall apply to all participants in such offering. Subject to the foregoing, the Company will use its best efforts to effect promptly the registration of all shares of Registrable Securities on Form S-3 to the extent requested by the Holder or Holders thereof for purposes of disposition. In the event any Holder requests a registration pursuant to this Section 2(c) in connection with a distribution of Registrable Securities to its partners, the registration shall provide for the resale by such partners, if requested by such Holder. 
+
+-7-
+
+* * *
+
+##### 
+
+(d) Expenses of Registration. All Registration Expenses incurred in connection with any registration, qualification or compliance pursuant to this Section 2 shall be borne by the Company, and all Selling Expenses shall be borne by the Holders of the securities so registered pro rata on the basis of the number of their shares so registered. 
+
+(e) Registration Procedures. In the case of each registration effected by the Company pursuant to this Section 2, the Company will keep the Holders, as applicable, advised in writing as to the initiation of each registration and as to the completion thereof. At its expense, the Company will:   
+  
+(i) keep such registration effective for a period of one hundred twenty (120) days or until the Holders (or in the case of a distribution to the partners of such Holder, such partners), as applicable, have completed the distribution described in the registration statement relating thereto, whichever first occurs; provided, however, that (A) such 120-day period shall be extended for a period of time equal to the period during which the Holders or partners, as applicable, refrain from selling any securities included in such registration in accordance with provisions in Section 2(i) hereof; and (B) in the case of any registration of Registrable Securities on Form S-3 which are intended to be offered on a continuous or delayed basis, such 120-day period shall be extended until all such Registrable Securities are sold, provided that Rule 415, or any successor rule under the Securities Act, permits an offering on a continuous or delayed basis, and provided further that applicable rules under the Securities Act governing the obligation to file a post-effective amendment permit, in lieu of filing a post-effective amendment which (y) includes any prospectus required by Section 10(a) of the Securities Act or (z) reflects facts or events representing a material or fundamental change in the information set forth in the registration statement, the incorporation by reference of information required to be included in (y) and (z) above to be contained in periodic reports filed pursuant to Section 12 or 15(d) of the Exchange Act in the registration statement;  
+(ii) furnish such number of prospectuses and other documents incident thereto as each of the Holders, as applicable, from time to time may reasonably request;  
+(iii) notify each Holder of Registrable Securities covered by such registration at any time when a prospectus relating thereto is required to be delivered under the Securities Act of the happening of any event as a result of which the prospectus included in such registration statement, as then in effect, includes an untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements therein not misleading in the light of the circumstances then existing; and  
+(iv) furnish, on the date that such Registrable Securities are delivered to the underwriters for sale, if such securities are being sold through underwriters or, if such securities are not being sold through underwriters, on the date that the registration statement with respect to such securities becomes effective, (1) an opinion, dated as of such date, of the counsel representing the Company for the purposes of such registration, in form and substance as is customarily given to underwriters in an underwritten public offering and reasonably satisfactory to a majority in interest of the Holders participating  
+  
+-8-
+
+* * *
+
+#####   
+  
+in such registration, addressed to the underwriters, if any, and to the Holders participating in such registration and (2) a letter, dated as of such date, from the independent certified public accountants of the Company, in form and substance as is customarily given by independent certified public accountants to underwriters in an underwritten public offering and reasonably satisfactory to a majority in interest of the Holders participating in such registration, addressed to the underwriters, if any, and if permitted by applicable accounting standards, to the Holders participating in such registration.  
+  
+(f) Indemnification.   
+  
+(i) The Company will indemnify each of the Holders, as applicable, each of its officers, directors and partners, and each Person controlling each of the Holders, with respect to each registration which has been effected pursuant to this Section 2, and each underwriter, if any, and each person who controls any underwriter, against all claims, losses, damages and liabilities (or actions in respect thereof) arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in any prospectus, offering circular or other document (including any related registration statement, notification or the like) incident to any such registration, qualification or compliance, or based on any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, or any violation by the Company of the Securities Act or the Exchange Act or any rule or regulation thereunder applicable to the Company and relating to action or inaction required of the Company in connection with any such registration, qualification or compliance, and will reimburse each of the Holders, each of its officers, directors and partners, and each Person controlling each of the Holders, each such underwriter and each Person who controls any such underwriter, for any legal and any other expenses reasonably incurred in connection with investigating and defending any such claim, loss, damage, liability or action, provided that the Company will not be liable in any such case to the extent that any such claim, loss, damage, liability or expense arises out of or is based on any untrue statement or omission based upon written information furnished to the Company by the Holders or underwriter and stated to be specifically for use therein.  
+(ii) Each of the Holders will, if Registrable Securities held by it are included in the securities as to which such registration, qualification or compliance is being effected, indemnify the Company, each of its directors and officers and each underwriter, if any, of the Company’s securities covered by such a registration statement, each person who controls the Company or such underwriter, each Other Stockholder and each of their officers, directors, and partners, and each person controlling such Other Stockholder against all claims, losses, damages and liabilities (or actions in respect thereof) arising out of or based on any untrue statement (or alleged untrue statement) of a material fact contained in any such registration statement, prospectus, offering circular or other document made by such Holder, or any omission (or alleged omission) to state therein a material fact required to be stated therein or necessary to make the statements by such Holder therein not misleading, and will reimburse the Company and such Other Stockholders, directors, officers, partners, persons, underwriters or control persons for any legal or any other expenses reasonably incurred in connection with investigating or defending any such claim, loss, damage, liability or action, in each case to the extent, but  
+  
+-9-
+
+* * *
+
+#####   
+  
+only to the extent, that such untrue statement (or alleged untrue statement) or omission (or alleged omission) is made in such registration statement, prospectus, offering circular or other document in reliance upon and in conformity with written information furnished to the Company by such Holder and stated to be specifically for use therein; provided, however, that the obligations of each of the Holders hereunder shall be limited to an amount equal to the net proceeds to such Holder of securities sold as contemplated herein.  
+(iii) Each party entitled to indemnification under this Section 2(f) (the “Indemnified Party”) shall give notice to the party required to provide indemnification (the “Indemnifying Party”) promptly after such Indemnified Party has actual knowledge of any claim as to which indemnity may be sought, and shall permit the Indemnifying Party to assume the defense of any such claim or any litigation resulting therefrom; provided that counsel for the Indemnifying Party, who shall conduct the defense of such claim or any litigation resulting therefrom, shall be approved by the Indemnified Party (whose approval shall not unreasonably be withheld) and the Indemnified Party may participate in such defense at such party’s expense (unless the Indemnified Party shall have reasonably concluded that there may be a conflict of interest between the Indemnifying Party and the Indemnified Party in such action, in which case the fees and expenses of counsel shall be at the expense of the Indemnifying Party), and provided further that the failure of any Indemnified Party to give notice as provided herein shall not relieve the Indemnifying Party of its obligations under this Section 2 unless the Indemnifying Party is materially prejudiced thereby. No Indemnifying Party shall be liable for any settlement of any action or proceeding effected without its written consent. No Indemnifying Party, in the defense of any such claim or litigation shall, except with the consent of each Indemnified Party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such Indemnified Party of a release from all liability in respect to such claim or litigation. Each Indemnified Party shall furnish such information regarding itself or the claim in question as an Indemnifying Party may reasonably request in writing and as shall be reasonably required in connection with the defense of such claim and litigation resulting therefrom.  
+(iv) If the indemnification provided for in this Section 2(f) is held by a court of competent jurisdiction to be unavailable to an Indemnified Party with respect to any loss, liability, claim, damage or expense referred to herein, then the Indemnifying Party, in lieu of indemnifying such Indemnified Party hereunder, shall contribute to the amount paid or payable by such Indemnified Party as a result of such loss, liability, claim, damage or expense in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party on the one hand and of the Indemnified Party on the other in connection with the statements or omissions which resulted in such loss, liability, claim, damage or expense, as well as any other relevant equitable considerations. The relative fault of the Indemnifying Party and of the Indemnified Party shall be determined by reference to, among other things, whether the untrue (or alleged untrue) statement of a material fact or the omission (or alleged omission) to state a material fact relates to information supplied by the Indemnifying Party or by the Indemnified Party and the  
+  
+-10-
+
+* * *
+
+#####   
+  
+parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.  
+(v) Notwithstanding the foregoing, to the extent that the provisions on indemnification and contribution contained in the underwriting agreement entered into in connection with any underwritten public offering contemplated by this Agreement are in conflict with the foregoing provisions, the provisions in such underwriting agreement shall be controlling.  
+(vi) The foregoing indemnity agreement of the Company and Holders is subject to the condition that, insofar as they relate to any loss, claim, liability or damage arising out of a statement made in or omitted from a preliminary prospectus but eliminated or remedied in the amended prospectus on file with the Commission at the time the registration statement in question becomes effective or the amended prospectus filed with the Commission pursuant to Commission Rule 424(b) (the “Final Prospectus”), such indemnity or contribution agreement shall not inure to the benefit of any underwriter or Holder if a copy of the Final Prospectus was furnished to such underwriter or Holder and was not furnished to the Person asserting the loss, liability, claim or damage at or prior to the time such action is required by the Securities Act.  
+  
+(g) Information by the Holders.   
+  
+(i) Each of the Holders holding securities included in any registration shall furnish to the Company such information regarding such Holder and the distribution proposed by such Holder as the Company may reasonably request in writing and as shall be reasonably required in connection with any registration, qualification or compliance referred to in this Section 2.  
+(ii) In the event that, either immediately prior to or subsequent to the effectiveness of any registration statement, any Holder shall distribute Registrable Securities to its partners, such Holder shall so advise the Company and provide such information as shall be necessary to permit an amendment to such registration statement to provide information with respect to such partners, as selling securityholders. Promptly following receipt of such information, the Company shall file an appropriate amendment to such registration statement reflecting the information so provided. Any incremental expense to the Company resulting from such amendment shall be borne by such Holder.  
+  
+(h) Rule 144 Reporting. 
+
+With a view to making available the benefits of certain rules and regulations of the Commission which may permit the sale of restricted securities to the public without registration, the Company agrees to:   
+  
+(i) make and keep public information available as those terms are understood and defined in Rule 144 under the Securities Act (“Rule 144”), at all times from and after ninety (90) days following the effective date of the first registration under  
+  
+-11-
+
+* * *
+
+#####   
+  
+the Securities Act filed by the Company for an offering of its securities to the general public;  
+(ii) use its best efforts to file with the Commission in a timely manner all reports and other documents required of the Company under the Securities Act and the Exchange Act at any time after it has become subject to such reporting requirements; and  
+(iii) so long as the Holder owns any Registrable Securities, furnish to the Holder upon request, a written statement by the Company as to its compliance with the reporting requirements of Rule 144, and of the Securities Act and the Exchange Act, a copy of the most recent annual or quarterly report of the Company, and such other reports and documents so filed as the Holder may reasonably request in availing itself of any rule or regulation of the Commission allowing the Holder to sell any such securities without registration.  
+  
+(i) “Market Stand-off” Agreement. Each of the Holders agrees, if requested by the Company or an underwriter of equity securities of the Company, not to sell or otherwise transfer or dispose of any Registrable Securities held by such Holder during the 180-day period following the effective date of a registration statement of the Company filed under the Securities Act, provided that all officers and directors of the Company enter into similar agreements. 
+
+If requested by the underwriters, the Holders shall execute a separate agreement to the foregoing effect. The Company may impose stop-transfer instructions with respect to the shares (or securities) subject to the foregoing restriction until the end of said 180-day period. The provisions of this Section 2(i) shall be binding upon any transferee who acquires Registrable Securities. 
+
+SECTION 3. MISCELLANEOUS
+
+(a) Directly or Indirectly. Where any provision in this Agreement refers to action to be taken by any Person, or which such Person is prohibited from taking, such provision shall be applicable whether such action is taken directly or indirectly by such Person. 
+
+(b) Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York applicable to contracts made and to be performed entirely within such State. 
+
+(c) Section Headings. The headings of the sections and subsections of this Agreement are inserted for convenience only and shall not be deemed to constitute a part thereof. 
+
+(d) Notices.   
+  
+(i) All communications under this Agreement shall be in writing and shall be delivered by hand or facsimile or mailed by overnight courier or by registered or certified mail, postage prepaid:  
+  
+-12-
+
+* * *
+
+#####   
+  
+(1) if to the Company, to XO Communications, Inc., 11111 Sunset Hills Road, Reston, VA 20190, Attention: General Counsel (facsimile: (703) 547-2025, or at such other address as it may have furnished in writing to the Holders.  
+(2) if to the Holders, at the address or facsimile number listed on Schedule I hereto, or at such other address or facsimile number as may have been furnished the Company in writing.  
+  
+(ii) Any notice so addressed shall be deemed to be given: if delivered by hand or facsimile, on the date of such delivery; if mailed by overnight courier, on the first business day following the date of such mailing; and if mailed by registered or certified mail, on the third business day after the date of such mailing.  
+  
+(e) Reproduction of Documents. This Agreement and all documents relating thereto, including, without limitation, any consents, waivers and modifications which may hereafter be executed may be reproduced by the Holders by any photographic, photostatic, microfilm, microcard, miniature photographic or other similar process and the Holders may destroy any original document so reproduced. The parties hereto agree and stipulate that any such reproduction shall be admissible in evidence as the original itself in any judicial or administrative proceeding (whether or not the original is in existence and whether or not such reproduction was made by the Holders in the regular course of business) and that any enlargement, facsimile or further reproduction of such reproduction shall likewise be admissible in evidence. 
+
+(f) Successors and Assigns. This Agreement shall inure to the benefit of and be binding upon the successors and assigns of each of the parties. 
+
+(g) Entire Agreement; Amendment and Waiver. This Agreement constitutes the entire understanding of the parties hereto and supersedes all prior understanding among such parties. This Agreement may be amended, and the observance of any term of this Agreement may be waived, with (and only with) the written consent of the Company and the Holders holding a majority of the then outstanding Registrable Securities. 
+
+(h) Severability. In the event that any part or parts of this Agreement shall be held illegal or unenforceable by any court or administrative body of competent jurisdiction, such determination shall not affect the remaining provisions of this Agreement which shall remain in full force and effect. 
+
+(i) No Third Party Beneficiaries. The parties hereto acknowledge and agree that there are no intended third party beneficiaries to this Agreement and no third parties have any rights under or relating to this Agreement 
+
+(j) Counterparts. This Agreement may be executed in two or more counterparts (including by facsimile), each of which shall be deemed an original and all of which together shall be considered one and the same agreement. 
+
+-13-
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date first set forth above.   
+  
+XO COMMUNICATIONS, INC.  
+  
+By: /s/ Gary D. Begeman   
+Name: Gary D. Begeman  
+Title: Senior Vice President, General Counsel  
+  
+* * *
+
+##### 
+
+HIGH RIVER LIMITED PARTNERSHIP
+
+By:  /s/ Edward E. Mattner   
+Name: Edward E. Mattner  
+Title: Authorized Signatory  
+
+
+MEADOW WALK LIMITED PARTNERSHIP
+
+By:  /s/ Edward E. Mattner   
+Name: Edward E. Mattner  
+Title: Authorized Signatory 
+
+* * *
+
+##### 
+
+Schedule I
+
+Holders
+
+Investor Name and Address
+
+High River Limited Partnership  
+c/o Icahn Associates Corp.  
+767 Fifth Avenue  
+Suite 4700  
+New York, NY 10153 
+
+Meadow Walk Limited Partnership  
+c/o Icahn Associates Corp.  
+767 Fifth Avenue  
+Suite 4700  
+New York, NY 10153 

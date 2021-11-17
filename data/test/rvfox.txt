@@ -1,0 +1,347 @@
+Exhibit 10.4
+
+SILICON LABORATORIES INC.
+
+2009 STOCK INCENTIVE PLAN
+
+STOCK OPTION GRANT NOTICE AND 
+
+
+
+U.S. PARTICIPANTS
+
+Silicon Laboratories Inc., a Delaware corporation (the “Company”), pursuant to its 2009 Stock Incentive Plan (the “Plan”), hereby grants to the holder listed below (the “Participant”), an option to purchase the number of shares of the Company’s Common Stock, par value $0.0001 (“Shares”), set forth below (the “Option”). This Option is subject to all of the terms and conditions set forth herein and in the Stock Option Award Agreement attached hereto (the “Award Agreement”) and in the Plan, which are incorporated herein by reference. Unless otherwise defined herein, the terms defined in the Plan shall have the same defined meanings in this Grant Notice and the Award Agreement.
+
+Participant:  
+  
+Grant Date:  
+  
+Vesting Commencement Date:  
+  
+Exercise Price per Share:
+
+$  
+  
+Total Number of Shares Subject to the Option:  
+  
+Expiration Date:*  
+  
+Type of Option:
+
+o Incentive Stock Option
+
+o Non-Qualified Stock Option  
+  
+Vesting Schedule:
+
+Unless otherwise provided in the Award Agreement, the Option shall vest  
+  
+.  
+  
+* * *
+
+*Expiration Date:
+
+As an administrative matter, the vested portion of this Option may be exercised only until the close of the NASDAQ Global Select Market on the Expiration Date or the termination date set forth under Sections 3 or 7 of the Award Agreement or, if such date is not a trading day on the NASDAQ Global Select Market, the last trading day before such date. Any later attempt to exercise this Option will not be honored.  
+  
+By his or her signature below or by electronic acceptance or authentication in a form authorized by the Company, the Participant agrees to be bound by the terms and conditions of the Plan, the Award Agreement and this Grant Notice. The Participant has reviewed the Award Agreement, the Plan and this Grant Notice in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Grant Notice and fully understands all provisions of this Grant Notice, the Award Agreement and the Plan. The Participant hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee upon any questions arising under the Plan or relating to the Option.
+
+SILICON LABORATORIES INC.
+
+PARTICIPANT  
+  
+By:
+
+By:  
+  
+Print Name:
+
+Print Name:  
+  
+Title:  
+  
+Address:
+
+Address:  
+  
+* * *
+
+  
+
+
+SILICON LABORATORIES INC.
+
+2009 STOCK INCENTIVE PLAN
+
+STOCK OPTION AWARD AGREEMENT
+
+U.S. PARTICIPANTS
+
+Silicon Laboratories Inc. (the “Company”) has granted to the Participant named in the Stock Option Grant Notice (the “Grant Notice”) to which this Stock Option Award Agreement (this “Award Agreement”) is attached an Award consisting of Stock Options subject to the terms and conditions set forth in the Grant Notice and this Award Agreement. The Award has been granted pursuant to the Silicon Laboratories Inc. 2009 Stock Incentive Plan (the “Plan”), as amended to the Grant Date, the provisions of which are incorporated herein by reference.
+
+Unless otherwise defined herein or in the Grant Notice, capitalized terms shall have the meanings assigned under the Plan.
+
+# 
+
+# 1. THE AWARD.
+
+## The Company hereby awards to the Participant, as of the Grant Date set forth in the Grant Notice, an Option to purchase up to the number of Shares specified in the Grant Notice at the exercise price per Share set forth in the Grant Notice (the “Exercise Price”) and subject to the terms and conditions of the Plan.
+
+## 
+
+## If designated in the Grant Notice as an Incentive Stock Option, the Option is intended to qualify as an Incentive Stock Option as defined in Section 422 of the Code. Nevertheless, to the extent that the value of the Option exceeds the $100,000 rule of Code Section 422(d), the Option shall be treated as a Non-Qualified Stock Option. Further, if for any other reason the Option (or a portion thereof) shall not qualify as an Incentive Stock Option, then the Option or the disqualifying portion thereof shall be regarded as a Non-Qualified Stock Option under the Plan. In no event shall the Company, or any Subsidiary or Affiliate of the Company or their respective employees or directors have any liability to the Participant due to the failure of the Option to qualify as an Incentive Stock Option.
+
+# 2. VESTING OF OPTION.
+
+## 2.1 Dates of Exercise. Except as otherwise provided in this Agreement, the Option shall become exercisable for Shares in one or more installments as specified in the Grant Notice. As the Option becomes exercisable for such installments, those installments shall accumulate, and the Option shall remain exercisable for the accumulated installments until the Expiration Date or sooner termination of the Option term under Sections 3 or 7, below.
+
+## 2.2 Leave of Absence / Part-Time Work. Unless otherwise determined by the Committee, the following provisions shall apply upon the Participant’s commencement of an authorized leave of absence:
+
+### (a) Authorized Leave. The vesting schedule in effect under the Grant Notice shall be frozen as of the first fifteenth (15th) day of a month immediately following the commencement of the authorized leave, and the Option shall not become exercisable for any additional installments during the period Participant remains on such leave. Vesting of the Option shall resume upon the first fifteenth (15th) day of a month immediately following the Participant’s resumption of active Service.
+
+* * *
+
+  
+
+
+### (b) Vesting Credit for Leave.  Should the Participant resume active Service within sixty (60) days after the start date of the authorized leave, the Participant shall, for purposes of the vesting schedule set forth in the Grant Notice, receive vesting credit for the entire period of such leave. If the Participant does not resume active Service within such sixty (60)-day period, then no vesting credit shall be given for the period of such leave.
+
+### (c) Consequence of Leave upon Incentive Stock Option. If the Option is designated as an Incentive Stock Option in the Grant Notice, and the leave of absence continues for more than ninety (90) days, then the Option shall automatically convert to a Non-Qualified Stock Option at the end of the three (3)-month period measured from the ninety-first (91st) day of such leave, unless the Participant’s reemployment rights are guaranteed by law or by a contract. Following any such conversion of the Option, all subsequent exercises of the Option, whether effected before or after the Participant’s return to active Employee status, shall result in an immediate taxable event, and the Company shall be required to collect from the Participant the income and employment withholding taxes applicable to such exercise.
+
+### 
+
+### (d) Term of Option Upon Leave. In no event shall the Option become exercisable for any additional Shares or otherwise remain outstanding if the Participant does not resume active Service prior to the Expiration Date of the Option term.
+
+### (e) Part-Time Work. If the Participant commences working on a part-time basis, then the vesting schedule specified in the Grant Notice may be adjusted in accordance with the Company’s part-time work policy or the terms of an agreement between the Participant and the Company pertaining to the Participant’s part-time schedule.
+
+## 2.3 Term of Option. The Option shall have a maximum term of ten (10) years measured from the Grant Date and shall accordingly expire at the close of the NASDAQ Global Select Market on the Expiration Date, unless sooner terminated in accordance with Sections 3 or 7, below.
+
+# 3. TERMINATION OF SERVICE.
+
+The Option term specified in Section 2.3 shall terminate (and the Option shall cease to be outstanding) prior to the Expiration Date should any of the following provisions become applicable:
+
+## 3.1 General Rule. Should the Participant cease to provide services to the Company (or any Subsidiary or Affiliate) in the capacity of an Employee, Director or Consultant (collectively referred to herein as “Service”) for any reason (other than death, Disability or Misconduct) while the Option is outstanding, then the Option shall remain exercisable until the earlier of (i) the expiration of the three (3)-month period measured from the date of such cessation of Service or (ii) the Expiration Date.
+
+## 3.2 Death of the Participant. Should the Participant cease Service by reason of his or her death, the vesting of the Option shall automatically accelerate so that the Option shall become exercisable for all of the Shares at the time subject to the Option and may be exercised by the personal representative of the Participant’s estate, the person or persons to whom the Option is transferred pursuant to the Participant’s will or in accordance with the laws of descent and distribution until the earlier of (i) the expiration of the twelve (12)-month period measured from the date of the Participant’s death or (ii) the Expiration Date.
+
+## 3.3 Disability of the Participant. Should the Participant cease Service by reason of Disability while the Option is outstanding, then the Option shall remain exercisable until the earlier of (i) the expiration of the twelve (12)-month period measured from the date of such cessation of Service or (ii) the Expiration Date.
+
+2
+
+* * *
+
+  
+
+
+## 3.4 Number of Exercisable Shares Post-Service. Except in the event of the Participant’s cessation of Service by reason of his or her death, during the applicable post-Service exercise period, the Option may not be exercised in the aggregate for more than the number of vested Shares for which the Option is exercisable on the date of the Participant’s cessation of Service. Upon the expiration of the applicable exercise period or (if earlier) upon the Expiration Date, the Option shall terminate and cease to be outstanding for any vested Shares for which the Option has not been exercised. However, the Option shall, immediately upon the Participant’s cessation of Service for any reason other than the Participant’s death, terminate and cease to be outstanding to the extent the Option is not otherwise at that time exercisable for vested shares.
+
+## 3.5 Termination for Misconduct. Should the Participant’s Service be terminated for Misconduct or should the Participant engage in Misconduct while the Option is outstanding, then the Option shall terminate immediately and cease to be outstanding. In the event the Participant’s Service is suspended pending an investigation of whether the Participant’s Service will be terminated for Misconduct, all of the Participant’s rights under the Option, including the right to exercise the Option, shall be suspended during the investigation period.
+
+## 3.6 Cessation of Service. For purposes of this Award Agreement, the Participant’s period of Service shall not include any period of notice of termination, (whether express or implied). The Participant’s date of cessation of Service shall mean the date upon which the Participant ceases active performance of services for the Company, a Subsidiary or Affiliate, as determined by the Company following the provision of such notification of termination or resignation from Service and shall be determined solely by this Award Agreement and without reference to any other agreement, written or oral, including the Participant’s contract of employment (if any).
+
+# 4. EXERCISE OF OPTION.
+
+## 4.1 Method of Exercise. In order to exercise the Option with respect to all or any part of the Shares for which the Option is at the time exercisable, the Participant (or any other person or persons exercising the Option) must take the following actions:
+
+## (a) Execute and deliver to the Company a notice of exercise (the “Notice of Exercise”) in the form authorized by the Company, which may be electronic or written. An electronic Notice of Exercise must be digitally signed or authenticated by the Participant in such manner as required by the notice and transmitted to the applicable authorized representative of the Company (including a Company-designated brokerage firm). In the event that the Participant is not authorized or is unable to provide an electronic Notice of Exercise, the Option shall be exercised by a written Notice of Exercise addressed to the Company, which shall be signed by the Participant and delivered in person, by certified or registered mail, return receipt requested, by confirmed facsimile transmission, or by such other means as the Company may permit, to the applicable authorized representative of the Company (including a Company-designated brokerage firm). Each Notice of Exercise, whether electronic or written, must state the Participant’s election to exercise the Option, the number of whole Shares for which the Option is being exercised and such other representations and agreements as to the Participant’s investment intent with respect to such Shares as may be required pursuant to the provisions of this Award Agreement. Further, each Notice of Exercise must be received by the Company prior to the termination of the Option as set forth in Section 3 or 7.
+
+## (b) Pay the aggregate Exercise Price for the purchased Shares in one or more of the following forms:
+
+3
+
+* * *
+
+  
+
+
+(i) cash or check which, in the Company’s sole discretion, shall be made payable to a Company-designated brokerage firm or the Company; or
+
+(ii) with the consent of the Committee, surrender Shares issuable upon the exercise of the Option having a Fair Market Value on the date of exercise equal to the aggregate Exercise Price of the Shares plus all applicable tax withholding obligations of the Company (or a Subsidiary or Affiliate) with respect to which the Option or portion thereof is being exercised; or
+
+(iii) as permitted by applicable law, through a special sale and remittance procedure pursuant to which the Participant (or any other person or persons exercising the Option) shall concurrently provide irrevocable instructions (A) to a Company-designated brokerage firm to effect the immediate sale of the purchased Shares and remit to the Company, out of the sale proceeds available on the settlement date, sufficient funds to cover the aggregate Exercise Price payable for the purchased Shares plus all applicable tax withholding obligations of the Company (or a Subsidiary or Affiliate) by reason of such exercise and (B) to the Company to deliver the certificates for the purchased Shares directly to such brokerage firm in order to complete the sale.
+
+Except to the extent the sale and remittance procedure is utilized in connection with the exercise of the Option, payment of the Exercise Price must accompany the Notice of Exercise delivered to the Company (or a Company-designated brokerage firm) in connection with the Option exercise.
+
+### 
+
+### (c) Furnish to the Company appropriate documentation that the person or persons exercising the Option (if other than the Participant) have the right to exercise the Option.
+
+### (d) Make appropriate arrangements with the Company (or Subsidiary or Affiliate employing or retaining the Participant) for the satisfaction of all applicable tax withholding requirements applicable to the Option exercise.
+
+### (e) As soon as practical after the exercise date, the Company shall issue to or on behalf of the Participant (or any other person or persons exercising the Option) the purchased Shares (as evidenced by an appropriate entry on the books of the Company or a duly authorized transfer agent of the Company), subject to the appropriate legends and/or stop transfer instructions.
+
+### (f) Notwithstanding any other provisions of the Plan, this Award Agreement or any other agreement to the contrary, if at the time this Option is exercised, Participant is indebted to the Company (or any Subsidiary or Affiliate) for any reason, the following actions shall be taken, as deemed appropriate by the Committee:
+
+#### (i) any Shares to be issued upon such exercise shall automatically be pledged against Participant’s outstanding indebtedness; and
+
+(ii) if this Option is exercised in accordance with subsection 4.1(b)(iii) above, the after-tax proceeds of the sale of Participant’s Shares shall automatically be applied to the outstanding balance of Participant’s indebtedness.
+
+## 
+
+## 4.2 Restrictions on Exercise of the Option and Issuance of Shares. The exercise of the Option and issuance of shares of Common Stock upon such exercise shall be subject to compliance with all applicable requirements of U.S. federal, state or foreign law with respect to such securities. No Shares may be issued hereunder if the issuance of such Shares would constitute a violation of any applicable U.S. federal, state or foreign securities laws or other laws or regulations or the requirements of any stock exchange or market system upon which the Common Stock may then be listed. The inability of 
+
+4
+
+* * *
+
+  
+
+
+## the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance of any Shares subject to the Option shall relieve the Company of any liability in respect of the failure to issue such Shares as to which such requisite authority shall not have been obtained. As a condition to the exercise of the Option, the Company may require the Participant to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company. Further, regardless of whether the transfer or issuance of the Shares to be issued pursuant to the Option has been registered under the Securities Act or has been registered or qualified under the securities laws of any State, the Company may impose additional restrictions upon the sale, pledge, or other transfer of the Shares (including the placement of appropriate legends on stock certificates and the issuance of stop-transfer instructions to the Company’s transfer agent) if, in the judgment of the Company and the Company’s counsel, such restrictions are necessary in order to achieve compliance with the provisions of the Securities Act, the securities laws of any State, or any other law.
+
+## 4.3 Fractional Shares. In no event may the Option be exercised for any fractional shares.
+
+## 
+
+## 4.4 Excess Shares. If the Shares covered by this Award Agreement exceed, as of the Grant Date, the number of Shares which may without stockholder approval be issued under the Plan, then the Option shall be void with respect to those excess Shares, unless stockholder approval of an amendment sufficiently increasing the number of Shares issuable under the Plan is obtained in accordance with the provisions of the Plan.
+
+## 4.5 Financing. The Committee may, in its absolute discretion and without any obligation to do so, permit the Participant to pay the Exercise Price for the purchased Shares by delivering a full-recourse promissory note payable to the Company. The terms of any such promissory note (including the interest rate, the requirements for collateral and the terms of repayment) shall be established by the Committee in its sole discretion.
+
+# 5. TAX WITHHOLDING AND ADVICE.
+
+## 5.1 In General. Subject to Section 5.2, at the time the Grant Notice is executed, or at any time thereafter as requested by the Company, the Participant hereby authorizes withholding from payroll and any other amounts payable to the Participant, and otherwise agrees to make adequate provision for, any sums required to satisfy the U.S. federal, state, and local taxes and (if applicable) taxes imposed by jurisdictions outside of the United States (including income tax, social insurance contributions, payment on account and any other taxes) and required by law to be withheld with respect to any taxable event arising as a result of the Participant’s participation in the Plan (referred to herein as “Tax-Related Items”).
+
+## 5.2 Withholding of Taxes. The Company or any Subsidiary or Affiliate, as appropriate, shall have the authority and the right to deduct or withhold, or require the Participant to remit to the Company (or to the applicable Subsidiary or Affiliate), an amount sufficient to satisfy applicable Tax-Related Items or to take such other action as may be necessary in the opinion of the Company or a Subsidiary or Affiliate, as appropriate, to satisfy such Tax-Related Items (including hypothetical withholding tax amounts if the Participant is covered under a Company tax equalization policy).
+
+### The Committee may in its discretion and in satisfaction of the foregoing requirement allow a Participant to elect to have the Company withhold Shares otherwise issuable under the Option (or allow the return of Shares) having a Fair Market Value equal to the sums required to be withheld. Further, to 
+
+5
+
+* * *
+
+  
+
+
+### the extent determined appropriate by the Company in its discretion, the Company (or Subsidiary or Affiliate, as applicable) will have the right (but not the obligation) to satisfy any tax withholding obligations by one or a combination of the following:
+
+(a) withholding from the Participant’s wages or other cash compensation paid to the Participant by the Company and/or a Subsidiary or Affiliate; or
+
+(b) withholding a number of whole Shares otherwise deliverable to the Participant upon exercise of the Option having a Fair Market Value equal to the Tax-Related Items obligations, as determined by the Company as of the date on which the Tax-Related Items obligations arise; or
+
+(c) withholding from the proceeds from the sale of Shares otherwise deliverable to the Participant having a Fair Market Value equal to the Tax-Related Items obligations, provided the sale does not violate Company policy or applicable laws; any such sale is on the Participant’s behalf and at the Participant’s direction pursuant to this authorization; or
+
+(d) direct payment from the Participant.
+
+### 
+
+To avoid negative accounting treatment, the Company may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates. If the Participant is covered by a Company tax equalization policy, the Participant agrees to pay to the Company any additional hypothetical tax obligation calculated and paid under the terms and conditions of such tax equalization policy. No Shares shall be delivered hereunder to any Participant or other person until the Participant or such other person has made arrangements acceptable to the Committee for the satisfaction of these tax obligations with respect to any taxable event concerning the Participant or such other person arising as a result of the Participant’s participation in the Plan.
+
+## 5.3 Tax Advice. The Participant represents, warrants and acknowledges that the Company has made no warranties or representations to the Participant with respect to the income tax consequences of the transactions contemplated by this Award Agreement, and the Participant is in no manner relying on the Company or the Company’s representatives for an assessment of such tax consequences. THE PARTICIPANT UNDERSTANDS THAT THE TAX LAWS AND REGULATIONS ARE SUBJECT TO CHANGE. THE PARTICIPANT SHOULD CONSULT HIS OR HER OWN TAX ADVISOR REGARDING ANY OPTION. NOTHING STATED HEREIN IS INTENDED OR WRITTEN TO BE USED, AND CANNOT BE USED, FOR THE PURPOSE OF AVOIDING TAXPAYER PENALTIES.
+
+# 6. AUTHORIZATION TO RELEASE NECESSARY PERSONAL INFORMATION.
+
+## 
+
+## The Participant hereby authorizes and directs the Participant’s employer to collect, use and transfer in electronic or other form, any personal information (the “Data”) regarding the Participant’s Service, the nature and amount of the Participant’s compensation and the fact and conditions of the Participant’s participation in the Plan (including, but not limited to, the Participant’s name, home address, telephone number, date of birth, social security number (or any other social or national identification number), salary, nationality, job title, number of Shares held and the details of all options or any other entitlement to Shares awarded, cancelled, exercised, vested, unvested or outstanding) for the purpose of implementing, administering and managing the Participant’s participation in the Plan. The Participant understands that the Data may be transferred to the Company or any of its Subsidiaries or Affiliates, or to any third parties assisting in the implementation, administration and management of the Plan, including any requisite transfer to a brokerage firm or other third party assisting with the exercise of Options under 
+
+6
+
+* * *
+
+  
+
+
+## the Plan or with whom Shares acquired upon exercise of this Option or cash from the sale of such Shares may be deposited. The Participant acknowledges that recipients of the Data may be located in different countries, and those countries may have data privacy laws and protections different from those in the country of the Participant’s residence. Furthermore, the Participant acknowledges and understands that the transfer of the Data to the Company or any of its Subsidiaries or Affiliates, or to any third parties is necessary for Participant’s participation in the Plan.
+
+The Participant may at any time withdraw the consents herein, by contacting the Company’s stock administration department in writing. The Participant further acknowledges that withdrawal of consent may affect the Participant’s ability to exercise or realize benefits from the Option, and the Participant’s ability to participate in the Plan.
+
+# 
+
+# 7. EFFECT OF CHANGE IN CONTROL ON AWARD.
+
+This Award Agreement shall not in any way affect the right of the Company to adjust, reclassify, reorganize or otherwise change its capital or business structure or to merge, consolidate, dissolve, liquidate or sell or transfer all or any part of its business or assets.
+
+7.1 Acceleration of Vesting. In the event of a Change in Control, the Option, to the extent outstanding at that time but not otherwise fully exercisable, shall automatically accelerate so that the Option shall, immediately prior to the effective date of the Change in Control, become exercisable for all of the Shares at the time subject to the Option and may be exercised for any or all of those Shares as fully-vested Shares. No such acceleration of the Option, however, shall occur if and to the extent: (i) the Option is, in connection with the Change in Control, assumed or otherwise continued in full force and effect by the successor corporation (or parent thereof) or replaced with a comparable option to purchase shares of the capital stock of the successor corporation (or parent thereof) pursuant to the terms of the Change in Control or (ii) the Option is replaced with a cash incentive program of the successor corporation which preserves the spread existing at the time of the Change in Control on the Shares for which the Option is not otherwise at that time exercisable (the excess of the Fair Market Value of those Shares over the aggregate Exercise Price payable for such Shares) and provides for subsequent pay-out in accordance with the same vesting schedule set forth in the Grant Notice. The determination of option comparability under clause (i) shall be made by the Committee, and such determination shall be final, binding and conclusive.
+
+7.2 Termination of the Option Upon Change in Control. Immediately following the consummation of the Change in Control, the Option shall terminate and cease to be outstanding, except to the extent assumed by the successor corporation (or parent thereof) or otherwise expressly continued in full force and effect pursuant to the terms of the Change in Control.
+
+7.3 Assumption of the Option. If the Option is assumed in connection with a Change in Control, then the Option shall be appropriately adjusted, immediately after such Change in Control, to apply to the number and class of securities which would have been issuable to the Participant in consummation of such Change in Control had the Option been exercised immediately prior to such Change in Control, and appropriate adjustments shall also be made to the Exercise Price, provided the aggregate Exercise Price shall remain the same.
+
+7.4 Involuntary Termination After Change in Control. In the event that the Option is, in connection with the Change in Control, either assumed by the successor corporation (or parent thereof) or replaced with a comparable option of the successor corporation (or parent thereof) and, within eighteen (18) months of the effective date of the Change in Control, the Participant’s Service terminates due to Involuntary Termination, the Option, to the extent outstanding at that time but not 
+
+7
+
+* * *
+
+  
+
+
+otherwise fully exercisable, shall automatically accelerate so that the Option shall, immediately upon the effective date of the Involuntary Termination, become exercisable for all of the Shares at the time subject to the Option and may be exercised for any or all of those Shares as fully-vested Shares for a period of three (3) months.
+
+# 8. ADJUSTMENTS FOR CHANGES IN CAPITAL STRUCTURE.
+
+The Participant acknowledges that the Option is subject to modification and termination in certain events as provided in this Award Agreement and Article 11 of the Plan.
+
+# 9. NO ENTITLEMENT OR CLAIMS FOR COMPENSATION.
+
+## 9.1 The Participant’s rights, if any, in respect of or in connection with this Option are derived solely from the discretionary decision of the Company to permit the Participant to participate in the Plan and to benefit from a discretionary Award. By accepting this Option, the Participant expressly acknowledges that there is no obligation on the part of the Company to continue the Plan and/or grant any additional options or other Awards to the Participant. This Option is not intended to be compensation of a continuing or recurring nature, or part of the Participant’s normal or expected compensation, and in no way represents any portion of the Participant’s salary, compensation, or other remuneration for purposes of pension benefits, severance, redundancy, resignation or any other purpose.
+
+## 9.2 Neither the Plan nor this Option shall be deemed to give the Participant a right to remain an Employee, Director or Consultant of the Company, a Subsidiary or an Affiliate. The Company and its Subsidiaries and Affiliates reserve the right to terminate the Service of the Participant at any time, with or without cause, and for any reason, subject to applicable laws, the Company’s Certificate of Incorporation and Bylaws and a written employment agreement (if any), and the Participant shall be deemed irrevocably to have waived any claim to damages or specific performance for breach of contract or dismissal, compensation for loss of office, tort or otherwise with respect to the Plan, this Option or any other outstanding Award that is forfeited and/or is terminated by its terms or to any future Award.
+
+# 10. RIGHTS AS A STOCKHOLDER.
+
+The Participant shall not have any stockholder rights with respect to the Shares until the Participant exercises the Option, pays the Exercise Price and becomes a holder of record of the purchased Shares or the purchased Shares are deposited in a Company-designated brokerage account.
+
+# 11. MISCELLANEOUS PROVISIONS.
+
+## 11.1 Amendment. The Committee may amend this Award Agreement at any time; provided, however, that no such amendment may adversely affect the Participant’s rights under this Award Agreement without the consent of the Participant, except to the extent such amendment is necessary to comply with applicable law, including, but not limited to, Code Section 409A. No amendment or addition to this Award Agreement shall be effective unless in writing.
+
+## 11.2 Nontransferability of the Option. Prior to the issuance of Shares upon exercise, no right or interest of the Participant in the Option nor any Shares subject to the Option shall be in any manner pledged, encumbered, or hypothecated to or in favor of any party other than the Company or a Subsidiary or Affiliate or shall become subject to any lien, obligation, or liability of such Participant to any other party other than the Company, or a Subsidiary or Affiliate. Except as otherwise provided by the Committee, no Option shall be assigned, transferred or otherwise disposed of other than by will or the 
+
+8
+
+* * *
+
+  
+
+
+## laws of descent and distribution. All rights with respect to the Option shall be exercisable during the Participant’s lifetime only by the Participant or the Participant’s guardian or legal representative.
+
+## 11.3 Further Instruments. The parties hereto agree to execute such further instruments and to take such further action as may reasonably be necessary to carry out the intent of this Award Agreement.
+
+## 11.4 Binding Effect. This Award Agreement shall inure to the benefit of the successors and assigns of the Company and, subject to the restrictions on transfer set forth herein, be binding upon the Participant and the Participant’s heirs, executors, administrators, successors and assigns.
+
+## 11.5 Notices. Any notice required to be given or delivered to the Company under the terms of this Award Agreement shall be in writing and addressed to the Company at its principal corporate offices. Any notice required to be given or delivered to the Participant shall be in writing and addressed to the Participant at the address maintained for the Participant in the Company’s records or at the address of the local office of the Company or of a Subsidiary or Affiliate at which the Participant works.
+
+## 11.6 Construction of Award Agreement. The Grant Notice, this Award Agreement, and the Option evidenced hereby (i) are made and granted pursuant to the Plan and are in all respects limited by and subject to the terms of the Plan, and (ii) constitute the entire agreement between the Participant and the Company on the subject matter hereof and supersede all proposals, written or oral, and all other communications between the parties related to the subject matter. All decisions of the Committee with respect to any question or issue arising under the Grant Notice, this Award Agreement or the Plan shall be conclusive and binding on all persons having an interest in this Option.
+
+## 11.7 Governing Law. The interpretation, performance and enforcement of this Award Agreement shall be governed by the laws of the State of Texas, U.S.A. without regard to the conflict-of-laws rules thereof or of any other jurisdiction.
+
+## 11.8 Compliance.
+
+## 
+
+### (a) Conformity to Securities Laws. The Participant acknowledges that the Plan and this Agreement are intended to conform to the extent necessary with all provisions of the Securities Act and the Exchange Act and any and all regulations and rules promulgated by the Securities and Exchange Commission thereunder, and State securities laws and regulations. Notwithstanding anything herein to the contrary, the Plan shall be administered, and the Option is granted and may be exercised, only in such a manner as to conform to such laws, rules and regulations. To the extent permitted by applicable law, the Plan and this Award Agreement shall be deemed amended to the extent necessary to conform to such laws, rules and regulations.
+
+### (b) Section 409A. Notwithstanding any other provision of the Plan, this Award Agreement or the Grant Notice, the Plan, this Agreement and the Grant Notice shall be interpreted in accordance with, and incorporate the terms and conditions required by, Code Section 409A (together with any Department of Treasury regulations and other interpretive guidance issued thereunder, including without limitation any such regulations or other guidance that may be issued after the date hereof, “Section 409A”). The Company reserves the right, to the extent the Company deems necessary or advisable in its sole discretion, to unilaterally amend or modify the Plan, this Award Agreement or the Grant Notice or adopt other policies and procedures (including amendments, policies and procedures with retroactive effect), or take any other actions, as the Committee determines are necessary or appropriate to ensure that this Option qualifies for exemption from, or complies with the requirements of, Section 409A; 
+
+9
+
+* * *
+
+  
+
+
+### provided, however, that the Company makes no representation that the Option will be exempt from, or will comply with, Section 409A, and makes no undertakings to preclude Section 409A of the Code from applying to the Option or to ensure that it complies with Section 409A.
+
+### (c) Limitations Applicable to Section 16 Persons. Notwithstanding any other provision of the Plan or this Award Agreement, if the Participant is subject to Section 16 of the Exchange Act, the Plan, the Option and this Award Agreement shall be subject to any additional limitations set forth in any applicable exemptive rule under Section 16 of the Exchange Act (including any amendment to Rule 16b-3 of the Exchange Act) that are requirements for the application of such exemptive rule. To the extent permitted by applicable law, this Award Agreement shall be deemed amended to the extent necessary to conform to such applicable exemptive rule.
+
+## 
+
+## 11.9 Notice of Disqualifying Disposition of Incentive Stock Option Shares. If the Option granted herein is an Incentive Stock Option and if the Participant sells or otherwise disposes of Shares acquired pursuant to the Incentive Stock Option on or before (i) the date that is two (2) years after the Grant Date or (ii) the date that is one (1) year after the exercise date, the Participant shall immediately notify the Company in writing of such disposition. The Participant agrees that the Participant may be subject to further income tax withholding by the Company on the income received by the Participant.
+
+## 
+
+## 11.10 Administration. The Committee shall have the power to interpret the Plan and this Award Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret, amend or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee in good faith shall be final and binding upon the Participant, the Company and all other interested persons. No member of the Committee or the Board shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan, this Award Agreement or the Option.
+
+## 
+
+## 11.11 Counterparts. The Grant Notice may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+## 11.12 Severability. If any provision of this Award Agreement is held to be unenforceable for any reason, it shall be adjusted rather than voided, if possible, in order to achieve the intent of the parties to the extent possible. In any event, all other provisions of this Award Agreement shall be deemed valid and enforceable to the full extent possible.
+
+11.13 Relocation Outside the United States. If the Participant relocates to a country outside the United States, the Company reserves the right to impose other requirements on the Participant’s participation in the Plan, on the Option and on any Shares acquired under the Plan, to the extent the Company determines necessary or advisable in order to comply with local law or facilitate the administration of the Plan, and to require the Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+10
+
+* * *

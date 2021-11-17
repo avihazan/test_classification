@@ -1,0 +1,730 @@
+Exhibit 10.1
+
+  
+
+
+
+
+This EMPLOYMENT AGREEMENT is made and entered into effective the 1st day of July, 2016, the (“Effective Date”) by and between SEITEL, INC., a Delaware corporation (together with its successors and assigns, the “Company”), and KEVIN P. CALLAGHAN (the “Executive”).
+
+W I T N E S S E T H
+
+WHEREAS, the Executive was employed by the Company immediately prior to the Effective Date as the Chief Operating Officer of the Company pursuant to that certain First Amended and Restated Employment Agreement by and between the Company and the Executive, dated March 24, 2005, as amended and the Employment Agreement by and between the Company and the Executive, dated January 30, 2007, as amended, (collectively, the “Prior Employment Agreements”),
+
+WHEREAS, the Company desires to terminate the Prior Employment Agreements and continue to employ the Executive in a changed capacity and to enter into a new agreement embodying the terms of such new employment (this “Agreement”) and the Executive desires to resign his position as Chief Operating Officer and enter into this Agreement to accept such new and changed employment, subject to the terms and provisions of this Agreement;
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein and for other good and valuable consideration, the receipt of which is mutually acknowledged, the Company and the Executive (individually a “Party” and together the “Parties”) agree as follows:  
+  
+1.
+
+Definitions  
+  
+a.
+
+“Affiliate” of a specified Person or entity shall mean a Person or entity that, directly or indirectly, controls, is controlled by, or is under common control with, the Person or entity specified. For the purposes of the term “Affiliate,” control with respect to a Person, means the possession, directly or indirectly, of the power to (i) vote 10% or more of the securities having ordinary voting power for the election of directors (or comparable positions of such Person) or (ii) direct or cause the direction of the management and policies of such Person, whether through voting of securities, by contract, or otherwise, and the terms controlling and controlled have meanings correlative to the foregoing.  
+  
+b.
+
+“Base Salary” shall mean the annualized salary provided for in Section 4 below.  
+  
+c.
+
+“Beneficial Owner” shall have the meaning ascribed to such term in Rule 13d-3 under the Securities Exchange Act of 1934 and any successor to such Rule.  
+  
+d.
+
+“Board” shall mean the Board of Directors of the Company.  
+  
+e.
+
+“Cause” shall mean:  
+  
+i.
+
+willful misconduct or gross negligence by the Executive in the performance of his duties under this Agreement;  
+  
+ii.
+
+breach of this Agreement by the Executive, which, if curable, is not substantially cured to the satisfaction of the Company determined by the Company in its sole discretion within ten (10) days after Executive’s receipt of written notice from the Company of such breach;  
+  
+  
+
+
+\- 1 -
+
+  
+
+
+* * *
+
+  
+  
+  
+iii.
+
+failure by the Executive to perform his duties, if not cured to the satisfaction of the Company determined by the Company within ten (10) days after Executive’s receipt of written notice from the Company of such breach, other than a failure resulting from Executive’s incapacity due to Disability;  
+  
+iv.
+
+a material violation by the Executive of the Company’s Code of Business Conduct or the Company’s policies or procedures; or  
+  
+v.
+
+conviction of the Executive of, or a plea of nolo contendere to, a felony, or his engagement in fraud or other willful misconduct which is injurious to the business or reputation of the Company.  
+  
+f.
+
+“Change in Control” means the occurrence of any of the following events:  
+  
+i.
+
+any “person” or “group” (as such terms are used in Sections 13(d) and 14(d) of the Exchange Act), other than one or more Existing Stockholders at February 14, 2007, is or becomes the Beneficial Owner of Voting Stock representing more than 50% of the voting power of the total outstanding Voting Stock of the Company;  
+  
+ii.
+
+during any period of two consecutive years, individuals who at the beginning of such period constituted the Board (together with any new directors whose election to such Board or whose nomination for election by the stockholders of the Company was approved by a vote of the majority of the directors of the Company then still in office who were either directors at the beginning of such period or whose election or nomination for election was previously so approved) cease for any reason to constitute a majority of the Board of the Company;  
+  
+iii.
+
+(a) all or substantially all of the assets of the Company and its subsidiaries taken as a whole are sold or otherwise transferred to any Person other than a wholly-owned subsidiary of the Parent or one or more Existing Stockholders at February 14, 2007 or (b) the Company consolidates or merges with or into another Person or any Person consolidates or merges with or into the Company, in either case under this clause (iii)(b), in one transaction or a series of related transactions in which immediately after the consummation thereof Person beneficially owning (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, Voting Stock representing in the aggregate a majority of the total voting power of the Voting Stock of the Company immediately prior to such consummation do not beneficially own (as defined in Rules 13d-3 and 13d-5 under the Exchange Act), directly or indirectly, Voting Stock representing a majority of the total voting power of the Voting Stock of the Company or the surviving or transferee Person; or  
+  
+iv.
+
+the Company shall adopt a plan of liquidation or dissolution or any such plan shall be approved by the stockholders of the Company.  
+  
+For purposes of this definition, (i) a Person shall not be deemed to have beneficial ownership of securities subject to a stock purchase agreement, merger agreement or similar agreement until the consummation of the transactions contemplated by such agreement and (ii) any holding company whose only significant asset is equity interests of the Company shall not itself be considered a “person” or “group” for purposes of clause (i) or (ii) above.  
+  
+g.
+
+“Commencement Date” shall mean July 1, 2016.  
+  
+  
+
+
+\- 2 -
+
+  
+
+
+* * *
+
+  
+  
+  
+h.
+
+“Date of Termination” shall mean:  
+  
+i.
+
+if the Executive’s employment is terminated by the Company, the date the Company informs the Executive that his employment is so terminated;  
+  
+ii.
+
+if the Executive voluntarily resigns his employment, the date the Company receives notice from the Executive that Executive is terminating his employment;  
+  
+iii.
+
+if the Executive’s employment is terminated by reason of death, the date of death; or,  
+  
+iv.
+
+if the Executive’s employment is terminated for any reason (voluntarily or involuntarily) after a Change in Control other than for Cause, the applicable of the date the Company informs the Executive he is terminated or the date the Executive provides notice to the Company of his termination.  
+  
+i.
+
+“Disability” shall mean the Executive’s inability, due to physical or mental incapacity, to substantially perform his duties and responsibilities for a period of ninety (90) days during any twelve-month period as determined by the Company. The Executive agrees to submit to any examination that is necessary for a determination of Disability and agrees to provide any information necessary for a determination of Disability, including any information that is protected by the Health Insurance Portability and Accountability Act.  
+  
+j.
+
+“Existing Stockholders at February 14, 2007” means any of (a) Parent, ValueAct Capital Master Fund, L.P., ValueAct Capital Partners, L.P., ValueAct Capital Partners II, L.P., ValueAct Capital International, Ltd. and its successor ValueAct Capital International I, L.P., ValueAct Capital International II, L.P., VA Partners, LLC, ValueAct Capital Management, LLC or any of their respective Affiliates (collectively, the “ValueAct Entities”), (b) any present or former managing director, director, general partner, member, limited partner, officer, stockholder or employee of any ValueAct Entity, (c) any present or former officers and directors of the Company, and (d) any (x) spouse, lineal descendant (in each case, natural or adopted), siblings, or ancestors of any Person, who is an individual, in clause (b) and (c) above, and (y) any estate or trust, the beneficiaries of which, or corporation, partnership, limited liability corporation or other entity, the stockholders, partners, members, owners or Persons holding a controlling interest of which, consist of one or more Persons referred to in the immediately preceding clause (x).  
+  
+k.
+
+“Person” shall mean any individual, corporation, partnership, limited liability company, joint venture, incorporated or unincorporated association, joint-stock company, trust, unincorporated organization or government or other agency or political subdivision thereof or other entity of any kind.  
+  
+l.
+
+“Subsidiary” means any corporation (other than the Company), partnership, joint venture or other business entity of which 50% of more of the outstanding voting power is owned, directly or indirectly, by the Company.  
+  
+m.
+
+“Term” shall have the meaning ascribed to such term in Section 2 below.  
+  
+n.
+
+“Voting Stock” with respect to any Person, means securities of any class of equity interests of such Person entitling the holders thereof (whether at all times or for only so long as no senior class of stock or other relevant equity interest has voting power by reason of any contingency) to vote in the election of members of the Board of Directors of such Person.  
+  
+  
+
+
+\- 3 -
+
+  
+
+
+* * *
+
+  
+  
+  
+2.
+
+Term of Employment  
+  
+The term of the Executive’s employment hereunder (the “Term”) shall begin on the Commencement Date (July 1, 2016) and end at the close of business on the day before the second anniversary of the Commencement Date, or June 30, 2018 (“Termination Date”). Notwithstanding the foregoing, in the event unforeseen circumstances arise such that Company would like to shorten the Term, it is agreed that the Company will provide the other party with at least thirty (30) days written notice of its intent to terminate this Agreement before the end of the Term. The Term shall end on the date on which the Executive’s employment is terminated by either Party in accordance with the provisions herein. The period from the Commencement Date through the Date of Termination shall be the “Employment Period.”  
+  
+3.
+
+Position; Duties and Responsibilities; Non-competition; Directorship; Resignation  
+  
+During the Term, the Executive shall be employed as a Senior Advisor to the CEO and shall perform other duties and responsibilities as reasonably determined by the CEO consistent with the duties and responsibilities normally associated with such position in the Company and shall make himself reasonably available to the CEO, Centerbridge Partners, L.P., and ValueAct, including the opportunity to attend at the Company’s office, and to attend meetings at the request of the CEO. The Executive, in carrying out his duties under this Agreement, shall report to the CEO of the Company. The Executive shall devote a reasonable amount of his business time, energy and best efforts to the business and affairs of the Company. Anything herein to the contrary notwithstanding, nothing shall preclude the Executive from (i) subject to the reasonable approval of the Board, serving on the boards of directors of trade associations and/or charitable organizations, (ii) engaging in charitable activities and community affairs and (iii) managing his personal investments and affairs, provided that the activities described in the preceding clauses (i) through (iii) do not interfere with the proper performance of his duties and responsibilities for the Company or violate any term of this Agreement, including but not limited to, Section 10.
+
+Non-compete. During the Term, the Executive shall not (1) compete or engage in any business, directly or indirectly, with Company or its Affiliates in the seismic data or similar business of the Company or of its Affiliates in any geographical area where the Company or its Affiliates have or have solicited any business, or at any time during the two (2) years preceding the Date of Termination, had any business (the “Area of No-Compete”) as an individual, owner, investor, partner, shareholder, director, officer, principal, agent, employee, trustee, consultant, or in any relationship or capacity, (2) without limiting the foregoing, shall not solicit or negotiate, or manage, supervise or direct others in the solicitation or negotiation of, any contract or agreement that constitutes or would constitute engaging in competition with the seismic data business in the portions of the Area of No-Compete, or (3) solicit, take away, attempt to solicit or take away, or do any act the foreseeable consequences of which would lead to the solicitation or taking away of any marketing prospects, projects or customers of Company’s business in the Area of No-Compete, even if this Agreement is terminated by either party prior to the expiration of the Term, being June 30, 2018.
+
+Directorship, Resignation. During the Term of this Agreement, Executive shall continue to serve without compensation, at the will of the Board of Directors of the Company, as a Director on the Board of Directors of the Company and of Seitel Holdings, Inc. through June 30, 2018. Notwithstanding any other provision of this Agreement, prior to acceptance of this Agreement upon the termination of the Prior Agreements unless otherwise requested by the Board, Executive shall immediately resign as a Director from the Board of Directors from all boards of directors of any Affiliate and directly or indirectly owned subsidiary of the Company of which he may be a member, and as a trustee of, or fiduciary to, any employee benefit plans of the Company or any Affiliate. The Executive shall also resign as an Officer 
+
+  
+
+
+\- 4 -
+
+  
+
+
+* * *
+
+  
+
+
+from any Affiliate and directly or indirectly owned subsidiary of the Company. The Executive hereby agrees to execute any and all documentation of such resignations upon request by the Company, but he shall be treated for all purposes as having so resigned upon termination of his Prior Employment Agreement, regardless of when or whether he executes any such documentation.  
+  
+4.
+
+Base Salary  
+  
+During the Term, the Executive shall be paid an annual Base Salary of $256,000 payable in accordance with the regular payroll practices of the Company.  
+  
+5.
+
+Bonus  
+  
+The Executive will not be entitled to receive any Cash Bonus that may be determined under the annual incentive plan or program of the Company.  
+  
+6.
+
+Stock Options  
+  
+The Executive will be entitled to receive Stock Options which he was entitled to receive under Prior Employment Agreements.
+
+The Executive will not be entitled to receive any new shares or options to purchase effective as of the Commencement Date.   
+  
+7.
+
+Employee Benefit Programs  
+  
+During the Term, the Executive shall be entitled to participate in all employee savings and welfare benefit plans and other employee programs made available to the Company’s senior-level executives, as such plans or programs may be amended and as may be in effect from time to time, including, without limitation, savings and other retirement plans or programs, medical, dental, hospitalization, short-term and long-term disability and life insurance plans, accidental death and dismemberment protection, travel accident insurance. Notwithstanding the foregoing, nothing contained herein shall require the Company to establish or continue any particular employee benefit plan or program.  
+  
+8.
+
+Reimbursement of Business and Other Expenses; Perquisites; Vacation  
+  
+a.
+
+During the Term, the Executive is authorized to incur reasonable and necessary business expenses in carrying out his duties and responsibilities under this Agreement and the Company shall promptly reimburse him for such expenses incurred in connection with carrying out the business of the Company, subject to documentation in accordance with the Company’s policy.  
+  
+b.
+
+The Executive shall be entitled to five (5) weeks paid vacation per calendar year.  
+  
+9.
+
+Benefits Upon Termination of Employment  
+  
+a.
+
+Termination upon Death. In the event the Executive’s employment is terminated upon death, the Executive (or his estate or legal representative, as the case may be) shall be entitled to:  
+  
+i.
+
+an amount equal to the Base Salary that would have been payable through the end of the Term to be paid in a lump sum as soon as administratively feasible;   
+  
+ii.
+
+any Equity Awards shall immediately vest and become exercisable;  
+  
+  
+
+
+\- 5 -
+
+  
+
+
+* * *
+
+  
+  
+  
+iii.
+
+any amounts earned, accrued or owing to the Executive but not yet paid under Section 8 above; and  
+  
+iv.
+
+any other payment and benefit in accordance with applicable plans or programs of the Company.  
+  
+b.
+
+Termination Upon Disability. In the event Executive is terminated on account of Disability, the Executive (or his estate or legal representative), subject to Section 9(g), shall be entitled to receive:  
+  
+i.
+
+an amount equal to the Base Salary that would have been payable through the end of the Term reduced by any disability insurance payments payable to Executive from any policy, plan or program sponsored by the Company or its Affiliates to be paid in a lump sum as soon as administratively feasible after the Date of Termination but in no event later than three months after the Date of Termination;  
+  
+ii.
+
+any Equity Awards shall immediately vest and become exercisable;  
+  
+iii.
+
+any amounts earned, accrued or owing to the Executive but not yet paid under Section 8 above; and  
+  
+iv.
+
+except as provided in 9(g) below, any other payment and benefit in accordance with applicable plans or programs of the Company.  
+  
+c.
+
+Termination by the Company for Cause.  
+  
+i.
+
+In the event the Company terminates the Executive’s employment for Cause, the Executive shall be entitled to:  
+  
+1.
+
+Base Salary through the Date of Termination;  
+  
+2.
+
+any other payment and benefit in accordance with the applicable plans or programs of the Company.  
+  
+ii.
+
+In the event the Company terminates the Executive’s employment for Cause, prior to the end of the Term of this Agreement, the Executive and his eligible dependent’s participation in Company’s group medical and dental benefits plans in which he and his eligible dependents were participating immediately prior to the Date of Termination, shall cease and the Executive and his eligible dependents, if applicable, may elect group continuation coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended (“COBRA”).  
+  
+d.
+
+Voluntary Resignation by the Executive.  
+  
+i.
+
+In the event the Executive voluntarily resigns, the Executive shall be entitled to  
+  
+1.
+
+Base salary that would have been payable through the Termination Date;  
+  
+2.
+
+any amounts earned, accrued or owing to the Executive but not yet paid under Section 8 above.  
+  
+ii.
+
+In the event the Executive elects to voluntarily terminate his employment with the Company prior to the end of the Term of this Agreement, the Executive and his eligible dependent’s participation in Company’s group medical and dental benefits plans in which   
+  
+  
+
+
+\- 6 -
+
+  
+
+
+* * *
+
+  
+
+
+he and his eligible dependents were participating immediately prior to the Date of Termination, shall cease and the Executive and his eligible dependents, if applicable, may elect group continuation coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985, as amended (“COBRA”).  
+  
+e.
+
+Coordination. If any amount is payable to Executive under any one subsection of Section 9(a) through (d), no amounts shall be payable under any other subsection of this Section 9; for example, if any amount is payable to Executive under Section 9(d), no amounts shall be payable pursuant to Sections 9(a) - (c).  
+  
+f.
+
+Exclusivity of Benefits; Release of Claims. Subject to Section 13, any payments provided pursuant to this Section 9 shall be in lieu of any salary continuation arrangements or any other severance-type payments under any other severance program of the Company or its Affiliates. In order to be entitled to the payments, rights and other entitlements in this Section 9, the Executive shall be required to execute and deliver a general release of claims in favor of the Company and its Affiliates and their officers, directors and employees and their successors and assigns including, but not limited to, any claims under the Age Discrimination in Employment Act, in the form and subject to such terms as provided to him by the Company and Executive must execute the release and not revoke such general release within the applicable time periods therein.  
+  
+g.
+
+No Mitigation. Executive shall not be required to mitigate the amount of any payment provided for under this Agreement by seeking other employment and there shall be no offset against amounts due to him on account of any remuneration or benefits provided by any subsequent employment he may obtain, except as expressly provided herein with respect to eligibility for medical benefits with a subsequent employer.  
+  
+10.
+
+Confidentiality  
+  
+a.
+
+Confidentiality.  
+  
+i.
+
+Concurrent herewith and during the Employment Period, the Executive will create, receive and/or have access to trade secrets or proprietary or confidential information of the Company and its Affiliates consisting of written, oral, and visual material including, but not limited to, client lists, corporation and personal business contacts and relationships, corporation and personal business opportunities, memoranda, computer disks or files, rolodex cards or other lists of names, addresses or telephone numbers, financial information, projects, prospects, potential projects and prospects (including ideas and concepts for potential prospects) projects and prospects in development, business strategies, contracts, releases, and other documents, materials or writings that belong to the Company or its Affiliates including those which are prepared or created by Executive or come into the possession of Executive by any means or manner and which relate directly or indirectly to one or more of the parties which compromise Company or its Affiliates or any of them (all of the above collectively referred to herein as the “Confidential Information” or “Trade Secrets”).  
+  
+ii.
+
+The Confidential Information is, and at all times shall be and remain, private and confidential and the sole and exclusive property of, and owned and controlled by, the Company regardless whether said Confidential Information is in tangible or intangible form.  
+  
+  
+
+
+\- 7 -
+
+  
+
+
+* * *
+
+  
+  
+  
+iii.
+
+Except to the extent required in connection with the performance of his duties for the conduction of the business of the Company, Executive shall not make copies of any Confidential Information, nor shall Executive remove any such Confidential Information from Company’s office location without the prior express written consent of Company. Any and all Confidential Information and any and all other property of Company that is in the possession or control of Executive shall be returned to Company forthwith upon the termination of Executive’s employment by Company.  
+  
+iv.
+
+Executive shall not, directly or indirectly, verbally or otherwise, either during the Employment Period or after the Employment Period, provide any Person, firm or entity with any of the Confidential Information or cause, or permit, the same to be published, disseminated or disclosed (herein collectively “Disclosure”) to any Person, firm or entity whatsoever including, but not limited to, Company’s business associates or competitors (herein collectively “Third Parties”) and shall take any and all action possible to present such Disclosure to any Third Parties except for the sole purpose to conduct the Company’s business.  
+  
+v.
+
+Except as authorized by the foregoing for the conduction of the Company’s business, Executive is aware that any Disclosure of Confidential Information by Executive to Third Parties will be, and is, a breach of Executive’s employment, a breach of trust and confidence, a breach of fiduciary duty, invasion of privacy, a misappropriation of Company’s trade secrets and/or exclusive property rights, and may constitute fraud and deceit.  
+  
+vi.
+
+Except as authorized by the foregoing for the conduction of the Company’s business, Executive is aware that Disclosure of any of the Confidential Information to Third Parties could cause Company to suffer major adverse economic consequences due to the fact that such disclosure could result in (a) the diversion of Company’s business opportunities, and (b) the dilution or diminution in value of Company’s business opportunities and (c) other adverse consequences in addition to those set forth above.  
+  
+vii.
+
+In the event that Executive is compelled by subpoena or other similar compulsory means to testify or provide evidence in a manner that constitutes engaging in a prohibited Disclosure of Confidential Information, it shall be presumed that no violation of this Agreement has occurred with respect to that compulsory prohibited Disclosure if, immediately upon first learning that such prohibited Disclosure may be compelled, Executive notifies Company of all facts relative thereto and makes every effort to assert Company’s trade secret privilege and all other privileges and rights of Company to keep the Confidential Information, including the prohibited Disclosure, secret and confidential. However, under no circumstances shall Executive volunteer to engage in any such prohibited communication or Disclosure.  
+  
+viii.
+
+The Executive hereby sells, assigns and transfers to the Company all of his right, title and interest in and to all inventions, discoveries, improvements and copyrightable subject matter (the “rights”) which during the course of his employment are made or conceived by him, alone or with others, and which are within or arise out of any general field of the Company’s business or arise out of any work he performs, or information he receives regarding the business of the Company, while employed by the Company. The Executive shall fully disclose to the Company as promptly as available all information known or possessed by him concerning the rights referred to in the preceding sentence, and upon   
+  
+  
+
+
+\- 8 -
+
+  
+
+
+* * *
+
+  
+
+
+request by the Company and without any further remuneration in any form to him by the Company, but at the expense of the Company, execute all applications for patents and for copyright registration, assignments thereof and other instruments and do all things which the Company may deem necessary to vest and maintain in it the entire right, title and interest in and to all such rights.  
+  
+b.
+
+Return of Materials. Promptly upon the termination of Executive’s employment for any reason and in any event within five days after request by the Company, Executive shall return all Confidential Information and all copies thereof to the Company, and Executive shall destroy all extracts, memoranda, notes and any other material prepared by Executive based upon Confidential Information.  
+  
+11.
+
+Cooperation  
+  
+Following the Date of Termination, upon reasonable request by the Company, the Executive shall cooperate with the Company with respect to any litigation or other dispute relating to any matter in which he was involved or had knowledge during his employment with the Company. The Company shall reimburse the Executive for all reasonable and necessary out-of-pocket costs, such as travel, hotel and meal expenses, incurred by the Executive in providing any cooperation pursuant to this Section 11.  
+  
+12.
+
+Assignability; Binding Nature  
+  
+This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors, heirs (in the case of the Executive) and assigns. For purposes of this Section 12, a successor or assign of the Company shall include any type of successor or assign of the Company upon a Change in Control and Executive’s consent to the assignment shall not be required. No rights or obligations, benefits or payments of the Executive under this Agreement may be assigned or transferred by the Executive other than his rights to compensation and benefits, which may be transferred only by will, operation of law or in accordance with Section 19 below.  
+  
+13.
+
+Entire Agreement  
+  
+This Agreement contains the entire understanding and agreement between the Parties concerning the subject matter hereof and supersedes all prior agreements (including, but not limited to the Prior Employment Agreements, except for entitlements of Stock Awards and Options granted under Prior Employment Agreements or other equity award documents), understandings, discussions, negotiations and undertakings, whether written or oral, between the Parties with respect thereto. In the event of any inconsistency between any provision of this Agreement and any other provision of any other plan, policy or program of, or other agreement with, the Company, the provisions of this Agreement shall control.  
+  
+14.
+
+Amendment or Waiver  
+  
+No provision in this Agreement may be amended unless such amendment is agreed to in writing and signed by the Executive and an authorized officer of the Company. No waiver by either Party of any breach by the other Party of any condition or provision contained in this Agreement to be performed by such other Party shall be deemed a waiver of a similar or dissimilar condition or provision at the same or any prior or subsequent time. Any waiver must be in writing and signed by the Party against whom it is being enforced (either the Executive or an authorized officer of the Company, as the case may be).
+
+  
+
+
+\- 9 -
+
+  
+
+
+* * *
+
+  
+  
+  
+15.
+
+Severability  
+  
+In the event that any provision or portion of this Agreement shall be determined to be invalid or unenforceable for any reason, in whole or in part, the remaining provisions of this Agreement shall be unaffected thereby and shall remain in full force and effect to the fullest extent permitted by law.  
+  
+16.
+
+Survivorship  
+  
+The respective rights and obligations of the Parties hereunder, including, without limitation, Section 9 (termination of employment), Section 10 (confidentiality), Section 11 (cooperation), and Section 19 (resolution of disputes), shall survive any termination of the Executive’s employment to the extent necessary to the intended preservation of such rights and obligations.  
+  
+17.
+
+Beneficiaries/References  
+  
+The Executive shall be entitled, to the extent permitted under applicable plans, agreements or law, to select and change a beneficiary or beneficiaries to receive any benefit payable hereunder following the Executive’s death by giving the Company written notice thereof. In the event of the Executive’s death or a judicial determination of his incompetence, reference in this Agreement to the Executive shall be deemed, where appropriate, to refer to his beneficiary, estate or other legal representative.  
+  
+18.
+
+Governing Law and Jurisdiction  
+  
+This Agreement shall be governed by and construed and interpreted in accordance with the laws of the State of Texas, County of Harris, without reference to principles of conflicts of law, except as preempted by applicable federal law.  
+  
+19.
+
+Resolution of Disputes  
+  
+a.
+
+Arbitration. All disputes and controversies of every kind and nature between any parties hereto arising out of or in connection with this Agreement or the transactions described herein as to the construction, validity, interpretation or meaning, performance, non-performance, enforcement, operation or breach, shall be submitted to arbitration pursuant to the following procedures:  
+  
+i.
+
+After a dispute or controversy arises, any party may, in a written notice delivered to the other parties to the dispute, demand such arbitration. Such notice shall designate the name of the arbitrator (who shall be an impartial person) appointed by such party demanding arbitration, together with a statement of the matter in controversy.  
+  
+ii.
+
+Within thirty (30) days after receipt of such demand, the other parties shall, in a written notice delivered to the first party, name such parties’ arbitrator (who shall be an impartial person). If such parties fail to name an arbitrator, then the second arbitrator shall be named by the American Arbitration Association (the “AAA”). The two arbitrators so selected shall name a third arbitrator (who shall be an impartial person) within thirty (30) days, or in lieu of such agreement on a third arbitrator by the two arbitrators so appointed, the third arbitrator shall be appointed by the AAA. If any arbitrator appointed hereunder shall die, resign, refuse or become unable to act before an arbitration decision is rendered, then the vacancy shall be filled by the method set forth in this Section for the original appointment of such arbitrator.  
+  
+  
+
+
+\- 10 -
+
+  
+
+
+* * *
+
+  
+  
+  
+iii.
+
+Each party shall bear its own arbitration costs and expenses. The arbitration hearing shall be held in Houston, Texas at a location designated by a majority of the arbitrators. The Commercial Arbitration Rules of the American Arbitration Association shall be incorporated by reference at such hearing and the substantive laws of the State of Texas (excluding conflict of laws provisions) shall apply.  
+  
+iv.
+
+The arbitration hearing shall be concluded within ten (10) days unless otherwise ordered by the arbitrators and the written award thereon shall be made within fifteen (15) days after the close of submission of evidence. An award rendered by a majority of the arbitrators appointed pursuant to this Agreement shall be final and binding on all parties to the proceeding, shall resolve the question of costs of the arbitrators and all related matters, and judgment on such award may be entered and enforced by either party in any court of competent jurisdiction.  
+  
+v.
+
+Except as set forth in Section 19(b) and (c), the parties stipulate that the provisions of this Section shall be a complete defense to any suit, action or proceeding instituted in any federal, state or local court or before any administrative tribunal with respect to any controversy or dispute arising out of this Agreement or the transactions described herein. The arbitration provisions hereof shall, with respect to such controversy or dispute, survive the termination or expiration of this Agreement.  
+  
+No party to an arbitration may disclose the existence or results of any arbitration hereunder without the prior written consent of the other parties; nor will any party to an arbitration disclose to any third party any confidential information disclosed by any other party to an arbitration in the course of an arbitration hereunder without the prior written consent of such other party.  
+  
+b.
+
+Emergency Relief. Notwithstanding anything in this Section 19(a) to the contrary, any party may seek from a court any provisional remedy that may be necessary to protect any rights or property of such party pending the establishment of the arbitral tribunal or its determination of the merits of the controversy or to enforce a party’s rights under this Section 19.  
+  
+c.
+
+Emergency or Extraordinary Relief Related to Section 10. Notwithstanding the foregoing, the Company shall have right to seek emergency or extraordinary relief, including but not limited to, a temporary restraining order, injunctive relief or any relief described in Section 10, for Executive’s breach or threatened breach of any provision in Section 10 of this Agreement.  
+  
+  
+
+
+\- 11 -
+
+  
+
+
+* * *
+
+  
+  
+  
+20.
+
+Notices  
+  
+Any notice given to a Party shall be in writing and shall be deemed to have been given (i) when delivered personally, (ii) three days after being sent by certified or registered mail, postage prepaid, return receipt requested or (iii) two days after being sent by overnight courier (provided that a written acknowledgement of receipt is obtained by the overnight courier), with any such notice duly addressed to the Party concerned at the address indicated below or to such other address as such Party may subsequently give such notice of in accordance with this Section 20:   
+  
+If to the Company:
+
+Seitel, Inc.  
+  
+10811 S. Westview Circle, Suite 100, Bldg. C  
+  
+Houston, Texas 77043  
+  
+Attention: General Counsel  
+  
+with a required copy to:
+
+ValueAct Capital Master Fund, L.P.  
+  
+One Letterman Drive  
+  
+Building D, 4th Floor  
+  
+San Francisco, Ca 94129  
+  
+Attention: Allison Bennington, General Counsel  
+  
+with a required copy to:
+
+Centerbridge Capital Partners II, L.P.  
+  
+375 Park Avenue, 12th Floor  
+  
+New York, NY 10152  
+  
+Attention: Kyle Cruz  
+  
+If to the Executive:
+
+Kevin P. Callaghan  
+  
+5603 Peninsula Park  
+  
+Houston, TX 77041  
+  
+21.
+
+Withholding  
+  
+The Company may withhold or deduct from any and all amounts payable under this Agreement (a) such federal, state, local and other taxes or deductions as may be required to be withheld pursuant to applicable law or regulation, (b) all other normal employee deductions made with respect to the employee plans and programs in which Executive participates.
+
+  
+
+
+\- 12 -
+
+  
+
+
+* * *
+
+  
+  
+  
+22.
+
+General Assets  
+  
+All payments to Executive provided for under this Agreement shall be paid in cash from the Company and no special or separate funds shall be established and no segregation of assets shall be made to assure payment. To the extent that any Person acquires a right to receive payments from the Company hereunder, such right shall be no greater than the right of an unsecured creditor of the Company.  
+  
+23.
+
+Executive Acknowledgements  
+  
+Executive acknowledges that (a) he is knowledgeable and sophisticated as to business matters, including the subject matters of this Agreement, (b) he has read this Agreement, (c) he has been advised by the Company to consult an independent attorney, and (d) he understands the terms and conditions of this Agreement. Executive represents that he is free to enter into this Agreement and that he is not subject to another employment agreement or covenant not to compete that would conflict with this Agreement.  
+  
+24.
+
+Headings  
+  
+The headings of the sections contained in this Agreement are for convenience only and shall not be deemed to control or affect the meaning or construction of any provision of this Agreement.  
+  
+25.
+
+Certain Interpretive Matters  
+  
+The definitions contained in this Agreement are applicable to the singular as well as plural form of such terms and to the masculine as well as to the feminine and neuter genders of such term.  
+  
+26.
+
+Code Section 409A  
+  
+The parties intend that this Agreement be drafted and administered in compliance with Section 409A of the Internal Revenue Code of 1986, as amended (“Code Section 409A”), including, but not limited to, any future amendments to Code Section 409A, and any other Internal Revenue Service or other governmental rulings or interpretations (“IRS Guidance”) issued pursuant to Code Section 409A so as not to subject the Executive to payment of interest or any additional tax under Code Section 409A. For purposes of Code Section 409A, each payment of the severance under Section 9 shall be treated a separate payment. A termination of employment shall not be deemed to have occurred for purposes of any provision of this Agreement providing for the payment of any amounts or benefits upon or following a termination of employment unless such termination is also a “separation from service” (within the meaning of Code Section 409A and IRS Guidance). Any amounts eligible for reimbursement under this Agreement during a taxable year may not affect expenses eligible for reimbursement in any other taxable year, and any right to reimbursement under this Agreement is not subject to liquidation or exchange for another benefit.
+
+[signature page follows]
+
+  
+
+
+\- 13 -
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+27.
+
+Counterparts  
+  
+This Agreement may be executed in two or more counterparts.
+
+  
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of June 9, 2016.
+
+  
+
+
+SEITEL, INC.
+
+  
+  
+  
+By:
+
+/s/ Robert D. Monson  
+  
+Print Name:
+
+Robert D. Monson  
+  
+Title:
+
+President and Chief Executive Officer  
+  
+  
+
+
+EXECUTIVE
+
+  
+  
+  
+By:
+
+/s/ Kevin P. Callaghan  
+  
+Print Name:
+
+Kevin P. Callaghan  
+  
+  
+
+
+  
+
+
+\- 14 -
+
+  
+

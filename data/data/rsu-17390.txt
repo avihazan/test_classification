@@ -1,0 +1,86 @@
+Exhibit 10.23 
+
+ALLSCRIPTS HEALTHCARE SOLUTIONS, INC. 
+
+
+
+THIS AGREEMENT is made as of  , 200 (the “Grant Date”), by and between Allscripts Healthcare Solutions, Inc., a Delaware corporation (“Company”), and «First_Name» «Last_Name» («Last_Name») 
+
+WHEREAS, «Last_Name» is expected to perform valuable services for the Company and the Company considers it desirable and in its best interests that «Last_Name» be given a proprietary interest in the Company and an incentive to advance the interests of the Company by possessing units that are settled in shares of the Company’s Common Stock, $.01 par value per share (the “Common Stock”), in accordance with the Company’s Amended and Restated 1993 Stock Incentive Plan (the “Plan”). 
+
+NOW THEREFORE, in consideration of the foregoing premises, it is agreed by and between the parties as follows: 
+
+1. Grant of Restricted Stock Units.   
+  
+(a) Grant. Subject to the terms and conditions set forth in this Agreement and the Plan, the Company hereby grants to «Last_Name» an award of  restricted stock units (the “Restricted Stock Unit Award”), which shall vest and become unrestricted in accordance with Section 2 hereof.   
+  
+(b) Transferability. Restricted stock units subject to the Restricted Stock Unit Award and not then vested and unrestricted may not be sold, transferred, pledged, assigned, alienated, hypothecated, encumbered or otherwise disposed of (whether by operation of law or otherwise) or be subject to execution, attachment or similar process. Upon any attempt to so sell, transfer, assign, pledge, alienate, hypothecate or encumber, or otherwise dispose of such restricted stock units, the Restricted Stock Unit Award shall immediately become null and void.   
+  
+2. Vesting.   
+  
+(a) Time Vesting. Subject to this Section 2 and the terms of any written employment agreement between the Company or its affiliates and «Last_Name» (which vesting terms in such employment agreement shall prevail over the terms of this Agreement in the event of any conflict), the Restricted Stock Unit Award shall vest and become unrestricted in accordance with the following schedule: 25% on each of the first four anniversaries of the Grant Date, with 100% of the Restricted Stock Unit Award being vested on the fourth anniversary of the Grant Date.   
+  
+(b)
+
+Accelerated Vesting for Termination following a Change in Control. Unless otherwise provided in another written agreement between «Last_Name» and the   
+  
+* * *
+
+Company, in the event of a Change in Control of the Company in which the successor company (including the parent of any surviving corporation in a merger) assumes or substitutes the Restricted Stock Unit Award, if «Last_Name»’s employment with such successor company (or a subsidiary thereof) is terminated within 24 months following such Change in Control (or within three months prior thereto in connection with the Change in Control) without Cause by the Company or the successor company or by «Last_Name» for Good Reason, all restrictions, limitations and other conditions applicable to the Restricted Stock Unit Award outstanding as of the date of such termination of employment (or as of the date of the Change in Control if termination occurred prior to and in connection with the Change in Control) shall lapse and the Restricted Stock Units shall become free of all restrictions.   
+  
+(c) Settlement of Restricted Stock Units. Upon the date restricted stock units subject to this Agreement become vested and unrestricted, one share of Common Stock shall be issuable for each restricted stock unit that vests on such date, subject to the terms and conditions of the Plan and this Agreement. Thereafter, the Company will transfer such shares of Common Stock to «Last_Name» upon satisfaction of any required tax withholding obligations.   
+  
+(d) Other Defined Terms.   
+  
+Cause. “Cause” shall mean (i) the willful or grossly negligent failure by «Last_Name» to perform his or her duties and obligations hereunder in any material respect, other than any such failure resulting from the disability of «Last_Name», (ii) «Last_Name»’s conviction of a crime or offense involving the property of the Company, or any crime or offense constituting a felony or involving fraud or moral turpitude; (iii) Executive’s violation of any law, which violation is materially and demonstrably injurious to the operations or reputation of the Company; or (iv) «Last_Name»’s material violation of any generally recognized policy of the Company. 
+
+Change in Control. A “Change in Control” shall mean and be determined to have occurred upon any one of the following events: (i) the date of acquisition by any person or group other than any subsidiary of the Company (or any employee benefit plans (or related trust) of the Company or any of its subsidiaries or Parent) acquires beneficial ownership of securities possessing more than thirty percent (30%) of the total combined voting power of the Company’s then outstanding voting securities which generally entitle the holder thereof to vote for the election of directors (“Voting Power”), provided, however, that no Change in Control shall be deemed to have occurred solely by reason of any such acquisition by a corporation with respect to which, after such acquisition, more than sixty percent (60%) of the then outstanding shares of common stock of such corporation and the Voting Power of such corporation are then beneficially owned, directly or indirectly, by the persons who were the beneficial owners of the stock and Voting Power of Company immediately before such acquisition, in substantially the same proportions as their ownership immediately before such acquisition; or (ii) the date the individuals who constitute the 
+
+* * *
+
+Board as of the date of this Agreement (the “Incumbent Board”) cease for any reason other than their deaths to constitute at least a majority of the Board; provided that any individual who becomes a director after the date of this Agreement whose election or nomination for election by Company’s stockholders was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered, for purposes of this definition, as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office is in connection with an actual or threatened election contest relating to the election of the directors of Company (as such terms are used in Rule 14a-11 under the Securities Exchange Act of 1934 (the “1934 Act”)); or (iii) Company effects (A) a merger, reorganization or consolidation of Company with one or more corporations or entities, as a result of which the holders of the outstanding Voting Stock of Company immediately prior to such merger, reorganization or consolidation hold less than 50% of the Voting Power of the surviving or resulting corporation or entity immediately after such merger or consolidation; (B) a liquidation or dissolution of Company; or (C) a sale or other disposition of all or substantially all of the assets of Company other than to an entity of which Company owns at least 50% of the Voting Power. For purposes of the foregoing definition, the terms “beneficially owned” and “beneficial ownership” and “person” shall have the meanings ascribed to them in SEC rules 13d-5(b) under the 1934 Act, and “group” means two or more persons acting together in such a way to be deemed a person for purposes of Section 13(d) of the 1934 Act. Further, notwithstanding anything herein to the contrary, the definition of Change in Control set forth herein shall not be broader than the definition of “change in control event” as set forth under Section 409A of the Code, and the guidance promulgated thereunder, and if a transaction or event does not otherwise fall within such definition of change in control event, it shall not be deemed a Change in Control for purposes of this Agreement. 
+
+Good Reason. “Good Reason” shall mean (i) any significant diminution in «Last_Name»’s responsibilities from and after the date of the Change in Control, (ii) any material reduction in the annual salary or target incentive cash compensation of «Last_Name» from and after the date of the Change in Control or (iii) any requirement after the date of the Change in Control (or prior thereto in connection with the Change in Control) to relocate to a location that is more than fifty (50) miles from the principal work location of «Last_Name»; provided, however, that the occurrence of any such condition shall not constitute Good Reason unless «Last_Name» provides written notice to the Company of the existence of such condition not later than 90 days after the initial existence of such condition, and the Company shall have failed to remedy such condition within 30 days after receipt of such notice. 
+
+3.
+
+No Rights as Stockholder; Dividend Equivalents. «Last_Name» shall not have any rights of a stockholder of the Company with respect to any shares of Common Stock issuable upon the vesting of restricted stock units subject to this Agreement (including the right to vote and to receive dividends and other distributions paid with respect to shares of Common Stock), unless and until, and only to the extent, the Restricted Stock Unit Award is settled by the   
+  
+* * *
+
+issuance of such shares of Common Stock to «Last_Name». Notwithstanding the foregoing, until such time as the restrictions lapse, or the restricted stock units subject to this Agreement are cancelled, whichever occurs first, «Last_Name» will be credited with amounts equal to any cash dividends that would be payable to «Last_Name» if «Last_Name» had been transferred such underlying shares of Common Stock, which amounts shall accrue during the restriction period and be paid in cash upon the lapse of the restriction period. If restricted stock units subject to this Agreement are cancelled, any amounts credited to such units will be forfeited. This Section 4 will not apply with respect to record dates for dividends occurring prior to the grant date or after the restriction period has lapsed.   
+  
+4. Termination of Unvested Restricted Stock Unit Award. Subject to Section 2 and the terms of any written employment agreement between the Company or its affiliates and «Last_Name» (which vesting terms in such employment agreement shall prevail over the terms of this Agreement in the event of a conflict), if «Last_Name»’s employment with the Company is terminated for any reason, the portion of the Restricted Stock Unit Award which is not vested and unrestricted as of the date of termination shall be forfeited by «Last_Name» and such portion shall be cancelled by the Company.   
+  
+5. Adjustment in Event of Happening of Condition.   
+  
+In the event that there is any change in the number of issued shares of Common Stock of the Company without new consideration to the Company (such as by stock dividends or stock split-ups), then the number of unvested and restricted shares subject to this Restricted Stock Award shall be adjusted in proportion to such change in issued shares. 
+
+If the outstanding shares of Common Stock of the Company shall be combined, or be changed into another kind of stock of the Company or into equity securities of another corporation, whether through recapitalization, reorganization, sale, merger, consolidation, etc., the Company shall cause adequate provision to be made whereby the unvested restricted stock units subject to this Agreement shall be adjusted equitably so that the securities received upon vesting shall be the same as if the vesting had occurred immediately prior to such recapitalization, reorganization, sale, merger, consolidation, etc. 
+
+Notwithstanding the foregoing, in the event of a sale of the Company through a merger, consolidation or sale of all or substantially all of its assets where all or part of the consideration is stock, cash or other securities or property (a “Transaction”), the Restricted Stock Unit Award shall be assumed or an award of equivalent value shall be substituted by the successor corporation or a parent or subsidiary of the successor corporation. In the event that the successor corporation refuses to assume or substitute for the Restricted Stock Unit Award, then simultaneously with the consummation of the Transaction, «Last_Name» shall fully vest in the Restricted Stock Unit Award and all restricted stock units subject to the Restricted Stock Unit Award shall become unrestricted. For the purposes of this Section 5, the Restricted Stock Unit Award shall be considered assumed if, following the Transaction, the Restricted Stock Unit Award confers the right to receive, for each restricted stock unit subject to the Restricted Stock Unit Award and unvested immediately prior to the Transaction, the consideration (whether stock, cash or other securities or property) received 
+
+* * *
+
+in the Transaction by holders of Common Stock held on the effective date of the transaction (and if holders were offered a choice of consideration, the type of consideration chosen by the holders of a majority of the outstanding shares); provided, however, that if such consideration received in the Transaction is not solely common stock of the successor company, the Committee may, with the consent of the successor company, provide that the consideration to be received upon the vesting of the Restricted Stock Unit Award, for each share of Common Stock subject thereto, will be solely common stock of the successor company substantially equal in fair market value to the per share consideration received by holders of shares of Common Stock in the Transaction. The determination of such substantial equality of value of consideration shall be made by the Committee in its sole discretion and its determination shall be conclusive and binding. 
+
+6. No Right to Continued Employment. This Agreement shall not be construed as giving «Last_Name» the right to be retained in the employ of the Company.   
+  
+7. Provisions of Plan. This Restricted Stock Unit Award is granted pursuant to, and subject to the terms and conditions of, the Plan (which is incorporated herein by reference). In the event a provision of this Agreement conflicts with the Plan, the terms of the Plan will prevail. «Last_Name» acknowledges receiving a copy of the Plan and this Agreement. Any capitalized term not defined herein shall have the same meaning as in the Plan.   
+  
+8. Withholding of Taxes; Section 409A. The Company shall be entitled, if necessary or desirable, to withhold from any amounts due and payable by the Company to «Last_Name» (or to secure payment from «Last_Name» in lieu of withholding) the amount of any withholding or other tax due from the Company (“Required Tax Payments”) with respect to any Common Stock which becomes vested and unrestricted under this Agreement, and the Company may defer such issuance until such amounts are paid or withheld. Unless otherwise agreed by the Company and «Last_Name» during an open trading window, «Last_Name» acknowledges and agrees to satisfy his or her obligation with respect to the Required Tax Payments by selling such number of Shares subject to this Restricted Stock Unit Award as is necessary to make a cash payment to the Company in an amount equal to the Required Tax Payments (or as close thereto as practicable), such sale to be effected on the Employee's behalf through a broker (and other procedures) designated by the Company as soon as practicable following any vesting date (with such broker selecting the trade date and the selling price). This Section 8 is intended to constitute a written plan pursuant to Rule 10b5-1(c) under the Securities Exchange Act of 1934. To the extent applicable, «Last_Name» shall take actions necessary to ensure that any such sales shall comply with Rule 144 under the Securities Act of 1933. Any fraction of a share of Common Stock which would be required to satisfy such an obligation shall be disregarded and the remaining amount due shall be paid in cash by the holder. No certificate representing a share of Common Stock shall be delivered until the Required Tax Payments have been satisfied in full. This Restricted Stock Unit Award is intended to be exempt from Section 409A of the Code as a short-term deferral pursuant to Treasury regulation Section 1.409A-1(b)(4).   
+  
+9. Binding Effect. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, executors, administrator, successors and assigns.   
+  
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed on the day and year first above written.   
+  
+ALLSCRIPTS HEALTHCARE SOLUTIONS, INC.  
+By:  
+  
+Name:
+
+Glen E. Tullman  
+  
+«First_Name» «Last_Name»

@@ -1,0 +1,235 @@
+EXHIBIT 10.16
+
+
+
+This STOCK PURCHASE AGREEMENT (this “Agreement”) is made as of this 13th day of November, 2009 by and between Camden Learning Corporation, a Delaware corporation (“Buyer” or “Camden”) and the signatory on the execution page hereof and its affiliates (collectively, “Seller”).1
+
+WHEREAS, Camden was organized for the purpose of acquiring, through a merger, capital stock exchange, asset acquisition or other similar business combination, an operating business (“Business Combination”); and
+
+WHEREAS, Camden consummated an initial public offering in November, 2007 (“IPO”) in connection with which it raised gross proceeds of approximately $53 million, a significant portion of which was placed in a trust account (the “Trust Account”) pending the consummation of a Business Combination, or the dissolution and liquidation of Camden in the event it is unable to consummate a Business Combination on or prior to November 29, 2009; and
+
+WHEREAS, Camden has entered into that certain Agreement and Plan of Reorganization as amended and restated in its entirety on August 11, 2009 and further amended on October 26th, 2009 by Amendment No. 1 to the Amended and Restated Agreement and Plan of Reorganization (as amended, the “Merger Agreement”) pursuant to which Dlorah Subsidiary, Inc., a newly formed, wholly-owned subsidiary of Camden (“Merger Sub”), will merge with and into Dlorah, Inc., a South Dakota corporation which owns and operates National American University (Dlorah, Inc., together with its divisions and subsidiaries, is referred to herein as “Dlorah”), with Dlorah surviving as a wholly-owned subsidiary of Camden, as a result of which the stockholders of Dlorah will contribute all of the outstanding capital stock of Dlorah to the Corporation in exchange for shares of a newly created class of common stock, common stock purchase warrants and restricted shares of the Corporation’s currently authorized common stock (the “Acquisition”); and
+
+WHEREAS, pursuant to certain provisions in Camden’s Certificate of Incorporation, as amended (the “Certificate of Incorporation”), a holder of Camden’s shares of common stock, par value $.0001 per share (the “Common Stock”), issued in Camden’s initial public offering (“IPO”) may, if it votes against the Business Combination, demand that Camden redeem such Common Stock into cash (“Redemption Rights”); and
+
+* * *
+
+1 “Affiliates” shall have the meaning ascribed to such term under Rule 501 of Regulation D of the Securities Exchange Act of 1934, as amended.
+
+* * *
+
+WHEREAS, the Acquisition will not be consummated if the holders of 30% or more of the Common Stock issued in the IPO vote against the Acquisition and request Redemption Rights; and
+
+WHEREAS, Buyer has requested Seller sell, and Seller has agreed to sell, the number of shares of Common Stock set forth on the signature page hereof (the “Shares”); and
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
+
+ARTICLE I
+
+Purchase and Closing
+
+Section 1.01 Purchase.
+
+(a) Seller hereby agrees to sell to Buyer and Buyer hereby agrees to purchase from Seller at the Closing (as defined below) the Shares at $7.97 per share (the “Purchase Price Per Share”) for the aggregate purchase price set forth on the signature page hereto (the “Aggregate Purchase Price”). Following the execution of this Agreement, Buyer hereby agrees to provide irrevocable instructions to its transfer agent in the form attached hereto as Exhibit A, to deliver the Aggregate Purchase Price at the Closing. Buyer’s obligation to purchase the Shares from Seller shall be conditioned on the consummation of the Acquisition.
+
+(b) If, at any time following the execution of this Agreement the market price of the Shares exceeds the pro rata amount due a stockholder of Buyer who elects to exercise its Redemption Rights, Seller may sell some or all of the Shares in the market (a “Sale”); provided, however, any such Sale shall only reduce the number of Shares covered by this Agreement and the Aggregate Purchase thereof as a result of such Sale. In the event of a Sale, each of the other terms and provisions of this Agreement shall terminate only in accordance with Section 7.01.
+
+Section 1.02 Closing. The Buyer shall initiate the liquidation of Buyer’s Trust Account as soon as practicable following the earlier of (i) the consummation of the Acquisition and (ii) November 29, 2009. The closing of the purchase and sale of the Shares (“Closing”) will occur as soon as practicable, but in no event more than (1) business day after: (i) the liquidation of Buyer’s Trust Account in connection with the consummation of the Acquisition and (ii) the settlement of all (and not less than all) of the Shares following Seller’s delivery of the Shares to an account specified by Buyer using the Depository Trust Company’s DWAC (Deposit/Withdrawal at Custodian) System. At the Closing, Buyer shall pay Seller the Aggregate Purchase Price by wire transfer from Camden’s Trust Account of immediately available funds to an account specified by Seller. It shall be a condition to the obligation of Buyer on the one hand and Seller on the other hand, to consummate the transfer of the Shares and payment of the Aggregate Purchase Price contemplated hereunder that the other party’s representations and warranties are true and correct at the Closing with the same effect as though made on such date, unless waived in writing by the party to whom such representations and warranties are made.
+
+  
+
+
+2
+
+* * *
+
+ARTICLE II
+
+Voting of the Shares; Proxy and Waiver of Redemption
+
+Section 2.01 Voting; Redemption. In further consideration of the Aggregate Purchase Price, Seller hereby agrees that as soon as practicable, Seller will cause the Shares to be voted in favor of the Acquisition and each of the other proposals (the “Proposals”) to be submitted at the special meeting, or adjournment thereof called for by Camden for the purpose of voting upon (i) the Acquisition and (ii) any other proposal set forth in Camden’s definitive proxy statement describing the Acquisition and Proposals (the “Meeting”), each in the manner set forth in such definitive proxy statement.
+
+Section 2.02 Prior Votes. If Seller has already voted in connection with the Meeting, Seller shall, if applicable, withdraw and revoke its vote against the Acquisition and Proposals with respect to the Shares and rescind its demand, to exercise its Redemption Rights with respect to the Shares.
+
+Section 2.03 Appointment of Proxy. Subject to the limitation set forth below, Seller hereby appoints David Warnock as its true and lawful proxy and attorney-in-fact, with full power of substitution, to vote all of the Shares in accordance with the terms of this Agreement. The proxy and power of attorney granted herein shall be deemed to be coupled with an interest, shall be irrevocable during the term of this Agreement, and shall survive the death, disability, incompetency, bankruptcy, insolvency or dissolution of Seller. Furthermore, Seller will, from time to time as reasonably requested by Buyer, execute and deliver such further instruments, ancillary agreements or other documents or take such other actions as may be necessary or advisable to give effect to, confirm, evidence or effectuate the purposes of the proxy granted by this Section 2.03. This Section 2.03 shall become effective only if Seller fails to vote the Shares in accordance with this Agreement and upon the termination of this Agreement in accordance with Section 7.01, this Section 2.03 shall be of no further force and effect.
+
+Section 2.04 Evidence of Vote. Seller shall provide further evidence of both (i) its vote in favor of the Acquisition and Proposals, and (ii) its non-demand or withdrawal of Redemption Rights, within one (1) business day of any reasonable request by Buyer for such evidence.
+
+Section 2.05 Waiver of Right of Redemption. By entering into this Agreement, Seller hereby waives its rights to redeem the Shares. The waiver granted by Seller pursuant to this Section 2.05 is irrevocable unless and until this Agreement is terminated in accordance with Section 7.01 and is granted in consideration of Buyer entering into this Agreement and incurring certain related fees and expenses.
+
+  
+
+
+3
+
+* * *
+
+ARTICLE III
+
+Representations and Warranties of the Seller
+
+Seller hereby represents and warrants to Buyer on the date hereof and on the Closing Date that:
+
+Section 3.01 Sophisticated Seller. Seller is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the sale of Shares to Buyer.
+
+Section 3.02 Independent Investigation. Seller, in making the decision to sell the Shares to Buyer, has not relied upon any oral or written representations or assurances from Buyer or any of its officers, directors or employees or any other representatives or agents of Buyer other than as set forth in this Agreement. Seller has had access to all of the filings made by Camden with the SEC, pursuant to the Securities Exchange Act of 1934, as amended (the “Exchange Act”) and the Securities Act of 1933, as amended, in each case to the extent available publicly via the SEC’s Electronic Data Gathering, Analysis and Retrieval system.
+
+Section 3.03 Authority. This Agreement has been validly authorized, executed and delivered by Seller and, assuming the due authorization, execution and delivery thereof by Buyer, is a valid and binding agreement enforceable in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Seller does not and will not, to the best of Seller’s knowledge, conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Seller is a party which would prevent Seller from performing its obligations hereunder or (ii) any law, statute, rule or regulation to which Seller is subject.
+
+Section 3.04 No Legal Advice from Buyer. Seller acknowledges that is has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Seller’s own legal counsel, investment and tax advisors. Seller is not relying on any statements or representations of Buyer or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by the Agreement.
+
+Section 3.05 Ownership of Shares. Seller is the legal and beneficial owner of the Shares and will transfer to Buyer at the Closing good and marketable title to the Shares free and clear of any liens, claims, security interests, options, charges or any other encumbrance whatsoever. The Seller beneficially owned all of the Shares as of the close of the trading day on November 5, 2009 and has the sole right to exercise Redemption Rights and vote the Shares, whether at the Meeting or upon action by written consent, with respect to all of the Shares. Except as provided by this Agreement, Seller has not, directly or indirectly, granted any proxies or entered into any voting trust or other agreement or arrangement with respect to the voting, regardless of whether such vote would occur at the Meeting or upon action by written consent, of any of the Shares.
+
+  
+
+
+4
+
+* * *
+
+Section 3.06 Number of Shares. The Shares being transferred pursuant to this Agreement represent all of the Common Stock beneficially owned by Seller as of the date hereof, including any such shares of Common Stock which may result from the exercise of any option, call or other derivative security interest.
+
+Section 3.07 Cash Account. If the Shares are not currently held in an account which prohibits rehypothecation by the Seller’s prime broker, Seller will transfer the Shares into such an account as soon as practicable following the execution of this Agreement; provided, however, in no event shall such transfer occur more than two (2) business days from the execution of this Agreement.
+
+Section 3.08 Seller Taxes. Seller understands that Seller (and not the Buyer) shall be responsible for any and all tax liabilities of Seller that may arise as a result of the transactions contemplated by this Agreement.
+
+Section 3.09 Aggregate Purchase Price Negotiated. Seller represents and understands that both the number of Shares and the Aggregate Purchase Price were negotiated figures by the parties and that the terms and conditions by the parties of this Agreement may differ from arrangements entered into with other holders of Common Stock.
+
+Section 3.10 Finder’s Fees. No investment banker, broker, finder or other intermediary is entitled to a fee or commission from Camden in respect of this Agreement based upon any arrangement or agreement made by or on behalf of Seller.
+
+ARTICLE IV
+
+Representations and Warranties of the Buyer
+
+Buyer hereby represents and warrants to Seller on the date hereof and on the Closing Date that:
+
+Section 4.01 Sophisticated Buyer. Buyer is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the purchase of Shares from Seller.
+
+Section 4.02 Independent Investigation. Buyer, in making the decision to purchase the Shares from Seller, has not relied upon any oral or written representations or assurances from Seller or any of its officers, directors, partners or employees or any other representatives or agents of Seller other than as set forth in this Agreement.
+
+  
+
+
+5
+
+* * *
+
+Section 4.03 Authority. This Agreement has been validly authorized, executed and delivered by Buyer and assuming the due authorization, execution and delivery thereof by Seller, is a valid and binding agreement enforceable in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Buyer does not and will not conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Buyer is a party which would prevent Buyer from performing its obligations hereunder or (ii) any law, statute, rule or regulation to which Buyer is subject.
+
+Section 4.04 No Legal Advice from Seller. Buyer acknowledges that is has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Buyer’s own legal counsel, investment and tax advisors. Buyer is relying solely on such counsel and advisors and not on any statements or representations of Seller or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by this Agreement.
+
+Section 4.05 Buyer Taxes. Buyer understands that Buyer (and not the Seller) shall be responsible for any and all tax liabilities of Buyer that may arise as a result of the transactions contemplated by this Agreement.
+
+ARTICLE V
+
+Negative Covenants of the Seller
+
+Section 5.01 No Further Acquisitions of Camden Securities. Seller hereby covenants and agrees that following the execution of this Agreement and prior to Closing, Seller shall not acquire any Common Stock, other securities of Camden convertible into or exchangeable for shares of Common Stock in Camden or any options, calls or other rights to acquire Common Stock of Camden or similar securities or rights that are derivative of, or provide economic benefits based, directly or indirectly, on the value or price of, any Common Stock or other securities of Camden.
+
+Section 5.03 No Borrowing of the Shares. Seller hereby covenants and agrees that it shall not allow the Shares to be borrowed by, or lent to, any other person or entity whatsoever during the term of this Agreement.
+
+Section 5.02 No Other Proxies or Voting Agreements. Seller hereby covenants and agrees that except pursuant to the terms of this Agreement, Seller shall not, directly or indirectly, (i) grant any proxies or enter into any voting trust or other agreement or arrangement with respect to the voting of any of the Shares, regardless of whether such vote would occur at the Meeting or upon action by written consent or (ii) sell, assign, transfer, encumber or otherwise dispose of, or enter into any contract, option or other arrangement or understanding with respect to the direct or indirect assignment, transfer, encumbrance or other disposition of, any of the Shares during the term of this Agreement. Seller shall not seek or solicit any such assignment, transfer, encumbrance or other disposition or any such contract, option or other arrangement or understanding with respect to the Shares.
+
+  
+
+
+6
+
+* * *
+
+ARTICLE VI
+
+Acknowledgement; Waiver
+
+Section 6.01 Acknowledgement; Waiver. Seller (i) acknowledges that Buyer may possess or have access to material non-public information which has not been communicated to Seller; (ii) hereby waives any and all claims, whether at law, in equity or otherwise, that he, she, or it may now have or may hereafter acquire, whether presently known or unknown, against Buyer or any of its officers, directors, employees, agents, affiliates, subsidiaries, successors or assigns relating to any failure to disclose any non-­public information in connection with the transactions contemplated by this Agreement, including without limitation, any such claims arising under the securities or other laws, rules and regulations, and (iii) is aware that Buyer is relying on the foregoing acknowledgement and waiver in clauses (i) and (ii) above, respectively, in connection with the transactions contemplated by this Agreement.
+
+ARTICLE VII
+
+Miscellaneous  
+
+
+Section 7.01 Termination. Except with respect to Buyer’s obligation under the first sentence of Section 1.02, notwithstanding any provision in this Agreement to the contrary, this Agreement shall become null and void and of no further force and effect upon the earlier to occur: (i) termination by the written agreement of the parties to this Agreement, (ii) the day on which the Company terminates the Acquisition or (iii) 12:00 a.m. on November 30, 2009.
+
+Section 7.02 Counterparts; Facsimile. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same instrument. This Agreement or any counterpart may be executed via facsimile transmission, and any such executed facsimile copy shall be treated as an original.
+
+Section 7.03 Governing Law. This Agreement shall for all purposes be deemed to be made under and shall be construed in accordance with the laws of the State of Delaware. Each of the parties hereby agrees that any action, proceeding or claim against it arising out of or relating in any way to this Agreement shall, to the fullest extent applicable, be brought and enforced first in the Delaware Chancery Court, then to such other court in the State of Delaware as appropriate and irrevocably submits to such jurisdiction, which jurisdiction shall be exclusive. Each of the parties hereby waives any objection to such exclusive jurisdiction and that such courts represent an inconvenient forum.
+
+  
+
+
+7
+
+* * *
+
+Section 7.04 Remedies Cumulative. Each of the parties hereto acknowledges and agrees that, in the event of any breach of any covenant or agreement contained in this Agreement by the other party, money damages may be inadequate with respect to any such breach and the non-breaching party may have no adequate remedy at law. It is accordingly agreed that each of the parties hereto shall be entitled, in addition to any other remedy to which they may be entitled at law or in equity, to seek injunctive relief and/or to compel specific performance to prevent breaches by the other party hereto of any covenant or agreement of such other party contained in this Agreement. Accordingly, Seller hereby agrees Buyer is entitled to an injunction prohibiting any conduct by the Seller in violation of this Agreement and shall not seek the posting of any bond in connection with such request for an injunction. Furthermore, in any action by Buyer to enforce this Agreement, Seller waives its right to assert any counterclaims and its right to assert set-off as a defense. The prevailing party agrees to pay all costs and expenses, including reasonable attorneys’ and experts’ fees that such prevailing party may incur in connection with the enforcement of this Agreement.
+
+Section 7.05 Severability. If any term, provision or covenant of this Agreement is held by a court of competent jurisdiction or other authority to be invalid, void or unenforceable, the remainder of the terms, provisions and covenants of this Agreement shall remain in full force and effect and shall in no way be affected, impaired or invalidated
+
+Section 7.06 Binding Effect; Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective legal representatives, successors and permitted assigns. This Agreement shall not be assigned by either party without the prior written consent of the other party hereto.
+
+Section 7.07 Headings. The descriptive headings of the Sections hereof are inserted for convenience only and do not constitute a part of this Agreement.
+
+Section 7.08 Entire Agreement; Changes in Writing. This Agreement constitutes the entire agreement among the parties hereto and supersedes and cancels any prior agreements, representations and warranties, whether oral or written, among the parties hereto relating to the transaction contemplated hereby. Neither this Agreement not any provision hereof may be changed or amended orally, but only by an agreement in writing signed by the other party hereto.
+
+  
+
+
+8
+
+* * *
+
+Section 7.09 Trust Waiver. Camden’s initial public offering was consummated on December 5, 2007 as a result of which it received gross proceeds of $53,010,400, a significant portion of which are held in the Trust Account. The Trust Account is invested in U.S. government securities in a trust account at JP Morgan Chase Bank, N.A. and held in trust by Continental Stock Transfer & Trust Company (the “Trustee”) pursuant to the Investment Management Trust Account Agreement, dated as of November 29, 2007, between Camden and Trustee. Other than with respect to the Aggregate Purchase Price to be paid to Seller in connection with this Agreement, Seller agrees that it does not now have, and shall not at any time have, any claim to, or make any claim against, the Trust Account or any asset contained therein, regardless of whether such claim arises as a result of, in connection with or relating in any way to, the business relationship between Seller, on the one hand, and Camden, on the other hand, this Agreement, or any other agreement or any other matter, and regardless of whether such claim arises based on contract, tort, equity or any other theory of legal liability. Other than with respect to the Aggregate Purchase Price to be paid to Seller in connection with this Agreement, Seller hereby irrevocably waives any and all claims it may have, now or in the future (in each case, however, prior to the consummation of a business combination), and will not seek recourse against, the Trust Account for any other reason whatsoever in respect thereof. Other than with respect to an action for the recovery of the Aggregate Purchase Price to be paid to Seller in connection with this Agreement, in the event Seller commences any other action or proceeding based upon, in connection with, relating to or arising out of any matter relating to Camden, which proceeding seeks, in whole or in part, relief against the Trust Account or the public stockholders of Camden, whether in the form of money damages or injunctive relief, Camden shall be entitled to recover from Seller the associated legal fees and costs in connection with any such action.
+
+[Signature Page Follows]
+
+9
+
+* * *
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date set forth on the first page of this Agreement.
+
+CAMDEN LEARNING
+
+CORPORATION  
+  
+By:
+
+/s/ David Warnock  
+  
+Name:
+
+David Warnock  
+  
+Title:
+
+CEO  
+  
+BULLDOG INVESTORS  
+  
+By:
+
+![](ex16sig.jpg)  
+  
+Name: 
+
+Andrew Dakos  
+  
+Title:
+
+Principal  
+  
+Purchase Price Per Share: $7.97
+
+Number of Shares: 1,030,167
+
+Aggregate Purchase Price: 8,210,430.99
+
+  
+
+
+Signature Page to Stock Purchase Agreement
+
+  
+
+
+* * *

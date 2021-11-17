@@ -1,0 +1,140 @@
+  
+
+
+
+
+Progress Software Corporation   
+ID: 04-2746201   
+14 Oak Park   
+Bedford, Massachusetts 01730
+
+«Last_Name», «First_Name»
+
+ISSUED PURSUANT TO THE 2008 STOCK OPTION AND INCENTIVE PLAN
+
+«Grant_type»   
+Option Number: «Option»   
+Date of Option Grant: «option_Date»   
+Plan: «Plan»   
+Price of the Shares Granted: «total_price»   
+Total Number of Shares Granted: «num_shares»   
+Option Price per Share: «Price»
+
+You have the right to purchase the number of shares of Common Stock of Progress Software Corporation for the Price per Share on or before the Expiration Date («expire»), all as set forth above. The option is subject to the full terms and conditions attached hereto. This option shall become exercisable in accordance with the Vesting Schedule below.
+
+VESTING SCHEDULE
+
+  
+
+
+LIBB/1561639.1
+
+* * *
+
+  
+
+
+NON-QUALIFIED STOCK OPTION AGREEMENT   
+UNDER THE PROGRESS SOFTWARE CORPORATION   
+2008 STOCK OPTION AND INCENTIVE PLAN
+
+  
+
+
+Name of Optionee: 
+
+No. of Option Shares: 
+
+Option Exercise Price per Share: 
+
+Grant Date: 
+
+Expiration Date: 
+
+Pursuant to the Progress Software Corporation 2008 Stock Option and Incentive Plan as amended through the date hereof (the “Plan”), Progress Software Corporation (the “Company”) hereby grants to the Optionee named above, who is an employee of the Company, an option (the “Stock Option”) to purchase on or prior to the Expiration Date specified above all or part of the number of shares of Common Stock, par value $.01 per share, of the Company (the “Stock”) at the Option Exercise Price per share specified above subject to the terms and conditions set forth herein and in the Plan. This Stock Option is not intended to be an “incentive stock option” under Section 422 of the Internal Revenue Code of 1986, as amended.
+
+1\. Exercisability. This Stock Option shall be exercisable in fifty-four (54) equal monthly increments commencing on the first day of the month following the completion of six months of service by the Optionee with the Company.
+
+2\. Manner of Exercise.
+
+(a) From time to time on or prior to the Expiration Date, the Optionee may give written notice to the Administrator or E*Trade of his or her election to purchase some or all of the Option Shares purchasable at the time of such notice. This notice shall specify the number of Option Shares to be purchased.
+
+(b) Payment of the Option purchase price may be made by one or more of the following methods: (i) in cash, by certified or bank check or other instrument acceptable to the Company; (ii) through the delivery of shares of Stock (or attestation to the ownership) that have been purchased by the Optionee on the open market or that have been beneficially owned by the Optionee for at least six months; (iii) a combination of (i) and (ii); or (iv) by the Optionee delivering to the Company a properly executed written or electronic exercise notice together with irrevocable instructions to E*Trade or other broker acceptable to the Company to promptly deliver to the Company cash or a check payable and acceptable to the Company to pay the option purchase price.
+
+(c) The shares of Stock purchased upon exercise of this Stock Option shall be transferred to the Optionee on the records of the Company or of the transfer agent upon compliance to the satisfaction of the Administrator with all requirements under applicable laws 
+
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+or regulations in connection with such transfer and with the requirements hereof and of the Plan. The determination of the Administrator as to such compliance shall be final and binding on the Optionee. The Optionee shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any shares of Stock subject to this Stock Option unless and until this Stock Option shall have been exercised pursuant to the terms hereof, the Company or the transfer agent shall have transferred the shares to the Optionee, and the Optionee’s name shall have been entered as the stockholder of record on the books of the Company. Thereupon, the Optionee shall have full voting, dividend and other ownership rights with respect to such shares of Stock.
+
+(d) Notwithstanding any other provision hereof or of the Plan, no portion of this Stock Option shall be exercisable after the Expiration Date hereof.
+
+3\. Termination as Employee. If the Optionee ceases to be an employee of the Company, the period within which to exercise the Stock Option may be subject to earlier termination as set forth below:
+
+(a) Termination by Reason of Death. If the Optionee ceases to be an employee by reason of the Optionee’s death, any portion of this Stock Option outstanding on such date may be exercised by his or her legal representative or legatee for a period of 24 months from the date of cessation of service as an employee or 10 days after the end of the blackout period in effect during such post-termination period, if later; provided, however, that this Stock Option shall nevertheless expire on the Expiration Date, if earlier.
+
+(b) Termination by Reason of Cause. If the Optionee ceases to be an employee by reason of the Optionee’s termination of service for Cause (as defined in the Plan), no portion of this Stock Option may be exercised after the last day of employment. 
+
+(c) Termination by Reason of Disability. If the Optionee ceases to be an employee by reason of the Optionee’s Disability (as defined in the Plan), any portion of this Stock Option outstanding on such date, may be exercised by the Optionee for a period of 12 months from the date of cessation of services as an employee or 10 days after the end of the blackout period in effect during such post-termination period, if later; provided, however, that this Stock Option shall nevertheless expire on the Expiration Date, if earlier.
+
+(d) Other Termination. If the Optionee ceases to be an employee for any reason other than the Optionee’s death or termination for Cause or Disability, any portion of this Stock Option outstanding on such date may be exercised for a period of 90 days from the date of cessation of services as an employee or 10 days after the end of the blackout period in effect during such post-termination period, if later; provided, however, that this Stock Option shall nevertheless expire on the Expiration Date, if earlier.
+
+4\. Incorporation of Plan. Notwithstanding anything herein to the contrary, this Stock Option shall be subject to and governed by all the terms and conditions of the Plan. Capitalized terms in this Agreement shall have the meaning specified in the Plan, unless a different meaning is specified herein.
+
+5\. Transferability. This Agreement is personal to the Optionee, is non-assignable and is not transferable in any manner, by operation of law or otherwise, other than by will or the 
+
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+laws of descent and distribution; provided, however, that with the consent of the Administrator, this Stock Option may be transferred, without payment of consideration, to a member of the Optionee’s immediate family or to a trust or partnership whose beneficiaries are members of the Optionee’s immediate family.
+
+6\. No Obligation to Continue as an Employee. Neither the Plan nor this Stock Option confers upon the Optionee any rights with respect to continuance as an employee of the Company. 
+
+7\. Notices. Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Optionee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing.
+
+PROGRESS SOFTWARE CORPORATION
+
+By: 
+
+Title: 
+
+The foregoing Agreement is hereby accepted and the terms and conditions thereof hereby agreed to by the undersigned.
+
+Dated: ______________________ 
+
+Optionee’s Signature
+
+  
+
+
+  
+
+
+  
+
+
+4
+
+  
+

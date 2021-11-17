@@ -1,0 +1,55 @@
+Exhibit 10.70
+
+
+
+THE BOARD OF DIRECTORS of Lapolla Industries, Inc. (the “Company”) authorized and approved the Equity Incentive Plan (“Plan”). The Plan provides for the grant of Options to employees of the Company. Unless otherwise provided herein all defined terms shall have the respective meanings ascribed to them under the Plan.
+
+1\. Grant of Option. Pursuant to authority granted to it under the Plan, effective as of November 26, 2014 (the “Grant Date”), the Company hereby grants to Michael T. Adams, an employee of the Company (the “Optionee”), the following stock options: 80,000 stock options (the “Options”). Each Option permits the Optionee to purchase one share of the Company’s common stock, par value $.01 per share (“Shares”), at the Exercise Price (defined below) per Share.
+
+2\. Character of Options. Pursuant to the Plan, Options granted herein may be Incentive Stock Options or Non-Qualified Stock Options, or both. To the extent permitted under the Plan and by law, such Options shall first be considered Incentive Stock Options.
+
+3\. Exercise Price. The exercise price for each Option granted herein is 38¢ ($ 0.38) per Share (the “Exercise Price”).
+
+4\. Vesting and Exercisability. The Options shall be immediately vested on the Grant Date and exercisable in accordance with the terms and conditions of the Plan and this Agreement.
+
+5\. Term of Options. The term of each Option granted herein shall be from the Grant Date through July 12, 2017.
+
+6\. Payment of Exercise Price. Options represented hereby may be exercised in whole or in part by delivering to the Company the payment of the Exercise Price for the number of Options so exercised (i) in cash, by check or cash equivalent, (ii) by tender to the Company of Shares owned by the Optionee having a Fair Market Value not less than the Exercise Price for the number of Options exercised; (iii) by tender to the Company of a written consent to accept a reduction in the number of Shares issuable upon exercise (“Reduced Number of Shares”), which Reduced Number of Shares, when ascribed a value, shall have a value equal to the Exercise Price for the number of Options exercised; (iv) by delivery of a properly executed notice of exercise together with irrevocable instructions to a broker providing for the assignment to the Company of the proceeds of a sale or loan with respect to some or all of the Shares being acquired upon the exercise of the Option or portion thereof exercised (including, without limitation, through an exercise complying with the provisions of Regulation T as promulgated from time to time by the Board of Governors of the Federal Reserve System) (a “Cashless Exercise”), (v) by such other consideration as may be approved by the Committee from time to time to the extent permitted by applicable law, or (vi) by any combination thereof. The Company reserves, at any and all times, the right, in the Company’s sole and absolute discretion, to establish, decline to approve or terminate any program or procedures for the exercise of Options by means of a Cashless Exercise.
+
+7\. Limits on Transfer of Options. The Option granted herein shall not be transferable by the Optionee otherwise than by will or by the laws of descent and distribution, except for gifts to family members subject to any specific limitation concerning such gift by the Committee in its discretion; provided, however, that the Optionee may designate a beneficiary or beneficiaries to exercise his rights and receive any Shares purchased with respect to any Option upon his death. Each Option shall be exercisable during the Optionee’s lifetime only by him or, if permissible under applicable law, by his legal representative. No Option herein granted or Shares underlying any Option shall be pledged, alienated, attached or otherwise encumbered, and any purported pledge, alienation, attachment or encumbrance thereof shall be void and unenforceable against the Company. Notwithstanding the foregoing, to the extent permitted by the Committee, in its discretion, an Option shall be assignable or transferable subject to the applicable limitations, if any, described in the General Instructions to Form S-8 Registration Statement under the Securities Act of 1933, as amended.
+
+* * *
+
+8\. Termination of Employment. If the Optionee’s employment is terminated with the Company, the Option and any unexercised portion shall be subject to the provisions below:
+
+(a) Upon the termination of the Optionee’s employment with the Company, to the extent not theretofore exercised, the Option shall continue to be valid; provided, however, that: (i) if the Optionee’s employment is terminated by dismissal by the Company other than for Cause (as defined below), disability (as described in Section 22(e) of the Code) or death while in the employ of the Company and at a time when the Optionee was entitled to exercise an Option as herein provided, any unvested Options shall automatically vest and become exercisable as of the date of termination, and the Optionee or his legal representative, as the case may be, or such Person who acquired such Option by bequest or inheritance or by reason of the death of the Optionee, may, not later than fifteen (15) months from the date of death, exercise such Option, to the extent not theretofore exercised, in respect of all Shares subject to the vested Options; and (ii) if the employment of the Optionee shall terminate by reason of the Optionee’s retirement (at such age upon such conditions as shall be specified by the Board of Directors), and while the Optionee is entitled to exercise such Option as herein provided, any unvested Options shall automatically vest and become exercisable as of the date of retirement, the Optionee shall have the right to exercise such Option so granted, to the extent not theretofore exercised, in respect of all Shares subject to the vested Options, at any time up to one (1) year from the date of termination of the Optionee’s employment by reason of retirement.
+
+(b) If the Optionee voluntarily terminates his employment, the Optionee shall have the right to exercise such Options that have vested, to the extent not theretofore exercised, at any time up to ninety (90) days from the date of termination of the Optionee’s employment, or if the Optionee is discharged for Cause, any Options granted hereunder shall forthwith terminate with respect to any unexercised portion thereof.
+
+(c) If any Options granted hereunder shall be exercised by the Optionee’s legal representative if the Optionee should die or become disabled, or by any person who acquired any Options granted hereunder by bequest or inheritance or by reason of death of any such person, written notice of such exercise shall be accompanied by a certified copy of letters testamentary or equivalent proof of the right of such legal representative or other person to exercise such Options.
+
+(d) For all purposes of this Agreement, the term “Cause” shall have the meaning set forth in the Optionee’s employment agreement with the Company, or if no such agreement exists or is then in effect, then the meaning as defined in the Plan.
+
+9\. Restriction; Securities Exchange Listing. All certificates for Shares delivered upon the exercise of Options granted herein shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations and other requirements of the Securities and Exchange Commission and any applicable federal or state securities laws, and the Committee may cause a legend or legends to be placed on such certificates to make appropriate reference to such restrictions. If the Shares or other securities are traded on a national securities exchange, the Company shall not be required to deliver any Shares covered by an Option unless and until such Shares have been admitted for trading on such securities exchange.
+
+10\. Adjustments. If there is any change in the capitalization of the Company affecting in any manner the number or kind of outstanding Shares of the Company, whether by stock dividend, stock split, reclassification or recapitalization of such stock, or because the Company has merged or consolidated with one or more other corporations (and provided the Option does not thereby terminate pursuant to Section 5 hereof), then the number and kind of shares then subject to the Option and the price to be paid therefor shall be appropriately adjusted by the Board of Directors; provided, however, that in no event shall any such adjustment result in the Company’s being required to sell or issue any fractional shares. Any such adjustment shall be made without change in the aggregate purchase price applicable to the unexercised portion of the option, but with an appropriate adjustment to the price of each Share or other unit of security covered by this Option.
+
+* * *
+
+11\. Change in Control. In the event of a Change in Control (as defined in the Plan), the surviving, continuing, successor, or purchasing entity or parent thereof, as the case may be (the “Acquiror”), may, without the consent of the Optionee, either assume the Company’s rights and obligations under outstanding Options or substitute for outstanding Options substantially equivalent options for the Acquiror’s stock. In the event the Acquiror elects not to assume or substitute for outstanding Options in connection with a Change in Control, the Committee shall provide that any unexercised and/or unvested portions of outstanding Options shall be immediately exercisable and vested in full as of the date thirty (30) days prior to the date of the Change in Control. The exercise and/or vesting of any Option that was permissible solely by reason of this Section 11 shall be conditioned upon the consummation of the Change in Control. Any Options which are not assumed by the Acquiror in connection with the Change in Control nor exercised as of the time of consummation of the Change in Control shall terminate and cease to be outstanding effective as of the time of consummation of the Change in Control.
+
+12\. Amendment to Options Herein Granted. The Options granted herein may not be amended without the Optionee’s consent.
+
+13\. Withholding Taxes. As provided in the Plan, the Company may withhold from sums due or to become due to Optionee from the Company an amount necessary to satisfy its obligation to withhold taxes incurred by reason of the disposition of the Shares acquired by exercise of the Options in a disqualifying disposition (within the meaning of Section 421(b) of the Code), or may require the Optionee to reimburse the Company in such amount.
+
+LAPOLLA INDUSTRIES, INC.
+
+/s/ Douglas J. Kramer, CEO 
+
+Authorized Officer
+
+OPTIONEE
+
+/s/ Michael T. Adams 
+
+Michael T. Adams

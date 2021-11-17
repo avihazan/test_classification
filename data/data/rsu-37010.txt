@@ -1,0 +1,187 @@
+* * *
+
+Exhibit 10.1
+
+GEOEYE, INC.
+
+  
+
+
+2010 OMNIBUS INCENTIVE PLAN
+
+  
+
+
+
+
+  
+
+
+______ GRANT NOTICE
+
+  
+
+
+Unless otherwise defined herein, the terms defined in the 2010 Omnibus Incentive Plan of GeoEye, Inc., as amended from time to time (“Plan”), shall have the same defined meanings in this Performance Share Agreement, which includes the terms in this Grant Notice (“Grant Notice”) and Appendix A attached hereto (collectively, the “Agreement”).
+
+You have been granted Performance Shares (“Performance Shares”), subject to the terms and conditions of the Plan and this Agreement.
+
+Participant:  
+  
+Grant Date:  
+  
+Target Number of Performance Shares:  
+  
+Type of Shares Issuable:
+
+Common Stock  
+  
+Vesting Schedule:
+
+The Performance Shares will vest in accordance with the vesting schedule set forth in Appendix A.  
+  
+  
+
+
+Your signature below indicates your agreement and understanding that the Performance Shares are subject to all of the terms and conditions contained in this Agreement, including the Grant Notice and Appendix A, and the Plan. ACCORDINGLY, PLEASE BE SURE TO READ ALL OF APPENDIX A, WHICH CONTAINS THE SPECIFIC TERMS AND CONDITIONS OF THE PERFORMANCE SHARES.
+
+GEOEYE, INC.:
+
+PARTICIPANT:  
+  
+By:
+
+By:  
+  
+Print Name:
+
+Print Name:  
+  
+Title:
+
+Address:  
+  
+Address:  
+  
+  
+
+
+* * * * *
+
+* * *
+
+APPENDIX A
+
+TO THE PERFORMANCE SHARE AGREEMENT
+
+Pursuant to this Agreement and the Plan, the Company has awarded to the Participant the number of Performance Shares set forth in the Grant Notice.
+
+ARTICLE I.
+
+ARTICLE II.GENERAL
+
+1.1 Definitions. All capitalized terms used in this Agreement without definition shall have the meanings ascribed in the Plan.
+
+1.2 Incorporation of Terms. The Performance Shares and the Shares issued to the Participant upon vesting are subject to the terms and conditions of the Plan which is incorporated herein by reference. In the event of any inconsistency between the Plan and this Agreement, the terms of the Plan shall control.
+
+ARTICLE III.
+
+ARTICLE IV.AWARD OF PERFORMANCE SHARES
+
+2.1 Award of Performance Shares. As set forth in the Grant Notice, the Company has granted the Participant Performance Shares. Each Performance Share represents the right to receive one Share. However, unless and until the Performance Shares have vested, the Participant will have no right to delivery of any Shares subject thereto. Prior to the actual delivery of any Shares, such Performance Shares will represent an unsecured obligation of the Company, payable only from the general assets of the Company.
+
+2.2 Vesting of Performance Shares.
+
+(a) Subject to the Participant remaining an Employee through ______________ (“Vesting Date”), and subject to the terms of this Agreement, the Performance Shares shall vest as of the Vesting Date in an amount equal to (i) the target number of Performance Shares as set forth in the Grant Notice (“Target Performance Shares”), multiplied by (ii) the Applicable Vesting Percentage. For purposes of this Agreement:
+
+(i) “Applicable Vesting Percentage” shall mean a percentage between 20% and 200% determined based on Adjusted EBITDA per fully diluted share being between 60% and 150% of Target Adjusted EBITDA per fully diluted share, such that the Applicable Vesting Percentage shall be 20% if Adjusted EBITDA per fully diluted share is equal to 60% of Target Adjusted EBITDA per fully diluted share (the “Threshold”), and the Applicable Vesting Percentage shall increase by 2% for each full percentage point by which Adjusted EBITDA per fully diluted share exceeds the Threshold, up to a maximum of 200% if Adjusted EBITDA per fully diluted share is equal to or greater than 150% of Target Adjusted EBITDA per fully diluted share. Failure of Adjusted EBITDA per fully diluted share to be at least equal to the Threshold will result in the Applicable Vesting Percentage being 0%, and in no event shall the Applicable Vesting Percentage exceed 200%.
+
+A-1
+
+* * *
+
+(ii) “Adjusted EBITDA” shall mean, for any given Fiscal Year, the non-GAAP financial measure that represents the Company’s consolidated net income (loss) before net interest income or expense, provision for income taxes, depreciation and amortization, non-cash stock-based compensation expense and other items. Such measure is forth in the Company’s Annual Report on Form 10-K for such Fiscal Year.
+
+(iii) “Adjusted EBITDA per fully diluted share” shall mean the sum of (A) the financial quotient obtained by dividing Adjusted EBITDA for Fiscal Year ____ by the Fully Diluted Shares for Fiscal Year ____ plus (B) the financial quotient obtained by dividing Adjusted EBITDA for Fiscal Year ____ by the Fully Diluted Shares for Fiscal Year _____.
+
+(iv) “Fiscal Year” shall mean the fiscal year of the Company, as in effect from time to time.
+
+(v) “Fully Diluted Shares” shall mean, for any given Fiscal Year, the weighted average number of Shares outstanding and dilutive securities used to compute diluted earnings per share for such Fiscal Year as set forth in the Company’s Annual Report on Form 10-K for such Fiscal Year.
+
+(vi) “Target Adjusted EBITDA per fully diluted share” shall mean $____.
+
+(b) Committee Determination of Applicable Vesting Percentage. The Committee shall make the determination as to the Applicable Vesting Percentage and shall determine the extent, if any, to which the Performance Shares become vested.
+
+(c) Change of Control Vesting. Notwithstanding anything to the contrary set forth in this Agreement, the Performance Shares shall become fully vested in the event of a Change of Control in connection with which the successor corporation does not assume the Performance Share or substitute an equivalent right for the Performance Share. Should the successor corporation in a Change in Control assume the Performance Share or substitute an equivalent right therefore, then no such acceleration shall apply; provided, however, that such assumed Performance Share or substitute right may become vested and exercisable pursuant to the foregoing vesting schedule or the terms of the GeoEye, Inc. Key Employee Change in Control Severance Plan (“CIC Plan”), to the extent applicable.
+
+(d) No Vesting of Performance Shares. In the event the Participant incurs a Termination of Employment, except as set forth in the CIC Plan, as applicable, the Participant’s right to vest in the Performance Shares and to receive the Shares related thereto will terminate effective as of the date of such Termination of Employment and the Participant will have no further rights to such Performance Shares or the related Shares. For purposes of this Agreement, “Termination of Employment” shall mean the time when the engagement of the Participant as an Employee is terminated for any reason, with or without cause, including, but not by way of limitation, by resignation, discharge, death or retirement. The Committee, in its absolute discretion, shall determine the effect of all matters and questions relating to Termination of Employment, including, but not by way of limitation, the question of whether a Termination of Employment resulted from discharge for cause, and all questions of whether a particular leave of absence constitutes a Termination of Employment.
+
+A-2
+
+* * *
+
+2.3 Issuance of Shares.
+
+(a) No Shares shall be issued to the Participant prior to the date on which the Performance Shares vest. After any Performance Shares vest and subject to the terms of this Agreement, the Company shall promptly (but in no event later than March 15th of the calendar year following the calendar year in which such Performance Shares vest) cause Shares to be issued (either in book-entry form or otherwise) to the Participant with respect to such vested Performance Shares, subject to the terms of the CIC Plan, if applicable. Notwithstanding the foregoing, the Company may delay issuance of Shares in settlement of Performance Shares if it reasonably determines that such issuance will violate Federal securities laws or any other Applicable Law, provided that such issuance shall be made at the earliest date at which the Company reasonably determines that the making of such distribution or payment will not cause such violation, as required by Treasury Regulation Section 1.409A-2(b)(7)(ii), and provided further that no payment or distribution shall be delayed under this Section 2.3(a) if such delay will result in a violation of Section 409A of the Code. No fractional Shares shall be issued under this Agreement.
+
+(b) To the maximum extent permitted by applicable law, Shares with respect to vested Performance Shares shall be issued to the Participant in reliance upon Treas. Reg. Section 1.409A-1(b)(4) (Short-Term Deferrals), or, if applicable, Treas. Reg. Section 1.409A-1(b)(9) (Separation Pay Plans). However, to the extent any Performance Shares are treated as non-qualified deferred compensation subject to Section 409A of the Internal Revenue Code of 1986, as amended (“Code”), then if the Participant is deemed at the time of his or her Separation from Service (as defined below) to be a “specified employee” for purposes of Section 409A(a)(2)(B)(i) of the Code, then to the extent that a delay in the issuance of any Shares under this Agreement is required in order to avoid a prohibited distribution under Section 409A(a)(2)(B)(i) of the Code, such Shares shall not be issued to the Participant prior to the earlier of (i) the expiration of the six-month period measured from the date of the Participant’s Separation from Service or (ii) the date of the Participant’s death. Upon the earlier of such dates, all Shares that previously would have been issued to the Participant shall be issued to the Participant. The determination of whether the Participant is a “specified employee” for purposes of Section 409A(a)(2)(B)(i) of the Code as of the time of his or her Separation from Service shall be made by the Committee in accordance with the terms of Section 409A of the Code and applicable guidance thereunder (including without limitation Treas. Reg. Section 1.409A-1(i) and any successor provision thereto). For purposes of this Agreement, a Separation from Service shall mean the Participant’s “separation from service” with the Company as such term is defined in Treasury Regulation Section 1.409A-1(h) and any successor provision thereto.
+
+2.4 Tax Withholding; Conditions to Issuance of Certificates. Notwithstanding any other provision of this Agreement (including without limitation Section 2.3):
+
+(a) The Participant is ultimately liable and responsible for all taxes owed in connection with the Performance Shares, regardless of any action the Company or any of its Subsidiaries takes with respect to any tax withholding obligations that arise in connection with the Performance Shares. Neither the Company nor any of its Subsidiaries makes any representation or undertaking regarding the treatment of any tax withholding in connection with the awarding or vesting of the Performance Shares or the subsequent sale of Shares. The Company and its Subsidiaries do not commit and are under no obligation to structure the Performance Shares to reduce or eliminate the Participant’s tax liability.
+
+(b) Prior to any tax withholding becoming due, the Participant must make arrangements satisfactory to the Committee to satisfy such withholding and must satisfy such tax withholdings when due. To the extent permitted by the Committee, the Company (or the employing Subsidiary), in its discretion, may withhold a portion of the Shares issuable from the Performance Shares that have an aggregate Fair Market Value sufficient to pay the minimum federal, state and local income, employment and any other applicable taxes required to be withheld by the Company or the employing Subsidiary with respect to the Performance Shares and the Shares issued therefrom. Notwithstanding any contrary provision of this Agreement, no Shares will be issued unless and until satisfactory arrangements (as determined by the Committee) will have been made by the Participant with respect to the payment of any income and other taxes which the Company determines must be withheld or collected with respect to such Performance Shares and the Shares issued therefrom. In addition and to the maximum extent permitted by law, the Company (or the employing Subsidiary) shall have the right to retain without notice from salary or other amounts payable to the Participant, cash having a value sufficient to satisfy any tax withholding obligations arising with respect to the Performance Shares and the Shares issued therefrom.
+
+A-3
+
+* * *
+
+(c) The Company shall not be required to issue or deliver any certificate or certificates for any Shares prior to the fulfillment of all of the following conditions: (i) the admission of the Shares to listing on all stock exchanges on which such Shares are then listed, (ii) the completion of any registration or other qualification of the Shares under any state or federal law or under rulings or regulations of the Securities and Exchange Commission or other governmental regulatory body, which the Committee shall, in its sole and absolute discretion, deem necessary and advisable, (iii) the obtaining of any approval or other clearance from any state or federal governmental agency that the Committee shall, in its absolute discretion, determine to be necessary or advisable and (iv) the lapse of any such reasonable period of time following the date the restrictions lapse or are removed as the Committee may from time to time establish for reasons of administrative convenience.
+
+2.5 Rights as Stockholder. Neither the Participant nor any person claiming under or through the Participant will have any of the rights or privileges of a stockholder of the Company in respect of any Shares deliverable hereunder unless and until certificates representing such Shares (which may be in book entry form) will have been issued and recorded on the records of the Company or its transfer agents or registrars, and delivered to the Participant (including through electronic delivery to a brokerage account). Except as otherwise provided herein, after such issuance, recordation and delivery, the Participant will have all the rights of a stockholder of the Company with respect to the receipt of dividends and distributions on such Shares.
+
+ARTICLE V.
+
+OTHER PROVISIONS
+
+3.1 Administration. The Committee shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan and this Agreement as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee in good faith will be final and binding upon the Participant, the Company and all other interested persons. No member of the Committee will be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or this Agreement.
+
+3.2 Performance Shares Not Transferable. The Performance Shares may not be sold, pledged, assigned or transferred in any manner other than by will or the laws of descent and distribution, unless and until the Shares underlying the Performance Shares have been issued, and all restrictions, if any, applicable to such Shares have lapsed. No Performance Shares or any interest or right therein or part thereof shall be liable for the debts, contracts or engagements of the Participant or his successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect, except to the extent that such disposition is permitted by the preceding sentence.
+
+A-4
+
+* * *
+
+3.3 Adjustments. The Participant acknowledges that the Performance Shares and the Shares subject to the Performance Shares are subject to modification and termination in certain events as provided in this Agreement and Section 12 of the Plan.
+
+3.4 Notices. Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of the Secretary of the Company at the address given beneath the signature of the Company’s authorized officer on the Grant Notice, and any notice to be given to Participant shall be addressed to Participant at the address given beneath Participant’s signature on the Grant Notice. By a notice given pursuant to this Section 3.4, either party may hereafter designate a different address for notices to be given to that party. Any notice shall be deemed duly given when sent to the Participant via email or when sent by certified mail (return receipt requested) and deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service.
+
+3.5 Titles. Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+3.6 Governing Law. The laws of the State of Delaware shall govern the interpretation, validity, administration, enforcement and performance of the terms of this Agreement regardless of the law that might be applied under principles of conflicts of laws.
+
+3.7 Conformity to Securities Laws. The Participant acknowledges that the Plan and this Agreement are intended to conform to the extent necessary with all provisions of the Securities Act of 1933, as amended, and the Securities and Exchange Act of 1934 (“Exchange Act”), as amended, and any and all regulations and rules promulgated thereunder by the Securities and Exchange Commission. Notwithstanding anything herein to the contrary, the Plan shall be administered, and the Performance Shares are granted, only in such a manner as to conform to such laws, rules and regulations. To the extent permitted by applicable law, the Plan and this Agreement shall be deemed amended to the extent necessary to conform to such laws, rules and regulations.
+
+3.8 Amendment, Suspension and Termination. To the extent permitted by the Plan, this Agreement may be wholly or partially amended or otherwise modified, suspended or terminated at any time or from time to time by the Committee or the Board, provided, that, except as may otherwise be provided by the Plan, no amendment, modification, suspension or termination of this Agreement shall adversely affect the Performance Shares in any material way without the prior written consent of the Participant.
+
+3.9 Successors and Assigns. The Company may assign any of its rights under this Agreement to single or multiple assignees, and this Agreement shall inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer herein set forth, this Agreement shall be binding upon the Participant and his heirs, executors, administrators, successors and assigns.
+
+3.10 Limitations Applicable to Section 16 Persons. Notwithstanding any other provision of the Plan or this Agreement, if Participant is subject to Section 16 of the Exchange Act, the Plan, the Performance Shares and this Agreement shall be subject to any additional limitations set forth in any applicable exemptive rule under Section 16 of the Exchange Act (including any amendment to Rule 16b-3 of the Exchange Act) that are requirements for the application of such exemptive rule. To the extent permitted by applicable law, this Agreement shall be deemed amended to the extent necessary to conform to such applicable exemptive rule.
+
+A-5
+
+* * *
+
+3.11 Not a Contract of Employment. Nothing in this Agreement or in the Plan shall confer upon the Participant any right to continue to serve as an employee or other service provider of the Company or any of its Subsidiaries.
+
+3.12 Entire Agreement. This Agreement, subject to the terms and conditions of the Plan and the CIC Plan, as applicable, represents the entire agreement between the parties with respect to the Performance Shares.
+
+3.13 Section 409A. Notwithstanding any other provision of the Plan, this Agreement or the Grant Notice, the Plan, to the extent subject to Section 409A of the Code, this Agreement and the Grant Notice shall be interpreted in accordance with, and incorporate the terms and conditions required by, Section 409A of the Code (together with any Department of Treasury regulations and other interpretive guidance issued thereunder, including without limitation any such regulations or other guidance that may be issued after the date hereof, “Section 409A”). The Committee may, in its discretion, adopt such amendments to the Plan, this Agreement or the Grant Notice or adopt other policies and procedures (including amendments, policies and procedures with retroactive effect), or take any other actions, as the Committee determines are necessary or appropriate to comply with the requirements of Section 409A.
+
+3.14 Agreement Severable. In the event that any provision of this Agreement is held invalid or unenforceable, such provision will be severable from, and such invalidity or unenforceability will not be construed to have any effect on, the remaining provisions of this Agreement.
+
+* * * * *
+
+A-6
+
+* * *

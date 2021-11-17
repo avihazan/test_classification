@@ -1,0 +1,330 @@
+  
+  
+
+
+
+
+November 16, 2004
+
+  
+
+
+Between:
+
+  
+
+
+George Liszicasz, an individual residing in the City of Calgary, in the province of Alberta, (hereafter the “Lender”)
+
+  
+
+
+and
+
+  
+
+
+Energy Exploration Technologies Inc., a corporation duly incorporated pursuant to the laws of the province of Alberta, with an office in the City of Calgary (the “Borrower”)
+
+  
+
+
+  
+
+
+WHEREAS the Lender desires to lend to the Borrower, and the Borrower desires to borrow from the Lender, the sum of $31,000 USD; 
+
+  
+
+
+NOW THEREFORE the parties agree as follows:
+
+  
+
+
+ARTICLE 1  
+Interpretation
+
+1.1
+
+Definitions
+
+In this Agreement and in all notices pursuant to this Agreement the following words and phrases have the following meanings: 
+
+“Agreement” means this Loan Agreement.
+
+“Event of Default” means any of the events specified in Section 4.1.
+
+“Loan” means the loan of the Principal Sum by the Lender to the Borrower pursuant to the terms of this Agreement.
+
+“Maturity Date” means January 15, 2005.
+
+“Principal Sum” means the sum of $31,000 USD.
+
+“Prior Sum” means the sum of $250,000 CDN.
+
+1.2
+
+Headings 
+
+The headings and the division of this Agreement into articles and sections are for convenience of reference only and shall not affect the interpretation of this Agreement.
+
+  
+
+
+* * *
+
+  
+
+
+\- 2 -
+
+  
+
+
+  
+  
+
+
+ARTICLE 2  
+Agreement 
+
+2.1
+
+Loan 
+
+The Lender hereby agrees to lend to the Borrower the Principal Sum and the Borrower:
+
+(a)
+
+acknowledges receipt of the Principal Sum;
+
+(b)
+
+agrees to repay the Principal Sum in accordance with the terms of this Agreement; 
+
+(c)
+
+agrees to secure its obligations under and pursuant to the Loan including, without limitation, the obligation to repay the Principal Sum, on the terms and conditions as provided in this Agreement; and
+
+(d)
+
+agrees to use the Principal Sum to fund the ongoing operations of the Borrower and for no other reason.
+
+2.2
+
+Interest Acknowledgment
+
+The rate of interest on the Principal Sum is 0.58% per cent per month (7% per annum). 
+
+ARTICLE 3  
+Borrower’s Covenants 
+
+3.1
+
+Repayment of the Loan 
+
+The Borrower shall repay in full the Principal Sum and the Prior Sum on the Maturity Date, subject to the terms and conditions of this Agreement. 
+
+3.2
+
+Payments 
+
+All payments made by the Borrower to the Lender hereunder shall be applied in the following order:
+
+  
+
+
+(a)
+
+to amounts due as interest; and
+
+  
+
+
+(b)
+
+to reduce the Principal Sum.
+
+  
+
+
+3.3
+
+Right of Prepayment 
+
+The Borrower shall have the right to prepay the Principal Sum, in whole or in part, at any time without notice or penalty.
+
+3.4
+
+Pledge and Hypothecation of SFD Survey Equipment 
+
+In consideration of the receipt by the Borrower of the Principal Sum from the Lender and to secure the due payment of the Principal Sum under this Agreement, the Borrower, being the registered or beneficial owner of that equipment more particularly known by the Parties as the Operating SFD Survey Equipment (the "Equipment") hereby pledges, hypothecates, assigns, encumbers and charges all the right, title and interest of the Borrower, both present and future, in and to the Equipment during the term of this Agreement to the Lender. 
+
+  
+
+
+* * *
+
+  
+
+
+\- 3 -
+
+  
+
+
+  
+  
+
+
+3.5
+
+First Charge 
+
+The charge upon the Equipment evidenced by this Agreement shall be a first charge against such assets.
+
+ARTICLE 4  
+Acceleration of Maturity Date 
+
+4.1
+
+Default 
+
+Upon the happening of any one or more of the following events (each, an “Event of Default”), namely:
+
+(a)
+
+termination of the Lender's employment with the Borrower for whatever cause, voluntary or involuntary, including, without limiting the generality of the foregoing, resignation, retirement, disability or death; 
+
+(b)
+
+sale, transfer, assignment or any other disposition of the Equipment or any part thereof; or
+
+(c)
+
+the bankruptcy of the Borrower;
+
+the Lender shall, by notice in writing to the Borrower, declare the Principal Sum to be due and payable and the same shall become immediately due and payable. If the Borrower does not repay the Principal Sum forthwith upon receipt of notice of an Event of Default, the Borrower shall pay all costs and expenses incurred by the Lender in enforcing this Agreement and realizing on his security.
+
+ARTICLE 5  
+Miscellaneous
+
+5.1
+
+Notices
+
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be given by prepaid first-class mail, by facsimile or other means of electronic communication or by hand-delivery as hereinafter provided. Any such notice or other communication, if mailed by prepaid first-class mail at any time other than during a general discontinuance of postal service due to strike, lockout or otherwise, shall be deemed to have been received on the fourth business day after the post-marked date thereof, or if mailed by registered mail, shall be deemed to have been received on the day such mail is delivered by the post office, or if sent by facsimile or other means of electronic communication, shall be deemed to have been received on the business day following the sending, or if delivered by hand shall be deemed to have been received at the time it is delivered to the applicable address noted below either to the individual designated below or to an individual at such address having apparent authority to accept deliveries on behalf of the addressee. Notice of change of address shall also be governed by this section. In the event of a general discontinuance of postal service due to strike, lock-out or otherwise, notices or other communications shall be delivered by hand or sent by facsimile or other means of electronic communication and shall be deemed to have been received in accordance with this section. Notices and other communications shall be addressed as follows:
+
+  
+  
+
+
+* * *
+
+  
+
+
+\- 4 -
+
+  
+
+
+(a)
+
+if to the Borrower:   
+
+
+Energy Exploration Technologies Inc.
+
+Suite 750, 840 7th Avenue. SW
+
+Calgary, Alberta
+
+T2P 3G2
+
+  
+
+
+  
+
+
+Telecopier number: 403.264.6442
+
+  
+
+
+(b)
+
+if to the Lender:
+
+Mr. George Liszicasz
+
+383 Arbour Lake Way
+
+Calgary Alberta
+
+T3G 4A2
+
+5.2
+
+Enurement 
+
+This Agreement shall enure to the benefit of and shall be binding upon the parties, the successors and assigns of the Lender, and the heirs, executors, administrators and successors of the Borrower.
+
+5.3
+
+Governing Law 
+
+This Agreement shall be governed by and construed in accordance with the laws of the Province of Alberta and the laws of Canada applicable therein.
+
+5.4
+
+Severability 
+
+If any provision of this Agreement shall be valid or unenforceable to any extent, the remainder of this Agreement shall not be affected thereby and each provision hereof shall be enforced to the fullest extent permitted by law.
+
+  
+
+
+5.5
+
+Total and Complete Agreement
+
+This loan agreement replaces the loan agreement dated November 3, 2004 for the Principal Sum of $250,000 CDN with a maturity date of December 30, 2004.
+
+SIGNED at the City of Calgary in the Province of Alberta this 17th day of November, 2004.
+
+  
+
+
+  
+
+
+Energy Exploration Technologies Inc.
+
+Mr. George Liszicasz 
+
+  
+
+
+per: 
+
+/s/ Douglas Rowe
+
+per:
+
+/s/ George Liszicasz
+
+Douglas Rowe
+
+George Liszicasz
+
+  
+
+
+  
+
+
+  
+

@@ -1,0 +1,228 @@
+Exhibit 10.1
+
+  
+
+
+
+
+THIS STOCK OPTION AGREEMENT is made this 18th day of May, 2006 by and between UNIVERSAL CAPITAL MANAGEMENT, INC., a Delaware corporation (the "Company") and David M. Bovi, an individual (the "Optionee").
+
+WITNESSETH:
+
+Company desires to grant to Optionee options to purchase shares of its common stock, par value $0.001 each ("Shares").
+
+NOW, THEREFORE, in consideration of the foregoing, the mutual covenants herein contained, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, each intending to be legally bound hereby, agree as follows:
+
+1. Definitions. As used in this Agreement, the following terms shall have the following respective meanings:
+
+(a) The term "Affiliate" shall mean a corporation which is a parent corporation or a subsidiary corporation with respect to Company within the meaning of Section 425(e) or (f) of the Code.
+
+(b) The term "Code" shall mean the Internal Revenue Code of 1986, as amended.
+
+(c) The term "Expiration Date" shall mean 5:00 p.m., local time in Wilmington, Delaware on May 16, 2016.
+
+(d) The term "ISO" shall mean an incentive stock option within the meaning of the Code, for Federal income tax purposes.
+
+(e) The term "NSO" shall mean an option which is not an ISO.
+
+(f) The term the "Plan" shall mean that certain 2006 Equity Incentive Plan adopted by the Board of Directors on April 4, 2006 and the stockholders on May 8, 2006.
+
+(g) The term "Termination Date" shall mean 5:00 p.m. local time in Wilmington, Delaware on the day the Option terminates in accordance with the terms of Paragraph 5.
+
+* * *
+
+(h) The term "transfer" shall mean any sale, assignment, transfer, gift, donation, or other disposition, or any pledge, deposit, or placing of an encumbrance upon.
+
+(i) The term "Fair Market Value" of Shares means (i) if the Shares are then listed and traded on a registered national or regional securities exchange or quoted on The National Association of Securities Dealers Automated Quotation System, the average of the high and low sales price of a Share on such exchange or quotation system on the date of a grant or issuance of an Option, or (ii) if the Shares are not traded on a registered national or regional securities exchange or quoted on such a quotation system, the fair market value as determined by the Committee, based on such valuation methods as the Committee determines to be appropriate as long as such methods are permitted by the Investment Company Act of 1940, as amended; provided, however, that in no event shall Fair Market Value be less than that determined under section 409A of the Code.
+
+(j) The term "Committee" shall mean the Board of Directors or the Committee of the Board of Directors designated by the Board to administer the Plan.
+
+2\. Grant of Option. The Company hereby grants to Optionee the right and option (the "Option") to purchase Four Hundred Thousand (400,000) Shares (the "Option Shares"), on the terms and subject to the conditions hereinafter set forth in this Agreement. In the event of any conflict between this Agreement and the terms of the Plan, the terms of the Plan shall govern.
+
+3\. Option Price. The purchase price to be paid, if the Option is exercised, shall be Two Dollars ($2.00) per share (the "Option Price"), which shall be paid at the Closing (as hereinafter defined) in the manner provided in this Agreement.
+
+4\. Exercise of Option. The following provisions shall apply to exercise of the Option:
+
+(a) Optionee shall exercise the Option by sending a notice of election (the "Notice of Election") to the Company in the form attached hereto and incorporated herein by reference. The Notice of Election shall be in writing, shall be sent to the Company at the address and in the manner set forth in subparagraph 12(c) hereof (unless such address has been changed in the manner set forth in such subparagraph), and shall contain the information about the Closing set forth in subparagraph 10(a) hereof.
+
+(b) If exercised, the Option may be exercised as to some or all of the Option Shares, and if with respect to some of the Option Shares, then the Option shall continue until the Termination Date with respect to the remaining Option Shares.
+
+(c) The Option may be exercised at any time prior to the Expiration Date; provided, however, that the date and time of the exercise of the Option shall be that day and time when the Notice of Election is actually received by the Company.
+
+(2)
+
+* * *
+
+(d) Payment for Shares shall be made as provided in Section 7.1.3 of the Plan.
+
+(e) Subject to the provisions of this Agreement, Optionee will become obliged to purchase the Option Shares on the terms and conditions set forth in this Agreement and the Notice of Election upon the sending by Optionee of the Notice of Election.
+
+5\. Term.
+
+(a) Except as provided in subparagraph (b) of this Paragraph 5, the Option will terminate at 5:00 p.m. local time in Wilmington, Delaware on the Expiration Date.
+
+(b) In the event of Optionee’s death or disability, the provisions of Section 7.1.4 of the Plan shall govern.
+
+6\. Change or Exchange of Capital Stock.
+
+(a) In the event of any merger, reorganization, consolidation, recapitalization, stock dividend or other change in corporate structure affecting the Stock, the provisions of Section 4.1 of the Plan shall govern. 
+
+(b) In connection with any event described in this Section 6 or a sale by the Company of all or substantially all of its assets, the Committee may provide, in its sole discretion, for the cancellation of this Award Agreement in exchange for a payment in cash or other property equal to the Fair Market Value of the Option issuable on exercise of this cancelled Award Agreement less the exercise price or purchase price hereof.
+
+(c) No such adjustment shall be made, however, by reason of the issuance of shares of common stock of the Company for cash, property, or services; by way of stock options, stock warrants, subscription rights; or otherwise.
+
+7\. Condition Precedent to Exercise. Notwithstanding anything to the contrary contained in this Agreement, the Option shall first become exercisable with respect to the following number of Shares on the dates indicated:
+
+Date
+
+ISOs
+
+NSOs
+
+Total  
+  
+May 18, 2006
+
+0
+
+400,000
+
+400,000  
+  
+8\. Securities Laws Compliance Procedures. Optionee represents and acknowledges that (i) he or she knows, or has had the opportunity to acquire, all information concerning the business, affairs, financial condition and prospects of the Company which he or she deems relevant to making a fully informed decision regarding the consummation of the transactions contemplated hereby and (ii) he or she has been supplied with copies of the Company's latest annual report on Form 10-K, the Company's latest quarterly report on Form 10-Q, Company's latest proxy statement, and Company's latest annual report to shareholders. Without intending any limitation on the generality of the foregoing, Optionee understands and acknowledges that neither the Company nor anyone acting on its behalf has made any representations or warranties other than those contained herein respecting the Company or the future conduct of Company's business, and Optionee has not relied upon any representations or warranties other than those contained herein in the belief that they were made on behalf of the Company. Optionee further understands and acknowledges that, if Optionee is an Employee (as defined in the Plan) of the Company, the Fair Market Value of the Shares, and thus the value of the Option will depend, in part on the personal efforts and skills of Optionee in working for the Company.
+
+(3)
+
+* * *
+
+9\. Transfers. The Option is not assignable or otherwise transferable by the Optionee except by will, by the laws of descent and distribution or pursuant to a qualified domestic relations order. During the life of the Optionee, an Option shall be exercisable only by the Optionee.
+
+Any attempt at assignment, transfer, pledge or disposition of the Option contrary to the provisions hereof or the levy of any execution, attachment or similar process upon the Option shall be null and void and without force or effect. Any exercise of the Option by a person other than Optionee shall be accompanied by appropriate proofs, satisfactory in form and substance to the Company, of the right of each person to exercise the Option. 
+
+10\. Closing.
+
+(a) The Closing shall be held at a date and time to be selected by Optionee in the Notice of Election; provided, however, that the date specified in the Notice of Election shall not be more than forty-five (45) days after the sending of such Notice of Election.
+
+(b) Closing shall be held at the chief executive offices of the Company, or such other place as shall be agreed upon by the parties.
+
+(c) At Closing, the Company shall deliver or cause to be delivered to Optionee certificates for all of the Option Shares to be purchased by Optionee pursuant to the Notice of Election issued to and registered in the name of Optionee, and with all required transfer tax stamps, if any, affixed.
+
+(d) At Closing Optionee shall pay to Company the full Option Price required to be paid for all of the Option Shares to be purchased by Optionee pursuant to the Notice of Election.
+
+(e) At Closing, at the request of the Company, Optionee shall deliver to the Company a certificate signed by Optionee certifying to the truth and correctness as of the date of Closing of each of the representations, warranties, acknowledgments, agreements, and confirmations set forth in Paragraph 8 of this Agreement.
+
+(4)
+
+* * *
+
+11\. No Rights As Shareholder Pending Exercise. Optionee shall not have any rights as a shareholder of the Company as a result of the existence of the Option until and unless he or she shall acquire some or all of the Option Shares. Without intending any limitation on the generality of the foregoing, Optionee shall not be entitled to vote on any matter presented to the Shareholders of the Company nor to receive any dividends or other distributions made or declared by the Company, the record date or ex-dividend date of which, respectively, precedes the date on which some or all of the Option Shares are acquired pursuant hereto.
+
+12\. Miscellaneous. 
+
+(a) Indulgences, Etc. Neither the failure nor any delay on the part of either party to exercise any right, remedy, power or privilege under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of any right, remedy, power or privilege preclude any other or further exercise of the same or of any other right, remedy, power or privilege, nor shall any waiver of any right, remedy, power or privilege with respect to any occurrence be construed as a waiver of such right, remedy, power or privilege with respect to any other occurrence. No waiver shall be effective unless it is in writing and is signed by the party asserted to have granted such waiver. 
+
+(b) Controlling Law. This Agreement and all questions relating to its validity, interpretation, performance and enforcement (including, without limitation, provisions concerning limitations of actions), shall be governed by and construed in accordance with the laws of the State of Delaware, notwithstanding any conflict-of-laws doctrines of such jurisdiction to the contrary, and without the aid of any canon, custom or rule of law requiring construction against the draftsman.
+
+(c) Notices. All notices, requests, demands and other communications required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given, made and received when personally delivered or when deposited in the United States mails, registered or certified mail, postage prepaid, return receipt requested, addressed as set forth below:
+
+(i) If to Optionee:
+
+David M. Bovi
+
+319 Clematis Street, Suite 700
+
+West Palm Beach, Florida 33401
+
+  
+
+
+(5)
+
+* * *
+
+(ii) If to Company:
+
+Universal Capital Management, Inc.
+
+2601 Annand Drive
+
+Suite 16
+
+Wilmington, DE 19808
+
+  
+
+
+In addition, notice by mail shall be by air mail if posted outside of the continental United States. Either party may alter the address to which communications or copies are to be sent by giving notice of such change of address in conformity with the provisions of this subparagraph (c) for the giving of notice.
+
+(d) Binding Nature of Agreement; No Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors and assigns, except that neither party may assign or transfer its rights nor delegate its obligations under this Agreement without the prior written consent of the other party hereto.
+
+(e) Provisions Separable. The provisions of this Agreement are independent of and separable from each other, and no provision shall be affected or rendered invalid or unenforceable by virtue of the fact that for any reason any other or others of them may be invalid or unenforceable in whole or in part.
+
+(f) Entire Agreement. This Agreement contains the entire understanding between the parties hereto with respect to the subject matter hereof, and supersedes all prior and contemporaneous agreements and understandings, inducements or conditions, express or implied, oral or written, except as herein contained. The express terms hereof control and supersede any course of performance and/or usage of the trade inconsistent with any of the terms hereof. This Agreement may not be modified or amended other than by an agreement in writing.
+
+(g) Paragraph Headings. The Paragraph and subparagraph headings in this Agreement have been inserted for convenience of reference only; they form no part of this Agreement and shall not affect its interpretation.
+
+(h) Gender, Etc. Words used herein, regardless of the number and gender specifically used, shall be deemed and construed to include any other number, singular or plural, and any other gender, masculine, feminine or neuter, as the context indicates is appropriate.
+
+(i) Number of Days. In computing the number of days for purposes of this Agreement, all days shall be counted, including Saturdays, Sundays and Holidays; provided, however, that if the final day of any time period falls on a Saturday, Sunday or Holiday, then the final day shall be deemed to be the next day which is not a Saturday, Sunday or Holiday. For purposes of this subparagraph (i), the term "Holiday" shall mean a day, other than a Saturday or Sunday, on which national banks with branches in the State of Delaware are or may elect to be closed.
+
+(6)
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date first above written.  
+  
+ATTEST: UNIVERSAL CAPITAL MANAGEMENT, INC.  
+  
+  
+  
+  
+William R. Colucci  By:  /s/ Michael D. Queen   
+  
+* * *
+
+Secretary
+
+* * *
+
+Michael D. Queen, President  
+[Corporate Seal]  
+WITNESS:  
+  
+  
+  
+  
+By:  /s/ David M. Bovi  
+  
+* * *
+
+* * *
+
+David M. Bovi  
+  
+* * *
+
+  
+  
+
+
+NOTICE OF ELECTION
+
+The undersigned and Universal Capital Management, Inc. (the "Company") are parties to that certain Stock Option Agreement dated May 18, 2006. Pursuant to the terms thereof, the undersigned hereby exercises his/her option to purchase ____________ shares of the common stock, (the "Shares") par value $0.001 per Share of the "Company". Closing hereunder shall be held at the chief executive offices of the Company at _____ _.m., on ____________________ ___, ________.
+
+Please register the Shares in the name of the undersigned and use the address set forth herein as the registered address of the undersigned.
+
+[Cross out this paragraph if not applicable.] I understand that the Shares have not been registered under the Securities Act of 1933, as amended (the "Act") or under any state securities law, and the Company is under no obligation to do so. I understand that the Shares may not be resold or otherwise transferred in the absence of such applicable registrations or exemptions from the registration requirements. I understand that I may have to hold the Shares for the indefinite future. I understand that the Shares are "restricted securities" within the meaning of Rule 144 promulgated under the Act and the Company has no obligation to make any information available or to file any reports to permit sales to be made under such rule. The undersigned understands that the Share certificate shall bear a restrictive legend with respect to the transferability of the Shares.
+
+The undersigned represents and warrants to the Company that he or she (a) has been advised and understands that the Shares may not be transferred without compliance with all applicable Federal and state securities laws; and (b) has had all material information about the Company's business and financial condition made available to him prior to exercise of the Option, and that he or she was afforded the opportunity to ask questions of and receive answers from the officers and directors of the Company with respect to the Company's business affairs and prospects.
+
+The undersigned represents and warrants that he is acquiring the Shares for his or her own account as principal for investment and not with a view to resale or distribution, and that he has such knowledge and experience in financial and business matters as will enable him or her to evaluate the merits and risks of the proposed investment in the Shares.  
+  
+Name: David M. Bovi  
+  
+Address: 319 Clematis Street, Suite 700
+
+West Palm Beach, Florida 33401  
+  
+* * *

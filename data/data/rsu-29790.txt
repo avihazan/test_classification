@@ -1,0 +1,254 @@
+  
+
+
+  
+
+
+EXHIBIT 10.3
+
+
+
+under the
+
+UNUM GROUP 
+
+STOCK INCENTIVE PLAN OF 2012
+
+  
+  
+  
+Optionee:
+
+[Participant Name]  
+  
+Number of Shares Subject to Option:
+
+[Shares Granted]  
+  
+Exercise Price per Share:
+
+[Grant Price]  
+  
+Date of Grant:
+
+[Grant Date]  
+  
+1.Grant of Option. Unum Group (the “Company”) hereby grants to the Optionee named above (the “Optionee”), under the Unum Group Stock Incentive Plan of 2012 (the “Plan”), a Nonqualified Stock Option to purchase, on the terms and conditions set forth in the Plan and in this agreement (this “Option Agreement”), the number of Shares indicated above at the exercise price per Share set forth above (the “Option”). Capitalized terms used herein and not otherwise defined shall have the meanings assigned such terms in the Plan.
+
+2.Vesting of Option. Unless the exercisability of the Option is accelerated in accordance with the Plan or as otherwise set forth herein, the Option shall, subject to the Optionee's continued employment with the Company, become exercisable (“vest”) as follows:  
+  
+Percentage of Shares
+
+Vesting Schedule  
+  
+33%
+
+First Anniversary of Date of Grant  
+  
+33%
+
+Second Anniversary of Date of Grant  
+  
+34%
+
+Third Anniversary of Date of Grant  
+  
+Notwithstanding the foregoing, the Option shall vest immediately as of (i) the Optionee's Termination of Employment by reason of the Optionee's death, (ii) the Optionee's Termination of Employment by reason of the Optionee's Disability, (iii) the Optionee's Termination of Employment by reason of a Qualified Retirement (as defined in Section 3 below), (iv) the Optionee's Termination of Employment pursuant to which the Committee elects (pursuant to Section 3 below) to extend the period of exercise, or (v) a Change in Control; provided that if a Replacement Award is granted in respect of the Option in connection with such Change in Control, (A) the Option shall not vest as of such Change in Control and shall instead vest immediately upon a Termination of Employment of the Optionee occurring upon or during the two years immediately following the date of such Change in Control by reason of death, Disability or Qualified Retirement, by the Company without Cause, or by the Optionee for Good Reason, and (B) notwithstanding any provision of Section 3 below to the contrary, upon a Termination of Employment of the Optionee described in clause (A), the Option may be exercised after such Termination of Employment until the later of (1) the last date on which such Option would be forfeited in connection with the applicable Termination of Employment pursuant to the terms and conditions of Section 3 below (it being understood that in no event shall the period during which the Option may be exercised be extended beyond the Expiration Date (as defined below)) and (2) the earlier of (x) the third anniversary of such Change in Control and (y) the Expiration Date.
+
+3.Period of Option and Limitations on Right to Exercise. The Option, to the extent not previously exercised, and whether vested or unvested, will lapse and be forfeited upon the earliest to occur of the following:
+
+(a)As of 4:00 p.m., Eastern Time, on the eighth anniversary of the Date of Grant (the “Expiration Date”);
+
+  
+
+
+(b)Except as specifically provided otherwise in this Section 3, if (i) the Optionee's employment is voluntarily terminated by the Optionee or is involuntarily terminated by the Company without Cause and (ii) the Option was exercisable immediately before the date of such Termination of Employment, 90 days after the effective date of such Termination of Employment;
+
+  
+
+
+(c)Except as specifically provided otherwise in this Section 3, if the Optionee's employment is voluntarily terminated by the Optionee and the Option was not exercisable immediately before the date of such voluntary Termination of Employment, on the effective date of such voluntary Termination of Employment;
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(d)Except as specifically provided otherwise in this Section 3, if the Optionee's employment is involuntarily terminated by the Company for Cause, on the effective date of such involuntary Termination of Employment;
+
+  
+
+
+(e)Except as specifically provided otherwise in this Section 3, if the Optionee's employment is involuntarily terminated by the Company and the Option was not exercisable immediately before the date of such involuntary Termination of Employment, on the effective date of such involuntary Termination of Employment; provided that the Committee may extend the period for exercise of the Option for a period of 60 days if the following conditions are met: (i) there are no performance issues, (ii) the termination was not for Cause or Willful Misconduct (as defined below), and (iii) the Chair of the Committee, after consultation with management, finds that the circumstances of the Termination of Employment would constitute a hardship if there were no extension and recommends such extension, except that if the Optionee is an executive officer for purposes of Section 16 of the Securities Exchange Act of 1934, no recommendation shall be required and the decision to extend or not to extend the exercise period for such executive officer shall be made directly by the Committee. If the Optionee is not an executive officer, then prior to such Termination of Employment, the Chair shall review the Termination of Employment for hardship. If the Optionee is an executive officer or if the Optionee is not an executive officer and prior to such Termination of Employment the Chair finds hardship and makes the recommendation to extend, the Committee shall take action as to whether to extend the period for exercise of the Option. The Option shall not become vested during the period between such Termination of Employment and any action taken by the Committee solely as the result of the tolling of any lapse or forfeiture provisions that would otherwise have been applicable, but it may vest if the vesting date or other circumstance accelerating vesting occurs subsequent to such Termination of Employment but prior to the action by the Committee. If the Committee approves the extension, the Optionee shall have 60 days after the date of such approval to exercise the Option. If the Committee does not approve the extension, the Option lapses and is forfeited at 4:00 p.m., Eastern Time, on the fifth business day after the Committee's non-approval. If the Chair, after consultation with management, determines not to make a positive recommendation prior to the date of the Termination of Employment, the Option lapses and is forfeited on such date;
+
+  
+
+
+(f)If the Optionee's employment is involuntarily terminated by the Company for Willful Misconduct or if the Company determines subsequent to the Optionee's Termination of Employment for any reason that the Optionee engaged in Willful Misconduct during the Examination Period (as defined below), as of the date of discovery of the Willful Misconduct unless the Committee determines otherwise. If any portion of the Option has been exercised after the time such Willful Misconduct first occurred, as determined by the Company in its sole and absolute discretion (which time shall not be earlier than the beginning of the Examination Period), the Optionee shall immediately return to the Company an amount equal to the difference between the exercise price and the Fair Market Value (at the time of exercise of the portion of the Option) of Shares received in respect of such exercised portion of the Option;
+
+  
+
+
+(g)If the Optionee's employment terminates by reason of death or Disability, three years after the date of death or Termination of Employment due to Disability, as applicable; and
+
+  
+
+
+(h)If the Optionee's employment terminates by reason of a Qualified Retirement, five years after the effective date of the Qualified Retirement. For purposes of this Agreement, “Qualified Retirement” shall mean (i) retirement at age 65 or older without regard to years of service, (ii) early retirement at ages from 55 to and including 64 for persons having at least 15 years of continuous service with the Company, or (iii) with the approval of the Committee, early retirement at ages from 55 to and including 64 for a person having fewer than 15 years of continuous service with the Company. 
+
+  
+
+
+Subject to such requirements as may exist in this Section 3, the Committee may provide in writing that the period during which the Option must be exercised will be extended; provided, however, that in no event shall the period during which the Option must be exercised be extended beyond the Expiration Date.
+
+  
+
+
+For purposes of this Agreement, “Willful Misconduct” shall include without limitation (i) cause for which termination is required or permitted under Company policies or applicable law, (ii) violation of the terms and conditions of any noncompetition, employment, non-solicitation, confidentiality or similar and related agreements entered into by the Optionee with the Company, (iii) engaging purposefully, knowingly or recklessly in misconduct that is injurious to the Company, monetarily or otherwise, (iv) unauthorized disclosure of any confidential, proprietary or trade secret information or materials of the Company, or (v) the material violation of any Company policy or policies. The Company may examine the Optionee's conduct in the one-year period prior to the Optionee's Termination of Employment and in the two-year period after such Termination of Employment to determine whether there has been Willful Misconduct (the “Examination Period”). Discovery of such Willful Misconduct is permitted for three years after Termination of Employment.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+4.Exercise of Option. The Option shall be exercised in accordance with directions to be provided by the Human Resources Department at the principal executive offices of the Company. Unless the exercise is a broker-assisted “cashless exercise” or a “net exercise” as described below, full payment in cash, Shares previously acquired by the Optionee, or any combination thereof, for the number of Shares being purchased, must be forwarded as directed; provided, however, that if Shares are used to pay the exercise price, such Shares must have been held by the Optionee for at least six months. The Fair Market Value of the surrendered Shares as of the 4:00 p.m. closing price on the New York Stock Exchange last trading day immediately prior to the exercise date shall be used in valuing Shares used in payment of the exercise price. When Shares are delivered, such delivery may be by attestation of ownership or actual delivery of one or more certificates. If delivery is made by attestation of ownership, Shares attested to must be immediately and freely tradable. To the extent permitted under Regulation T of the Federal Reserve Board, and subject to applicable securities laws, the Option may be exercised through a broker in a so-called “cashless exercise” whereby the broker sells Shares subject to the Option and delivers cash sales proceeds to the Company in payment of the exercise price and applicable tax withholding. In such case, the date of exercise shall be deemed to be the transaction date and the exercise price and applicable tax withholding shall be delivered in accordance with the Company's directions on the settlement date. Payment of the Option's exercise price may, to the extent permitted by the directions to be provided by the Human Resources Department at the principal executive offices of the Company, also be made through a “net exercise” pursuant to which the Company withholds a number of Shares having a Fair Market Value (based on the Fair Market Value of Shares on the date the Option is exercised) equal to the product of (A) the exercise price multiplied by (B) the number of Shares in respect of which the Option shall been exercised.
+
+Subject to the terms of this Option Agreement, the Option may be exercised at any time and without regard to any other option held by the Optionee to purchase Shares.
+
+5.Limitation of Rights. The Option does not confer to the Optionee or the Optionee's personal representative any rights of a shareholder of the Company unless and until Shares are in fact issued to such person in connection with the exercise of the Option. Nothing in this Option Agreement shall interfere with or limit in any way the right of the Company or any Subsidiary to terminate the Optionee's employment at any time, nor confer upon the Optionee any right to continue in the employ of the Company or any Subsidiary.
+
+6.Payment of Taxes and Withholding. No later than the date as of which an amount first becomes includible in the gross income of the Optionee for federal, state, local or foreign income, employment or other tax purposes with respect to any portion of the Option, the Optionee shall pay to the Company, or make arrangements satisfactory to the Company (including, if applicable, pursuant to Section 4 above) regarding the payment of, all federal, state, local and foreign taxes that are required by applicable laws and regulations to be withheld with respect to such portion of the Option. The obligations of the Company under this Option Agreement shall be conditioned on compliance by the Optionee with this Section 6, and the Company shall, to the extent permitted by law, have the right to deduct any such taxes from any payment otherwise due to the Optionee, including deducting such amount from the delivery of Shares upon exercise of the Option that gives rise to the withholding requirement.
+
+7.Share Reserve. The Company shall at all times during the term of this Option Agreement reserve and keep available such number of Shares as will be sufficient to satisfy the requirements of this Option Agreement.
+
+8.Optionee's Covenant. The Optionee hereby agrees to use his best efforts to provide services to the Company in a workmanlike manner and to promote the Company's interests.
+
+9.Restrictions on Transfer and Pledge. The Option may not be pledged, encumbered or hypothecated to or in favor of any party other than the Company or an Affiliate or Subsidiary, or be subject to any lien, obligation or liability of the Optionee to any other party other than the Company or an Affiliate or Subsidiary. The Option is not assignable or transferable by the Optionee other than by will or the laws of descent and distribution or pursuant to a domestic relations order that would satisfy Section 414(p)(1)(A) of the Code; provided, however, that the Committee may (but need not) permit other transfers where the Committee concludes that such transfers (i) do not result in accelerated taxation and (ii) are otherwise appropriate and desirable, taking into account any factors deemed relevant, including without limitation, state or federal tax or securities laws applicable to transferable options. The Option may be exercised during the lifetime of the Optionee only by the Optionee or any permitted transferee.
+
+10.Restrictions on Issuance of Shares; Other Restrictions. If at any time the Committee shall determine in its discretion, that listing, registration or qualification of Shares covered by the Option upon any securities exchange or under any state or federal law, or the consent or approval of any governmental or regulatory body, is necessary or desirable as a condition to the exercise of the Option, the Option may not be exercised in whole or in part unless and until such listing, registration, qualification, consent or approval shall have been effected or obtained free of any conditions not acceptable to the Committee. If the Optionee is an insider as described under the Company's Insider Trading Policy (as in effect from time to time and any successor policies), the Optionee shall be required to obtain preclearance from the General Counsel or Securities Counsel of the Company 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+prior to purchasing or selling any of the Company's securities, including any Shares issued upon exercise of the Option, and may be prohibited from selling such securities other than during an open trading window. The Optionee further acknowledges that the Company may, in its discretion, prohibit the Optionee from selling such securities even during an open trading window if the Company has concerns over the potential for insider trading.
+
+11.Conflicts and Interpretation. In the event of any conflict between this Option Agreement and the Plan, the Plan shall control. In the event of any ambiguity in this Option Agreement, or any matters as to which this Option Agreement is silent, the Plan shall govern including, without limitation, the provisions thereof pursuant to which the Committee has the power, among others, to (a) interpret the Plan, (b) prescribe, amend and rescind rules and regulations relating to the Plan, and (c) make all other determinations deemed necessary or advisable for the administration of the Plan. The Optionee hereby acknowledges that a copy of the Plan has been made available to him or her and agrees to be bound by all the terms and provisions thereof. The Optionee and the Company each acknowledge that this Option Agreement (together with the Plan) constitutes the entire agreement and supersedes all other agreements and understandings, both written and oral, between the parties or either of them, with respect to the subject matter hereof.
+
+12.Amendment. The Company may modify, amend or waive the terms of the Option, prospectively or retrospectively, but no such modification, amendment or waiver shall materially impair the rights of the Optionee without his or her consent, except as required by applicable law, stock exchange rules, tax rules or accounting rules. The waiver by either party of compliance with any provision of this Option Agreement shall not operate or be construed as a waiver of any other provision of this Option Agreement, or of any subsequent breach by such party of a provision of this Option Agreement.
+
+13.Law Applicable to Construction. The interpretation, performance and enforcement of this Option Agreement shall be governed by the laws of the State of Delaware without reference to principles of conflict of laws, as applied to contracts executed in and performed wholly within the State of Delaware. In addition to the terms and conditions set forth in this Option Agreement, the Option is subject to the terms and conditions of the Plan, which is hereby incorporated by reference.
+
+14.Successors. This Option Agreement shall be binding upon any successor of the Company, in accordance with the terms of this Option Agreement and the Plan.
+
+15.Severability. The invalidity or enforceability of any provision of this Option Agreement shall not affect the validity or enforceability of any other provision of this Option Agreement.
+
+16.Notice. Notices and communications under this Option Agreement must be in writing and either personally delivered or sent by registered or certified United States mail, return receipt requested, postage prepaid. Notices to the Company must be addressed to:
+
+Unum Group
+
+1 Fountain Square
+
+Chattanooga, Tennessee 37402
+
+Attn: Executive Compensation, Human Resources
+
+  
+
+
+or any other address designated by the Company in a written notice to the Optionee. Notices to the Optionee will be directed to the address of the Optionee then currently on file with the Company, or at any other address given by the Optionee in a written notice to the Company.
+
+17.Section 409A. It is the intention that the Option does not constitute “deferred compensation” within the meaning of Section 409A of the Code. If the Company determines after the Date of Grant that an amendment to this Agreement is necessary to ensure the foregoing, it may make such amendment, notwithstanding any other provision of this Agreement or the Plan to the contrary, effective as of the Date of Grant or any later date, without the consent of the Optionee.
+
+18.Headings; Counterparts. The headings of Sections herein are included solely for convenience of reference and shall not affect the meaning or interpretation of any of the provisions of this Option Agreement. This Agreement may be executed in counterparts, which together shall constitute one and the same original.
+
+19.Waiver and Release. In consideration for the Option, the Optionee hereby waives any and all claims whether known or unknown that the Optionee may have against the Company and its Subsidiaries and Affiliates and their respective directors, officers, shareholders, agents or employees arising out of, in connection with or related to the Optionee's employment, except for (1) claims under this Agreement, (2) claims that arise after the date hereof and obligations that by their terms are to be performed after the date hereof, (3) claims for compensation or benefits under any compensation or benefit plan or arrangement of the Company and its Subsidiaries and Affiliates, (4) claims for indemnification respecting acts or omissions in connection with the Optionee's service as a director, officer or employee of the Company or any of its Subsidiaries and Affiliates, (5) claims for 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+insurance coverage under directors' and officers' liability insurance policies maintained by the Company or any of its Subsidiaries or Affiliates, or (6) any right the Optionee may have to obtain contribution in the event of the entry of judgment against the Company as a result of any act or failure to act for which both the Optionee and the Company or any of its Subsidiaries or Affiliates are jointly responsible. The Optionee waives any and all rights under the laws of any state (expressly including but not limited to Section 1542 of the California Civil Code), which is substantially similar in wording or effect as follows:
+
+  
+
+
+A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the Release, which if known by him must have materially affected his settlement with the debtor.
+
+This waiver specifically includes all claims under the Age Discrimination in Employment Act of 1967, as amended. The Optionee acknowledges that the Optionee (a) has been advised to consult an attorney in connection with entering into this Option Agreement; (b) has 21 days to consider this waiver and release; and (c) may revoke this waiver and release within seven-days of execution upon written notice to Attn: Corporate Secretary, Law Department, Unum Group, 1 Fountain Square, Chattanooga, Tennessee 37402. The waiver and release will not become enforceable until the expiration of the seven-day period. If the waiver and release is revoked during such seven-day period, the grant shall be void and of no further effect.
+
+  
+
+
+IN WITNESS WHEREOF, the Company, acting by and through its duly authorized officers, has caused this Option Agreement to be executed, and the Optionee has executed this Option Agreement, all as of the day and year written below.  
+  
+Date:
+
+[Acceptance Date]
+
+OPTIONEE:  [Optionee Name]  
+  
+[Optionee Signature]  
+  
+UNUM GROUP  
+  
+By:  
+  
+[Authorized Signature]  
+  
+[Name]  
+  
+[Title]  
+  
+  
+
+
+  
+
+
+  
+

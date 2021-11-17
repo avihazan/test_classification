@@ -1,0 +1,355 @@
+Exhibit 10.5
+
+  
+
+
+BITCOIN SHOP, INC.
+
+f/k/a TOUCHIT TECHNOLOGIES, INC.
+
+2014 EQUITY INCENTIVE PLAN
+
+  
+
+
+
+
+  
+
+
+This NONQUALIFIED STOCK OPTION AGREEMENT (the “Option Agreement”), dated as of the 7 day of November 2014 and effective as of November 7, 2014 (the “Grant Date”), is between Bitcoin Shop, Inc. f/k/a Touchit Technologies, Inc., a Nevada corporation (the “Company”), and Charles W. Allen (the “Optionee”), a director, officer or employees of, or consultant or advisor to, the Company or a Subsidiary of the Company (a “Related Corporation”), pursuant to the Bitcoin Shop, Inc. f/k/a Touchit Technologies, Inc. 2014 Equity Incentive Plan (the “Plan”).
+
+  
+
+
+WHEREAS, the Company desires to give the Optionee the opportunity to purchase shares of common stock of the Company, par value $0.001 (“Common Shares”) in accordance with the provisions of the Plan, a copy of which is attached hereto;
+
+  
+
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the parties hereto, intending to be legally bound hereby, agree as follows:
+
+  
+
+
+1\. Grant of Option. The Company hereby grants to the Optionee the right and option (the “Option”) to purchase all or any part of an aggregate of nine million five hundred thousand (9,500,000) Common Shares. The Option is in all respects limited and conditioned as hereinafter provided, and is subject in all respects to the terms and conditions of the Plan now in effect and as it may be amended from time to time (but only to the extent that such amendments apply to outstanding options). Such terms and conditions are incorporated herein by reference, made a part hereof, and shall control in the event of any conflict with any other terms of this Option Agreement. The Option granted hereunder is intended to be a nonqualified stock option (“NQSO”) and not an incentive stock option (“ISO”) as such term is defined in section 422 of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+  
+
+
+2\. Exercise Price. The exercise price of the Common Shares covered by this Option shall be $0.10 per share. It is the determination of the committee administering the Plan (the “Committee”) that on the Grant Date the exercise price was not less than the greater of (i) 100% of the “Fair Market Value” (as defined in the Plan) of a Common Share, or (ii) the par value of a Common Share.
+
+  
+
+
+3\. Term. Unless earlier terminated pursuant to any provision of the Plan or of this Option Agreement, this Option shall expire on December 31, 2022 (the “Expiration Date”), which date is not more than 10 years from the Grant Date. This Option shall not be exercisable on or after the Expiration Date.
+
+  
+
+
+4\. Exercise of Option. The Option shall vest based on the following financial performance thresholds for the fiscal year ending 2015 (“2015”) and the fiscal year ending 2016 (“2016”) and the exchange listing criteria, provided that Optionee remains continuously engaged as a director, officer or employee of, or consultant or advisor to, the Company from the date hereof through the applicable vesting date.:
+
+(a) 3,500,000 shall vest if both (i) EBITDA, as reported by the Company in its Annual Report on Form 10-K for 2015 (the “2015 Financial Statements”) equals or exceeds $500 thousand, and (ii) 2015 EBITDA Per Share equals or exceeds $0.003 per share on a diluted basis and adjusted for any stock split, dividend, redemptions or similar recapitalization. “2015 EBITDA Per Share” is to be calculated by dividing (A) the EBITDA, as derived from the 2015 Financial Statements (the “2015 EBITDA”) by (B) the aggregate number of shares of the then outstanding Common Stock, which number shall include, (x) the number of shares of Common Stock issuable upon conversion of the Company’s then outstanding shares of Series C Preferred, and (y) the number of shares of Common Stock issuable upon the exercise of any then outstanding preferred stock, of the Company;  
+
+
+  
+
+
+-1-
+
+* * *
+
+(b) 5,000,000 shall vest if both (i) EBITDA, as reported by the Company in its Annual Report on Form 10-Kfor 2016 (the “2016 Financial Statements”) equals or exceeds $3 million, and (ii) 2016 EBITDA Per Share equals or exceeds $0.014 per share on a diluted basis and adjusted for any stock split, dividend, redemptions or similar recapitalization. “2016 EBITDA Per Share” is to be calculated by dividing (A) the EBITDA, as derived from the 2016 Financial Statements (the “2016 EBITDA”) by (B) the aggregate number of shares of the then outstanding Common Stock, which number shall include, (x) the number of shares of Common Stock issuable upon conversion of the Company’s then outstanding shares of Series C Preferred, and (y) the number of shares of Common Stock issuable upon the exercise of any then outstanding preferred stock, of the Company;
+
+  
+
+
+(c) For the purposes hereof, “EBITDA” shall be as defined as net income in accordance with US GAAP less tax, interest, depreciation, and amoritization, provided, however, that EBITDA for each of 2015 and 2016 shall be increased by any non-cash charges incurred (i) as a result of the any financings, including without limitation, as a result of the issuance of any warrants and upon conversion of any preferred, stock (ii) as a result of the issuance of warrants to any consultant or advisor to the Company as of the date hereof, (iii) as a result of any voluntary equity redemptions from management at cost or for nominal value or otherwise, and (iv) as a result of this Option Agreement of other management option agreements.
+
+  
+
+
+(d) 1,000,000 shall vest upon the listing of the Company’s common stock on either the Nasdaq Capital Market, the Nasdaq Global Market or Nasdaq Global Select, or any successor market thereto, the NYSE, or any successor market thereto, or NYSE MKT, or any successor market thereto, NYSE Arca, or any successor market thereto (collectively, a “National Stock Exchange”). Provided however that such listing on a National Stock Exchange occurs prior to or on December 31, 2016.
+
+  
+
+
+Once the Option becomes exercisable, it will remain exercisable until it is exercised or until it terminates.
+
+  
+
+
+5\. Method of Exercising Option. Subject to the terms and conditions of this Option Agreement and the Plan, the Option may be exercised by written notice to the Company at its principal office. The form of such notice is attached hereto and shall state the election to exercise the Option and the number of whole shares with respect to which it is being exercised; shall be signed by the person or persons so exercising the Option; and shall be accompanied by payment of the full exercise price of such shares. Only full shares will be issued.
+
+  
+
+
+The exercise price shall be paid to the Company:
+
+  
+
+
+(a) in cash, or by certified check, bank draft, or postal or express money order;
+
+  
+
+
+(b) through the delivery of Common Shares previously acquired by the Optionee;
+
+  
+
+
+(c) by delivering a properly executed notice of exercise of the Option to the Company and a broker, with irrevocable instructions to the broker promptly to deliver to the Company the amount necessary to pay the exercise price of the Option;
+
+  
+
+
+(d) in Common Shares newly acquired by the Optionee upon exercise of the Option; or
+
+  
+
+
+(e) in any combination of (a), (b), (c) or (d) above.
+
+  
+
+
+In the event the exercise price is paid, in whole or in part, with Common Shares, the portion of the exercise price so paid shall be equal to the Fair Market Value of the Common Shares surrendered on the date of exercise.
+
+  
+
+
+Upon receipt of notice of exercise and payment, the Company shall deliver a certificate or certificates representing the Common Shares with respect to which the Option is so exercised. The Optionee shall obtain the rights of a shareholder upon receipt of a certificate(s) representing such Common Shares.  
+
+
+  
+
+
+-2-
+
+* * *
+
+Such certificate(s) shall be registered in the name of the person so exercising the Option (or, if the Option is exercised by the Optionee and if the Optionee so requests in the notice exercising the Option, shall be registered in the name of the Optionee and the Optionee’s spouse, jointly, with right of survivorship), and shall be delivered as provided above to, or upon the written order of, the person exercising the Option. In the event the Option is exercised by any person after the death or disability (as determined in accordance with Section 22(e)(3) of the Code) of the Optionee, the notice shall be accompanied by appropriate proof of the right of such person to exercise the Option. All Common Shares that are purchased upon exercise of the Option as provided herein shall be fully paid and non-assessable.
+
+  
+
+
+Upon exercise of the Option, Optionee shall be responsible for all employment and income taxes then or thereafter due (whether Federal, State or local), and if the Optionee does not remit to the Company sufficient cash (or, with the consent of the Committee, Common Shares) to satisfy all applicable withholding requirements, the Company shall be entitled to satisfy any withholding requirements for any such tax by disposing of Common Shares at exercise, withholding cash from Optionee’s salary or other compensation or such other means as the Committee considers appropriate to the fullest extent permitted by applicable law. Nothing in the preceding sentence shall impair or limit the Company’s rights with respect to satisfying withholding obligations under Section 8.5 of the Plan.
+
+  
+
+
+6\. Non-Transferability of Option. This Option is not assignable or transferable, in whole or in part, by the Optionee other than by will or by the laws of descent and distribution. During the lifetime of the Optionee, the Option shall be exercisable only by the Optionee or, in the event of his or her disability, by his or her guardian or legal representative.
+
+  
+
+
+7\. Change in Control. (a) For purposes of this Option Agreement, unless otherwise defined in an agreement between the Company and the Optionee, a Change in Control shall be deemed to have occurred if:
+
+  
+
+
+(i) a tender offer (or series of related offers) shall be made and consummated for the ownership of 50% or more of the outstanding voting securities of the Company, unless as a result of such tender offer more than 50% of the outstanding voting securities of the surviving or resulting corporation shall be owned in the aggregate by the stockholders of the Company (as of the time immediately prior to the commencement of such offer), any employee benefit plan of the Company or its subsidiaries, and their affiliates;
+
+(ii) the Company shall be merged or consolidated with another corporation, unless as a result of such merger or consolidation more than 50% of the outstanding voting securities of the surviving or resulting corporation shall be owned in the aggregate by the stockholders of the Company (as of the time immediately prior to such transaction), any employee benefit plan of the Company or its subsidiaries, and their affiliates;
+
+(iii) the Company shall sell substantially all of its assets to another corporation that is not wholly owned by the Company, unless as a result of such sale more than 50% of such assets shall be owned in the aggregate by the stockholders of the Company (as of the time immediately prior to such transaction), any employee benefit plan of the Company or its subsidiaries and their affiliates; or
+
+(iv) a person (as defined below) shall acquire 50% or more of the outstanding voting securities of the Company (whether directly, indirectly, beneficially or of record), unless as a result of such acquisition more than 50% of the outstanding voting securities of the surviving or resulting corporation shall be owned in the aggregate by the stockholders of the Company (as of the time immediately prior to the first acquisition of such securities by such person), any employee benefit plan of the Company or its subsidiaries, and their affiliates.
+
+  
+
+
+(b) If, at any time, the Company shall effect a Change in Control transaction, then, on the date of the occurrence of such Change in Control transaction, the Option shall immediately vest.
+
+  
+
+
+(c) Notwithstanding the foregoing, if Change in Control is defined in an agreement between the Company and the Optionee, then, with respect to such Optionee and the Option, Change in Control shall have the meaning ascribed to it in such agreement.  
+
+
+  
+
+
+-3-
+
+* * *
+
+8\. Termination of Employment. If the Optionee’s employment with or service to the Company and all Related Corporations is terminated by the Optionee for any reason other than death, Disability, Normal or Early Retirement or Good Reason (as defined below), the Option shall thereupon terminate, except that the portion of any Option that was exercisable on the date of such termination of employment or service may be exercised for the lesser of ninety (90) days after the date of termination or the balance of such Option’s term, which ever period is shorter. The transfer of an Optionee from the employ of or service to the Company to the employ of or service to a Related Corporation, or vice versa, or from one Related Corporation to another, shall not be deemed to constitute a termination of employment or service for purposes of the Option Agreement.
+
+(a) In the event that the Optionee’s employment or service with the Company and all Related Corporations is terminated by the Company or any Related Corporations for “cause” any unexercised portion of any Option shall immediately terminate in its entirety. For purposes hereof, unless otherwise defined in an employment agreement between the Company and the Optionee, “Cause” shall exist upon a good-faith determination by the Board of Directors, following a hearing before the Board of Directors at which the Optionee was represented by counsel and given an opportunity to be heard, that such Optionee has been accused of fraud, dishonesty or act detrimental to the interests of the Company or any Related Corporation of Company or that the Optionee has been accused of or convicted of an act of willful and material embezzlement or fraud against the Company or of a felony under any state or federal statute; provided, however, that it is specifically understood that “Cause” shall not include any act of commission or omission in the good-faith exercise of the Optionee’s business judgment as a director, officer or employee of the Company, as the case may be, or upon the advice of counsel to the Company. Notwithstanding the foregoing, if Cause is defined in an employment agreement between the Company and the Optionee, then, with respect to such Optionee, Cause shall have the meaning ascribed to it in such employment agreement.
+
+(b) In the event that an Optionee is removed as a director, officer or employee by the Company at any time other than for “Cause” or resigns as a director, officer or employee for “Good Reason” the Option granted to such Optionee may be exercised by the Optionee, to the extent the Option was exercisable on the date such Optionee ceases to be a director, officer or employee. Such Option may be exercised at any time within one (1) year after the date the Optionee ceases to be a director, officer or employee, or the date on which the Option otherwise expires by its terms; whichever period is shorter, at which time the Option shall terminate; provided, however, if the Optionee dies before the Options terminate and are no longer exercisable, the terms and provisions of Section 10 shall control. For purposes of this Section 8(b), and unless otherwise defined in an employment agreement between the Company and the relevant Optionee, Good Reason shall exist upon the occurrence of the following:
+
+  
+
+
+(A) the assignment to Optionee of any duties inconsistent with the position in the Company that Optionee held immediately prior to the assignment;
+
+(B) a Change in Control resulting in a significant adverse alteration in the status or conditions of Optionee’s participation with the Company or other nature of Optionee’s responsibilities from those in effect prior to such Change in Control, including any significant alteration in Optionee’s responsibilities immediately prior to such Change in Control; and
+
+  
+
+
+(C) the failure by the Company to continue to provide Optionee with benefits substantially similar to those enjoyed by Optionee prior to such failure.
+
+Notwithstanding the foregoing, if Good Reason is defined in an employment agreement between the Company and the relevant Optionee, then, with respect to such Optionee, Good Reason shall have the meaning ascribed to it in such employment agreement.
+
+  
+
+
+9\. Disability. If the Optionee’s employment with or service to the Company and all Related Corporations terminates by reason of Disability (as defined below), then any Option held by the Optionee may thereafter be exercised, to the extent it was exercisable at the time of termination due to Disability (or on such accelerated basis as the Committee shall determine at or after grant), but may not be exercised after ninety (90) days after the date of such termination of employment or service or the expiration of the stated term of such Option, whichever period is shorter; provided, however, that, if the Optionee dies within such ninety (90) day period, any unexercised Option held by the Optionee shall thereafter be exercisable to the extent to which it was exercisable at the time of death for a period of one (1) year after the date of such death or for the stated term of such Option, whichever period is shorter. “Disability” shall mean an Optionee’s total and permanent disability; provided, that if Disability is defined in an employment agreement between the Company and the Optionee, Disability shall have the meaning ascribed to it in such employment agreement.  
+
+
+  
+
+
+-4-
+
+* * *
+
+10\. Retirement. If the Optionee’s employment with or service to the Company and all Related Corporations terminates by reason of Normal or Early Retirement (as such terms are defined below), the Option held by the Optionee may thereafter be exercised to the extent it was exercisable at the time of such Retirement, but may not be exercised after ninety (90) days after the date of such termination of employment or service or the expiration of the stated term of such Option, whichever date is earlier; provided, however, that, if the Optionee dies within such ninety (90) day period, any unexercised Option held by such Optionee shall thereafter be exercisable, to the extent to which it was exercisable at the time of death, for a period of one (1) year after the date of such death or for the stated term of such Option, whichever period is shorter.
+
+For purposes of this Section 10, “Normal Retirement” shall mean retirement from active employment with the Company or any Subsidiary on or after the normal retirement date specified in the applicable Company or Subsidiary pension plan or if no such pension plan, age 65, and “Early Retirement” shall mean retirement from active employment with the Company or and Related Corporations pursuant to the early retirement provisions of the applicable Company or and all Related Corporations pension plan or if no such pension plan, age 55.
+
+  
+
+
+11\. Death. If the Optionee’s employment with or service to the Company and all Related Corporations terminates by reason of death, the Option may thereafter be exercised, to the extent then exercisable (or on such accelerated basis as the Committee shall determine at or after grant), by the legal representative of the estate or by the legatee of the Optionee under the will of the Optionee, for a period of one (1) year after the date of such death or until the expiration of the stated term of such Option as provided under the Plan, whichever period is shorter.
+
+  
+
+
+12\. Securities Matters. (a) If, at any time, counsel to the Company shall determine that the listing, registration or qualification of the Common Shares subject to the Option upon any securities exchange or under any state or federal law, or the consent or approval of any governmental or regulatory body, or that the disclosure of non-public information or the satisfaction of any other condition is necessary as a condition of, or in connection with, the issuance or purchase of Common Shares hereunder, such Option may not be exercised, in whole or in part, unless such listing, registration, qualification, consent or approval, or satisfaction of such condition shall have been effected or obtained on conditions acceptable to the Board of Directors. The Company shall be under no obligation to apply for or to obtain such listing, registration or qualification, or to satisfy such condition. The Committee shall inform the Optionee in writing of any decision to defer or prohibit the exercise of an Option. During the period that the effectiveness of the exercise of an Option has been deferred or prohibited, the Optionee may, by written notice, withdraw the Optionee’s decision to exercise and obtain a refund of any amount paid with respect thereto.
+
+  
+
+
+(b) The Company may require: (i) the Optionee (or any other person exercising the Option in the case of the Optionee’s death or Disability) as a condition of exercising the Option, to give written assurances, in substance and form satisfactory to the Company, to the effect that such person is acquiring the Common Shares subject to the Option for his or her own account for investment and not with any present intention of selling or otherwise distributing the same, and to make such other representations or covenants; and (ii) that any certificates for Common Shares delivered in connection with the exercise of the Option bear such legends, in each case as the Company deems necessary or appropriate, in order to comply with federal and applicable state securities laws, to comply with covenants or representations made by the Company in connection with any public offering of its Common Shares or otherwise. The Optionee specifically understands and agrees that the Common Shares, if and when issued upon exercise of the Option, may be “restricted securities,” as that term is defined in Rule 144 under the Securities Act of 1933 and, accordingly, the Optionee may be required to hold the shares indefinitely unless they are registered under such Securities Act of 1933, as amended, or an exemption from such registration is available.
+
+  
+
+
+(c) The Optionee shall have no rights as a shareholder with respect to any Common Shares covered by the Option (including, without limitation, any rights to receive dividends or non-cash distributions with respect to such shares) until the date of issue of a stock certificate to the Optionee for such Common Shares. No adjustment shall be made for dividends or other rights for which the record date is prior to the date such stock certificate is issued.
+
+  
+
+
+13\. Governing Law. This Option Agreement shall be governed by the applicable Code provisions to the maximum extent possible. Otherwise, the laws of the State of Nevada (without reference to the principles of conflict of laws) shall govern the operation of, and the rights of the Optionee under, the Plan and Options granted thereunder.
+
+  
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+-5-
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Nonqualified Stock Option Agreement as of the 7 day of November, 2014.
+
+BITCOIN SHOP, INC.
+
+f/k/a TOUCHIT TECHNOLOGIES, INC.  
+  
+By:  
+  
+Name: Michal Handerhan  
+  
+Title: COO  
+  
+Optionee: Charles W. Allen  
+  
+  
+
+
+-6-
+
+* * *
+
+BITCOIN SHOP, INC.
+
+f/k/a TOUCHIT TECHNOLOGIES, INC.
+
+2014 EQUITY INCENTIVE PLAN
+
+  
+
+
+Notice of Exercise of Nonqualified Stock Option
+
+  
+
+
+I hereby exercise the nonqualified stock option granted to me pursuant to the Nonqualified Stock Option Agreement dated as of ______, 2014, by Bitcoin Shop, Inc. f/k/a Touchit Technologies, Inc. (the “Company”), with respect to the following number of shares of the Company’s common stock (“Shares”), par value $0.001 per Share, covered by said option:
+
+Number of Shares to be purchased:
+
+_______  
+  
+Purchase price per Share:
+
+$_______  
+  
+Total purchase price:
+
+$_______  
+  
+___
+
+A.
+
+Enclosed is cash or my certified check, bank draft, or postal or express money order in the amount of $__________ in full/partial [circle one] payment for such Shares;  
+  
+  
+
+
+and/or
+
+  
+
+
+___
+
+B.
+
+Enclosed is/are _______ Share(s) with a total fair market value of $_______ on the date hereof in full/partial [circle one] payment for such Shares;  
+  
+  
+
+
+and/or
+
+  
+
+
+___
+
+C.
+
+I have provided notice to _________ [ insert name of broker] , a broker, who will render full/partial [circle one] payment for such Shares.  [Optionee should attach to the notice of exercise provided to such broker a copy of this Notice of Exercise and irrevocable instructions to pay to the Company the full exercise price.]  
+  
+  
+
+
+and/or
+
+  
+
+
+___
+
+D.
+
+I elect to satisfy the payment for Shares purchased hereunder by having the Company withhold newly acquired Shares pursuant to the exercise of the Option.  
+  
+  
+
+
+Please have the certificate or certificates representing the purchased Shares registered in the following name or names * :  ; and sent to  .
+
+DATED: ____________ __, 20__  
+  
+Optionee’s Signature  
+  
+* Certificates may be registered in the name of the Optionee alone or in the joint names (with right of survivorship) of the Optionee and his or her spouse.

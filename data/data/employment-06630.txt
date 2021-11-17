@@ -1,0 +1,770 @@
+* * *
+
+  
+
+
+Exhibit 10.2
+
+  
+
+
+
+
+THIS AGREEMENT is made as of the 25 day of March, 2008,
+
+B E T W E E N:
+
+COMMUNICATE.COM DELAWARE, INC. a corporation incorporated under the laws of Delaware, California
+
+(the “Company”)
+
+OF THE FIRST PART
+
+\- and -
+
+Harjeet Taggar,
+
+of the City of London, United Kingdom
+
+  
+
+
+(the “Manager”) 
+
+OF THE SECOND PART
+
+WHEREAS the Company and the Manager entered into that certain Agreement and Plan of Merger By and Among Communicate.com, Inc., Communicate.com Delaware, Inc., Entity, Inc., and the Founders, dated March 25, 2008 (the “Merger Agreement”); and
+
+WHEREAS pursuant to the terms of the Merger Agreement the Company and the Manager wish to enter into this agreement to set forth the rights and obligations of each of them as regards the Manager’s employment with the Company in the United States;
+
+NOW THEREFORE witnesseth that in consideration of the premises and the terms and conditions herein contained, the parties hereto covenant and agree with each other as follows:
+
+1.
+
+Definitions
+
+  
+
+
+In this Agreement the following terms shall have the following meanings respectively:
+
+“Affiliates” has the meaning attributed to such term in the  Rules and Regulations of the Securities and Exchange Commission as the same is now constituted;
+
+“Agreement” means this agreement as it may be amended or supplemented from time to time, and the expressions “hereof, “herein”, “hereto”, ‘hereunder”, “hereby” and similar expressions refer to this Agreement and unless otherwise indicated, references to sections are to sections in this Agreement;
+
+  
+  
+
+
+* * *  
+  
+\- 2 -  
+  
+  
+
+
+  
+
+
+“Benefits” has the meaning attributed to such term in section 3.5;
+
+“Board” means the board of directors of the Company. 
+
+“Business Day” means any day, other than Saturday, Sunday or any statutory holiday in the State of Washington;
+
+Change of Control of the Company” means a transaction or a series of transactions whereby directly or indirectly:
+
+(i)
+
+any Person or combination of Persons acting jointly and in concert (other than the Manager or a corporation controlled directly or indirectly by the Manager) acquires beneficially a sufficient number of securities of the Company to materially affect the control of the Company as provided below. For the purposes of this Agreement, a Person or combination of Persons acting jointly and in concert, holding shares or other securities in excess of the number which, directly or following the conversion or exercise thereof, would entitle the holders thereof to cast 35% or more of the votes attached to all shares of the Company which may be cast to elect directors of the Company, shall be deemed to affect materially the control of the Company, in which case the Change of Control of the Company shall be deemed to occur on the date that is the later of the date that the security representing one more than that required to cast 35% of the votes attached to all shares of the Company which may be cast to elect directors of the Company is acquired or the date on which the Persons acting jointly and in concert agree to so act;
+
+  
+
+
+(ii)
+
+the Company shall consolidate or merge with or into, amalgamate with, or enter into a statutory arrangement or business combination with, any other Person (other than a corporation controlled directly or indirectly by the Manager) and in connection therewith, all or part of the outstanding shares of the Company which have voting rights attached thereto shall be changed in any way, reclassified or converted into, exchanged or otherwise acquired for shares or other securities of the Company or any other Person or for cash or any other property and control of the Company is thereby materially affected, as provided above in clause (i), in which case the Change of Control of the Company shall be deemed to occur on the date of closing of the consolidation, merger amalgamation, statutory arrangement or business combination, as the case may be; or 
+
+  
+
+
+(iii)
+
+the Company shall sell or otherwise transfer, including by way of the grant of a leasehold interest (or one or more subsidiaries of the Company shall sell or otherwise transfer, including without limitation by way of the grant of a leasehold interest) property or assets aggregating more than 50% of the consolidated assets (measured by either book value or fair market value based on the most recent audited financial statements) of the Company and its subsidiaries as of the end of the most recently completed financial year to any other Person or Persons, in which case the Change of Control of the Company shall be deemed to occur on the date of transfer of the assets representing one dollar more than 50% of the consolidated assets; 
+
+  
+  
+
+
+* * *  
+  
+\- 3 -  
+  
+  
+
+
+  
+
+
+other than a transaction or series of transactions which involves a sale of assets of the Company with which the Manager is involved as a purchaser in any manner, whether directly or indirectly, and whether by way of participation in a corporation or partnership that is a purchaser or by provision of debt, equity or purchase leaseback financing (but excluding where the Manager’s sole involvement with such a purchase is the ownership of an equity interest of less than 5% of the acquirer where the acquirer is a public company) and the Manager and Persons acting jointly and in concert with the Manager hold securities of the acquirer which, directly, or following the conversion or exercise thereof, would entitle the holders thereof to cast 5% or more of the votes attached to all shares or other interests of the acquirer which may be cast to elect directors or the management of the acquirer.
+
+  
+
+
+“Confidential Information” means all confidential or proprietary information, intellectual property (including trade secrets) and confidential facts relating to the business or affairs of the Company or any of its Affiliates;
+
+“Disability” has the meaning attributed thereto in any disability insurance policy carried on the life of the Manager by the Company, provided that if the Company is not carrying such a disability policy, “Disability” means the mental or physical state of the Manager such that the Manager has been unable due to illness, disease or other mental or physical disability to fulfil his obligations as an employee or officer of the Company either for any consecutive 90 day period or for any period of 180 days (whether or not consecutively) in any consecutive 12 month period, or a court of a competent jurisdiction has declared the Manager to be mentally incompetent or incapable of managing his affairs;
+
+“Effective Date” has the meaning attributed to such term in section 2.1;
+
+“Employment Period” has the meaning attributed to such term in section 2.4;
+
+“Just Cause” means the wilful failure of the Manager to properly carry out his duties after notice by the Company of the failure to do so and an opportunity for the Manager to correct the same within 60 days from the date of receipt of such notice, or theft, fraud, dishonesty or material misconduct by the Manager involving the property, business or affairs of the Company or the carrying out of the Manager’s duties, or the conviction of the Manager for any criminal offence which the Board determines in good faith would adversely affect the Manager’s ability to perform his duties hereunder, including a conviction for an offence which adversely reflects on the integrity or reputation of the Manager or the Company; 
+
+“Person” includes individuals, partnerships, associates, trusts, unincorporated organizations or a regulatory body or agency, government or governmental agency or authority or entity however designated or constituted;
+
+“Termination Without Cause” or “Terminated Without Cause” have the meaning attributed to such terms in section 6.3;
+
+  
+  
+
+
+* * *  
+  
+\- 4 -  
+  
+  
+
+
+  
+
+
+2.
+
+Employment of the Manager
+
+2.1.
+
+To Be Director of Product Management. The Company shall employ the Manager, and the Manager shall serve the Company, in the position of Director of Product Management and a director of the Company, effective as of and from the Closing Date (as defined in the Merger Agreement) (the “Effective Date”), on the terms and conditions and for the remuneration hereinafter set out. In such position, the Manager shall perform or fulfil such duties and responsibilities as the Company may designate from time to time and as are reasonably consistent with the position of a Director of Product Management. In his capacity as an officer and employee of the Company, the Manager shall report to the President of the Company.
+
+2.2.
+
+Performance of Duties. The Manager hereby agrees to be employed by the Company as herein provided, shall faithfully, honestly and diligently serve the Company and shall, subject to section 2.1 above, carry out such tasks as the Company may from time to time request. The Manager shall (except in the case of illness or accident) devote all of his working time and attention to his employment hereunder and shall use his best efforts to promote the interests of the Company.
+
+2.3.
+
+Annual Review of this Agreement. The terms and conditions contained in this Agreement shall be subject to annual review by the Board, representatives of whom shall consult with the Manager in the course of such review. The Board and Manager will negotiate in good faith any changes to the terms and conditions of this Agreement as are appropriate to reflect the value of the services of the Manager to the Company and the success of the Company in establishing and achieving business goals for the Company, provided however, that if the Board recommends an amendment that would constitute a material change in the remuneration or responsibilities of the Manager, with which the Manager does not agree and the Board persists in insisting on such amendment, the Manager will be entitled to treat such event as Termination Without Cause and the provisions of section 6.3 shall thereby app ly effective as of the date of such amendment. 
+
+2.4.
+
+Employment Period. The Manager’s employment hereunder, subject to section 6 hereof, shall be for a three-year term or any extension thereof, commencing from the Effective Date (the “Employment Period”). 
+
+3.
+
+Remuneration
+
+3.1.
+
+Base Salary. During the period of the Manager’s employment hereunder, the Company shall pay the Manager a gross base salary (the “Salary”) in the aggregate amount of $100,000 in respect of each year thereof, subject to section 3.2 below, payable in equal instalments on the closest Business Day to the middle and the end of each month during such year. 
+
+3.2.
+
+Cost of Living Increase The Salary shall be increased in respect of each year during the Employment Period commencing on the Effective Date by a percentage equal to the percentage increase, if any, in the consumer price index, all items for Vancouver, as published by Statistics Canada under the authority of the Statistics Act (Canada) (the “CPI”), for the immediately preceding year.
+
+  
+  
+
+
+* * *  
+  
+\- 5 -  
+  
+  
+
+
+  
+
+
+3.3.
+
+Bonus Remuneration. The Manager may, in respect of each year of his employment hereunder, be entitled to a cash bonus of up to 30% of his Salary for such year of employment as determined by the Board in its sole discretion in accordance with the Company’s ongoing programmes and objectives and as the same shall be mutually agreed between the Company the Manager , which shall be paid within 30 days following the date as of when the audited financial statements for such year have been approved by the Board. 
+
+3.4.
+
+Stock Options. The Manager will be granted an option to purchase during the Employment Period up to 100,000 common shares of the Company at the then market price on the Effective Date of the grant which will be exercisable with respect to 33,333 shares on the first anniversary of the Effective Date and thereafter 8,330 shares on the last day of each successive three-month period, provided that if the Manager is Terminated without Cause, or is deemed to be Terminated without Cause as provided herein, the Manager shall retain all vested options and unvested options and fifty percent (50%) of the unvested options as of the date of termination; however, (i) if on or prior to the end of the fifth month following the Effective Date, fifty percent (50%) of the options exercisable on the first anniversary of the Effective Date; (ii) if from the first day of the sixth month following the Effective Date, to on or prior to the end of the first anniversary of the Effective Date, fifty percent (50%) of the options exercisable on the first anniversary of the Effective Date and an additional 1/12 of the options exercisable on the first anniversary of the Effective Date for each month thereafter. Additional terms and condition of the option grant and exercise shall be set forth in an Option Agreement and under the terms of the Company’s Stock Option Plan. 
+
+3.5.
+
+Benefits. The Company shall provide to the Manager, in addition to the Salary and any bonus remuneration, all such benefits (the “Benefits”) as it makes available from time to time to the management and other employees of the Company in accordance with and subject to the terms and conditions of the applicable fund, plan or arrangement relating thereto.
+
+3.6.
+
+Disability Insurance. The Company will obtain and maintain disability insurance with respect to the Manager on such terms and in such amount as are normal and reasonable in relation to the Company and the industry in which it operates..
+
+3.7.
+
+Statutory Deductions. The Company shall deduct from the Salary, any bonus remuneration and any other payments and allowances provided for herein, all such amounts as are required by law to be withheld and deducted at source and shall remit the same to the required governmental authority or agency.
+
+  
+
+
+4.
+
+Expenses
+
+(a) Travel Expenses. The Company shall pay or reimburse the Manager for all travel (including business class flights) and out-of-pocket expenses reasonably incurred or paid by the Manager in the performance of his duties and responsibilities upon presentation of expense statements or receipts or such other supporting documentation as the Company may reasonably require.
+
+  
+  
+
+
+* * *  
+  
+\- 6 -  
+  
+  
+
+
+  
+
+
+(b) Relocation Expenses. In addition, the Company shall pay or reimburse the Manager for all reasonable moving expenses associated with his move from London, United Kingdom to Vancouver, Canada. Such expenses shall be approved in advance by the Company.
+
+5.
+
+Vacation
+
+The Manager shall be entitled during each year of his employment hereunder to vacation with pay of four (4) weeks. Such vacation shall be taken by the Manager at such time as may be acceptable to the Company having regard to its operations. Notwithstanding the foregoing, in the event that the Manager’s employment is terminated pursuant to section 6, the Manager shall not be entitled to receive any payment in lieu of any vacation to which he was entitled and which had not already been taken by him except to the extent, if any, of the payments in respect of vacation pay required under applicable law. 
+
+6.
+
+Termination
+
+6.1.
+
+Termination for Just Cause. The Company may terminate the employment of the Manager hereunder at any time for Just Cause without notice and without further obligations to the Manager, including without payment of any kind of compensation either by way of anticipated earnings or damages of any kind, including without limitation, the Distribution Shares pursuant to the Merger Agreement.
+
+6.2.
+
+Termination by Death. The Manager’s employment hereunder shall be terminated upon the death of the Manager, in which case the Company shall pay all Salary and vacation pay earned to the date of death but unpaid to the estate of the Manager, and the provisions of section 6.3 shall thereby apply effective as of the date of death. 
+
+6.3.
+
+Termination without Just Cause and without Notice. The Company may terminate the employment of the Manager hereunder, in its sole discretion, without notice and without Just Cause (“Termination Without Cause” or “Terminated Without Cause”), effective immediately upon the date as of when the Manager is advised of such termination, and in such case the Company shall:
+
+(a)
+
+pay the Manager a severance allowance equivalent to the aggregate of:
+
+(i)
+
+an amount equivalent to the Manager’s annualized entitlement to bonus remuneration as provided below, in a lump sum within two (2) weeks following the date of such termination;
+
+(b)
+
+pay to the Manager all outstanding vacation pay and any earned but unpaid Salary up to the date of such termination within two weeks of the date of such termination;
+
+  
+  
+
+
+* * *  
+  
+\- 7 -  
+  
+  
+
+
+  
+
+
+(c)
+
+reimburse the Manager for any business expenses incurred by him up to and including the date of such termination following provision by the Manager of applicable receipts; 
+
+(d)
+
+ensure that it has complied with all statutory obligations imposed by applicable law;
+
+(e)
+
+ensure that the Manager shall also retain all vested option shares and unvested option shares as provided under Section 3.4 herein; and
+
+(f)
+
+ensure that the Manager shall be entitled to receive all Distribution Shares payable after the date of termination under the terms of the Merger Agreement notwithstanding Manager’s failure to be an employee of the Company on all such future Distribution Dates.
+
+Unless otherwise agreed with the Company, all payments on account of Benefits shall cease and the Company shall be under no further obligation with respect thereto upon the termination of the Manager’s employment hereunder. For the purpose of clause (ii) of subsection 6.3(a) above, annualized entitlement to bonus remuneration shall be equal to the arithmetic average of the annual bonuses paid to the Manager during the three completed years prior to the year in which his termination occurs, provided that if such termination occurs prior to the completion of three years of the Manager’s employment hereunder, entitlement to bonus remuneration shall be calculated, mutatis mutandis, on the basis of the annual bonuses paid or payable to the Manager in respect of the completed year or years, if any, prior to the year of such termination.
+
+The payments referred to in clause (a) of this section 6.3 above shall be guaranteed and shall not be subject to set-off or deduction as a result of the Manager obtaining alternative employment following such termination or otherwise mitigating any damages arising from such termination. Further, such payments are inclusive of all statutory obligations, including statutory termination and severance payments, which may be owed to the Manager.
+
+6.4.
+
+Termination following a Change of Control. In the event of a Change of Control of the Company, the Manager may elect to resign his employment by giving written notice to the Company within 60 days following the date of occurrence of such Change of Control of the Company, in which event the Manager’s employment hereunder shall be deemed to have been Terminated Without Cause by the Company and the provisions of section 6.3 shall thereby apply effective as of the date of such notice. 
+
+6.5.
+
+Termination Without Cause upon Disability. If the employment of the Manager is terminated by the Company because of a Disability, the Manager shall be deemed to have been Terminated Without Cause and the provisions of section 6.3 hereof shall thereby apply effective as of the date of such termination, provided that the amount payable to the Manager under subsection 6.3(a) hereof shall be reduced by an amount equal to the aggregate amount of any disability benefits payable to the Manager under any disability insurance carried by the Company in respect of the year immediately following the date of such termination.
+
+  
+  
+
+
+* * *  
+  
+\- 8 -  
+  
+  
+
+
+  
+
+
+6.6.
+
+Cessation of Duties and Obligations of the Company. Unless otherwise agreed, the Manager shall upon receiving any notice of termination of his employment hereunder, whether or not purported to constitute prior notice, forthwith cease to perform his duties and responsibilities and cease to attend the Company’s premises. The Company’s obligations pursuant to this section 6 with respect to the termination of the Manager’s employment hereunder shall commence as of the date of receipt of such notice of termination except where otherwise provided herein.
+
+6.7.
+
+Resignation or Retirement of the Manager. The Manager shall provide the Company with three (3) months prior written notice of his resignation or retirement from the Company, except in the case of Change of Control of the Company in respect of which section 6.4 hereof is applicable. In the event that Manager shall resign or retire from the Company during the Employment Period, all Distribution Shares (as such term is defined in the Merger Agreement) not yet distributed shall be immediately cancelled and the Company shall have no obligation to distribute to Manager any outstanding Distribution Shares. 
+
+6.8.
+
+Material Change in Duties and Responsibilities. If there has been a material change in the Manager’s duties and responsibilities such as he is required to assume duties that are not consistent with, or to relinquish duties that are consistent with, those set out in section 2.1 or a material reduction in his annual remuneration, and such change is unacceptable to the Manager, the Company shall be considered for all purposes of this agreement to have delivered a notice of Termination Without Cause on the date of such change terminating the Manager’s employment and section 6.3 hereof shall thereby apply effective as of such date.
+
+6.9.
+
+Deductions and Withholdings. All payments made to the Manager pursuant to this section 6 shall be subject to applicable deductions and withholdings.
+
+6.10.
+
+Complete Satisfaction. Compliance by the Company with its obligations pursuant to this section 6 hereof shall constitute full and final satisfaction of any entitlement which the Manager may have with respect to the termination of his employment hereunder, including without limitation, any entitlement to notice, pay in lieu of notice or severance, whether arising under contract, statute or otherwise, and the Manager shall have no action, cause of action, claim or demand, either under statutory or common law, against the Company or any other Person as a consequence of such termination.
+
+6.11.
+
+Return of Property. In the event of the termination of the Manager’s employment hereunder for any reason, including resignation or retirement, the Manager will immediately return to the Company all property of the Company in his possession or under his control.
+
+6.12
+
+Good Reason. In the event of a termination of the Manager’s employment for good reason as defined under Code Section 409A:
+
+(a)
+
+The Manager shall provide notice to the Company of the Manager’s good reason for such resignation within 90 days of the initial existence of the event that gave rise to such good reason;
+
+(b)
+
+The Manager shall allow the Company 30 days to remedy the event that gave rise to the good cause; 
+
+  
+  
+
+
+* * *  
+  
+\- 9 -  
+  
+  
+
+
+  
+
+
+(c)
+
+In the event that the Company does not remedy the event, the Manager shall terminate employment within two years of the initial existence of the event giving rise to such good reason.
+
+7.
+
+Inventions, Etc.
+
+7.1
+
+The Manager agrees that any and all operational and scientific information, including but not limited to, marketing, business plans, formulae, processes, designs, computer software and programmes and inventions which the Manager may conceive or make or have conceived or made in the course or arising out of his employment with the Company (collectively, the “Works”) shall be and are the sole and exclusive property of the Company and shall be disclosed by the Manager to the Company. The Manager shall, whenever requested to do so by the Company, and without any obligation on the part of the Company to pay any royalty or other compensation to the Manager, at the Company’s expense execute and sign any and all applications, assignments or other instruments and do all other things which the Company may deem necessary or appropriate:
+
+(i)
+
+in order to apply for, obtain, maintain, enforce or defend letters patent in Canada or in any foreign country for any Works; or
+
+(ii)
+
+in order to assign, transfer, convey or otherwise made available to the Company the sole and exclusive rights, title and interest in and to any Works.
+
+The Manager also agrees to waive in whole any moral rights which it may have in any Works or any part or parts thereof. 
+
+8.
+
+Non-Competition
+
+The Manager shall not during the Employment Period and the 12 months immediately thereafter (except in the event of a Change of Control of the Company), directly or indirectly, in any manner whatsoever including, without limitation, either individually, or in partnership, jointly or in conjunction with any other Person, or as an employee, principal, agent, director or shareholder:
+
+(i)
+
+be engaged in any undertaking;
+
+(ii)
+
+have any financial or other interest (including an interest by way of royalty or other compensation arrangements) in or in respect of the business of any Person; or 
+
+(iii)
+
+advise, lend money to, guarantee the debts or obligations of any Person which carries on a business;
+
+anywhere in Canada which is the same as or substantially similar to or competes with or would compete with the business carried on by the Company or any of its Affiliates during the Employment Period.
+
+  
+  
+
+
+* * *  
+  
+\- 10 -  
+  
+  
+
+
+  
+
+
+Notwithstanding the foregoing, nothing herein shall prevent the Manager from owning up to 5% of the issued shares of a corporation, the shares of which are listed on a recognized stock exchange or publicly traded on an over-the-counter market, which carries on a business which is the same as or substantially similar to or which competes with or would compete with the business of the Company or any of its Affiliates.
+
+9.
+
+No Solicitation of Customers
+
+The Manager shall not, during the Employment Period and for the 12 months immediately thereafter (except in the event of a Change of Control of the Company), directly or indirectly, contact or solicit any designated customers of the Company or any of its Affiliates for the purpose of selling to the designated customers any services or products which are the same as or substantially similar to, or in any way competitive with, the services or products sold by the Company or any of its Affiliates during the Employment Period. For the purpose of this section, a designated customer means a Person who was a customer of the Company or of any of its Affiliates during some part of the Employment Period. 
+
+10.
+
+No Solicitation of Employees
+
+The Manager shall not, during the Employment Period and for the 12 months immediately thereafter (except in the event of a Change of Control of the Company), directly or indirectly, employ or retain as an independent contractor any employee of the Company or any of its Affiliates or induce or solicit, or attempt to induce, any such Person to leave his or her employment.
+
+11.
+
+Confidentiality
+
+  
+
+
+The Manager shall not, either during the Employment Period hereunder or at any time thereafter, directly or indirectly, use or disclose to any Person any Confidential Information provided, however, that nothing in this section shall preclude the Manager from disclosing or using Confidential Information, if:
+
+  
+
+
+(a) the Confidential Information is available to the public or in the public domain at the time of such disclosure or use, without breach of this Agreement;
+
+(b) disclosure of the Confidential Information is required to be made by any law, regulation, governmental authority or court; or
+
+(c) the Confidential Information was received by the Manager after termination of the Employment Period from a third party who had a lawful right to disclose it to the Manager.
+
+12.
+
+Remedies
+
+The Manager acknowledges that a breach or threatened breach by the Manager of the provisions of sections 8 to 11, inclusive, may result in the Company and its shareholders suffering irreparable harm which is not capable of being calculated and which cannot be fully or adequately compensated by the recovery of damages alone. Accordingly, the Manager agrees that the Company shall be entitled to interim and permanent injunctive relief, specific performance and other equitable remedies, in addition to any other relief to which the Company may become entitled.
+
+  
+  
+
+
+* * *  
+  
+\- 11 -  
+  
+  
+
+
+  
+
+
+13.
+
+Co-operation by Manager
+
+The Manager shall co-operate in all respects with the Company if the question arises as to whether a Disability has occurred. Without limiting the generality of the foregoing, the Manager shall authorize the Manager’s medical doctor or other health care specialist to discuss the condition of the Manager with the Company and shall submit to examination by a medical doctor or other health care specialist selected by the Company, acting reasonably.
+
+14.
+
+Representation of Manager
+
+The Manager represents and warrants to the Company that he is not a party to, or bound by, any agreement or understanding with any other Person that precludes or restricts his ability and entitlement in any way to carry out his duties of employment with the Company as contemplated herein, free and clear of any claims or liabilities of whatsoever nature.
+
+15.
+
+Arbitration
+
+(a)
+
+Any dispute between the parties hereto in respect of the interpretation of this Agreement or otherwise arising under this Agreement which cannot be resolved by the parties acting in good faith within a period of 30 days following the giving of a written notice by one party to the other party hereto (the “Notice Period”) will be determined by arbitration.
+
+(b)
+
+If a dispute is not resolved within the Notice Period, either party hereto may thereafter by written notice delivered to the other party hereto demand arbitration of such dispute as herein provided.
+
+(c)
+
+Upon a demand for arbitration as set forth above, the parties hereto will within 10 days from the date on which notice of the demand is given, appoint a single arbitrator to resolve the dispute under the rules of the American Arbitration Association.
+
+(d)
+
+The place of arbitration will be Seattle, Washington and the decision of the arbitrator will be final and binding upon the parties hereto.
+
+(e)
+
+All costs of the arbitration, other than the costs of any counsel engaged by the Manager, will be for the account of the Company.
+
+16.
+
+Notices
+
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be given by prepaid first-class mail, by facsimile or other means of electronic communication or by hand-delivery as hereinafter provided, except that any notice of termination by the Company under section 6 shall be hand-delivered or given by registered mail. 
+
+  
+  
+
+
+* * *  
+  
+\- 12 -  
+  
+  
+
+
+  
+
+
+Any such notice or other communication, if mailed by prepaid first-class mail at any time other than during a general discontinuance of postal service due to strike, lockout or otherwise, shall be deemed to have been received on the fourth Business Day after the post-marked date thereof, or if mailed by registered mail, shall be deemed to have been received on the day such mail is delivered by the post office, or if sent by facsimile or other means of electronic communication, shall be deemed to have been received on the Business Day following the sending, or if delivered by hand shall be deemed to have been received at the time it is delivered in person to the Manager or to the Company at its address noted below either to the individual designated below or to an individual at such address having apparent authority to accept deliveries on behalf of the Company. Notice of change of address shall also be governed by t his section. In the event of a general discontinuance of postal service due to strike, lock-out or otherwise, notices or other communications shall be delivered by hand or sent by facsimile or other means of electronic communication and shall be deemed to have been received in accordance with this section. Notices and other communications shall be addressed as follows:
+
+(a)
+
+if to the Company:
+
+Communicate.com Delaware, Inc.
+
+c/o Communicate.com, Inc.
+
+Suite 645
+
+375 Water Street
+
+Vancouver, BC, CANADA, V6B 5C6 
+
+  
+
+
+(b)
+
+if to the Manager:
+
+  
+
+
+Harjeet Taggar
+
+4 Briar Way
+
+Farnham Road
+
+Slough
+
+Berkshire
+
+SL2 1ER
+
+United Kingdom
+
+  
+
+
+With a copy to:
+
+  
+
+
+Mark Muntean
+
+Jeffer Mangles Butler & Marmaro
+
+Two Embarcadero Center
+
+Fifth Floor
+
+San Francisco, CA 94111
+
+  
+
+
+17.
+
+Headings
+
+The inclusion of headings in this Agreement is for convenience of reference only and shall not affect the construction or interpretation hereof.
+
+  
+  
+
+
+* * *  
+  
+\- 13 -  
+  
+  
+
+
+  
+
+
+18.
+
+Invalidity of Provisions
+
+Each of the provisions contained in this Agreement is distinct and severable and a declaration of invalidity or unenforceability of any such provision by a court of competent jurisdiction shall not affect the validity or enforceability of any other provision thereof.
+
+19.
+
+Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties pertaining to the subject matter of this Agreement. This Agreement supersedes and replaces all prior agreements if any, written or oral, with respect to the Manager’s employment by the Company and any rights which the Manager may have by reason of any such prior agreement. There are no warranties, representations or agreements between the parties in connection with the subject matter of this Agreement except as specifically set forth or referred to in this Agreement. No reliance is placed on any representation, opinion, advice or assertion of fact made by the Company or its directors, officers and agents to the Manager, except to the extent that the same has been reduced to writing and included as a term of this Agreement. Accordingly, there shall be no liability, either in tort or in contract, assessed in relation to any such representation, opinion, advice or assertion of fact, except to the extent aforesaid. 
+
+20.
+
+Waiver, Amendment
+
+Except as expressly provided in this Agreement, no amendment or waiver of this Agreement shall be binding unless executed in writing by the party to be bound thereby. No waiver of any provision of this Agreement shall constitute a waiver of any other provision nor shall any waiver of any provision of this Agreement constitute a continuing waiver unless otherwise expressly provided.
+
+21.
+
+Currency
+
+All amounts in this Agreement are stated and shall be paid in United States Dollars.
+
+22.
+
+Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Washington.
+
+23.
+
+Counterparts
+
+This Agreement may be signed in counterparts and each of such counterparts shall constitute an original document and such counterparts, taken together, shall constitute one and the same instrument.
+
+24.
+
+Acknowledgment
+
+The Manager acknowledges that:
+
+  
+  
+
+
+* * *  
+  
+\- 14 -  
+  
+  
+
+
+  
+
+
+(a) the Manager has had sufficient time to review and consider this Agreement thoroughly;
+
+(b) the Manager has read and understands the terms of this Agreement and the Manager’s obligations hereunder; and
+
+(c) the Manager has been given an opportunity to obtain independent legal advice, or such other advice as the Manager may desire, concerning the interpretation and effect of this Agreement.
+
+  
+
+
+  
+
+
+Signatures appear on the following page
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+
+
+* * *  
+  
+\- 15 -  
+  
+  
+
+
+  
+
+
+IN WITNESS WHEREOF the parties have executed this Agreement as of the day and year first above written.
+
+COMMUNICATE.COM DELAWARE, INC.
+
+By: /s/ C. Geoffrey Hampson
+
+Name: C. Geoffrey Hampson
+
+Title: Chief Executive Officer
+
+  
+
+
+  
+
+
+Witness
+
+MANAGER:
+
+  
+
+
+)
+
+Patrick Collison
+
+)
+
+/s/ Harjeet Taggar
+
+__________________________
+
+)
+
+____________________________
+
+Harjeet Taggar
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+  
+

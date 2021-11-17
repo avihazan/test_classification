@@ -1,0 +1,416 @@
+EXHIBIT 10.1
+
+
+
+THIS AGREEMENT is made as of the day of , 2008, by and between ATLANTIC SOUTHERN BANK, a bank organized under the laws of the State of Georgia (the “Bank”) and MARK A. STEVENS, a resident of the State of Georgia (the “Executive”).
+
+RECITALS:
+
+The Bank employs the Executive as President and Chief Executive Officer of the Bank pursuant to that certain employment agreement dated October 6, 2005 (the “Prior Employment Agreement”).
+
+The parties to the Prior Employment Agreement desire to amend and restate the Prior Employment Agreement on the terms and conditions set forth herein.
+
+In consideration of the above premises and the mutual agreements hereinafter set forth, the parties hereby agree as follows:
+
+1\. Definitions. Whenever used in this Agreement, the following terms and their variant forms shall have the meaning set forth below:
+
+1.1 “Affiliate” shall mean any business entity which controls the Bank, is controlled by or is under common control with the Bank.
+
+1.2 “Agreement” shall mean this Agreement and any exhibits incorporated herein together with any amendments hereto made in the manner described in this Agreement.
+
+1.3 “Area” shall mean the geographic area within the boundaries of Bibb, Houston, Crawford, Peach, Effingham, McIntosh, Glynn, Lowndes and Chatham Counties, Georgia and Duval County, Florida. It is the express intent of the parties that the Area as defined herein is the area where the Executive performs services on behalf of the Bank under this Agreement.
+
+1.4 “Business of the Bank” shall mean the business conducted by the Bank, which is the business of commercial banking.
+
+1.5 “Cause” shall mean:
+
+1.5.1 With respect to termination by the Bank:
+
+(a) A material breach of the terms of this Agreement by the Executive, including, without limitation, failure by the Executive to perform his duties and responsibilities in the manner and to the extent required under this Agreement, which remains uncured after the expiration of thirty (30) days following the delivery of written notice of such breach to the Executive by the Bank. Such notice shall (i) specifically identify the duties that the Board of Directors of the Bank believes the Executive has failed to perform, (ii) state the facts upon which the Board of Directors of the Bank made such determination, and (iii) be approved by a resolution passed by two-thirds (2/3) of the directors then in office;
+
+(b) Conduct by the Executive that amounts to fraud, dishonesty or willful misconduct in the performance of his duties and responsibilities hereunder;
+
+(c) Arrest for, charged in relation to (by criminal information, indictment or otherwise), or conviction of the Executive during the Term of this Agreement of any felony or a crime involving breach of trust or moral turpitude;
+
+A-1
+
+* * *
+
+  
+
+
+(d) Conduct by the Executive that amounts to gross and willful insubordination or inattention to his duties and responsibilities hereunder; or
+
+(e) The receipt of any form of notice, written or otherwise, that any regulatory agency having jurisdiction over the Bank intends to institute any form of formal or informal regulatory action against the Executive or the Bank, provided that the Board of Directors of the Bank determines in good faith that such action involves acts or omission by or under the supervision of the Executive or that termination of the Executive could materially advance the Bank’s compliance with the purpose of the action or would materially assist the Bank in avoiding or reducing the restrictions or adverse effects to the Bank related to the regulatory action.
+
+1.5.2 With respect to termination by the Executive, means one or more of the following conditions which arises without the consent of the Executive: a material diminution in the authority, responsibilities or duties of the Executive hereunder or a material breach of the terms of this Agreement by the Bank; provided, however, that for a termination of employment by the Executive to be for Cause, the Executive must give the Bank written notice of the event giving rise to Cause within thirty (30) days following the occurrence of the event, the event must remain uncured after the expiration of thirty (30) days following the delivery of written notice of such event to the Bank by the Executive, and the Executive must resign effective immediately following the Bank’s failure to cure the event.
+
+1.6 “Change of Control” means any one of the following events which may occur after the Original Effective Date:
+
+(a) the acquisition by any one person, or more than one person acting as a group (other than any person or more than one person acting as a group who is considered to own more than fifty percent (50%) of the total fair market value or total voting power of the Holding Company or the Bank prior to such acquisition) of stock of the Holding Company or the Bank that, together with stock held by such person or group, constitutes more than fifty percent (50%) of the total fair market value or total voting power of the stock of the Holding Company or the Bank, as applicable; provided, however, that for purposes of this subsection, any acquisition described in subsection (c) below shall not be deemed to be a Change of Control;
+
+(b) within any twelve-month period (beginning on or after the Original Effective Date) the date a majority of members of the board of directors of the Holding Company is replaced by directors whose appointment or election is not endorsed by a majority of the members of the Holding Company’s board of directors before the date of the appointment or election;
+
+(c) within any twelve-month period (beginning on or after the Original Effective Date) the acquisition by any one person, or more than one person acting as a group, of ownership of stock of the Holding Company possessing forty percent (40%) or more of the total voting power of the stock of the Holding Company; or
+
+(d) within any twelve-month period (beginning on or after the Original Effective Date) the acquisition by any one person, or more than one person acting as a group, of the assets of the Holding Company and the Bank that have a total gross fair market value of eighty-five percent (85%) or more of the total gross fair market value of all of the assets of the Holding Company and the Bank immediately before such acquisition or acquisitions; provided, however, that transfers to the following entities or person(s) shall not be deemed to result in a Change of Control under this subsection (d):
+
+(i) an entity that is controlled by the shareholders of the Holding Company or the Bank immediately after the transfer;
+
+(ii) a shareholder (determined immediately before the asset transfer) of the Holding Company or the Bank in exchange for or with respect to its stock;
+
+A-2
+
+* * *
+
+  
+
+
+(iii) an entity, fifty percent (50%) or more of the total value or voting power of which is owned, directly or indirectly, by the Holding Company or the Bank;
+
+(iv) a person, or more than one person acting as a group, that owns, directly or indirectly, fifty percent (50%) or more of the total value or voting power of all the outstanding stock of the Holding Company or the Bank; or
+
+(v) an entity, at least fifty percent (50%) of the total value or voting power of which is owned, directly or indirectly, by a person described in the above subsection (d)(iv).
+
+Notwithstanding the foregoing, no Change of Control shall be deemed to have occurred for purposes of this Agreement by reason of: (A) a merger, consolidation, reorganization or other transaction as to which the holders of the capital stock of the Holding Company before the transaction continue after the transaction to hold, directly or indirectly through a holding company or otherwise, shares of capital stock of the Holding Company (or other surviving company) representing more than fifty percent (50%) of the value or ordinary voting power to elect directors of the capital stock of the Holding Company (or other surviving company); or (B) any actions or events in which the Executive participates in a capacity other than in the Executive’s capacity as an employee, director or shareholder of either the Holding Company or the Bank. For purposes of this Section 1.6, persons will be considered to be acting as a group if they are owners of a corporation that enters into a merger, consolidation, purchase or acquisition of stock, or similar business transaction with the Holding Company or the Bank.
+
+1.7 “Code” shall mean the Internal Revenue Code of 1986, as amended, and the regulations promulgated thereunder.
+
+1.8 “Competing Business” shall mean any business engaged in the Business of the Bank.
+
+1.9 “Confidential Information” means data and information relating to the Business of the Bank (which does not rise to the status of a Trade Secret) which is or has been disclosed to the Executive or of which the Executive became aware as a consequence of or through the Executive’s relationship to the Bank and which has value to the Bank and is not generally known to its competitors. Confidential Information shall not include any data or information that has been voluntarily disclosed to the public by the Bank (except where such public disclosure has been made by the Executive without authorization) or that has been independently developed and disclosed by others, or that otherwise enters the public domain through lawful means.
+
+1.10 “Disability” shall mean the inability of the Executive to perform each of his material duties under this Agreement for the duration of the short-term disability period under the Bank’s policy then in effect, or, if no such policy is in effect, a period of one hundred and eighty (180) consecutive days. The Executive’s Disability shall be certified by a physician chosen by the Bank and reasonably acceptable to the Executive.
+
+1.11 “Disability Period” means a period, beginning on the date the Bank determines that the Executive is subject to a Disability and ending on the earlier of the date the Executive begins receiving income replacement benefits under any long term disability plan or policy maintained by the Bank or the date that is six (6) months after such determination, during which the Executive remains subject to a Disability.
+
+1.12 “Effective Date” shall mean the date set forth above as of which the Agreement is executed.
+
+1.13 “Employer Information” shall mean Confidential Information and Trade Secrets.
+
+1.14 “Holding Company” means the Bank’s parent, Atlantic Southern Financial Group, Inc.
+
+1.15 “Initial Term” shall mean that period of time commencing on the Original Effective Date and running until the earlier of the close of business on the last business day immediately preceding the third anniversary of the Original Effective Date or any earlier termination of employment of the Executive under this Agreement as provided for in Section 3.
+
+A-3
+
+* * *
+
+  
+
+
+1.16 “Original Effective Date” means:
+
+(a) with respect to events relating to the Bank, and for purposes of Section 1.15 above, December 1, 2001; and
+
+(b) with respect to events relating to the Holding Company, the date immediately following the date of formation of the Holding Company.
+
+1.17 “Separation from Service” shall mean a termination of the Executive’s employment with the Bank and all affiliated companies that, together with the Bank, constitute the ‘service recipient’ within the meaning of Code Section 409A and the regulations thereunder that constitutes a ‘separation from service’ within the meaning of Code Section 409A and the regulations thereunder.
+
+1.18 “Term” shall mean the Initial Term and all subsequent renewal periods.
+
+1.19 “Trade Secrets” means Employer Information including, but not limited to, technical or nontechnical data, formulas, patterns, compilations, programs, devices, methods, techniques, drawings, processes, financial data, financial plans, product plans or lists of actual or potential customers or suppliers which:
+
+(a) derives economic value, actual or potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who can obtain economic value from its disclosure or use; and
+
+(b) is the subject of efforts that are reasonable under the circumstances to maintain its secrecy.
+
+2\. Duties.
+
+2.1 Position. The Executive is employed as President and Chief Executive Officer of the Bank and, subject to the direction of the Board of Directors of the Bank or its designee(s), shall perform and discharge well and faithfully the duties which may be assigned to him from time to time by the Bank in connection with the conduct of its business. The duties and responsibilities of the Executive are set forth on Exhibit A attached hereto.
+
+2.2 Full-Time Status.  In addition to the duties and responsibilities specifically assigned to the Executive pursuant to Section 2.1 hereof, the Executive shall:
+
+(a) devote substantially all of his time, energy and skill during regular business hours to the performance of the duties of his employment (reasonable vacations and reasonable absences due to illness excepted) and faithfully and industriously perform such duties;
+
+(b) diligently follow and implement all reasonable and lawful management policies and decisions communicated to him by the Board of Directors of the Bank; and
+
+(c) timely prepare and forward to the Board of Directors of the Bank all reports and accountings as may be requested of the Executive.
+
+2.3 Permitted Activities. The Executive shall devote his entire business time, attention and energies to the Business of the Bank and shall not during the Term be engaged (whether or not during normal business hours) in any other business or professional activity, whether or not such activity is pursued for gain, profit or other pecuniary advantage; but this shall not be construed as preventing the Executive from:
+
+(a) investing his personal assets in businesses which are not Competing Businesses (except as provided in clause (b) below) and which will not require any services on the part of the Executive in their operation or affairs and in which his participation is solely that of an investor;
+
+A-4
+
+* * *
+
+  
+
+
+(b) purchasing securities in any corporation whose securities are regularly traded provided that such purchase shall not result in him collectively owning beneficially at any time five percent (5%) or more of the equity securities of any Competing Business; and
+
+(c) participating in civic and professional affairs and organizations and conferences, preparing or publishing papers or books or teaching so long as the Board of Directors of the Bank approves in writing of such activities prior to the Executive’s engaging in them.
+
+3\. Term and Termination.
+
+3.1 Term. This Agreement shall remain in effect for the Term. While this Agreement remains in effect, at the end of the Initial Term and at the end of any twelve-month extension thereof, this Agreement shall automatically be extended for a successive twelve-month period unless either party gives written notice to the other of its or his intent not to extend this Agreement with such written notice to be given not less than sixty (60) days prior to the end of the Initial Term or such twelve-month period. In the event such notice of non-extension is properly given, this Agreement shall terminate at the end of the remaining Term then in effect.
+
+3.2 Termination.  During the Term, the employment of the Executive under this Agreement may be terminated only as follows:
+
+3.2.1 By the Bank:
+
+(a) For Cause, upon written notice to the Executive pursuant to Section 1.5.1;
+
+(b) Without Cause at any time, provided that the Bank shall give the Executive thirty (30) days’ prior written notice of its intent to terminate; or
+
+(c) Upon expiration of the Disability Period.
+
+3.2.2 By the Executive:
+
+(a) For Cause, upon written notice to the Bank pursuant to Section 1.5.2; or
+
+(b) Without Cause or upon the Disability of the Executive, provided that the Executive shall give the Bank sixty (60) days’ prior written notice of his intent to terminate.
+
+3.2.3 At any time upon mutual, written agreement of the parties.
+
+3.2.4 Upon expiration of the Term.
+
+3.2.5 Notwithstanding anything in this Agreement to the contrary, the Term shall end automatically upon the Executive’s death.
+
+3.3 Severance. If the Executive’s employment with the Bank is terminated, other than within six (6) months following a Change of Control, by either the Bank without Cause or by the Executive for Cause, then, upon his Separation from Service, the Bank will pay severance to the Executive in an amount equal to one (1) times his Base Salary at the rate then in effect (the “Severance Amount”), with such amount payable over twelve (12) months in substantially equal monthly installments, the first of which will commence on the date determined by the Bank, but in no event later than thirty (30) days following the date of his Separation from Service.
+
+3.4 Change of Control.
+
+(a) Payment. If, within six (6) months following a Change of Control, either the Bank terminates Executive’s employment without Cause or the Executive resigns from the Bank for Cause, then, upon his Separation from Service, the Executive, or in the event of his subsequent death, his designated 
+
+A-5
+
+* * *
+
+  
+
+
+beneficiaries or his estate, as the case may be, will receive the Severance Amount in the form of a lump-sum, cash payment with such payment to be made to the Executive on the date determined by the Bank, but in no event later than thirty (30) days following the date of his Separation from Service.
+
+(b) Code Section 280G. In no event shall the Severance Amount exceed the amount permitted by Code Section 280G. Therefore, if the aggregate present value (determined as of the date of the Change of Control in accordance with the provisions of Code Section 280G) of both the Severance Amount and all other payments to the Executive in the nature of compensation which are contingent on a change in ownership or effective control of the Bank or in the ownership of a substantial portion of the assets of the Bank (the “Aggregate Severance”) would result in a “parachute payment,” as defined under Code Section 280G, then the Aggregate Severance shall not be greater than an amount equal to 2.99 multiplied by the Executive’s “base amount” for the “base period,” as those terms are defined under Code Section 280G. In the event the Aggregate Severance is required to be reduced pursuant to this Subsection, the last payments in time shall be reduced first.
+
+3.5 Effect of Termination. Upon termination of the Executive’s employment hereunder for any reason, the Bank shall have no further obligation to the Executive or the Executive’s estate with respect to this Agreement, except for the payment of any Base Salary due and owing under Section 4.1 on the effective date of termination and reimbursement under Section 4.5 of expenses incurred as of the effective date of termination of employment and any payments set forth in Section 3.3 or 3.4, if applicable. Notwithstanding any other provision of this Agreement to the contrary, as a condition of the Bank’s payment of any amount in connection with a termination of the Executive’s employment, the Executive must execute a release agreement in such form as is acceptable to the Bank within such period of time following termination of employment as is permitted by the Bank and not timely revoke the release agreement during any revocation period provided pursuant to the terms of the release agreement. Payment(s) of the Severance Amount, if any, shall accrue from the date of the Executive’s Separation from Service and, notwithstanding the timing provisions under Sections 3.3 and 3.4, shall be made or commence at the end of the revocation period provided pursuant to the terms of the release agreement but no later than the sixtieth (60th) day following the Executive’s Separation from Service, with any accrued but unpaid severance being paid on the date of the first payment. Notwithstanding any other provision in this Agreement to the contrary, if the Executive is a “specified employee” within the meaning of Code Section 409A at the date of his termination of employment, then such portion of the payments provided for in this Section 3 that would result in a tax under Code Section 409A if paid during the first six (6) months after termination of employment shall be withheld, starting with the payments latest in time during such six (6) month period, and paid to the Executive during the seventh month following the date of his termination of employment.
+
+3.6 Regulatory Action.
+
+(a) If the Executive is removed and/or permanently prohibited from participating in the conduct of the affairs of the Holding Company or the Bank by an order issued under Section 8(e)(4) or 8(g)(1) of the Federal Deposit Insurance Act (“FDIA”) (12 U.S.C. 1818(e)(4) and (g)(1)), all obligations of the Bank under this Agreement shall terminate, as of the effective date of such order, except for the payment of Base Salary due and owing under Section 4.1 on the effective date of said order, and reimbursement under Section 4.5 of expenses incurred as of the effective date of termination.
+
+(b) If the Executive is suspended and/or temporarily prohibited from participating in the conduct of the affairs of the Holding Company or the Bank by a notice served under Section 8(e)(3) or 8(g)(1) of the FDIA (12 U.S.C. 1818(e)(3) and (g)(1)), all obligations of the Bank under this Agreement shall be suspended as of the date of service, unless stayed by appropriate proceedings. If the charges in the notice are dismissed, the Bank shall (i) pay the Executive all or part of the compensation withheld while its contract obligations were suspended and (ii) reinstate (in whole or in part) any of its obligations which were suspended.
+
+(c) If the Bank is in default (as defined in Section 3(x)(1) of the FDIA), all obligations under this Agreement shall terminate as of the date of default, but the vested rights of the parties shall not be affected.
+
+A-6
+
+* * *
+
+  
+
+
+(d) All obligations under this Agreement shall be terminated, except to the extent a determination is made that continuation of the contract is necessary for the continued operation of the Bank (i) by the director of the Federal Deposit Insurance Corporation (the “FDIC”) or his or her designee (the “Director”), at the time the FDIC enters into an agreement to provide assistance to or on behalf of the Bank under the authority contained in 13(c) of the FDIA; or (ii) by the Director, at the time the Director approves a supervisory merger to resolve problems related to operation of the Bank when the Bank is determined by the Director to be in an unsafe and unsound condition. Any rights of the Executive that have already vested, however, shall not be affected by such action.
+
+4\. Compensation. The Executive shall receive the following salary and benefits during the Term, except as otherwise provided below:
+
+4.1 Base Salary. The Executive shall be compensated at an annual base rate of $270,000 (the “Base Salary”). The Executive’s Base Salary shall be reviewed by the Board of Directors of the Bank, or its designee(s), at least annually, and the Executive shall be entitled to receive annually an increase in such amount, if any, as may be determined by the Board of Directors of the Bank, or its designee(s), based on its evaluation of the Executive’s performance. Base Salary shall be payable in accordance with the Bank’s normal payroll practices.
+
+4.2 Incentive Compensation. The Executive shall be entitled to annual bonus compensation, if any, as determined by the Board of Directors of the Bank pursuant to any incentive compensation program as may be adopted from time to time; provided, however, that any annual bonus shall not exceed seventy-five percent (75%) of the Executive’s Base Salary. Each annual bonus earned shall be payable in a lump sum in the year following the year in which the bonus is earned in accordance with the Bank’s normal practices for the payment of short-term incentives.
+
+4.3 Stock Options. The Executive shall be eligible to receive stock options pursuant to the Atlantic Southern Financial Group, Inc. 2007 Stock Incentive Plan (an amendment and restatement of the New Southern Bank 2001 Stock Incentive Plan) as determined in the discretion of the Board of Directors of the Bank, or its designee(s).
+
+4.4 Automobile.  The Bank will provide the Executive with an automobile to be used by the Executive for business and personal purposes. The make and model of the automobile shall be determined by the Bank. The Bank will reimburse Executive for expenses associated with the operation, maintenance, repair and insurance of the automobile. Not less frequently than once annually, the Executive will make a good faith allocation between business and personal use of such automobile as required by the Internal Revenue Service guidelines.
+
+4.5 Business Expenses; Memberships. The Bank specifically agrees to reimburse the Executive for:
+
+(a) reasonable and necessary business (including travel) expenses incurred by him in the performance of his duties hereunder, as approved by the Board of Directors of the Bank; and
+
+(b) reasonable dues and business related expenditures associated with memberships, as selected by the Executive, including country clubs and professional associations which are commensurate with his position;
+
+provided, however, that the Executive shall, as a condition of any reimbursement, submit verification of the nature and amount of such expenses in accordance with reimbursement policies from time to time adopted by the Bank and in sufficient detail to comply with rules and regulations promulgated by the Internal Revenue Service.
+
+4.6 Vacation. On a non-cumulative basis, the Executive shall be entitled to three (3) weeks of vacation in each successive twelve-month period during the Term, during which his compensation shall be paid in full.
+
+4.7 Benefits. In addition to the benefits specifically described in this Agreement, the Executive shall be entitled to such benefits as may be available from time to time to executives of the Bank similarly situated to the Executive. All such benefits shall be awarded and administered in accordance with the Bank’s standard policies and 
+
+A-7
+
+* * *
+
+  
+
+
+practices. Such benefits may include, by way of example only, 401(k), dental, health, life and disability insurance benefits and such other benefits as the Bank deems appropriate.
+
+4.8 Reimbursements. All expenses eligible for reimbursement under this Section 4 must be incurred by the Executive during the Term of this Agreement to be eligible for reimbursement. All reimbursements shall be paid as soon as administratively practicable, but in no event shall any reimbursement be paid after the last day of the taxable year following the taxable year in which the expense was incurred, nor shall the amount of reimbursable expenses incurred in one taxable year affect the expenses eligible for reimbursement in any other taxable year.
+
+4.9 Withholding. The Bank may deduct from each payment of compensation hereunder all amounts required to be deducted and withheld in accordance with applicable federal and state income tax, FICA and other withholding requirements.
+
+5\. Employer Information.
+
+5.1 Ownership of Employer Information. All Employer Information received or developed by the Executive while employed by the Bank will remain the sole and exclusive property of the Bank.
+
+5.2 Obligations of the Executive. The Executive agrees:
+
+(a) to hold Employer Information in strictest confidence;
+
+(b) not to use, duplicate, reproduce, distribute, disclose or otherwise disseminate Employer Information or any physical embodiments of Employer Information; and
+
+(c) in any event, not to take any action causing or fail to take any action necessary in order to prevent any Employer Information from losing its character or ceasing to qualify as Confidential Information or a Trade Secret.
+
+In the event that the Executive is required by law to disclose any Employer Information, the Executive will not make such disclosure unless (and then only to the extent that) the Executive has been advised by independent legal counsel that such disclosure is required by law and then only after prior written notice is given to the Bank when the Executive becomes aware that such disclosure has been requested and is required by law. With respect to Confidential Information, this Section 5 shall survive for a period of twelve (12) months following termination of this Agreement for any reason with respect to Confidential Information, and shall survive termination of this Agreement for any reason for so long as is permitted by applicable law, with respect to Trade Secrets.
+
+5.3 Delivery upon Request or Termination. Upon request by the Bank, and in any event upon termination of his employment with the Bank, the Executive will promptly deliver to the Bank all property belonging to the Bank, including, without limitation, all Employer Information then in his possession or control.
+
+6\. Non-Competition. The Executive agrees that during his employment by the Bank hereunder and, in the event of his termination:
+
+· by the Bank for Cause pursuant to Section 3.2.1(a),
+
+· by the Executive without Cause pursuant to Section 3.2.2(b), or
+
+· by the Executive in connection with a Change of Control pursuant to Section 3.4,
+
+for a period of twelve (12) months thereafter, he will not (except on behalf of or with the prior written consent of the Bank), within the Area, either directly or indirectly, on his own behalf or in the service or on behalf of others, as an executive employee or in any other capacity, undertake for any Competing Business duties and responsibilities similar to those undertaken by the Executive for the Bank.
+
+7\. Non-Solicitation of Customers. The Executive agrees that during his employment by the Bank hereunder and, in the event of his termination:
+
+A-8
+
+* * *
+
+  
+
+
+· by the Bank for Cause pursuant to Section 3.2.1(a),
+
+· by the Executive without Cause pursuant to Section 3.2.2(b), or
+
+· by the Bank or the Executive in connection with a Change of Control pursuant to Section 3.4,
+
+for a period of twelve (12) months thereafter, he will not (except on behalf of or with the prior written consent of the Bank), within the Area, on his own behalf or in the service or on behalf of others, solicit, divert or appropriate or attempt to solicit, divert or appropriate, for any Competing Business any of the Bank’s customers, including prospective customers actively sought by the Bank, with whom the Executive has or had material contact during the two (2) year period preceding his termination of employment for the purpose of providing products or services that are competitive with those provided by the Bank.
+
+8\. Non-Solicitation of Employees. The Executive agrees that during his employment by the Bank hereunder and, in the event of his termination:
+
+· by the Bank for Cause pursuant to Section 3.2.1(a),
+
+· by the Executive without Cause pursuant to Section 3.2.2(b), or
+
+· by the Bank or the Executive in connection with a Change of Control pursuant to Section 3.4,
+
+for a period of twelve (12) months thereafter, he will not, within the Area, on his own behalf or in the service or on behalf of others, solicit, recruit or hire away or attempt to solicit, recruit or hire away, any employee of the Bank or its Affiliates to a Competing Business, whether or not:
+
+· such employee is a full-time employee or a temporary employee of the Bank,
+
+· such employment is pursuant to written agreement, or
+
+· such employment is for a determined period or is at will.
+
+9\. Remedies. The Executive agrees that the covenants contained in Sections 5 through 8 of this Agreement are of the essence of this Agreement; that each of the covenants is reasonable and necessary to protect the business, interests and properties of the Bank, and that irreparable loss and damage will be suffered by the Bank should he breach any of the covenants. Therefore, the Executive agrees and consents that, in addition to all the remedies provided by law or in equity, the Bank shall be entitled to a temporary restraining order and temporary and permanent injunctions to prevent a breach or contemplated breach of any of the covenants. The Bank and the Executive agree that all remedies available to the Bank or the Executive, as applicable, shall be cumulative.
+
+10\. Severability. The parties agree that each of the provisions included in this Agreement is separate, distinct and severable from the other provisions of this Agreement and that the invalidity or unenforceability of any Agreement provision shall not affect the validity or enforceability of any other provision of this Agreement. Further, if any provision of this Agreement is ruled invalid or unenforceable by a court of competent jurisdiction because of a conflict between the provision and any applicable law or public policy, the provision shall be redrawn to make the provision consistent with and valid and enforceable under the law or public policy.
+
+11\. No Set-Off by the Executive. The existence of any claim, demand, action or cause of action by the Executive against the Bank whether predicated upon this Agreement or otherwise, shall not constitute a defense to the enforcement by the Bank of any of its rights hereunder.
+
+12\. Notice. All notices and other communications required or permitted under this Agreement shall be in writing and, shall be delivered by hand or, if mailed, shall be sent via the United States Postal Service, certified mail, return receipt requested, or by overnight courier. All notices hereunder may be delivered by hand or overnight courier, in which event the notice shall be deemed effective when delivered. All notices and other communications under this Agreement shall be given to the parties hereto at the following addresses:
+
+A-9
+
+* * *
+
+  
+
+
+(i)
+
+If to the Bank, to it at:  
+  
+Atlantic Southern Bank  
+  
+4077 Forsyth Street  
+  
+Macon, Georgia 31210  
+  
+(ii)
+
+If to the Executive, to him at:  
+  
+Mark Stevens  
+  
+405 Waverly Lane  
+  
+Macon, Georgia 31210-7573  
+  
+Any party hereto may change his or its address by advising the others, in writing, of such change of address.
+
+13\. Assignment. This Agreement is generally not assignable by the Bank except that the rights and obligations of the Bank under this Agreement shall inure to the benefit of and shall be binding upon the successors and assigns of the Bank. The Agreement is a personal contract and the rights and interests of the Executive may not be assigned by him. This Agreement shall inure to the benefit of and be enforceable by the Executive and his personal or legal representatives, executors, administrators, successors, heirs, distributes, devisees and legatees.
+
+14\. Waiver. A waiver by one party to this Agreement of any breach of this Agreement by the other party to this Agreement shall not be effective unless in writing, and no waiver shall operate or be construed as a waiver of the same or another breach on a subsequent occasion.
+
+15\. Arbitration. Except for matters contemplated by Section 17 below, any controversy or claim arising out of or relating to this contract, or the breach thereof, shall be settled by binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association. Judgment upon the award rendered by the arbitrator may be entered only in the State Court of Bibb County or the federal court for the Middle District of Georgia. The Bank and the Executive agree to share equally the fees and expenses associated with the arbitration proceedings. Executive must initial here:
+
+16\. Attorneys’ Fees. In the event that the parties have complied with this Agreement with respect to arbitration of disputes and litigation ensues between the parties concerning the enforcement of an arbitration award, the party prevailing in such litigation shall be entitled to receive from the other party all reasonable costs and expenses, including without limitation attorneys’ fees, incurred by the prevailing party in connection with such litigation, and the other party shall pay such costs and expenses to the prevailing party within sixty (60) days after a final determination (excluding any appeals) is made with respect to the litigation.
+
+17\. Applicable Law and Choice of Forum. This Agreement shall be construed and enforced under and in accordance with the laws of the State of Georgia. The parties agree that any appropriate state court located in Bibb County, Georgia or federal court for the Middle District of Georgia shall have exclusive jurisdiction of any case or controversy arising under or in connection with Sections 5 through 9 of this Agreement and shall be a proper forum in which to adjudicate such case or controversy. The parties consent and waive any objection to the jurisdiction or venue of such courts.
+
+18\. Interpretation. Words importing any gender include all genders. Words importing the singular form shall include the plural and vice versa. The terms “herein”, “hereunder”, “hereby”, “hereto”, “hereof” and any similar terms refer to this Agreement. Any captions, titles or headings preceding the text of any article, section or subsection herein are solely for convenience of reference and shall not constitute part of this Agreement or affect its meaning, construction or effect.
+
+19\. Entire Agreement. This Agreement embodies the entire and final agreement of the parties on the subject matter stated herein and supersedes and replaces the Prior Employment Agreement and any other prior agreement between the parties. No amendment or modification of this Agreement shall be valid or binding upon the Bank or the Executive unless made in writing and signed by both parties.
+
+A-10
+
+* * *
+
+  
+
+
+20\. Rights of Third Parties. Nothing herein expressed is intended to or shall be construed to confer upon or give to any person, firm or other entity, other than the parties hereto and their permitted assigns, any rights or remedies under or by reason of this Agreement.
+
+21\. Survival. The obligations of the Executive pursuant to Sections 5 through 9 shall survive the termination of the employment of the Executive hereunder for the period designated under each of those respective Sections.
+
+22\. Representation Regarding Restrictive Covenants. The Executive represents that he is not and will not become a party to any noncompetition or nonsolicitation agreement or any other agreement which would prohibit him from entering into this Agreement or providing the services for the Bank contemplated by this Agreement on or after the Effective Date. In the event the Executive is subject to any such agreement, this Agreement shall be rendered null and void and the Bank shall have no obligations to the Executive under this Agreement.
+
+IN WITNESS WHEREOF, the Bank and the Executive have executed and delivered this Agreement as of the date first shown above.
+
+THE BANK:  
+  
+ATLANTIC SOUTHERN BANK  
+  
+By:  
+  
+Signature  
+  
+Print Name  
+  
+Title  
+  
+THE EXECUTIVE:  
+  
+MARK A. STEVENS  
+  
+A-11
+
+* * *
+
+  
+
+
+Exhibit A
+
+Duties of the Executive
+
+The duties of the Executive shall include, in addition to any other duties assigned the Executive by the Board of Directors of the Bank or its designee(s), the following:
+
+· Foster a corporate culture that promotes ethical practices, encourages individual integrity, fulfills social responsibility, and is conducive to attracting, retaining and motivating a diverse group of top-quality employees at all levels.
+
+· Work with the Board of Directors of the Bank to develop a long-term strategy that creates shareholder value.
+
+· Develop and recommend to the Board of Directors of the Bank annual business plans and budgets that support the Bank’s long-term strategy.
+
+· Manage the day-to-day business affairs of the Bank appropriately.
+
+· Use best efforts to achieve the Bank’s financial and operating goals and objectives.
+
+· Use best efforts to improve the quality and value of the products and services provided by the Bank.
+
+· Use best efforts to ensure that the Bank maintains a satisfactory competitive position within its industry.
+
+· Develop an effective management team and an active plan for its development and succession, and make recommendations to the Board of Directors of the Bank regarding hiring, firing and compensation.
+
+· Implement major corporate policies.
+
+A-12
+
+* * *

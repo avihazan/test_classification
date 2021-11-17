@@ -1,0 +1,210 @@
+Exhibit 99.2 
+
+
+
+This Registration Rights Agreement (this “Agreement”), dated _______ __, 2006, is entered into by and between SEQUENOM, INC., a Delaware corporation (the “Company”), COMVEST INVESTMENT PARTNERS II LLC, a Delaware limited liability company (“ComVest”), LB I GROUP INC., a Delaware corporation (“LBIG”), PEQUOT PRIVATE EQUITY FUND IV, L.P., a Delaware limited partnership, (“Pequot”), and SIEMENS VENTURE CAPITAL GMBH (“Siemens”, and collectively with ComVest, LBIG, and Pequot, the “Purchasers”), as a material inducement for the Purchasers to purchase (i) an aggregate of 60,000,000 shares (the “Common Shares”) of Common Stock, par value $0.001 per share (the “Common Stock”), and (ii) warrants (the “Warrants”) to purchase an aggregate of 36,000,000 shares of Common Stock, in accordance with the terms of that certain Amended and Restated Securities Purchase Agreement, dated as of March 30, 2006 (the “Purchase Agreement”).1 All capitalized terms used but not defined herein shall have the meanings ascribed thereto in the Purchase Agreement. 
+
+NOW, THEREFORE, the Company, ComVest, LBIG, Pequot, and Siemens each hereby agree as follows: 
+
+1\. Definitions. In addition to those terms defined elsewhere in this Agreement, the following terms shall have the following meanings wherever used in this Agreement: 
+
+“Act” shall mean the Securities Act of 1933, as amended, and any successor statute from time to time. 
+
+“Costs and Expenses” shall mean all of the costs and expenses incident to the registration of Registrable Securities under this Agreement by the Company, including but not limited to registration, filing and qualification fees, blue sky expenses, costs of listing any shares of Common Stock on any national securities exchange automated quotation system, printing expenses, fees and disbursements of counsel and accountants to the Company, and reasonable fees and disbursements of any counsel to the Purchasers (such fees and disbursements not to exceed an aggregate of $25,000 per Registration); provided, however, that underwriting discounts and commissions attributable solely to the securities registered for the benefit of any Purchaser, additional fees and disbursements of any counsel to any such Purchaser and all other expenses attributable solely to any such Purchaser shall be borne by such Purchaser. 
+
+“Excluded Registration Statement” shall mean a registration statement relating solely to the registration of the sale of securities (i) other than for cash, (ii) to participants in a Company stock plan or employee benefit plan, agreement or arrangement, and (iii) in a transaction covered by Rule 145 under the Act or the resale of securities issued in such a transaction. 
+
+* * *
+
+1 The actual number of Common Shares and Warrant Shares will be appropriately adjusted if the Reverse Stock Split is effected prior to the execution of this Agreement.   
+  
+1 
+
+* * *
+
+“Registrable Securities” shall mean the Warrant Registrable Securities and the Common Shares held from time to time by the Purchasers and any other securities of the Company or its successor or assign which may be issued with respect to, in exchange for or in substitution of the Warrant Registrable Securities or the Common Shares; provided, however, that such Registrable Securities shall cease to be Registrable Securities at such time as such Registrable Securities (i) are sold pursuant to any registration statement filed by the Company with the SEC, pursuant to Rule 144 promulgated under the Act or pursuant to any other exemption from registration under the Act or (ii) may be sold, together with all other Registrable Securities held by such Purchaser, in open market transactions pursuant to Rule 144(k) promulgated thereunder (or any successor thereto). 
+
+“Registration” shall mean any registration or proposed registration of Registrable Securities pursuant to a Registration Statement in respect to the sale of any Registrable Securities. 
+
+“Registration Period” shall mean the period (i) beginning upon the declaration of effectiveness of the Registration Statement provided for in Section 2 hereof that includes all Registrable Securities and (ii) ending on the earlier of the date that all Registrable Securities have ceased to be Registrable Securities and the second anniversary of the date in clause (i) above. 
+
+“Registration Statement” shall mean any registration statement filed or to be filed by the Company with the SEC other than an Excluded Registration Statement. 
+
+“SEC” shall mean the United States Securities and Exchange Commission, or any successor agency or agencies performing the functions thereof. 
+
+“Warrant Registrable Securities” shall mean the shares of Common Stock issuable upon exercise of the Warrants. 
+
+2\. Registration. 
+
+(a) Mandatory Registration. The Company shall prepare, and, within thirty (30) calendar days after the Closing Date (the “Filing Date”), file with the SEC a Registration Statement on Form S-3 (or any successor form, “Form S-3”) (or, if Form S-3 is not then available, on such form of Registration Statement as is then available to effect a registration of the Registrable Securities, subject to the consent of holders of a majority of the Registrable Securities, which consent will not be unreasonably withheld) covering the resale of the Registrable Securities, which Registration Statement, to the extent allowable under the 1933 Act and the rules and regulations promulgated thereunder (including Rule 416), shall state that such Registration Statement also covers such indeterminate number of additional shares of Common Stock as may become issuable upon exercise of the Warrants to prevent dilution resulting from stock splits, stock dividends or similar transactions. The number of shares of Common Stock initially included in such Registration Statement shall be no less than an amount equal to the sum of the number of Common Shares then held by the Purchasers, and the number of Warrant Registrable Securities, without regard to any limitation on the Purchasers’ ability to exercise the Warrants but in each case solely to the extent such shares of Common Stock are Registrable 
+
+2 
+
+* * *
+
+Securities. The Company and the Purchasers acknowledge that the number of shares initially included in the Registration Statement will represent a good faith estimate of the Common Shares held by the Purchasers and the maximum number of shares of Common Stock issuable upon exercise of the Warrants but in each case solely to the extent such shares of Common Stock are Registrable Securities. 
+
+(b) Payments by the Company. The Company shall use its best efforts to obtain effectiveness of the Registration Statement as soon as practicable. If (i) the Registration Statement(s) covering the Registrable Securities required to be filed by the Company pursuant to Section 2(a) hereof is not filed in accordance with Section 2(a) or not declared effective by the SEC within one hundred twenty (120) days after the Closing Date (the “Effective Date”), or (ii) after the Registration Statement has been declared effective by the SEC, sales of the Registrable Securities cannot be made pursuant to the Registration Statement, then, in each case subject to Section 2(d) below and notwithstanding the provisions of Section 2(c), the Company will make payments to the Purchasers in such amounts and at such times as shall be determined pursuant to this Section 2(b) as liquidated damages to such Purchasers by reason of any such delay in or reduction of their ability to sell the Registrable Securities (which remedy shall not be exclusive of any other remedies available at law or in equity). Other than with respect to any Allowed Delay (as defined below) permitted under Section 2(d) below, the Company shall pay to each Purchaser its pro-rata share (based on shares of Registrable Securities then held by such Purchaser as compared to Registrable Securities then held by all Purchasers) of an aggregate cash fee of $100,000 per month (pro-rated daily for any partial months) after the Effective Date or during which the Registration Statement is suspended until such time as the Registration Statement is declared effective by the SEC or is no longer suspended; provided, however, that the aggregate liquidated damages payable hereunder shall not exceed $1,000,000. 
+
+(c) Eligibility for Form S-3 or S-1; Conversion to Form S-3. The Company represents and warrants that as of the date of this Agreement, it meets the requirements for the use of Form S-3 for registration of the Common Stock by the Company for resale by the Purchasers. The Company agrees to file all reports required to be filed by the Company with the SEC in a timely manner so as to remain eligible or become eligible, as the case may be, and thereafter to maintain its eligibility, for the use of Form S-3. If the Company is not eligible at any time after the date hereof to use Form S-3, it shall fulfill its obligations under Section 2(a) by filing a Registration Statement on Form S-1 or other appropriate form and not later than five (5) Trading Days after the Company first meets the registration eligibility and transaction requirements for the use of Form S-3 for registration of the offer and sale by the Purchasers, the Company shall file a Registration Statement on Form S-3 with respect to the Registrable Securities covered by the Registration Statement on Form S-1 or other form filed pursuant to Section 2(a) (and include in such Registration Statement on Form S-3 the information required by Rule 429 under the Act) or convert the Registration Statement on Form S-1 or other form, whichever is applicable, filed pursuant to Section 2(a) to a Form S-3 pursuant to Rule 429 under the Act and cause such Registration Statement (or such amendment) to be declared effective no later than ninety (90) days after the date of filing of such Registration Statement (or amendment). Notwithstanding the foregoing, the Company shall use its commercially reasonable efforts to meet the requirements of Form S-3 for so long as any Registrable Securities remain outstanding. 
+
+3 
+
+* * *
+
+(d) Allowed Delay. If (i) there is material non-public information regarding the Company which the Company’s Board of Directors (the “Board”) reasonably determines not to be in the Company’s best interest to disclose and which the Company is not otherwise required to disclose or (ii) there is a significant business opportunity (including, but not limited to, the acquisition or disposition of assets (other than in the ordinary course of business) or any merger, consolidation, tender offer or other similar transaction) available to the Company which the Board reasonably determines not to be in the Company’s best interest to disclose and which the Company would be required to disclose under a Registration Statement, then the Company may postpone or suspend filing or effectiveness of such Registration Statement or use of the prospectus under the Registration Statement for a period not to exceed thirty (30) consecutive days, provided that the Company may not postpone or suspend its obligation under this Section 2(d) for more than sixty (60) days in the aggregate during any twelve (12) month period (each, an “Allowed Delay”). The Registration Period shall be automatically extended one day for each day of postponement or suspension during an Allowed Delay. 
+
+(e) In the event the number of shares available under the Registration Statement filed pursuant to Section 2(a) is insufficient to cover all of the Registrable Securities, the Company shall amend the Registration Statement, or file a new Registration Statement, or both, so as to cover all of such Registrable Securities, in each case, as soon as practicable after the necessity therefor arises. The Company shall use its commercially reasonable efforts to cause such amendment and/or new Registration Statement to become effective as soon as practicable following the filing thereof and to remain effective under the same terms and conditions as the prior Registration Statement. 
+
+(f) If a Registration Statement ceases to be effective for any reason at any time during the Registration Period (other than because all Registrable Securities registered thereunder shall have been resold pursuant thereto or shall have otherwise ceased to be Registrable Securities), the Company shall use its commercially reasonable efforts to obtain the prompt withdrawal of any order suspending the effectiveness thereof, and use commercially reasonable efforts to amend the Registration Statement as promptly as reasonably practicable but not more than thirty (30) days after receipt of notice of such order and in a manner reasonably expected to obtain the withdrawal of the order suspending the effectiveness thereof, or file an additional Registration Statement covering all of the Registrable Securities that as of the date of such filing were registered under the prior Registration Statement. If a subsequent Registration Statement is filed, the Company shall use its commercially reasonable efforts to cause such Registration Statement to become effective as promptly as is reasonably practicable but not more than thirty (30) days after such filing and shall use its commercially reasonable efforts to keep such Registration Statement continuously effective until the end of the Registration Period. 
+
+(g) Information by Purchaser. It shall be a condition precedent to the obligation of the Company to include the Registrable Securities of any Purchaser in a Registration Statement that such Purchaser deliver to the Company, at least five (5) days prior to the anticipated filing date of such Registration Statement, such information regarding itself, the Registrable Securities and other securities of the Company held by such Purchaser, the Purchaser’s intended method of distribution of the Registrable Securities and all such other information as shall be reasonably requested to effect the registration of such Purchaser’s Registrable Securities; provided that such obligation shall arise only if the Company shall have 
+
+4 
+
+* * *
+
+delivered to the Holder at least fourteen (14) days prior to the anticipated filing date a questionnaire for the purpose of obtaining such required information. 
+
+3\. Registration Procedures. In the case of each Registration effected by the Company in which Registrable Securities are to be sold for the account of the Purchasers, the Company shall: 
+
+(a) furnish to Greenberg Traurig LLP (counsel to the Purchasers) and any other counsel designated by a Purchaser copies of all Registration Statements or prospectuses or any amendments or supplements thereto proposed to be filed with the SEC within a reasonable period of time prior to any such filing, which documents will be subject to review by such counsel before filing solely with regard to any information contained therein which pertains to the Purchasers; 
+
+(b) use its commercially reasonable efforts to prepare and file with the SEC such amendments, including post-effective amendments, and supplements to such Registration Statement and the prospectus used in connection therewith as may be necessary to cause such Registration Statement to become effective, to keep such Registration Statement effective during the Registration Period and to comply with the provisions of the Act and the Securities Exchange Act of 1934, as amended (the “Exchange Act”) with respect to the disposition of all securities covered by such Registration Statement during such period in accordance with the intended methods of distribution of the Holders; 
+
+(c) furnish to the Purchasers electronic copies of such Registration Statement, each amendment and supplement thereto, the prospectus included in such Registration Statement (including each preliminary prospectus) and such other documents as the Purchasers may reasonably require in order to facilitate the disposition of the Registrable Securities held by the Purchasers; 
+
+(d) use its commercially reasonable efforts to register or qualify such Registrable Securities under such other securities or blue sky laws of such states as may be reasonably required and do any and all other acts and things which may be reasonably necessary or advisable to enable the Purchasers to consummate the disposition of the Registrable Securities in such jurisdictions (provided that the Company will not be required to (i) qualify generally to do business in any jurisdiction where it would not otherwise be required to qualify but for this subparagraph, (ii) subject itself to taxation in any such jurisdiction where it is not then subject, or (iii) consent to general service of process in any such jurisdiction); 
+
+(e) notify the Purchasers and their designated counsel as promptly as practicable, at any time when a prospectus relating to a Registration Statement is required to be delivered under the Act, (i) of the happening of any event as a result of which the prospectus included in a Registration Statement contains an untrue statement of a material fact or omits to state any fact necessary to make the statements therein not materially misleading, (ii) of any request by the SEC or any other federal or state governmental authority during the period of effectiveness of the Registration Statement for amendments or supplements to the Registration Statement or prospectus or for additional information, (iii) of the issuance by the SEC or any other federal or state governmental authority of any stop order suspending the effectiveness of 
+
+5 
+
+* * *
+
+the Registration Statement covering any or all of the Registrable Securities or the initiation of any proceedings for that purpose, (iv) of the receipt by the Company of any notification with respect to the suspension of the qualification or exemption from qualification of any of the Registrable Securities for sale in any jurisdiction, or any notification of the initiation or threatening of any proceeding for such purpose, and (v) of the occurrence of any event or passage of time that makes the financial statements included in the Registration Statement ineligible for inclusion therein. Upon the occurrence of any of the foregoing, the Company shall use its commercially reasonable efforts to promptly prepare a supplement or amendment to such Registration Statement or prospectus to cure or correct any such deficiency; 
+
+(f) effective not later than the effectiveness of the subject Registration Statement, use its commercially reasonable efforts to cause all subject Registrable Securities to be listed for trading on each national securities exchange or automated quotation system on which the Common Stock is then listed, if any; 
+
+(g) furnish to each Purchaser, without charge, at least one conformed copy of the Registration Statement and each amendment thereto, including financial statements and schedules, to the extent requested by such Purchaser, all documents incorporated or deemed to be incorporated therein by reference to the extent requested by such Purchaser, and all exhibits to the extent requested by such Purchaser (including those previously furnished or incorporated by reference) promptly after the filing of such documents with the SEC; 
+
+(h) promptly deliver to each Purchaser, without charge, as many copies of the prospectus or prospectuses and each amendment or supplement thereto as such Purchaser may reasonably request in connection with resales by the Purchaser of Registrable Securities. The Company hereby consents to the use of such prospectus and each amendment or supplement thereto by each of the selling Purchasers in connection with the offering and sale of the Registrable Securities covered by such prospectus and any amendment or supplement thereto, except after the giving of any notice pursuant to Section 3(e) or in the event of an Allowed Delay; and 
+
+(i) comply in all material respects with all applicable rules and regulations of the SEC. 
+
+4\. Indemnification by the Company. The Company shall indemnify and hold harmless each Purchaser and, each of their respective directors, legal counsel and accountants, and any underwriter (as defined in the Act) for any expenses, claims, losses, costs, charges or liabilities of any kind, including amounts paid in settlement and reasonable attorneys’ fees (collectively, the “Losses”) to which any Purchaser or any other such indemnified person becomes subject, under the Act or any rule or regulation thereunder, insofar as such Losses (i) are caused by any untrue statement or alleged untrue statement of any material fact contained in any preliminary prospectus (if used prior to the Effective Date of the Registration Statement), or contained, on the Effective Date thereof, in any Registration Statement of which Registrable Securities were the subject, the prospectus contained therein, any amendment or supplement thereto, or (ii) arise out of or are based upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, or (iii) arise out of any violation by the Company of the Act or the Exchange Act or 
+
+6 
+
+* * *
+
+any rule or regulation thereunder applicable to the Company and relating to actions or omissions otherwise required of the Company in connection with such Registration Statement. The Company shall reimburse the Purchasers and any such other indemnified person for any legal or other expenses reasonably incurred by the Purchasers or such other indemnified person in connection with investigating, defending or settling any such Loss; provided, however, that the Company shall not be liable to any such persons in any such case to the extent that any such Loss arises out of or is based upon (i) any untrue statement or alleged untrue statement or omission or alleged omission made in strict reliance upon and in strict conformity with information furnished to the Company in writing by such person expressly for inclusion in the Registration Statement or (ii) the use by a Purchaser of an outdated or defective prospectus after the delivery to such Purchaser of written notice from the Company that the prospectus is outdated or defective. This indemnity shall not apply to amounts paid in settlement of any such Loss if such settlement is effected without the consent of the Company, provided that the Company shall not unreasonably withhold its consent. 
+
+5\. Indemnification by the Purchasers. Each Purchaser shall severally and not jointly indemnify and hold harmless the Company, each of its directors, each of its officers, legal counsel and accountants for the Company, each person (if any) who controls the Company within the meaning of the Act and any underwriter (as defined in the Act) for the Company, against any Losses to which the Company or any other such indemnified person may become subject under the Act or any rule or regulation thereunder or otherwise to the extent that such Losses (i) are caused solely by any untrue statement or alleged untrue statement of any material fact contained in any preliminary prospectus (if used prior to the effective date of the Registration Statement), or contained, on the Effective Date thereof, in any Registration Statement of which such Purchaser’s Registrable Securities were the subject, the prospectus contained therein, any amendment or supplement thereto, or (ii) arise out of or are based solely upon the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, in each case to the extent, but only to the extent, that such untrue statement or alleged untrue statement or omission or alleged omission was made in strict reliance upon and in strict conformity with information furnished to the Company by such Purchaser, in writing, expressly for inclusion in the Registration Statement; provided, however, that the aggregate liability of any Purchaser shall not be greater than the net proceeds received by such Purchaser upon the sale of the Registrable Securities giving rise to such indemnification obligation and provided, however, that this indemnity shall not apply if the Losses are the result of fraud, bad faith, gross negligence or willful misconduct of the Company. This indemnity shall not apply to amounts paid in settlement of any such Loss or related Action if such settlement is effected without the consent of such Purchaser. 
+
+6\. Additional Provisions. 
+
+(a) Each Purchaser and each other person indemnified pursuant to Section 4 above shall, in the event that it receives notice of the commencement of any Action against it which is based upon an alleged act or omission which, if proven, would result in the Company’s having to indemnify it pursuant to Section 4 above, promptly notify the Company, in writing, of the commencement of such Action and permit the Company, if the Company so notifies such Purchaser or other indemnified person within thirty (30) days after receipt by the Company of notice of the commencement of the Action, to assume the defense of such Action with counsel 
+
+7 
+
+* * *
+
+reasonably satisfactory to such Purchaser; provided, however, that such Purchaser or other indemnified person shall be entitled to retain its own counsel at its own expense. The omission to notify the Company promptly of the commencement of any such Action shall not relieve the Company of any liability to indemnify such Purchaser or such other indemnified person, as the case may be, under Section 4 above, from and after the Company’s receipt of such notice, except to the extent that the Company shall suffer any Losses by reason of such failure to give notice, and shall not relieve the Company of any other liabilities which it may have under this or any other agreement. 
+
+(b) The Company and each other person indemnified pursuant to Section 5 above shall, in the event that it receives notice of the commencement of any Action against it which is based upon an alleged act or omission which, if proven, would result in any Purchaser having to indemnify it pursuant to Section 5 above, promptly notify each Purchaser or other indemnified person, in writing, of the commencement of such Action and permit each Purchaser, if such Purchaser so notifies the Company within thirty (30) days after receipt by such Purchaser of notice of the commencement of the Action, to assume the defense of such Action with counsel reasonably satisfactory to the Company; provided, however, that the Company or other indemnified person shall be entitled to retain its own counsel at the Company’s expense. The omission to notify any Purchaser promptly of the commencement of any such Action shall not relieve the Purchasers of liability to indemnify the Company or such other indemnified person, as the case may be, under Section 5 above, from and after such Purchaser’s receipt of such notice, except to the extent that the subject Purchaser shall suffer any Losses by reason of such failure to give notice, and shall not relieve such Purchaser of any other liabilities which it may have under this or any other agreement. 
+
+(c) No indemnifying party, in the defense of any such Action, shall, except with the consent of each indemnified party, consent to entry of any judgment or enter into any settlement that does not include as an unconditional term thereof the giving by the claimant or plaintiff to such indemnified party of a release from all liability and further obligation in respect to such Action. Each indemnified party shall furnish such information regarding itself or the Action in question as an indemnifying party may reasonably request in writing and as shall be reasonably required in connection with defense of such Action resulting therefrom. 
+
+(d) If a court of competent jurisdiction determines that the foregoing indemnity provided under Sections 4 and 5 above is unavailable, or is insufficient to hold harmless an indemnified party, then the indemnifying party shall contribute to the amount paid or payable by the indemnified party as a result of such Losses (A) in such proportion as is appropriate to reflect the relative benefits received by the indemnifying party on the one hand and the indemnified party on the other, or (B) if the allocation provided by clause (A) above is not permitted by applicable law, or provides a lesser sum to the indemnified party than the amount hereinafter calculated, in such proportion as is appropriate to reflect not only the relative benefits received by the indemnifying party on the one hand and the indemnified party on the other, but also the relative fault of the indemnifying party and the indemnified party, as well as any other relevant equitable considerations. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. The aggregate liability of any 
+
+8 
+
+* * *
+
+Purchaser under this Section 6(d) shall not be greater than the net proceeds received by such Purchaser upon the sale of the Registrable Securities giving rise to the contribution obligation. 
+
+7\. Registration Expenses. All Costs and Expenses shall be borne by the Company whether or not any Registrable Securities are sold pursuant to a Registration Statement. 
+
+8\. Notices. All notices, requests, demands and other communications required or permitted under this Agreement shall be given in accordance with Section 5.4 of the Purchase Agreement. 
+
+9\. Waiver and Amendment. No waiver, amendment or modification of this Agreement or of any provision hereof shall be valid unless evidenced by a writing duly executed by the Company and those Purchasers that hold at least eighty percent (80%) of the Registrable Securities, provided that any amendment, waiver or modification hereof which would adversely affect the rights of the Company hereunder shall require approval of a majority of the directors of the Board unaffiliated with the Purchasers. No waiver of any default hereunder shall be deemed a waiver of any other, prior or subsequent default hereunder. 
+
+10\. Governing Law. This Agreement shall be governed by, construed under and interpreted and enforced in accordance with the laws of the State of New York, without giving effect to principles of choice of law. Any Action arising out of or relating to this Agreement shall be commenced in a federal or state court having competent jurisdiction in the State of New York, and for the purpose of any such Action, each of the parties and any assignees thereof submits to the personal jurisdiction of the State of New York. The parties hereby irrevocably consent to the exclusive personal jurisdiction of any state or federal court for New York County in the State of New York or the Southern District of New York. The parties hereby waive any objection to venue and any objection based on a more convenient form in any Action instituted under this Agreement. 
+
+11\. Captions. The captions and Section headings used in this Agreement are for convenience only, and shall not affect the construction or interpretation of this Agreement or any of the provisions hereof. 
+
+12\. Entire Agreement. This Agreement constitutes the sole and entire agreement and understanding between the parties hereto as to the subject matter hereof, and supersedes all prior discussions, agreements and understandings of every kind and nature between them as to such subject matter. 
+
+13\. No Third Party Beneficiaries. Except as expressly provided herein, this Agreement is not intended to confer upon any person any rights or remedies hereunder. 
+
+14\. Successors and Assigns. The Company may not sell, assign, transfer or otherwise convey any of its rights or delegate any of its duties under this Agreement, except to a corporation which has succeeded to substantially all of the business and assets of the Company and has assumed in writing its obligations under this Agreement, and this Agreement shall be binding on the Company and such successor. This Agreement shall be binding upon and inure to the benefit of and be enforceable by the Purchasers and their respective permitted successors and assigns. Without limiting the generality of the foregoing, any permitted transferee of Registrable 
+
+9 
+
+* * *
+
+Securities shall have the rights set forth in this Agreement, and such rights shall be enforceable against the Company by such transferees as third-party beneficiaries. 
+
+15\. Execution. This Agreement may be executed in two (2) or more counterparts, all of which when taken together shall be considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to the other party, it being understood that both parties need not sign the same counterpart. In the event that any signature is delivered by facsimile transmission, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile signature page were an original thereof. 
+
+16\. Term. This Agreement shall terminate upon the expiration of the Registration Period; provided, however, that the parties’ rights and obligations under Sections 4, 5, 6 and 7 shall survive any termination of this Agreement. 
+
+10 
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.   
+  
+COMPANY:  
+SEQUENOM, INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+* * *  
+  
+PURCHASERS:
+
+COMVEST INVESTMENT PARTNERS II LLC  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+LB I GROUP INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+PEQUOT PRIVATE EQUITY FUND IV, L.P.  
+  
+By:
+
+Pequot Capital Management, Inc., as Investment Manager  
+  
+By:  
+  
+Name:
+
+Aryeh Davis  
+  
+Title:
+
+COO & General Counsel  
+  
+SIEMENS VENTURE CAPITAL GMBH  
+  
+By:  
+  
+Name:  
+  
+Title:

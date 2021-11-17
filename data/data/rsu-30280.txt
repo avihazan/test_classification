@@ -1,0 +1,261 @@
+  
+
+
+  
+
+
+Exhibit 10.7
+
+  
+
+
+Executive Version
+
+Comverse, Inc. 
+
+2012 Stock Incentive Compensation Plan 
+
+
+
+  
+
+
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Award Agreement”) is made effective from and after the date of grant as specified in the Electronic Grant Acceptance Web Page (the “Date of Grant”) by and between Comverse, Inc., a Delaware corporation (with any successor, the “Company”), and the person to whom the Electronic Grant Acceptance Web Page (the “Notice of Grant”) is addressed (the “Participant”).
+
+R E C I T A L S:
+
+WHEREAS, the Company has adopted the Comverse, Inc. 2012 Stock Incentive Compensation Plan as amended from time to time (the “Plan”), which is incorporated herein by reference and made a part of this Award Agreement. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its stockholders to grant the restricted stock units provided for herein to the Participant pursuant to the Plan and the terms set forth herein, and the Board has approved such grant.
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows:
+
+1.Restricted Stock Unit Award. Subject to the terms and conditions of the Plan and this Award Agreement, the Company hereby grants to the Participant the number of Restricted Stock Units indicated in the Notice of Grant (the “RSUs”). Each RSU represents one notional Share.
+
+  
+
+
+2.Settlement of RSUs. On each Vesting Date (as defined below) or as soon as practicable, but no later than sixty (60) days, thereafter, the Company shall deliver to the Participant one or more certificates (or provide for book-entry) representing the number of Shares equal to the number of RSUs which vested on such Vesting Date. The Company shall not be liable to the Participant for damages relating to any delays in issuing certificates, any loss of certificates, or any mistakes or errors in issuance of the certificates or in the certificates themselves (or book entries, respectively, as the case may be). Prior to settlement, Participant shall make arrangements with the Committee for the satisfaction of any federal, state, local or foreign withholding obligations that may arise in connection with such settlement in accordance with the terms of the Plan and this Award Agreement in accordance with Section 12 below.
+
+  
+
+
+3.Vesting of RSUs.
+
+  
+
+
+(a)Except as otherwise provided in Section 4 hereof, Subject to the Participant's Continuous Service through the applicable Vesting Date, the RSUs shall vest pursuant to the vesting schedule set forth in the Notice of Grant (each, a “Vesting Date”).
+
+  
+
+
+(b)Notwithstanding any provision of Section 3(a) to the contrary, in the event of a Change of Control, (i) if the continuing entity fails to assume or replace the RSUs with a new award of equivalent value and substantially equivalent terms, the RSUs shall become fully vested, and (ii) if the continuing entity assumes or replaces the RSUs with a new award of equivalent value and substantially equivalent terms, the vesting schedule of the RSUs shall not accelerate and the unvested portion of the RSUs shall be immediately forfeited upon any subsequent termination of Participant's Continuous Service unless otherwise provided in Section 4 hereof.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+4.Termination of Service. 
+
+  
+
+
+(a)If the Participant's Continuous Service is terminated by the Company or one of its Subsidiaries without Cause or by the Participant for Good Reason, in the absence of a Change of Control, vesting of the RSUs shall be prorated to the date of termination or resignation, and to the extent not then vested, the RSUs shall be immediately cancelled by the Company and forfeited by the Participant without consideration.
+
+  
+
+
+(b)If the Participant's Continuous Service is terminated either (A) within twenty four (24) months following a Change of Control, (i) by the Company or one of its Subsidiaries without Cause or (ii) by the Participant for Good Reason, or (B) due to the Participant's death or Disability, the RSUs shall become immediately fully vested.
+
+  
+
+
+(c)Subject to the terms of the Employment Agreement and any severance plan (to the extent applicable to Participant), if the Participant's Continuous Service is terminated for any reason other than as described in Section 4(a) or (b) hereof, the RSUs, to the extent not then vested, shall be immediately cancelled by the Company and forfeited by the Participant without consideration.
+
+  
+
+
+5.No Right to Continued Service. The granting of the RSUs evidenced hereby and this Award Agreement shall impose no obligation on the Company, any Subsidiary or any Affiliate to continue the Continuous Service of the Participant and shall not lessen or affect any right that the Company, any Subsidiary or any Affiliate may have to terminate the Continuous Service of such Participant.
+
+  
+
+
+6.Rights as a Stockholder. The Participant shall have none of the rights of a shareholder of the Company (including, without limitation dividend rights) unless and until the RSUs are settled for Shares.
+
+  
+
+
+7.Data Protection. The Participant consents to the collection, processing, transmission and storage by the Company in any form whatsoever, of any data of a professional or personal nature which is necessary for the purposes of introducing and administering the Plan. The Company may share such information with any Subsidiary or Affiliate, the trustee of any employee benefit trust, its registrars, trustees, brokers, other third party administrator or any Person who obtains control of the Company or acquires the Company, undertaking or part-undertaking which employs the Participant, wherever situated.
+
+  
+
+
+8.Securities Laws/Legend on Certificates. The issuance and delivery of Shares shall comply with all applicable requirements of law, including (without limitation) the Securities Act of 1933, as amended, the rules and regulations promulgated thereunder, state securities laws and regulations, and the regulations of any stock exchange or other securities market on which the Company's securities may then be traded. If the Company deems it necessary to ensure that the issuance of securities under the Plan is not required to be registered under any applicable securities laws, the Participant shall deliver to the Company an agreement or certificate containing such representations, warranties and covenants as the Company may deem necessary, which satisfies such requirements. Any certificates representing the Shares shall be subject to such stop transfer orders and other restrictions as the Committee may deem reasonably advisable, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions.
+
+  
+
+
+9.Transferability. The RSUs may not be assigned, alienated, pledged, attached, sold, transferred or encumbered by the Participant except in the event of the Participant's death (subject to the applicable laws of descent and distribution) and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Subsidiary or Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. No transfer shall be permitted for value or consideration. Any permitted transfer of the RSUs to heirs or legatees of the Participant shall not be effective to bind the Company unless the Committee shall have been furnished with written notice thereof and a copy of such evidence as the Committee may deem necessary to establish the validity of the transfer and the acceptance by the transferee or transferees of the terms and conditions hereof.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+10.Adjustment of RSUs. Except as provided by Section 3(b) hereof, adjustments to the RSUs shall be made in accordance with the terms of the Plan.
+
+  
+
+
+11.Definitions. For purposes of this Award Agreement:
+
+“Change of Control” shall have the meaning given to such term in the Plan. 
+
+“Disability” shall have the meaning given to such term in the Employment Agreement or, in the absence of such term in the Employment Agreement, the meaning given to such term in the Plan.
+
+“Employment Agreement” shall mean the employment agreement by and among the Company and the Participant as may be amended from time to time.
+
+“Good Reason” shall have the meaning given to such term in the Employment Agreement, or, in the absence of such term in the Employment Agreement, such term shall mean, without Participant's prior written consent, the occurrence of any of the following events or actions: (i) any material reduction in Participant's annual base salary; (ii) an actual relocation of Participant's principal office to another location more than 50 miles from its location on the date Effective Date (as defined in the Employment Agreement); or (iii) a material and adverse reduction in the nature or scope of Participant's responsibilities, duties or authorities; or (iv) the Company fails to adopt a severance policy, program or agreement at least ninety (90) days prior to expiration of the Term (as defined in the Employment Agreement) that will be applicable to Participant following expiration of the Term; 
+
+provided, however, that no event described in clause (i), (ii) or (iii) shall constitute Good Reason unless (A) Participant has given the Company written notice of the termination, setting forth the conduct of the Company that is alleged to constitute Good Reason, within thirty (30) days of the first date on which Participant has knowledge of such conduct, and (B) Participant has provided the Company at least thirty (30) days following the date on which such notice is provided to cure such conduct and the Company has failed to do so. Failing such cure, a termination of employment by Participant for Good Reason shall be effective on the day following the expiration of such cure period.
+
+12.Withholding. The Participant may be required to pay to the Company or any Affiliate and the Company shall have the right and is hereby authorized to withhold, any applicable withholding taxes in respect of the RSUs, their grant, vesting, delivery or otherwise and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes.
+
+  
+
+
+13.Notices. Any notification required by the terms of this Award Agreement shall be given in writing and shall be deemed effective upon personal delivery or within three (3) days of deposit with the United States Postal Service, by registered or certified mail, with postage and fees prepaid. A notice shall be addressed to the Company, Attention: Secretary, at its principal executive office and to the Participant at the address that he or she most recently provided to the Company.
+
+  
+
+
+14.Entire Agreement. The Award Agreement, the Notice of Grant, the Plan, the Employment Agreement, and any severance plan to the extent applicable to Participant, constitute the entire contract between the parties hereto with regard to the subject matter hereof. They supersede any other agreements, representations or understandings (whether oral or written and whether express or implied) which relate to the subject matter hereof. In the event of any contradiction or inconsistency between this Award Agreement and the Employment Agreement or any severance plan applicable to Participant, the provisions of the Employment Agreement and any such severance plan applicable to Participant shall prevail.
+
+  
+
+
+15.Waiver. No waiver of any breach or condition of this Award Agreement shall be deemed to be a waiver of any other or subsequent breach or condition whether of like or different nature.
+
+  
+
+
+16.Participant Undertaking. The Participant agrees to take whatever additional action and execute whatever additional documents the Company may deem necessary or advisable to carry out or effect one or more of the obligations or restrictions imposed on either the Participant or the RSUs pursuant to this Agreement.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+17.Successors and Assigns. The provisions of this Award Agreement shall inure to the benefit of, and be binding upon, the Company and its successors and assigns and upon the Participant, the Participant's assigns and the legal representatives, heirs and legatees of the Participant's estate, whether or not any such person shall have become a party to this Award Agreement and agreed in writing to be joined herein and be bound by the terms hereof.
+
+  
+
+
+18.Choice of Law; Jurisdiction; Waiver of Jury Trial. This Award Agreement shall be governed by the laws of the State of Delaware, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Award Agreement to the substantive law of another jurisdiction.
+
+  
+
+
+SUBJECT TO THE TERMS OF THIS AWARD AGREEMENT, THE PARTIES AGREE THAT ANY AND ALL ACTIONS ARISING UNDER OR IN RESPECT OF THIS AWARD AGREEMENT SHALL BE LITIGATED IN THE FEDERAL OR STATE COURTS IN DELAWARE. BY EXECUTING AND DELIVERING THIS AWARD AGREEMENT, EACH PARTY IRREVOCABLY SUBMITS TO THE PERSONAL JURISDICTION OF SUCH COURTS FOR ITSELF, HIMSELF OR HERSELF AND IN RESPECT OF ITS, HIS OR HER PROPERTY WITH RESPECT TO SUCH ACTION. EACH PARTY AGREES THAT VENUE WOULD BE PROPER IN ANY OF SUCH COURTS, AND HEREBY WAIVES ANY OBJECTION THAT ANY SUCH COURT IS AN IMPROPER OR INCONVENIENT FORUM FOR THE RESOLUTION OF ANY SUCH ACTION. 
+
+EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES ALL RIGHT TO TRIAL BY JURY IN ANY ACTION, PROCEEDING OR COUNTERCLAIM ARISING OUT OF OR RELATING TO THIS AWARD AGREEMENT.
+
+19.RSUs Subject to Plan. By entering into this Award Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan. The RSUs are subject to the Plan. The terms and provisions of the Plan as it may be amended from time to time are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail. The Participant has had the opportunity to retain counsel, and has read carefully, and understands, the provisions of the Plan and this Award Agreement.
+
+  
+
+
+20.Amendment. The Committee may amend or alter this Award Agreement and the RSUs granted hereunder at any time, subject to the terms of the Plan.
+
+  
+
+
+21.Fractional Shares. Fractional shares shall not be issued and any rights thereto shall be forfeited without consideration.
+
+  
+
+
+22.Severability. The provisions of this Award Agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+
+  
+
+
+23.Headings. Section and sub-section headings are for convenient reference only and shall not control or affect the meaning of construction of any of its provisions.
+
+  
+
+
+24.No Guarantees Regarding Tax Treatment. Participants (or their beneficiaries) shall be responsible for all taxes with respect to the RSUs. The Committee and the Company make no guarantees regarding the tax treatment of the RSUs. Neither the Committee nor the Company has any obligation to take any action to prevent the assessment of any tax under Section 409A, Section 457A or otherwise and none of the Company, any Subsidiary or Affiliate, or any of their employees or representatives shall have any liability to the Participant (or their beneficiaries) with respect thereto.
+
+  
+
+
+25.Compliance with Section 409A. The Company intends that the RSUs be structured in compliance with, or to satisfy an exemption from, Section 409A, such that there are no adverse tax consequences, interest, or penalties under Section 409A as a result of the RSUs. In the event the RSUs are subject to Section 409A, 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+the Committee may, in its sole discretion, take the actions described in Section 11.1 of the Plan. Notwithstanding any contrary provision in the Plan or this Award Agreement, any payment(s) of “nonqualified deferred compensation” (within the meaning of Section 409A) that are otherwise required to be made under this Award Agreement to a “specified employee” (as defined under Section 409A) as a result of his or her “separation from service” (as defined below) (other than a payment that is not subject to Section 409A) shall be delayed for the first six (6) months following such “separation from service” and shall instead be paid on the date that immediately follows the end of such six (6) month period (or, if earlier, within 10 business days following the date of death of the specified employee) or as soon as administratively practicable within 60 days thereafter, but in no event later than the end of the applicable taxable year. A termination of Continuous Service shall not be deemed to have occurred for purposes of any provision of the Award Agreement providing for the payment of any amounts or benefits that are considered nonqualified deferred compensation under Section 409A upon or following a termination of Continuous Service, unless such termination is also a “separation from service” within the meaning of Section 409A and the payment thereof prior to a “separation from service” would violate Section 409A. For purposes of any such provision of this Award Agreement relating to any such payments or benefits, references to a “termination,” “termination of Continuous Service” or like terms shall mean “separation from service.”
+
+************************************
+
+  
+
+
+  
+
+
+  
+
+
+  
+

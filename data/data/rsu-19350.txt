@@ -1,0 +1,244 @@
+Exhibit 10.2
+
+![](logo.jpg)
+
+This document constitutes part of the prospectus covering   
+securities that have been registered under the Securities Act of 1933.  
+  
+ICF International, Inc.  
+2010 Omnibus Incentive Plan, As Amended  
+
+
+THIS AGREEMENT, effective as of the Grant Date set forth below, represents a grant of performance shares (“Performance Shares”) by ICF International, Inc., a Delaware corporation (the “Company”), to the Participant named below, pursuant to the provisions of the ICF International, Inc. 2010 Omnibus Incentive Plan, as amended June 7, 2013 (the “Plan”).
+
+You have been selected to receive a grant of Performance Shares pursuant to the Plan, as specified below. 
+
+The Plan provides a description of the terms and conditions governing the Performance Shares. If there is any inconsistency between the terms of this Agreement and the terms of the Plan, the Plan’s terms shall completely supersede and replace the conflicting terms of this Agreement. All capitalized terms used herein shall have the meanings ascribed to them in the Plan, unless specifically set forth otherwise herein. 
+
+The parties hereto agree as follows: 
+
+Participant: Sudhakar Kesavan
+
+Grant Date: 
+
+Target Number of Performance Shares Granted:
+
+Performance Period:
+
+January 1, 2015 through December 31, 2017  
+  
+Performance Measures: Compounded Annual Growth Rate (“CAGR”) in Earnings per Share:  
+January 1, 2015 to December 31, 2016  
+Relative Total Shareholder Return (“rTSR”):  
+  
+January 1, 2015 to December 31, 2017   
+  
+Purchase Price: None   
+  
+1\. Definitions: 
+
+(a)
+
+“Average Stock Price” means the average of the closing prices of a Share, as reported on NASDAQ (or such other stock exchange as is applicable), for the forty-five (45) trading day period immediately preceding the date for which the Average Stock Price is being determined hereunder.   
+  
+* * *
+
+(b)
+
+“EPS” or “Earnings per Share” means reported net income determined in accordance with United States generally accepted accounting principles (“GAAP”) divided by the weighted average number of Shares outstanding, adjusted to exclude the following items:  
+  
+1.
+
+Changes in newly issued or existing accounting principles.   
+  
+2.
+
+Gains and losses from dispositions of legal entities, subsidiaries and significant business lines/locations.  
+  
+3.
+
+Costs associated with mergers and acquisitions in the current year.  
+  
+4.
+
+Costs associated with unplanned reduction in force (“RIF”).  
+  
+5.
+
+Goodwill impairment.  
+  
+6.
+
+Acts of God and related insurance recoveries.  
+  
+7.
+
+Effects of any “extraordinary items” (for fiscal years of the Company commencing prior to the effective date of Subtopic 225-20 of the Financial Accounting Standards Board) as determined under GAAP, or other unusual or infrequently occurring gain or loss or other extraordinary item.  
+  
+8.
+
+The settlement of tax audits resulting in a significant financial impact (more or less than amounts previously recorded) from assets or businesses acquired within the past three years.  
+  
+9.
+
+Financial impact due to significant capital allocation, restructuring, or investment actions approved by the Board of Directors (e.g., dividend programs, issuance of a bond, issuance of a new class of stock, branding investments, etc.).  
+  
+10.
+
+Settlements and costs associated with actual or threatened legal actions related to events occurring more than three (3) years before the start of the Performance Period.   
+  
+11.
+
+Effects of any statutory adjustments to corporate tax rates and the tax benefits/losses from assets acquired.  
+  
+12.
+
+Abnormal government actions adversely affecting the Company (e.g., government shutdowns).  
+  
+13.
+
+Government fines and penalties.  
+  
+(c)
+
+“rTSR” means the Company’s cumulative total shareholder return over the Performance Period relative to its Peer Group (defined below) as measured by (A) the sum of (i) the Company’s Average Stock Price (for the forty-five (45) day trading period ending December 31, 2017), and (ii) the cumulative amount of dividends declared during the Performance Period, assuming dividend reinvestment on the ex-dividend date, divided by (B) the Company’s Average Stock Price at the beginning of the Performance Period (for the forty-five (45) day trading period ending December 31, 2014); provided, however, that for purposes of calculating rTSR percentile rank, the Company shall be excluded from the Peer Group.  
+  
+\- 2 -
+
+* * *
+
+2\. Employment with the Company. Except as otherwise set forth in Section 4 of this Agreement, the Performance Shares granted hereunder are granted on the condition that the Participant remains an Employee of the Company or its Subsidiaries from the Grant Date through (and including) the end of the Performance Period. This Award of Performance Shares shall not confer any right to the Participant (or any other Participant) to be granted future Performance Shares or other Awards under the Plan. 
+
+3\. Committee Determination. This Award of Performance Shares represents an agreement by the Company to deliver Shares of the Company to the Participant in the future, pursuant to the terms hereof. The Award of Performance Shares will become payable pursuant to the terms of this Agreement and the Plan based on the achievement of performance goals over the Performance Period. Attainment of the performance goals shall be determined and certified by the Committee in writing within sixty (60) days following the end of the Performance Period. 
+
+4\. Performance Award. Subject to the terms of this Agreement and the Plan, the Company hereby grants the Participant an Award of Performance Shares in accordance with the following performance measures and performance goals:
+
+(a) Two Performance Periods. The number of Performance Shares the Participant will receive in connection with this Award will be based on the Company’s performance during two (2) periods. The initial performance period for the Participant’s Performance Shares (the “Initial Performance Period”) will begin on January 1, 2015 and end on December 31, 2016 (two years). The secondary performance period for the Participant’s Performance Shares (the “Secondary Performance Period”) will begin on January 1, 2015 and end on December 31, 2017 (three years). The Initial Performance Period and the Secondary Performance Period are collectively referred to as the “Performance Period.”
+
+(1)
+
+EPS Performance Measure for Initial Performance Period. The Award shall be further adjusted after the end of the Initial Performance Period based on the Company’s compounded annual growth EPS during the Initial Performance Period, as set forth in the table attached as Exhibit A hereto.   
+  
+(2)
+
+rTSR Performance Measure for Secondary Performance Period. The Award will be further adjusted in accordance with Exhibit B hereto after the end of the Secondary Performance Period based on the Company’s rTSR relative to its Peer Group (the list of which is attached as Exhibit C hereto).  
+  
+After the end of the Secondary Performance Period, the Committee will certify a percentage adjustment in accordance with Exhibit B, and the Participant will receive a final number of Performance Shares. 
+
+The levels of achievement of performance range are from the threshold level of achievement to the maximum level of achievement, as indicated on Exhibits A and B. For avoidance of doubt, there will not be an Award payout if the EPS threshold level of performance is not attained for the Initial Performance Period. If the threshold level of achievement is attained for the Performance Period, the Award will payout in accordance with the percentages set forth in Exhibits A and B. 
+
+(b) Partial Performance Period; Separation from Service. 
+
+(1)
+
+Death or Disability. If the Participant ceases to be a Participant in the Plan before the end of the Performance Period due to the Participant’s Termination of Employment as a result of death or Disability, then the Participant or the Participant’s beneficiaries shall receive, within thirty (30) days after the date of such death or Disability, fully vested Performance Shares that the Participant would have been issued pursuant to the Award based on the formula set forth in Section 4(b)(4)(i) and (ii) below, with the death or Disability being the qualifying event and the date of death or Disability shall be substituted for the date of the Change of Control, and with rTSR calculated as of the last day of the month in which such Termination of Employment occurs.  
+  
+\- 3 -
+
+* * *
+
+(2)
+
+Retirement: If Termination of Employment of the Participant with the Company is by reason of Retirement, the Performance Shares shall vest upon the date of the Participant’s Termination of Employment. Such Award shall be equal to the value of the Award at the end of the Performance Period based on the actual performance during the Performance Period.  
+  
+(3)
+
+Termination without Cause; Termination for Good Reason. If the Participant’s Termination of Employment is by reason of (i) termination by the Company without Cause or (ii) termination by the Participant for Good Reason, the Performance Shares shall vest upon the date of the Participant’s Termination of Employment. Such Award shall be equal to the value of the Award at the end of the Performance Period based on the actual performance during the Performance Period. As used in this Section 4(b)(3), “Good Reason” has the meaning ascribed to it for Termination of Employment unrelated to a Change of Control in an employment or severance agreement or letter between the Participant and the Company.  
+  
+(4)
+
+Change of Control. In the event of a Change of Control at any time during the Performance Period and the Participant’s Termination of Employment by the Company without Cause or by the Participant for Good Reason during the period of twenty-four (24) months following a Change of Control, the Performance Period shall be terminated upon such date of Termination of Employment and the Participant shall, within thirty (30) days following such date of Termination of Employment, receive fully vested Performance Shares, calculated based on (i) attainment of the EPS target performance level, and (ii) actual rTSR performance, with each of (i) and (ii) calculated up until the date of such Termination of Employment. As used in this Section 4(b)(4), the terms “Cause”, “Change of Control”, and “Good Reason” shall have the meanings set forth in the Participant’s December 29, 2008 Restated Severance Protection Agreement.  
+  
+(5)
+
+Termination for Any Other Reason. If the Participant voluntarily terminates employment other than for Good Reason, and this Award has not previously vested pursuant to Section 4(b)(4), the Performance Shares shall vest upon the date of the Participant’s Termination of Employment. Such Award shall be equal to the value of the Award at the end of the Performance Period based on the actual performance during the Performance Period.   
+  
+5\. Vesting of Award. Subject to the terms of the Plan and the Agreement, the Award, to the extent earned in accordance with Section 4(a) hereof, will be fully vested following the expiration of the Secondary Performance Period. The Committee has sole authority to determine whether and to what degree the Award has vested and is payable and to interpret the terms and conditions of this Agreement and the Plan. 
+
+6\. Timing of Payout. Payout of all vested Performance Shares shall occur as soon as administratively feasible following the end of the Secondary Performance Period, but in no event later than seventy-five (75) days after such vesting date, provided that, if such seventy-five (75) day period begins in one calendar year and ends in another, the Participant may not choose in which calendar year payment will be made. 
+
+\- 4 -
+
+* * *
+
+7\. Participant Not a Shareholder. This Award does not represent actual Shares of the Company and the Participant is not, and will not become, by virtue of this Award, a shareholder of the Company until such time as the Company delivers Shares to the Participant pursuant to Section 6 hereof. The Participant may not sell, transfer, pledge, assign, or otherwise alienate or hypothecate his or her rights under this Award and any attempt to do so shall result in immediate forfeiture of this Award. 
+
+8\. Recapitalization. In the event of any change in the capitalization of the Company such as a stock split or a corporate transaction such as any reorganization, merger, consolidation, spin-off, combination, repurchase, or exchange of Shares or other securities, stock dividend, liquidation, dissolution, or otherwise, the number and class of Performance Shares subject to this Agreement shall be equitably adjusted by the Committee in the manner set forth in Section 4.4 of the Plan to prevent dilution or enlargement of rights. 
+
+9\. Beneficiary Designation. The Participant may, from time to time, name any beneficiary or beneficiaries (who may be named contingently or successively) to whom any benefit under this Agreement is to be paid in case of his or her death before he or she receives any or all of such benefit. Each such designation shall revoke all prior designations by the Participant, shall be in a form prescribed by the Company, and will be effective only when filed by the Participant in writing with the Director of Human Resources of the Company during the Participant’s lifetime. In the absence of any such designation, benefits remaining unpaid at the Participant’s death shall be paid to the Participant’s estate. 
+
+10\. Continuation of Employment. This Agreement shall not confer upon the Participant any right to continue employment with the Company or its Subsidiaries, nor shall this Agreement interfere in any way with the Company’s or its Subsidiaries’ right to terminate the Participant’s employment at any time. The Participant’s employment shall continue to be on an “at-will” basis. 
+
+11\. Award Adjustments. Subject to Section 12(b) and to the extent consistent with the requirements of Section 162(m) of the Code, the Committee shall have authority to make adjustments to the terms and conditions of the Award in, recognition of unusual or nonrecurring events affecting the Company or its Subsidiaries, or the financial statements of the Company, or of changes in applicable laws, regulations or accounting principles, if the Committee determines that such adjustments are appropriate in order to prevent dilution or enlargement of the benefits or potential benefits intended to be made available under the Plan or necessary or appropriate to comply with applicable laws, rules or regulations; provided, however, that if the Participant is a Covered Employee, such adjustments may only be made if the effect thereof is to reduce the value and payout of the Award. 
+
+12\. Miscellaneous. 
+
+(a)
+
+This Agreement and the rights of the Participant hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. The Committee shall have the right to impose such restrictions on any Shares acquired pursuant to this Agreement, as it may deem advisable, including, without limitation, restrictions under applicable federal securities laws, under the requirements of any stock exchange or market upon which such Shares are then listed and/or traded, and under any blue sky or state securities laws applicable to such Shares. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this Agreement, all of which shall be binding upon the Participant.  
+  
+(b)
+
+The Committee may terminate, amend, or modify the Plan; provided, however, that no such termination, amendment, or modification of the Plan may in any material way adversely impair the Participant’s rights under this Agreement, without the written consent of the Participant.   
+  
+\- 5 -
+
+* * *
+
+(c)
+
+The Company shall have the power and the right to deduct or withhold, or require the Participant to remit to the Company, an amount sufficient to satisfy federal, state, and local taxes (including the Participant’s FICA obligation), domestic or foreign, required by law to be withheld with respect to any delivery of Shares under this Agreement.  
+  
+(d)
+
+The Participant may elect, subject to any procedural rules adopted by the Committee, to satisfy the withholding requirement, in whole or in part, by having the Company withhold Shares having an aggregate Fair Market Value on the date the tax is to be determined, equal to the minimum amount required by law to be withheld.   
+  
+(e)
+
+This Award Agreement is intended to be exempt from the requirements of Section 409A of the Code, and shall be interpreted and construed consistently with such intent; provided, however, that in no event shall the Company or any of its directors, officers, employees or advisors be responsible for any such additional tax, interest, or related tax penalties that may be imposed under Section 409A of the Code.   
+  
+(f)
+
+The Participant agrees to take all steps necessary to comply with all applicable provisions of federal and state securities laws in connection with the award of Performance Shares under this Agreement.  
+  
+(g)
+
+This Agreement shall be subject to all applicable laws, rules, and regulations, and to such approvals by any governmental agencies or national securities exchanges as may be required.  
+  
+(h)
+
+All obligations of the Company under the Plan and this Agreement, with respect to the Performance Shares, shall be binding on any successor to the Company, whether the existence of such successor is the result of a direct or indirect purchase, merger, consolidation, or otherwise, of all or substantially all of the business and/or assets of the Company.  
+  
+(i)
+
+To the extent any provision of this Agreement is held by a court of competent jurisdiction to be unenforceable or invalid for any reason, the remaining provisions of this Agreement shall not be affected by such holding and shall continue in full force in accordance with their terms.  
+  
+(j)
+
+To the extent not preempted by federal law, this Agreement shall be governed by, and construed in accordance with, the laws of the state of Delaware without giving effect to the conflicts of laws principles thereof.  
+  
+(k)
+
+This Agreement may be executed (i) in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument, or (ii) electronically. The parties hereto agree to execute such further instruments and to take such further action as may be reasonably necessary to carry out the purposes and intent of this Agreement.  
+  
+\- 6 -
+
+* * *
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed as of the Date of Grant.
+
+ICF INTERNATIONAL, INC.
+
+By: 
+
+Cheryl Grisé
+
+Title: Chair, Compensation Committee
+
+PARTICIPANT
+
+Sudhakar Kesavan
+
+Title: Chairman and Chief Executive Officer
+
+\- 7 -

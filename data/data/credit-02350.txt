@@ -1,0 +1,408 @@
+CONSENT AND AMENDMENT NO. 2
+
+TO AMENDED AND RESTATED
+
+
+
+This Consent and Amendment No. 2 to Amended and Restated Credit Agreement, dated as of May 21, 2007 (this “Amendment”), is entered into among TOUSA, Inc. (formerly known as Technical Olympic USA, Inc.), a Delaware corporation (the “Administrative Borrower”), and each Subsidiary Borrower (as defined in the Credit Agreement (as defined below) and, together with the Administrative Borrower, the “Borrowers”) and the Lenders (as defined below) listed on the signature pages hereto, and amends the Amended and Restated Credit Agreement dated as of January 30, 2007 (as amended to the date hereof and as the same may be further amended, supplemented or otherwise modified from time to time, the “Credit Agreement”) entered into among the Borrowers, the institutions from time to time party thereto as lenders (the “Lenders”), the Issuers (as defined in the Credit Agreement), Citicorp North America, Inc., as administrative agent (in such capacity, the “Administrative Agent”), and the other Agents and Arrangers named therein. Capitalized terms used herein and not otherwise defined herein shall have the meanings ascribed to them in the Credit Agreement. 
+
+W I T N E S S E T H : 
+
+Whereas, the Borrowers have requested that the Lenders consent to the sale of certain assets owned by Newmark Homes, L.P. (the “Seller”) comprising substantially all of the assets of the Administrative Borrower’s Dallas division, and amend the Credit Agreement to effect the changes described below; 
+
+Now, Therefore, in consideration of the premises and for other good and valuable consideration (the receipt and sufficiency of which is hereby acknowledged), the parties hereto hereby agree as follows: 
+
+Section 1. Consent to Sale of Dallas Division  
+  
+(a) The Lenders consent to the sale of those assets of the Seller (the “Dallas Division”) more particularly described in the Asset Purchase Agreement dated May 9, 2007, between Wall Homes Texas LLC, as Buyer, and the Seller, as Seller, a copy of which is attached to this Amendment as Exhibit A (the “Sale Agreement”), subject to satisfaction (or waiver in writing by the Requisite Lenders) of each of the following conditions: 
+
+(i) the sale of the Dallas Division is made in accordance with the terms of the Sale Agreement; 
+
+(ii) the Administrative Borrower shall have delivered to the Administrative Agent a pro forma Borrowing Base Certificate based upon the Borrowing Base Certificate then in effect excluding the Dallas Division, which pro forma Borrowing Base Certificate shall demonstrate that following the application of the net sales proceeds to be received by the Seller under the Sale Agreement pursuant to clause (iii) below, the aggregate Revolving Credit Outstandings will be less than the recalculated Borrowing Base set forth in such pro forma Borrowing Base Certificate; 
+
+(iii) 100% of the net sales proceeds payable to the Seller at the Closing (as defined in the Sale Agreement) are paid directly to the Administrative Agent as a prepayment under Section 2.8(a) of the Credit Agreement to the extent necessary to reduce outstanding Loans to zero, and the requirements of such Section 2.8(a) for prior notice of prepayment and for any prepayment to be in integral multiples of $1,000,000 are both hereby waived with respect to the prepayment required under this clause (iii); and 
+
+(iv) notwithstanding anything to the contrary contained in the Credit Agreement (A) the pro forma Borrowing Base Certificate described in clause (ii) above shall constitute the Borrowing Base Certificate in effect under the Credit Agreement and (B) the Borrowing Base shall be the recalculated Borrowing Base as set forth in such pro forma Borrowing Base Certificate, until the delivery of the next monthly Borrowing Base Certificate pursuant to the Credit Agreement following the effectiveness of the sale of the Dallas Division pursuant to the Sale Agreement. 
+
+(b) The Administrative Agent is hereby authorized and directed to release the Dallas Division from the lien of any Mortgage and any Security Agreement upon satisfaction of the conditions set forth in clauses (ii) and (iii) above. 
+
+Section 2. Amendments to the Credit Agreement  
+  
+(a) Section 7.2(i) of the Credit Agreement is hereby amended by adding the following additional clause to the end thereof: 
+
+and ; provided, further, that for the period from March 31, 2007 through July 31, 2007, and for purposes of this Section 7.2(i) only, Adjusted Consolidated Tangible Net Worth of the Administrative Borrower and its Restricted Subsidiaries shall be calculated by adding back abandonment and related impairment charges taken during such period in accordance with GAAP with respect to abandonment and/or termination of option rights under land bank and purchase option arrangements to which the Administrative Borrower or any of its Restricted Subsidiaries is or was a party; 
+
+(b) Section 6.1(c) of the Credit Agreement is hereby amended by adding the following additional language as a new clause (iii) to the end thereof: 
+
+(iii) commencing with the quarter ending June 30, 2007, a certificate of a Responsible Officer of the Administrative Borrower showing in reasonable detail the calculations for determining compliance with Section 7.2(i) as of the date of such certificate. 
+
+Section 3. Conditions Precedent to the Effectiveness of this Amendment  
+  
+This Amendment shall become effective as of the date (the “Effective Date”) when, and only when, each of the following conditions precedent shall have been satisfied or waived by the Administrative Agent: 
+
+(i) Executed Counterparts. The Administrative Agent shall have received this Amendment duly executed by each Borrower and the Requisite Lenders. 
+
+(ii) Corporate and Other Proceedings. All corporate and other proceedings, and all documents, instruments and other legal matters in connection with the transactions contemplated by this Amendment shall be reasonably satisfactory in all respects to the Administrative Agent. 
+
+(iii) No Default or Event of Default. After giving effect to this Amendment, no Default or Event of Default shall have occurred and be continuing. 
+
+(iv) Costs and Expenses Paid. The Borrowers shall have paid all costs and invoiced out-of-pocket expenses of the Administrative Agent then due under Section 10.3 of the Credit Agreement, including invoiced expenses incurred in connection with the preparation, reproduction, execution and delivery of this Amendment (including, without limitation, the reasonable fees and out-of-pocket expenses of counsel) and all other costs, expenses and fees then due under any Loan Document. 
+
+Section 4. Representations and Warranties  
+  
+On and as of the Effective Date, after giving effect to this Amendment, each Borrower hereby represents and warrants to the Administrative Agent and each Lender as follows: 
+
+(i) this Amendment has been duly authorized, executed and delivered by each Borrower and constitutes the legal, valid and binding obligations of such Borrower enforceable against such Borrower in accordance with its terms and the Credit Agreement as amended by this Amendment and constitutes the legal, valid and binding obligation of such Borrower enforceable against such Borrower in accordance with its terms, in each case, subject to applicable bankruptcy, insolvency, fraudulent conveyance, reorganization, moratorium and similar laws affecting creditors’ rights and remedies generally and subject to general principals of equity, regardless of whether considered in a proceeding in equity or at law; 
+
+(ii) each of the representations and warranties contained in Article IV of the Credit Agreement and each other Loan Document is true and correct in all material respects on and as of the Effective Date, as if made on and as of such date and except to the extent that such representations and warranties specifically relate to a specific date, in which case such representations and warranties shall be true and correct in all material respects as of such specific date; provided, however, that references therein to the “Credit Agreement” shall be deemed to refer to the Credit Agreement as amended hereby and after giving effect to the consents and waivers set forth herein; and 
+
+(iii) no Default or Event of Default has occurred and is continuing. 
+
+Section 5. Reference to the Effect on the Loan Documents  
+  
+(a) As of the Effective Date, each reference in the Credit Agreement to “this Agreement,” “hereunder,” “hereof,” “herein,” or words of like import, and each reference in the other Loan Documents to the Credit Agreement (including, without limitation, by means of words like “thereunder”, “thereof” and words of like import), shall mean and be a reference to the Credit Agreement as amended hereby, and this Amendment and the Credit Agreement shall be read together and construed as a single instrument. Each of the table of contents and lists of Exhibits and Schedules of the Credit Agreement shall be amended to reflect the changes made in this Amendment as of the Effective Date. 
+
+(b) Except as expressly amended hereby or specifically waived above, all of the terms and provisions of the Credit Agreement and all other Loan Documents are and shall remain in full force and effect and are hereby ratified and confirmed. 
+
+(c) The execution, delivery and effectiveness of this Amendment shall not, except as expressly provided herein, operate as a waiver of any right, power or remedy of the Lenders, the Borrowers, Joint Lead Arrangers or the agents under any of the Loan Documents, nor constitute a waiver or amendment of any other provision of any of the Loan Documents or for any purpose except as expressly set forth herein. 
+
+(d) This Amendment is a Loan Document. 
+
+(e) Each Subsidiary Borrower hereby reaffirms its obligations as a Guarantor under the Guaranty in all respects. 
+
+Section 6. Execution in Counterparts  
+  
+This Amendment may be executed in any number of counterparts and by different parties in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement. Signature pages may be detached from multiple separate counterparts and attached to a single counterpart so that all signature pages are attached to the same document. Delivery of an executed counterpart by telecopy or electronic transmission shall be effective as delivery of a manually executed counterpart of this Amendment. 
+
+Section 7. Governing Law  
+  
+This Amendment and the rights and obligations of the parties shall be governed by, and construed and interpreted in accordance with, the law of the State of New York. 
+
+Section 8. Section Titles  
+  
+The section titles contained in this Amendment are and shall be without substantive meaning or content of any kind whatsoever and are not a part of the agreement between the parties hereto, except when used to reference a section. Any reference to the number of a clause, sub-clause or subsection of any Loan Document immediately followed by a reference in parenthesis to the title of the section of such Loan Document containing such clause, sub-clause or subsection is a reference to such clause, sub-clause or subsection and not to the entire section; provided, however, that, in case of direct conflict between the reference to the title and the reference to the number of such section, the reference to the title shall govern absent manifest error. If any reference to the number of a section (but not to any clause, sub-clause or subsection thereof) of any Loan Document is followed immediately by a reference in parenthesis to the title of a section of any Loan Document, the title reference shall govern in case of direct conflict absent manifest error. 
+
+Section 9. Notices  
+  
+All communications and notices hereunder shall be given as provided in the Credit Agreement. 
+
+Section 10. Severability  
+  
+The fact that any term or provision of this Agreement is held invalid, illegal or unenforceable as to any person in any situation in any jurisdiction shall not affect the validity, enforceability or legality of the remaining terms or provisions hereof or the validity, enforceability or legality of such offending term or provision in any other situation or jurisdiction or as applied to any person. 
+
+Section 11. Successors  
+  
+The terms of this Amendment shall be binding upon, and shall inure to the benefit of, the parties hereto and their respective successors and permitted assigns. 
+
+Section 12. Waiver of Jury Trial  
+  
+Each of the parties hereto irrevocably waives trial by jury in any action or proceeding with respect to this Amendment or any other Loan Document. 
+
+[SIGNATURE PAGES FOLLOW] 
+
+1 
+
+In Witness Whereof, the parties hereto have caused this Amendment to be executed by their respective officers, trustees and general partners thereunto duly authorized, as of the date first written above.   
+  
+TOUSA, INC. (formerly known as Technical Olympic USA, Inc.), as the Administrative Borrower  
+  
+  
+By: /s/ Russell Devendorf  
+  
+  
+Name: Russell Devendorf  
+  
+Title: Vice President & Treasurer  
+  
+Subsidiary Borrowers:  
+ENGLE HOMES DELAWARE, INC.  
+ENGLE HOMES RESIDENTIAL CONSTRUCTION, L.L.C.  
+ENGLE/JAMES LLC  
+MCKAY LANDING LLC  
+NEWMARK HOMES PURCHASING, L.P.  
+NEWMARK HOMES. L.L.C.  
+NEWMARK HOMES, L.P.  
+PREFERRED BUILDERS REALTY, INC.  
+SILVERLAKE INTERESTS, L.C.  
+TOI, LLC  
+TOUSA, LLC  
+TOUSA ASSOCIATES SERVICES COMPANY  
+TOUSA DELAWARE, INC.  
+TOUSA FUNDING, LLC  
+TOUSA HOMES, INC.  
+TOUSA HOMES, L.P.  
+TOUSA HOMES INVESTMENT #1, INC.  
+TOUSA HOMES FLORIDA, L.P.  
+TOUSA HOMES INVESTMENT #2, INC.  
+TOUSA HOMES INVESTMENT #2, LLC  
+TOUSA REALTY, INC.  
+TOUSA INVESTMENT #2, INC.  
+TOUSA HOMES ARIZONA, LLC  
+TOUSA HOMES COLORADO, LLC  
+TOUSA HOMES NEVADA, LLC  
+TOUSA HOMES MID-ATLANTIC HOLDING, LLC  
+TOUSA HOMES MID-ATLANTIC, LLC  
+TOUSA MID-ATLANTIC INVESTMENT, LLC  
+TOUSA VENTURES, LLC  
+TOUSA/WEST HOLDINGS, INC.  
+LORTON SOUTH CONDOMINIUM, LLC  
+ENGLE HOMES COMMERCIAL CONSTRUCTION, LLC  
+LB/TE #1, LLC  
+By: /s/ Russell Devendorf  
+Name: Russell Devendorf  
+Title: Vice President & Secretary  
+  
+2   
+  
+Subsidiary Borrowers (continued):  
+  
+NEWMARK HOMES BUSINESS TRUST  
+  
+By: /s/ Russell Devendorf  
+  
+Name: Russell Devendorf  
+  
+Title: Vice President & Secretary  
+  
+3 
+
+CITICORP NORTH AMERICA, INC.,  
+  
+as Administrative Agent and a Lender 
+
+By: /s/ David Mode  
+Name: David Mode  
+Title: Director  
+
+
+4 
+
+CITIBANK, N.A., as a Lender 
+
+By /s/ Thomas A. Neville  
+Name: Thomas A. Neville  
+Title: Attorney-In-Fact  
+
+
+5 
+
+DEUTSCHE BANK TRUST COMPANY AMERICAS, as a  
+Lender  
+  
+By:   
+Name:  
+Title:  
+
+
+By:   
+Name:  
+Title:  
+
+
+6 
+
+JPMORGAN CHASE BANK, N.A., as a Lender  
+  
+By: /s/ Elizabeth A. Kelley  
+Name: Elizabeth A. Kelley  
+Title: Managing Director 
+
+7    
+WACHOVIA BANK, N.A., as 
+
+a Lender 
+
+By: /s/ R. Scott Holtzapple  
+Name: R. Scott Holtzapple  
+Title: Senior Vice President 
+
+8    
+BANK OF AMERICA, as 
+
+a Lender 
+
+By: /s/ Coleigh McKay  
+Name: Coleigh McKay  
+Title: Vice President  
+
+
+9 
+
+BANK OF THE WEST, a California Banking  
+Corporation, as a Lender  
+  
+By:   
+Name:  
+Title:  
+
+
+By:   
+Name:  
+Title: 
+
+10    
+BRANCH BANKING AND TRUST COMPANY, as a 
+
+Lender 
+
+By:   
+Name:  
+Title: 
+
+11    
+BANKUNITED, FSB, as a Lender 
+
+By:   
+Name:  
+Title: 
+
+12    
+COMERICA BANK, as a Lender 
+
+By: /s/ Charles Weddell  
+Name: Charles Weddell  
+Title: Vice President 
+
+13    
+COMPASS BANK, an Alabama 
+
+banking corporation, as a Lender 
+
+By: /s/ Johanna Duke Paley  
+Name: Johanna Duke Paley  
+Title: Senior Vice President 
+
+14    
+CREDIT SUISSE, CAYMAN ISLANDS BRANCH, as a Lender 
+
+By: /s/ Robert Franz  
+Name: Robert Franz  
+Title: Managing Director  
+
+
+By: /s/ Michael T. Wotanowski  
+Name: Michael T. Wotanowski  
+Title: Vice President 
+
+15    
+DK ACQUISITION PARTNERS, L.P., as a Lender 
+
+By:   
+Name:  
+Title:  
+
+
+16 
+
+GRAND CENTRAL ASSET TRUST SAN SERIES, as a Lender  
+  
+By: /s/ Jason Muelver  
+Name: Jason Muelver  
+Title: Attorney-in-fact 
+
+17    
+GUARANTY BANK, as a 
+
+Lender 
+
+By:   
+Name:  
+Title: 
+
+18    
+LISPENARD STREET CREDIT, as a Lender 
+
+By:   
+Name:  
+Title: 
+
+19    
+KEYBANK NATIONAL ASSOCIATION, as a Lender 
+
+By: /s/ Tayven Hike  
+Name: Tayven Hike, CFA  
+Title: Vice President 
+
+20    
+NATIXIS (fka NATEXIS BANQUES POPULAIRES), as a Lender 
+
+By:   
+Name:  
+Title:  
+
+
+By:   
+Name:  
+Title: 
+
+21    
+NATIONAL CITY BANK, as a Lender 
+
+By: /s/ David W. Olenik  
+Name: David W. Olenik  
+Title: Senior Vice President 
+
+22    
+PNC BANK, NATIONAL 
+
+ASSOCIATION, as a Lender 
+
+By: /s/ Douglas G. Paul  
+Name: Douglas G. Paul  
+Title: Senior Vice President 
+
+23    
+QUATTRO SPECIAL SITUATIONS, LLC, as a Lender 
+
+By: /s/ Patrick Criscillo  
+Name: Patrick Criscillo  
+Title: CFO 
+
+24    
+RAYMOND JAMES BANK, FSB, as a Lender 
+
+By: /s/ William J. Hindman  
+Name: William J. Hindman  
+Title: Vice President 
+
+25    
+SOVEREIGN BANK, as a 
+
+Lender 
+
+By: /s/ Erin T. Aslakson  
+Name: Erin T. Aslakson  
+Title: Assistant Vice President 
+
+26    
+UBS LOAN FINANCE, LLC, as a Lender 
+
+By:   
+Name:  
+Title:  
+
+
+By:   
+Name:  
+Title: 
+
+27    
+U.S. BANK NATIONAL ASSOCIATION, as a 
+
+Lender 
+
+By:   
+Name:  
+Title: 
+
+28    
+
+
+WASHINGTON MUTUAL BANK, as a Lender  
+  
+By:   
+Name:  
+Title:  
+
+
+29 

@@ -1,0 +1,201 @@
+Exhibit 10.1
+
+
+
+THIS AGREEMENT (this “Agreement”), between KBW, Inc., a Delaware corporation (the “Company”), and [EMPLOYEE NAME] (the “Employee”), dated February 5, 2010 (the “Grant Date”).
+
+W I T N E S S E T H
+
+In consideration of the mutual promises and covenants made herein and the mu­tual benefits to be derived herefrom, the parties hereto agree as follows:
+
+1.
+
+Grant, Vesting and Forfeiture of Restricted Stock.  
+  
+(a) Grant. Subject to the provisions of this Agreement (including the Period of Restriction set forth herein) and to the provisions of the KBW, Inc. 2009 Incentive Compensation Plan (the “Plan”), the Company hereby grants to the Employee on the Grant Date [NUMBER] shares of common stock of the Company, par value $0.01 per share (the “Restricted Stock”); provided, however, that such grant is conditioned on the Committee’s determination of the meaning of “Adjusted Pre Tax Net Income” for purposes of this Agreement in accordance with Section 1(b) hereof, during the first ninety (90) days of calendar year 2010, and if the Committee fails to make such determination, this Agreement and the grant of Restricted Stock hereunder shall automatically be cancelled and forfeited on the ninety-first (91st) day of calendar year 2010. All capitalized terms used herein, to the extent not defined, shall have the meaning set forth in the Plan.
+
+(b) Vesting during the Period of Restriction. Subject to the terms and conditions of this Agreement and those of the Plan, the Period of Restriction applicable to the total number of Shares of Restricted Stock shall commence on the Grant Date and shall lapse with respect to one-third (1/3) of such total number of Shares on February 23, 2011, February 23, 2012 and February 23, 2013, respectively, provided that with respect to each such installment, the Adjusted Pre Tax Net Income (as defined below) for the calendar year ended most recently prior to such date is positive, as certified in writing by the Committee, and provided further that, if the Period of Restriction does not lapse with respect to the February 23, 2011, February 23, 2012 or February 23, 2013 installments by virtue of the Adjusted Pre Tax Net Income for the preceding calendar year having been positive, then the Period of Restriction shall lapse as to such installment or installments on February 23, 2013 if the aggregate Adjusted Pre Tax Net Income for calendar years 2010, 2011 and 2012 is positive, and if, with respect to any such installment the Period of Restriction had not previously lapsed, if such aggregate Adjusted Pre Tax Net Income is not positive, then any such installment or installments shall be forfeited on February 23, 2013. “Adjusted Pre Tax Net Income” shall have the meaning determined in writing by the Committee for purposes of this Agreement within the first ninety (90) days of calendar year 2010.
+
+(c) Forfeiture upon Termination of Employment; Accelerated Vesting upon Termination Due to Death or Disability. Upon the Employee’s Termination for any reason (other than due to the Employee’s Retirement, death or Disability) during the Period of 
+
+* * *
+
+Restriction, all Shares of Restricted Stock subject to the Period of Restriction and not theretofore vested in accordance herewith shall be forfeited. Upon the Employee’s Termination during the Period of Restriction due to the Employee’s death or Disability, the Period of Restriction applicable to the Shares of Restricted Stock not theretofore forfeited in accordance herewith shall lapse, and such Shares of Restricted Stock shall become free of all restrictions and become fully vested. Upon the Employee’s Termination during the Period of Restriction upon Retirement, the Period of Restriction applicable to the Restricted Stock shall continue, and the Period of Restriction shall continue to potentially lapse and such Restricted Stock shall continue to potentially vest according to the vesting schedule specified in Section 1(b) hereof. Nothing in this Agreement or the Plan shall confer upon the Em­ployee any right to continue in the employ of the Company or any Subsidiary or Affiliate or interfere in any way with the right of the Company or any Subsidiary or Affiliate to terminate the Employee’s employment at any time.
+
+2.
+
+Issuance of Shares.  
+  
+During the Period of Restriction, the Restricted Stock may be evidenced by a stock certificate or certificates as set forth in Section 4 below or by a book-entry in the records of the Bank of New York Mellon (the “Transfer Agent”) in the Employee’s name, which shall be subject to a stop transfer order consistent with this Agreement and the Plan and the legend set forth in Section 4 hereof. Subject to Section 8 hereof (pertaining to the withholding of taxes), as soon as practicable after the applicable portion of the Period of Restriction lapses (provided there has been no prior forfeiture of the Restricted Stock pursuant to the terms of this Agreement and the Plan), the Company shall issue (or cause to be delivered) the Shares of Restricted Stock becoming vested upon such lapse to the Employee or to Employee’s personal representative, in book-entry or certificate form. Such Shares shall be free of restrictions or restrictive legends making reference to this Agreement, except that such Shares shall be subject to any restrictions required under the federal securities laws or as otherwise provided by Section 7 hereof. Notwithstanding the foregoing, the Company shall be entitled to hold the Shares of Restricted Stock that have vested until the Company or the Transfer Agent shall have received from the Employee a duly executed Form W-9 or W-8, as applicable.
+
+3.
+
+Non-transferability of the Restricted Stock.  
+  
+During the Period of Restriction, the Shares of Restricted Stock shall not be transferable by the Employee by means of sale, assignment, exchange, encumbrance, pledge or otherwise. Any purported or attempted transfer of such Shares or such rights shall be null and void.
+
+4.
+
+Rights as a Stockholder.  
+  
+Except as otherwise specifically provided in this Agreement, during the Period of Restriction the Employee shall have all the rights of a stockholder with respect to the Restricted Stock, including without limitation the right to vote the Restricted Stock and the right to receive any dividends with respect thereto. If the Company declares and pays cash dividends on the Shares during the Period of Restriction, the Employee shall be paid such dividends with respect to such Shares at such time as such dividends are paid to holders of Shares generally.
+
+\- 2 \- -
+
+* * *
+
+5.
+
+Certificates.  
+  
+Any certificates representing the Shares of Restricted Stock as originally issued or from time to time issued during the Period of Restriction shall bear the following legend:
+
+The Shares represented by this stock certificate have been granted as restricted stock under a Restricted Stock Agreement between the registered holder of these Shares and KBW, Inc. (the “Company”). The Shares represented by this stock certificate may not be sold, exchanged, assigned, transferred, pledged, hypothecated or otherwise encumbered or disposed of until the restrictions set forth in the Restricted Stock Agreement between the registered holder of these Shares and the Company shall have lapsed.
+
+6.
+
+Payment of Transfer Taxes, Fees and Other Expenses.  
+  
+The Company agrees to pay any and all original issue taxes and stock transfer taxes that may be imposed on the issuance of Shares received by an Employee in connection with the Restricted Stock, together with any and all other fees and expenses necessarily incurred by the Company in connection therewith.
+
+7.
+
+Other Restrictions.  
+  
+(a) The Restricted Stock shall be subject to the requirement that, if at any time the Company shall determine that (i) the listing, registration or qualification of the Shares subject or related thereto upon any securities exchange or under any state or fed­eral law, or (ii) the consent or approval of any government regulatory body, or (iii) an agreement by the Employee with respect to the disposition of Shares is necessary or de­sirable as a condition of, or in connection with, the delivery or purchase of Shares pursuant thereto, then in any such event, the grant of Restricted Stock shall not be effective unless such listing, registration, qualification, consent, approval or agreement shall have been effected or obtained free of any conditions not acceptable to the Company.
+
+(b) The Employee acknowledges that the Employee is subject to the Company’s policies regarding compliance with securities laws, including but not limited to its Insider Trading Policy (as in effect from time to time and any successor policies), and, pursuant to these policies, the Employee shall be required to obtain pre-clearance prior to purchasing or selling any of the Company’s securities, including any Shares issued upon vesting of the Restricted Stock, and may be prohibited from selling such Shares other than during an open trading window. The Employee further acknowledges that, in its discretion, the Company may prohibit the Employee from selling such Shares even during an open trading window if the Company has concerns over the potential for insider trading.
+
+8.
+
+Taxes and Withholding.  
+  
+No later than the date as of which an amount first becomes includible in the gross income of the Employee for federal, state, local or foreign income or employment or other tax purposes with respect to any Restricted Stock, the Employee shall pay to the Company, or make arrangements satisfactory to the Company regarding the payment of, all federal, state, local and foreign taxes that are required by applicable laws and regulations to be withheld with respect to 
+
+\- 3 \- -
+
+* * *
+
+such amount. The obligations of the Company under this Agreement shall be conditioned on compliance by the Employee with this Section 8, and the Company shall, to the extent permitted by law, have the right to deduct or cause to be deducted by the Transfer Agent any such taxes from any payment otherwise due to the Employee, including the delivery of the Restricted Stock that gives rise to the withholding requirement.
+
+9.
+
+Notices.  
+  
+All notices and other communications under this Agreement shall be in writing and shall be given by hand delivery to the other party or by facsimile, overnight courier, or registered or certified mail, return receipt requested, postage prepaid, addressed as follows:
+
+If to the Employee:
+
+At the most recent address
+
+on file at the Company.
+
+  
+
+
+If to the Company:
+
+KBW, Inc.
+
+787 Seventh Avenue
+
+New York, New York 10019
+
+Attention: Mitchell B. Kleinman, Esq.
+
+Executive Vice President and General Counsel
+
+Facsimile: (212) 541-6668
+
+  
+
+
+or to such other address or facsimile number as any party shall have furnished to the other in writing in accordance with this Section 9. Notices and communications shall be effective when actually received by the addressee. Notwithstanding the foregoing, the Employee consents to electronic delivery of documents required to be delivered by the Company under the securities laws.
+
+10.
+
+Effect of Agreement.  
+  
+Except as otherwise provided hereunder, this Agreement shall be binding upon and shall inure to the benefit of any successor or successors of the Company.
+
+11.
+
+Consent to Jurisdiction.  
+  
+Any and all disputes, controversies or claims arising under or out of this Agreement, including without limitation any issues involving the enforcement or interpretation of any of the provisions of this Agreement and/or relating to or concerning the Restricted Stock awarded under this Agreement, shall be finally settled by arbitration in New York City before, and in accordance with the rules then obtaining of, the New York Stock Exchange, Inc. (the “NYSE”) or, if the NYSE declines to arbitrate the matter, the American Arbitration Association (the “AAA”) in accordance with the commercial arbitration rules of the AAA.
+
+\- 4 \- -
+
+* * *
+
+12.
+
+Severability.  
+  
+The invalidity or enforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement.
+
+13.
+
+Conflicts and Interpretation.  
+  
+In the event of any conflict between this Agreement and the Plan, the Plan shall control. In the event of any ambiguity in this Agreement, or any matters as to which this Agreement is silent, the Plan shall govern including, without limitation, the provisions thereof pursuant to which the Committee has the power, among others, to (a) interpret the Plan, (b) establish, adopt, amend, waive and/or rescind rules and regulations relating to the Plan, and (c) exercise all such other authorities, take all such other actions and make all such other determinations as it deems necessary or advisable for the proper operation and/or administration of the Plan.
+
+14.
+
+Amendment.  
+  
+The Committee may modify, amend or waive the terms of this Restricted Stock award, including this Agreement, prospectively or retroactively, subject to the terms and conditions of the Plan. The waiver by either party of compliance with any provision of this Agreement shall not operate or be construed as a waiver of any other provision of this Agreement, or of any subsequent breach by such party of a provision of this Agreement.
+
+15.
+
+Headings.  
+  
+The headings of paragraphs herein are included solely for convenience of refer­ence and shall not affect the meaning or interpretation of any of the provisions of this Agree­ment.
+
+16.
+
+Counterparts.  
+  
+This Agreement may be executed in counterparts, which together shall constitute one and the same original.
+
+\- 5 \- -
+
+* * *
+
+IN WITNESS WHEREOF, as of the Grant Date above written, the Company has caused this Agreement to be executed on its behalf by a duly authorized officer and the Employee has hereunto set the Employee’s hand.
+
+KBW, INC.  
+  
+By:   
+  
+Mitchell Kleinman  
+  
+Executive Vice President and General Counsel  
+  
+AGREED AND ACCEPTED, as of the Grant Date  
+  
+By:   
+  
+Name of Employee:  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+\- 6 \- -
+
+* * *

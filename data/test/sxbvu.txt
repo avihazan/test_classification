@@ -1,0 +1,173 @@
+##### 
+
+Exhibit 10.39
+
+[CEO]
+
+COLOR KINETICS INCORPORATED
+
+
+
+Color Kinetics Incorporated, a Delaware corporation (the “Company”), hereby grants as of the date below (the “Grant Date”) to the person named below (the “Employee”) and the Employee hereby accepts, an option to purchase the number of shares (the “Option Shares”) listed below of the Company’s Common Stock $.001 par value per share (“Common Stock”), at the price per share and with a vesting start date (the “Vesting Start Date”) listed below, such option to be subject to the terms and conditions specified herein and in the attached Exhibit A. 
+
+Employee Name: 
+
+Grant Date: 
+
+Total Number of Shares: 
+
+Exercise Price Per Share: 
+
+Expiration Date of Option: 
+
+Vesting Schedule: This Option shall become exercisable for 25% of the Total Number of Option Shares on  , and for an additional 6.25% of the Total Number of Option Shares at the end of every three month period thereafter. 
+
+Acceleration of Vesting Upon Change-in Control: Upon a Change in Control, then, provided you sign the Release Agreement previously provided to you as Exhibit A to your agreement dated May 1, 2007, the vesting of your Option Shares shall be fully accelerated on the date of such Change in Control (after giving effect to any applicable revocation periods in the Release Agreement). For purposes of clarity, in the case of a Change in Control in which the consideration received by holders of the Company’s common stock consists entirely of cash, options vesting at or post the Change in Control are cash settlement instruments, payable at the difference between the Change in Control purchase price and the exercise price. 
+
+For purposes of this Agreement, a “Change of Control” with respect to a party means (a) the direct or indirect acquisition, whether in one or a series of transactions, by any person or related person constituting a group, of (i) beneficial ownership of issued and outstanding shares of stock of such party, the result of which is that such person or such group possesses in excess of fifty percent (50%) of the combined voting power of all then-issued and outstanding stock of such party, or (ii) the power to elect, appoint, or cause the election or appointment of at least a majority of the members of the board of directors (or equivalent governing body) of such party; (b) a merger or consolidation of a party with a person, or a reorganization or recapitalization of a party, provided that the result of such transaction, whether in one or a series of related transactions, is that the holders of the outstanding voting stock of such party immediately prior to such consummation do not possess in excess of fifty percent (50%) of the combined voting power of all of the then-issued and outstanding stock of such party or surviving person of such party, whether directly or indirectly, immediately after the consummation of such transaction; or (c) the sale or disposition, whether directly or indirectly, in one or a series of related transactions, of substantially all of the assets of a party. For purposes of the preceding sentence, the terms “person,” “group” and “beneficial ownership” shall have the meanings given to such terms under the Securities Exchange Act of 1934, as amended. 
+
+Lock-Up Agreement; Other Terms and Conditions: All shares purchased upon exercise of this Option are subject to the lock-up agreement set forth in Section 9 of the attached Terms and Conditions and to the other terms of the Option and Plan. 
+
+IN WITNESS WHEREOF, the Company and the Employee have caused this instrument to be executed as of the Grant Date set forth above.   
+  
+COLOR KINETICS INCORPORATED  
+  
+(Employee Signature and Date)
+
+10 Milk Street, Suite 1100  
+  
+Boston, MA 02108  
+  
+(Street Address)
+
+By:  
+  
+David K. Johnson  
+  
+Sr. Vice President and CFO  
+  
+(City/State/Zip Code)  
+  
+* * *
+
+##### 
+
+EXHIBIT A
+
+Incentive Stock Option Agreement
+
+Terms and Conditions 
+
+Color Kinetics Incorporated 2004
+
+Stock Incentive Plan
+
+This option is granted pursuant to and governed by the Company’s 2004 Stock Incentive Plan (the “Plan”) and, unless the context otherwise requires, terms used herein shall have the same meaning as in the Plan. Determinations made in connection with this Option pursuant to the Plan shall be governed by the Plan as it exists on the Grant Date. 
+
+Section 1. Grant of Option. Subject to the terms and conditions hereinafter set forth, the Holder is hereby given the right and option to purchase from the Company shares of the Company’s Common Stock, $.001 par value per share (the “Common Stock”). The Incentive Stock Option Agreement to which these Terms and Conditions are attached sets forth (i) the expiration date of the Option, (ii) its exercise price per share, (iii) the maximum number of shares that the Holder may purchase upon exercise hereof, (iv) the vesting schedule and (v) certain other terms and conditions applicable to this Option and incorporated herein. The right to purchase shares hereunder shall be cumulative. 
+
+This Option is and shall be subject in every respect to the provisions of the Company’s 2004 Stock Incentive Plan, as amended from time to time, which is incorporated herein by reference and made a part hereof. The Holder hereby accepts this Option subject to all the terms and provisions of the Plan and agrees that (i) in the event of any conflict between the terms hereof and those of the Plan, the latter shall prevail, and (ii) all decisions under and interpretations of the Plan by the Board of Directors of the Company (the “Board”) or the Committee shall be final, binding and conclusive upon the Holder and his heirs and legal representatives. References herein to the “Committee” shall mean the Committee as defined in the Plan. 
+
+Although this Option is intended to qualify as an incentive stock option under the Internal Revenue Code of 1986, as amended, the Company makes no representation as to the tax treatment to the Holder upon receipt or exercise of this Option or sale or other disposition of the shares covered by this Option . 
+
+Section 2. Exercise of Option. This Option may be exercised only to the extent such Option has vested pursuant to the terms of Section 1. Purchase of any shares hereunder shall be made by delivery to the Company of a written notice of exercise (the “Notice”) setting forth the number of shares with respect to which the Option is being exercised and the address to which the certificate for such shares is to be mailed, accompanied by: 
+
+(i) cash, certified or bank check or postal money order payable to the order of the Company for an amount equal to the Option price of such shares; 
+
+(ii) with the consent of the Committee, shares of Common Stock of the Company which (a) either have been purchased by the Holder on the open market, or (b) have been beneficially owned by the Holder for a period of at least six months and are not then subject to restriction under any Company plan (“mature shares”); such surrendered shares shall have a fair market value equal to or less than the Option price of such shares and shall be accompanied by cash or a certified or bank check or postal money order in an amount equal to the difference, if any, between the Option price of such shares and the fair market value of such shares; 
+
+(iii) with the consent of the Committee, a personal recourse note issued by the Holder to the Company in a principal amount equal to such aggregate exercise price and with such other terms, including interest rate and maturity, as the Company may determine in its discretion, provided that the interest rate borne by such note shall not be less than the lowest applicable federal rate, as defined in Section 1274(d) of the Internal Revenue Code of 1986, as amended. 
+
+(iv) with the consent of the Committee, if the class of Common Stock is registered under the Securities Exchange Act of 1934 at that time, subject to rules as may be established by the Committee, irrevocable instructions 
+
+* * *
+
+##### 
+
+to a broker to promptly deliver to the Company cash or a check payable and acceptable to the Company for the purchase price; 
+
+(v) with the consent of the Committee, instructions to reduce the number of shares otherwise issuable to the Holder upon the exercise of the Option by a number of shares of Common Stock having a fair market equal to the aggregate exercise price; provided, however, that the Holder otherwise owns an equal number of mature shares; or 
+
+(vi) with the consent of the Committee, a combination of (i), (ii), (iii), (iv) and/or (v). 
+
+For the purpose of the foregoing, the fair market value per share of the Common Stock so delivered to the Company shall be the closing price per share on the date of delivery as reported by such registered national securities exchange on which the Common Stock is listed, or, if the Common Stock is not listed on such an exchange, as quoted on NASDAQ; provided, that, if there is no trading on such date, the fair market value shall be deemed to be the closing price per share on the last preceding date on which the Common Stock was traded. If the Common Stock is not listed on any national registered securities exchange or quoted on NASDAQ, the fair market value of the Common Stock shall be determined in good faith by the Committee. 
+
+Section 3. Conditions and Limitations. The Company, in its discretion, may file a registration statement on Form S-8 under the Securities Act of 1933 to register shares of Common Stock reserved for issuance under the Plan. At any time at which such a registration statement is not in effect, it shall be an additional condition precedent to any exercise of this Option that the Holder shall deliver to the Company a customary “investment letter” satisfactory to the Company and its counsel in which, among other things, the Holder shall state that the Holder is purchasing the shares for investment and acknowledges that they are not freely transferable except in compliance with state and federal securities laws. 
+
+* * *
+
+##### 
+
+Section 4. Delivery of Shares. Within a reasonable time after receipt by the Company of the Notice and payment for any shares to be purchased hereunder and, if required as a condition to exercise, the investment letter described in Section 3, the Company will deliver or cause to be delivered to the Holder (or if any other individual or individuals are exercising this Option, to such individual or individuals) at the address specified in the Notice a certificate or certificates for the number of shares with respect to which the Option is then being exercised, registered in the name or names of the individual or individuals exercising the Option, either alone or jointly with another person or persons with rights of survivorship, as the individual or individuals exercising the Option shall prescribe in writing to the Company at or prior to such purchase; provided, however, that if any law or regulation or order of the Securities and Exchange Commission or other body having jurisdiction in the premises shall require the Company or the Holder (or the individual or individuals exercising this Option) to take any action in connection with the shares then being purchased, the date for the delivery of the certificates for such shares shall be extended for the period necessary to take and complete such action, it being understood that the Company shall have no obligation to take and complete any such action. The Company may imprint upon such certificate the legend set forth in the Plan or such other legends referencing stock transfer restrictions which counsel for the Company considers appropriate. Delivery by the Company of the certificates for such shares shall be deemed effected for all purposes when the Company or a stock transfer agent of the Company shall have deposited such certificates in the United States mail, addressed to the Holder, at the address specified in the Notice. 
+
+Section 5. Adjustments Upon Changes in Capitalization. The existence of this Option shall not affect in any way the right or power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company’s capital structure or its business, or any merger or consolidation of the Company, or any issue of Common Stock, or any issue of bonds, debentures, preferred or prior preference stock or other capital stock ahead of or affecting the Common Stock or the rights thereof, or the dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. 
+
+If the Company shall effect a stock dividend, stock split or similar change in capitalization affecting the shares of Common Stock outstanding, in any such case without receiving compensation therefor in money, services or property, then the number, class, and price per share of shares of Common Stock subject to this Option shall be appropriately adjusted in such a manner as to entitle the Holder to receive upon exercise of this Option, for the same aggregate cash consideration, the same total number and class of shares as the Holder would have received as a result of the event requiring the adjustment had the Holder exercised this Option in full immediately prior to such event. 
+
+Except as hereinbefore expressly provided, the issue by the Company of shares of stock of any class, or securities convertible into shares of stock of any class, for cash or property, or for labor or services, either upon direct sale or upon the exercise of rights or warrants to subscribe therefor, or upon the conversion of shares or obligations of the Company convertible into such shares or other securities, shall not affect, and no adjustment by reason therefor shall be made with respect to, the number or price of shares of Common Stock then subject to option. 
+
+Section 6. Effect of Certain Transactions. After a merger of one or more corporations with or into the Company or after a consolidation of the Company and one or more corporations in which the stockholders of the Company immediately prior to such merger or consolidation own after such merger or consolidation shares representing at least fifty percent (50%) of the voting power of the Company or the surviving or resulting corporation, as the case may be, the Holder shall, at no additional cost, be entitled upon exercise of this Option to receive in lieu of the shares of Common Stock as to which this Option was exercisable immediately prior to such event, the number and class of shares of stock or other securities, cash or property (including, without limitation, shares of stock or other securities of another corporation or Common Stock) to which the Holder would have been entitled pursuant to the terms of the agreement of merger or consolidation if, immediately prior to such merger or consolidation, the Holder had been the holder of record of a number of shares of Common Stock equal to the number of shares for which this Option shall be so exercised. 
+
+If the Company is merged with or into or consolidated with another corporation, other than a merger or consolidation in which the stockholders of the Company immediately prior to such merger or consolidation continue to own after such merger or consolidation shares representing at least fifty percent (50%) of the voting power of the Company or the surviving or resulting corporation, as the case may be, or if the Company is liquidated, or sells or otherwise disposes of substantially all its assets to another corporation while this Option remains outstanding, then 
+
+(i) subject to the provisions of clause (ii) below, after the effective date of such merger, consolidation, liquidation, sale or disposition, as the case may be, the Holder of this Option shall be entitled, upon exercise of this 
+
+* * *
+
+##### 
+
+Option, to receive, in lieu of the shares of Common Stock as to which this Option was exercisable immediately prior to such event, the number and class of shares of stock or other securities, cash or property (including, without limitation, shares of stock or other securities of another corporation or Common Stock) to which the Holder would have been entitled pursuant to the terms of the merger, consolidation, liquidation, sale or disposition if, immediately prior to such event, the Holder had been the holder of a number of shares of Common Stock equal to the number of shares as to which such Option shall be so exercised; or 
+
+(ii) this Option may be canceled by the Committee as of the effective date of any such merger, consolidation, liquidation, sale or disposition provided that (x) notice of such cancellation shall be given to the Holder and (y) the Holder shall have the right to exercise this Option to the extent that the same is then exercisable or, if the Committee shall have accelerated the time for exercise of this Option pursuant to clause (ii) above, in full during the 10-day period preceding and including the effective date of such merger, consolidation, liquidation, sale or disposition. 
+
+Section 7. Rights of Holder. No person shall, by virtue of the granting of this Option to the Holder, be deemed to be a holder of any shares purchasable under this Option or to be entitled to the rights or privileges of a holder of such shares unless and until this Option has been exercised with respect to such shares and they have been issued pursuant to that exercise of this Option. 
+
+The granting of this Option shall not impose upon the Company any obligations to employ or to continue to employ the Holder; and the right of the Company to terminate the employment of the Holder shall not be diminished or affected by reason of the fact that this Option has been granted to the Holder. 
+
+The Company shall, at all times while any portion of this Option is outstanding, reserve and keep available, out of shares of its authorized and unissued stock or reacquired shares, a sufficient number of shares of its Common Stock to satisfy the requirements of this Option; shall comply with the terms of this Option promptly upon exercise of the Option rights; and shall pay all fees or expenses necessarily incurred by the Company in connection with the issuance and delivery of shares pursuant to the exercise of this Option. 
+
+Section 8. Transfer and Termination. This Option is not transferable by the Holder otherwise than by will or under the laws of descent and distribution. 
+
+This Option is exercisable, during the Holder’s lifetime, only by the Holder, and by the Holder only while the Holder is an employee of the Company, except that if the Holder’s employment by the Company terminates for any reason other than death, Disability (as defined in the Plan), Normal Retirement (as defined in the Plan) or for Cause, the Holder shall have the right to exercise this Option within thirty (30) days after the date of such termination of employment (but not later than the expiration date of this Option) with respect to shares which were purchasable by the Holder by exercise of this Option at the time of said termination of employment. 
+
+As used herein, “Cause” shall mean (x) any material breach by the Holder of any agreement to which the Holder and the Company (or any parent or subsidiary) are both parties, (y) any act (other than retirement) or omission to act by the Holder which may have a material and adverse effect on the business of the Company (or any parent or subsidiary) or on the Holder’s ability to perform services for the Company (or any parent or subsidiary), including, without limitation, the commission of any crime (other than ordinary traffic violations), or (z) any material misconduct or material neglect of duties by the Holder in connection with the business or affairs of the Company (or any parent or subsidiary) or any affiliate of the Company (or any such parent or subsidiary). 
+
+In the event of the Normal Retirement or Disability of the Holder while the Holder is in the employ of the Company (or any parent or subsidiary of the Company) and before the expiration date of this Option, this Option shall terminate on the earlier of its expiration date or ninety (90) days from the date of said Normal Retirement or Disability. 
+
+In the event of the death of the Holder while the Holder is in the employ of the Company (or any parent or subsidiary of the Company) and before the expiration date of this Option, this Option shall terminate on the earlier of its expiration date or a date one hundred eighty (180) days after the date of his or her death. After the death of the Holder, the Holder’s executors, administrators or any person or persons to whom the Holder’s Option has been transferred by will or by the laws of descent and distribution shall have the right to exercise this Option at any time prior to the earlier of the date of expiration of this Option or one hundred eighty (180) days after the date of the death of the original Holder. 
+
+* * *
+
+##### 
+
+Section 9. Lock-Up Agreement. The Holder agrees for a period of up to 180 days from the effective date of any registration of securities of the Company (upon request of the Company or the underwriters managing any underwritten offering of the Company’s securities), not to sell, make any short sale of, loan, grant any option for the purchase of, or otherwise dispose of any shares issued pursuant to the exercise of such Option, without the prior written consent of the Company or such underwriters, as the case may be. 
+
+Section 10. Notification of Disqualifying Disposition. The Holder agrees to notify the Company in writing immediately after making a Disqualifying Disposition of any shares of Common Stock received pursuant to the exercise of this Option. The Holder also agrees to provide the Company with any information that the Company shall request concerning any such Disqualifying Disposition. 
+
+10.1 Disqualifying Disposition. A “Disqualifying Disposition” shall have the meaning specified in Section 421(b) of the Internal Revenue Code of 1986, as amended, or any successor provision; as of the date of grant of this Option, a Disqualifying Disposition is any disposition (including any sale) of such shares before the later of (i) the second anniversary of the date of grant of this Option or (ii) the first anniversary of the date on which the Holder acquired such shares by exercising this Option, provided that such holding period requirements terminate upon the death of the Holder. 
+
+10.2 Forfeiture of Favorable Tax Treatment. The Holder acknowledges that he or she will forfeit the favorable income tax treatment otherwise available with respect to the exercise of this Option if he or she makes a Disqualifying Disposition of shares received upon exercise of this Option. 
+
+Section 11. Withholding of Taxes. 
+
+11.1 Upon a Disqualifying Disposition. If the Company in its discretion determines that it is obligated to withhold tax with respect to a Disqualifying Disposition of shares of Common Stock received on exercise of this Option, the Holder agrees that the Company may withhold from the Holder’s wages, or other amounts due to the Holder from the Company, the appropriate amount of federal, state or local withholding taxes attributable to such Disqualifying Disposition. 
+
+11.2 Upon Treatment as a Non-Statutory Option. If any portion of this Option is treated as a Non-Statutory Option (as defined in the Plan), the Holder hereby agrees that the Company may withhold from the Holder’s wages, or other amounts due to the Holder from the Company, the appropriate amount of federal, state and local withholding taxes attributable to the Holder’s exercise of such Non-Statutory Option. 
+
+11.3 Election as to Method of Satisfying Withholding Obligation. At the Holder’s election, the amount required to be withheld may be satisfied, in whole or in part, by: (i) authorizing the Company to withhold from shares of Common Stock to be issued pursuant to the exercise of such Non-Statutory Option a number of shares with an aggregate fair market value that would satisfy the minimum withholding amount due with respect to such exercise, or (ii) transferring to the Company a sufficient number of mature shares of Common Stock with an aggregate fair market value that would satisfy the minimum withholding amount due. 
+
+11.4 Agreement to Reimburse Company for Withholding Obligation. The Holder further agrees that, if the Company does not withhold an amount from the Holder’s wages sufficient to satisfy the Company’s withholding obligation, the Holder will reimburse the Company on demand, in cash, for the amount underwithheld. 
+
+Section 12. Notice. Any notice to be given to the Company hereunder shall be deemed sufficient if addressed to the Company and delivered by hand or by mail to the Chief Financial Officer of the Company, 10 Milk Street, Suite 1100, Boston , Massachusetts 02108, or such other address as the Company may hereafter designate. 
+
+Any notice to be given to the Holder hereunder shall be deemed sufficient if addressed to and delivered in person to the Holder or when deposited in the mail, postage prepaid, addressed to the Holder at the Holder’s address furnished to the Company. 
+
+Section 13. Government and Other Regulations. This Option is subject to all laws, regulations and orders of any governmental authority which may be applicable thereto and, notwithstanding any of the provisions hereof, the Holder agrees that the Holder will not exercise the Option granted hereby nor will the Company be obligated to issue or sell any shares of stock hereunder if the exercise thereof or the issuance or sale of such shares, as the case may be, would constitute a violation by the Holder or the Company of any such law, regulation or order or any provision thereof. The Company shall not be 
+
+* * *
+
+##### 
+
+obligated to take any affirmative action in order to cause the exercise of this Option or the issuance or sale of shares pursuant hereto to comply with any such law, regulation, order or provision. 
+
+Section 14. Governing Law. This Option shall be governed by, and construed and enforced in accordance with, the substantive laws of The Commonwealth of Massachusetts. 

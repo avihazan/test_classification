@@ -1,0 +1,277 @@
+EXHIBIT 10.1
+
+HERITAGE OAKS BANCORP
+
+2015 EQUITY INCENTIVE PLAN
+
+PERFORMANCE-BASED RESTRICTED STOCK UNIT
+
+
+
+Heritage Oaks Bancorp, a California corporation (“Company”), hereby grants an Award of Performance Restricted Stock Units (“RSUs”), subject to the terms, conditions, and restrictions of the Company’s 2015 Equity Incentive Plan (the “Plan”), and this Restricted Stock Unit Award Agreement, including Appendix A attached hereto (the Restricted Stock Unit Award Agreement and Appendix A are collectively referred to as the “Award Agreement”). The capitalized terms used in the Award Agreement that are defined in the Plan shall have the same meanings herein as are set forth in the Plan.
+
+Grantee:
+
+[name]  
+  
+Grant Date
+
+[date]  
+  
+Target Number of Shares
+
+[number]  
+  
+Performance Period
+
+from January 1, 2016 through December 31, 2018  
+  
+Performance Measures
+
+Total Shareholder Return (TSR) \- relative to Comparator Group, average percentile for the three calendar years within the Performance Period.  
+  
+TSR calculated as (Final Value – Initial Value + Dividends during Performance Period Reinvested) / Initial Value.  
+  
+Final Value is average stock closing price during 20 trading days immediately preceding and including the last day of Performance Period.  
+  
+Initial Value is average stock closing price during 20 trading days immediately preceding first day of Performance Period.  
+  
+Return on Assets (ROA) \- relative to Comparator Group, average percentile for the three calendar years within the Performance Period.  
+  
+ROA (percentage) calculated as (Annual Net Income / Average Annual Assets) x 100.  
+  
+Company Percentile Ranking: 50% of TSR average percentile ranking relative to Comparator Group during Performance Period, plus 50% of ROA average percentile ranking relative to Comparator Group during Performance Period.  
+  
+Comparator Group
+
+All United States exchange-traded (Nasdaq, NYSE and NYSE Mkt) banks and thrift institutions with assets at the beginning of the Performance Period greater than $750 million and less than $4 billion.  
+  
+Any entity that is acquired or subject to bankruptcy filing is to be removed from the Comparator Group. Any entity that is the surviving entity in an acquisition or merger shall remain in the Comparator Group.  
+  
+Vesting of RSUs:  
+  
+The RSUs shall vest as set forth below. Except as otherwise provided in the Plan and this Award Agreement, Grantee will not vest in the RSUs and be eligible to receive any Shares hereunder unless Grantee has continued in Service to the Company through the last day of the Performance Period. The vesting, and number of Shares to be issued upon vesting, of the RSUs shall be determined within 120 days following the end of the Performance Period as follows:
+
+* * *
+
+  
+
+
+Company Percentile Ranking
+
+Percentage of Target Shares Earned/Vested  
+  
+Under 40th percentile
+
+0%  
+  
+40th percentile
+
+35%  
+  
+40th to 60th percentile
+
+35%, plus 3.25% (or faction thereof) for each percentile (or fraction thereof) above 40th  
+  
+60th percentile
+
+100%  
+  
+60th to 75th percentile
+
+100%, plus 3.33% (or faction thereof) for each percentile (or fraction thereof) above 60th  
+  
+75th percentile and above
+
+150%  
+  
+For performance between threshold (40th percentile) and target (60th percentile) or between target (60th percentile) and stretch (75th percentile), final payout will be interpolated on a straight line basis. Immediately upon vesting, the RSUs shall be converted to whole Shares based on the percentage of a Share (from the chart above) per RSU basis and such Shares shall be issued to Grantee as soon as reasonably practicable as provided in Section 5 of Appendix A hereto, subject to applicable tax withholding as provided in Section 12 of Appendix A hereto.
+
+The determination of whether and the extent to which the Performance Measures have been met shall be determined by the Committee, in its sole and absolute discretion, and certified to the Board prior to the issuance of Shares pursuant to the RSUs.
+
+Termination of Service:
+
+In the event Grantee’s Service with the Company terminates prior to the end of the Performance Period for any reason other than:
+
+· the Grantee’s death,
+
+· Disability, or
+
+· termination without Cause (whether by the Company or by Grantee) either within one year following a Change in Control or after Grantee has attained age 65, the Shares shall not have been earned, and shall not vest on a pro rata (or any other) basis. Upon any such termination of Service, the RSUs shall be forfeited and terminated, immediately and unconditionally, without any action required by Grantee or the Company, and no Shares shall be issued or payment made with respect to the Award.
+
+In the event Grantee’s Service terminates by reason of Grantee’s
+
+· death,
+
+· Disability, or
+
+· termination without Cause (whether by the Company or by Grantee) after Grantee has attained age 65, then, upon the date of such termination of Service, vesting shall accelerate and the RSUs shall be vested only with respect to a pro rata portion of the Target Number of Shares, based upon the ratio of (i) the number of days lapsed between the Grant Date and the termination date to (ii) the total number of days in the Performance Period. Upon any such termination of Service, the balance of the RSUs shall be forfeited and terminated, immediately and unconditionally, without any action required by Grantee or the Company, and no Shares shall be issued or payment made with respect to such balance of the RSUs. Upon any such event, the number of Shares earned with respect to the vested RSUs shall be based upon the above schedule and the Company’s actual performance relative to the Performance Measures and Percentile Ranking through the date of Grantee’s termination of Service, if such Percentile Ranking can then be determined. If such Percentile Ranking cannot then be determined, the number of Shares earned shall be 100% of the target number for the vested RSUs.
+
+* * *
+
+  
+
+
+Change in Control:
+
+Notwithstanding the foregoing schedule, in the event that Grantee’s Service is terminated by the Company and its Subsidiaries (including their successors resulting from a Change in Control) without Cause within one year following the effective date of a Change in Control, the RSUs shall be vested in full upon such termination of Service, subject to the terms and conditions set forth in this Award Agreement.
+
+Notwithstanding the foregoing, if, in connection with a Change in Control occurring during Grantee’s continued Service, the Acquiror does not assume or continue this Award or substitute for it a substantially equivalent award with respect to the Acquiror’s stock pursuant to Section 13.2 of the Plan, then the RSUs shall be vested in full upon the effective date of the Change in Control, subject to the terms and conditions set forth in this Award Agreement.
+
+In either case, the percentage of the Target Number of Shares earned with respect to the RSUs shall be based upon the above schedule and the Company’s actual performance relative to the Performance Measures and Percentile Ranking through the date of the Change in Control, if such Percentile Ranking can then be determined. If such Percentile Ranking cannot then be determined, 67.5% of the Target Number of Shares (50th percentile performance) shall be earned.
+
+HERITAGE OAKS BANCORP  
+  
+By:  
+  
+Title:  
+  
+Grantee acknowledges and represents that Grantee is familiar with the terms and provisions of this Award Agreement and hereby accepts same subject to all its terms and provisions hereof. Grantee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Board of Directors or its duly appointed Committee upon any questions arising under the Plan.
+
+Dated:  
+  
+Grantee Signature  
+  
+* * *
+
+  
+
+
+APPENDIX A
+
+TERMS AND CONDITIONS FOR RESTRICTED STOCK UNITS
+
+1. Grant. The Company grants to Grantee an Award of Restricted Stock Units based on the number of Shares set forth in the Award Agreement, subject to the terms and conditions of the Plan, which is incorporated herein by reference. In the event of a conflict between the terms and conditions of the Plan and this Award Agreement, the terms and conditions of the Plan shall prevail.
+
+2. Term. Subject to earlier vesting of the Award as provided in the Plan, the Award shall vest in accordance with the provisions of Section 4 below. This agreement shall terminate when either the Award has vested (or has failed to vest based on the results of the Performance Measures specified in the Award Agreement) in accordance with Section 4 and any Shares have been issued pursuant to Section 5 or the Award has been forfeited upon Grantee’s termination of employment with the Company and its Subsidiaries.
+
+3. Restrictions on Transfer. The Award shall be nontransferable and shall not be assignable, alienable, saleable, or otherwise transferable by Grantee other than by will or the laws of descent and distribution or pursuant to a “domestic relations order” (as defined in Code Section 414(p)(1)(B)). Shares issued with respect to RSUs that have vested pursuant to Section 4 may be transferred by Grantee, subject to applicable federal and state securities law restrictions. The terms of this Award Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of Grantee. No non-permitted transferee of Grantee shall have any right in or claim to the RSUs or any Shares received thereunder.
+
+4. Vesting of RSUs.
+
+(a) Performance Vesting. Subject to the terms and conditions set forth in the Award Agreement, the RSUs shall vest and Shares shall be issued based on the results of the Performance Measures specified in the Award Agreement, provided that Grantee’s Service continues through the end of the Performance Period, or a pro rata portion of the RSUs shall vest and Shares shall be issued based on the results of the Performance Measures specified in the Award Agreement through such earlier vesting date if Grantee’s Service terminates by reason of Grantee’s:
+
+· Death,
+
+· Disability, or
+
+· termination without Cause (whether by the Company or by Grantee) either within one year following a Change in Control or after Grantee has attained age 65.
+
+(b) Change in Control. Upon a Change in Control as defined in Section 2.7 of the Plan, the Board or the Committee may make any determinations and take any actions permitted under Article 13 of the Plan, subject to the terms and conditions set forth in the Award Agreement.
+
+(c) Action by Committee. The Committee shall have the authority, in its sole and absolute discretion, to accelerate vesting of the RSUs whenever, and on such terms and conditions as, the Committee may determine to be appropriate.
+
+5. Issuance of Shares of Stock. If the RSUs vest as a result of Grantee’s Service continuing through the end of the Performance Period, the Company shall cause to be issued to Grantee the number of Shares then issuable to Grantee (based on the results of the Performance Measures specified in the Award Agreement) during the calendar year immediately following the end of the Performance Period. If the RSUs vest in whole or in part prior to the end of the Performance Period, the Company shall cause to be issued to Grantee the number of Shares then issuable to Grantee (such number of Shares determined under the provisions of this Agreement) as soon as reasonably practicable following the vesting date or vesting event, but in no event later than the 15th day of the third month following the later of the Company’s or Grantee’s tax year end of the year in which vesting occurs.
+
+6. Dividend Equivalents. Grantee shall be entitled to receive dividend equivalents in the amount of any cash dividends declared with respect to the number of Shares issued pursuant to this Award during the period between the Grant Date and the vesting date for such number of Shares. Such dividend equivalents shall be paid only with respect to the number of Shares that vest and are issued pursuant to this Award and shall be paid in cash at the same time as such Shares are issued.
+
+* * *
+
+  
+
+
+7. Fractional Shares. No fractional shares shall be issued to Grantee. Any fractional shares shall be rounded down to the nearest whole number.
+
+8. Compliance with Laws, Regulations and Plan Rules. This Award of RSUs to Grantee and any obligation of the Company to issue Shares hereunder shall be subject to (a) all applicable federal, state, local and foreign laws, rules and regulations, and (b) any registration, qualification, approvals or other requirements imposed by any government or regulatory agency or body which the Company shall, in its sole and absolute discretion, determine to be necessary or applicable. Moreover, Shares shall not be issued hereunder if such issuance would be contrary to applicable law or the rules of any applicable stock exchange. Receipt of Shares under this Award shall be conditioned on Grantee’s compliance with procedures established from time to time by the Committee, including, but not limited to, submission of such forms and documents as the Committee may require in its sole and absolute discretion.
+
+9. Rights as a Shareholder. Grantee shall have no rights as a shareholder of the Company with respect to any Shares underlying the RSUs (including, but not limited to, dividend rights and the right to vote) until the RSUs have vested and the Shares have been issued to Grantee.
+
+10. Covenant Not to Solicit or Interfere. Grantee agrees that, during the term of Grantee’s employment with the Company and for a period of one (1) year thereafter, Grantee will not, without the prior written consent of the Company, which consent may be granted or withheld in the Company’s sole and absolute discretion, directly or indirectly (i) solicit, divert or take away, or attempt to solicit, divert or take away, any individual who is on or at any time during the term of Grantee’s employment with the Company an employee of the Company or any Subsidiary (including Heritage Oaks Bank), or induce or attempt to induce any such employee to terminate his or her employment with the Company or any Subsidiary; or (ii) solicit, divert or take away, or attempt to solicit, divert or take away, any individual or entity who is, or at any time during Grantee’s employment with the Company was, a customer or client of the Company or any Subsidiary, or advise or induce any such individual or entity not to continue as a customer or client of the Company or any Subsidiary.
+
+11. Separate Advice and Representation. The Company is not providing Grantee with advice, warranties, or representations regarding any of the legal, tax, or business effects to Grantee with respect to the Plan or this Award Agreement. Grantee is encouraged to seek legal, tax, and business advice from Grantee’s own legal, tax, and business advisers as soon as possible. By accepting this Award, the RSUs and any Shares that may be issued pursuant thereto, and by signing this Award Agreement, Grantee acknowledges that Grantee is familiar with the terms of the Award Agreement and the Plan, that Grantee has been encouraged by the Company to discuss the Award and the Plan with Grantee’s own legal, tax, and business advisers, and that Grantee agrees to be bound by the terms of the Plan and the Award Agreement.
+
+12. Tax Withholding.
+
+(a) The Company will assess its requirements regarding federal, state, and local income taxes, FICA taxes, and any other applicable taxes (“Tax Items”) in connection with the RSUs and the issuance of Shares thereunder. These requirements may change from time to time as laws or interpretations change. The Company will withhold Tax Items as required by law. Regardless of the Company’s actions in this regard, Grantee acknowledges and agrees that the ultimate liability for Tax Items is Grantee’s responsibility. Grantee acknowledges and agrees that the Company:
+
+(i) makes no representations or undertakings regarding the treatment of any Tax Items in connection with any aspect of the RSUs, including grant of the RSUs, the issuance of Shares thereunder, and any subsequent sale of Shares acquired; and
+
+(ii) does not commit to structure the terms of the RSUs or any aspect of the RSUs to reduce or eliminate liability for Tax Items.
+
+(b) Notwithstanding any contrary provision of this Award Agreement, no certificate representing the Shares or book-entry Shares will be issued to Grantee, unless and until satisfactory arrangements (as determined by the Committee) have been made by Grantee with respect to the payment of all Tax Items that the Company determines must be withheld with respect to such Shares so issuable. The Committee, in its sole discretion and pursuant to such procedures as it may specify from time to time, may permit Grantee to satisfy such tax withholding obligation, in whole or in part (without limitation) by one or more of the following: (i) paying cash, (ii) authorizing the Company to hold back the amount required to be withheld from other compensation payable to Grantee, (iii) delivering to the Company already vested and owned Shares having an aggregate Fair Market Value (as of the date the withholding is effected) equal to the amount required to be withheld, or (iv) authorizing the Company to hold back a number of Shares otherwise issuable to Grantee through such means as the Company may determine in its sole discretion (whether through a broker or otherwise) having an aggregate Fair Market Value (as of the date the withholding is effected) equal to the amount required to be withheld.
+
+* * *
+
+  
+
+
+13. No Acquired Rights. Grantee agrees and acknowledges that:
+
+(a) the grant of this Award under the Plan is voluntary and occasional and does not create any contractual or other right to receive future grants of any Awards or benefits in lieu of any Awards, even if Awards have been granted repeatedly in the past and regardless of any reasonable notice period mandated under local law;
+
+(b) the value of this Award is an extraordinary item of compensation which is outside the scope of an employment contract, if any;
+
+(c) this Award is not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating termination, severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension, retirement benefits, or similar payments;
+
+(d) the future value of the RSUs and Shares awarded under the Plan, if any, is unknown and cannot be predicted with certainty;
+
+(e) no claim or entitlement to compensation or damages arises from the termination of this Award or diminution in value of this Award or any Shares received under the Plan, and Grantee irrevocably releases the Company from any such claim; and
+
+(f) participation in the Plan shall not create a right to further employment with the Company or employer and shall not interfere with the ability of the Company or employer to terminate the employment relationship at any time, with or without cause.
+
+14. Recovery and Termination of Awards.
+
+(a) Any payment or issuance of Shares under this Award Agreement is subject to recovery (clawback) by any governmental agency or by the Company to the extent required by Law if it is based on materially inaccurate statements of earnings, revenues or gains, or any performance criteria/metric or other criteria or metric that is found by any governmental agency or the Company to be materially inaccurate (or is otherwise required by Law) or to have encouraged unnecessary and/or excessive risk taking.
+
+(b) No payment or issuance of Shares that requires regulatory or other approval will be made unless and until such approval is obtained, and the Company shall have no obligation to seek such approval.
+
+(c) This Award Agreement is subject to all requirements under applicable Law relating to, among other things, excessive compensation, golden parachute payments and risk management.
+
+(d) This Award Agreement is subject to the Company’s Executive Incentive Compensation Recovery Policy.
+
+15. Adjustment of Shares. In the event of a subdivision of the outstanding Stock, a declaration of a dividend payable in Shares, a declaration of a dividend payable in a form other than Shares in an amount that has a material effect on the value of Shares, a combination or consolidation of the outstanding Shares (by reclassification or otherwise) into a lesser number of Shares, a recapitalization, a spin-off, a merger, consolidation or other reorganization involving the Company that would not constitute a Change in Control, or any other similar occurrence, the Company shall make appropriate adjustments in the number of RSUs covered by the Award.
+
+Except as provided in this Section 15 and Section 6, Grantee shall have no rights by reason of any subdivision or consolidation of shares of stock of any class, the payment of any dividend or any other increase or decrease in the number of shares of stock of any class. Any issue by the Company of shares of stock of any class, or securities convertible into shares of stock of any class, shall not affect, and no adjustment by reason thereof shall be made with respect to, the number of RSUs subject to the Award. The grant of the RSUs pursuant to the Plan shall not affect in any way the right or power of the Company to make adjustments, reclassifications, reorganizations or changes of its capital or business structure, to merge or consolidate or to dissolve, liquidate, sell or transfer all or any part of its business or assets.
+
+* * *
+
+  
+
+
+16. Limitations of Payments - 280G. If any payment to Grantee under the Plan or otherwise would constitute an excess parachute payment under section 280G of the Code, then Grantee’s Award shall be reduced or forfeited as provided herein. If Grantee is a disqualified individual who otherwise would be entitled to receive a payment or transfer under the Plan that would constitute an excess parachute payment under section 280G of the Code, this Award will be reduced, as described below. Generally, someone is a “disqualified individual” if he or she is (a) an officer of the Company, (b) a member of the group consisting of the highest paid 1% of the employees of the Company or, if less, the highest paid 250 employees of the Company, or (c) a 1% stockholder of the Company. For purposes of this section on “Limitation on Payments — 280G,” the term “Company” will include affiliated corporations to the extent determined by the independent auditors most recently selected by the Board (the “Auditors”) in accordance with section 280G(d)(5) of the Code.
+
+In the event that the Auditors determine that any payment or transfer in the nature of compensation to or for Grantee’s benefit, whether paid or payable (or transferred or transferable) pursuant to the terms of the Plan or otherwise (a “Payment”), would be nondeductible for federal income tax purposes because of the provisions concerning “excess parachute payments” in section 280G of the Code, then the aggregate present value of all Payments will be reduced (but not below zero) to the Reduced Amount; provided, however, that the Committee may specify in writing that the award will not be so reduced and will not be subject to reduction under this section.
+
+For this purpose, the “Reduced Amount” will be the amount, expressed as a present value, which maximizes the aggregate present value of the Payments without causing any Payment to be nondeductible by the Company because of section 280G of the Code. Present value will be determined in accordance with section 280G(d)(4) of the Code. The Auditors’ determinations will be binding upon Grantee and the Company and will be made within 60 days of the date when a Payment becomes payable or transferable.
+
+If the Auditors determine that any Payment would be nondeductible because of section 280G of the Code, then the Company will promptly give Grantee notice to that effect and a copy of the detailed calculation of the Reduced Amount.
+
+If a reduction in Payments is necessary to stay within the limitation under section 280G of the Code, reduction will occur in the following order: (i) reduction of cash payments and employee benefits that are not deferred compensation subject to section 409A of the Code (in such order as may be specified by Grantee), (ii) pro rata reduction of cash payments that are considered deferred compensation subject to section 409A of the Code; (iii) a pro rata reduction of employee benefits that are considered deferred compensation subject to section 409A of the Code; (iv) cancellation of accelerated vesting of equity awards that are not deferred compensation subject to section 409A (in such order as may be specified by Grantee); and (v) pro rata cancellation of accelerated vesting of equity awards that are considered deferred compensation subject to section 409A of the Code, such acceleration of vesting to be cancelled in the reverse order of the date of grant of such equity awards.
+
+As promptly as practicable following these determinations, the Company will pay or transfer to or for Grantee’s benefit such amounts as are then due to Grantee under the Plan, and will promptly pay or transfer to or for Grantee’s benefit in the future such amounts as become due to Grantee under the Plan.
+
+As a result of uncertainty in the application of section 280G of the Code at the time of an initial determination by the Auditors, it is possible that Payments will have been made by the Company which should not have been made (an “Overpayment”) or that additional Payments which will not have been made by the Company could have been made (an “Underpayment”), consistent in each case with the calculation of the Reduced Amount. In the event that the Auditors, based upon the assertion of a deficiency by the Internal Revenue Service against Grantee or the Company which the Auditors believe has a high probability of success, determine that an Overpayment has been made, the amount of such Overpayment will be paid by Grantee to the Company on demand, together with interest at the applicable federal rate provided in section 7872(f)(2) of the Code. However, no amount will be payable by Grantee to the Company if and to the extent that such payment would not reduce the amount which is subject to taxation under section 4999 of the Code. In the event that the Auditors determine that an Underpayment has occurred, such Underpayment will promptly be paid or transferred by the Company to or for Grantee’s benefit, together with interest at the applicable federal rate provided in section 7872(f)(2) of the Code.
+
+17. Notices. Except as may be otherwise provided by the Plan, any written notices provided for in the Plan and this Award Agreement shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by email, fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailed but in no event later than the date of actual receipt. Notice may also be provided by electronic submission, if and to the extent permitted by the Committee. Notices shall be directed, if to Grantee, at Grantee’s physical home or Company email address indicated by the Company’s records, or if to the Company, at the Company’s principal office, attention Human Resources Department or !HR@heritageoaksbank.com.
+
+* * *
+
+  
+
+
+18. Severability. The provisions of the Award Agreement are severable and if any one or more provisions may be determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+
+19. Counterparts; Electronic Signing; Further Instruments. The Award Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. This Agreement may be accepted electronically and shall be binding in all respects. The parties hereto agree to execute such further instruments and to take such further action as may be reasonably necessary to carry out the purposes and intent of this Award Agreement.
+
+20. Amendment. The Award Agreement may be amended or modified by the Committee, including amendments and modifications that may affect the tax status of the Award, provided that such action may not, without the consent of Grantee, impair any rights of Grantee under the Award Agreement.
+
+21. Entire Agreement; Governing Law. The Plan and this Award Agreement constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Grantee with respect to the subject matter hereof, and may not be modified adversely to Grantee’s interest except by means of a writing signed by the Company and Grantee. This agreement is governed by the internal substantive laws, but not the choice of law rules, of California.
+
+* * *
+
+  
+
+
+CONSENT OF SPOUSE
+
+The undersigned spouse of Grantee agrees that his/her interest, if any, including any community property interest, in the Restricted Stock Units and any Shares subject to the foregoing Agreement between Grantee and the Company shall be irrevocably bound by such Agreement. The undersigned further agrees that Grantee’s decisions or execution of any documents with respect to the Restricted Stock Units and any Shares covered by such Agreement shall be the decision, signature or deed of the undersigned and irrevocably bind the undersigned as if the undersigned had made such decisions, executed such documents or performed such acts done by the undersigned’s spouse.
+
+Spouse of Grantee (if any):  
+  
+(signature)  
+  
+Name:  
+  
+Date:  
+  
+* * *

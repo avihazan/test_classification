@@ -1,0 +1,296 @@
+Exhibit 10.7
+
+![](logo_sm.jpg)
+
+
+
+THIS EMPLOYMENT AGREEMENT (this “Agreement”) is entered into as of this 22nd day of June 2010 (the “Effective Date”) by and between William M. Perkins (“Executive”) and Verecloud, Inc., a Nevada corporation (the “Company”).
+
+R E C I T A L S
+
+WHEREAS, each of Executive and the Company desires that Executive be employed in the capacity set forth below, under the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the foregoing and the following representations, warranties, covenants and agreements, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Executive and the Company, intending to be legally bound hereby, agree as follows:
+
+Section 1. Position and Duties.
+
+Executive shall be employed as the Chief Technology Officer of the Company and, subject to the general control of the President, Chief Executive Officer and/or Board of Directors, shall perform such responsibilities as are reasonably required of Executive by the President, Chief Executive Officer and/or Board of Directors together with those generally commensurate with the responsibilities performed by the Chief Technology Officer in similarly situated companies. Executive shall perform Executive’s duties in good faith and shall devote Executive’s full business time and effort to the performance of Executive’s duties hereunder. The foregoing shall not preclude Executive from engaging in civic, charitable or religious activities or from devoting a reasonable amount of time to private investments or, with the consent of the Chief Executive Officer, from serving on the boards of directors of other entities, as long as such activities and service do not materially interfere or conflict with Executive’s responsibilities to the Company.
+
+Section 2. At-Will Employment.
+
+  
+
+
+The parties agree that Executive’s employment with the Company shall be “at-will” employment and may be terminated at any time with or without Cause at the option of either the Company or Executive. No provision of this Agreement shall be construed as conferring upon Executive a right to continue as an employee of the Company.
+
+1
+
+* * *
+
+  
+
+
+Section 3. Compensation.
+
+(a) Base Compensation. For all services to be rendered pursuant to this Agreement by Executive, and subject to the other terms and conditions of this Agreement, Executive shall receive base salary at a rate of $180,000.00 per annum, or such higher rate as the Company’s Board of Directors may determine from time to time (the “Base Salary”), payable in accordance with the Company’s normal payroll practices. 
+
+(b) Incentive Compensation. The Company shall award the Executive annual incentive compensation (“Incentive Compensation”) as the Board may from time to time approve including without limitation awards based upon the attainment of one or more financial and/or other performance targets; provided that any Incentive Compensation shall be paid so as not to constitute a “deferral of compensation” within the meaning of Section 409A of the Internal Revenue Code of 1986, as amended (the “Code”) and the Department of Treasury Regulations and other interpretive guidance promulgated thereunder (collectively, “Section 409A”), or shall otherwise comply with the payment requirements of Section 409A. Any compensation paid to the Executive as Incentive Compensation shall be in addition to the Base Salary. The Company’s Compensation Committee shall review the Executive’s Incentive Compensation annually to ensure that the target(s) remains competitive with other similarly situated companies. Executive shall be paid pursuant to the pre-approved Incentive Compensation Plan as approved by the Board of Directors.
+
+(c) Stock Options. Executive shall be granted an incentive stock option (the “Stock Option”) to purchase a total of 350,000 shares of the Company’s common stock pursuant to the terms and conditions of the Verecloud, Inc. 2009 Equity Incentive Plan (the “Equity Plan”) and a written Incentive Stock Option Agreement to be entered into by and between the Company and the Executive as of the Effective Date in substantially the form attached hereto as Exhibit A (the “Stock Option Agreement”), which documents are incorporated herein by reference. The Stock Option shall have an exercise price, vesting schedule, and other terms as stated in the employee’s ISO agreement.
+
+  
+
+
+Section 4. Other Benefits.
+
+Executive shall be eligible to participate in all employee and executive benefit plans and executive compensation programs to the extent established and maintained by the Company for its senior executives and in accordance with such plans and programs, including (if so put into place and maintained) savings or profit-sharing plans, life, disability, health, accident and other insurance programs, and similar plans or programs. Executive shall accrue four weeks paid vacation per year and be entitled to paid holidays in accordance with the Company’s vacation policy.
+
+2
+
+* * *
+
+Section 5. Business Expense and Travel.
+
+  
+
+
+Executive is authorized to incur and shall be reimbursed for all necessary and reasonable travel, entertainment and other business expenses incurred in the course of the performance of his duties and responsibilities pursuant to this Agreement. “Reasonable” expenses shall be consistent with the Company’s policy for its executive management. Such reimbursement is subject to the submission to the Company by the Executive of invoices and receipts or other appropriate documentation and/or vouchers for all such expenses as soon as reasonably practicable following their incurrence.
+
+  
+
+
+Section 6. Termination of Employment Without Cause or for Good Reason.
+
+  
+
+
+Except as otherwise provided by Section 7 with respect to certain terminations of employment in connection with a Change of Control, if the Executive’s employment terminates in a Qualifying Termination, then, subject to his execution and nonrevocation of a release of all claims arising out of Executive’s employment or the termination thereof (“Release”) on or prior to the 30th day following the Qualifying Termination, commencing with the first standard payroll date occurring on or after the 30th day following the date of the Qualifying Termination, the Company shall pay to Executive an amount equal in total to six (6) times the monthly amount of Executive’s Base Salary in effect on the date of the Qualifying Termination in six monthly installments.
+
+  
+
+
+Section 7. Termination in Connection with a Change of Control.
+
+  
+
+
+If Executive’s employment terminates as a result of a Qualifying Termination at any time during the period commencing three (3) months prior to a Change of Control and ending twelve (12) months following a Change of Control, then, subject to his execution and nonrevocation of the Release on or prior to the 30th day following the Qualifying Termination, on the first standard payroll date occurring on or after the 30th day following the date of the Qualifying Termination, the Company shall pay to Executive a lump sum cash amount equal in total to the sum of (a) the amount of Executive’s bonus earned with respect to the calendar year immediately prior to the calendar year in which the Qualifying Termination occurs, plus (b) 1.0 times (x) Executive’s then current annual Base Salary (without taking into account any reduction in Base Salary that could trigger a termination for Good Reason) or, if greater, (y) Employee’s initial Base Salary under this Agreement, in each case less applicable withholding taxes or other withholding obligations of the Company, plus (c) 12.0 times the monthly premium amount for the Executive's medical, hospitalization and dental coverage under the Company’s group medical, hospitalization and dental benefit plans determined on the date of the Qualifying Termination.
+
+3  
+
+
+* * *
+
+Section 8. Definitions.
+
+(a) “Cause” means:
+
+(i) the failure by Executive to follow the lawful directives of the Chief Executive Officer or Board of Directors of the Company (within the scope of Executive’s duties hereunder) within fifteen (15) days after receiving written notice from the Company specifying the nature of the failure (which notice shall only be required in connection with the first instance of repeated failures of a similar nature);
+
+(ii) the Executive's willful commission of an act which constitutes fraud, misappropriation, embezzlement, or intentional misconduct against the Company or its respective shareholders, customers or creditors;
+
+(iii) a willful violation by Executive of a federal, state or local law or regulation applicable to the business of the Company that is materially and demonstrably injurious to the Company (as the case may be);
+
+(iv) the conviction of a felony or crime involving moral turpitude;
+
+(v) the commission of any felony that causes a material adverse effect upon the Executive's ability to perform his duties, or that would have a material adverse effect on the Company or its ability to conduct business; or
+
+(vi) alcoholism, drug addiction or dependency which causes a material adverse effect upon the Executive's ability to perform his duties for a period in excess of thirty (30) consecutive days (including time spent in rehabilitation);
+
+No act, or failure to act, by Executive shall be considered “willful” unless committed intentionally and without good faith and without a reasonable belief that the act or omission was in the Company’s best interest.
+
+(b) “Change of Control” means the occurrence in a single transaction or in a series of related transactions, any of the following events, to the extent such event or events constitute a “change in control event,” as defined in Treasury Regulation Section 1.409A-3(i)(5):
+
+(i) the Company sells, leases, or exchanges, or agrees to sell, lease, or exchange, all or substantially all of its assets to any other person or entity;
+
+(ii) any person or entity, including a “group” as contemplated by Section 13(d)(3) of the Exchange Act, acquires or gains ownership or control (including, without limitation, power to vote) of more than 50% of the outstanding shares of the Company's voting stock (based upon voting power), or
+
+(iii) a majority of the individuals serving on the Company's board of directors (each a “Director”) are replaced during any twelve-month period by individuals whose appointment or election is not endorsed by a majority of the Directors before the date of such appointment or election.
+
+4
+
+* * *
+
+(c) “Disability” means that Executive has been unable to perform his duties hereunder as the result of his incapacity due to physical or mental illness or injury, and such inability, at least twenty-six (26) consecutive weeks after its commencement, is determined to be total and permanent by a physician selected by Executive or Executive’s legal representative and acceptable to the Company or its insurers (such agreement as to acceptability not to be unreasonably withheld). Termination resulting from Disability may only be effected after at least thirty (30) day’s written notice by the Company of its intention to terminate Executive’s employment.
+
+(d) “Good Reason” means the occurrence of any of the following without Executive’s prior written consent:
+
+(i) the failure by the Company to perform any of its material obligations to Executive under this Agreement (other than the performance of monetary obligations during any period that the Company is unable to make any general payroll distribution to the employees of the Company) within fifteen (15) days after receiving written notice from Executive specifying the nature of the failure (which notice shall only be required in connection with the first instance of repeated failures of a similar nature);
+
+(ii) a willful act by the Company that constitutes fraud, or misconduct against Executive and that (without fault of Executive) is demonstrably injurious (by more than a de minimis amount) to Executive (provided, that no act, or failure to act, by the Company shall be considered “willful” unless committed intentionally and without good faith);
+
+(iii) the material reduction of Executive’s duties, authority, responsibilities, or reporting relationships relative to Executive’s duties, authority, responsibilities, job title, or reporting relationships as in effect immediately prior to such reduction, or the assignment to Executive of such reduced duties, authority, responsibilities, job title, or reporting relationships (other than such reduction following the occurrence of an event described under Item 401(f) of Regulation S-K with respect to Executive);
+
+(iv) a material reduction (unless such reduction is made, pursuant to a valid business purpose, proportionately to reductions affecting each other member of the Company’s executive management) by the Company in the base salary of Executive below the amount in place as in effect immediately prior to such reduction; or
+
+(v) a material breach by the Company of the terms of this Agreement, including the failure of the Company to obtain the assumption of this Agreement by any successors under the terms set forth in Section 10(a) hereof.;
+
+  
+provided that the Executive notifies the Company in writing of the existence of any condition or event constituting Good Reason on or prior to the 60th day following the initial existence of such condition or event and the Company does not cure or remedy the condition or event on or prior to the 90th day following its receipt of such notice.
+
+5  
+
+
+* * *
+
+(e) A “Qualifying Termination” occurs upon:
+
+(i) the termination of the Executive’s employment hereunder by the Company for any reason other than Cause, death or Disability; or
+
+(ii) the termination of the Executive’s employment hereunder by the Executive due to Good Reason not resulting from a Change of Control within six (6) months following the initial existence of one or more of the events constituting Good Reason.
+
+  
+
+
+Section 9. No Mitigation.
+
+Executive shall not be required to mitigate the amount of any payment or benefit contemplated by Section 6 or Section 7, nor shall any such payment or benefit be reduced by any earnings or benefits that Executive may receive from any other source.
+
+  
+
+
+Section 10. Attorneys Fees, Costs and Expenses.
+
+The Company shall promptly reimburse Executive, on a monthly basis, for the reasonable attorney fees, costs and expenses incurred by Executive in connection with any action brought by Executive to enforce his rights hereunder. In the event Executive is not the prevailing party, Executive shall repay such reimbursements. The prevailing party shall be determined based upon the applicable court’s determination of which party prevailed on the major contested issues, with reference to the amount awarded or agreed to and without regard to whether or not the action resulted in a final judgment or was settled.
+
+  
+
+
+Section 11. Parachute Payments.
+
+(a) Notwithstanding anything in this Agreement to the contrary, if it is determined by the Company's independent accounting firm (the “Accountants”) that the aggregate amount of the payments and benefits made or provided to the Executive under this Agreement or otherwise (the “Payments”) would constitute a “parachute payment” as defined in Code Section 280G(b)(2), the Executive shall receive the Payments unless the (a) after-tax amount that would be retained by the Executive (after taking into account all federal, state and local income taxes payable by the Executive and the amount of any excise taxes payable by the Executive under Code Section 4999 that would be payable by the Executive (the “Parachute Tax”) if the Executive were to receive the Payments has a lesser aggregate value than (b) the after-tax amount that would be retained by the Executive (after taking into account all federal, state and local income taxes payable by the Executive) if the Executive were to receive the Payments reduced to the largest amount as would result in no portion of the total payments being subject to Excise Taxes (the “Reduced Payments”), in which case the Executive shall be entitled only to the Reduced Payments.
+
+6
+
+* * *
+
+(b) For purposes of making the calculations required by this Agreement, the Accountants may make reasonable assumptions and approximations concerning applicable taxes and may rely on reasonable, good faith interpretations concerning the application of Code Sections 280G and 4999, provided that the Accountant’s determinations must be made with substantial authority (within the meaning of Code Section 6662). Unless the Company and Executive otherwise agree in writing, any determination required under this Section 11 shall be made in writing by the Accountants. The Accountants shall provide detailed supporting calculations both to the Company and the Executive within fifteen (15) business days of the receipt of notice from the Executive that there has been a Payment, or such earlier time as is requested by the Company. The Company and Executive shall furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make a determination under this Section 11. All fees and expenses of the Accounting Firm shall be borne solely by the Company.
+
+(c) If the Executive is to receive Reduced Payments, the Payments payable will be reduced or eliminated in the following order: (1) cash payments, (2) taxable benefits, (3) nontaxable benefits and (4) accelerated vesting of equity awards.
+
+(d) The federal tax returns filed by the Executive (and any filing made by a consolidated tax group which includes the Company) shall be prepared and filed on a basis consistent with the determination of the Accountants with respect to the Parachute Tax payable by the Executive. The Executive shall make proper payment of the amount of any Parachute Tax, and at the request of the Company, provide to the Company true and correct copies (with any amendments) of his federal income tax return as filed with the Internal Revenue Service, and such other documents reasonably requested by the Company, evidencing such payment.
+
+  
+
+
+Section 12. Other Agreements.
+
+Executive and the Company shall, effective as of the Effective Date, enter into the agreements set forth below (collectively, the “Other Agreements”):
+
+(a) the Indemnity Agreement attached hereto as Exhibit B; and
+
+(b) the Non-Disclosure, Proprietary Information and Inventions Agreement attached hereto as Exhibit C.
+
+(c) the Verecloud, Inc. 2009 Equity Incentive Plan Incentive Stock Option Agreement attached hereto as Exhibit D.
+
+7  
+
+
+* * *
+
+Section 13. Notices.
+
+  
+
+
+All notices or other communications required or permitted hereunder shall be in writing and shall be deemed duly given upon (a) transmitter’s confirmation of a receipt of a facsimile transmission, (b) confirmed delivery by a standard overnight carrier or when delivered in person to below named recipients, or (c) the expiration of three (3) business days after the day when mailed by certified or registered mail, postage prepaid, addressed to the parties at the following addresses (or at such other address as the parties hereto shall specify by like notice):
+
+  
+
+
+If to the Company:
+
+  
+
+
+6560 South Greenwood Plaza Boulevard, Suite 400
+
+Englewood, Colorado 80111
+
+Attention: John McCawley
+
+Facsimile: (303) 221-0917
+
+  
+
+
+If to Executive:
+
+6789 E. Lake Circle
+
+Centennial, CO 80111
+
+Attention: William M. Perkins
+
+Section 14. General Provisions.
+
+(a) Successors and Assigns. The benefits and obligations under this Agreement shall be binding upon and shall inure to and may be enforced by Company and its successors and by Executive and Executive’s personal or legal representatives, executors, administrators, successors, heirs, distributees, devisees and legatees. The Company shall require any successor (whether direct or indirect and whether by purchase, lease, merger, consolidation, liquidation or otherwise), by a written agreement in substance and form satisfactory to Executive, to assume this Agreement and to agree expressly to perform this Agreement in the same manner and to the same extent as the Company would be required to perform it in the absence of a succession. The Company’s failure to obtain such agreement prior to the effectiveness of a succession shall be a material breach of this Agreement and shall entitle Executive to all of the compensation and benefits to which Executive would have been entitled hereunder if Executive’s employment had been terminated through a Qualifying Termination, on the date when such succession becomes effective.
+
+8
+
+* * *
+
+(b) Governing Law; Venue. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF COLORADO, WITHOUT GIVING EFFECT TO THE PRINCIPLES OF CONFLICTS OF LAW THEREOF. THE PARTIES AGREE THAT ALL ACTIONS OR PROCEEDINGS ARISING IN CONNECTION WITH THIS AGREEMENT AND THE OTHER AGREEMENTS SHALL BE TRIED AND LITIGATED ONLY IN THE STATE, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, FEDERAL COURTS LOCATED IN THE COUNTY OF DOUGLAS, COLORADO. EACH OF THE PARTIES HERETO WAIVES, TO THE EXTENT PERMITTED UNDER APPLICABLE LAW, ANY RIGHT EACH MAY HAVE TO ASSERT THE DOCTRINE OF FORUM NON CONVENIENS OR TO OBJECT TO VENUE TO THE EXTENT ANY PROCEEDING IS BROUGHT IN ACCORDANCE WITH THIS SECTION 14(b). EACH OF THE PARTIES HERETO REPRESENTS THAT EACH HAS REVIEWED THIS WAIVER AND EACH KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL. IN THE EVENT OF LITIGATION, TO THE EXTENT PERMITTED BY LAW, A COPY OF THIS AGREEMENT MAY BE FILED AS A WRITTEN CONSENT TO A TRIAL BY THE COURT.
+
+(c) Entire Agreement/Modification. This Agreement and the Other Agreements represent the entire agreement of the parties with respect to the subject matter hereof and shall supersede any and all previous contracts, arrangements, discussions or understandings between the parties hereto with respect to the subject matter hereof. This Agreement may not be modified or amended except by an instrument in writing signed by each of the parties hereto.
+
+(d) Withholding. The Company shall be entitled to withhold from any amounts payable under this Agreement any federal, state, local or foreign withholding or other taxes or charges which the Company is required to withhold. The Company shall be entitled to rely on an opinion of counsel if any questions as to the amount or requirement of withholding shall arise.
+
+(e) Section 409A.
+
+(i) General. The parties acknowledge and agree that, to the extent applicable, this Agreement shall be interpreted in accordance with, and the parties agree to use their best efforts to achieve timely compliance with, Section 409A, including without limitation any such regulations or other guidance that may be issued after the Effective Date. Executive shall have no right to designate the year of payment of any amount under this Agreement. Notwithstanding any provision of the Agreement to the contrary, in the event that the Company determines that any compensation or benefits payable or provided under the Agreement may be subject to Section 409A, the Company may adopt (without any obligation to do so or to indemnify the Executive for failure to do so) such limited amendments to the Agreement and appropriate policies and procedures, including amendments and policies with retroactive effect, that the Company reasonably determines are necessary or appropriate to (i) exempt the compensation and benefits payable under the Agreement from Section 409A and/or preserve the intended tax treatment of the compensation and benefits provided with respect to the Agreement or (ii) comply with the requirements of Section 409A.
+
+9
+
+* * *
+
+(ii) Separation from Service. Notwithstanding any provision to the contrary in this Agreement:
+
+(A) no amount shall be payable pursuant to Section 6 or Section 7 unless the termination of the Executive’s employment constitutes a “separation from service” within the meaning of Section 1.409A-1(h) of the Department of Treasury Regulations;
+
+(B) if the Executive is deemed at the time of his separation from service to be a “specified employee” for purposes of Code Section 409A(a)(2)(B)(i), to the extent delayed commencement of any portion of the termination benefits to which the Executive is entitled under this Agreement is required in order to avoid a prohibited distribution under Code Section 409A(a)(2)(B)(i) (any such delayed commencement, a “Payment Delay”), such portion of the Executive’s termination benefits shall not be provided to the Executive prior to the earlier of (1) the expiration of the six-month period measured from the date of the Executive’s “separation from service” with the Company (as such term is defined in the Department of Treasury Regulations issued under Section 409A) or (2) the date of the Executive’s death. Upon the earlier of such dates, all payments deferred pursuant to this section shall be paid in a lump sum to the Executive, and any remaining payments due under the Agreement shall be paid as otherwise provided herein. The determination of whether the Executive is a “specified employee” for purposes of Code Section 409A(a)(2)(B)(i) as of the time of his separation from service shall be made by the Company in accordance with the terms of Section 409A (including without limitation Section 1.409A-1(i) of the Department of Treasury Regulations and any successor provision thereto); and
+
+(C) for purposes of Section 409A, the Executive’s right to receive installment payments pursuant to Section 6 shall be treated as a right to receive a series of separate and distinct payments.
+
+(iii) Reimbursements. The reimbursement of any expense under Section 5 shall be made no later than December 31 of the year following the year in which the expense was incurred. The amount of expenses reimbursed in one year shall not affect the amount eligible for reimbursement in any subsequent year.
+
+  
+
+
+Signature page follows.
+
+10
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement on the day and year first above written.
+
+  
+
+
+  
+
+
+Verecloud, Inc.
+
+By: /s/ John McCawley  
+  
+John McCawley
+
+Chief Executive Officer  
+  
+  
+
+
+EXECUTIVE  
+  
+/s/ William M. Perkins  
+  
+William M. Perkins  
+  
+  
+
+
+11
+
+* * *

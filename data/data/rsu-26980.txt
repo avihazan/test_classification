@@ -1,0 +1,70 @@
+Exhibit 10.3
+
+
+
+Name of Optionee: Andres Espineira  
+No. of Option Shares (“Option Shares”): 6,000,000  
+Option Exercise Price per Share (the “Exercise Price”): $0.20  
+Grant Date: November 1, 2015  
+Expiration Date: Ten years after the Grant Date  
+  
+Relating to that certain Consulting Agreement (“Consulting Agreement”) entered into between LIFELOGGER TECHNOLOGIES CORP:, a Nevada corporation located at 11380 Prosperity Farms Rd., Palm Beach Gardens, FL, 33410 (the “Company”) and Andres Espineira (the “Consultant” or “Optionee”) as of the Grant Date set forth above, the Company hereby grants to Consultant consistent with the terms of a Consulting Agreement, the option (the “Stock Option”) to purchase on or prior to the Expiration Date specified above all or part of the number of shares of common stock, par value $0.001 per share (the “Common Stock”), of the Company specified above (the “Option Shares”) at the Option Exercise Price per share specified above (the “Exercise Price”), subject to the terms and conditions set forth herein.
+
+1\. Exercisability Schedule. No portion of this Stock Option may be exercised until such portion shall have become exercisable. Except as set forth below, and subject to the discretion of the Company to accelerate the exercisability schedule hereunder, this Stock Option shall be exercisable with respect to the following number of Option Shares on the dates indicated so long as the Consultant or the Optionee remains in service to the Company as a consultant or employee on such dates or as otherwise provided for in Section 3 below:
+
+Incremental Number of   
+Option Shares Exercisable Exercisability Date   
+2,000,000 (33 1/3%) 12 Months after the Grant Date   
+2,000,000 (33 1/3%) 24 Months after the Grant Date   
+2,000,000s (33 1/3%) 36 Months after the Grant Date   
+  
+Once exercisable, this Stock Option shall continue to be exercisable at any time or times prior to the close of business on the Expiration Date except as provided for in Section 3 below.
+
+2\. Manner of Exercise.
+
+(a)The Optionee may exercise the Stock Option only in the following manner: from time to time on or prior to the Expiration Date of the Stock Option, the Optionee may give written notice to the Company of his election to purchase some or all of the Option Shares purchasable at the time of such notice. This notice shall specify the number of Option Shares to be purchased.
+
+\- 1 -  
+  
+(b) Payment of the purchase price for the Option Shares may be made by one or more of the following methods: (i) in cash, by certified or bank check or other instrument acceptable to the Company; (ii) through the delivery (or attestation to the ownership) of shares of Common Stock that have been purchased by the Optionee on the open market or that are beneficially owned by the Optionee and are not then subject to any restrictions under any Company plan and that otherwise satisfy any holding periods as may be required by the Company; (iii) by the Optionee delivering to the Company a properly executed exercise notice together with irrevocable instructions to a broker to promptly deliver to the Company cash or a check payable and acceptable to the Company to pay the option purchase price, provided that in the event the Optionee chooses to pay the option purchase price as so provided, the Optionee and the broker shall comply with such procedures and enter into such agreements of indemnity and other agreements as the Company shall prescribe as a condition of such payment procedure; (iv) by a “net exercise” arrangement pursuant to which the Company will reduce the number of shares of Stock issuable upon exercise by the largest whole number of shares with a fair market value that does not exceed the aggregate exercise price; or (v) a combination of (i), (ii), (iii) and (iv) above. Payment instruments will be received subject to collection.
+
+(c) The transfer to the Optionee on the records of the Company or of the transfer agent of the Option Shares will be contingent upon (i) the Company’s receipt from the Optionee of the full purchase price for the Option Shares, as set forth above, (ii) the fulfillment of any other requirements contained herein or in the Plan or in any other agreement or provision of laws, and (iii) the receipt by the Company of any agreement, statement or other evidence that the Company may require to satisfy itself that the issuance of Common Stock to be purchased pursuant to the exercise of Stock Options under the Plan and any subsequent resale of the shares of Common Stock will be in compliance with applicable laws and regulations. In the event the Optionee chooses to pay the purchase price by previously-owned shares of Common Stock through the attestation method, the number of shares of Common Stock transferred to the Optionee upon the exercise of the Stock Option shall be net of the Shares attested to.
+
+(d) The shares of Common Stock purchased upon exercise of this Stock Option shall be transferred to the Optionee on the records of the Company or of the transfer agent upon compliance to the satisfaction of the Company with all requirements under applicable laws or regulations in connection with such transfer and with the requirements hereof and of the Plan. The determination of the Company as to such compliance shall be final and binding on the Optionee. The Optionee shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any shares of Common Stock subject to this Stock Option unless and until this Stock Option shall have been exercised pursuant to the terms hereof, the Company or the transfer agent shall have transferred the shares to the Optionee, and the Optionee’s name shall have been entered as the stockholder of record on the books of the Company. Thereupon, the Optionee shall have full voting, dividend and other ownership rights with respect to such shares of Common Stock.
+
+(e) The minimum number of shares with respect to which this Stock Option may be exercised at any one time shall be 100 shares, unless the number of shares with respect to which this Stock Option is being exercised is the total number of shares subject to exercise under this Stock Option at the time.
+
+(f) Notwithstanding any other provision hereof, no portion of this Stock Option shall be exercisable after the Expiration Date hereof.
+
+3\. Termination as Consultant. If the Consultant or Optionee ceases to be a consultant to the Company for any reason (the “Separation of Service”), any portion of this Stock Option outstanding on such date may be exercised, to the extent exercisable on the date the Optionee ceased to provide services, for a period of six months from the date of Separation of Service (the “Tail Option Exercise Period”) or until the Expiration Date, if earlier provided however, if (i) the Consultant or Optionee has been a consultant to the Company for the full 40 month term of the Consulting Agreement, (ii) the Consulting Agreement is terminated by Consultant for cause or (iii) the Consulting Agreement is terminated by the Company without Cause as defined in the Consulting Agreement, the Tail Option Exercise Period shall be extended until twelve months from the date of Separation of Service. Any portion of this Stock Option that is not exercisable within the Tail Option Exercise Period shall terminate effective as of the end of such period and be of no further force or effect.
+
+\- 2 -  
+  
+4\. Transferability. This Agreement is personal to the Optionee, is non-assignable and is not transferable in any manner, by operation of law or otherwise, other than by will or the laws of descent and distribution. This Stock Option is exercisable, during the Optionee’s lifetime, only by the Optionee, and thereafter, only by the Optionee’s legal representative or legatee.
+
+5\. No Obligation to Continue as a Consultant or Service Provider. This Stock Option does not confer upon the Consultant or the Optionee any rights with respect to continuance as a consultant or other service provider to the Company.
+
+6\. Integration. This Agreement constitutes the entire agreement between the parties with respect to this Stock Option and supersedes all prior agreements and discussions between the parties concerning such subject matter.
+
+7\. Data Privacy Consent. In order to administer this Agreement and to implement or structure future equity grants, the Company, its subsidiaries and affiliates and certain agents thereof (together, the “Relevant Companies”) may process any and all personal or professional data, including but not limited to Social Security or other identification number, home address and telephone number, date of birth and other information that is necessary or desirable for the administration of the Plan and/or this Agreement (the “Relevant Information”). By entering into this Agreement, the Optionee (i) authorizes the Company to collect, process, register and transfer to the Relevant Companies all Relevant Information; (ii) waives any privacy rights the Optionee may have with respect to the Relevant Information; (iii) authorizes the Relevant Companies to store and transmit such information in electronic form; and (iv) authorizes the transfer of the Relevant Information to any jurisdiction in which the Relevant Companies consider appropriate. The Optionee shall have access to, and the right to change, the Relevant Information. Relevant Information will only be used in accordance with applicable law.
+
+8\. Arbitration. This Agreement shall be governed by and interpreted in accordance with the laws of the State of Florida. Any controversies or claims between the parties, whether arising in contract, tort or by statute, including but not limited to controversies or claims that arise out of or relate to: (i) this Agreement (including any renewals, extensions or modifications); or (ii) any document related to this Agreement (collectively a “Claim”), shall be settled by binding arbitration administered by the American Arbitration Association under its Employment Arbitration Rules and Mediation Procedures and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. The parties acknowledge that this Agreement evidences a transaction involving interstate commerce. The Federal Arbitration Act (Title 9, U.S. Code) shall govern the interpretation, enforcement, and proceedings pursuant to the arbitration clause in this Agreement. The arbitration shall be administered by the AAA and conducted, unless otherwise required by law, in Palm Beach County, Florida. By agreeing to binding arbitration, the parties irrevocably and voluntarily waive any right they may have to a trial by jury in respect of any Claim. THE PARTIES AGREE AND UNDERSTAND THAT THE EFFECT OF THIS AGREEMENT IS THAT THEY ARE GIVING UP THE RIGHT TO TRIAL BY JURY TO THE EXTENT PERMITTED BY LAW.
+
+9\. Notices. Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Optionee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing.
+
+\- 3 -  
+  
+COMPANY:
+
+LIFELOGGER TECHNOLOGIES CORP.  
+  
+By: /s/ Stewart Garner  
+Title: Chief Executive Officer  
+  
+The foregoing Agreement is hereby accepted and the terms and conditions thereof hereby agreed to by the undersigned. Electronic acceptance of this Agreement pursuant to the Company’s instructions to the Optionee is acceptable.
+
+Dated: November 10, 2015  /s/ Andres Espineira  
+Optionee’s Signature  
+Optionee’s name and address:  
+  
+\- 4 -

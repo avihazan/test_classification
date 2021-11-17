@@ -1,0 +1,73 @@
+Exhibit 99.2
+
+
+UNDER THE NEUSTAR, INC. 2009 STOCK INCENTIVE PLAN 
+
+This STOCK OPTION AGREEMENT is entered into as of [ ] (the “Grant Date”), between NEUSTAR, INC. (the “Company”) and [ ] (“you”). 
+
+1\. Option Grant. The Company grants you an option (the “Option”) to purchase up to [______] shares of the Company’s Common Stock at a price of $[______] per share. The Option is not exercisable now but becomes exercisable in installments, which are cumulative, so that, so long as you do not experience a Termination prior to any such date, the number of shares originally subject to the Option shall vest and become exercisable on each of the dates set forth in Section 5 below. 
+
+2\. The Plan. The Option is subject to the terms of the Company’s 2009 Stock Incentive Plan (the “Plan”). Capitalized terms used but not defined in this Agreement have the meanings set forth in the Plan. 
+
+3\. Type of Option. The Option is a nonqualified option, not an incentive stock option, for U.S. tax purposes. 
+
+4\. Termination. The Option terminates on the seventh (7th) anniversary of the date of this Agreement, except in the event of your Termination or as otherwise provided in the Plan. The Option will immediately terminate upon your Termination, except that (i) if the Termination is because of your death or Disability, the portion of the Option that is vested and unexercised as of the date of Termination (the “Vested Portion”) will remain exercisable for one year following Termination, and (ii) if the Termination is for any other reason, excluding Cause (or a voluntary termination by you following an event that constitutes Cause), the Vested Portion will remain exercisable for 90 days after Termination, although in all cases the Option will never be exercisable after the seventh (7th) anniversary of this Agreement. Upon Termination for Cause (or a voluntary termination by you following an event that constitutes Cause), the entire Option (including any Vested Portion) terminates immediately. You will not be deemed to have experienced a Termination until you no longer serve as any of (i) an employee of, or consultant to, the Company or its Affiliates, or (ii) a Director. 
+
+Notwithstanding the foregoing, in the event of a Change in Control, subject to the terms of the Plan, if the Option is not assumed or continued or substituted for a substantially equivalent right by the surviving corporation, the successor corporation or its parent corporation, as applicable (the “Successor Corporation”), you shall fully vest in and have the right to exercise the Option as to all shares of Common Stock then subject thereto, including shares as to which the Option would not otherwise be vested or exercisable. Any Options that are assumed or replaced (and any Option shall be considered assumed if the Successor Corporation in a Change in Control reaffirms the Option) in connection with a Change in Control and have not otherwise vested shall immediately vest in full if you experience a Termination (other than by the Company for Cause or by you without Good Reason (as defined below)) within two (2) years after the Change in Control. 
+
+For purposes of this Agreement, “Good Reason” shall mean, without your prior written consent, any of the following events or conditions and the failure of the Successor Corporation to cure such event or condition within thirty (30) days after receipt of written notice from you, provided that you serve notice of such event or condition and intended termination within sixty (60) days of its occurrence: (i) a reduction in your annual base salary, except pursuant to a policy generally applicable to employees at your level and above resulting in a reduction of 10% or less; (ii) the Successor Corporation’s failure to cover you under employee benefit plans, programs and practices that, in the aggregate, provide substantially comparable benefits (from an economic perspective) to you relative to the benefits and total costs under the material employee benefit plans, programs and practices in which you (and/or your family or dependents) are participating immediately preceding the Change in Control; (iii) the Successor Corporation’s requiring you to be based at any office location that is more than fifty (50) miles further from your office location immediately prior to a Change in Control, except for reasonable required travel for the Successor Corporation’s business that is not materially greater than such travel requirements prior to such Change in Control; or (iv) a material breach by the Successor Corporation of its obligations to you under the Plan. 
+
+5\. Vesting Schedule. Subject to Section 4, vesting occurs in increments of whole shares only pursuant to the below schedule, with fractional shares accumulated for distribution in the last installment or such earlier time that they constitute a whole share. 
+
+* * *
+
+#####   
+  
+Date on Which Installment Vests and Becomes Exercisable
+
+Percentage of Shares in Installment  
+  
+[ ]
+
+25%  
+  
+[ ] and the last day of each of the succeeding 35 months
+
+2.08333%  
+  
+6\. Exercise. You may exercise the Option by delivering to the Company your signed, written notice of the number of shares to be purchased by your exercise, together with the full purchase price, or by any other method the Committee has approved. Payment may be made by certified check, bank draft or money order payable to the order of the Company or in such other manner as may be acceptable to the Committee. You shall be obligated to pay or make other arrangements to provide for any applicable withholding taxes in a manner acceptable to the Committee. 
+
+7\. Transfer Restriction. Unless otherwise permitted by the Committee, the Option is non-transferable, except that in the event of your death, it may be transferred by will or the laws of descent and distribution. Only you (or your guardian or legal representative) may exercise the Option. 
+
+8\. Detrimental Activity. For purposes of this Award, Detrimental Activity shall have the meaning set forth in the Plan and additionally shall mean any of the activities set forth on Annex A. In the event that you engage in Detrimental Activity prior to any exercise of Options, such Options shall thereupon terminate and expire. In the event you engage in Detrimental Activity following the exercise of any Option, the Company shall be entitled to recover from you an amount equal to any gain realized as a result of the exercise (whether at the time of exercise or thereafter). 
+
+9\. No Right to Continued Service. The issuance of this Option does not constitute an agreement by the Company to continue to employ you or retain your services during the entire, or any portion of, the period prior to full vesting of the Option or otherwise. 
+
+10\. Adjustments. In the case of any change in corporate structure as contemplated under Section 4.2(b) of the Plan, an equitable adjustment shall be deemed necessary and shall be made in accordance with such Section 4.2(b). 
+
+11\. Notice. Any notice or communication to the Company concerning the Option must be in writing and delivered in person, or by U.S. mail, to the following address (or another address specified by the Company): NeuStar, Inc., Attn: General Counsel, 46000 Center Oak Plaza, Sterling, VA 20166. 
+
+You will not have any rights with respect to your Option Award unless and until you deliver an executed copy of this Agreement to the Company within 60 days of the Grant Date.  
+  
+NEUSTAR, INC.  
+  
+By:  
+  
+Jeffrey E. Ganek  [ ]   
+  
+* * *
+
+##### 
+
+Annex A  
+Detrimental Activity
+
+“Detrimental Activity” shall have the meaning set forth in the Plan and additionally shall mean any of the following: 
+
+(i) For the period commencing on your first day of employment with the Company and ending on the date which is 18 months following your termination of employment with the Company for any reason (such period hereinafter referred to as the “Restricted Period”), with respect to any state or country in which the Company is engaged in business during your employment term, you participate or engage, directly or indirectly, for yourself or on behalf of or in conjunction with any person, partnership, corporation or other entity, whether as an employee, agent, officer, director, shareholder, partner, joint venturer, investor or otherwise, in any business competitive with a business undertaken by the Company or by you at any time during your employment term. 
+
+(ii) During the Restricted Period, you engage in Solicitation, whether for your own account or for the account of any other individual, partnership, firm, corporation or other business organization (other than the Company). “Solicitation” means any of the following, or an attempt to do any of the following: (i) recruiting, soliciting or inducing any non-clerical employee or consultant of the Company (including, but not limited to, any independent sales representative or organization) to terminate his or her employment with, or otherwise cease or reduce his or her relationship with, the Company; (ii) hiring or assisting another person or entity to hire any non-clerical employee or consultant of the Company or any person who within 12 months before was such a person; or (iii) soliciting or inducing any person or entity (including any person who within the preceding 12 months was a customer or client of the Company) to terminate, suspend, reduce, or diminish in any way its relationship with or prospective relationship with the Company. 
+
+(iii) (a) You disclose to any person or entity or use, at any time, any information not in the public domain or generally known in the industry (except as may be required by law or legal process), in any form, acquired by you while employed by the Company or any predecessor to the Company’s business or, if acquired following the employment term, such information which, to your knowledge, has been acquired, directly or indirectly, from any person or entity owing a duty of confidentiality to the Company (or to which the Company owes a duty of confidentiality), including but not limited to information regarding customers, vendors, suppliers, trade secrets, training programs, manuals or materials, technical information, contracts, systems, procedures, mailing lists, know-how, trade names, improvements, price lists, financial or other data (including the revenues, costs or profits associated with any of the Company’s products or services), business plans, code books, invoices and other financial statements, computer programs, software systems, databases, discs and printouts, plans (business, technical or otherwise), customer and industry lists, correspondence, internal reports, personnel files, sales and advertising material, telephone numbers, names, addresses or any other compilation of information, written or unwritten, which is or was used in the business of the Company; or (b) you fail to return to the Company the originals and all copies of any such information in any form, and copies and extracts thereof, provided to or acquired by you in connection with the performance of your duties for the Company (which are and shall remain the sole and exclusive property of the Company); or (c) you fail to return to the Company all files, correspondence and/or other communications received, maintained and/or originated by you during the course of your employment. 
+
+(iv) You issue or communicate, directly or indirectly, any public statement (or statement likely to become public) that disparages, denigrates, maligns or impugns the Company, its affiliates, or their respective officers, directors, employees, products or services, except truthful responses to legal process or governmental inquiry or by you in carrying out your duties while employed by the Company. 

@@ -1,0 +1,661 @@
+Exhibit 10.8
+
+  
+
+
+  
+
+
+
+
+dated January 12, 2015
+
+by and among
+
+TEG OIL & GAS U.S.A., INC.,
+
+a Colorado corporation
+
+as “TEG”
+
+SEFTON RESOURCES, INC.
+
+a British Virgin Islands corporation
+
+as “Sefton”
+
+HAWKER ENERGY, INC.,
+
+a Nevada corporation
+
+as “Hawker”
+
+* * *
+
+TABLE OF CONTENTS
+
+Page  
+  
+1.
+
+Certain Definitions
+
+3  
+  
+2.
+
+Purchase and Sale of Shares
+
+6  
+  
+3.
+
+Closing
+
+6  
+  
+3.1
+
+Conditions
+
+6  
+  
+3.2
+
+Deliveries by Sefton
+
+6  
+  
+3.3
+
+By Hawker
+
+6  
+  
+4.
+
+Representations and Warranties of Sefton
+
+7  
+  
+4.1
+
+Organization and Power
+
+7  
+  
+4.2
+
+Authorization
+
+7  
+  
+4.3
+
+Shares
+
+7  
+  
+4.4
+
+Capitalization
+
+7  
+  
+4.5
+
+Title to Operating Interests
+
+7  
+  
+4.6
+
+Bonding Matters
+
+7  
+  
+4.7
+
+Hedging Transactions
+
+8  
+  
+4.8
+
+Take-or-Pay
+
+8  
+  
+4.9
+
+Bonus Payments
+
+8  
+  
+4.10
+
+Property Operation
+
+8  
+  
+4.11
+
+Solvency
+
+8  
+  
+5.
+
+Representations and Warranties of Hawker
+
+8  
+  
+5.1
+
+Organization
+
+8  
+  
+5.2
+
+Authorization
+
+8  
+  
+5.3
+
+Hawker Stock
+
+9  
+  
+6.
+
+Additional Agreements
+
+9  
+  
+6.1
+
+Further Actions
+
+9  
+  
+6.2
+
+No Dispositions
+
+9  
+  
+6.3
+
+Regulatory Approvals
+
+9  
+  
+6.4
+
+Additional Financial Information
+
+9  
+  
+7.
+
+Indemnification
+
+9  
+  
+8.
+
+General Release of Claims
+
+10  
+  
+9.
+
+Miscellaneous
+
+11  
+  
+9.1
+
+Assignment
+
+11  
+  
+9.2
+
+Further Assurances
+
+11  
+  
+9.3
+
+Survival
+
+11  
+  
+9.4
+
+Amendment
+
+11  
+  
+9.5
+
+Notices
+
+11  
+  
+9.6
+
+Attorneys’ Fees
+
+12  
+  
+9.7
+
+Entire Agreement
+
+12  
+  
+-i-
+
+* * *
+
+9.8
+
+Governing Law; Consent to Jurisdiction
+
+12  
+  
+9.9
+
+Forum and Venue
+
+12  
+  
+9.10
+
+Successors and Assigns
+
+12  
+  
+9.11
+
+Captions
+
+12  
+  
+9.12
+
+Severability
+
+13  
+  
+9.13
+
+Counterparts
+
+13  
+  
+9.14
+
+No Third Party Beneficiaries
+
+13  
+  
+9.15
+
+Representation by Counsel
+
+13  
+  
+  
+
+
+  
+
+
+SCHEDULES
+
+Schedule 1
+
+Leases and Wells  
+  
+Schedule 4.6
+
+Bonds  
+  
+Schedule 4.10
+
+Abandoned Wells and Abandonment Obligations  
+  
+Schedule 6.2
+
+Personal Property Assets  
+  
+-ii-
+
+* * *
+
+SHARE PURCHASE AGREEMENT
+
+THIS SHARE PURCHASE AGREEMENT (“Agreement”) is made and entered into on January 12, 2015, by and among TEG Oil & Gas U.S.A., Inc., a Colorado corporation (“TEG”), Sefton Resources, Inc., a British Virgin Islands corporation (“Sefton”) and Hawker Energy, Inc., a Nevada corporation (“Hawker”).
+
+RECITALS
+
+A. Sefton is the record owner of 100,000 shares of Common Stock of TEG, representing 100% of the issued and outstanding shares of capital stock (the “Shares”) of TEG.
+
+B. Sefton desires to sell, and Hawker desires to acquire, at the Closing, all of the Shares.
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing and subject to all of the terms and conditions set forth herein, the parties agree as follows:
+
+1\. Certain Definitions. Capitalized terms used in this Agreement and not otherwise defined herein have the same meanings as in the CA. In addition, the following terms have the following meanings:
+
+“Affiliate” means, with respect to any Person, any other Person that directly or indirectly controls, is controlled by or is under common control with that Person.
+
+“Agreement” has the meaning specified in the preamble.
+
+“Annual Financial Statements” has the meaning specified in Section 6.4.
+
+“Bankruptcy or Insolvency Proceeding” has the meaning specified in Section 4.11.
+
+“Business Day” means any day except Saturday, Sunday and any day which either is a legal holiday under the laws of the State of California or is a day on which banking institutions located in such state are authorized or required by law or other governmental action to close.
+
+“Closing” has the meaning specified in Section 3.
+
+“Closing Date” means the date on which the Closing occurs.
+
+“Defensible Title” means right, title and interest that is evidenced by an instrument or instruments filed of record in accordance with the conveyance and recording laws of the applicable jurisdiction to the extent necessary to give Hawker, through ownership of the Shares, the right to enjoy the benefits of possession of the Operating Interests.
+
+“Encumbrances” means any lien (statutory or other), claim, charge, security interest, mortgage, deed of trust, pledge, hypothecation, assignment, conditional sale or other title retention agreement, preference, priority or other security agreement or preferential arrangement of any kind, and any easement, encroachment, covenant, restriction, right of way, defect in title or other encumbrance of any kind.
+
+-3-
+
+* * *
+
+“GAAP” means generally accepted accounting principles in the United States which, unless otherwise indicated, are applied on a consistent basis.
+
+“Governmental Authority” means any federal, state or local, or any supra-national or non-U.S., government, political subdivision, governmental, regulatory or administrative authority, instrumentality, agency body or commission, court, tribunal or judicial or arbitral body.
+
+“Hawker Stock” has the meaning specified in Section 2.
+
+“Hydrocarbons” means oil, condensate, gas, casinghead gas and other liquid or gaseous hydrocarbons.
+
+“Indemnified Party” has the meaning specified in Section 7.
+
+“Interim Financial Statements” has the meaning specified in Section 6.4.
+
+“Knowledge” means the actual knowledge of Sefton after (and assuming) reasonable inquiry.
+
+“Law” means any federal, state, provincial, municipal, local or foreign law, statute, rule, writ, order, decree, ordinance, code or regulation.
+
+“Leases” means the oil and gas leases, oil, gas and mineral leases, subleases and other leaseholds, royalties, overriding royalties, net profit interests, mineral fee interests, carried interests and other properties and interests and the lands covered thereby and any and all oil, gas, water or injection wells thereon or applicable thereto (the “Wells”) held by TEG and listed on Schedule 1.
+
+“Losses” has the meaning specified in Section 7.
+
+“Operating Interest or Operating Interests” means all of the following:
+
+(a) all of TEG’s interest in and to all facilities, machinery, fixtures, facilities, improvements, desks, office furniture and other miscellaneous personal property or equipment located at TEG’s corporate office at 21 South California Street, Suite 305, Ventura, or located at its Leases located at 26480 Tapia Canyon Road, Castaic and in Eureka Canyon with survey coordinates Section 34 T4N/R18W in Ventura County, California and/or used in connection with the use or operation of the Operating Interests, together with all data and Records associated therewith that are fairly attributable to the Operating Interests, together with any other Records relating to the Operating Interests (or the ownership, use, operation, maintenance, repair or disposition thereof);
+
+(b) all right, title and interest in, to and under all contracts relating to the operation of the Leases;
+
+-4-
+
+* * *
+
+(c) the Leases; and
+
+(d) all of TEG’s right, title and interest in, to and under any Software, computer hardware, computer systems, computer servers, and other intellectual property, whether owned or licensed, or electronic data or files relating to or used in connection with the Operating Interests.
+
+“Person” means an individual, limited liability company, partnership, tenancy-in-common, joint tenancy, joint venture, firm, corporation, trust, charitable institution or other business or legal entity.
+
+“Prevailing Party” includes a party who: (a) agrees to dismiss an action or proceeding upon (i) the other party’s payment of all or a substantial portion of the sums allegedly due or (ii) the other party’s performance of the covenants allegedly breached; or (b) obtains a substantial portion of the relief sought by that party.
+
+“Purchase Price” has the meaning specified in Section 2.
+
+“Record or Records” means all books and records, files, data, correspondence, studies, surveys, reports, maps, and other files in any way related to the Operating Interests, including Hydrocarbon sales contract files, gas processing files, geologic, proprietary geophysical and seismic data (including raw data and any interpretative data or information relating to such geologic, geophysical and seismic data) and other data (in each case whether in written or electronic format) in TEG’s possession or control and relating to the Operating Interests, including all title records, prospect information, title opinions, title insurance reports, abstracts, property ownership reports, customer lists, supplier lists, sales materials, well logs, well tests, maps, engineering data and reports, health, environmental and safety information and records, lease and land files, title files, third-party licenses, promotional materials, operational records, technical records, service and warranty records, reserve estimates and economic estimates; production and processing records, division order, lease, land and right-of-way files, accounting and financial files, tax records and contract files (including all files regarding the Contracts and related files); together with any engineering designs, technical plans, drawings, analysis, maintenance and inspection reports relating to all Wells or used in connection with the Operating Interests.
+
+“SEC” means the United States Securities and Exchange Commission.
+
+“Shares” has the meaning specified in Recital A.
+
+“Software” means computer software programs and software systems, including databases, compilations, tool sets, compilers, higher level or “proprietary” languages and related documentation and materials, whether in source code, object code or human readable form.
+
+“Third Party” means, whether that term is capitalized or not, a Person other than Hawker, Sefton, TEG and their Affiliates.
+
+“Warrant” has the meaning specified in Section 2.
+
+-5-
+
+* * *
+
+“Wells” has the meaning specified in the definition of “Lease(s)”.
+
+2\. Purchase and Sale of Shares. Subject to the terms and conditions of this Agreement, at the Closing, Sefton shall sell to Hawker, and Hawker shall purchase from Sefton, the Shares for (i) $1.00 plus (ii) the issuance by Hawker to Sefton of 3,000,000 shares (the “Hawker Stock”) of Hawker’s common stock, plus (iii) the issuance by Hawker of a five year warrant (the “Warrant”) to purchase up to 5,000,000 shares of Hawker’s common stock for $0.25 per share (collectively, the “Purchase Price”).
+
+3\. Closing. Within one day after satisfaction of the conditions set forth in Section 3.1, the following events will occur (the “Closing”), each event under the control of one party being a further condition precedent to the events under the control of the other party, and the parties will treat each event as if it occurred simultaneously with the other events.
+
+3.1 Conditions. The following conditions must be satisfied before the Closing can occur:
+
+(a) the indebtedness of TEG and its affiliates to BOTW that is secured by first priority liens on TEG’s assets must have been made subject to a forbearance by BOTW on terms satisfactory to Hawker;
+
+(b) no breach of a representation, warranty or covenant by Sefton shall have occurred unless waived in writing by Hawker;
+
+(c) no breach of a representation, warranty or covenant by Hawker shall have occurred unless waived in writing by Sefton; and
+
+(d) Hawker must have obtained equity financing on terms satisfactory to Hawker.
+
+3.2 Deliveries by Sefton. At the Closing, Sefton shall deliver to Hawker:
+
+(a) evidence, satisfactory to Hawker, that the shareholders of Sefton have approved the transactions contemplated by this Agreement in accordance with the rules of the London Stock Exchange’s AIM;
+
+(b) Stock certificate no. 001 representing the Shares, duly endorsed for transfer to Hawker, or accompanied by an appropriate, fully executed stock power or stock transfer instrument satisfactory to Hawker.
+
+3.3 By Hawker. At the Closing, Hawker shall deliver to Sefton:
+
+(a) $1.00, in immediately available funds;
+
+(b) duly executed share certificate representing the Hawker Stock; and
+
+(c) duly executed Warrant.
+
+-6-
+
+* * *
+
+4\. Representations and Warranties of Sefton. Sefton hereby make the following representations and warranties to Hawker:
+
+4.1 Organization and Power. TEG is a corporation duly organized, validly existing and in good standing under the laws of the State of Colorado.
+
+4.2 Authorization. TEG and Sefton have all required power and authority to consummate the transactions contemplated by this Agreement, including all necessary shareholder and board approvals. This Agreement, when executed and delivered by TEG and Sefton, will constitute valid and binding obligations of TEG and Sefton, enforceable in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors’ rights generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies.
+
+4.3 Shares. Sefton holds of record and legally and beneficially owns the Shares free and clear of all Encumbrances. Sefton has the full and unrestricted power to sell, assign, transfer and deliver the Shares in accordance with the terms of this Agreement, free and clear of all Encumbrances. Neither Sefton nor TEG is a party to any option, warrant, purchase right, or other contract or commitment that could require Sefton or TEG to issue, sell, transfer, or otherwise dispose of the Shares, except as exist in favor of Hawker. Sefton is not a party to any voting trust, proxy, or other agreement or understanding with respect to the voting of the Shares, except as exist in favor of Hawker. There are no claims or actions pending with respect to the title of the Shares. Upon the purchase of the Shares pursuant to this Agreement, Hawker will receive good and marketable title to all of the Shares, free and clear of all Encumbrances.
+
+4.4 Capitalization. The authorized equity ownership of TEG consists solely of common stock, which are owned 100% of record and beneficially, free and clear of any Encumbrances, by Sefton, and have been duly authorized and validly issued, and are fully paid and non-assessable. There are no outstanding options, subscriptions, warrants, calls, commitments, pre-emptive rights or other rights obligating TEG to issue or sell any shares of capital stock or any securities convertible into or exercisable for any shares of capital stock, or otherwise requiring TEG or Sefton to give any Person the right to receive any benefits or rights similar to any rights enjoyed by or accruing to the holders of TEG capital stock or any rights to participate in the equity or net income of TEG.
+
+4.5 Title to Operating Interests. TEG has Defensible Title to the Operating Interests. All proceeds from the sale of TEG’s share of the Hydrocarbons produced from the Operating Interests have been and are currently being paid in full to TEG by the purchasers thereof on a timely basis, and none of the proceeds are currently being held in suspense by the purchaser or any other party.
+
+4.6 Bonding Matters. Schedule 4.6 lists all of the bonds and other security arrangements that TEG maintains as to the Operating Interests or any portion thereof. No claim has been made by any Governmental Authority that TEG has failed to comply with any law or regulation governing the requirements of bonds as to TEG’s operations of the Operating Interests.
+
+-7-
+
+* * *
+
+4.7 Hedging Transactions. TEG is not currently engaged in any futures, hedge, swap, collar, put, call, floor, cap, option or other contract that is intended to benefit from, relate to or reduce or eliminate the risk of fluctuations in the price of commodities, including Hydrocarbons, interest rates, currencies or securities.
+
+4.8 Take-or-Pay. TEG is not obligated, under a take-or-pay or similar arrangement, or by virtue of an election to non-consent or not participate in a past or current operation on any of the Operating Interests pursuant to the applicable operating agreement, to produce Hydrocarbons, or allow Hydrocarbons to be produced, without receiving full payment at the time of delivery in an amount that corresponds to TEG’s interest in and to all production of Hydrocarbons saved, produced and sold from the Operating Interests.
+
+4.9 Bonus Payments. No Third Party has any right, retained, springing or otherwise, to production, cash bonus payments or profits or other rights in the Operating Interests including rights retained by prior owners at the time of the sale of the Operating Interests to TEG to receive production, cash bonus payments or profits from the Operating Interests if the price of oil exceeds a threshold amount.
+
+4.10 Property Operation. Except as set forth on Schedule 4.10, as to Wells operated by TEG and, to Sefton’s Knowledge, as to Wells operated by Third Parties, there is no Well that TEG is currently obligated by Law or contract or agreement to plug and abandon because the Well is not currently capable of producing in commercial quantities. Schedule 4.10 also sets forth an estimate of TEG’s plugging and abandonment obligations for its Wells.
+
+4.11 Solvency. To the Knowledge of Sefton, (i) the fair value of the property of TEG is greater than the total amount of known liabilities, including contingent liabilities, of TEG, (ii) the present fair salable value of the assets of TEG, as part of a going concern, is not less than the amount that will be required to pay the probable liabilities of TEG on its debts as they become absolute and matured and (iii) TEG does not intend to, and does not believe that it will, incur debts or liabilities beyond TEG’s ability to pay as those debts and liabilities mature. There has been no bankruptcy, civil rehabilitation, corporate reorganization or special liquidation proceeding (“Bankruptcy or Insolvency Proceeding”) instituted by or against TEG, and there is no suspension of payment, insolvency, or other event that would become a cause of petition for any of any Bankruptcy or Insolvency Proceeding.
+
+5\. Representations and Warranties of Hawker. Hawker hereby makes the following representations and warranties to TEG as of the date of this Agreement and as of the Closing:
+
+5.1 Organization. Hawker is a limited liability company duly organized, validly existing and in good standing under the laws of Delaware. Hawker has all requisite limited liability company power and authority to execute, deliver and perform its obligations under this Agreement and to consummate the transactions contemplated hereby.
+
+5.2 Authorization. Hawker has all required power and authority to consummate the issuance and sale contemplated by this Agreement. This Agreement, when executed and delivered by Hawker, will constitute valid and binding obligations of Hawker, enforceable in accordance with their respective terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium and other laws of general application affecting enforcement of creditors’ rights generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief or other equitable remedies.
+
+-8-
+
+* * *
+
+5.3 Hawker Stock. The Hawker Stock, when issued and delivered in compliance with the provisions of this Agreement, will be validly issued and will be fully paid and nonassessable.
+
+6\. Additional Agreements.
+
+6.1 Further Actions. At any time from and after the Closing, at the request of a party and without further consideration, each other party shall execute and deliver such further agreements, certificates, instruments and documents and perform such other actions as the requesting party may reasonably request in order to fully consummate the transactions contemplated hereby and carry out the purposes and intent of this Agreement.
+
+6.2 No Dispositions. TEG shall transfer, assign or otherwise dispose of any of its assets (except sales of Hydrocarbons in the ordinary course of business), including, without limitation, the Operating Interests and the personal property assets listed on Schedule 6.2.
+
+6.3 Regulatory Approvals. Each party shall cooperate and use its reasonable best efforts to promptly prepare and file all necessary documentation to effect all necessary applications, notices, petitions, filings and other documents, and use all commercially reasonable efforts to obtain (and will cooperate with each other in obtaining) any consent, acquiescence, authorization, order or approval of, and any exemption or nonopposition by, any Governmental Authority required to be obtained or made by Sefton, TEG or Hawker or any of their respective Affiliates in connection with the transactions contemplated hereby.
+
+6.4 Additional Financial Information. Within 60 days following Hawker’s filing of a Form 8-K pertaining to the transactions contemplated hereby with the SEC following the Closing, Sefton shall provide, at Hawker’s expense, (i) the audited balance sheet for TEG as of December 31, 2014, together with the related audited statement of income, owners’ equity and cash flows for the twelve months ended December 31, 2014 and 2013 (collectively, the “Annual Financial Statements”) and (ii) the unaudited statements of income for TEG for the six months ended June 30, 2014 and 2013, and for the three months ended December 31, 2014 (collectively, the “Interim Financial Statements”). The Annual Financial Statements and Interim Financial Statements will present fairly in all material respects the financial position of TEG as of the dates indicated, and the results of operations for TEG for the respective periods indicated. The Annual Financial Statements and Interim Financial Statements will be prepared in conformity with GAAP. In addition, Sefton shall cooperate with Hawker and TEG after the Closing to assist in providing, at Hawker’s expense, any additional financial information regarding TEG that Hawker may require for inclusion in Hawker’s SEC filings.
+
+7\. Indemnification. Hawker hereby indemnifies and holds each of Sefton and its Affiliates, officers, directors, employees and agents (each an “Indemnified Party”) harmless from and against any and all claims, judgments, causes of action, liabilities, obligations, guarantees, damages, losses, deficiencies, costs, penalties, interest and expenses, including without limitation, cost of investigation and defense, and reasonable attorneys’ fees and expenses, net of any collected insurance proceeds (collectively, “Losses”) arising out of, based upon, attributable to or resulting from the Amended and Restated Credit Agreement dated October 21, 2008, among Bank of the West, Sefton, TEG and TEG Midcontinent, Inc., as amended and the Loan Documents (as defined therein).
+
+-9-
+
+* * *
+
+(a) If Bank of the West asserts any claim against an Indemnified Party, the Indemnified Party shall give notice of the claim to Hawker and Hawker shall have the right to assume the defense and, subject to Section 7(b), settlement of the claim at its expense by representatives of its own choosing acceptable to the Indemnified Party (which acceptance shall not be unreasonably withheld). The failure of the Indemnified Party to notify Hawker of the claim shall not relieve Hawker of any liability that Hawker may have with respect to the claim, except to the extent that the defense is materially prejudiced by that failure. The Indemnified Party shall have the right to participate in the defense of the claim at its expense (which expense shall not be deemed to be a Loss), in which case Hawker shall cooperate in providing information to and consulting with the Indemnified Party about the claim. If Hawker fails or does not assume the defense of the claim within 20 days after written notice of the claim has been given by the Indemnified Party to Hawker, the Indemnified Party may defend against or, subject to Section 7(b), settle the claim with counsel of its own choosing at the expense (to the extent reasonable under the circumstances) of Hawker.
+
+(b) If Hawker does not assume the defense of a claim involving the asserted liability of the Indemnified Party under this Section 7, no settlement of the claim shall be made by the Indemnified Party without the prior written consent of Hawker, which consent shall not be unreasonably withheld or delayed. If Hawker assumes the defense of the claim, (i) no settlement may be effected by Hawker without the Indemnified Party’s consent unless (A) there is no finding or admission of any violation of Law or any violation of the rights of any Person and no effect on any other claim that may be made against the Indemnified Party, (B) the sole relief provided is monetary damages that have been paid in full by Hawker and (C) the settlement includes, as an unconditional term, the giving by the claimant or the plaintiff to the Indemnified Party of a release in form and substance reasonably satisfactory to the Indemnified Party, from all liability in respect of the claim, and (ii) the Indemnified Party shall have no liability with respect to any compromise or settlement thereof effected without its consent.
+
+8\. General Release of Claims. Except for the obligations expressly created by this Agreement, (i) Sefton hereby releases and forever discharges and covenants not to sue TEG or Hawker and (ii) Hawker hereby releases and forevers discharge and covenants not to sue Sefton, from any and all causes of action in law or equity, suits, debts, liens, contracts, agreements, liability, claims, demands, damages, loss, costs, attorney’s fees, or expenses, of any nature whatsoever, known or unknown. This general release is intended by the parties to be as broad as the law will allow, and it is to be so interpreted, construed and applied. With respect to the claims that are being released herein, the parties expressly waive any and all rights under Section 1542 of the Civil Code of the State of California which provides as follows:
+
+A general release does not extend to claims which the creditor does not know or suspect to exist in his or her favor at the time of executing the release, which if known by him or her must have materially affected his or her settlement with the debtor.
+
+-10-
+
+* * *
+
+Each party expressly waives and releases any right or benefit which it has or may have under any similar law or rule of any other jurisdiction.
+
+9\. Miscellaneous.
+
+9.1 Assignment. Neither this Agreement nor any rights or obligations hereunder shall be assigned or delegated by any party without the prior written consent of the other parties.
+
+9.2 Further Assurances. The parties shall execute any and all documents necessary and appropriate to adhere to, to give, effect, or otherwise to obtain approval for the terms and undertakings set forth in this Agreement.
+
+9.3 Survival. The representations, warranties and covenants of Hawker and TEG contained herein shall survive the execution and delivery of this Agreement and the Closing.
+
+9.4 Amendment. This Agreement may not be modified, amended or terminated orally. No modification, amendment or termination or any claimed waiver of any provision of this Agreement shall be binding unless the same is in writing and signed by the person against whom such modification, amendment or waiver is sought to be enforced. The waiver of any breach of this Agreement shall not operate or be construed as a waiver of any other, prior or subsequent breach of this Agreement.
+
+9.5 Notices. Except as otherwise provided for herein, all notices and other communications provided for hereunder shall be in writing (including electronic mail) and mailed (via registered or certified mail) or delivered:
+
+if to Sefton, at:
+
+2050 S. Oneida St., Suite 102  
+  
+Denver, Colorado 80224  
+  
+Attention: Kris Short  
+  
+E-mail: kshort@seftonresources.com  
+  
+and if to Hawker or TEG, at
+
+326 S. Pacific Coast Highway, Suite 102  
+  
+Redondo Beach, California 90277  
+  
+Attention: President  
+  
+E-mail: dkatic@hawkerenergyllc.com  
+  
+with a copy to:
+
+Rutan & Tucker, LLP  
+  
+611 Anton Boulevard, 14th Floor  
+  
+Costa Mesa, California 92626  
+  
+Attention: Gregg Amber  
+  
+E-mail: gamber@rutan.com  
+  
+-11-
+
+* * *
+
+or, as to each party, at such other address as designated by that party in a written notice to the other party. All notices and communications shall be deemed to have been validly served, given or delivered (i) if personally delivered, upon receipt or refusal to accept delivery, (ii) if sent by a commercial overnight courier for delivery on the next Business Day, on the first Business Day after deposit with the courier service (or the second Business Day if sent to an address not in the United States), (iii) if sent by registered or certified mail, three days after deposit thereof in the United States mail, or (iv) if sent by electronic mail, one Business Day after transmission when directed to the appropriate e-mail address (provided that the party giving notice must verify the e-mail address of the recipient prior to transmission).
+
+9.6 Attorneys’ Fees. If any party brings an action or proceeding for any relief against any other party, declaratory or otherwise, to enforce the terms of this Agreement or to declare rights hereunder, the Prevailing Party shall be entitled to recover as part of any such action or proceeding its reasonable attorneys’ fees and costs, including any fees and costs incurred in bringing and prosecuting the action or proceeding and/or enforcing any order, judgment, ruling or award granted as part of the action or proceeding.
+
+9.7 Entire Agreement. This Agreement, its Disclosure Schedules and the other documents executed on the Closing constitute the entire agreement between the parties with respect to the subject matter of this Agreement and supersede all prior agreements and understandings, oral and written, between the parties with respect to the subject matter of this Agreement. No representation, warranty, promise, inducement or statement of intention has been made by any party that is not embodied in this Agreement or such other documents, and no party shall be bound by, or be liable for, any alleged representation, warranty, promise, inducement or statement of intention not embodied herein or therein.
+
+9.8 Governing Law; Consent to Jurisdiction. This Agreement is entered into in Los Angeles County, California and shall be governed by, and construed in accordance with, the internal laws of the State of California without regard to conflict of law principles that would result in the application of any law other than the law of the State of California. Each party acknowledges and consents to the personal jurisdiction of the State and Federal courts in the State of California with respect to any action or proceeding arising out of or in connection with any provision of this Agreement.
+
+9.9 Forum and Venue. The State of California shall be the sole and exclusive forum for any claim or suit between or among the parties involving this Agreement or any transactions contemplated hereby. All claims or suits shall be filed only in Los Angeles County, California, which shall be the sole and exclusive venue for all such matters.
+
+9.10 Successors and Assigns. This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors, assigns, heirs and legatees. Nothing in this Agreement, expressed or implied, is intended to confer on any person other than the parties hereto or their respective successors and assigns, and Third Parties who are expressly given rights hereunder, any rights, remedies, obligations or liabilities under or by reason of this Agreement.
+
+9.11 Captions. Captions contained in this Agreement in no way define, limit or extend the scope or intent of this Agreement.
+
+-12-
+
+* * *
+
+9.12 Severability. If any provision of this Agreement is held to be illegal, invalid or unenforceable under any present or future law, rule or regulation, such provision shall be fully severable, and this Agreement shall be construed and enforced as if such illegal, invalid or unenforceable provision had never comprised a part hereof. The remaining provisions of this Agreement shall remain in full force and effect and shall not be affected by the illegal, invalid or unenforceable provision or by its severance herefrom. Furthermore, in lieu of such illegal, invalid or unenforceable provision, there shall be added automatically as a part of this Agreement a legal, valid and enforceable provision as similar in terms to such illegal, invalid or unenforceable provision as may be possible.
+
+9.13 Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed to be an original and all of which taken together constitute one and the same instrument. This Agreement may be (i) transmitted for reproduction and execution by any means now known or hereafter devised, including facsimile or electronic file transmission, and (ii) converted from its original software program to another and/or printed on different paper formats or in different fonts, any or all of which may result in variations to the pagination and appearance of the counterpart versions of this Agreement. The execution and delivery of counterparts of this Agreement, by facsimile, by electronic file transmission or by original manual signature, regardless of the means or any variation in pagination or appearance, shall be binding upon the parties. Any party delivering an executed counterpart of this Agreement by facsimile or by electronic file transmission shall also deliver a manually executed counterpart of this Agreement to each other party, but failure to do so shall not affect the validity, enforceability or binding effect of this Agreement.
+
+9.14 No Third Party Beneficiaries. Nothing in this Agreement is intended or shall be construed to confer upon or to give to any Person other than the parties (and their permitted assignees) any right, remedy or claim under or by reason of this Agreement. All terms and conditions in this Agreement shall be for the sole and exclusive benefit of the parties and their respective successors and assigns.
+
+9.15 Representation by Counsel. Each party has been represented by its own counsel with respect to all aspects of this Agreement. Each and every provision of this Agreement has been thoroughly negotiated and bargained for by the parties with the benefit of counsel. The parties have thoroughly read and understood the terms of this Agreement, conferred with their attorneys on any questions in regard to this Agreement and voluntarily entered into this Agreement. If a court or other tribunal determines that any term or provision in this Agreement is ambiguous, the interpretation of that provision will not in any way include a consideration or determination of who may actually have drafted the this Agreement and/or the term or condition, and that shall not be a relevant consideration in the interpretation of this Agreement.
+
+  
+
+
+  
+
+
+[Signatures on following page]
+
+-13-
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Share Purchase Agreement as of the first date set forth above.
+
+TEG:
+
+TEG OIL & GAS U.S.A., INC., a Colorado corporation  
+  
+By:
+
+/s/ Tom Milne  
+  
+Tom Milne, Director of Sefton Resources, Inc.,  
+  
+its sole shareholder  
+  
+SEFTON:
+
+SEFTON RESOURCES, INC., a British Virgin Islands corporation  
+  
+By:
+
+/s/ Tom Milne  
+  
+Tom Milne, Director  
+  
+HAWKER:
+
+Hawker Energy, Inc., a Nevada corporation  
+  
+By:
+
+/s/ Darren Katic  
+  
+Darren Katic, President  
+  
+-14-
+
+* * *

@@ -1,0 +1,505 @@
+Exhibit 10.2
+
+LONG-TERM PERFORMANCE-BASED
+
+
+Granted Under the
+
+DICK’S SPORTING GOODS, INC.   
+2012 STOCK AND INCENTIVE PLAN
+
+Unless otherwise defined herein, each capitalized term used in this Restricted Stock Award Agreement (this “Agreement”) shall have the meaning given such term in the Dick’s Sporting Goods, Inc. 2012 Stock and Incentive Plan (the “Plan”), an electronic copy of which can be found on Dick’s Sporting Goods’ equity administrator’s website (the “Benefit Access System”).
+
+The undersigned Grantee has been granted a Long-Term Performance-Based Restricted Stock Award (the “Award”), subject to the terms and conditions of the Plan and this Restricted Stock Award Agreement, as follows:
+
+Grantee:  
+  
+Type of Shares:
+
+Common Stock, par value $0.01 per share  
+  
+Number of Shares of Common Stock (the “Shares”) Granted:
+
+Shares  
+  
+Grant Date:
+
+April 3, 2013  
+  
+Performance Period:
+
+Five (5) fiscal year period, commencing February 3, 2013, and ending February 3, 2018  
+  
+Vesting Date:
+
+April 3, 2018, or such earlier date as set forth herein  
+  
+Forfeiture Restrictions:
+
+Grantee shall have all of the rights and privileges of a stockholder of the Company with regard to the shares underlying the Award, except that the following restrictions (the “Forfeiture Restrictions”) shall apply:  
+  
+(a) The Shares may not be sold, assigned, pledged, exchanged, hypothecated, gifted or otherwise transferred, encumbered or disposed of to the extent then subject to these Forfeiture Restrictions. Grantee represents and warrants to the Company that he/she shall not sell, assign, pledge, exchange, hypothecate, gift or otherwise transfer, encumber or dispose of the Shares, or subject the Shares to any adverse right, in violation of applicable securities laws or the provisions of this Agreement. The Company may refuse to register the transfer of the Shares on the stock transfer records of the Company if such transfer constitutes a violation of any applicable securities law or this Agreement, and the Company may give related instructions to its transfer agent, if any, to stop registration of the transfer of the Shares.  
+  
+* * *
+
+  
+
+
+(b) Any cash or in-kind dividends paid or distributed with respect to the shares of the Company’s Common Stock (“Dividends”) shall not be immediately payable by the Company with respect to the Shares, and any such Dividends shall be paid to Grantee, without interest, only when, and if, the related Shares shall become vested in accordance with this Agreement and the Plan.
+
+(c) Any Shares that do not vest on the Vesting Date shall be forfeited. Further, any and all Dividends not paid or distributed with respect to such forfeited Shares as provided for herein shall also be forfeited to the Company and will not be paid or distributed to Grantee.
+
+If all or any portion of the Shares are forfeited under this Agreement, Grantee shall take all necessary actions to transfer the forfeited Shares to the Company, including, but not limited to, endorsing in blank or duly endorsing a stock power attached to any certificate representing forfeited Shares transferred, all in a form suitable for the transfer of such forfeited Shares to the Company. Grantee agrees to take any and all actions that may be necessary in connection with the forfeiture of Dividends.  
+  
+(d) If all or any portion of the Shares and Dividends are forfeited under this Agreement, all rights of a stockholder with respect to such Shares, including the right to vote and receive dividends with respect thereto, shall cease immediately on the date of the forfeiture.  
+  
+(e) These Forfeiture Restrictions shall be binding upon, and enforceable against, any transferee of the Shares.  
+  
+Delivery of Shares:
+
+On the Grant Date of this Award, the Company shall issue the Shares, in either certificated or book entry form, in Grantee’s name effective as of the Grant Date, provided that the Company shall retain control of such Shares until the Shares have become vested in accordance with this Agreement.  
+  
+In the event that any Shares are certificated, then any certificates representing the Shares shall bear such legend or legends as the Company deems appropriate in order to assure compliance with this Agreement, the Plan and applicable securities laws. During the period of time when the Shares are subject to the Forfeiture Restrictions, all certificates representing Shares shall be endorsed with the following legend (in addition to any other legend required by applicable securities laws or any agreement by which the Company is bound):  
+  
+2
+
+* * *
+
+  
+
+
+THE SALE OR OTHER TRANSFER OF THE SHARES OF STOCK REPRESENTED BY THIS CERTIFICATE IS SUBJECT TO CERTAIN RESTRICTIONS SET FORTH IN THE RESTRICTED STOCK AWARD AGREEMENT UNDER THE COMPANY’S 2012 STOCK AND INCENTIVE PLAN BETWEEN THE REGISTERED OWNER AND THE COMPANY. A COPY OF THE PLAN AND THE RESTRICTED STOCK AWARD AGREEMENT MAY BE OBTAINED FROM THE SECRETARY OF THE COMPANY.  
+  
+Vesting:
+
+Annual Determination. As soon as practicable following the end of each fiscal year of the Company during the Performance Period, the Committee will determine and certify the level of achievement of the Performance Goals (as defined below) with respect to the immediately preceding fiscal year. If the Committee determines that the Target Amount (as defined below) of both of the Performance Goals was achieved as of the end of such fiscal year, then 100% of the Shares will vest as of the date of such determination, and any Dividends with respect to such Shares shall be paid or distributed on such date.
+
+Final Determination. If the Shares have not otherwise vested in accordance with the immediately preceding paragraph, but the Committee determined that the Company achieved at least the Threshold Amount (as defined below) of both the Performance Goals with respect to the 2017 fiscal year, then the percentage of Shares that vest as of the date of such determination will be determined as follows:
+
+(i) If the Target Amount was not achieved with respect to either Performance Goal with respect to the 2017 Fiscal Year and exactly the Threshold Amount of both goals was achieved, then 50% of the Shares will vest, and any Dividends with respect to such Shares shall be paid or distributed on such date; and
+
+(ii) If the Target Amount was achieved with respect to one, but not both, Performance Goals, and exactly the Threshold Amount was achieved on the other Performance Goal with respect to the 2017 Fiscal Year, then 75% of the Shares will vest, and any Dividends with respect to such Shares shall be paid or distributed on such date. 
+
+If the level of achievement of a Performance Goal is between the Threshold Amount and the Target Amount, linear interpolation, weighting each Performance Goal equally, will be applied to determine the percentage of Shares that vest and corresponding Dividends to be paid or distributed.
+
+Miscellaneous.
+
+The date on which any Shares vest pursuant to this Award is referred to as the “Vesting Date.”
+
+Refer to Attachment A attached hereto and incorporated herein, which provides examples of the foregoing.  
+  
+3
+
+* * *
+
+  
+
+
+Performance Criteria:
+
+The Performance Criteria consists of the Operating Margin and Total Revenue Goals set forth below (together, the “Performance Goals”):  
+  
+Operating Margin:
+
+“Threshold Amount”: 10.50%
+
+“Target Amount”: 11.0%
+
+For purposes of this Agreement, in any given fiscal year, “Operating Margin” means the quotient of (A) the Company’s earnings during such fiscal year, before taxes and interest (“EBIT”), as the numerator, and (B) the Company’s consolidated net sales during such fiscal year (“Net Sales”), as the denominator, which quotient is expressed as a percentage.
+
+Except as set forth under the section entitled “Extraordinary Corporate Events” below, for purposes of determining the Operating Margin of the Company in any given fiscal year, the operating results of any business acquired by the Company, whether by stock, asset, merger or other transaction, shall be consolidated with the Operating Margin of the Company from the date of the acquisition. For the avoidance of doubt, the historical operating results of such acquired business prior to the acquisition shall not be consolidated with the Operating Margin of the Company.  
+  
+Total Revenue:
+
+“Threshold Amount”: $10,000,000,000
+
+“Target Amount”: $12,000,000,000
+
+For purposes of this Agreement, in any given year, “Total Revenue” means the Company’s Net Sales.
+
+Except as set forth under the section entitled “Extraordinary Corporate Events” below, for purposes of determining the Net Sales of the Company in any given fiscal year, the operating results of any business acquired by the Company, whether by stock, asset, merger or other transaction, shall be consolidated with the Net Sales of the Company from the date of the acquisition. For the avoidance of doubt, the historical operating results of such acquired business prior to the acquisition shall be not be consolidated with the Net Sales of the Company.  
+  
+4
+
+* * *
+
+  
+
+
+Termination of Employment; Failure to Remain a Qualifying Employee:
+
+Notwithstanding anything set forth in this Agreement to the contrary:
+
+(a) If the Grantee’s Continuous Status as an Employee terminates by reason of the Grantee’s death or total and permanent disability (as defined in Section 22(e)(3) of the Code) while Grantee is a Qualifying Employee, the Award shall vest on the Vesting Date, in such amount as if the Grantee had continued as a Qualifying Employee through the Vesting Date. 
+
+(b) If the Grantee’s Continuous Status as an Employee terminates by reason of the Grantee’s Retirement (defined as a voluntary Termination by Grantee on or after attainment of age 55 with a minimum of fifteen (15) years of service) while Grantee is a Qualifying Employee, then so long as Grantee has served as a Qualifying Employee for at least one (1) year of the Performance Period, the Award shall vest on the Vesting Date in an amount equal to the product of (i) the number of Shares that would have vested if Grantee had continued as a Qualifying Employee through the Vesting Date and (ii) a fraction, the numerator of which is the number of full calendar months (counting February 3, 2013 to February 28, 2013 as a full calendar month) of active service that Grantee served as a Qualifying Employee during the period between February 3, 2013 and the Vesting Date and the denominator of which is the total number of months during the period between February 3, 2013 and the Vesting Date. 
+
+(c) If, for any reason other than Grantee’s death, total and permanent disability or Retirement while a Qualifying Employee, the Grantee’s Continuous Status as an Employee terminates prior to the Vesting Date, the Award shall, unless otherwise specified by the Company, be automatically forfeited and no Shares shall vest.
+
+(d) If on the Vesting Date, the Grantee ceases to be a Qualifying Employee prior to the Vesting Date, but maintains Continuous Status as an Employee, then so long as Grantee has served as a Qualifying Employee for at least one (1) year of the Performance Period, the Award shall vest on the Vesting Date in an amount equal to the product of (i) the number of Shares that would have vested if Grantee had continued as a Qualifying Employee through the Vesting Date and (ii) a fraction, the numerator of which is the number of full calendar months (counting February 3, 2013 to February 28, 2013 as a full calendar month) of active service that Grantee served as a Qualifying Employee during the period between February 3, 2013 and the Vesting Date and the denominator of which is the total number of months during the period between February 3, 2013 and the Vesting Date.
+
+“Qualifying Employee” means an Employee that maintains Continuous Status as an Employee and has not been demoted to a position with decreased duties, responsibilities and/or authority from the position he/she holds as of the date of this Agreement.  
+  
+5
+
+* * *
+
+  
+
+
+Extraordinary Corporate Events:
+
+Large Acquisition Transaction or Change in Control. In the event that either (1) the Company acquires, whether by stock, asset, merger or other transaction, any business that has consolidated revenue of $2 billion or more, based on the greater of such business’s last completed fiscal year or trailing twelve months from the Acquisition Date (as defined below), and such transaction does not result in a Change in Control (a “Large Acquisition Transaction”), or (2) or a Change in Control, then a percentage of Shares shall vest on the date of the consummation of such Large Acquisition Transaction or Change in Control (the “Acquisition Date”). The percentage of Shares that vest on the Acquisition Date will be based on the level of the Company’s achievement of the Performance Goals as of the end of the last completed fiscal year preceding the Acquisition Date, as determined by the Compensation Committee, compared against the target and threshold amounts of the Performance Goals for such fiscal year as set forth in Attachment B. The historical operating results of the acquired company shall not be consolidated with the operating results of the Company in determining the level of the Company’s achievement of the Performance Goals for the purposes of the provisions under this section “Large Acquisition Transaction”.
+
+(i) If the Committee determines that the target amount of the Performance Goals for such fiscal year was achieved for both Performance Goals, then 100% of a number of Shares equal to the product of (i) the number of Shares subject to this Award and (ii) a fraction, the numerator of which is the number of full calendar months (counting February 3, 2013 to February 28, 2013 as a full calendar month) between February 3, 2013 and the end of the last completed fiscal year and the denominator of which is 60, will vest; and any Dividends with respect to such Shares shall be paid or distributed on such date.
+
+(ii) If the target amount of the Performance Goals for such fiscal year was not achieved for either Performance Goal, but exactly the threshold amount of such Performance Goals for such fiscal year was achieved for both Performance Goals, then 50% of a number of Shares equal to the product of (i) the number of Shares subject to this Award and (ii) a fraction, the numerator of which is the number of full calendar months (counting February 3, 2013 to February 28, 2013 as a full calendar month) between February 3, 2013 and the end of the last completed fiscal year and the denominator of which is 60, will vest, and any Dividends with respect to such Shares shall be paid or distributed on such date.
+
+(iii) If the target amount of Performance Goals for such fiscal year was achieved with respect to one, but not both, Performance Goals, and exactly the threshold amount of the Performance Goals for such fiscal year was achieved on the other Performance Goal, then 75% of a number of Shares equal to the product of (i) the number of Shares subject to this Award and (ii) a fraction, the numerator of which is the number of full calendar months (counting February 3, 2013 to February 28, 2013 as a full calendar month) between February 3, 2013 and the end of the last completed fiscal year and the denominator of which is 60, will vest, and any Dividends with respect to such Shares shall be paid or distributed on such date.
+
+If the level of achievement of a Performance Goal for such fiscal year is between the threshold amount and the target amount for such fiscal year, linear interpolation, weighting each Performance Goal equally, will be applied to determine the percentage of Shares that vest and corresponding Dividends to be paid or distributed.  
+  
+6
+
+* * *
+
+  
+
+
+Taxes, Withholding and Section 83(b) Election:
+
+Grantee shall be solely responsible for any taxes payable on the receipt of transfer of vesting of the Shares. Grantee shall promptly pay to the Company, or make arrangements satisfactory to the Company regarding the payment of any federal, state or local taxes of any kind required by law to be withheld with respect to the receipt of the Shares (including in cases where he or she has made an Election, as discussed below). 
+
+The Company shall have the authority to withhold, or to require Grantee to remit to the Company, prior to the removal of any stop order or transfer restrictions on the Shares or any restrictive legends on the certificates representing the Shares, an amount sufficient to satisfy federal, state and local income, employment and tax withholding requirements associated with this Award. Additionally, the Company, in its sole discretion, shall have the right to withhold from Grantee the number of Shares with a Fair Market Value equal to the federal, state and local tax withholding requirements associated with this Award. Any withholding from Shares will be limited to an amount equal to the Company’s minimum statutory withholding requirements. Dividends are considered ordinary income and will be included on Grantee’s W-2 in the year of vesting. Additionally, taxes will be calculated and deducted from the total amount of dividend payment income. To the extent required for compliance with Section 162(m) of the Code, if applicable to Grantee, the Committee shall have such authority and make such determination over the Award as necessary to comply with the terms of the Plan and Section 162(m) of the Code. 
+
+Grantee acknowledges that (a) Grantee has been informed of the availability of making an election in accordance with Section 83(b) of the Code (the “Election”); (b) the Election must be filed with the Internal Revenue Service within thirty (30) days of the Date of Grant; and (c) Grantee is solely responsible for making such Election. Grantee acknowledges that if he or she does not make the Election, Dividends, if any, on the Shares will be treated as compensation and subject to tax withholding in accordance with the Company’s practices and policies. Grantee shall send a copy of the Election to the Chief Financial Officer of the Company at the address below.  
+  
+Notices and Electronic Delivery:
+
+The Company may, in its sole discretion, deliver any documents or notices related to this Agreement, the Shares, Grantee’s participation in the Plan, or future awards that may be granted to the Grantee under the Plan, by electronic means. Grantee hereby consents to receive such documents by electronic delivery and to Grantee’s participation in the Plan through the Benefit Access System.  
+  
+Fractional Shares:
+
+The Company shall not be required to issue any fractional shares pursuant to the Award, and the Company may round fractions down.  
+  
+7
+
+* * *
+
+  
+
+
+Entire Agreement; Amendment or Modification; Governing Law:
+
+The Plan is incorporated herein by reference. The Plan and this Agreement constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements, whether oral or written, of the Company and Grantee with respect to the subject matter hereof. In the event of any conflict between the provisions of this Agreement and the Plan, the Plan shall control.  
+  
+This Agreement may only be amended or terminated by a written agreement entered into by both of the parties hereto. Notwithstanding the foregoing, the Committee, or its delegee, as the case may be, may, in its sole discretion and without Grantee’s consent, modify or amend any or all of the terms of this Agreement to the extent necessary to conform this Award with, or be exempt from, Section 409A, Section 162(m) or any present or future law relating to plans of this or similar nature, the regulations issued thereunder or an exception thereto regardless of whether such modification or amendment shall adversely affect the rights of Grantee.  
+  
+This Agreement is governed by applicable federal laws and the laws of the State of Delaware without regard to its conflict of laws.  
+  
+No Guarantee of Continued Service:
+
+GRANTEE ACKNOWLEDGES AND AGREES THAT THE VESTING OF SHARES PURSUANT TO THE AWARD HEREOF IS EARNED THROUGH SATISFACTION OF THE PERFORMANCE CRITERIA, AND BY CONTINUING AS A QUALIFYING EMPLOYEE (NOT THROUGH THE ACT OF BEING HIRED OR BEING GRANTED OR ACQUIRING THE SHARES HEREUNDER). GRANTEE FURTHER ACKNOWLEDGES AND AGREES THAT THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED HEREUNDER AND THE PERFORMANCE CRITERIA SET FORTH HEREIN DO NOT CONSTITUTE AN EXPRESS OR IMPLIED PROMISE OF CONTINUED ENGAGEMENT FOR THE PERFORMANCE PERIOD, FOR ANY PERIOD, OR AT ALL, AND SHALL NOT INTERFERE IN ANY WAY WITH GRANTEE’S RIGHT OR THE COMPANY’S RIGHT TO TERMINATE GRANTEE’S RELATIONSHIP WITH THE COMPANY AT ANY TIME AND FOR ANY REASON.  
+  
+Incorporation of Plan:
+
+Grantee has reviewed the Plan and this Agreement in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Agreement and fully understands all provisions of this Agreement. Grantee hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Administrator upon any questions arising under the Plan or this Agreement.  
+  
+8
+
+* * *
+
+  
+
+
+Interpretation and Construction:
+
+Whenever possible, each provision in this Agreement will be interpreted in such a manner as to be effective and valid under applicable law, but if any provision of this Agreement will be held to be prohibited by or invalid under applicable law, then (a) such provisions will be deemed amended to accomplish the objectives of the provisions as originally written to the fullest extent permitted by law and (b) all other provisions of this Agreement will remain in full force and effect. This Award is intended to be exempt from coverage under Section 409A of the Code and the regulations promulgated thereunder and shall be interpreted and construed accordingly. Notwithstanding the foregoing, Grantee recognizes and acknowledges that Section 409A of the Code may impose upon the Grantee certain taxes or interest charges for which the Grantee is and shall remain solely responsible.  
+  
+No rule of strict construction will be implied against the Company or any other person in the interpretation of any of the terms of this Agreement or any rule or procedure established by the Administrator.  
+  
+Power of Attorney:
+
+Grantee hereby grants to the Company a power of attorney and declares that the Company shall be the attorney-in-fact to act for and on behalf of the Grantee, to act in his/her name, place and stead, in connection with any and all transfers of the Shares, whether or not vested, to the Company pursuant to this Agreement, including in the event of Grantee’s termination.  
+  
+Assurances:
+
+Grantee agrees, upon demand of the Company, to do all acts and execute, deliver and perform all additional documents, instruments and agreements that may be required by the Company to implement the provisions and purposes of this Agreement.  
+  
+All other terms and conditions applicable to this Award shall be as set forth in the Plan.
+
+9
+
+* * *
+
+  
+
+
+Attachment A
+
+1\. The Target Level of both Performance Goals is met in any single fiscal year during the Performance Period and neither a Large Acquisition Transaction nor Change in Control has occurred. The example below assumes that the Target Level of both Performance Goals is first met with respect to 2016, although the result would be the same if they were both met with respect to any of fiscal 2013, fiscal 2014, fiscal 2015, fiscal 2016 or fiscal 2017.  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Percent of Shares  
+Eligible for Vesting  
+  
+Operating Margin
+
+2016
+
+Yes
+
+Yes
+
+100%  
+  
+Total Revenue
+
+Yes
+
+Yes  
+  
+2\. The Target Level of both Performance Goals is not met in any single year during the Performance Period and neither a Large Acquisition Transaction nor Change in Control has occurred. In this case, the Committee will determine whether the Threshold Amount of each Performance Goal was met with respect to the 2017 Fiscal Year, and if so, the percentage of Shares delivered will be as follows. Linear interpolation will be applied between 50% and 100%, with equal weight to each Performance Goal.
+
+Scenario 1  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Percent of Shares  
+Eligible for Vesting  
+  
+Operating Margin
+
+2017
+
+No
+
+No
+
+0%  
+  
+Total Revenue
+
+No
+
+No  
+  
+Scenario 2  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Percent of Shares  
+Eligible for Vesting  
+  
+Operating Margin
+
+2017
+
+Yes
+
+No
+
+0%  
+  
+Total Revenue
+
+No
+
+No  
+  
+Scenario 3  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Percent of Shares  
+Eligible for Vesting  
+  
+Operating Margin
+
+2017
+
+Yes
+
+Yes
+
+0%  
+  
+Total Revenue
+
+No
+
+No  
+  
+Scenario 4  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Minimum Percent  
+of Shares Eligible  
+for Vesting  
+  
+Operating Margin
+
+2017
+
+Yes
+
+No
+
+50%  
+  
+Total Revenue
+
+Yes
+
+No  
+  
+Scenario 5  
+  
+Performance Goal
+
+Fiscal Year
+
+Threshold met?
+
+Target met?
+
+Minimum Percent  
+of Shares Eligible  
+for Vesting  
+  
+Operating Margin
+
+2017
+
+Yes
+
+No
+
+75%  
+  
+Total Revenue
+
+Yes
+
+Yes  
+  
+10
+
+* * *
+
+  
+
+
+Attachment B
+
+Performance Goal: Revenue, in millions
+
+Fiscal Year
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017  
+  
+Target
+
+$6,278.5
+
+$7,099.8
+
+$8,372.3
+
+$10,035.8
+
+$12,000.0  
+  
+Threshold
+
+$6,278.5
+
+$7,029.8
+
+$7,971.9
+
+$9,005.6
+
+$10,000.0  
+  
+Performance Goal: Operating Margin
+
+Fiscal Year
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017  
+  
+Target
+
+9.53%
+
+9.74%
+
+9.94%
+
+10.24%
+
+11.0%  
+  
+Threshold
+
+9.53%
+
+9.72%
+
+9.93%
+
+10.08%
+
+10.5%  
+  
+11
+
+* * *

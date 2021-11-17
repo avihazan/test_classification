@@ -1,0 +1,141 @@
+Exhibit 10.1 
+
+
+
+INFUSYSTEM HOLDINGS, INC. 
+
+EQUITY PLAN 
+
+A stock option (the “Option”) for a total of shares (the “Shares”) of common stock, par value $0.0001 per share (“Common Stock”) of InfuSystem Holdings, Inc. (the “Company”), is hereby granted to (the “Optionee”). The Option in all respects is subject to the terms and conditions of the InfuSystem Holdings, Inc. Equity Plan (the “Plan”), which is incorporated by reference herein, and the receipt of which is hereby acknowledged by Optionee. Any capitalized terms that are not defined in this Agreement shall have the same meaning as in the Plan. 
+
+1\. Option Price. The exercise price is $ for each Share, being 100% or more of the Market Value of the Shares on the Date of Grant specified below. 
+
+2\. Expiration Date. The expiration date for the Option is the  anniversary of the Date of Grant. 
+
+3\. Vesting. This Option shall be become vested and exercisable, subject to the provisions of Section 4 below, ratably over a [ ] year period on a [monthly/quarterly] basis beginning on . [Adjust as necessary to reflect actual vesting schedule]
+
+All further vesting shall cease upon termination of Optionee’s service as an employee or director of the Company and its Subsidiaries. 
+
+4\. Exercise.
+
+(a) Method of Exercise. This Option shall be exercisable by a written notice which shall: 
+
+(i) state the election to exercise the Option, the number of Shares with respect to which it is being exercised, the person in whose name the stock certificate or certificates for such Shares is to be registered, and his address and Social Security Number (or if more than one, the names, addresses and Social Security Numbers of such persons); 
+
+(ii) contain such representations and agreements as to the holder’s investment intent with respect to the Shares to be acquired upon exercise as required by the Committee; 
+
+(iii) be signed by the person or persons entitled to exercise the Option and, if the Option is being exercised by any person or persons other than the Optionee, be accompanied by proof, satisfactory to the Committee, of the right of such person or persons to exercise the Option; and 
+
+(iv) be delivered in person or by certified mail to the Controller of the Company or his or her designee. 
+
+* * *
+
+(b) Payment of Exercise Price. Payment of the exercise price for the Shares with respect to which the Option is exercised shall be made in full in one of the following forms: 
+
+(i) Certified or bank cashier’s or teller’s check; or 
+
+(ii) Delivery to the Company of shares of Common Stock that are free and clear of any liens, encumbrances, claims or security interests, having an aggregate Market Value, as of the date of exercise, equal to the aggregate exercise price for the Shares being acquired upon exercise of the Option; 
+
+(iii) Withholding by the Company the number of whole Shares, rounded down, to be acquired upon exercise of this Option, with an aggregate Market Value, equal to or less than the exercise price, with the Optionee paying any remaining exercise price in such other manner as specified in this Section 4(b); or 
+
+(iv) In the Committee’s sole discretion, by the Optionee authorizing a third party to sell Shares acquired upon exercise of the Option, and to remit to the Company the amount equal to the aggregate exercise price for the Shares being acquired. 
+
+(c) Restrictions on Exercise. This Option may be exercised during Optionee’s lifetime only by the Optionee and shall not be assignable or transferable otherwise than by will or by the laws of descent and distribution. As a condition to the exercise of this Option, the Company may require the person exercising this Option to make any representation and warranty to the Company as the Company determines may be required by any applicable law or regulation. 
+
+(d) Exercise Term. This Option may not be exercised until six (6) months after the Date of Grant, and will expire and may not be exercised after the earliest of the following: 
+
+(i) the expiration date set out in Section 2 above; or 
+
+(ii) three (3) months after the date Optionee ceased to be an employee or director of the Company and its Subsidiaries, unless Optionee’s status ended due to death, in which case this Option will expire and may not be exercised more than one (1) year following the date of death. 
+
+5\. Non-transferability of Option. This Option may not be transferred in any manner otherwise than by will or the laws of descent and distribution and may be exercised during the lifetime of Optionee only by Optionee. The terms of this Option shall be binding upon the executors, administrators, heirs, successors and assigns of Optionee. 
+
+6\. Change in Control. Notwithstanding anything herein to the contrary, in the event of a Change in Control (as defined below), the Committee will take or cause to be taken one or more of the following actions to be effective as of the date of such Change in Control:   
+  
+2
+
+Stock Option Agreement
+
+InfuSystem Holdings, Inc. Equity Plan  
+  
+* * *
+
+(a) provide that the Option shall be assumed, or equivalent options shall be substituted (“Substitute Options”) by the acquiring or succeeding corporation (or an affiliate thereof), provided that: the shares of stock issuable upon the exercise of such Substitute Options shall constitute securities registered in accordance with the Securities Act of 1933, as amended (the “1933 Act”), or such securities shall be exempt from such registration in accordance with Sections 3(a)(2) or 3(a)(5) of the 1933 Act (collectively, “Registered Securities”), or in the alternative, if the securities issuable upon the exercise of such Substitute Options shall not constitute Registered Securities, then the Optionee will receive upon consummation of the Change in Control transaction a cash payment for the Option surrendered equal to the difference between (1) the fair market value of the consideration to be received for each Share in the Change in Control transaction times the number of Shares subject to the surrendered Option, and (2) the aggregate exercise price of the surrendered Option; or 
+
+(b) in the event of a transaction under the terms of which the holders of the Shares of the Company will receive upon consummation thereof a cash payment (the “Merger Price”) for each Share exchanged in the Change in Control transaction, to make or to provide for a cash payment to Optionee equal to the difference between (A) the Merger Price times the number of Shares under the Option (to the extent then exercisable at prices not in excess of the Merger Price) and (B) the aggregate exercise price of all such Shares under the Option in exchange for such Shares under the Option. 
+
+For purposes of this Agreement, the term “Change in Control” shall mean (A) the sale of all or substantially all of the assets of the Company; (B) the merger or recapitalization of the Company whereby the Company is not the surviving entity; or (C) the acquisition, directly or indirectly, of the beneficial ownership (within the meaning of that term as it is used in Section 13(d) of the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder) of fifty (50%) or more of the outstanding voting securities of the Company by any person, trust, entity or group. 
+
+7\. Securities Law Compliance. Notwithstanding anything herein to the contrary, the Option may not be exercised unless the Shares issuable upon such exercise are then registered under the Securities Act of 1933, as amended, or, if such Shares are not so registered, the Committee has determined that such exercise and issuance would be exempt from the registration requirements of such Act. The exercise of the Option also must comply with other applicable laws and regulations governing the Option, and the Option may not be exercised if the Company determines that such exercise would not be in material compliance with such laws and regulations. 
+
+8\. Withholding. The exercise of the Option in whole or in part constitutes authorization for the Company to withhold from payroll and other amounts due Optionee, including, if elected by Optionee, from Shares otherwise issuable upon exercise of the Option, any amounts required to satisfy any federal, state or local tax withholding obligations that may arise in connection with the Option. The Option may not be exercised unless all such tax withholding obligations are satisfied. Optionee may elect to have the Company reduce the number of Shares otherwise issuable upon exercise of the Option by the number of whole Shares, rounded down, with a Market Value equal to or less than the amount of the withholding tax due. The Company will withhold any remaining withholding tax due from other payments owed to the undersigned.   
+  
+3
+
+Stock Option Agreement
+
+InfuSystem Holdings, Inc. Equity Plan  
+  
+* * *
+
+9\. Related Matters. Notwithstanding anything herein to the contrary, additional conditions or restrictions related to the Option may be contained in the Plan.   
+  
+INFUSYSTEM HOLDINGS, INC.  
+Date of Grant: By:  
+  
+, Optionee  
+  
+4
+
+Stock Option Agreement
+
+InfuSystem Holdings, Inc. Equity Plan  
+  
+* * *
+
+STOCK OPTION EXERCISE FORM 
+
+INFUSYSTEM HOLDINGS, INC. 
+
+EQUITY PLAN 
+
+InfuSystem Holdings, Inc. 
+
+31700 Research Park Drive 
+
+Madison Heights, Michigan 48071 
+
+Dear Sir: 
+
+The undersigned elects to exercise the Option to purchase shares (“Shares”) of common stock, par value $0.0001 per share (“Common Stock”) of InfuSystem Holdings, Inc. (the “Company”) pursuant to the Stock Option Agreement dated . Capitalized term used but not defined herein shall have the meaning as in the InfuSystem Holdings Inc. Equity Plan. 
+
+1\. ¨ The Company will withhold from the exercise of the Option, as payment of the exercise price, the number of whole Shares, rounded down, with an aggregate Market Value equal to or less than the exercise price of the Shares being acquired, with the undersigned paying the remainder of the exercise price in cash or by delivery of shares of Common Stock, as described below; or 
+
+2\. ¨ Delivered herewith is a certified or bank cashier’s or teller’s check and/or shares of Common Stock, valued at the Market Value of the Shares on the date of exercise, as set forth below.   
+  
+$  of cash or check  
+  
+Number of shares of Common Stock  
+  
+$
+
+Total  
+  
+All shares of Common Stock delivered in satisfaction of the exercise price are free and clear of any liens, encumbrances, claims or security interests. 
+
+3\. ¨ The undersigned wishes to have the minimum statutory tax withholding paid by withholding the appropriate number of Shares to be delivered from this exercise. The number of Shares withheld will be equal to the number of whole Shares, rounded down, with a Market Value equal to or less than the amount of the withholding tax due. The Company will withhold any remaining withholding tax due from other payments owed to the undersigned. 
+
+4\. The name or names to be on the stock certificate or certificates and the address and Social Security Number of such person(s) is as follows:   
+  
+Name:  
+  
+Address:  
+  
+Social Security Number:  
+  
+Very truly yours,  
+Signature:  
+  
+Print:  
+  
+Date:

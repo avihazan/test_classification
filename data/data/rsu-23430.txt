@@ -1,0 +1,202 @@
+Exhibit 10.3
+
+SPORTS FIELD HOLDINGS, INC. 
+
+
+
+NON-EMPLOYEE
+
+THIS STOCK OPTION AGREEMENT (the “Agreement”) entered into as of the _____ day of ____________ 20__ by and between Sports Field Holdings, Inc. (the “Company”) and _______________________ (the “Optionee”). 
+
+WHEREAS, pursuant to the authority of the Board of Directors (the “Board”), the Company has granted the Optionee the right to purchase common stock, $0.00001 par value per share (“Common Stock”), of the Company pursuant to stock options granted under the Sports Field Holdings, Inc. 2016 Equity and Incentive Plan.
+
+NOW THEREFORE, in consideration of the mutual covenants and promises hereafter set forth and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows:
+
+1\. Grant of Non-Qualified Options. The Company hereby irrevocably grants to the Optionee, as a matter of separate agreement and not in lieu of salary or other compensation for services, the right and option to purchase all or any part of an aggregate of [●] shares of authorized but unissued or treasury common stock of the Company (the “Options”) on the terms and conditions herein set forth. The Common Stock shall be unregistered under the Securities Act of 1933, as amended (the “Securities Act”), unless the Company voluntarily files a registration statement covering such shares of Common Stock with the Securities and Exchange Commission. The Options are not intended to be Incentive Stock Options as defined by Section 422 of the Internal Revenue Code of 1986, as amended (the “Code”). This Agreement replaces any stock option agreement or offer letter previously provided to the Optionee, if any, with respect to the Options.
+
+2\. Price. The exercise price of the shares of Common Stock subject to the Options granted hereunder shall be $[●] per share.
+
+3\. Vesting.
+
+(a) The Options shall vest immediately upon execution of this Agreement. In lieu of fractional vesting, the number of Options shall be rounded up each time until fractional Options are eliminated.
+
+(b) Subject to Sections 3(c) and 4 of this Agreement, Options may be exercised by providing to the Company the Notice of Option Exercise in the form attached hereto as Exhibit A after vesting, and remain exercisable until 5:30 p.m. New York time on the date that is the fifth (5th) year anniversary of the date of this Agreement.
+
+(c) However, notwithstanding any other provision of this Agreement, at the option of the Board in its sole and absolute discretion, all Options shall be immediately forfeited in the event any of the following events occur:
+
+(i) The Optionee purchases or sells securities of the Company without written authorization in accordance with the Company’s insider trading policy then in effect, if any;
+
+1  
+  
+(ii) The Optionee (A) discloses, publishes or authorizes anyone else to use, disclose or publish, without the prior written consent of the Company, any proprietary or confidential information of the Company, including, without limitation, any information relating to existing or potential customers, business methods, financial information, trade or industry practices, sales and marketing strategies, employee information, vendor lists, business strategies, intellectual property, trade secrets or any other proprietary or confidential information or (B) directly or indirectly uses any such proprietary or confidential information for the individual benefit of the Optionee or the benefit of a third party;
+
+(iii) Except as prior approved by the Board in writing or listed on Schedule I to this Agreement, the Optionee directly or indirectly owns, manages, controls or participates in the ownership, management or control of, or is employed or engaged by or otherwise affiliated or associated as an officer, director, partner, consultant, independent contractor, agent, representative or otherwise, with any other person or entity that competes with the business of the Company or any of its Affiliates (as defined hereinafter) in any geographical area in which the Company or any of its Affiliates conducts its business or promotes its products or services; provided, however, that the ownership of not more than one percent (1%) of the stock of a company whose equity interests are publicly traded on a nationally recognized stock exchange or over-the-counter shall not be deemed a violation of this provision;
+
+(iv) The Optionee disrupts or damages, impairs or interferes with the business of the Company or its Affiliates by recruiting, soliciting or otherwise inducing any of their respective employees to enter into employment or other relationship with any other business entity, or terminate or materially diminish their relationship with the Company or its Affiliates, as applicable; or
+
+(v) The Optionee solicits or directs business of any person or entity who is (A) a customer of the Company or its Affiliates at any time or (B) solicited to be a “prospective customer” of the Company or its Affiliates, in any case either for such Optionee or for any other person or entity; provided that the Optionee has actual knowledge of such prospective customer. For purposes of this clause (v), “prospective customer” means a person or entity that contacted, or is contacted by, the Company or its Affiliates regarding the provision of services to or on behalf of such person or entity.
+
+(d) For purposes of this Agreement, “Affiliate” means with respect to a person or entity, any other person or entity controlled by, in control of or under common control with such person or entity, and “controlled,” “controlled by,” and “under common control with” shall mean direct or indirect possession of the power to direct or cause the direction of management or policies (whether through ownership of voting securities, by contract or otherwise) of a person or entity.
+
+4\. Termination of Relationship.
+
+(a) If for any reason, except death or disability as provided below, the Optionee ceases to perform the services for which the Options were granted, all unvested options shall be automatically and irrefutably forfeited effective three months from the date the Board has deemed that the Optionee has ceased to perform such services, except as otherwise provided herein.
+
+(b) If the Optionee shall die while performing services for the Company, such Optionee’s estate or any Transferee (as defined hereinafter) shall have the right within twelve (12) months from the date of death to exercise the Optionee’s vested Options, subject to Section 3(c) hereof. For the purpose of this Agreement, “Transferee” shall mean an individual to whom such Optionee’s vested Options are transferred by will or by the laws of descent and distribution.
+
+(c) If the Optionee shall become disabled while performing services for the Company within the meaning of Section 22(e)(3) of the Code, the three-month period referred to in Section 4(a) of this Agreement shall be extended to one year.
+
+2  
+  
+5\. Profits on the Sale of Certain Shares; Redemption. If any of the events specified in Section 3(c) of this Agreement occur within one (1) year from the last date the Optionee performed services for which the Options were granted (the “Termination Date”), all profits earned from the sale of the Company’s securities, including the sale of shares of Common Stock underlying the Options, during the two (2) year period commencing one (1) year prior to the Termination Date shall be forfeited and forthwith paid by the Optionee to the Company (and a copy of the documentation of the sale, including, without limitation, the purchase price therefor shall be provided to the Company) within ten (10) days after the Optionee receives written demand from the Company for such payment. Further, in such event, the Company may at its option redeem shares of Common Stock acquired upon exercise of the Options by payment of the exercise price to the Optionee. The Company’s rights under this Section 5 do not lapse one year from the Termination Date, but are a contract right subject to any appropriate statutory limitation period.
+
+6\. Transfer. No transfer of the Options by the Optionee by will or by the laws of descent and distribution shall be effective to bind the Company unless the Company shall have been furnished with written notice thereof and a copy of the letters testamentary or such other evidence as the Board may deem necessary to establish the authority of the estate and the acceptance by the Transferee or Transferees of the terms and conditions of the Options.
+
+7\. Method of Exercise. The Options shall be exercisable by a written notice which shall:
+
+(a) state the election to exercise the Options, the number of shares to be exercised, the natural person in whose name the stock certificate or certificates for such shares of Common Stock is to be registered and such person’s address and social security number (or if more than one, the names, addresses and social security numbers of such persons);
+
+(b) contain such representations and agreements as to the holder’s investment intent with respect to such shares of Common Stock as set forth in Section 11 hereof;
+
+(c) be signed by the person or persons entitled to exercise the Options and, if the Options are being exercised by any person or persons other than the Optionee, be accompanied by proof, satisfactory to counsel for the Company, of the right of such person or persons to exercise the Options; and
+
+(d) be accompanied by full payment of the purchase or exercise price in United States dollars in cash or by bank or cashier's check, certified check or money order.
+
+The certificate or certificates for shares of Common Stock as to which the Options shall be exercised shall be registered in the name of the person or persons exercising the Options.
+
+8\. Sale of Shares Acquired Upon Exercise of Options.
+
+Intentionally Omitted.
+
+9\. Adjustments. Upon the occurrence of any of the following events, the Optionee’s rights with respect to Options granted to such Optionee hereunder shall be adjusted as hereinafter provided unless otherwise specifically provided in a written agreement between the Optionee and the Company relating to such Options:
+
+(a) If the shares of Common Stock shall be subdivided or combined into a greater or smaller number of shares, respectively, or if the Company shall issue any shares of its Common Stock as a stock dividend on its outstanding shares of Common Stock, the number of shares of Common Stock deliverable upon the exercise of the Options shall be appropriately increased or decreased proportionately, and appropriate adjustments shall be made in the exercise price per share to reflect such subdivision, combination or stock dividend, as applicable;
+
+3  
+  
+(b) If the Company is to be consolidated with or acquired by another entity pursuant to an acquisition, the board of directors of any entity assuming the obligations of the Company hereunder (the “Successor Board”) shall either (i) make appropriate provision for the continuation of such Options by substituting on an equitable basis for the shares then subject to such Options the consideration payable with respect to the outstanding shares of Common Stock of the Company in connection with such acquisition or (ii) terminate all Options in exchange for a cash payment equal to the excess of the fair market value of the shares of Common Stock subject to such Options over the exercise price thereof;
+
+(c) In the event of a recapitalization or reorganization of the Company (other than a transaction described in Section 9(b) above) pursuant to which securities of the Company or of another corporation are issued with respect to the outstanding shares of Common Stock, the Optionee upon exercising the Options shall be entitled to receive for the purchase price paid upon such exercise, the securities such Optionee would have received if such Optionee had exercised such Optionee’s Options prior to such recapitalization or reorganization;
+
+(d) Except as expressly provided herein, no issuance by the Company of shares of Common Stock of any class or securities convertible into shares of Common Stock of any class shall affect, and no adjustment by reason thereof shall be made with respect to, the number or exercise price of shares subject to Options. No adjustments shall be made for dividends or other distributions paid in cash or in property other than securities of the Company;
+
+(e) No fractional shares shall be issued and the Optionee shall receive from the Company cash based on the fair market value of the shares of Common Stock in lieu of such fractional shares; or
+
+(f) The Board or the Successor Board shall determine the specific adjustments to be made under this Section 9, and its determination shall be conclusive. If the Optionee receives securities or cash in connection with a corporate transaction described in Section 9(a), (b) or (c) above as a result of owning such restricted Common Stock, such securities or cash shall be subject to all of the conditions and restrictions applicable to the restricted Common Stock with respect to which such securities or cash were issued, unless otherwise determined by the Board or the Successor Board.
+
+10\. Necessity to Become Holder of Record. Neither the Optionee, the Optionee’s estate, nor the Transferee have any rights as a shareholder with respect to any shares of Common Stock covered by the Options until such Optionee, estate or Transferee, as applicable, shall have become the holder of record of such shares of Common Stock. No adjustment shall be made for cash dividends or cash distributions, ordinary or extraordinary, in respect of such shares of Common Stock for which the record date is prior to the date on which such Optionee, estate or Transferee, as applicable, shall become the holder of record thereof.
+
+11\. Conditions to Exercise of Options.
+
+(a) In order to enable the Company to comply with the Securities Act and relevant state law, the Company may require the Optionee, the Optionee’s estate or any Transferee, as a condition of the exercising of the Options granted hereunder, to give written assurance satisfactory to the Company that the shares of Common Stock subject to the Options are being acquired for such Optionee’s, estate’s or Transferee’s, as applicable, own account, for investment only, with no view to the distribution of same, and that any subsequent resale of any such shares of Common Stock either shall be made pursuant to a registration statement under the Securities Act and applicable state law which has become effective and is current with regard to the shares of Common Stock being sold, or shall be pursuant to an exemption from registration under the Securities Act and applicable state law.
+
+4  
+  
+(b) The Options are subject to the requirement that, if at any time the Board shall determine, in its sole and absolute discretion, that the listing, registration or qualification of the shares of Common Stock subject to the Options upon any securities exchange, quotation system or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary as a condition of, or in connection with the issue or purchase of such shares of Common Stock under the Options, the Options may not be exercised in whole or in part unless such listing, registration, qualification, consent or approval shall have been effected.
+
+12\. Duties of Company. The Company will at all times during the term of the Options:
+
+(a) Reserve and keep available for issue such number of shares of its authorized and unissued shares of Common Stock as will be sufficient to satisfy the requirements of this Agreement;
+
+(b) Pay all original issue taxes with respect to the issue of shares of Common Stock pursuant hereto and all other fees and expenses necessarily incurred by the Company in connection therewith; and
+
+(c) Use its best efforts to comply with all laws and regulations which, in the opinion of counsel for the Company, shall be applicable thereto.
+
+13\. Severability. In the event any parts of this Agreement are found to be void, the remaining provisions of this Agreement shall nevertheless be binding with the same effect as though the void parts were deleted.
+
+14\. Arbitration. Any controversy, dispute or claim arising out of or relating to this Agreement, or its interpretation, application, implementation, breach or enforcement which the parties hereto are unable to resolve by mutual agreement, shall be settled by submission by either party of the controversy, claim or dispute to binding arbitration in New York County, New York (unless the parties agree in writing to a different location), before a single arbitrator in accordance with the rules of the American Arbitration Association then in effect. The decision and award made by the arbitrator shall be final, binding and conclusive on all parties hereto for all purposes, and judgment may be entered thereon in any court having jurisdiction thereof.
+
+15\. Benefit. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their legal representatives, successors and assigns.
+
+16\. Notices and Addresses. All notices, offers, acceptance and any other acts under this Agreement (except payment) shall be in writing, and shall be sufficiently given if delivered to the addressees in person, by FedEx or similar receipted delivery, or by facsimile delivery as follows:
+
+The Optionee: ___________________  
+___________________  
+___________________  
+Facsimile: ___________________  
+  
+5  
+  
+The Company: Sports Field Holdings, Inc.  
+4320 Winfield Road, Suite 200  
+Warrenville, IL 60555  
+Telephone: (508) 366-1000  
+  
+with a copy (which shall not Lucosky Brookman LLP  
+constitute notice) to: 101 Wood Avenue South, 5th Floor  
+Woodbridge, NJ 08830  
+Attn: Joseph M. Lucosky, Esq.  
+Facsimile: (732) 395-4401  
+  
+or to such other address as either of them, by notice to the other, may designate from time to time. The transmission confirmation receipt from the sender’s facsimile machine shall be evidence of successful facsimile delivery. Time shall be counted to, or from, as the case may be, the delivery in person or by mailing.
+
+17\. Attorney’s Fees. In the event that there is any controversy or claim arising out of or relating to this Agreement, or to the interpretation, breach or enforcement thereof, and any action or proceeding is commenced to enforce the provisions of this Agreement, the prevailing party shall be entitled from the non-prevailing party to its reasonable attorneys’ fee, costs and expenses.
+
+18\. Governing Law. This Agreement and any dispute, disagreement, or issue of construction or interpretation arising hereunder whether relating to its execution, its validity, the obligations provided herein or performance, shall be governed or interpreted according to the laws of the State of Nevada without regard to choice of law considerations.
+
+19\. Oral Evidence. This Agreement constitutes the entire agreement between the parties hereto and supersedes all prior oral and written agreements between the parties hereto with respect to the subject matter hereof. Neither this Agreement nor any provision hereof may be changed, waived, discharged or terminated except by a statement in writing signed by the party or parties against which enforcement or the change, waiver discharge or termination is sought.
+
+20\. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. The execution of this Agreement may be made by facsimile signature, which shall be deemed to be an original.
+
+21\. Section Headings. Section headings herein have been inserted for reference only and shall not be deemed to limit or otherwise affect, in any matter, or be deemed to interpret in whole or in part, any of the terms or provisions of this Agreement.
+
+6  
+  
+IN WITNESS WHEREOF the parties hereto have set their hand the day and year first above written.
+
+SPORTS FIELD HOLDINGS, INC.  
+By:  
+Name: Jeromy Olson  
+Title: Chief Executive Officer  
+  
+OPTIONEE:  
+By:  
+Name:  
+Title:  
+Address:  
+  
+[Signature page to Option Agreement]  
+  
+SCHEDULE I
+
+COMPETING ACTIVITIES
+
+[Schedule I to Option Agreement]  
+  
+EXHIBIT A
+
+FORM OF NOTICE OF OPTION EXERCISE
+
+To: Sports Field Holdings, Inc. (the “Company”)
+
+(1) The undersigned hereby elects to purchase __________ shares of Common Stock of the Company (the “Shares”) pursuant to the terms of the Option Agreement by and between the Company and the undersigned dated as of ________ ___, 20__, and tenders herewith payment of the exercise price in full as set forth below.
+
+(2) Payment shall take the form of (check applicable box):
+
+☐ in lawful money of the United States in the form of a check made payable by the undersigned to the Company;
+
+☐ in lawful money of the United States in the form of a wire transfer to the account specified by the Company; or
+
+☐ in the form of shares of Common Stock pursuant to Section 5(d) of the Plan.
+
+(3) Please issue a certificate or certificates representing the Shares in the name of the undersigned or in such other name as is specified below:
+
+____________________________________
+
+The Shares shall be delivered via overnight courier (with tracking information to be provided to the undersigned) to the following address:
+
+_____________________________
+
+_____________________________
+
+_____________________________
+
+Attn: ________________________
+
+Tel: _________________________
+
+OPTIONEE
+
+__________________________________
+
+[Exhibit A to Option Agreement]

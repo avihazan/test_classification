@@ -1,0 +1,350 @@
+Exhibit 10.10 
+
+
+
+STOCK PURCHASE AGREEMENT (this “Agreement”) made as of this [___]st day of September, 2009 between Hicks Acquisition Company I, Inc., a Delaware corporation (“Buyer” or “HACI”), the signatory on the execution page hereof (“Seller”). 
+
+WHEREAS, Buyer was organized for the purpose of acquiring, through a merger, capital stock exchange, asset acquisition or other similar business combination, an operating business (“Business Combination”); and 
+
+WHEREAS, Buyer consummated an initial public offering in October, 2007 (“IPO”) in connection with which it raised net proceeds of approximately $529.1 million, a significant portion of which was placed in a trust account (the “Trust Account”) maintained by Continental Stock Transfer and Trust Company (“Trustee”) pending the consummation of a Business Combination, or the dissolution and liquidation of Buyer in the event it is unable to consummate a Business Combination on or prior to September 28, 2009 (or October 5, 2009 in the event that the Acquisition is approved by Buyer stockholders); and 
+
+WHEREAS, Buyer has entered into that certain Purchase and IPO Reorganization Agreement dated as of August 2, 2009, by and among HACI, Resolute Energy Corporation, a Delaware corporation (the “REC”), Resolute Subsidiary Corporation, a Delaware corporation, Resolute Aneth, LLC, a Delaware limited liability company, Resolute Holdings, LLC, a Delaware limited liability company, Resolute Holdings Sub, LLC, a Delaware limited liability company (“Holdings Sub”), and HH-HACI, L.P., a Delaware limited partnership (the “Acquisition Agreement”), pursuant to which, through a series of transactions, HACI stockholders will acquire a majority of the outstanding common stock of REC, par value $0.0001 per share (the “REC Common Stock”), and REC will acquire HACI and the business and operations of Holdings Sub (collectively, the “Acquisition”); and 
+
+WHEREAS, the approval of the Acquisition is contingent upon, among other things, the affirmative vote of holders of a majority of the outstanding common shares of HACI at the special meeting called to approve the Acquisition; and 
+
+WHEREAS, pursuant to certain provisions in Buyer’s certificate of incorporation, a holder of shares of Buyer’s common stock issued in the IPO may, if it votes against the Acquisition, demand that Buyer convert such common shares into cash (“Conversion Rights”); and 
+
+WHEREAS, the Acquisition cannot be consummated if holders of 30% or more of HACI common stock issued in the IPO exercise their Conversion Rights; and 
+
+WHEREAS, Seller has agreed to sell to Buyer and Buyer has agreed to purchase from Seller the common shares set forth on the execution page of this Agreement (“Shares”) for the purchase price per share set forth therein (“Purchase Price Per Share”) and for the aggregate purchase price set forth therein (“Aggregate Purchase Price”). 
+
+NOW, THEREFORE, for and in consideration of the mutual covenants hereinafter set forth and other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereby agree as follows: 
+
+1
+
+* * *
+
+##### 
+
+1\. Purchase. Subject to Section 8, Seller hereby agrees to sell to Buyer and Buyer hereby agrees to purchase from Seller at the Closing (as defined in Section 4(c)) the Shares at the Purchase Price Per Share, for the Aggregate Purchase Price. 
+
+2\. Agreement not to Convert; Appointment of Proxy and Attorney-in-Fact. In further consideration of the Aggregate Purchase Price, provided that the representations and warranties made by Buyer in Section 6 hereof are true and correct in all material respects on the date of the stockholder meeting in connection with the approval of the Acquisition with the same effect as though made on such date and Buyer has complied in all material respects with its obligations set forth in this Agreement through such date, Seller hereby agrees it has not and will not exercise its Conversion Rights or, if it has already exercised its Conversion Rights, it hereby withdraws and revokes such exercise and will execute all necessary documents and take all actions required in furtherance of such revocation. Seller acknowledges that the record date to vote on the proposals set forth in the proxy statement/prospectus (the “Proxy Statement”) filed by Buyer with the U.S. Securities and Exchange Commission (the “SEC”) has passed. Accordingly, solely with respect to the vote for the Acquisition and the other proposals set forth in the Proxy Statement, Seller hereby agrees to upon request of Buyer vote in favor of the Acquisition and such other proposals and appoints Joseph B. Armes and Robert M. Swartz and each of them each with full power of substitution, as his proxy and attorney-in-fact, to the full extent of Seller’s rights with respect to the Shares (and any and all other shares or securities or rights issued or issuable in respect thereof) to vote in such manner as each such person or his substitute shall in his sole discretion deem proper, and to otherwise act (including without limitation acting by written consent) with respect to all the Shares at any meeting of stockholders (whether annual or special and whether or not an adjourned meeting) of Buyer held on or prior to September 28, 2009. This proxy is coupled with an interest in the Shares and is irrevocable. Execution by Seller of this Agreement shall revoke, without further action, all prior proxies granted by Seller at any time with respect to the Shares (and such other shares or other securities), and no subsequent proxies will be given by Seller (and if given will be deemed not to be effective), provided that the representations and warranties made by Buyer in Section 6 hereof are true and correct in all material respects on the date of the stockholder meeting in connection with the approval of the Acquisition with the same effect as though made on such date and Buyer has complied in all material respects with its obligations set forth in this Agreement through such date. This section 2 shall be governed by the laws of the State of Delaware. 
+
+3\. No Right to Additional Shares. HACI’s stockholders of record are entitled to receive one share of REC Common Stock for each share of HACI common stock owned immediately prior to the consummation of the Acquisition (the “Exchange”). Although Seller will be a stockholder of record immediately prior to the Acquisition, Seller hereby acknowledges that Seller irrevocably waives any right, title or interest it may have in receiving any such REC Common Stock distributed pursuant to the Exchange. Seller hereby acknowledges that by virtue of the sale hereunder, Seller will not become a stockholder of REC, and the Shares shall automatically be cancelled and shall cease to exist and shall represent only the right to receive the Aggregate Purchase Price therefor in accordance with the terms of this Agreement. Additionally, each of Buyer and Seller hereby agree and acknowledge that this provision is material to this Agreement and a significant consideration in Buyer’s willingness to enter into this Agreement. Notwithstanding the foregoing, such waiver shall not be effective in the event that Seller does not receive the Aggregate Purchase Price pursuant to the terms of this Agreement. 
+
+4\. Closing Matters. 
+
+(a) Within one business day of the date of this Agreement, (i) Seller shall provide Buyer with a true and correct copy of the voting instruction form with respect to the Shares held by Seller indicating the financial institution through which such shares are held and the control number provided by Broadridge Financial Solutions (or other similar service provider) regarding the voting of the 
+
+2
+
+* * *
+
+##### 
+
+Shares or written confirmation of such information as would appear on the voting instruction form; and (ii) Buyer shall send the notice attached as Annex I hereto to Trustee. 
+
+(b) Prior to the Closing, Seller shall deliver or cause to be delivered to Buyer appropriate instructions for book entry transfers of ownership of the Shares from Seller to Buyer. 
+
+(c) The closing of the purchase and sale of the Shares (“Closing”) will occur on the date on which Buyer’s Trust Account is liquidated in connection with the consummation of the Acquisition, which shall occur no later than 11:59 p.m. eastern daylight time on September 28, 2009 (or 11:59 p.m. eastern daylight time on September 30, 2009 in the event that the Acquisition is approved by Buyer stockholders) (the “Closing Date”). At the Closing, Buyer shall pay Seller the Aggregate Purchase Price by wire transfer from HACI’s Trust Account of immediately available funds in accordance with the Irrevocable Instructions attached as Annex I hereto to an account specified by Seller and Seller against delivery of the Shares shall deliver the Shares to Buyer electronically using the Depository Trust Company’s DWAC (Deposit/Withdrawal at Custodian) System to an account specified by Buyer. It shall be a condition to the obligation of Buyer on the one hand and Seller on the other hand, to consummate the transfer of the Shares contemplated hereunder that the other party’s representations and warranties are true and correct on the Closing Date with the same effect as though made on such date, unless waived in writing by the party to whom such representations and warranties are made. 
+
+(d) In the event that the Acquisition is not consummated by 11:59 p.m. eastern daylight time on September 28, 2009 (or 11:59 p.m. eastern daylight time on September 30, 2009 in the event that the Acquisition is approved by Buyer stockholders) and Buyer has not dissolved and liquidated its assets by September 30, 2009, then Buyer shall pay to Seller in immediately available funds, until Buyer liquidates and distributes its assets to its stockholders, an amount equal to the lesser of (i) 4.0% of the Purchase Price Per Share per month (pro-rated on a daily basis based on the date when payment is required and the date such payment is made) or (ii) the highest lawful rate, for each Share held by Seller from the date such payment was required to be made through the date such payment is actually made. Buyer agrees to promptly dissolve and liquidate and distribute its assets in accordance with Delaware law if the Acquisition is not consummated by 11:59 p.m. eastern daylight time on September 28, 2009 (or 11:59 p.m. eastern daylight time on September 30, 2009 in the event that the Acquisition is approved by Buyer stockholders). 
+
+(e) In the event that the Acquisition is consummated and Seller has not received the Aggregate Purchase Price by September 30, 2009, then Buyer shall pay to Seller in immediately available funds an amount equal to the lesser of (i) 4.0% of the Purchase Price Per Share per month (pro-rated on a daily basis based on the date when payment is required and the date such payment is made) or (ii) the highest lawful rate, for each Share held by Seller from the date such payment was required to be made through the date such payment is actually made. 
+
+5\. Representations and Warranties of the Seller. Seller makes the following representations and warranties to and for the benefit of Buyer on the date hereof and on the Closing. 
+
+(a) Sophisticated Seller. Seller is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the sale of Shares to Buyer. 
+
+(b) Independent Investigation. Seller, in making the decision to sell the Shares to Buyer, has not relied upon any oral or written representations or assurances from Buyer or any of its officers, directors or employees or any other representatives or agents of Buyer, except as are contained in this Agreement. Seller has had access to all of the filings made by HACI with the SEC, pursuant to the Securities Exchange Act of 1934 (the “Exchange Act”) and the Securities Act of 1933, as 
+
+3
+
+* * *
+
+##### 
+
+amended (the “Securities Act”) in each case to the extent available publicly via the SEC’s Electronic Data Gathering, Analysis and Retrieval system. 
+
+(c) Authority. This Agreement has been validly authorized, executed and delivered by Seller and, assuming the due authorization, execution and delivery thereof by Buyer, is a valid and binding agreement enforceable in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Seller does not and will not conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Seller is a party which would prevent Seller from performing its obligations hereunder or (ii) any law, statute, rule or regulation to which Seller is subject. 
+
+(d) No Legal Advice from Buyer. Seller acknowledges that it has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Seller’s own legal counsel and investment and tax advisors. Seller is not relying on any statements or representations of Buyer or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by the Agreement. Seller represents, warrants and covenants that any actions that it takes with respect to common stock of Buyer will be in compliance with applicable securities laws. 
+
+(e) Ownership of Shares. Seller is the legal and beneficial owner of the Shares and will transfer to Buyer on the Closing Date good title to the Shares free and clear of any liens, claims, security interests, options, charges or any other encumbrance whatsoever, except as otherwise agreed to in writing to Buyer. Seller has the sole right to exercise Conversion Rights with respect to the Shares. 
+
+(f) Number of Shares. The Shares being transferred pursuant to this Agreement represent all the common stock owned by Seller as of the date hereof. 
+
+(g) Aggregate Purchase Price Negotiated. Seller represents that both the amount of Shares and the Aggregate Purchase Price were negotiated figures by the parties and that the terms and conditions by the parties of this Agreement may differ from arrangements entered into with other holders of Buyer’s common stock. 
+
+(h) Seller Taxes. Seller understands that Seller (and not the Buyer) shall be responsible for any and all tax liabilities of Seller that may arise as a result of the transactions contemplated by this Agreement. 
+
+6\. Representations, Warranties and Covenants of Buyer. Buyer makes the following representations, warranties and covenants to and for the benefit of Seller on the date hereof and on the Closing. 
+
+(a) Sophisticated Buyer. Buyer is sophisticated in financial matters and is able to evaluate the risks and benefits attendant to the purchase of Shares from Seller. 
+
+(b) Independent Investigation. Buyer, in making the decision to purchase the Shares from Seller, has not relied upon any oral or written representations or assurances from Seller or any of its officers, directors, partners or employees or any other representatives or agents of Seller, except as are contained in this Agreement. 
+
+4
+
+* * *
+
+##### 
+
+(c) Authority. This Agreement has been validly authorized, executed and delivered by Buyer and assuming the due authorization, execution and delivery thereof by Seller, is a valid and binding agreement of Buyer enforceable against Buyer in accordance with its terms, subject to the general principles of equity and to bankruptcy or other laws affecting the enforcement of creditors’ rights generally. The execution, delivery and performance of this Agreement by Buyer does not and will not conflict with, violate or cause a breach of, constitute a default under, or result in a violation of (i) any agreement, contract or instrument to which Buyer is a party which would prevent Buyer from performing its obligations hereunder or (ii) any law, statute, rule or regulation to which Buyer is subject. 
+
+(d) No Legal Advice from Seller. Buyer acknowledges that it has had the opportunity to review this Agreement and the transactions contemplated by this Agreement with Buyer’s own legal counsel and investment and tax advisors. Buyer is relying solely on such counsel and advisors and not on any statements or representations of Seller or any of its representatives or agents for legal, tax or investment advice with respect to this Agreement or the transactions contemplated by this Agreement. 
+
+(e) Organization. Buyer has been duly organized and is validly existing under the laws of its jurisdiction of organization, with all requisite power and authority to enter into this Agreement, to carry out the provisions and conditions hereof, and to consummate the transactions contemplated hereby. 
+
+(f) Liabilities. Buyer (i) has no liabilities, obligations, guarantees or commitments of any nature whatsoever, asserted or unasserted, known or unknown, absolute or contingent, accrued or unaccrued, matured or unmatured or otherwise (“Liabilities”) other than those reflected on the Schedule of Liabilities attached hereto, and (ii) has no outstanding Liabilities that are not subject to an effective waiver of claims against the Trust Account, except those Liabilities set forth on such Schedule of Liabilities and indicated as “unwaived,” which Schedule of Liabilities includes all Liabilities that resulted from, and potential Liabilities that could result from, target businesses, vendors and service providers that have not waived any claims against the Trust Account.. 
+
+(g) Title and Liens. (i) Buyer has good title to the Trust Account and all assets in, or credited to, in the Trust Account, and (ii) the Trust Account, together with all assets in, or credited to, the Trust Account, are free and clear of any security interest, mortgage, pledge, lien, charge, encumbrance, title retention agreement or analogous instrument or device (a “Lien”) other than the Lien in favor of Trustee for the customary fees and expenses of Trustee incurred in connection with the administration of the Trust Account, and (iii) Buyer has not and will not create, incur, or suffer to exist any Lien on the Trust Account or any asset in or credited to the Trust Account, whether arising by contract or agreement or under law. 
+
+(h) Waivers of Claims Against Trust Account. Except as otherwise disclosed on the Schedule of Liabilities described in Section 6(f) above, Buyer has not obtained and agrees that it will not obtain, the services of any vendor or service provider unless and until such vendor or service provider acknowledges in writing that it does not have any right, title, interest or claim of any kind in or to any monies, securities, or other assets of the Trust Account and waives any claim it may have in the future as a result of, or arising out of, any negotiations, contracts or agreements with Buyer and will not seek recourse against the Trust Account for any reason whatsoever; provided that the foregoing shall not apply to Buyer’s independent accountants. In addition, the waiver of claims against the Trust Account agreed to by Buyer and REC in the Acquisition Agreement shall remain in full force and effect. 
+
+(i) Future Indebtedness. Buyer agrees that it shall not incur any Indebtedness (as defined below) in excess of $50,000 in the aggregate, other than Indebtedness listed on 
+
+5
+
+* * *
+
+##### 
+
+Schedule I attached hereto, without the prior written consent of Seller prior to the Closing. “Indebtedness” means (i) indebtedness for borrowed money or the deferred price of property, goods or services (other than trade and other payables incurred in the ordinary course of business), such as reimbursement and other obligations for surety bonds and letters of credit, (ii) obligations evidenced by notes, bonds, debentures or similar instruments, (iii) capital lease obligations, (iv) the net obligations of SPAC under derivative transactions (including, but not limited to, under swap agreements) or commodity transactions, and (v) any other operating expenses or other obligations incurred by Buyer; and (vi) obligations of Buyer under a guarantee of debt of others of the kinds referred to in clauses (i) through (v) above. Notwithstanding anything to the contrary in this Agreement, “Indebtedness” shall not mean or include (i) any contracts or arrangements of SPAC to purchase additional shares of its common stock using proceeds held in the Trust Account, (ii) any taxes owed to any federal, state or local taxing authority and (iii) the payment of any Conversion Rights. 
+
+(j) Trust Account. Buyer confirms that at least $539,213,757.49 (less any taxes owed) is held in the Trust Account. Buyer covenants that the value of the Trust Account, as of any date of determination, shall not be less than $9.76 (less any taxes owed) per Share and shall grant Seller view-only Internet access to the Trust Account to confirm such value. The Indebtedness set forth on Schedule I shall be subordinated in payment and performance to the obligation to pay Seller pursuant to this Agreement in a manner reasonably acceptable to Seller. 
+
+(k) Irrevocable Instructions to Trustee. Upon execution of this Agreement, Buyer is delivering the Irrevocable Instructions attached as Annex I to Trustee to Continental requiring that no funds be released from the Trust Account unless the amounts released from the Trust Account are used to pay in full the amount due to the Seller under this Agreement prior to release of any fund from the Trust Account to Buyer or any other party and Continental has acknowledged and agreed to such Irrevocable Instructions. Seller hereby agrees and consents to the terms of such irrevocable instruction letter. Buyer shall deliver a copy of such Irrevocable Instructions to Seller upon execution of this Agreement. Buyer agrees that it will not enter into an agreement for a replacement of Trustee as trustee in connection with the Trust Account unless and until Buyer, such substitute trustee, and any other required signatory shall first deliver to the Seller fully executed Irrevocable Instructions substantially in the form attached as Annex I hereto together with all other instructions executed by Trustee and Buyer in connection with transfer of any funds in the Trust Account. Upon the replacement of Trustee, all references herein to Trustee will be to the substitute trustee. The Company shall not provide any instructions with respect to the distribution of the Trust Account that are different from the Irrevocable Instructions without the consent of Seller and all signatories to the Irrevocable Instructions; provided, however, upon written confirmation of Trustee’s compliance with the irrevocable instruction letter and payment of the Aggregate Purchase Price to Seller, Buyer may liquidate the Trust Account without further regard to this letter or such irrevocable instructions. 
+
+(l) Investments. From the date of this Agreement until all amounts due to the Seller are paid, Buyer agrees to invest the monies in the Trust Account invested in money market funds meeting certain conditions under Rule 2a-7 under the Investment Company Act or in cash. 
+
+(m) Filings. None of the filings and reports made by Buyer with SEC and available on the SEC’s EDGAR system, as of their respective filing dates, will contain any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading. 
+
+6
+
+* * *
+
+##### 
+
+7\. Indemnification. 
+
+(a) In the event that the Aggregate Purchase Price is not fully paid to Seller at (a) the Closing or (b) if the Acquisition is not consummated, upon the liquidation of Buyer while Seller owns any Shares, Buyer hereby agrees to indemnify and hold harmless Seller against any loss incurred in an amount equal to the difference between (i) the sum of the Aggregate Purchase Price and the Reimbursable Expenses (as defined in Section 10 hereof), minus (ii) the amount received by Seller from Buyer, plus any default payments incurred pursuant to Section 4(d) and 4(e) hereof. Buyer agrees to pay any and all costs, fees and expenses (including counsel fees and expenses) incurred by Seller in enforcing its rights under this Section 7(a). 
+
+(b) Buyer hereby agrees to indemnify and hold harmless Seller and each of its partners, principals, members, officers, directors, employees, agents, representatives and affiliated or managed funds from and against any and all losses, claims, damages, liabilities and expenses, joint or several, of any kind or nature whatsoever, and any and all actions, inquiries, proceedings and investigations in respect thereof (including any proceeding by any government subdivision and any claim by any former or current securityholder of Buyer), whether pending or threatened, to which any such party may become subject, arising in any manner out of or in connection with this Agreement or the transactions contemplated herein to the fullest extent permitted under applicable law regardless of whether any of such parties is a party hereto and immediately upon request reimburse such party for such party’s legal and other expenses as they are incurred in connection with investigating, preparing, defending, paying, settling or compromising any such action, inquiry, proceeding or investigation (including, without limitation, usual and customary per diem compensation for any such party’s involvement in discovery proceeding or testimony); provided that Buyer shall not be liable for any such loss, liability, claim, damage or expense resulting from actions taken by Seller in bad faith or as a result of its gross negligence or willful misconduct. 
+
+8\. Termination of Purchase Obligation. The obligation of Seller and Buyer to sell and purchase, respectively, the Shares under this Agreement shall become null and void and of no force and effect upon the earlier of (i) the termination of the Acquisition Agreement or abandonment of the Acquisition or (ii) 11:59 p.m. eastern daylight time on October 5, 2009 if the Acquisition has not been consummated by such date. Notwithstanding any provision in this Agreement to the contrary, Buyer’s obligation to purchase the Shares from Seller and Seller’s obligation to sell the Shares to Buyer shall be conditioned on the consummation of the Acquisition. 
+
+9\. Covenant of Seller. After the execution of this Agreement and prior to Closing, Seller shall not acquire any common stock, warrants or other securities of HACI or effect any derivative transactions with respect thereto. 
+
+10\. Expenses. All costs and expenses incurred in connection with the transactions contemplated by this Agreement, including, without limitation, legal fees and expenses and all other out-of-pocket costs and expenses of third parties incurred by a party in connection with the negotiation and effectuation of the terms and conditions of this Agreement and the transactions contemplated thereby, shall be the obligation of the respective party incurring such fees and expenses; provided that Buyer shall pay up to $25,000 of the documented costs and expenses incurred by Seller in connection with the transactions contemplated by this Agreement (the “Reimbursable Expenses”). 
+
+11\. Counterparts; Facsimile. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same instrument. This Agreement or any counterpart may be executed via facsimile or electronic transmission, and any such executed facsimile or electronic copy shall be treated as an original. 
+
+7
+
+* * *
+
+##### 
+
+12\. Governing Law. This Agreement shall for all purposes be deemed to be made under and shall be construed in accordance with the laws of the State of New York (except to the extent otherwise provided in Section 2). Each of the parties hereby agrees that any action, proceeding or claim against it arising out of or relating in any way to this Agreement shall be brought and enforced in the courts of the State of New York or the United States District Court for the Southern District of New York, and irrevocably submits to such jurisdiction, which jurisdiction shall be exclusive. Each of the parties hereby waives any objection to such exclusive jurisdiction and that such courts represent an inconvenient forum and irrevocably waives trial by jury. 
+
+13\. Remedies. Each of the parties hereto acknowledges and agrees that, in the event of any breach of any covenant or agreement contained in this Agreement by the other party, money damages may be inadequate with respect to any such breach and the non-breaching party may have no adequate remedy at law. It is accordingly agreed that each of the parties hereto shall be entitled, in addition to any other remedy to which they may be entitled at law or in equity, to seek injunctive relief and/or to compel specific performance to prevent breaches by the other party hereto of any covenant or agreement of such other party contained in this Agreement. 
+
+14\. Binding Effect; Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective legal representatives, successors and permitted assigns. This Agreement shall not be assigned by either party without the prior written consent of the other party hereto, except that Seller may assign any of its rights and interests to any person or entity, provided that the performance required of Seller hereunder will not be impaired. 
+
+15\. Headings. The descriptive headings of the Sections hereof are inserted for convenience only and do not constitute a part of this Agreement. 
+
+16\. Entire Agreement; Changes in Writing. This Agreement constitutes the entire agreement among the parties hereto and supersedes and cancels any prior agreements, representations, warranties, whether oral or written, among the parties hereto relating to the transaction contemplated hereby. Neither this Agreement not any provision hereof may be changed or amended orally, but only by an agreement in writing signed by the other party hereto. 
+
+17\. Maximum Payments. Nothing contained herein shall be deemed to establish or require the payment of a rate of interest or other charges in excess of the maximum rate permitted by applicable law. In the event that the rate of interest required to be paid or other charges hereunder exceed the maximum rate permitted by applicable law, any payments in excess of such maximum rate shall be credited against amounts owed by Buyer to Seller and thus refunded to Buyer, as applicable. 
+
+18\. Seller W-9. Seller agrees to promptly provide to Buyer an Internal Revenue Service Request for Taxpayer Identification Number and Certification Form W-9. 
+
+19\. Acknowledgement. Seller acknowledges that Buyer may publicly disclose the information contained in this agreement and may make any related filings with the Securities and Exchange Commission, including filings on a Current Report on Form 8-K, as Buyer may deem appropriate. 
+
+20\. Notice. Seller will immediately notify Buyer and REC of any purchase of shares of stock of Buyer that are entered into by Seller or any of its affiliates, including the price per share, number of shares, any proxies granted in connection therewith and any other relevant information. Seller will 
+
+8
+
+* * *
+
+##### 
+
+immediately send copies of any notice to each of the following persons at the email address beside each person’s respective name:   
+  
+Joseph B. Armes 
+
+jarmes@hicksholdings.com  
+  
+James M. Piccone 
+
+jpiccone@rnrc.net  
+  
+Ronald R. Levine, II 
+
+Ron.Levine@dgslaw.com  
+  
+Ryan C. Arney 
+
+Ryan.Arney@dgslaw.com  
+  
+James A. Deeken 
+
+jdeeken@akingump.com  
+  
+Nancy A. Sarmiento 
+
+nsarmiento@akingump.com  
+  
+[Signature Page Follows]
+
+9
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of the date set forth on the first page of this Agreement.   
+  
+HICKS ACQUISITION COMPANY I, INC.  
+  
+By:   
+Name:   
+Title:   
+VICTORY PARK CREDIT OPPORTUNITIES MASTER FUND, LTD.  
+  
+By: Victory Park Capital Advisors, LLC, its  
+investment manager  
+  
+By:   
+Name:  Scott R. Zemnick   
+Title:  General Counsel   
+Address:  
+227 West Monroe Street, Suite 3900  
+Chicago, Illinois 60606  
+  
+  
+Purchase Price Per Share:
+
+[to be determined by dividing the Aggregate Purchase Price by the Number of Shares]  
+  
+Number of Shares:
+
+[to be the number of shares purchased by Seller pursuant to Section 1 of the Initial Agreement]  
+  
+Aggregate Purchase Price:
+
+[to be the total price paid by Seller pursuant to the accompanying Agreement, dated September ___, 2009 by and between Buyer and Seller (the “Initial Agreement”) in connection with the purchases by Seller contemplated by Section 1 of such Initial Agreement]  
+  
+Signature Page to  
+Stock Purchase Agreement
+
+* * *
+
+##### 
+
+Schedule of Liabilities and Schedule I
+
+Unwaived
+
+KPMG for audit and financial services 
+
+Customary liabilities for tax not yet due and payable 
+
+Waived
+
+Bowne & Co. Inc. for printing services 
+
+Akin Gump Strauss Hauer & Feld LLP for legal services 
+
+Morrow & Co. for proxy soliciting services 
+
+Broadridge Financial Solutions, Inc. for mailing services 
+
+Citi Global Markets Inc. as representative of the underwriters for deferred fees and for investment banking services 
+
+Raymond James & Associates Inc. for investment banking services 
+
+FBR Capital Markets & Co. for investment banking services 
+
+Capital One Southcoast, Inc. for investment banking services 
+
+Scardsdale Equities llc for investment banking services 
+
+Hicks Holdings, LLC for administrative services 
+
+Continental Stock Transfer & Trust Company for trustee/transfer agent fees 
+
+Liabilities to make payments to REC and affiliates under the Acquisition Agreement 
+
+[note: schedule subject to company review]
+
+Annex I-2
+
+* * *
+
+##### 
+
+Annex I
+
+HICKS ACQUISITION COMPANY I, INC.  
+100 CRESCENT COURT, SUITE 1200  
+DALLAS, TEXAS 75201
+
+[ ], 2009 
+
+Continental Stock Transfer & Trust Company  
+17 Battery Place  
+New York, New York 10004 
+
+Attn: Steven Nelson 
+
+Re:  Hicks Acquisition Company I, Inc.  
+Trust Account No. 530-065681 (the “Trust Account”)  
+  
+Gentlemen: 
+
+Hicks Acquisition Company I, Inc. (the “Company”) is providing these irrevocable instructions to you in connection with the above described Trust Account established in connection with and pursuant to an Investment Management Trust Agreement, dated as of September 27, 2007 between the Company and Continental Stock Transfer & Trust Company as Trustee (the “Trust Agreement”). Capitalized terms used herein shall have the meanings ascribed to such terms in the Trust Agreement. 
+
+In the event the Company delivers to you a Termination Letter substantially in the form of Exhibit A to the Trust Agreement, in addition to the other documents required to be delivered pursuant to Exhibit A of the Trust Agreement, then on the date the Trust Account is liquidated, you are hereby irrevocably instructed by the Company to immediately deliver from the Trust Account an aggregate amount equal to USD $[AMOUNT] (the “Aggregate Amount”) in consideration for the delivery (through the DWAC System to the Company’s account) of an aggregate of [NUMBER] shares of the Company’s common stock (the “Shares”) beneficially owned by Victory Park Credit Opportunities Master Fund, Ltd. and Victory Park Special Situations Master Fund, Ltd. (each an “Investor” and, collectively, the “Investors”) which shall be distributed to such Investors (in the amounts indicated in their respective wire instructions below) prior to the release of any funds from the Trust Account to the Company or any other third party except for converting stockholders exercising their rights pursuant to Section 9.3 of Buyer’s amended and restated certificate of incorporation. Such amounts shall be delivered to the Investors in accordance with the following bank wire instructions: 
+
+[INSERT INSTRUCTIONS]
+
+The funds distribution described above is for the benefit of the Investors, each of whom is hereby made a third party beneficiary of these irrevocable instructions with rights of enforcement. 
+
+Each of the Company and Trustee acknowledges that the instructions contained herein are irrevocable and may not be amended, modified, waived or otherwise changed by the Company, Trustee or any other person without the prior written consent of the Investors. 
+
+[In order to expedite payment, attached is Victory Park’s Form W-8.] 
+
+* * *
+
+##### 
+
+Kindly acknowledge where indicated below, your receipt and understanding of these instructions and return a copy to [Mintz Levin Cohn Ferris Glovsky and Popeo, PC, 666 Third Avenue, New York, New York 10017, attention: Jeffrey P. Schultz, Esq., Fax Number: (212) 983-3115; Phone Number: (212) 692-6732] and to Akin Gump Strauss Hauer & Feld LLP, attention: James A. Deeken, facsimile number (214) 969-4343. 
+
+A facsimile signed and electronically delivered copy of this letter shall be deemed an original.   
+  
+Very truly yours,  
+  
+HICKS ACQUISITION COMPANY I, INC.  
+  
+By:   
+Name:   
+Title:   
+Acknowledged and Agreed:  
+  
+CONTINENTAL STOCK TRANSFER &  
+TRUST COMPANY  
+  
+By:   
+Name:   
+Title:   
+  
+VICTORY PARK CREDIT OPPORTUNITIES MASTER FUND, LTD.  
+By: Victory Park Capital Advisors, LLC, its investment manager   
+  
+By:   
+Name:  Scott R. Zemnick   
+Title:  General Counsel   
+  
+Annex I-2 

@@ -1,0 +1,480 @@
+Exhibit 10.3 
+
+![LOGO](g34964img001.jpg)
+
+9/05 AMENDMENT TO CREDIT AGREEMENT 
+
+dated as of September 30, 2005 
+
+effective as of August 1, 2005 
+
+amending the 
+
+8/05 AMENDED AND RESTATED SENIOR SECURED 
+
+
+
+dated as of August 1, 2005 
+
+by and among 
+
+HOMEBANC CORP. 
+
+and 
+
+HOMEBANC MORTGAGE CORPORATION 
+
+and 
+
+JPMORGAN CHASE BANK, N.A. 
+
+as Administrative Agent, Collateral Agent and a Lender, 
+
+and 
+
+the other Lender(s) parties hereto 
+
+KEYBANK NATIONAL ASSOCIATION 
+
+as Syndication Agent 
+
+COMMERZBANK, A.G., NEW YORK BRANCH and GRAND CAYMAN BRANCH, 
+
+U.S. BANK NATIONAL ASSOCIATION,
+
+BNP PARIBAS 
+
+and 
+
+UNITED OVERSEAS BANK LIMITED, NEW YORK AGENCY 
+
+as Documentation Agents 
+
+J.P. MORGAN SECURITIES INC. 
+
+Sole Bookrunner 
+
+and Lead Arranger 
+
+$500,000,000 Senior Secured Revolving Credit 
+
+![LOGO](g34964img002.jpg)
+
+* * *
+
+Index of Defined Terms  
+  
+Page  
+
+
+* * *  
+  
+8/05 Credit Agreement
+
+1  
+  
+9/05 Amendment
+
+1  
+  
+9/05 Amendment Effective Date
+
+2  
+  
+Agent
+
+1  
+  
+Amendment
+
+1  
+  
+Companies
+
+1  
+  
+Company
+
+1  
+  
+Current Credit Agreement
+
+1  
+  
+HC
+
+1  
+  
+HMC
+
+1  
+  
+JPMorgan
+
+1  
+  
+Lenders
+
+1  
+  
+* * *
+
+Table of Contents  
+  
+Page  
+
+
+* * *  
+  
+1
+
+DEFINITIONS 2  
+  
+7
+
+COLLATERAL 2  
+  
+8
+
+CONDITIONS PRECEDENT 3  
+  
+9
+
+REPRESENTATIONS 3  
+  
+11
+
+NEGATIVE COVENANTS 3  
+  
+16
+
+MISCELLANEOUS 4  
+  
+i 
+
+* * *
+
+9/05 AMENDMENT TO CREDIT AGREEMENT 
+
+Preamble 
+
+This 9/05 Amendment to Credit Agreement dated September 30, 2005, but effective as of August 1, 2005 (the “9/05 Amendment” or, within itself only, this “Amendment” amending (for the first time) the 8/05 Amended and Restated Senior Secured Credit Agreement (the “8/05 Credit Agreement” and as it may be supplemented, amended or restated, the “Current Credit Agreement”), executed as of August 1, 2005, among: 
+
+(i) HOMEBANC CORP., a Georgia corporation (“HC”), its wholly-owned subsidiary, HOMEBANC MORTGAGE CORPORATION, a Delaware corporation (“HMC”; HC and HMC being sometimes referred to individually as a “Company” and together as the “Companies”), each having its principal office at 2002 Summit Boulevard, Suite 100, Atlanta, Georgia 30319; 
+
+(ii) JPMORGAN CHASE BANK, N.A. (“JPMorgan”), a national banking association, acting herein as a Lender and agent and representative of the other Lenders (in that capacity JPMorgan is called the “Agent”); and 
+
+(iii) such other Lenders as may from time to time be party to this Agreement (together with JPMorgan as a lender, the “Lenders”). 
+
+Each of the parties hereto recites and provides as follows: 
+
+Recitals 
+
+The Companies have asked the Lenders and the Agent to allow the Companies to incur, from time-to-time, inter-company debt that is subordinated to the Loan evidenced by the Facilities Papers, and the Lenders and the Agent have agreed to do so on the terms and subject to the conditions of this Amendment. 
+
+All capitalized terms used in the 8/05 Credit Agreement and used but not defined differently in this Amendment have the same meanings here as there. 
+
+The Sections of this Amendment are numbered to correspond with the numbers of the Sections of the 8/05 Credit Agreement amended hereby and are accordingly often nonsequential. 
+
+If there is any conflict or inconsistency between (i) these recitals and the following agreements; (ii) any of the terms or provisions of any of the other Facilities Papers and this Amendment; or (iii) any provision of this Amendment and any later supplement, amendment, restatement or replacement of it then in each case the latter shall govern and control. 
+
+* * *
+
+Agreements 
+
+In consideration of the premises, the mutual agreements stated below and other good and valuable consideration paid by each party to each other party to this Amendment, the receipt and sufficiency of which each hereby acknowledges, the parties hereby agree as follows. 
+
+1 DEFINITIONS 
+
+1.1. Defined Terms. Effective from and after the 9/05 Amendment Effective Date: 
+
+A. The following new definitions are added to Section 1.2 of the Current Credit Agreement, in alphabetical order (except where otherwise specified). 
+
+“9/05 Amendment” means the 9/05 Amendment to Credit Agreement dated as of September 30, 2005, but effective as of August 1, 2005, amending this Agreement. 
+
+“9/05 Amendment Effective Date” means August 1, 2005, the effective date of the 9/05 Amendment. 
+
+B. The following definition is amended to read as follows: 
+
+“Qualified Subordinated Debt” means Debt (including any junior subordinated debentures and guaranties related to the issuance of trust preferred securities by HMB Capital Trust I) of the Companies to any Person (i) the papers evidencing, securing, governing or otherwise related to which Debt impose covenants and conditions on the debtor under them that are no more restrictive or onerous than the covenants and conditions imposed on the Companies by this Agreement, (ii) that is subordinated to the Obligations pursuant to a currently effective and irrevocable Subordination Agreement approved by the Agent and (iii) the principal of which is not due and payable until ninety (90) days or more after the Maturity Date; provided, that inter-company Debt incurred pursuant to Section 11.4(f)(v) hereof shall be deemed not to be Qualified Subordinated Debt for all purposes hereunder. 
+
+7 COLLATERAL 
+
+The provisions of Section 7.1 of the 8/05 Credit Agreement are not otherwise amended hereby. Cumulative of such existing provisions, as security for the payment of the Loan and for the payment and performance of all of the Obligations, each Company hereby GRANTS to the Agent (as agent and representative of the Lenders) a first priority security interest in all of such Company’s present and future estate, right, title and interest in and to the Collateral, in addition to and cumulative of the security interest in the Collateral granted to the Agent in the 8/05 Credit Agreement, and the parties hereby declare and confirm that all such security interests were and are granted to and held by the Agent (as agent and representative of the Lenders.) 
+
+2 
+
+* * *
+
+8 CONDITIONS PRECEDENT 
+
+Section 8 of the 8/05 Credit Agreement is further amended by adding the following new Section 8.3 to the end of Section 8, viz.: 
+
+8.3 Borrowings After September 30, 2005. In addition to the conditions precedent stated in Sections 8.1 and 8.2 above, the obligations of the Lenders to fund and the Agent to disburse any Advances under this Agreement after the September 30, 2005 is subject to the condition precedent that the Agent shall have received: 
+
+(a) the 9/05 Amendment, duly executed by each Company, the Agent and the Required Lenders; 
+
+(b) a certificate of each Company’s corporate secretary (i) as to the incumbency of the officers of such Company executing the 9/05 Amendment and all other Facilities Papers executed or to be executed by or on behalf of such Company in connection with the 9/05 Amendment, (ii) as to the authenticity of their signatures (specimens of their signatures shall be included in such certificate or set forth on an exhibit attached to it, and the Agent and the Lenders shall be entitled to rely on that certificate until such Company has furnished a new certificate to the Agent) and (iii) that there have been no amendments to the Company’s certificate of incorporation or bylaws since August 1, 2005; and 
+
+(c) such other documents, if any, as shall be specified by the Agent. 
+
+9 REPRESENTATIONS 
+
+Each Company hereby republishes its warranties and representations made in the 8/05 Credit Agreement effective (except as to those specified to relate only to a specific date) as of the 9/05 Amendment Effective Date. 
+
+11 NEGATIVE COVENANTS 
+
+Section 11.4(f) is amended to henceforth read as follows: 
+
+11.4(f) Debt Limitation. Incur any Debt for borrowed money or for the deferred purchase price of property or services other than (i) Debt to the Lenders under this Agreement, (ii) Debt under warehousing, repurchase or other mortgage-related asset agreements to finance the Companies’ inventory of Mortgage Loans and other mortgage-related assets, (iii) accounts payable incurred in the ordinary course of business with standard payment terms, (iv) Debt of up to Twenty Million Dollars ($20,000,000) incurred in the ordinary course of business, (v) Debt of one Company owed to the other Company, so long as such inter-company Debt is subordinated, in form acceptable to the Agent, to the Debt under this Facility and (vi) the Qualified Subordinated Debt of up to Fifty Million Dollars ($50,000,000) issued by the HC to support the June 28, 2005 issuance of trust preferred securities by HMB Capital Trust I, an unconsolidated subsidiary of HC whose common equity interests are solely held by HC. 
+
+3 
+
+* * *
+
+16 MISCELLANEOUS 
+
+Section 16.11 is amended to read as follows: 
+
+16.11 Notice Pursuant to Tex. Bus. & Comm. Code §26.02. THE 8/05 CREDIT AGREEMENT, AS AMENDED BY THE 9/05 AMENDMENT AND THE OTHER FACILITIES PAPERS TOGETHER CONSTITUTE A WRITTEN LOAN AGREEMENT WHICH REPRESENTS THE FINAL AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+(The remainder of this page is intentionally blank; signature pages follow.) 
+
+4 
+
+* * *
+
+EXECUTED as of the 9/05 Amendment Effective Date.   
+  
+HOMEBANC CORP.  
+By:
+
+/s/ James L. Krakau
+
+* * *  
+  
+Name: James L. Krakau  
+Title: Senior Vice President  
+HOMEBANC MORTGAGE CORPORATION  
+By:
+
+/s/ James L. Krakau
+
+* * *  
+  
+Name: James L. Krakau  
+Title: Senior Vice President  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+JPMORGAN CHASE BANK, N.A.  
+as the Agent and as a Lender  
+By:
+
+/s/ Michael W. Nicholson
+
+* * *  
+  
+Name: Michael W. Nicholson  
+Title: Senior Vice President  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+COMMERZBANK AKTIENGESELLSCHAFT  
+  
+NEW YORK AND GRAND CAYMAN BRANCHES
+
+as a Lender  
+  
+By:
+
+/s/ Gerard A. Araw
+
+* * *  
+  
+Name: Gerard A. Araw  
+Title: Assistant Treasurer  
+By:
+
+/s/ Maureen A. Carson
+
+* * *  
+  
+Name: Maureen A. Carson  
+Title: Assistant Treasurer  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+KEYBANK NATIONAL ASSOCIATION,  
+as a Lender  
+By:
+
+* * *  
+  
+Name:  
+Title:  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+U.S. BANK NATIONAL ASSOCIATION,  
+as a Lender  
+By:
+
+/s/ William J. Umscheid
+
+* * *  
+  
+Name: William J. Umscheid  
+Title: Vice President  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+BNP PARIBAS,  
+  
+as a Lender  
+  
+By:
+
+/s/ Barry K. Chung
+
+* * *  
+  
+Name:
+
+Barry K. Chung  
+  
+Title:
+
+Vice President  
+  
+By:
+
+/s/ Marguerite L. Lebon
+
+* * *  
+  
+Name:
+
+Marguerite L. Lebon  
+  
+Title:
+
+Vice President  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+UNITED OVERSEAS BANK LIMITED  
+  
+NEW YORK AGENCY,
+
+as a Lender  
+  
+By:
+
+/s/ Kwong Yew Wong
+
+* * *  
+  
+Name:
+
+Kwong Yew Wong  
+  
+Title:
+
+FVP and General Manager  
+  
+By:
+
+/s/ Philip Cheong
+
+* * *  
+  
+Name:
+
+Philip Cheong  
+  
+Title:
+
+VP and Deputy General Manager  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+FIRST COMMERCIAL BANK,  
+  
+NEW YORK AGENCY,
+
+as a Lender  
+  
+By:
+
+/s/ Bruce M.J.Ju
+
+* * *  
+  
+Name: Bruce M. J. Ju  
+Title: VP & GM  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 
+
+* * *  
+  
+BANK HAPOALIM B.M.,  
+as a Lender  
+By:
+
+* * *  
+  
+Name:  
+Title:  
+  
+Unnumbered counterpart signature page to 9/05 Amendment to 8/05 Amended and Restated 
+
+Senior Secured Credit Agreement among HomeBanc Corp., HomeBanc Mortgage Corporation, 
+
+JPMorgan Chase Bank, et al. 

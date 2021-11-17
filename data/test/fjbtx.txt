@@ -1,0 +1,87 @@
+Exhibit 10.4
+
+PROTALEX, INC.
+
+
+
+(this “Agreement”)
+
+Dated: November 4, 2014
+
+(“Grant Date”)
+
+Protalex, Inc., a Delaware corporation (the “Company”), hereby grants to ________ (the “Optionee”), a stock option to purchase a total of 100,000 shares of the Company's Common Stock, par value $.00001 per share (the “Common Stock”), at a price of $6.00 per share (the “Exercise Price”).
+
+1.Term.  
+  
+This option shall expire five (5) years from the date hereof (the “Termination Date”).
+
+2.Characterization of Options.  
+  
+The option granted pursuant to this Agreement is intended to constitute a non-qualified option, subject to §83 of the Internal Revenue Code of 1986, as amended (the “Code”).
+
+3.Exercise of Options.  
+  
+(a) Subject to earlier termination or cancellation as provided in this Agreement, this Option may be exercised at any time on or after the date hereof and on or prior the Termination Date in whole or in part.
+
+(b) To the extent vested prior to the Termination Date, this option shall be exercisable by written notice of such exercise, in the form prescribed by the Board of Directors of the Company (the “Board”), to the Secretary or Treasurer of the Company at its principal office. The notice shall specify the number of shares of Common Stock for which the option is being exercised (which number, if less than all of the shares then subject to exercise, shall be 50 or a multiple thereof) and shall be accompanied by payment (i) in cash or by check in the amount equal to the Exercise Price multiplied by the number of shares to be purchased upon exercise, or (ii) in such other manner as the Board shall deem acceptable. No shares shall be delivered upon exercise of any option until all laws, rules and regulations which the Board may deem applicable have been complied with.
+
+(c) The Optionee shall not be considered a record holder of the Common Stock issuable pursuant to this Agreement for any purpose until the date on which he or she is actually recorded as the holder of such Common Stock in the records of the Company.
+
+(d) To the extent vested, prior to the Termination Date, this option shall be exercisable only so long as the Optionee shall continue to hold the same or similar position with the Company as is currently held by the Optionee, or such other position as may have been directed by the Board and within the ninety (90) day period after the date of termination of such relationship, to the extent vested on the such date of termination; provided, however, such termination was without cause.  
+  
+(e) Notwithstanding the provision of Section 3(d) above:
+
+(i) In the event the Optionee is unable to continue to hold the same or similar position with the Company as is currently held by the Optionee, or such other position as may have been directed by the Board, due to his or her total and permanent disability (as defined in §105(d)(4) of the Code), this option may be exercised, to the extent vested on the date of such disability, but only within the ninety (90) day period from the date of such disability;
+
+(ii) In the event of death of the Optionee, this option may be exercised, to the extent vested on the date of death, at any time within twelve (12) months following such date of death by the Optionee's estate or by a person who acquired the right to exercise this option by bequest or inheritance; provided that at the time of his or her death the Optionee held the same or similar position with the Company as is currently held by the Optionee, or such other position as may have been directed by the Board; and
+
+(iii) In the event the Optionee is terminated from the Company for cause, this option may be exercised, to the extent vested on the date of such termination, within the thirty (30) day period after the date of such termination.
+
+Notwithstanding the provisions of this Section (e), in no event shall this option be exercisable after the Termination Date.
+
+4.Anti-Dilution Provisions.  
+  
+(a) If there is any stock dividend, stock split, or combination of shares of Common Stock, the number and amount of shares then subject to this option shall be proportionately and appropriately adjusted; no change shall be made in the aggregate purchase price to be paid for all shares subject to this option, but the aggregate purchase price shall be allocated among all shares subject to this option after giving effect to the adjustment.
+
+(b) If there is any other change in the Common Stock, including recapitalization, reorganization, sale or exchange of assets, exchange of shares, offering of subscription rights, or a merger or consolidation in which the Company is the surviving corporation, an adjustment, if any, shall be made in the shares then subject to this option as the Board may deem equitable. Failure of the Board to provide for an adjustment pursuant to this subparagraph prior to the effective date of any Company action referred to herein shall be conclusive evidence that no adjustment is required in consequence of such action.
+
+(c) If the Company is merged into or consolidated with any other corporation, or if it sells all or substantially all of its assets to any other corporation, then either (i) the Company shall cause provisions to be made for the continuance of this option after such event, or for the substitution for this option of an option covering the number and class of securities which the Optionee would have been entitled to receive in such merger or consolidation by virtue of such sale if the Optionee had been the holder of record of a number of shares of Common Stock equal to the number of shares covered by the unexercised portion of this option, or (ii) the Company shall give to the Optionee written notice of its election not to cause such provision to be made and this option shall become exercisable in full (or, at the election of the Optionee, in part) at any time during a period of 20 days, to be designated by the Company, ending not more than 10 days prior to the effective date of the merger, consolidation or sale, in which case this option shall not be exercisable to any extent after the expiration of such 20-day period.
+
+2  
+  
+5.Investment Representation; Legend on Certificates; Special   
+  
+Restriction Resale.
+
+The Optionee agrees that until such time as a registration statement under the Securities Act of 1933, as amended (the “1933 Act”), becomes effective with respect to the option and/or the stock, the Optionee is taking this option and will take the stock underlying this option, for his own account, for investment and not with a view to the resale or distribution thereof. The Company shall have the right to place upon the face of any stock certificate or certificates evidencing shares issuable upon the exercise of this option such legend as the Board may prescribe for the purpose of preventing disposition of such shares in violation of the 1933 Act, as now or hereafter provided.
+
+6.Non-Transferability.  
+  
+This option shall not be transferable by the Optionee other than by will or by the laws of descent or distribution, and is exercisable during the lifetime of the Optionee only by the Optionee.
+
+7.Certain Rights Not Conferred by Option.  
+  
+The Optionee shall not, by virtue of holding this option, be entitled to any rights of a stockholder in the Company.
+
+8.Expenses.  
+  
+The Company shall pay all original issue and transfer taxes with respect to the issuance and transfer of shares of Common Stock pursuant hereto and all other fees and expenses necessarily incurred by the Company in connection therewith.
+
+9.Miscellaneous.  
+  
+In no event shall this option be exercisable after the Termination Date. Nothing herein shall be deemed to create any employment agreement or guaranty of the Optionee’s position with the Company or limit in any way the Company's right to terminate Optionee's position at any time.
+
+3  
+  
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their respective duly authorized representatives as of the date first above written.
+
+PROTALEX, INC.  
+By:  
+Arnold P. Kling, President  
+Accepted as of the date  
+first set forth above:  
+  
+________________, Optionee
+
+4

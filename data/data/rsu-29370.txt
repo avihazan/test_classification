@@ -1,0 +1,75 @@
+Exhibit 10.1
+
+
+(Non-Employee Director)
+
+THIS RESTRICTED STOCK AGREEMENT, made and entered into as of the  day of  , 20 , by and between Smart Online, Inc., a Delaware corporation (the “Company), and  , a member of the Company’s Board of Directors (the “Director”). 
+
+WHEREAS, in consideration of the services of the Director, the Company is desirous of giving the Director shares of common stock of the Company under the Company’s 2004 Equity Compensation Plan (the “Plan”) (all capitalized terms not otherwise defined herein shall have the meaning set forth in the Plan), subject to the restrictions set forth below. 
+
+NOW, THEREFORE, in consideration of the foregoing, of the mutual promises set forth below and of other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows: 
+
+1\. Restricted Stock Award. The Company shall issue  ( ) shares of the common stock of the Company (the “Securities”) to the Director, as part of the Director’s compensation. The Securities are subject to the restrictions set forth in Section 4 below. 
+
+2\. Director Representations. The Director hereby acknowledges and represents the following: 
+
+(a) Compensation. The Director acknowledges that the Securities is part of his or her compensation from the Company. 
+
+(b) Investment. The Director will treat the Securities as if acquired for investment for the Director’s own account and not with a view to, or for resale in connection with, any distribution thereof, and Director has no present intention of selling or distributing the Securities. The Director does not have any contract, undertaking, agreement or arrangement with any person to sell, transfer or grant participation to such person or to any third person with respect to any of the Securities other than as set forth in this Agreement. The Director understands that the Securities to be issued to the Director have not been registered under the Securities Act of 1933, as amended (the “Act”) by reason of a specific exemption from the registration provisions of the Act which depends upon, among other things, the bona fide nature of the investment intent as expressed herein. 
+
+(c) Taxes. The Director has not relied upon the Company with respect to any tax consequences related to the acquisition or disposition of the Securities. The Director acknowledges that the Director may incur a substantial tax liability. The Director assumes full responsibility for all such consequences and the filing of all tax returns and elections the Director may be required or find desirable to file in connection therewith. In the event any valuation of the Securities purchased pursuant to its exercise must be made under federal or state tax laws and such valuation affects any return or election of the Company, the Director agrees that the Company may determine such value and that the Director will observe any determination so made by the Company in all returns and elections filed by the Director. In the event the Company is required by applicable law to collect any withholding, payroll or similar taxes by reason of the grant of the Securities, the Director agrees that the Company may withhold such taxes from any monetary amounts otherwise payable by the Company to the Director and that, if such amounts are insufficient to cover the taxes required to be collected by the Company, the Director will pay to the Company such additional amounts as are required. 
+
+(d) No Registration Obligation. The Company will be under no obligation to register the Securities or to comply with any exemption available for sale of the Securities by the Director without registration, and the Company is under no obligation to act in any manner so as to make Rule 144 promulgated under the Securities Act of 1933 available with respect to any sale of the Securities by the Director. 
+
+(e) Underwriter Restrictions. In the event any underwriter of securities of the Company requests the Director to sign any agreement restricting resale of the Securities in connection with any public offering by the Company, the Director agrees to sign such agreement, provided the officers of the Company have signed an agreement no less restrictive. The Company may instruct its transfer agent not to transfer the Securities if requested by an underwriter as described above. 
+
+(f) Compliance with Securities Laws. The Director hereby agrees to comply with any plan, policy or other document of the Company approved by the Board of Directors of the Company to ensure compliance with securities laws, rules and regulations both prior to the Termination of Service of the Director and for one (1) year thereafter. The Company may impose stop transfer restrictions with respect to the Securities to enforce this provision. 
+
+(g) Legends. Each certificate representing Securities shall also bear any legend required by any applicable state securities law or by any other agreement to which the holder thereof is a party or by which the holder thereof is bound, including the provisions of any existing “lock-up” or similar agreements between the Director and the Company, and including the following legend as required in Section 4, below: 
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE MAY BE TRANSFERRED ASSIGNED, CONVEYED OR PLEDGED ONLY UPON COMPLIANCE WITH THE TERMS AND CONDITIONS OF A RESTRICTED STOCK AGREEMENT, AS THE SAME MAY BE AMENDED OR REPLACED FROM TIME TO TIME, A COPY OF WHICH IS ON FILE WITH, AND AVAILABLE FOR INSPECTION AT THE OFFICES OF THE SECRETARY OF THE CORPORATION. 
+
+3\. Condition to Issuance. The representations, warranties, understandings, acknowledgments and agreements in this Agreement are true and accurate as of the date hereof, shall be true and accurate as of the date of the issuance of the Securities by the Company and shall survive thereafter. 
+
+4\. Restrictions. The Securities described above shall be subject to the following restrictions: 
+
+(a) Restriction Period; Lapse of Restriction. For a period of one (1) year following the date of this Agreement, the Director agrees not to transfer, assign or sell the Securities, without the express written consent of the Company, which may be granted or withheld in the sole discretion of the Company. This restriction shall expire and cease to be of any effect with respect to the number of shares equal to twenty-five percent (25%) of the Securities in four (4) equal quarterly increments for one year following the date hereof; provided that this restriction shall lapse with respect to an increment as specified only if the Director is a member of the Company’s Board of Directors on the specified date for such increment. Shares representing the Securities shall bear a legend to such effect. 
+
+The schedule set forth above is cumulative, so that the Securities as to which the restriction has lapsed on and after a date indicated by the schedule may be transferred, assigned, or sold at any subsequent date. 
+
+(b) Acceleration of Lapse of Restriction. Upon a Change of Control or Corporate Organization, as defined below, the restriction set forth in Section 5(a) shall accelerate so as to lapse as to all of the Securities to which the restriction applies on the date of such event. 
+
+(i) A “Change in Control” shall be deemed to have occurred if, after the class of stock then subject to this Agreement becomes publicly traded, (1) the direct or indirect beneficial ownership (within the meaning of Section 13(d) of the Act and Regulation 13D thereunder) of fifty percent (50%) or more of the class of securities then subject to this Agreement is acquired or becomes held by any person or group of persons (within the meaning of Section 13(d)(3) of the Act), but excluding the Company and any employee benefit plan sponsored or maintained by the Company, or (2) assets or earning power constituting more than fifty percent (50%) of the assets or earning power of the Company and its subsidiaries (taken as a whole) is sold, mortgaged, leased or otherwise transferred, in one or more transactions not in the ordinary course of the Company’s business, to any such person or group of persons; provided, however, that a Change in Control shall not be deemed to have occurred upon an investment by one or more venture capital funds, Small Business Investment Companies (as defined in the Small Business Investment Act of 1958, as amended) or similar financial investors. For the purposes of this Agreement, the class of stock then subject to this Agreement shall be deemed to be “publicly traded” if such stock is listed or admitted to unlisted trading privileges on a national securities exchange or as to which sales or bid and offer quotations are reported in the automated system operated by the National Association of Securities Dealers, Inc. 
+
+(ii) A “Corporate Reorganization” means the happening of any one (1) of the following events: (1) the dissolution or liquidation of the Company; (2) a capital reorganization, merger or consolidation involving the Company, unless (A) the transaction involves only the Company and one or more of the Company’s parent corporation and wholly-owned (excluding interests held by employees, officers and directors) subsidiaries; or (B) the shareholders who had the power to elect a majority of the board of directors of the Company immediately prior to the transaction have the power to elect a majority of the board of directors of the surviving entity immediately following the transaction; (3) the sale of all or substantially all of the assets of the Company to another corporation, person or business entity; or (4) an acquisition of Company stock, unless the shareholders who had the power to elect a majority of the board of directors of the Company immediately prior to the acquisition have the power to elect a majority of the board of directors of the Company immediately following the transaction; provided, however, that a Corporate Reorganization shall not be deemed to have occurred upon an investment by one or more venture capital funds, Small Business Investment Companies (as defined in the Small Business Investment Act of 1958, as amended) or similar financial investors. 
+
+5\. Effect of Termination of Service. The restriction on the Securities shall lapse as specified in Section 4 above until the Termination of Service of the Director for reasons other than death, Disability or Retirement. Pursuant to Section 7.6 of the Plan, where the Termination of Service is for death, Disability or Retirement, than the Committee shall determine, in its sole discretion, whether to waive any remaining restriction. 
+
+All shares of the Securities still subject to the restriction set forth in Section 5 shall be forfeited by the Director and reacquired by the Company on such date. Upon such date, the Director shall have no further rights to any Securities to which the restriction has not lapsed. 
+
+6\. Rights as Stockholder. The Director shall have all rights as a stockholder with respect to the Securities; provided, however, any dividends or distributions on the Securities shall be automatically deferred and reinvested as restricted Securities subject to the same restrictions set forth in this Agreement. 
+
+7\. Incorporation of the Plan. The terms and conditions included in the Plan, the receipt of a copy of which Participant hereby acknowledges by execution of this Agreement, are incorporated by reference herein, and to the extent that any conflict may exist between any term or provision of this Agreement and any term or provision of the Plan, such term or provision of the Plan shall control. 
+
+8\. Governing Law. This Agreement shall be enforced, governed and construed in all respects in accordance with the laws of the State of Delaware, as such laws are applied by Delaware courts to agreements entered into and to be performed in Delaware, and shall be binding upon the Director, the Director’s heirs, estate, legal representatives, successors and assigns and shall inure to the benefit of the Company and its successors and assigns. 
+
+9\. Miscellaneous. This Agreement and the Plan constitute the entire agreement among the parties hereto with respect to the subject matter hereof and supersedes any and all prior or contemporaneous representations, warranties, agreements and understandings in connection therewith, other than any existing “lock-up” or similar agreements between the parties which by their terms would apply to the Securities. This Agreement may be amended only by a writing executed by all parties hereto. This Agreement may be executed in one or more counterparts. 
+
+1 
+
+IN WITNESS WHEREOF, Director has executed this Restricted Stock Agreement effective as of the date first written above.   
+  
+DIRECTOR: 
+
+SMART ONLINE, INC.  
+  
+By:
+
+By:   
+Name:    
+Title:   
+  
+Print Name:   
+Address:
+
+2 

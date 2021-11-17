@@ -1,0 +1,722 @@
+* * *
+
+* * *
+
+Exhibit 10.45
+
+
+
+  
+
+
+This OPTION AGREEMENT (this “Agreement”) is made and entered into as of March 31, 2012 (the “Effective Date”), between Fenglong Xu and Wei Xu, 301-2 Station West Rd, Hongkou District, Shanghai, People’s Republic of China (the “Purchaser(s)”) and Crown Union Resources Limited, a British Virgin Islands company (“Seller”). Purchaser and Seller are also referred to herein together as the “Parties” and individually as a “Party.”
+
+  
+
+
+RECITALS
+
+  
+
+
+WHEREAS, pursuant to a Call Option Agreement (“Call Option Agreement”), dated as of the date hereof between China Education Schools Co., Ltd. a British Virgin Island limited liability corporation (the “Company”) as may be organized by Crown Union Resources Limited, a BVI corporation, and the shareholder of Shanghai Fuyi Education Information Consulting Co. Ltd., a Chinese company (“FUYI”), the Company has the right to acquire 100% of the equity interests of FUYI; and
+
+  
+
+
+WHEREAS, pursuant to the Exclusive Cooperation Agreement, dated as of the date hereof, between Hangzhou Kunjiang Education and Technology Co., Ltd (“Hangzhou Technology”) a China company and FUYI (the “Cooperation Agreement”), Hangzhou Technology has the right to manage the operations of FUYI; and
+
+  
+
+
+WHEREAS, pursuant to the Share Pledge Agreement, dated as of the date hereof, between the Company and the shareholders of FUYI (the “Pledge Agreement”), the Company has the right to control the shares of FUYI;
+
+  
+
+
+WHEREAS, the Call Option Agreement, the Cooperation Agreement and the Pledge Agreement are collectively hereinafter referred to as the “School Agreements”; and
+
+  
+
+
+WHEREAS, Purchaser has agreed with Seller, as a condition to its entering into the School Agreements and to transfer Purchaser’s ownership interest in FUYI pursuant to the terms of the Call Option Agreement; and
+
+  
+
+
+WHEREAS, Seller has the right to 4,400,000 shares of China Education International, Inc. a Nevada corporation (“CEII”) $0.001 par value per share common stock (“Common Stock”) as additional consideration under the School Agreements and therefore, has determined that it is in Seller’s best interest to, and will receive benefits from the School Agreements and FUYI’s operational performance as set forth in the conditions included in section 1.1 of this Agreement and Seller or its affiliates entered into the School Agreements based on the possibility of such benefits; and
+
+  
+
+
+WHEREAS, Seller desires to grant to Purchaser an option to acquire a total of 4,400,000 shares of the PUBCO Common Stock it owns (the “CEII Shares”) pursuant to the terms and conditions set forth in this Agreement. Each Purchaser shall have the option to purchase the number PUBCO Shares set forth their respective names as set forth on Appendix A to this Agreement;
+
+  
+
+
+NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the terms, covenants and conditions set forth below, and other good and valuable consideration, receipt of which is acknowledged, hereby agree as follows:
+
+  
+
+
+1\. DEFINITIONS; INTERPRETATION.
+
+  
+
+
+1.1. Terms Defined in this Agreement. The following terms when used in this Agreement shall have the following definitions:
+
+  
+
+
+“Bankruptcy Law” means any Law of any jurisdiction relating to bankruptcy, insolvency, corporate reorganization, company arrangement, civil rehabilitation, special liquidation, moratorium, readjustment of debt, appointment of a conservator, trustee or receiver, or similar debtor relief.
+
+  
+
+
+“Business Day” means any day on which commercial banks are required to be open in the United States.
+
+  
+
+
+“Call Price” means, with respect to any exercise of the Call Right, $0.001 per share of the CEII Shares subject to any Call Exercise Notice.
+
+  
+
+
+  
+
+
+\- 1 -
+
+* * *
+
+  
+
+
+“Conditions” means Conditions 1 through 3, as defined below, in the aggregate.
+
+  
+
+
+“Condition 1” means the entry by Purchaser, the Company and FUYI into the School Agreements.
+
+  
+
+
+“Condition 2” means FUYI achieving not less than $5,000,000 in Gross Revenues, as determined under US GAAP, for any consecutive 12 months during the period from April 1, 2012 through March 31, 2014.
+
+  
+
+
+“Condition 3” means FUYI achieving not less than $3,000,000 in after-tax profits, as determined under US GAAP for any consecutive 12 months during the period from April 1, 2012 through March 31, 2014.
+
+  
+
+
+“Government Authority” means any: (a) nation, principality, state, commonwealth, province, territory, county, municipality, district or other jurisdiction of any nature; (b) federal, state, local, municipal, foreign or other government; (c) governmental or quasi governmental authority of any nature (including any governmental division, subdivision, department, agency, bureau, branch, office, commission, council, board, instrumentality, officer, official, representative, organization, unit, body or Person and any court or other tribunal); or (d) individual, Person or body exercising, or entitled to exercise, any executive, legislative, judicial, administrative, regulatory, police, military or taxing authority or power of any nature.
+
+  
+
+
+“Law” means any federal, state, local, municipal, foreign or other law, statute, legislation, constitution, principle of common law, resolution, ordinance, code, order, edict, decree, proclamation, treaty, convention, rule, regulation, permit, ruling, directive, pronouncement, requirement (licensing or otherwise), specification, determination, decision, opinion or interpretation that is, has been or may in the future be issued, enacted, adopted, passed, approved, promulgated, made, implemented or otherwise put into effect by or under the authority of any Government Authority.
+
+  
+
+
+“Person” means any individual, firm, company, corporation, limited liability company, unincorporated association, partnership, trust, joint venture, governmental authority or other entity, and shall include any successor (by merger or otherwise) of such entity.
+
+  
+
+
+1.2. Interpretation.
+
+  
+
+
+(a) Certain Terms. The words “hereof,” “herein,” “hereunder” and similar words refer to this Agreement as a whole and not to any particular provision of this Agreement. The term “including” is not limited and means “including without limitation.”
+
+  
+
+
+(b) Section References; Titles and Subtitles. Unless otherwise noted, all references to Sections herein are to Sections of this Agreement. The titles, captions and headings of this Agreement are inserted for convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+  
+
+
+(c) Reference to Entities, Agreements, Statutes. Unless otherwise expressly provided herein, (i) references to a Person include its successors and permitted assigns, (ii) references to agreements (including this Agreement) and other contractual instruments shall be deemed to include all subsequent amendments, restatements and other modifications thereto or supplements thereof and (iii) references to any statute or regulation are to be construed as including all statutory and regulatory provisions consolidating, amending, replacing, supplementing or interpreting such statute or regulation.
+
+  
+
+
+2\. CALL RIGHT.
+
+  
+
+
+2.1. Call Right.
+
+  
+
+
+(a) Purchaser shall have, during the Exercise Period (as defined below), and when a Condition is met, the right and option to purchase from the Seller, and upon the exercise of such right and option the Seller shall have the obligation to sell to Purchaser, a portion of the CEII Shares identified in the Call Exercise Notice (the “Call Right”). Purchaser shall be permitted to purchase, and Seller shall be obligated to sell, the following numbers of CEII Shares upon the attainment of the following Conditions:
+
+  
+
+
+Condition  Number of CEII Shares as to which there is a Call Right
+
+  
+
+
+Condition 1 A Call Right for 2,400,000 Shares upon the Purchaser, the Company and
+
+FUYI signing the School Agreements.
+
+  
+
+
+\- 2 -
+
+* * *
+
+  
+
+
+  
+
+
+Condition 2 A Call Right for 1,200,000 Shares based on FUYI achieving at least $5,000,000
+
+in Gross Revenues, as determined under U.S. GAAP for
+
+any consecutive 12 months during the period from April 1, 2012 through March 31, 2014.
+
+  
+
+
+Condition 3 A Call Right for 800,000 Shares based on FUYI achieving at least $3,000,000
+
+in Net Income, as determined under U.S. GAAP for
+
+any consecutive 12 months during the period from April 1, 2012 through March 31, 2014.
+
+  
+
+
+(b) The total number of shares of CEII which the Purchaser may purchase from Seller was determined based upon the Company’s projected net income for FUYI in U.S. dollars (the “Income Target”) for the 12 month period commencing on April 1, 2012 (the “Income Target Period”). The Income Target for the 12 month period commencing on April 1, 2012 is $3,000,000 as set forth in Condition 3. The number of CEII Shares shall be reduced by 1 share for each $1.00 that the Income Target exceeds the actual income for FUYI during the highest 12 month consecutive period from April 1, 2012 through March 31, 2014 as computed in accordance with U.S. GAAP, and the number of Call Option Shares so reduced shall be returned to CEII for cancellation.
+
+  
+
+
+2.2. Call Period. The Call Right shall be exercisable by Purchaser, by delivering a Call Exercise Notice at any time during the period (the “Exercise Period”) commencing on the date hereof and ending at 6:30 p.m. (New York time) on the fifth anniversary date hereof (such date or the earlier expiration of the Call Right is referred to herein as the “Expiration Date”).
+
+  
+
+
+2.3. Exercise Process. In order to exercise the Call Right during the Exercise Period, Purchaser shall deliver to the Seller, a written notice of such exercise substantially in the form attached hereto as Appendix B (a “Call Exercise Notice”) to such address or facsimile number set forth therein. The Call Exercise Notice shall indicate the number of CEII Shares as to which Purchaser is then exercising its Call Right and the aggregate Call Price. Provided the Call Exercise Notice is delivered in accordance with Section 7.4 to Seller on or prior to 6:30 p.m. (New York time) on a Business Day, the date of exercise (the “Exercise Date”) of the Call Right shall be the date of such delivery of such Call Exercise Notice. In the event the Call Exercise Notice is delivered after 6:30 p.m. (U.S. Pacific time) on any day or on a date which is not a Business Day, the Exercise Date shall be deemed to be the first Business Day after the date of such delivery of such Call Exercise Notice. The delivery of a Call Exercise Notice in accordance herewith shall constitute a binding obligation (a) on the part of Purchaser to purchase, and (b) on the part of Seller to sell, the CEII Shares subject to such Call Exercise Notice in accordance with the terms of this Agreement.
+
+  
+
+
+2.4. Call Price. If the Call Right is exercised pursuant to this Section 2, as payment for the Shares being purchased by Purchaser pursuant to the Call Right, Purchaser shall pay the aggregate Call Price to the Seller (but no later than fifteen (15) Business Days of the Exercise Date).
+
+  
+
+
+  
+
+
+3\. ENCUMBRANCES; TRANSFERS, SET-OFF AND WITHHOLDINGS.
+
+3.1. Encumbrances. Upon exercise of the Call Right, CEII Shares being purchased shall be sold, transferred and delivered to Purchaser free and clear of any claim, pledge, charge, lien, preemptive rights, restrictions on transfers (except as required by securities laws of the United States), proxies, voting agreements and any other encumbrance whatsoever.
+
+  
+
+
+3.2 Transfers. Prior to the Expiration Date, Seller shall continue to own, free and clear of any hypothecation, pledge, mortgage or other encumbrance, except pursuant to this Agreement and except for the benefit of the Purchaser, such amount of the CEII Shares as may be required from time to time to in order for Purchaser to exercise its Call Right in full.
+
+  
+
+
+3.3 Escrow of CEII Shares.
+
+  
+
+
+(a) Upon execution of this Agreement, Seller shall deliver to CEII, as Collateral Agent (the “Collateral Agent”), a certificate or certificates representing CEII Shares. The certificates representing the CEII Shares (together with duly executed stock powers in blank) shall be held by the Collateral Agent.
+
+  
+
+
+(b) Upon receipt of a Call Exercise Notice, the Collateral Agent shall promptly deliver the CEII Shares being purchased pursuant to such Call Exercise Notice in accordance with the instructions set forth therein. In the event that the Collateral Agent shall receive notice from the Parties that the Conditions have not been met, the CEII Shares shall be distributed in accordance with their instructions.
+
+  
+
+
+\- 3 -
+
+* * *
+
+  
+
+
+4\. REPRESENTATIONS AND WARRANTIES.
+
+  
+
+
+4.1. Representations and Warranties by Seller. Seller represents and warrants to Purchaser, that:
+
+  
+
+
+(a) Due Authorization. The execution and delivery of this Agreement and the consummation of the transactions contemplated hereunder to be carried out by it have been duly authorized by all necessary action on the part of Seller. This Agreement, and all agreements and documents executed and delivered pursuant to this Agreement, constitute valid and binding obligations of Seller, enforceable against Seller in accordance with its terms, subject to applicable Bankruptcy Laws and other laws or equitable principles of general application affecting the rights of creditors generally.
+
+  
+
+
+(b) No Conflicts. The execution or delivery of this Agreement by Seller nor the fulfillment or compliance by Seller with any of the terms hereof shall, with or without the giving of notice and/or the passage of time, (i) conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under any contract or any judgment, decree or order to which Seller is subject or by which the Seller is bound, or (ii) require any consent, license, permit, authorization, approval or other action by any Person or Government Authority which has not yet been obtained or received. The execution, delivery and performance of this Agreement by Seller or compliance with the provisions hereof by the Seller does not, and shall not, violate any provision of any Law to which the Seller is subject or by which Seller is bound.
+
+  
+
+
+(c) No Actions. There are no lawsuits, actions (or to the best knowledge of Seller, investigations), claims or demands or other proceedings pending or, to the best of the knowledge of Seller, threatened against the Seller which, if resolved in a manner adverse to the Seller, would adversely affect the right or ability of the Seller to carry out Seller’s obligations set forth in this Agreement.
+
+  
+
+
+(d) Title. Seller owns the CEII Shares free and clear of any claim, pledge, charge, lien, preemptive rights, restrictions on transfers, proxies, voting agreements and any other encumbrance whatsoever, except as contemplated by this Agreement. The Seller has not entered into or is a party to any agreement that would cause the Seller to not own CEII Shares free an clean of any encumbrance, except as contemplated by this Agreement.
+
+  
+
+
+4.2 Representations and Warranties by Purchaser. Purchaser represents and warrants to the Sellers, that:
+
+  
+
+
+(a) Due Authorization. The execution and delivery of this Agreement and the consummation of the transactions contemplated hereunder to be carried out by it have been duly authorized by all necessary action on the part of Purchaser. This Agreement, and all agreements and documents executed and delivered pursuant to this Agreement, constitute valid and binding obligations of Purchaser, enforceable against Purchaser in accordance with its terms, subject to applicable Bankruptcy Laws and other laws or equitable principles of general application affecting the rights of creditors generally.
+
+  
+
+
+(b) No Conflicts. The execution or delivery of this Agreement by Purchaser nor the fulfillment or compliance by Purchaser with any of the terms hereof shall, with or without the giving of notice and/or the passage of time, (i) conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under any contract or any judgment, decree or order to which Purchaser is subject or by which Purchaser is bound, or (ii) require any consent, license, permit, authorization, approval or other action by any Person or Government Authority which has not yet been obtained or received. The execution, delivery and performance of this Agreement by Purchaser or compliance with the provisions hereof by Purchaser does not, and shall not, violate any provision of any Law to which Purchaser is subject or by which Purchaser is bound.
+
+  
+
+
+(c) No Actions. There are no lawsuits, actions (or to the best knowledge of Purchaser), investigations, claims or demands or other proceedings pending or, to the best of the knowledge of Purchaser, threatened against Purchaser which, if resolved in a manner adverse to Purchaser, would adversely affect the right or ability of Purchaser to carry out Purchaser’s obligations set forth in this Agreement.
+
+  
+
+
+5\. EVENTS OF DEFAULT AND TERMINATION
+
+  
+
+
+5.1 Events of Default. The occurrence at any time with respect to a Party (the “Defaulting Party”) of any of the following events shall constitute an event of default (an “Event of Default”) with respect to such party:
+
+  
+
+
+(a) Failure to Pay or Deliver. The failure by a Party to make, when due, any payment under this Agreement or deliver the CEII Shares in accordance with this Agreement, if such failure is not remedied on or before the fifteenth (25th) Business Day after notice of such failure is given to the Defaulting Party;
+
+  
+
+
+\- 4 -
+
+* * *
+
+  
+
+
+  
+
+
+(b) Breach of Agreement. The failure by a Party to comply with or perform any agreement, covenant or obligation (other than a failure described in Section 5.1(a)) to be complied with or performed by such Party in accordance with this Agreement if such failure is not remedied on or before the thirtieth (30th) Business Day after notice of such failure is given to the Defaulting Party; or
+
+  
+
+
+(c) Bankruptcy. A Party (1) becomes insolvent or is unable to pay its debts or fails or admits in writing its inability generally to pay its debts as they become due; (2) makes a general assignment, arrangement or composition with or for the benefit of its creditors; (3) institutes or has instituted against it a proceeding seeking a judgment of insolvency or bankruptcy or any relief under any Bankruptcy Law, or a petition is presented for its winding-up or liquidation, and in the case of any such proceeding or petition instituted or presented against it, such proceeding or petition (A) results in a judgment of insolvency or bankruptcy or the entry of an order for relief or the making of an order for its winding-up or liquidation or (B) is not dismissed, discharged, stayed or restrained in each case within 60 days of the institution or presentation thereof; (4) has a secured party take possession of all or substantially all its assets or has a distress, execution, attachment, sequestration or other legal process levied, enforced or sued on or against all or substantially all its assets and such secured party maintains possession, or any such process is not dismissed, discharged, stayed or rescinded, in each case within 60 days thereafter; or (5) takes any action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any of the foregoing acts.
+
+  
+
+
+5.2 Termination and Remedies Upon Default. If at any time an Event of Default with respect to a Party has occurred and is continuing, the other party may terminate this Agreement and deem the Expiration Date to have occurred by giving written notice to the Defaulting Party specifying the relevant Event of Default. In no event shall the Party exercising its right under this Section be precluded by the exercise of such termination right from pursuing, subject to the terms of this Agreement and applicable law, any cause of action or other claim it may then or at any time thereafter have against the other Party in respect of any Event of Default by the other Party hereunder including the remedy of specific performance.
+
+  
+
+
+6\. INDEMNIFICATION.
+
+6.1 Indemnity by the Seller. The Seller agrees to indemnify and hold the Buyer harmless from all Buyer Indemnified Liabilities. For this purpose, “Buyer Indemnified Liabilities” shall mean all suits, proceedings, claims, expenses, losses, costs, liabilities, judgments, deficiencies, assessments, actions, investigations, penalties, fines, settlements, interest and damages (including reasonable attorneys’ fees and expenses), whether suit is instituted or not and, if instituted, whether at any trial or appellate level, and whether raised by the parties hereto or a third party, incurred or suffered by the Buyer or any of them arising from, in connection with or as a result of any default or breach in the performance of any of the covenants or agreements made by the Seller in or pursuant to this Agreement.
+
+  
+
+
+6.2 Indemnity by the Buyer. The Buyer agrees that it will indemnify and hold the Seller from all Seller Indemnified Liabilities. For this purpose, “Seller Indemnified Liabilities” incurred by the Seller means all suits, proceedings, claims, expenses, losses, costs, liabilities, judgments, deficiencies, personal income taxes of Seller incurred by Seller in connection with the purchase of CEII’s Shares from the Company and the sale of such shares to Purchaser under this Agreement, assessments, actions, investigations, penalties, fines, settlements, interest and damages (including reasonable attorneys’ fees and expenses), whether suit is instituted or not and, if instituted, whether at any trial or appellate level, and whether raised by the parties hereto or a third party, incurred or suffered by the Seller, arising from, in connection with or as a result of (a) Seller’s performance of its obligations under this Agreement and the School Agreements; or (b) any default or breach in the performance of any of the covenants or agreements made by the Buyer in this Agreement.
+
+  
+
+
+6.3 Procedure for Indemnification. In the event any Party makes any demand or claim under this Section 6, the indemnified party shall give written notice to the indemnifying party promptly upon becoming aware of any event giving rise to a claim for indemnification. In such event, the indemnifying party shall assume full control of the defense thereof and hire counsel (which counsel shall be reasonably satisfactory to the indemnified party) to defend any such demand, claim or lawsuit (provided, however, that the failure to give such Notice shall not relieve the indemnifying party of its obligations hereunder unless such party is prejudiced by such failure). The indemnified party shall be permitted to participate in such defense at its sole cost and expense.
+
+  
+
+
+  
+
+
+\- 5 -
+
+* * *
+
+  
+
+
+7\. MISCELLANEOUS.
+
+  
+
+
+7.1. Governing Law; Jurisdiction. This Agreement shall be construed according to, and the rights of the Parties shall be governed by, the laws of the State of Florida, without reference to any conflict of laws principle that would cause the application of the laws of any jurisdiction other than Florida. Each Party hereby irrevocably submits to the exclusive jurisdiction of the federal and state courts in Palm Beach County, Florida, for the adjudication of any dispute hereunder or in connection herewith, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of such court, that such, suit, action or proceeding is brought in an inconvenient forum, or that the venue of such suit, action or proceeding is improper.
+
+  
+
+
+7.2. Successors and Assigns. Each of the Parties shall not assign this Agreement or any rights or obligations hereunder without the prior written consent of the other Party. The provisions hereof shall inure to the benefit of, and be binding upon, the successors and permitted assigns of the Parties.
+
+  
+
+
+7.3. Entire Agreement; Amendment. This Agreement constitutes the full and entire understanding and agreement between the Parties with regard to the subject matter hereof. Any term of this Agreement may be amended only with the written consent of each Party.
+
+  
+
+
+7.4. Notices and Other Communications. Any and all notices, requests, demands and other communications required or otherwise contemplated to be made under this Agreement shall be in writing and shall be provided by one or more of the following means and shall be deemed to have been duly given (a) if delivered personally, when received, (b) if transmitted by facsimile, on the date of transmission with receipt of a transmittal confirmation, or (c) if by an internationally recognized overnight courier service, one Business Day after deposit with such courier service. All such notices, requests, demands and other communications shall be addressed as follows:
+
+  
+
+
+  
+
+
+To Purchaser at: Fenglong Xu and Wei Xu
+
+c/o Fuyi Education Information Consulting Co., Ltd.
+
+335 Guoding Rd., Building #2-1507, Yangpu District, Shanghai, China
+
+with a Fax number of: +86.021.65100678
+
+  
+
+
+To Seller at: Crown Union Resources Limited
+
+c/o Joshua Kallan, 639 N.W. 38th Circle, Boca Raton, Fl 33431
+
+  
+
+
+With a copy to: Joshua Kallan
+
+E-Mail: Josh.Kallan@gmail.com
+
+  
+
+
+or to such other address or facsimile number as a party may have specified to the other parties in writing delivered in accordance with this Section 7.4.
+
+  
+
+
+  
+
+
+  
+
+
+7.5. Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any Person hereunder, upon any breach or default under this Agreement, shall impair any such right, power or remedy nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any Person hereunder of any breach or default under this Agreement, or any waiver on the part of any Person of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing and signed by the waiving or consenting Person.
+
+  
+
+
+7.6. Severability. If any provision of this Agreement is found to be invalid or unenforceable, then such provision shall be construed, to the extent feasible, so as to render the provision enforceable and to provide for the consummation of the transactions contemplated hereby on substantially the same terms as originally set forth herein, and if no feasible interpretation would save such provision, it shall be severed from the remainder of this Agreement, which shall remain in full force and effect unless the severed provision is essential to the rights or benefits intended by the Parties. In such event, the Parties shall use best efforts to negotiate, in good faith, a substitute, valid and enforceable provision or agreement which most nearly affects the Parties’ intent in entering into this Agreement.
+
+  
+
+
+\- 6 -
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+7.7 Construction. The language used in this Agreement will be deemed to be the language chosen by the Parties to express their mutual intent, and no rules of strict construction will be applied against any Party.
+
+  
+
+
+7.8. Further Assurances. The Parties shall perform such acts, execute and deliver such instruments and documents and do all other such things as may be reasonably necessary to effect the transactions contemplated hereby.
+
+  
+
+
+7.9. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. Execution and delivery of this Agreement by exchange of facsimile copies bearing the facsimile signature of a Party shall constitute a valid and binding execution and delivery of this Agreement by such Party.
+
+  
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+  
+
+
+Purchaser:
+
+  
+
+
+Sign: /s/ Fenglong Xu
+
+Name: Fenglong Xu
+
+  
+
+
+  
+
+
+Purchaser:
+
+  
+
+
+Sign: /s/ Wei Xu
+
+Name: Wei Xu
+
+  
+
+
+  
+
+
+Seller: Crown Union Resources Limited, Ltd.
+
+  
+
+
+Sign: /s/ Joshua Kallan
+
+Name: Joshua Kallan
+
+  
+
+
+  
+
+
+  
+
+
+Acknowledged and agreed to:
+
+  
+
+
+China Education International Inc., as Collateral Agent
+
+  
+
+
+By /s/ Joel Mason
+
+Joel Mason, Chief Executive Officer
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+\- 7 -
+
+* * *
+
+  
+
+
+  
+
+
+APPENDIX A
+
+  
+
+
+CEII Share Allocation
+
+  
+
+
+  
+
+
+Purchaser Name
+
+Condition 1
+
+Condition 2
+
+Condition 3
+
+Total Shares Allocated  
+  
+Fuyi Information Consulting USA Inc.
+
+1,600,000
+
+1,200,000
+
+800,000
+
+3,600,000  
+  
+Wei Xu Management Company Inc.
+
+400,000
+
+-0-
+
+-0-
+
+400,000  
+  
+Half Moon Associates Inc.
+
+400,000
+
+-0-
+
+-0-
+
+400,000  
+  
+Total
+
+2,400,000
+
+1,200,000
+
+800,000
+
+4,400,000  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+APPENDIX B
+
+  
+
+
+Form of Call Exercise Notice
+
+  
+
+
+  
+
+
+Date:______________________
+
+  
+
+
+  
+
+
+Re: Call Option Agreement dated March 31, 2012 (the “Option Agreement”), between Fenglong Xu and Wei Xu (“Purchasers”) and Crown Union Resources Limited (BVI) (“Seller”).
+
+  
+
+
+To: Crown Union Resources Limited
+
+Dear Sirs [________________]:
+
+  
+
+
+In accordance with Section 2.3 of the Option Agreement, Purchaser hereby provides this notice of exercise of the Call Right in the manner specified below:
+
+  
+
+
+(a)
+
+The Purchaser hereby exercises its Call Rights with respect to CEII’s Shares pursuant to the Option Agreement.  
+  
+  
+
+
+(b)
+
+The Purchaser intends that payment of the Call Exercise Price shall be made as a cash exercise and shall pay the sum of $____________ to the Seller.  
+  
+  
+
+
+(c)
+
+Pursuant to this exercise, the Seller shall deliver to Purchaser, CEII’s Shares in accordance with the instructions attached hereto.  
+  
+  
+
+
+  
+
+
+Dated: ____________________
+
+  
+
+
+  
+
+
+By: _________________________________________
+
+  
+
+
+  
+

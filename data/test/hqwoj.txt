@@ -1,0 +1,784 @@
+  
+
+
+
+
+  
+
+
+  
+
+
+THIS EMPLOYMENT AGREEMENT (this “Agreement”), made and entered into as of March 16, 2011, by and between VASOMEDICAL, INC., a Delaware corporation, with its principal office located at 180 Linden Avenue, Westbury, New York 11590 (together with its successors and assigns permitted under this Agreement, “Vasomedical”) and JUN MA residing at 214 Riverside Drive, New York, New York 10025 (“Employee”).
+
+  
+
+
+WITNESSETH:
+
+  
+
+
+WHEREAS, Vasomedical has employed Employee as its Chief Executive Officer and President; and
+
+  
+
+
+WHEREAS, Vasomedical wishes to assure itself of the services of Employee for the period hereinafter provided, and Employee is willing to continue to be employed by Vasomedical for said period, upon the terms and conditions provided in this Agreement;
+
+  
+
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein and for other good and valuable consideration, the receipt of which is mutually acknowledged, Vasomedical and Employee (individually a “Party” and together the “Parties” ) agree as follows:
+
+  
+
+
+1\. 
+
+DEFINITIONS.  
+  
+(a) “Beneficiary” shall mean the person or persons named by Employee pursuant to Section 17 below or, in the event that no such person is named who survives Employee, his estate.
+
+  
+
+
+(b) 
+
+“Board” shall mean the Board of Directors of Vasomedical.  
+  
+  
+
+
+(c) 
+
+“Cause” shall mean:  
+  
+  
+
+
+(i) Employee’s conviction of, or pleading guilty to, a felony or nolo contender to a charge of any felony or of any lesser crime involving fraud or moral turpitude, excluding DWI (or other similar offense);
+
+  
+
+
+(ii) willful refusal of Employee to perform his material duties under this Agreement, resulting in material economic harm to Vasomedical, or
+
+  
+
+
+(iii) a material breach by Employee of the provisions of Sections 14 or 15 of this Agreement.
+
+  
+
+
+* * *
+
+  
+
+
+Notwithstanding the foregoing, no act or failure to act (to the extent curable) shall constitute Cause unless Vasomedical gives Employee written notice after becoming aware of the occurrence of the act or failure to act which Vasomedical believes constitutes the basis for Cause, specifying the particular act or failure to act which Vasomedical believes constitutes the basis for Cause. If Employee fails to cure such act or failure to act within thirty (30) days after receipt of such notice, Employee’s employment shall be deemed terminated for Cause.
+
+Further, any act or failure to act based upon authority given pursuant to a resolution adopted by the Board or based upon the written advice of counsel for Vasomedical shall be conclusively presumed to be done, or omitted to be done, by Employee in good faith and in the best interests of Vasomedical.
+
+  
+
+
+(d) “Change in Control” shall mean the occurrence of any of the following events during the Employment Term:
+
+  
+
+
+(i) any person, or more than one person acting as a group within the meaning of Code Section 409A and the regulations issued thereunder, acquires ownership of stock of Vasomedical that, together with stock held by such person or group, constitutes more than 50 percent of the total fair market value or total voting power of the stock of Vasomedical; provided, however, that for purposes of this subsection (i), the following acquisitions shall not be deemed to result in a Change in Control: (A) any acquisition directly from Vasomedical, (B) any acquisition by Vasomedical or any Affiliate, or (C) any acquisition by (x) any employee benefit plan (or related trust) intended to be qualified under Section 401(a) of the Code or (y) any trust established in connection with any broad-based employee benefit plan sponsored or maintained, in each case, by Vasomedical or any corporation controlled by Vasomedical;
+
+(ii) a majority of the members of the Board is replaced during any 30-month period by directors whose appointment or election is not endorsed by a majority of the members of the Board before the date of the appointment or election, but excluding any new director whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of any individual, entity or group.
+
+  
+
+
+(iii) the consummation of a reorganization, merger, consolidation or similar form of transaction involving Vasomedical or any of its subsidiaries (“Business Combination”); excluding, however, such a Business Combination (A) pursuant to which all or substantially all of the individuals and entities who were the beneficial owners of the Outstanding Vasomedical Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than seventy percent (70%) of the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors of the corporation resulting from such Business combination in substantially the same proportions as their ownership, immediately prior to such Business Combination, of the Outstanding Vasomedical Voting Securities, or (B) effected to implement a recapitalization or reorganization of Vasomedical (or similar transaction) in which no Person acquires more than thirty percent (30%) of the combined voting power of Vasomedical’s then outstanding securities; or
+
+  
+
+
+2
+
+* * *
+
+(iv) a complete liquidation or dissolution of Vasomedical or sale or other disposition of all or substantially all of the assets of Vasomedical, other than to any Subsidiary or any Affiliate.
+
+  
+
+
+Notwithstanding the foregoing, a Change of Control shall not include any event, circumstance or transaction that results from any action of any Person, entity or group which includes, is affiliated with or is wholly or partly controlled by one or more executive officers of Vasomedical and in which Employee participates directly or actively (other than renegotiation of his employment arrangements or in his capacity as an employee of Vasomedical or any successor entity thereto or to the business of Vasomedical).
+
+  
+
+
+(e) “Code” shall mean the Internal Revenue Code of 1986, as amended from time to time.
+
+  
+
+
+(f) “Committee” shall mean the Compensation Committee of the Board.
+
+  
+
+
+(g) “Disability” shall mean the illness or other mental or physical disability of Employee, as determined by a physician acceptable to Vasomedical and Employee, resulting in his failure during the Employment Term to perform substantially his applicable material duties under this Agreement for a period of six consecutive months.
+
+  
+
+
+(h) “Employment Term” shall mean the period specified in Section 2(b) below.
+
+  
+
+
+(i) “Fiscal Year” shall mean the period beginning on June 1 and ending on May 31.
+
+  
+
+
+(j) “Good Reason” shall mean, at any time during the Employment Term, in each case without Employee’s prior written consent.
+
+  
+
+
+(i) reduction in his then current Salary or Bonus percentage; or
+
+  
+
+
+(ii) the relocation of Employee’s own office location more than 35 miles from the current location of Vasomedical;
+
+  
+
+
+(iii) Vasomedical’s failure to pay Employee any amounts otherwise vested and due him under Sections 3, 4 and 5 hereof which breach is not cured within thirty (30) business days after written notification to Vasomedical of such breach; or
+
+  
+
+
+3
+
+* * *
+
+(iv) the failure to appoint Employee Chief Executive Officer or the assignment to Employee of duties materially incompatible with his current title and position or such higher position as may be agreed upon in writing between the parties, which breach is not promptly cured after written notification to Vasomedical of such breach; or
+
+  
+
+
+(v) any material breach of this Agreement by Vasomedical; or
+
+  
+
+
+(vi) a failure of Vasomedical to have any successor assume in writing the obligations under this Agreement.
+
+  
+
+
+(k) “Salary” shall mean the annual salary provided for in Section 3 below, as adjusted from time to time.
+
+  
+
+
+(l) “Spouse” shall mean, during the Term of Employment, the woman who as of any relevant date is legally married to Employee.
+
+  
+
+
+(m) “Subsidiary” shall mean any corporation of which Vasomedical owns, directly or indirectly, more than 50 percent of its voting stock.
+
+  
+
+
+  
+
+
+2\. 
+
+EMPLOYMENT TERM, POSITIONS AND DUTIES.  
+  
+  
+
+
+(a) Employment of Employee. Vasomedical hereby agrees to employ Employee, and Employee hereby accepts employment with Vasomedical, in the positions and with the duties and responsibilities set forth below and upon such other terms and conditions as are hereinafter stated. Employee shall render services to Vasomedical principally at Vasomedical’s corporate headquarters, and shall do such traveling on behalf of Vasomedical as shall be reasonably required in the course of the performance of his duties hereunder.
+
+  
+
+
+(b) Employment Term. Unless earlier terminated under Section 11 hereof, the Employment Term shall commence as of March 15, 2011 (the “Commencement Date”) and shall continue for a three year period, through March 14, 2014.
+
+  
+
+
+(c) Titles and Duties. Until the date of termination of his employment hereunder, Employee shall be employed as Chief Executive Officer, reporting to the Chairman of the Board of Directors. In his capacity as Chief Executive Officer, Employee shall have the customary powers, responsibilities and authorities of such officer of corporations of the size, type and nature of Vasomedical.
+
+  
+
+
+  
+
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+(d) Time and Effort.
+
+  
+
+
+(i) Employee agrees to devote his best efforts and abilities, and his full time and attention, to the affairs of Vasomedical in order to carry out his duties and responsibilities under this Agreement.
+
+  
+
+
+(ii) Notwithstanding the foregoing, nothing shall preclude Employee from (A) being engaged as a faculty member and professor at New York Institute of Technology, (B) serving on the boards of a reasonable number of trade associations, charitable organizations and/or businesses not in competition with Vasomedical, (C) engaging in charitable activities and community affairs and (D) managing his personal investments and affairs; provided, however, that, such activities do not interfere with the proper performance of his duties and responsibilities specified in Section 2 (c) above.
+
+  
+
+
+3\. 
+
+SALARY.  
+  
+  
+
+
+(a) Initial Salary. Employee shall receive from Vasomedical a Salary, payable in accordance with the regular payroll practices of Vasomedical, at the annual rate of $200,000.
+
+  
+
+
+(b) Salary Increase. During the Employment Term, Employee shall be eligible for periodic annual increases in Salary in the sole discretion of the Board of Directors.
+
+  
+
+
+4. STOCK COMPENSATION.
+
+  
+
+
+Employee shall also be entitled to receive as compensation, shares of the Company’s common stock on an annual basis commencing on the effective date of this Agreement in the sole discretion of the Board of Directors.
+
+  
+
+
+5\. 
+
+BONUSES.  
+  
+Discretionary Bonus. Employee shall be eligible to receive a bonus for the Fiscal Year ending on May 31, 2011, and for each Fiscal Year thereafter during the Employment Term. The amount and the occasion for payment of such bonus, if any, shall be determined by the Board of Directors in its sole discretion.
+
+  
+
+
+6\. LONG-TERM INCENTIVE.
+
+  
+
+
+During the Employment Term, Employee shall be eligible for an award under any long-term incentive compensation plan established by Vasomedical for the benefit of Employee or, in the absence thereof, under any such plan that may be established for the benefit of members of the senior management of Vasomedical.
+
+  
+
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+7\. EQUITY GRANTS.
+
+  
+
+
+As a condition to his employment, Employee shall be eligible to receive further grants of options to purchase shares of Vasomedical’s stock and awards of shares of Vasomedical’s stock, either or both as determined by the Board of Directors, under and in accordance with the terms of applicable plans of Vasomedical and related option and award agreements.
+
+  
+
+
+8\. EXPENSE REIMBURSEMENT; CERTAIN OTHER COSTS.
+
+  
+
+
+During the Employment Term, Employee shall be entitled to prompt reimbursement by Vasomedical for all reasonable out-of-pocket expenses incurred by him in performing services under this Agreement.
+
+  
+
+
+9\. PERQUISITES.
+
+  
+
+
+During the Employment Term, Vasomedical shall provide Employee with an office at Vasomedical’s executive offices with secretarial and other assistance.
+
+  
+
+
+10\. EMPLOYEE BENEFIT PLANS.
+
+  
+
+
+(a) General. During the Employment Term, Employee shall be entitled to participate in all employee benefit plans and programs made available to Vasomedical’s senior executives or to its employees generally, as such plans or programs may be in effect from time to time, including, without limitation, pension and other retirement plans, profit-sharing plans, savings and similar plans, group life insurance, accidental death and dismemberment insurance, travel accident insurance, hospitalization insurance, surgical insurance, major and excess major medical insurance, dental insurance, short-term and long-term disability insurance, sick leave (including salary continuation arrangements), holidays, vacation (not less than four weeks in any calendar year) and any other employee benefit plans or programs that may be sponsored by Vasomedical from time to time, including plans that supplement the above-listed types of plans, whether funded or unfunded.
+
+  
+
+
+(b) Medical Care Reimbursement and Insurance. During the Employment Term Vasomedical shall provide Employee and his Spouse, with life insurance, hospitalization insurance, surgical insurance, major and excess major medical insurance and dental insurance in accordance with the most favorable plans, policies, programs and practices of Vasomedical made available generally to other senior executive officers of Vasomedical.
+
+  
+
+
+11\. TERMINATION OF EMPLOYMENT.
+
+  
+
+
+(a) Voluntary Termination and Termination by Mutual Agreement. Employee may terminate his employment voluntarily at any time, on ninety (90) days prior written notice, during the Employment Term. If he does so, except for Good Reason, he shall be entitled to receive only the compensation and benefits specified in Section 11(b) except as otherwise provided in Section 11(g). The Parties may terminate this Agreement by mutual written agreement at any time. If they do so, Employee’s entitlements shall be as the Parties mutually agree.
+
+  
+
+
+6
+
+* * *
+
+(b) General. Except as otherwise set forth in Section 11, in the event of termination of Employee’s employment under this Agreement, he or his Beneficiary, as the case may be, shall be entitled to receive (in addition to payments and benefits under, and except as specifically provided in, subsections (c) through (h) below, as applicable):
+
+  
+
+
+(i) his Salary through the date of termination;
+
+  
+
+
+(ii) any bonus awarded but not yet paid to him;
+
+  
+
+
+(iii) any other compensation or benefits, including without limitation long-term incentive compensation described in Section 6 above, benefits under equity grants and awards described in Section 7 above and employee benefits under plans described in Section 10 above, that have vested through the date of termination or to which he may then be entitled in accordance with the applicable terms and conditions of each grant, award or plan; and
+
+  
+
+
+(iv) reimbursement in accordance with Sections 11(a) and (b) above of any business and medical expenses incurred by Employee or his Spouse, as applicable, through the date of termination but not yet paid to him.
+
+  
+
+
+(c) Termination due to Death. In the event that Employee’s employment is terminated due to his death, his Beneficiary shall be entitled, in addition to the compensation and benefits specified in Section 11(b), to twelve months’ Salary payable in twelve (12) equal monthly increments and commencing on the first payroll period following his death.
+
+  
+
+
+(d) Termination due to Disability. In the event of Disability, Vasomedical or Employee may terminate Employee’s employment. If Employee’s employment is terminated due to Disability, he shall be entitled, in addition to the compensation and benefits specified in Section 11(b), to severance equal to twelve months’ Salary payable in twelve (12) equal monthly installments commencing on the first payroll period following such termination; provided, however, that if and to the extent necessary to avoid the imposition of any taxes imposed under Section 409A of the Code, such twelve (12) months of continued Salary shall be payable over up to twenty four (24) months.
+
+  
+
+
+(e) Termination by Vasomedical for Cause. In the event that Employee’s employment is terminated for Cause, he shall be entitled only to the compensation and benefits specified in Section 11(b).
+
+  
+
+
+(f) Termination by Vasomedical Without Cause or by Employee for Good Reason. Vasomedical may terminate Employee’s employment hereunder without Cause and Employee may terminate his employment hereunder for Good Reason. If, during the Employment Term, Vasomedical terminates Employee’s employment without Cause or Employee terminates his employment for Good Reason, in either such case, other than within two years after a Change in Control, he shall be entitled to receive, subject to the execution and non-revocation of a release and to Employee’s continued compliance with the restrictive covenants contained in Sections 12 and 13, commencing no later than forty-five (45) days after such termination, in addition to the compensation and benefits specified in Section 11(b):
+
+7
+
+* * *
+
+(i) continued Salary for twenty four (24) months payable in twenty four (24) equal monthly installments and commencing as soon as practicable following such termination; provided that in the event the remaining Employment Term is less than 24 months, the Employee shall receive monthly payments for the greater of (a) the remainder of the Employment Term, or (b) 12 months;
+
+(ii) a bonus payment which would have otherwise been paid for the year of termination had Employee’s employment not been terminated, to be paid at such time as such bonus would otherwise have been paid; and
+
+(iii) if Employee (or his beneficiaries) elect continued medical coverage under COBRA, Vasomedical will pay for coverage under COBRA for 18 months following such termination.
+
+(g) Termination by Vasomedical Without Cause or by Employee for Good Reason Within Two Years After a Change in Control. If, during the Employment Term, Vasomedical terminates Employee’s employment without Cause or Employee terminates his employment for Good Reason, in either such case, within two years after a Change in Control, he shall be entitled to receive, subject to the execution and non-revocation of a release and to Employee’s continued compliance with the restrictive covenants contained in Sections 14 and 15, commencing no later than forty-five (45) days after such termination, in addition to the compensation and benefits specified in Section 11 (b):
+
+(i) a lump sum payment, as soon as administratively feasible following such termination, but in any event within ten (10) days thereafter, equal to two and one-half (2.5) times the sum of (A) the Salary (but in no event less than Employee’s Salary in effect immediately prior to the Change in Control) plus (B) the average of the annual bonuses hereof paid to Employee under Section 5 in the three-year period immediately prior to such termination;
+
+(ii) a pro-rata portion of the annual bonus for the most recently completed fiscal year, to be paid as soon as administratively feasible following such termination, but in any event within ten (10) days thereafter; and
+
+8
+
+* * *
+
+(iii) continued medical coverage under Vasomedical’s medical and health plans until the earlier of December 31 of the second calendar year following the year of termination of Employee’s employment or Employee’s commencement of employment with another employer, at the same cost as is paid by similarly situated continuing employees.
+
+(h) Vesting of Equity Upon Certain Terminations. If, during the Employment Term, Vasomedical terminates Employee’s employment without Cause or Employee terminates his employment for Good Reason, in either such case, all unvested options and shares shall vest in full as of the date of termination.
+
+(i) Specified Employee. Notwithstanding any other provision of this Agreement, if (i) Employee is to receive payments or benefits under Section 11 by reason of his separation from service (as such term is defined in Section 409A of the Code) other than as a result of his death, (ii) Employee is a “specified employee” within the meaning of Code Section 409A for the period in which the payment or benefits would otherwise commence, and/or (iii) such payment or benefit would otherwise subject Employee to any tax, interest or penalty imposed under Section 409A of the Code (or any regulation promulgated thereunder) if the payment or benefit would commence within six months of a termination of Employee’s employment, then such payment or benefit required under Section 11 shall not commence until the first day which is at least six months and one day after the termination of Employee’s employment. Each severance installment contemplated under this Section 11 shall be treated as a separate payment in a series of separate payments under Treasury Regulation Section 1.409A-2(b)(2)(iii). Such payments or benefits, together with simple interest calculated at LIBOR as of the date of such separation from service, which would otherwise have been required to be made over such six month period, shall be paid to Employee in one lump sum payment or otherwise provided to Employee as soon as administratively feasible after the first day which is at least six months after the termination of Employee’s employment. Thereafter, the payments and benefits shall continue, if applicable, for the relevant period set forth above. For purposes of this Agreement, all references to “termination of employment” and other similar language shall be deemed to refer to Employee’s “separation from service” as defined in Treasury Regulation Section 1.409A-1(h), including, without limitation, the default presumptions thereof.
+
+  
+
+
+(j) Miscellaneous. For the avoidance of doubt, if applicable, Employee shall only be entitled to receive the payments and benefits provided under Section 11 (f) or 11 (g), which ever is applicable, but not under both such sections.
+
+12.
+
+NO DUTY TO MITIGATE.  
+  
+In the event of a termination of employment under Sections 11 (c), 11 (f) or 11 (g), Employee shall not be required to mitigate damages or the amount of any payment provided for under this Agreement by seeking other employment or otherwise, nor will any payment hereunder be subject to offset in the event Employee does receive compensation for any reason from any other source.
+
+9
+
+* * *
+
+13.
+
+PARACHUTES.  
+  
+Upon a Change in Control during the Employment Term, notwithstanding any other provisions of this Agreement to the contrary, in the event that any payments or benefits received or to be received by Employee in connection with his employment with Vasomedical (or termination thereof) would subject Employee to the excise tax imposed under Section 4999 of the Code (the “Excise Tax”), and if the net-after tax amount (taking into account all applicable taxes payable by Employee, including any Excise Tax) that Employee would receive with respect to such payments or benefits does not exceed the net-after tax amount Employee would receive if the amount of such payment and benefits were reduced to the maximum amount which could otherwise be payable to Employee without the imposition of the Excise Tax, then, to the extent necessary to eliminate the imposition of the Excise Tax, (a) such cash payments and benefits shall first be reduced (if necessary, to zero) and (b) all other non-cash payments and benefits shall next be reduced.
+
+14\. CONFIDENTIAL INFORMATION.
+
+  
+
+
+(a) General.
+
+  
+
+
+(i) Employee understands and hereby acknowledges that as a result of his employment with Vasomedical he will necessarily become informed of and have access to certain valuable and confidential information of Vasomedical and any of its subsidiaries, joint ventures and affiliates, including, without limitation, inventions, trade secrets, technical information, computer software and programs, know-how and plans (“Confidential Information”), and that any such Confidential Information, even though it may be developed or otherwise acquired by Employee, is the exclusive property of Vasomedical to be held by him in trust solely for Vasomedical’s benefit.
+
+  
+
+
+(ii) Accordingly, Employee hereby agrees that, during the Employment Term and subsequent thereto, he shall not, and shall not cause others to, use, reveal, report, publish, transfer or otherwise disclose to any person, corporation or other entity any Confidential Information without prior written consent of the Board, except to (A) responsible officers and employees of Vasomedical or (B) responsible persons who are in a contractual or fiduciary relationship with Vasomedical or who need such information for purposes in the interest of Vasomedical. Notwithstanding, the foregoing, the prohibitions of this clause (ii) shall not apply to any Confidential Information that becomes of general public knowledge other than from Employee or is required to be divulged by court order or administrative process.
+
+  
+
+
+(b) Return of Documents. Upon termination of his Employment Term with Vasomedical for any reason or, if applicable, upon expiration of the Consulting Period, Employee shall promptly deliver to Vasomedical all plans, drawings, manuals, letters, notes, notebooks, reports, computer programs and copies thereof and all other materials, including without limitation those of a secret or confidential nature, relating to Vasomedical’s business that are then in his possession or control.
+
+  
+
+
+10
+
+* * *
+
+(c) Remedies and Sanctions. In the event that Employee is found to be in violation of Section 14(a) or (b) above, Vasomedical shall be entitled to relief as provided in Section 16 below.
+
+  
+
+
+15\. NON-COMPETITION/NON-SOLICITATION.
+
+  
+
+
+(a) Prohibitions. During the Employment Term and for any additional period during which he continues to receive compensation from the Company, Employee shall not, without prior written authorization of the Board, directly or indirectly, through any other individual or entity:  
+
+
+(i) become on officer or employee of, or render any service to, any direct competitor of Vasomedical;
+
+  
+
+
+(ii) solicit or induce any customer of Vasomedical to cease purchasing goods or services from Vasomedical or to become a customer of any competitor of Vasomedical; or
+
+  
+
+
+(iii) solicit or induce any employee of Vasomedical to become employed by any competitor of Vasomedical.
+
+  
+
+
+(b) Remedies and Sanctions. In the event that Employee is found to be in violation of Section 15(a) above, Vasomedical shall be entitled to relief as provided in Section 15 below.
+
+  
+
+
+(c) Exceptions. Notwithstanding anything to the contrary in Section 15(a) above, its provisions shall not:
+
+  
+
+
+(i) apply if Vasomedical terminates Employee’s employment without Cause or Employee terminates his employment for Good Reason or his employment ends because of a Change in Control, each as provided in Section 11(f) or 11(g) above; or
+
+  
+
+
+(ii) be construed as preventing Employee from investing his assets in any business that is not a direct competitor of Vasomedical.
+
+  
+
+
+16\. REMEDIES/SANCTIONS.
+
+  
+
+
+Employee acknowledges that the services he is to render under this Agreement are of a unique and special nature, the loss of which cannot reasonably or adequately be compensated for in monetary damages, and that irreparable injury and damage may result to Vasomedical in the event of any breach of this Agreement or default by Employee. Because of the unique nature of the Confidential Information and the importance of the prohibitions against competition and solicitation, Employee further acknowledges and agrees that Vasomedical will suffer irreparable harm if he fails to comply with his obligations under Section 14(a) or (b) above or Section 15(a) above and that monetary damages would be inadequate to compensate Vasomedical for any such breach. Accordingly, Employee agrees that, in addition to any other remedies available to either Party at law, in equity or otherwise, Vasomedical will be entitled to seek injunctive relief or specific performance to enforce the terms, or prevent or remedy the violation, of any provisions of this Agreement.
+
+  
+
+
+11
+
+* * *
+
+17\. BENEFICIARIES/REFERENCES.
+
+  
+
+
+Employee shall be entitled to select (and change, to the extent permitted under any applicable law) a beneficiary or beneficiaries to receive any compensation or benefit payable under this Agreement following his death by giving Vasomedical written notice thereof. In the event of Employee’s death, or of a judicial determination of his incompetence, reference in this Agreement to Employee shall be deemed to refer, as appropriate, to his beneficiary, estate or other legal representative.
+
+  
+
+
+18\. WITHHOLDING TAXES.
+
+  
+
+
+(a) All payments to Employee or his Beneficiary under this Agreement shall be subject to withholding on account of federal, state and local taxes as required by law.
+
+  
+
+
+19\. INDEMNIFICATION AND LIABILITY INSURANCE.
+
+  
+
+
+Nothing herein is intended to limit Vasomedical’s indemnification of Employee, and Vasomedical shall indemnify him to the fullest extent permitted by applicable law consistent with Vasomedical’s Certificate of Incorporation and By-Laws as in effect at the beginning of the Employment Term, with respect to any action or failure to act on his part while he is an officer, director or employee of Vasomedical or any subsidiary. Vasomedical shall cause Employee to be covered at all times by directors’ and officers’ liability insurance. Vasomedical shall continue to indemnify Employee as provided above and maintain such liability insurance coverage for him for at least three (3) years after the Employment Term for any claims that may be made against him with respect to his service as an officer of Vasomedical.
+
+  
+
+
+20\. EFFECT OF AGREEMENT ON OTHER BENEFITS.
+
+  
+
+
+The existence of this Agreement shall not prohibit or restrict Employee’s entitlement to participate fully in compensation, employee benefit and other plans of Vasomedical in which senior executives are eligible to participate.
+
+  
+
+
+21\. ASSIGNABILITY; BINDING NATURE.
+
+  
+
+
+This Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors, heirs (in the case of Employee) and assigns. No rights or obligations of Vasomedical under this Agreement may be assigned or transferred by Vasomedical except pursuant to (a) a merger or consolidation in which Vasomedical is not the continuing entity or (b) sale or liquidation of all or substantially all of the assets of Vasomedical, provided that the surviving entity or assignee or transferee is the successor to all or substantially all of the assets of Vasomedical and such surviving entity or assignee or transferee assumes the liabilities, obligations and duties of Vasomedical under this Agreement, either contractually or as a matter of law.
+
+  
+
+
+12
+
+* * *
+
+Vasomedical further agrees that, in the event of a sale of assets or liquidation as described in the preceding sentence, it shall use reasonable commercial efforts to have such assignee or transferee expressly agree to assume the liabilities, obligations and duties of Vasomedical hereunder; provided, however, that notwithstanding such assumption, Vasomedical shall remain liable and responsible for fulfillment of the terms and conditions of this Agreement; and provided, further, that in no event shall such assignment and assumption of this Agreement adversely affect Employee’s right upon a Change in Control, as provided in Section 11(g) above. No rights or obligations of Employee under this Agreement may be assigned or transferred by him.
+
+  
+
+
+22\. REPRESENTATIONS.
+
+  
+
+
+The Parties respectively represent and warrant that each is fully authorized and empowered to enter into this Agreement and that the performance of its or his obligations, as the case may be, under this Agreement will not violate any agreement between such Party and any other person, firm or organization. Vasomedical represents and warrants that this Agreement has been duly authorized by all necessary corporate action and is valid, binding and enforceable in accordance with its terms.
+
+  
+
+
+23\. ENTIRE AGREEMENT.
+
+  
+
+
+Except to the extent otherwise provided herein, this Agreement contains the entire understanding and agreement between the Parties concerning the subject matter hereof and supersedes any prior agreements, whether written or oral, between the Parties concerning the subject matter hereof. Payments and benefits provided under this Agreement are in lieu of any payments or other benefits under any severance program or policy of Vasomedical to which Employee would otherwise be entitled.
+
+  
+
+
+24\. AMENDMENT OR WAIVER.
+
+  
+
+
+No provision in this Agreement may be amended unless such amendment is agreed to in writing and signed by both Employee and an authorized officer of Vasomedical. No waiver by either Party of any breach by the other Party of any condition or provision contained in this Agreement to be performed by such other Party shall be deemed a waiver of a similar or dissimilar condition or provision at the same or any prior or subsequent time. Any waiver must be in writing and signed by the Party to be charged with the waiver. No delay by either Party in exercising any right, power or privilege hereunder shall operate as a waiver thereof.
+
+  
+
+
+13
+
+* * *
+
+  
+
+
+25\. SEVERABILITY.
+
+  
+
+
+In the event that any provision or portion of this Agreement shall be determined to be invalid or unenforceable for any reason, in whole or in part, the remaining provisions of this Agreement shall be unaffected thereby and shall remain in full force and effect to the fullest extent permitted by law.
+
+  
+
+
+26\. SURVIVAL.
+
+  
+
+
+The respective rights and obligations of the Parties under this Agreement shall survive any termination of Employee’s employment with Vasomedical.
+
+  
+
+
+27\. GOVERNING LAW/JURISDICTION.
+
+  
+
+
+This Agreement shall be governed by and construed and interpreted in accordance with the laws of New York, without reference to principles of conflict of laws.
+
+  
+
+
+28\. NOTICES.
+
+  
+
+
+Any notice given to either Party shall be in writing and shall be deemed to have been given when delivered either personally, by fax, by overnight delivery service (such as Federal Express) or sent by certified or registered mail postage prepaid, return receipt requested, duly addressed to the Party concerned at the address indicated below or to such changed address as the Party may subsequently give notice of.
+
+  
+
+
+If to Vasomedical:
+
+  
+
+
+Vasomedical, Inc.
+
+180 Linden Avenue
+
+Westbury, New York 11590
+
+Fax No. 516-997-2299
+
+Attn: Jonathan Newton, CFO
+
+  
+
+
+With a copy to:
+
+Beckman, Lieberman & Barandes, LLP
+
+270N Duffy Avenue
+
+Hicksville, New York 11801
+
+Fax No. 516-
+
+Attn: David H. Lieberman, Esq.
+
+  
+
+
+If to Employee:
+
+Jun Ma
+
+214 Riverside Drive
+
+New York, New York 10025
+
+  
+
+
+  
+
+
+14
+
+* * *
+
+29\. HEADINGS.
+
+  
+
+
+The headings of the sections contained in this Agreement are for convenience only and shall not be deemed to control or affect the meaning or construction of any provision of this Agreement.
+
+  
+
+
+30. COUNTERPARTS.
+
+  
+
+
+This Agreement may be executed in counterparts, each of which when so executed and delivered shall be an original, but all such counterparts together shall constitute one and the same instrument.
+
+  
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Agreement as of March 21, 2011.
+
+VASOMEDICAL, INC.
+
+  
+
+
+By: /s/ David Lieberman
+
+David Lieberman, Vice Chairman
+
+  
+
+
+EMPLOYEE
+
+  
+
+
+  
+
+
+/s/ Jun Ma
+
+Jun Ma  
+
+
+15
+
+* * *
+
+  
+

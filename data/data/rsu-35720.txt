@@ -1,0 +1,728 @@
+* * *
+
+* * *
+
+Exhibit 10.21
+
+
+
+期权协议
+
+  
+
+
+This OPTION AGREEMENT (this “Agreement”) is made and entered into as of May 31, 2011 (the “Effective Date”), between Xingbiao Lin, Qiming Weng, Qiude Chen, residents of the People’s Republic of China (“Purchaser”) and Crown Union Resources Limited , a British Virgin Islands company (“Seller”). Purchaser and Seller are also referred to herein together as the “Parties” and individually as a “Party”.
+
+本期权协议（“本协议”）于 2011年5月31日（“生效日期”）在林性标,翁其名,陈秋德之间订立,订立方分别为中华人民共和国居民（“买方”）和Crown Union Resources Limited,英国维尔京群岛注册的一家公司（“卖方”）。本协议中的买方和卖方统称为“双方”或分别称为“一方”。
+
+  
+
+
+RECITALS 叙述条款
+
+  
+
+
+WHEREAS, pursuant to a Call Option Agreement, dated as of the date hereof, among China Education Schools Co., Ltd., a British Virgin Islands company (the “Company”) and the shareholder of Pingtan Lanhua Middle & High School, a Chinese company (“Lanhua”) (the “Call Option Agreement”), the Company has the right to acquire 100% of the equity interests of Lanhua;
+
+鉴于,根据认购期权协议,签署日期为协议中注明日期,China Education Schools Co., Ltd.一家英国维尔京群岛公司（以下简称“本公司”）和平潭岚华中学的股东,一家中国公司（简称“岚华”）（简称“认购期权协议”）,本公司有权收购岚华100％股权;
+
+  
+
+
+WHEREAS, pursuant to the Exclusive Cooperation Agreement, dated as of the date hereof, between Hangzhou Kunjiang Education Technology Co., Ltd., a Chinese company (“Hangzhou Education”) and Lanhua (the “Cooperation Agreement”), Hangzhou Education has the right to manage the operations of Lanhua;
+
+鉴于,根据独家合作协议,签署日期为协议中注明日期,由杭州坤江教育科技有限公司,一家中国公司（“杭州教育”）和岚华共同签署（以下简称“合作协议”）,杭州教育有权管理岚华的运作;
+
+  
+
+
+WHEREAS, pursuant to the Share Pledge Agreement, dated as of the date hereof, between the Company and the shareholders of Lanhua (the “Pledge Agreement”), the Company has the right to control the shares of Lanhua;
+
+鉴于,根据股?ㄖ恃汉贤?签署日期已于协议中注明,由本公司与岚华股东共同签署（“质押协议”）,本公司对岚华的股份有控制权;
+
+\- 1 -
+
+* * *
+
+  
+
+
+The Call Option Agreement, the Cooperation Agreement and the Pledge Agreement are collectively hereinafter referred to as the “School Agreements”; and
+
+认购期权协议,合作协议和股权质押合同一并简称“学校协议”;及
+
+  
+
+
+WHEREAS, Purchaser has agreed with Seller, as a condition to its entering into the School Agreements and to transfer Purchaser’s ownership interest in Lanhua pursuant to the terms of the Call Option Agreement; and
+
+鉴于,买方与卖方已同意,将认购期权协议中的条款作为其签订学校协议和转让岚华股份的条件；
+
+  
+
+
+WHEREAS, Seller has the right to receive 3,600,000 shares of China Education International Inc., a Nevada Corporation (“CEII”) $0.001 par value per share common stock (“Common Stock”) as additional consideration under the School Agreements and therefore, has determined that it is in Seller’s best interest to, and will receive benefits from the School Agreements and Lanhua’s operational performance as set forth in the conditions included in section 1.1 of this Agreement and Seller or its affiliates entered into the School Agreements based on the possibility of such benefits; and
+
+鉴于,卖方有权获得China Education International Inc.的3,600,000股股权,China Education International Inc.是美国内华达州注册的公司（股票代码“CEII”）,在学校协议中以每股$ 0.001普通股面值为额外代价（“普通股”）,以此确定卖方获得最佳利益,并将从学校协议及岚华的经营业绩中获利,一如在本协议第1.1条中?娑ǖ奶跫?卖方及其关联公司鉴于获取此福利可能性的基础上签署了学校协议。而且,
+
+  
+
+
+WHEREAS, Seller desires to grant to Purchaser an option to acquire a total of 3,600,000 shares of the CEII’s Common Stock it owns (the “CEII Shares”) pursuant to the terms and conditions set forth in this Agreement. Each Purchaser shall have the option to purchase the number of CEII Shares set forth their respective names as set forth on Appendix A to this Agreement.
+
+鉴于,根据本协议的条款,卖方给予买方获得CEII普通股股票共计3,600,000股,每个买方将根据本协议附件A中列于其名下的股票数购买CEII股票。
+
+  
+
+
+NOW, THEREFORE, the Parties, in consideration of the foregoing premises and the terms, covenants and conditions set forth below, and other good and valuable consideration, receipt of which is acknowledged, hereby agree as follows:
+
+因此,在上述前提和条件下,以及前面提到的契诺及条款,和其他有价值的考虑,双方达成以下协议;
+
+\- 2 -
+
+* * *
+
+1\. DEFINITIONS; INTERPRETATION.
+
+1. 定义；解释
+
+  
+
+
+1.1. Terms Defined in this Agreement. The following terms when used in this Agreement shall have the following definitions:
+
+本协议所定义的条款。下面的条款在本协议下应有如下定义：
+
+  
+
+
+“Bankruptcy Law” means any Law of any jurisdiction relating to bankruptcy, insolvency, corporate reorganization, company arrangement, civil rehabilitation, special liquidation, moratorium, readjustment of debt, appointment of a conservator, trustee or receiver, or similar debtor relief.
+
+“破产法”定义为任何与破产倒闭,无力偿还,企业重组,公司整顿,民事再生,特别清算,延?诔ジ?调整债务,管理员任命,委托人或破产管理官,或类似的债务减免。
+
+  
+
+
+  
+
+
+“Business Day” means any day on which commercial banks are required to be open in the United States.
+
+“工作日”以美国商业银行开业运营的日子为准；
+
+  
+
+
+“Call Price” means, with respect to any exercise of the Call Right, $0.001 per share of the CEII Shares subject to any Call Exercise Notice.
+
+“期权价格”是指关于任何期权的行使,受股权行使通知要求,CEII股价为每股 $ 0.001.
+
+  
+
+
+“Conditions” means Conditions 1 through 3, as defined below, in the aggregate.
+
+“条件”是指以下定义的条件1至条件3：
+
+  
+
+
+“Condition 1” means the entry by Purchaser, the Company and Lanhua into the School Agreements.
+
+“条件1”是指由买方,本公司,和岚华签署学校协议；
+
+  
+
+
+“Condition 2” means Lanhua achieving not less than $2,000,000 in Gross Revenues, as determined under United States Generally Accepted Accounting Principles consistently applied (“US GAAP”) for any consecutive 12 months during the period from July 1, 2011 through June 30, 2013.
+
+“条件2”是指根据美国公认会计准则从2011年7月1日到2013年6月30日的规定,岚华的收入总额不低于$2,000,000。
+
+  
+
+
+\- 3 -
+
+* * *
+
+“Condition 3” means Lanhua achieving not less than $1,000,000 in pre-tax profits, as determined under US GAAP for any consecutive 12 months during the period from July 1, 2011 through June 30, 2013
+
+“条件3” 根据美国公认会计准则从2011年7月1日到2013年6月30日的规定,岚华的税前利润不少于$1,000,000
+
+  
+
+
+“Government Authority” means any: (a) nation, principality, state, commonwealth, province, territory, county, municipality, district or other jurisdiction of any nature; (b) federal, state, local, municipal, foreign or other government; (c) governmental or quasi governmental authority of any nature (including any governmental division, subdivision, department, agency, bureau, branch, office, commission, council, board, instrumentality, officer, official, representative, organization, unit, body or Person and any court or other tribunal); or (d) individual, Person or body exercising, or entitled to exercise, any executive, legislative, judicial, administrative, regulatory, police, military or taxing authority or power of any nature.
+
+“政府机关“是指任何：（一）国家,公国,州,联邦,省,地区,县,市,区或其他任何性质的司法管辖区;（二）联邦,州,地方,市,外国或其他政府;（三）政府或任何性质的准政府权力（包括任何政府分工,细分,部门,机构,局,科,办公室,委员会,理事会,董事会,工具,人员,官员,代表,组织,单位,机构或个人和任何法院或其他法庭）;或（d）个人,个人或机构行使,或有权行使,任何行政,立法,司法,行政,管理,警察,军人或税务机关或任何性质的权力。
+
+“Law” means any federal, state, local, municipal, foreign or other law, statute, legislation, constitution, principle of common law, resolution, ordinance, code, order, edict, decree, proclamation, treaty, convention, rule, regulation, permit, ruling, directive, pronouncement, requirement (licensing or otherwise), specification, determination, decision, opinion or interpretation that is, has been or may in the future be issued, enacted, adopted, passed, approved, promulgated, made, implemented or otherwise put into effect by or under the authority of any Government Authority.
+
+“法律“是指任何联邦,州,地方,市,外国或其他法律,法规,立法,宪法,普通法,决议,条例,代码,命令,法令,法令,文告,条约,公约,法规,规章的原则,许可,裁决,指令,宣告,要求（许可或其他方式）,规格,规定,决定,意见或解释,已经或可能在将来发行,制定,通过,通过,批准,颁布,制造,实施或在任何政府部门的权威下付诸实施。
+
+“Person” means any individual, firm, company, corporation, limited liability company, unincorporated association, partnership, trust, joint venture, governmental authority or other entity, and shall include any successor (by merger or otherwise) of such entity.
+
+“个人”指任何个人,事务所、公司、企业、有限公司、非法人组织、合伙公司、信托、合资企业、政府部门或其他实体,包括这些实体（通过合并或其他方式成为）的任何继任者。
+
+  
+
+
+\- 4 -
+
+* * *
+
+1.2. Interpretation.
+
+1.2. 解读
+
+  
+
+
+(a) Certain Terms. The words “hereof,” “herein,” “hereunder” and similar words refer to this Agreement as a whole and not to any particular provision of this Agreement. The term “including” is not limited and means “including without limitation.”
+
+(a) 某些条款。词语“就此”?ⅰ按酥小薄ⅰ耙韵隆焙推渌嗨频拇视镏副拘榈娜?不指本协议中任何个别单独条款。“包括”一词指“包括但不限于”。
+
+  
+
+
+(b) Section References; Titles and Subtitles. Unless otherwise noted, all references to Sections herein are to Sections of this Agreement. The titles, captions and headings of this Agreement are inserted for convenience of reference only and are not intended to be a part of or to affect the meaning or interpretation of this Agreement.
+
+(b) 除非另有说明,章节参照、题目和副题目,全部章节参照指本协议中的条款章节。此协议中所有题目、标题和标签只作为参照用途,对于此协议的含义和解读不起任何影响
+
+  
+
+
+(c) Reference to Entities, Agreements, Statutes. Unless otherwise expressly provided herein, (i) references to a Person include its successors and permitted assigns, (ii) references to agreements (including this Agreement) and other contractual instruments shall be deemed to include all subsequent amendments, restatements and other modifications thereto or supplements thereof and (iii) references to any statute or regulation are to be construed as including all statutory and regulatory provisions consolidating, amending, replacing, supplementing or interpreting such statute or regulation.
+
+(c) 除非另有明文规定,所有参照的实体、协议、章程, (i) 指个人时包括其继承人和授权的受让人, (ii) 指协议（包括本协议）和其他合同文书时包括所有后续的修订、重述 和其他修改或补充及 (iii) 指任何章程和条例时包括章程和条例的所有合并、修改、跟换、补充或解释。
+
+  
+
+
+2\. CALL RIGHT.
+
+2\. 认购期权
+
+  
+
+
+2.1. Call Right.
+
+2.1. 认购期权
+
+  
+
+
+\- 5 -
+
+* * *
+
+(a) Purchaser shall have, during the Exercise Period (as defined below), and when a Condition is met, the right and option to purchase from the Seller, and upon the exercise of such right and option the Seller shall have the obligation to sell to Purchaser, a portion of the CEII Shares identified in the Call Exercise Notice (the “Call Right”). Purchaser shall be permitted to purchase, and Seller shall be obligated to sell, the following numbers of CEII Shares upon the attainment of the following Conditions:
+
+(a) 购买者在履行期中（如以下解释）,在达到条件的情况下,有权利选择从卖家处购买,并卖家在购买者运用其认购权的情况下也有义务出售给购买者,认购权限通知（“认购权”）中所确定的CEII部分股份。在达到下列条件的情况下,购买者有权认购并卖家也有义务出售以下所写的股票数量：
+
+  
+
+
+Condition Number of CEII Shares as to which there is a Call Right
+
+条件  有认购权的CEII股份
+
+Condition 1  2,000,000 Shares
+
+Condition 2  1,000,000 Shares
+
+Condition 3  600,000 Shares
+
+  
+
+
+条件1  2,000,000股股票；
+
+条件2  1,000,000股股票
+
+条件3  600,000股股票
+
+(b) The number of shares of CEII may purchase from Seller was determined based on the projected income of Lanhua for the 12 month period commencing on July 1, 2011 which amount is $1,000,000 as set forth in Condition 3 (the “Income Target”). The number of CEII Shares shall be reduced by 1 share for each $1.00 that the Income Target exceeds the actual income for Lanhua during any 12 month consecutive period from July 1, 2011 through June 30, 2013 as computed in accordance with U.S. GAAP, and the number of Call Option Shares so reduced shall be returned to CEII for cancellation.
+
+(b) CEII可以认购的股份数量的计算是基于岚华从2011年7月1日起的12个月的收入目标是$1,000,000,如条件3所述。在收入目标期间,如果岚华在从2011年7月1日到2013年6月30日任何一个连续12个月期间的实际收入依照美国公认会计原则（GAAP）计算低于收入目标,每少$1.00,CEII股票数量应该减少1股,减少的认股数量应该交还公司注销。
+
+  
+
+
+\- 6 -
+
+* * *
+
+2.2. Call Period. The Call Right shall be exercisable by Purchaser, by delivering a Call Exercise Notice at any time during the period (the “Exercise Period”) commencing on the date hereof and ending at 6:30 p.m. (New York time) on the fifth anniversary date hereof (such date or the earlier expiration of the Call Right is referred to herein as the “Expiration Date”).
+
+2.2认股期。购买者可以在此期间任何时候以行使认股权（“行使期”）,从此协议生效日起到生效日的第五周年的纽约时间6：30PM为止（此日期或任何提早结束日期为“到期日”）。
+
+  
+
+
+2.3. Exercise Process. In order to exercise the Call Right during the Exercise Period, Purchaser shall deliver to the Seller, a written notice of such exercise substantially in the form attached hereto as Appendix B (a “Call Exercise Notice”) to such address or facsimile number set forth therein. The Call Exercise Notice shall indicate the number of CEII Shares as to which Purchaser is then exercising its Call Right and the aggregate Call Price. Provided the Call Exercise Notice is delivered in accordance with Section 7.4 to Seller on or prior to 6:30 p.m. (New York time) on a Business Day, the date of exercise (the “Exercise Date”) of the Call Right shall be the date of such delivery of such Call Exercise Notice. In the event the Call Exercise Notice is delivered after 6:30 p.m. (U.S. Pacific time) on any day or on a date which is not a Business Day, the Exercise Date shall be deemed to be the first Business Day after the date of such delivery of such Call Exercise Notice. The delivery of a Call Exercise Notice in accordance herewith shall constitute a binding obligation (a) on the part of Purchaser to purchase, and (b) on the part of Seller to sell, the CEII Shares subject to such Call Exercise Notice in accordance with the terms of this Agreement.
+
+2.3 行使程序。 在行使期中行使认股权,购买者因该向按照附录B的形式卖家发出书面通知（“认股权行使通知”）到此协议中指定地址或传真号码。认股权行使通知中应指明购买者行使的CEII认股股数和合计行使价钱。认股权行使通知应该按照7.4条中指定的形式交予卖家,如果送达时间是纽约时间6：30PM之前,行使日期（“行使日期”）为通知送达卖家当日。如果送达时间是纽约时间6：30PM之后,或者是在非工作日内,行使日期为认股权行使通知送达之后的第一个工作日。按照此协议所送达的认股权行使通知将构成法律约束（a）对于购买者,必须购买,和（b）对于卖家,必须卖,认股权行使通知中按照本协议指定格式指定的CEII股票数目。
+
+2.4. Call Price. If the Call Right is exercised pursuant to this Section 2, as payment for the CEII Shares being purchased by Purchaser pursuant to the Call Right, Purchaser shall pay the aggregate Call Price to the Seller (but no later than fifteen (15) Business Days of the Exercise Date).
+
+2.4 认购价格。如果认购权按照第2条行使,作为购买者按照认购权购买CEII股份的付款,购买者因该支付给卖家行使价钱合计总数（在行使日期后的十五（15）天内）。
+
+  
+
+
+3\. ENCUMBRANCES; TRANSFERS, SET-OFF AND WITHHOLDINGS.
+
+3\. 产权负担、转让、抵消和扣缴。
+
+\- 7 -
+
+* * *
+
+3.1. Encumbrances. Upon exercise of the Call Right, CEII Shares being purchased shall be sold, transferred and delivered to Purchaser free and clear of any claim, pledge, charge, lien, preemptive rights, restrictions on transfers (except as required by securities laws of the United States), proxies, voting agreements and any other encumbrance whatsoever.
+
+3.1 产权负担.行使认购权后,所购买的CEII股份因出售、转让并交付于购买者,并且不含任何其他权益、质押、抵押、留置权、优先认购权、对转让的限制（除了美国证券法中所要求的）、代理、投票协议或任何其他产权负担的责任。
+
+  
+
+
+3.2 Transfers. Prior to the Expiration Date, Seller shall continue to own, free and clear of any hypothecation, pledge, mortgage or other encumbrance, except pursuant to this Agreement and except for the benefit of the Purchaser, such amount of the CEII Shares as may be required from time to time to in order for Purchaser to exercise its Call Right in full.
+
+3.2转让。在过期日前,卖家将持续拥有,除了此协议中指定或由于购买者利益以外不含任何抵押、质押或其他产权负担,不时为行使其认股权所需的某个数量的CEII股份。
+
+  
+
+
+3.3 Escrow of CEII Shares.
+
+3.3 CEII股票代理
+
+  
+
+
+(a) Upon execution of this Agreement, Seller shall deliver to CEII, as Collateral Agent (the “Collateral Agent”), a certificate or certificates representing CEII Shares. The certificates representing the CEII Shares (together with duly executed stock powers in blank) shall be held by the Collateral Agent.
+
+(a) 当执行本协议时,卖方应交付CEII的股份证书给CEII。 CEII的股份证书将会被作为抵押品。
+
+(b) Upon receipt of a Call Exercise Notice, the Collateral Agent shall promptly deliver the CEII Shares being purchased pursuant to such Call Exercise Notice in accordance with the instructions set forth therein. In the event that the Collateral Agent shall receive notice from the Parties that the Conditions have not been met, the CEII Shares shall be distributed in accordance with their instructions.
+
+(b) 得到认购期权行使通知后,抵押品的代理商应依照认购期权行使通知的说明来及时交付所购买的CEII股份。
+
+  
+
+
+4\. REPRESENTATIONS AND WARRANTIES.
+
+4\. 代表和保证
+
+\- 8 -
+
+* * *
+
+4.1. Representations and Warranties by Seller. Seller represents and warrants to Purchaser, that:
+
+4.1. 卖方的陈述和保证。卖方对买方的陈诉和保证；
+
+(a) Due Authorization. The execution and delivery of this Agreement and the consummation of the transactions contemplated hereunder to be carried out by it have been duly authorized by all necessary action on the part of Seller. This Agreement, and all agreements and documents executed and delivered pursuant to this Agreement, constitute valid and binding obligations of Seller, enforceable against Seller in accordance with its terms, subject to applicable Bankruptcy Laws and other laws or equitable principles of general application affecting the rights of creditors generally.
+
+(a) 授权。 本协议的执行和交付还有交易的完成依此进行,并已经从卖方的行动得到了正式完全的授权。本协议和所有依照本协议执行和交付的协议和文件,构成对卖方按照本协议条款规定的义务的法律约束,受相应的破产法和其他能影响到债权人权利的法律或普遍的公平原则约束。
+
+  
+
+
+(b) No Conflicts. The execution or delivery of this Agreement by Seller nor the fulfillment or compliance by Seller with any of the terms hereof shall, with or without the giving of notice and/or the passage of time, (i) conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under any contract or any judgment, decree or order to which Seller is subject or by which the Seller is bound, or (ii) require any consent, license, permit, authorization, approval or other action by any Person or Government Authority which has not yet been obtained or received. The execution, delivery and performance of this Agreement by Seller or compliance with the provisions hereof by the Seller does not, and shall not, violate any provision of any Law to which the Seller is subject or by which Seller is bound.
+
+(b) 无抵触。本协议卖方执行或交付还有卖方达成或遵守的条款,有/没有发布通知和/或随着时间的推移(i)发生冲突,或违反条款,条件或规定,或构成各种与卖家有义务相连的合同,判决或法令的违约,或(ii) 要求未得到的同意书,牌照,许可证,授权,和个人或政府批准证。
+
+(c) No Actions. There are no lawsuits, actions (or to the best knowledge of Seller, investigations), claims or demands or other proceedings pending or, to the best of the knowledge of Seller, threatened against the Seller which, if resolved in a manner adverse to the Seller, would adversely affect the right or ability of the Seller to carry out Seller’s obligations set forth in this Agreement.
+
+(c) 无诉讼。没有法律诉讼（就卖方所知,调查）,索赔或需求,或其他未决和对卖方有威胁的诉讼,如果解决对卖方不利,会严重影响卖方执行义务的能力。  
+
+
+\- 9 -
+
+* * *
+
+(d) Title. Seller owns the CEII Shares free and clear of any claim, pledge, charge, lien, preemptive rights, restrictions on transfers, proxies, voting agreements and any other encumbrance whatsoever, except as contemplated by this Agreement. The Seller has not entered into or is a party to any agreement that would cause the Seller to not own CEII Shares free an clean of any encumbrance, except as contemplated by this Agreement.
+
+(d) 所有权。卖方所拥有的股份没有受到任何索赔,质押,抵押,留置权,优先认购权,对转让,代理,投票协议和任何其他产权负担,除了本协议里已讨论过的事件。 ?舴矫挥凶约夯蛴氲谌揭黄鸾胄槭沟寐艏也辉谟涤姓胶兔桓旱５?FONT style="DISPLAY: inline; FONT-FAMILY: Times New Roman">CEII股权。
+
+4.2 Representations and Warranties by Purchaser. Purchaser represents and warrants to the Sellers, that:
+
+4.2. 买方的陈述与保证。买方对卖方代表和保证；
+
+(a) Due Authorization. The execution and delivery of this Agreement and the consummation of the transactions contemplated hereunder to be carried out by it have been duly authorized by all necessary action on the part of Purchaser. This Agreement, and all agreements and documents executed and delivered pursuant to this Agreement, constitute valid and binding obligations of Purchaser, enforceable against Purchaser in accordance with its terms, subject to applicable Bankruptcy Laws and other laws or equitable principles of general application affecting the rights of creditors generally.
+
+(a) 授权。 本协议的执行和交付还有交易的完成已经从买方的行动得到了?绞谌ā１拘楹退幸?照本协议执行和交付的协议和文?构成了买方有效和有约束力的义务,对买方实施其条款规定,受相应破产法和其他能影响到债权人权利的法律或普遍的公平原则。
+
+(b) No Conflicts. The execution or delivery of this Agreement by Purchaser nor the fulfillment or compliance by Purchaser with any of the terms hereof shall, with or without the giving of notice and/or the passage of time, (i) conflict with, or result in a breach of the terms, conditions or provisions of, or constitute a default under any contract or any judgment, decree or order to which Purchaser is subject or by which Purchaser is bound, or (ii) require any consent, license, permit, authorization, approval or other action by any Person or Government Authority which has not yet been obtained or received. The execution, delivery and performance of this Agreement by Purchaser or compliance with the provisions hereof by Purchaser does not, and shall not, violate any provision of any Law to which Purchaser is subject or by which Purchaser is bound.
+
+(b) 无抵触。?拘槁蚍街葱谢蚪桓痘褂新蚍酱锍苫蜃袷氐奶蹩畈挥?在有或没有发布通知的情况下,和/或随着时间的推移(i) 发生冲突,或违反条款,条件或规定,或构成各种与卖家有义务相连的合同,判决或法令的违约,或(ii) 要求未曾得到的同意书,牌照,许可证,授权,和个人或政府批准证。买方不能够违反对他有约束的法律规定来执行, 交付, 或履行协议。
+
+\- 10 -
+
+* * *
+
+(c) No Actions. There are no lawsuits, actions (or to the best knowledge of Purchaser, investigations), claims or demands or other proceedings pending or, to the best of the knowledge of Purchaser, threatened against Purchaser which, if resolved in a manner adverse to Purchaser, would adversely affect the right or ability of Purchaser to carry out Purchaser’s obligations set forth in this Agreement.
+
+(c) 无法律行动。 据买方所知,并无没有任何法律诉讼,法律行动,索赔要求或其他未解决的法律纠纷。据买方所了解的情况如果对买方的威胁的解决方式对买方不利,会严重影响买方依据本协议条款执行义务的能力。
+
+5\. EVENTS OF DEFAULT AND TERMINATION
+
+5\. 违约和终止事件
+
+  
+
+
+5.1 Events of Default. The occurrence at any time with respect to a Party (the “Defaulting Party”) of any of the following events shall constitute an event of default (an “Event of Default”) with respect to such party:
+
+5.1违约事件。任何一方在任何时间（“违约方“）发生任何下列情形之一就构成违约事件（“违约事件“）。
+
+  
+
+
+(a) Failure to Pay or Deliver. The failure by a Party to make, when due, any payment under this Agreement or deliver the CEII Shares in accordance with this Agreement, if such failure is not remedied on or before the third Business Day after notice of such failure is given to the Defaulting Party;
+
+(a) 未支付或交付。在到期时有一方没有按照协议制定来支付或交付CEII股份,如果这种情况在三个工作日内没有得到纠正,违约通知将会被送到违约方
+
+  
+
+
+(b) Breach of Agreement. The failure by a Party to comply with or perform any agreement, covenant or obligation (other than a failure described in Section 5.1(a)) to be complied with or performed by such Party in accordance with this Agreement if such failure is not remedied on or before the tenth Business Day after notice of such failure is given to the Defaulting Party; or
+
+(b) 违反协议。不遵守或不执行任何协议,合同或义务（除了在章节5.1(a)描述过的违反协议）的一方必须在收到违约通知书十天之内改正
+
+\- 11 -
+
+* * *
+
+(c) Bankruptcy. A Party (1) becomes insolvent or is unable to pay its debts or fails or admits in writing its inability generally to pay its debts as they become due; (2) makes a general assignment, arrangement or composition with or for the benefit of its creditors; (3) institutes or has instituted against it a proceeding seeking a judgment of insolvency or bankruptcy or any relief under any Bankruptcy Law, or a petition is presented for its winding-up or liquidation, and in the case of any such proceeding or petition instituted or presented against it, such proceeding or petition (A) results in a judgment of insolvency or bankruptcy or the entry of an order for relief or the making of an order for its winding-up or liquidation or (B) is not dismissed, discharged, stayed or restrained in each case within 30 days of the institution or presentation thereof; (4) has a secured party take possession of all or substantially all its assets or has a distress, execution, attachment, sequestration or other legal process levied, enforced or sued on or against all or substantially all its assets and such secured party maintains possession, or any such process is not dismissed, discharged, stayed or rescinded, in each case within 30 days thereafter; or (5) takes any action in furtherance of, or indicating its consent to, approval of, or acquiescence in, any of the foregoing acts.
+
+(c) 破产事件。一方(1)破产或不能够支付债务,或以书面形式承认无力偿还到期的债务。(2)与/给债权人的利益作出总体的分配,安排或组合。(3) 制定根据破产法的破产判决,或清盘申诉书,并在被诉讼的情况下,该诉讼程序或申诉(A) 审判结果为无力偿还或破产判决或申请经济救助或强制清盘,或(B) 在诉讼的30天内没有被解散,解除,停留,受限制。(4) 有担保方负责全部或大部分资产,有扣押,执行,附件或其他附加的法律文件,强迫执行或起诉所有/大多数资产并且担保方保持产权,或任何这样的过程是不解散,解除,搁置或取消,在每一个案件后30天之内;或(5)采取任何行动, 或表明同意,批准,默许,以上的情况。
+
+5.2 Termination and Remedies Upon Default. If at any time an Event of Default with respect to a Party has occurred and is continuing, the other party may terminate this Agreement and deem the Expiration Date to have occurred by giving written notice to the Defaulting Party specifying the relevant Event of Default. In no event shall the Party exercising its right under this Section be precluded by the exercise of such termination right from pursuing, subject to the terms of this Agreement and applicable law, any cause of action or other claim it may then or at any time thereafter have against the other Party in respect of any Event of Default by the other Party hereunder including the remedy of specific performance.
+
+5．2 违约赔偿和协议终止。如果在任何时间有一方发生违约事件,而且事件持续,另一方可终止本协议还有给违约方发出书面通知来确定失效日期。 在任何情况下,任何一方不能够因为追究另一方违约事件所采取在此协议和法律的权限下的任何行动之外,包括任何改正行为,而失去按照此章节行使的终止权力。
+
+  
+
+
+\- 12 -
+
+* * *
+
+6\. INDEMNIFICATION.
+
+6．赔偿
+
+6.1 Indemnity by the Seller. The Seller agrees to indemnify and hold the Buyer harmless from all Buyer Indemnified Liabilities. For this purpose, “Buyer Indemnified Liabilities” shall mean all suits, proceedings, claims, expenses, losses, costs, liabilities, judgments, deficiencies, assessments, actions, investigations, penalties, fines, settlements, interest and damages (including reasonable attorneys’ fees and expenses), whether suit is instituted or not and, if instituted, whether at any trial or appellate level, and whether raised by the parties hereto or a third party, incurred or suffered by the Buyer or any of them arising from, in connection with or as a result of any default or breach in the performance of any of the covenants or agreements made by the Seller in or pursuant to this Agreement.
+
+6.1卖方承担赔偿。卖方同意承担赔偿,并且保证买方不受任何“买方受偿负债”的损失。为此,“买方受偿负债”的定义包括所有起诉,诉讼,索赔,费用,债务,损失,成本, 判决,缺陷, 评估, 行动,调查,处罚,罚款,财产的转让, 利息和损害(包括合理的律师费用及开支）,无论起诉是否已经开始实行,如果已经被实行,无论是否在任何审讯或上诉阶段,是双方其中一方还是有第三方起诉,或是其他卖方执行本协议时给购买者造成的损害无论损害是否与违约有相连或是违约造成的。
+
+  
+
+
+6.2 Indemnity by the Buyer. The Buyer agrees that it will indemnify and hold the Seller from all Seller Indemnified Liabilities. For this purpose, “Seller Indemnified Liabilities” incurred by the Seller means all suits, proceedings, claims, expenses, losses, costs, liabilities, judgments, deficiencies, personal income taxes of Seller incurred by Seller in connection with the purchase of CEII’s Shares from the Company and the sale of such shares to Purchaser under this Agreement, assessments, actions, investigations, penalties, fines, settlements, interest and damages (including reasonable attorneys’ fees and expenses), whether suit is instituted or not and, if instituted, whether at any trial or appellate level, and whether raised by the parties hereto or a third party, incurred or suffered by the Seller, arising from, in connection with or as a result of (a) Seller’s performance of its obligations under this Agreement and the School Agreements; or (b) any default or breach in the performance of any of the covenants or agreements made by the Buyer in this Agreement.
+
+6.2买方承担赔偿。买方同意?械Ｅ獬?并且保证卖方不受?魏巍奥舴绞艹ジ赫钡乃鹗АＮ?“卖方受偿负债”的定义包括所有起诉,诉讼,索赔,费用,债务,损失,成本, 判决,缺陷, 还有卖方对任何有关购买CEII股份和对买方销售的该股份的个人所得税,评估, 行动,调查,处罚,罚款,财产的转让, 利息和损害(包括合理的律师费用及开支）,无论起诉是否已经开始实行,如果已经被实行,无论是否在任何审讯或上诉阶段,是双方其中一方还是由卖方引起第三方起诉,或 (a) 卖方根据学校协议履行的义务 或(b) 与买方对本协议的任何违约有关联。
+
+\- 13 -
+
+* * *
+
+6.3 Procedure for Indemnification. In the event any Party makes any demand or claim under this Section 6, the indemnified party shall give written notice to the indemnifying party promptly upon becoming aware of any event giving rise to a claim for indemnification. In such event, the indemnifying party shall assume full control of the defense thereof and hire counsel (which counsel shall be reasonably satisfactory to the indemnified party) to defend any such demand, claim or lawsuit (provided, however, that the failure to give such Notice shall not relieve the indemnifying party of its obligations hereunder unless such party is prejudiced by such failure). The indemnified party shall be permitted to participate in such defense at its sole cost and expense.
+
+6.3 程序赔偿。若任何一方作出任何根据本第6的要求,在发现任何引起索取赔偿的情况下,受补偿方应立即以书面方式通知补偿方。
+
+7\. MISCELLANEOUS. 其他事宜
+
+  
+
+
+7.1. Governing Law; Jurisdiction. This Agreement shall be construed according to, and the rights of the Parties shall be governed by, the laws of the State of Florida, without reference to any conflict of laws principle that would cause the application of the laws of any jurisdiction other than Florida. Each Party hereby irrevocably submits to the exclusive jurisdiction of the federal and state courts in Palm Beach County, Florida, for the adjudication of any dispute hereunder or in connection herewith, and agrees not to assert in any suit, action or proceeding, any claim that it is not personally subject to the jurisdiction of such court, that such, suit, action or proceeding is brought in an inconvenient forum, or that the venue of such suit, action or proceeding is improper.
+
+7.1适用法律,司法管辖权。本协议在不与其他州法律冲突原则的前提下,由佛罗里达州的法律管辖并按该州法律解释,以及本协议的各方当事人的权利应受佛罗里达州的法律保护。如有任何本协议下的争议,双方应向佛罗里达州Palm Beach郡所属的联邦或州法庭提起诉讼,并且同意不主张不受该法院管辖的任何诉讼,起诉或诉讼程序,以及会导致法院不便的任何诉讼或法律程序,或这些诉讼或法律程序的地点是不适当的。
+
+  
+
+
+7.2. Successors and Assigns. Each of the Parties shall not assign this Agreement or any rights or obligations hereunder without the prior written consent of the other Party. The provisions hereof shall inure to the benefit of, and be binding upon, the successors and permitted assigns of the Parties.
+
+7.2继承人和受让人。未经其他方的书面同意,任何一方不得转让本协议或本协议下的任何权利、义务。 本协议下的条款应符合本协议的继承人或经许可的受让人的利益,并对他们同样具有约束力。
+
+  
+
+
+\- 14 -
+
+* * *
+
+7.3. Entire Agreement; Amendment. This Agreement constitutes the full and entire understanding and agreement between the Parties with regard to the subject matter hereof. Any term of this Agreement may be amended only with the written consent of each Party.
+
+7.3整体合同,合同修改。本协议缔约方对协议项下事宜具有完整的理解和一直的意见。如果对本协任何条款进行修改,须经协议各方书面同意。
+
+7.4. Notices and Other Communications. Any and all notices, requests, demands and other communications required or otherwise contemplated to be made under this Agreement shall be in writing and shall be provided by one or more of the following means and shall be deemed to have been duly given (a) if delivered personally, when received, (b) if transmitted by facsimile, on the date of transmission with receipt of a transmittal confirmation, or (c) if by an internationally recognized overnight courier service, one Business Day after deposit with such courier service. All such notices, requests, demands and other communications shall be addressed as follows:
+
+7.4通知及其他沟通。任何及所有通知、请求、要求及其他本协议所必须的沟通,应以由以下提供的一个或多个下列方式书面形式作出（a）如亲自递送,当收到时,（b）如果是用传真方式递交,发送确认收据上显示的在发送日期（c）如通过国际公认的隔夜快递服务,在交付后一个营业日。 所有的通知、请求、要求和其他的沟通须采用以下的形式：
+
+  
+
+
+To Purchaser at: 致买方:
+
+  
+
+
+Xingbiao Lin/Qiming Weng/Qiude Chen
+
+Fax传真: 86-0591-24317868
+
+  
+
+
+To Seller at: 致卖方:
+
+  
+
+
+Crown Union Resources Limited
+
+Fax传真: 86-0571-88855286
+
+  
+
+
+  
+
+
+or to such other address or facsimile number as a party may have specified to the other parties in writing delivered in accordance with this Section 7.4.
+
+亦可根据本协议7.4条款中, 或者发送到缔约方以书面形式指定的其它的地址或传真号码。
+
+  
+
+
+7.5. Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any Person hereunder, upon any breach or default under this Agreement, shall impair any such right, power or remedy nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any Person hereunder of any breach or default under this Agreement, or any waiver on the part of any Person of any provisions or conditions of this Agreement, must be in writing and shall be effective only to the extent specifically set forth in such writing and signed by the waiving or consenting Person.
+
+7.5延迟或遗漏。一方对于另一方在本协议下因违约或不履行而产生的任何权利、补救措施的迟延行使或疏忽行使不应损害非违约方的任何此类权利和补救措施,也不应据此理解为对该违约或不履行及之后发生的违约和不履行的权利的放弃,或对此的默许；任何对某一单独的违约或不履行的权利的放弃行使不应被理解为对与此相关的其他的或之后发生的违约或不履行的权利的放弃行使。对本协议项下因任何一方的违约或不履行而另一方对此的弃权、许可或任何性质的同意、或对另一方在本协议项下的弃权必须为书面形式且只应对该书面说明中特别注明的事项有效。
+
+\- 15 -
+
+* * *
+
+7.6. Severability. If any provision of this Agreement is found to be invalid or unenforceable, then such provision shall be construed, to the extent feasible, so as to render the provision enforceable and to provide for the consummation of the transactions contemplated hereby on substantially the same terms as originally set forth herein, and if no feasible interpretation would save such provision, it shall be severed from the remainder of this Agreement, which shall remain in full force and effect unless the severed provision is essential to the rights or benefits intended by the Parties. In such event, the Parties shall use best efforts to negotiate, in good faith, a substitute, valid and enforceable provision or agreement which most nearly affects the Parties’ intent in entering into this Agreement.
+
+7.6可分割性。如果本协议下任何条款被认定为无效或不可执行,则该条款应在可预见的范围内被解释,在法律允许的范围内被执行,并且就大致相同的条款原先规定下为拟进行的交易完整执行提供基础,并且如果没有可执行的解释可以保护该条款,该条款将被分割出来作为本协议的其余部分,这样本协议将保持完整地效力,除非该条款对于缔约方的权利或利益是至关重要的。在此种情况下,缔约方应尽最大的努力、诚意进行协商,以达成的?行У牟⒖芍葱械奶娲蹩?或者达成一个合约,可以最真切地反映缔约方签订本协议的意图。
+
+7.7 Construction. The language used in this Agreement will be deemed to be the language chosen by the Parties to express their mutual intent, and no rules of strict construction will be applied against any Party.
+
+7.7解释。本协议所使用的语言将被视为由缔约方选择,用以表达其共同意图,并没有严格的措辞规则用以反对任何一方。
+
+  
+
+
+7.8. Further Assurances. The Parties shall perform such acts, execute and deliver such instruments and documents and do all other such things as may be reasonably necessary to effect the transactions contemplated hereby.
+
+7.8进一步的保证。在合理地情况下,缔约方应采取必要的行动、交付执行这些行动的文书和其它文件,以及其他的可能预期影响此次交易。
+
+  
+
+
+7.9. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. Execution and delivery of this Agreement by exchange of facsimile copies bearing the facsimile signature of a Party shall constitute a valid and binding execution and delivery of this Agreement by such Party.
+
+7.9副本。本协议可签署一份或多份,其中每份都应被视为本协议的原件,所有这些文本共同被视为构成同一个协议。有缔约方签字的传真副本对本合约的执行的递交具有有效性和约束力。
+
+  
+
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the date first written above.
+
+兹证明,双方于本文首所述日期签署本协议。
+
+Purchaser: 买方
+
+Sign签字: /s/ Xingbiao Lin
+
+Name姓名: Xingbiao Lin
+
+  
+
+
+Purchaser: 买方
+
+Sign签字: /s/ Qiming Weng  
+
+
+Print Name姓名: Qiming Weng
+
+Purchaser: 买方
+
+Sign签字: /s/ Qiude Chen  
+
+
+Print Name姓名: Qiude Chen
+
+\- 16 -
+
+* * *
+
+  
+
+
+Seller: 卖方
+
+Crown Union Resources Limited
+
+Sign: 签字 /s/ Josh Kallan
+
+Print Name姓名: Josh Kallan
+
+Acknowledged and agreed to: 已知晓并同意
+
+  
+
+
+Collateral Agent 代理人:
+
+China Education International, Inc., as Collateral Agent 作为代理人
+
+  
+
+
+By签字: /s/ Joel Mason
+
+Name: 姓名 Joel Mason
+
+Title: Chief Executive Officer
+
+职位：首席执行官
+
+  
+
+
+\- 17 -
+
+* * *
+
+  
+
+
+  
+
+
+APPENDEX A 附录A
+
+  
+
+
+CEII Share Allocation
+
+CEII 股票分配
+
+  
+
+
+Purchaser Name 买方姓名
+
+No. of Shares股票数目  
+  
+Xingbiao Lin 林性标
+
+1,800,000  
+  
+Qiming Weng 翁其明
+
+1,080,000  
+  
+Qiude Chen 陈秋德
+
+720,000  
+  
+Total 总计
+
+3,600,000  
+  
+  
+
+
+\- 18 -
+
+* * *
+
+  
+
+
+APPENDIX B 附录B
+
+  
+
+
+Form of Call Exercise Notice 认股权行使通知表
+
+  
+
+
+[Date]日期
+
+  
+
+
+[________________] ("Seller") 卖方
+
+  
+
+
+Re: Call Option Agreement dated May __, 2011 (the “Option Agreement”), between [________________] (“Purchaser”) and [________________] (“Seller”).
+
+致：认股期权协议签署日期2011年5月__ 日 （以下简称“期权协议”）,是由买方__________
+
+和卖方_____________共同签署的。
+
+  
+
+
+Dear [________________]:
+
+  
+
+
+In accordance with Section 2.3 of the Option Agreement, Purchaser hereby provides this notice of exercise of the Call Right in the manner specified below:
+
+依据期权协议第2.3条,买方特此提供以下列方式的认股权行使通知：
+
+(a)The Purchaser hereby exercises its Call Rights with respect to CEII’s Shares pursuant to the Option Agreement.
+
+(a) 买方根据期权协议行使其拥有的CEII的股权
+
+  
+
+
+(b) The Purchaser intends that payment of the Call Exercise Price shall be made as a Cash Exercise and shall pay the sum of $____________ to the Seller.
+
+(b) 买方将以现金形式支付认股期权价格给卖方,总计金额USD $________.
+
+  
+
+
+(c) Pursuant to this exercise, the Seller shall deliver to Purchaser, CEII’s Shares in accordance with the instructions attached hereto.
+
+（c）根据此次认股期权行使情况,卖方应依据所附的说明将CEII股票提供给买方。
+
+  
+
+
+Dated日期: _______________, ______
+
+  
+
+
+  
+
+
+  
+
+
+_________________________________________

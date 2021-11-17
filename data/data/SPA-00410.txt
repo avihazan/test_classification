@@ -1,0 +1,512 @@
+Exhibit 10.13
+
+  
+
+
+
+
+  
+
+
+THIS SHARE PURCHASE AGREEMENT (hereinafter referred to as the “Agreement”), is entered into as of this June 17, 2009, by and between ONE Holdings, Corp. (formally known as Contracted Services, Inc.), a Florida corporation (the “InvestCo”) and Jeanne Chan (the “Shareholder”). 
+
+  
+
+
+W I T N E S S E T H
+
+  
+
+
+WHEREAS the Shareholder desires to sell 0 shares of common stock (“Common Stock”) Shareholder owns in Green Planet Bioengineering Co., Ltd., a Delaware corporation (the “Company”) and desires to sell warrants (the “Warrants”) providing Shareholder the right to purchase an aggregate of 382,993 shares of the Company’s Common Stock. The shares of Common Stock and the number of shares of Common Stock issuable to the Shareholder upon exercise of the Warrants are hereinafter collectively referred to as the “Shares”.
+
+  
+
+
+NOW THEREFORE, in consideration of the premises and the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+  
+
+
+ARTICLE I
+
+PURCHASE OF GP COMMON STOCK
+
+  
+
+
+1.1 
+
+The Purchase. The Shareholder hereby agrees to sell to InvestCo and InvestCo hereby agrees to purchase from the Shareholder the Common Stock for shares of InvestCo common stock (the “InvestCo Stock”) and cash (the “InvestCo Cash”) as follows:
+
+  
+
+
+(a)
+
+At the Closing (as hereinafter defined), InvestCo shall issue 417,695 InvestCo Stock; 
+
+  
+
+
+(b)
+
+No later than Twelve (12) months after the Closing, unless otherwise agreed in writing, InvestCo shall pay $16,759.37 in cash to Shareholder; 
+
+  
+
+
+(c)
+
+No later than Twenty Four (24) months after the Closing, unless otherwise agreed in writing, InvestCo shall pay $20,111.25 in cash to Shareholder. 
+
+  
+
+
+(d)
+
+Notwithstanding the payment for the Shares in installments as set forth in (a), (b) and (c) above, InvestCo shall be entitled to vote all of the Shares effective as of the Closing.
+
+  
+
+
+1.2
+
+The Shareholder hereby agrees that: (i) thirty-five percent (35%) of the InvestCo Stock issued to the Shareholder as set forth in Section 1.1 above shall be deposited into an Escrow; and (ii) in the event the Company’s EBITDA for fiscal year 2009 is less than the Company’s EBITDA for fiscal 2008, the number of shares of InvestCo Stock issuable to the Shareholder under Section 1.1 above shall be reduced (the “Adjustment”) by the number obtained in the following formula: (i) number of shares of InvestCo Stock received by the Shareholder according to Section 1.1 less (ii) the product of the 2009 EBITDA multiplied by the number of shares of InvestCo Stock received by the Shareholder divided by 2008 EBITDA (“Adjustment Shares”); and (iii) in the event there are not sufficient number of Adjustment Shares in the Escrow to satisfy such Adjustment, the Shareholder shall deli ver to InvestCo 
+
+  
+  
+  
+  
+Page 1 of 8
+
+  
+
+
+* * *
+
+such number of shares of InvestCo Stock shares as are needed to achieve the correct number of Adjustment Shares within 5 days following InvestCo’s written request.
+
+1.3
+
+Subject to the provisions of Section 1.2 and subject to the Shareholder’s compliance with applicable securities laws, after the applicable holding period, the Shareholder shall be entitled to sell the shares of InvestCo Stock in the public market as set forth in this Section 1.3. Except as otherwise expressly provided herein and subject to the resale requirements of Rule 144 promulgated under the Securities Act of 1933, as amended, or any other rule or agreement that otherwise restricts the Shareholder from selling the InvestCo Stock, the Shareholder agrees that he/she may only sell the InvestCo Stock subject to the following conditions commencing from the date of this Agreement until 3 years thereafter (the “Lock Up/Leak Out Period”) as follows: 
+
+(i)
+
+if on any day the Shareholder desires to sell any of the InvestCo Stock, the Shareholder will not sell more than 10% of the average daily volume of trading in the InvestCo Stock for the ten (10) consecutive trading days immediately preceding any such trading day; 
+
+(ii)
+
+the Shareholder will only sell the InvestCo Stock at the "offer" or "ask" price stated by the relevant market maker and the Shareholder agrees that he will not sell InvestCo Stock at the "bid" price.
+
+(iii)
+
+the Shareholder agrees that he will not engage in any short selling of the InvestCo Stock during the Lock-Up/Leak Out Period.
+
+  
+
+
+(iv)
+
+the Shareholder agrees that he will comply with all obligations and requirements under applicable “insider” trading rules; 
+
+  
+
+
+(v)
+
+Except as set forth in this Section 1.3, the Shareholder agrees that he will not transfer, pledge, or hypothecate the InvestCo Stock without the prior written consent of InvestCo; 
+
+  
+
+
+Notwithstanding anything contained in this Agreement, the Shareholder may transfer any or all of his InvestCo Stock as bona fide gifts or transfers to any trust for the direct or indirect benefit of each person of the Shareholder’s immediate family; provided that it shall be a condition to any such gift or transfer that (i) the transferee/donee agrees, in writing, to be bound by the terms of this Agreement to the same extent as if the transferee/donee were a party hereto; and (ii) the Shareholder provides written notice to InvestCo prior to such gift or transfer. “Immediate family” shall mean the Shareholder’s children, stepchildren, grandchildren, parents, stepparents, grandparents, spouse, former spouses, siblings, nieces, nephews, mother-in-law, father-in-law, sons-in-law, daughters-in-law, brother-in-law, or sister-in-law, including adoptive relationships. 
+
+  
+
+
+1.4
+
+Piggy-Back Registration.
+
+  
+
+
+(i)
+
+If, at any time prior to December 31, 2010, InvestCo proposes to file a registration statement under the Securities Act with respect to an offering by InvestCo or any other party of InvestCo Stock (other than a registration statement on Form S-4 or S-8 or any successor form or a registration statement filed solely in connection with an exchange offer, a business combination transaction or an offering of securities solely to the existing stockholders or employees of InvestCo), then InvestCo, on each such occasion, shall give written notice (each, a "Piggy-Back Notice") of such proposed filing to the Shareholder at least fifteen days before the anticipated filing date of such registration statement, and such Piggy-Back Notice also shall be required to offer to the Shareholder the opportunity to register such aggregate number of shares of 
+
+  
+  
+
+
+Page 2 of 8
+
+  
+
+
+* * *
+
+InvestCo Stock as the Shareholder may request, subject to the terms hereof. The Shareholder shall have the right, exercisable for the five days immediately following the giving of the Piggy-Back Notice, to request, by written notice (each, a "Shareholder Notice") to InvestCo, the inclusion of all or any portion of the shares of InvestCo Stock owned by the Shareholder in such registration statement. InvestCo shall use reasonable efforts to cause the managing underwriter(s) of a proposed underwritten offering to permit the inclusion of the Shareholder’s InvestCo shares which were the subject of the Shareholder Notice in such underwritten offering on the same terms and conditions as any similar securities of InvestCo included therein. Notwithstanding anything to the contrary contained in this Section 1.5, if the managing underwriter(s) of such underwritten offering or an y proposed underwritten offering delivers a written opinion to the Shareholder that the total amount and kind of securities which they, InvestCo and any other person intend to include in such offering is such as to materially and adversely affect the success of such offering, then the amount of securities to be offered for the account of the Shareholder and persons other than InvestCo shall be eliminated or reduced pro rata (based on the amount of securities owned by the Shareholder and other persons which carry registration rights) to the extent necessary to reduce the total amount of securities to be included in such offering to the amount recommended by such managing underwriter(s) in its written opinion. 
+
+  
+
+
+(ii)
+
+Piggy-Back Registration; Expenses. The obligations of InvestCo under this Section 1.4 shall be one time only. Subject to the provisions of Section 1.4 hereof, InvestCo will pay all Registration Expenses in connection with any registration of the shares of InvestCo Stock owned by the Shareholder pursuant to this Section 1.5(ii), but InvestCo shall not be responsible for the payment of any underwriter's discount, commission or selling concession in connection therewith.
+
+  
+
+
+(iii)
+
+Withdrawal or Suspension of Registration Statement. Notwithstanding anything contained to the contrary in this Section 1.4, InvestCo shall have the absolute right, whether before or after the giving of a Piggy-Back Notice or receiving the Shareholder Notice, to determine not to file a registration statement in which the Shareholder shall have the right to include their shares of InvestCo Stock pursuant to this Section 1.4, to withdraw such registration statement or to delay or suspend pursuing the effectiveness of such registration statement. 
+
+  
+
+
+(iv)
+
+Obligations of Green Planet. In connection with any registration of InvestCo Stock owned by the Shareholder, pursuant to this Section 1.4, InvestCo may require the Shareholder provide to InvestCo such information regarding the distribution of such shares as InvestCo may from time to time reasonably request in writing.
+
+1.5
+
+Legends. The Shareholder understand that until such time as the resale of such shares have been registered under the 1933 Act as contemplated hereunder the certificates representing the shares of InvestCo Stock and, shall bear any legend as required by the "blue sky" laws of any state and a restrictive legend in substantially the following form (and a stop-transfer order may be placed against transfer of such stock certificates):
+
+  
+
+
+THE SECURITIES REPRESENTED BY THIS CERTIFICATE MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED (i) IN THE ABSENCE OF (a) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR (b) AN OPINION OF COUNSEL, IN A FORM REASONABLY ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT OR (ii) UNLESS SOLD PURSUANT TO RULE 144 UNDER SAID ACT. 
+
+  
+  
+
+
+Page 3 of 8
+
+  
+
+
+* * *
+
+1.6 
+
+No Dilution. InvestCo shall neither effect, nor fix any record date with respect to, any stock split, stock dividend, reverse stock split, recapitalization, or similar change in InvestCo's Stock between the date of this Agreement and the Closing Date. 
+
+  
+
+
+1.7 
+
+Closing. The consummation of the Transaction (the "Closing") shall take place at the offices of Arnstein & Lehr, LLP, on a date to be mutually agreed upon by the Parties, which shall be no later than June 30, 2009 (the “Closing Date”).
+
+  
+
+
+1.8 
+
+Closing Events. At the Closing, each of the Parties hereto shall execute, acknowledge, and deliver (or shall cause to be executed, acknowledged, and delivered) any and all stock certificates, officers’ certificates, agreements, resolutions, schedules, or other instruments required by this Agreement to be so delivered at or prior to the Closing, together with such other items as may be reasonably requested by the other Parties hereto and their respective legal counsel in order to effectuate or evidence the transactions contemplated by this Agreement. If agreed to by the Parties, the Closing may take place through the exchange of documents (other than the exchange of stock certificates) by efax, fax, email and/or express courier. 
+
+  
+
+
+1.9
+
+Escrow Account. Thirty-five percent (35%) of the shares of InvestCo Stock to be issued to the Shareholder as set forth herein shall be deposited into an escrow account. Said escrow account shall provide that the shares may be released to the respective Party upon the occurrence or non-occurrence of certain performance events as set forth in that certain escrow agreement executed by the Parties simultaneously with this Agreement, which is attached hereto as Exhibit A and incorporated herein as if fully set forth. 
+
+  
+
+
+  
+
+
+ARTICLE II
+
+REPRESENTATIONS, COVENANTS, AND WARRANTIES OF THE SHAREHOLDERS
+
+  
+
+
+Each Shareholder represents and warrants to, and covenants and agrees with, the Company as follows:
+
+  
+
+
+2.1
+
+The Shareholder is acquiring the InvestCo Stock for its own account for investment only and not with a view towards the public sale or distribution thereof and not with a view to or for sale in connection with any distribution thereof. 
+
+  
+
+
+2.2
+
+The Shareholder is (i) an “accredited investor” as that term is defined in Rule 501 of the General Rules and Regulations under the Securities Act of 1933 Act, as amended (“1933 Act”) , (ii) experienced in making investments of the kind described in this Agreement and the related documents, (iii) able, by reason of the business and financial, to protect its own interests in connection with the transactions described in this Agreement, and the related documents, and (iv) able to afford the entire loss of its investment in the InvestCo Shares. 
+
+2.3
+
+The Shareholder understands that its investment in the InvestCo Stock involves a high degree of risk.
+
+2.4
+
+The Shareholder understands that the InvestCo Stock is deemed to be restricted stock under the 1933 Act.
+
+2.5
+
+The Shareholder has good and marketable title to all of the Shares, free and clear of any liens, claims, charges, options, rights of tenants or other encumbrances and shall not, until the exchange 
+
+  
+  
+
+
+Page 4 of 8
+
+  
+
+
+* * *
+
+of the Shares for the InvestCo Stock is closed as contemplated by this Agreement, or this Agreement is terminated, sell, hypothecate, encumber, transfer or otherwise dispose of the Shares.
+
+2.6
+
+The entering into of this Agreement by the Shareholder, and the performance by the Shareholder of his obligations hereunder, will not conflict with or constitute a breach of or default under any agreement to which the Shareholder is a party or any order or decree of any court or regulatory body to which the Shareholder is subject.
+
+ARTICLE III
+
+REPRESENTATIONS, COVENANTS, AND WARRANTIES OF INVESTCO
+
+  
+
+
+As an inducement to, and to obtain the reliance of the Shareholder, InvestCo represents and warrants as follows:
+
+  
+
+
+3.1 
+
+Organization. InvestCo is a corporation duly organized, validly existing, and in good standing under the laws of the State of Florida. A certified copy of the Articles of Incorporation and bylaws of InvestCo are attached hereto as Schedule 3.1. InvestCo has the power and is duly authorized, qualified, franchised, and licensed under all applicable laws, regulations, ordinances, and orders of public authorities to own all of its properties and assets and to carry on its business in all material respects as it is now being conducted, including qualification to do business as a foreign corporation in jurisdictions in which the character and location of the assets owned by it or the nature of the business transacted by it requires qualification. The execution and delivery of this Agreement does not, and the consummation of the Transactions in accordance with the terms hereof will not, violate any provision of InvestCo’s organizational documents. InvestCo has taken all action required by laws, its articles of incorporation, certificate of business registration, or otherwise to authorize the execution and delivery of this Agreement. InvestCo has full power, authority, and legal right and has taken or will take all action required by law, its Certificate of Incorporation, and otherwise to consummate the Transactions. InvestCo is a corporation in good standing under the laws of the state of Florida and shall receive a certificate of good standing from the Secretary of State of the State of Florida, dated as of a date within ten days prior to the Closing Date certifying that InvestCo is in good standing as a corporation in the State of Florida.
+
+  
+
+
+3.2 
+
+Capitalization. InvestCo has a total of 101,625,000 issued and outstanding shares of common stock, each of which is legally issued, fully paid, and non-assessable. All such shares of InvestCo Stock are held of record by the InvestCo shareholders. InvestCo has no other capital stock, warrants, options, or other securities convertible into shares of InvestCo capital stock, outstanding other than the InvestCo Stock. 
+
+  
+
+
+  
+
+
+33 
+
+Information. The information concerning InvestCo set forth in this Agreement and the schedules hereto is and will be complete and accurate in all material respects and does not contain any untrue statement of a material fact or omit to state a material fact required to make the statements made, in light of the circumstances under which they were made, not misleading as of the date hereof and as of the Closing Date.
+
+  
+
+
+3.4 
+
+Litigation and Proceedings. There are no actions, suits, proceedings, or investigations pending or, to the knowledge of InvestCo, threatened by or against InvestCo, or affecting InvestCo, or its properties, at law or in equity, before any court or other governmental agency or instrumentality, domestic or foreign, or before any arbitrator of any kind.
+
+  
+
+
+3.5
+
+No Conflict With Other Instruments. The execution of this Agreement and the consummation of the Transactions will not result in the breach of any term or provision of, or constitute 
+
+  
+  
+
+
+Page 5 of 8
+
+  
+
+
+* * *
+
+an event of default under, any material indenture, mortgage, deed of trust, or other material contract, agreement, or instrument to which InvestCo is a party or to which any of its properties or operations are subject.
+
+  
+
+
+3.6
+
+Compliance With Laws and Regulations. To the best of its knowledge, InvestCo has complied with all applicable statutes and regulations of any Federal, state, or other applicable governmental entity or agency thereof, except to the extent that noncompliance would not materially and adversely affect the business, operations, financial condition, or prospects of InvestCo or except to the extent that noncompliance would not result in the incurrence of any material liability.
+
+3.7 
+
+Approval of Agreement. The board of directors of InvestCo (the “InvestCo Board”) has authorized the execution and delivery of this Agreement by InvestCo and has approved the Transactions. Copies of said consent resolutions are attached hereto as Schedule 3.8.
+
+  
+
+
+3.8 
+
+Title and Related Matters. InvestCo has good and marketable title to all of its properties, interest in properties, and assets, real and personal, (except properties, interest in properties, and assets sold or otherwise disposed of in the ordinary course of business), free and clear of all liens, pledges, charges, or encumbrances except.
+
+  
+
+
+3.9 
+
+Brokers. InvestCo has not entered into any contract with any person, firm or other entity that would obligate InvestCo or InvestCo to pay any commission, brokerage or finders’ fee in connection with the Transactions.
+
+  
+
+
+3.10
+
+Full Disclosure. There is no fact actually known to InvestCo that would reasonably be expected to materially and adversely affect the ability of InvestCo to perform its obligations pursuant to this Agreement.
+
+  
+
+
+ARTICLE IV
+
+MISCELLANEOUS
+
+  
+
+
+4.1 
+
+Governing Law. This Agreement shall be governed by, enforced, and construed under and in accordance with the laws of the State of Florida, without regard to its choice of law principles.
+
+  
+
+
+4.2 
+
+Notices. Any notices or other communications required or permitted hereunder shall be sufficiently given if personally delivered to it or sent by registered mail or certified mail, postage prepaid, or by prepaid telegram and any such notice or communication shall be deemed to have been given as of the date so delivered, mailed, or telegraphed.
+
+  
+
+
+4.3 
+
+Expenses. Except as otherwise set forth herein, each Party shall bear its own costs and expenses associated with the Transactions contemplated by this Agreement.
+
+  
+
+
+4.4 
+
+Third Party Beneficiaries. This contract is solely between InvestCo and the Shareholder and, except as specifically provided, no director, officer, stockholder, employee, agent, independent contractor, or any other person or entity shall be deemed to be a third party beneficiary of this Agreement.
+
+  
+
+
+4.5 
+
+Entire Agreement. This Agreement represents the entire agreement between the Parties relating to the Transaction. There are no other courses of dealing, understandings, agreements, representations, or warranties, written or oral, except as set forth herein.
+
+  
+
+
+  
+  
+
+
+Page 6 of 8
+
+  
+
+
+* * *
+
+4.6 
+
+Survival. The representations and warranties of the respective Parties shall survive the Closing Date and the consummation of the transactions contemplated by this Agreement.
+
+  
+
+
+4.7 
+
+Counterparts. This Agreement may be executed in multiple counterparts, each of which shall be deemed an original and all of which taken together shall be but a single instrument.
+
+  
+
+
+4.8 
+
+Amendment or Waiver. Every right and remedy provided herein shall be cumulative with every other right and remedy, whether conferred herein, at law, or in equity, and may be enforced concurrently herewith, and no waiver by any Party of the performance of any obligation by the other shall be construed as a waiver of the same or any other default then, theretofore, or thereafter occurring or existing. At any time prior to the Closing Date, this Agreement may be amended by a writing signed by all Parties hereto, with respect to any of the terms contained herein, and any term or condition of this Agreement may be waived or the time for performance hereof may be extended by a writing signed by the Party or Parties for whose benefit the provision is intended.
+
+  
+
+
+4.9
+
+Further Assurances. Each Party to this Agreement shall take all such actions reasonably necessary to effectuate the terms and conditions of this Agreement and the Transactions set forth herein.
+
+  
+
+
+4.10
+
+Assignment. Subject to any provisions herein to the contrary, this Agreement shall inure to the benefit of and be binding upon the Parties hereto and their respective legal representatives, successors and assigns; provided, however, that no Party may assign this Agreement without the prior written consent of the other Parties.
+
+  
+
+
+4.11
+
+Severability. In the event any provision of this Agreement is held to be invalid, illegal or unenforceable for any reason and in any respect, such invalidity, illegality, or unenforceability shall in no event affect, prejudice or disturb the validity of the remainder of this Agreement, which shall remain in full force and effect, enforceable in accordance with its terms.
+
+  
+
+
+[SIGNATURES ON FOLLOWING PAGE]
+
+  
+  
+
+
+Page 7 of 8
+
+  
+
+
+* * *
+
+IN WITNESS WHEREOF, this Agreement has been duly executed by the InvestCo and the Shareholders as of the date set forth below.
+
+Date:
+
+as of June 17, 2009
+
+  
+  
+  
+INVESTCO: ONE HOLDINGS, CORP.  
+  
+BY:  
+  
+SHAREHOLDER: Jeanne Chan  
+  
+Signature:  
+  
+Name:
+
+Jeanne Chan  
+  
+Address: 318 Holiday Drive, Hallandale Beach, FL 33009 USA
+
+  
+
+
+  
+  
+
+
+Page 8 of 8
+
+  
+

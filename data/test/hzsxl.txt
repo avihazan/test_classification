@@ -1,0 +1,169 @@
+EXHIBIT 10.42 
+
+Multi-State Version- All Entities 
+
+KNIGHT CAPITAL GROUP, INC. 
+
+2010 EQUITY INCENTIVE PLAN 
+
+
+  
+Name of Grantee: «First_Name» «Last_Name»  
+Restricted Stock: «Award» shares of Class A Common Stock, $0.01 par value, of Knight Capital Group, Inc. (“Shares”)  
+Price on Date of Grant: «Average»  
+Grant Date: «Grant_Date»  
+  
+Dates Upon Which
+
+Restrictions Lapse:
+
+(subject to accelerated
+
+lapse of restrictions as
+
+set forth in Sections 3 and 4 of this Agreement)
+
+«Vest_2013» Shares, on «Year_1»
+
+«Vest_2014» Shares, on «Year_2»
+
+«Vest_2015» Shares, on «Year_3»  
+  
+* * * * * * * * 
+
+This Restricted Stock Agreement, including Exhibit A (collectively, the “Agreement”), is executed and delivered as of the Grant Date by and between Knight Capital Group, Inc. (the “Company”) and the Grantee. The Grantee and the Company hereby agree as follows: 
+
+1. The Company, pursuant to the 2010 Equity Incentive Plan (the “Plan”), which is incorporated herein by reference, and subject to the terms and conditions thereof, hereby grants to the Grantee the above mentioned Shares of Restricted Stock in exchange for a payment of $0.01 (the “Per Share Price”) which represents payment of the par value of the Shares of Restricted Stock.   
+  
+2. For purposes of this Agreement, the “Restricted Period” means the period from the Grant Date until the date on which the vesting restrictions applicable to the Shares of Restricted Stock lapse. The Grantee may not sell, assign, transfer, donate, pledge or otherwise dispose of Shares during the Restricted Period. Each certificate representing Shares of Restricted Stock shall bear the following legend:   
+  
+THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO CERTAIN RESTRICTIONS UPON TRANSFER AND RIGHTS OF REPURCHASE AS SET FORTH IN AN AGREEMENT BETWEEN THE COMPANY AND THE SHAREHOLDER, A COPY OF WHICH IS ON FILE WITH THE COMPANY. 
+
+The Grantee shall be entitled to have such legend removed from such certificate when all restrictions with respect to the Shares of Restricted Stock covered thereby have lapsed. Except as set forth in Section 3 or 4 of this Agreement or otherwise provided for in Exhibit A, all restrictions imposed on Shares of Restricted Stock shall lapse upon the expiration of the Restricted Period applicable to such Shares (as indicated above). 
+
+3.
+
+Except as otherwise provided for in Grantee’s Offer Letter or Employment Agreement, as applicable, with the Company or an Affiliate, if the Grantee’s employment with, or provision of   
+  
+* * *
+
+services to, the Company shall terminate for any reason other than such Grantee’s death, Disability, or termination by the Company without Cause during the Restricted Period, all Shares of Restricted Stock held by the Grantee still subject to restrictions shall be forfeited upon such termination and the Per Share Price paid with respect to such Shares of Restricted Stock shall be refunded to the Grantee. In the event of the Grantee’s death, Disability, or termination by the Company without Cause, the restrictions applicable to the Shares of Restricted Stock shall lapse (subject to the forfeiture provisions of the Plan and Exhibit A), and the Shares of Restricted Stock shall be deemed fully vested in accordance with the terms of the Plan.   
+  
+4. In the event of a Change-In-Control (as defined in the Plan), the restrictions applicable to the Shares of Restricted Stock shall lapse (subject to the forfeiture provisions of the Plan and Exhibit A), and the Shares of Restricted Stock shall be deemed fully vested in accordance with the terms of the Plan.   
+  
+5. During the Restricted Period, the Grantee shall have the right to vote Shares of Restricted Stock and to receive any dividends or distributions paid on such Shares of Restricted Stock, which dividends or distributions shall be subject to such restrictions as are deemed appropriate by the Committee.   
+  
+6. The Shares of Restricted Stock shall be appropriately adjusted to reflect any stock dividend, stock split, combination or exchange of shares or other change in capitalization with a similar substantive effect upon the Plan or the Shares of Restricted Stock. The Committee shall have the power and sole discretion to determine the nature and amount of the adjustment to be made, if any. Any adjustment so made shall be final and binding.   
+  
+7. The Company shall withhold all applicable taxes required by law from all amounts paid in respect of the Shares of Restricted Stock upon the vesting of, or lapse of restrictions on, any or all of the Shares. The Grantee may satisfy the withholding obligation by paying the amount of any taxes in cash or, with the approval of the Committee, shares of stock may be deducted from the payment to satisfy the obligation in full or in part. The amount of the withholding and the number of shares to be deducted shall be determined by the Committee with reference to the Fair Market Value of the stock when the withholding is required to be made.   
+  
+8. The Grantee specifically acknowledges that the Shares of Restricted Stock are subject to the provisions of Section 11.5 of the Plan, entitled “Recapture; Adjustment of Awards,” which can cause the forfeiture of any gain realized upon the vesting of the Shares of Restricted Stock and/or the cancellation or adjustment of any grant of Shares of Restricted Stock.   
+  
+9. If the Grantee attempts to have any dispute that arises out of or relates to this Agreement resolved in any manner that is not provided for by Sections 12.12 (entitled “Choice of Forum”) or 12.13 (entitled “Dispute Resolution”) of the Plan, then (i) all outstanding Shares of Restricted Stock awarded to the Grantee under this Agreement shall be forfeited, and (ii) any gain realized by the Grantee from the Shares awarded under this Agreement shall be paid by the Grantee to the Company upon notice from the Company.   
+  
+10. Except with the consent of the Committee, no Shares of Restricted Stock shall be assignable or transferable except by will or by the laws of descent and distribution while such Shares of Restricted Stock remain subject to restrictions.   
+  
+11. Nothing herein shall obligate the Company or any Subsidiary or Affiliate of the Company to continue the Grantee’s service for any particular period or on any particular basis of compensation.   
+  
+2 
+
+* * *
+
+12. The obligation of the Company to deliver Shares of Restricted Stock under this Agreement is specifically subject to all provisions of the Plan and all applicable laws, rules, regulations and governmental and stockholder approvals.   
+  
+13. Any notice by the Grantee to the Company hereunder shall be in writing and shall be deemed duly given only upon receipt thereof by the Company at its principal offices. Any notice by the Company to the Grantee shall be in writing and shall be deemed duly given if mailed to the Grantee at the address last specified to the Company by the Grantee.   
+  
+14. The grant of Shares of Restricted Stock herein is not enforceable until this Agreement has been signed by the Grantee and the Company. By executing this Agreement, the Grantee shall be deemed to have accepted and consented to any action taken under the Plan by the Committee, the Board or its delegates. In addition, by executing this Agreement, the Grantee shall be deemed to have accepted and consented to the restrictive covenants set forth in Exhibit A, attached hereto and made a part hereof.  
+  
+15. No change or modification of this Agreement shall be valid unless it is in writing and signed by the parties hereto.   
+  
+16. Except as otherwise provided in Exhibit A, the validity and construction of this Agreement shall be governed by the laws of the State of Delaware, without regard to the conflicts of law principles thereof.   
+  
+16. Any capitalized term, to the extent not defined herein, shall have the same meaning as set forth in the Plan.   
+  
+17. This Agreement, together with the Plan, sets forth all of the promises, agreements, conditions, understandings, warranties and representations between the parties hereto regarding the Shares of Restricted Stock, and there are no promises, agreements, conditions, understandings, warranties or representations, oral or written, express or implied, between them regarding the Shares of Restricted Stock other than as set forth herein or therein. This Agreement is made under and subject to the provisions of the Plan, and all of the provisions of the Plan are also provisions of this Agreement. If there is a difference or conflict between the provisions of this Agreement and the provisions of the Plan, the provisions of the Plan will govern.   
+  
+By signing this Agreement, the Grantee accepts and agrees to all of the foregoing terms and provisions and to all of the terms and provisions of the Plan incorporated herein by reference and confirms that he/she has received a copy of the Plan. 
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by a duly authorized representative and the Grantee has hereunto set his/her hand as of the Grant Date.   
+  
+KNIGHT CAPITAL GROUP, INC.  
+  
+By:  
+  
+Thomas M. Joyce  
+Chairman and Chief Executive Officer  
+  
+«First_Name» «Last_Name»  
+  
+3 
+
+* * *
+
+EXHIBIT A—APPLICABLE RESTRICTIVE COVENANTS 
+
+In consideration for Grantee agreeing to the following restrictions, the Company agrees to provide Grantee with the Shares of Restricted Stock pursuant to this Agreement, as well as one or more of the following: initial or continued employment with the Company; portions of the Company’s confidential, proprietary and trade secret information; the ability to develop relationships with the Company’s potential and existing suppliers, financing sources, customers and employees; and specialized training in, and knowledge of, the business group the Grantee is employed with. 
+
+(a) At all times during Grantee’s employment with the Company, and for the applicable Protected Period (as defined below) following the termination of Grantee’s employment by the Company for “Cause” (as defined in the Plan), Grantee shall be bound by the Noncompete Obligation (defined below). 
+
+(b) In the event Grantee voluntarily terminates his/her employment for any reason or where the Company terminates Grantee’s employment without Cause, the Company may elect, in its sole and absolute discretion upon notice to Grantee, to require that Grantee be bound by the Noncompete Obligation during the applicable Protected Period and to provide Grantee with continuation of Grantee’s salary in accordance with the Company’s standard payroll practice during the Protected Period (the “Restrictive Covenant Benefit”). In the event Grantee does not receive a salary from the Company, Grantee shall receive an amount, as determined by the Company in its sole and absolute discretion, based on Grantee’s corporate title with the Company or its Affiliates. 
+
+The receipt of the Restrictive Covenant Benefit is conditioned upon the execution of a general waiver and release agreement in a form agreeable to the Company that becomes effective and irrevocable no later than the earlier of (x) eight weeks following the Grantee’s termination of employment and (y) February 15 of the year following the year in which the Grantee’s termination of employment occurs. In addition, if the payment of the Restrictive Covenant Benefit is expected to continue beyond March 15 of the year following the year in which the Grantee’s termination of employment occurs, the Company will either pay such amounts to the Grantee prior to such March 15 or place the portion of the Restrictive Covenant Benefit that would be paid after March 15 into an escrow account meeting such terms and conditions as are determined by the Company prior to such March 15 and such amounts will be distributed from that escrow account during the remainder of the Protected Period. 
+
+For the avoidance of doubt, the Grantee has no legally binding right to the Restrictive Covenant Benefit unless and until the Company elects, in its sole and absolute discretion, to require that Grantee be bound by the Noncompete Obligation. 
+
+(c) In the event that Grantee voluntarily terminates employment with the Company or the Company terminates Grantee’s employment without Cause, and the Company does not elect to provide the Restrictive Covenant Benefit to Grantee under Paragraph (b) above, Grantee shall not be bound by the Noncompete Obligation. If Grantee voluntarily terminates employment with the Company or the Company terminates Grantee’s employment without Cause and the Company elects to provide the Restrictive Covenant Benefit for a period of less than the Protected Period, Grantee shall be bound by the Noncompete Obligation only for the period that the Company is paying, or that the Grantee is receiving, the Restrictive Covenant Benefit. 
+
+(d) The Company may elect, in its sole and absolute discretion, to provide notice to Grantee prior to a termination without Cause (instead of offering the Restrictive Covenant Benefit under Paragraph (b) above), the amount of said notice to be equal to the otherwise applicable Protected Period. During this notice period, Grantee will remain an employee of the Company and will assist in transitioning the 
+
+4 
+
+* * *
+
+business relationships with customers and other business contacts with which Grantee has had material involvement as requested by the Company and as needed to help the Company retain such business relationships. However, Grantee acknowledges and agrees that the Company can remove Grantee from active service during this notice period at its discretion but that doing so will not eliminate Grantee’s duty to remain loyal to the Company while on the Company’s payroll and to otherwise comply with the restrictions in this Agreement. The Company reserves the right at its sole and absolute discretion to require Grantee not to carry out Grantee’s duties or to carry out limited duties for the Company prior to the termination date. During the notice period, the Company shall be under no obligation to provide any work to, or vest any powers in, Grantee and Grantee shall have no right to perform any services for the Company. During the notice period, the Company shall be entitled at its sole and absolute discretion: (i) to require Grantee not to attend Grantee’s place of work or any other premises of the Company; and (ii) to require Grantee to work from Grantee’s home. During the notice period, Grantee shall continue to receive Grantee’s salary and all contractual benefits in the usual way and shall remain an employee of the Company with all associated duties under the common law; provided, however, that if the notice period is expected to continue beyond March 15 of the year following the year in which the Company placed the Grantee on notice, the Company will either pay such amounts to the Grantee prior to such March 15 or place any salary that would be paid to the Grantee during the remainder of the notice period into an escrow account meeting such terms and conditions as are determined by the Company prior to such March 15 and such amounts will be distributed from that escrow account during the remainder of the notice period. 
+
+(e) Grantee further agrees that for one (1) year following the termination of Grantee’s employment by either Grantee or the Company for any reason or no reason, Grantee will not, without the prior written consent of the Company, directly or indirectly (i) solicit, encourage, or induce any employee of the Company to terminate his or her employment with the Company; or (ii) hire or employ any person who is or was an employee or consultant of the Company. 
+
+(f) Grantee further agrees that for the Protected Period and thirty (30) days thereafter, upon the termination of Grantee’s employment by either Grantee or the Company for any reason or no reason, Grantee will not, without the prior written consent of the Company, directly or indirectly: (i) solicit any customer, supplier or vendor of the Company with which or with whom Grantee was involved as part of Grantee’s job responsibilities during Grantee’s employment with the Company (other than any such customer with which or with whom Grantee conducted business prior to commencement of his/her employment with the Company) or regarding which or whom Grantee learned Confidential Information during Grantee’s employment with the Company to obtain a Conflicting Product or Service from a Competing Business; or (ii) encourage or induce any customer, supplier or vendor of the Company not to do business with the Company or to reduce the amount of business it is doing or might do in the future with the Company or its affiliated entities. 
+
+(g) Grantee further acknowledges and agrees that the protective covenants herein are material and important terms of this Agreement, and Grantee further agrees that should all or any part or application of Paragraphs (a), (b), (d), (e) or (f) of this Exhibit A be held or found invalid or unenforceable for any reason whatsoever by a court or arbitrator of competent jurisdiction in an action between Grantee and the Company (despite, and after application of, any applicable rights to reformation that could add or renew enforceability), or if the Grantee breaches the obligations of this Exhibit A, the Company shall be entitled to receive from Grantee a return of the Shares and Restrictive Covenant Benefit (if applicable) and the Grantee shall forfeit any remaining portion of the Restrictive Covenant Benefit that has not been paid or distributed to the Grantee. If Grantee has sold, transferred, or otherwise disposed of the Shares, the Company shall be entitled to receive from Grantee the profits (if any) derived by Grantee by virtue of such sale, transfer, or other disposition. 
+
+(h) Grantee agrees not to engage in any unauthorized use or disclosure of the Company’s Confidential Information, customer relationships, or specialized training. Grantee agrees to use the Company’s 
+
+5 
+
+* * *
+
+Confidential Information and other benefits of Grantee’s employment to further the business interests of the Company. Grantee agrees to preserve records on current and prospective Company customers, suppliers, and other business relationships that Grantee develops or helps to develop, and not use these records in any way, directly or indirectly, to harm the Company’s business. Grantee agrees not to use the Company’s Confidential Information or any document or record concerning the business and affairs of the Company (“Company Record”) for any purpose without the prior written authorization of an officer of the Company, except that Grantee may use Confidential Information and Company Records to perform Grantee’s duties. These restrictions on use or disclosure of Confidential Information will only apply for three (3) years after the end of Grantee’s employment where information that does not qualify as a trade secret is concerned; however, the restrictions will continue apply to trade secret information for as long as the information at issue remains qualified as a trade secret. 
+
+(i) As used herein, the following terms shall have the meaning ascribed to them: 
+
+a. “Protected Period” shall mean: 
+
+i. For Executive Vice Presidents and Senior Managing Directors: six (6) months; 
+
+ii. For Managing Directors: four (4) months; 
+
+iii. For Directors and Vice Presidents: three (3) months; and 
+
+iv. Below Vice President: eight (8) weeks. 
+
+b. “Noncompete Obligation” means that Grantee will not, directly or indirectly, perform or provide services to a Competing Business (x) that are the same or similar (or use the same or similar skills or knowledge) to those Grantee performed for, or provided to, the Company or which serve the same or similar function or purpose or (y) which are otherwise likely to result in the disclosure of Confidential Information. 
+
+c. “Competing Business” means any person or entity engaged in the business of providing a Conflicting Product or Service or Conflicting Intellectual Property anywhere in the United States, Europe or Asia. 
+
+d. “Conflicting Product or Service or Conflicting Intellectual Property” means a product, service and/or intellectual property (or related service) that is the same or similar in function or purpose to a Company product, service or intellectual property (or related service) sold, used, provided to, performed for or employed by the Company, such that it would replace, modify or compete with: (i) a product and/or service the Company provides to, or performs for, its customers or is used, provided to or performed for Company internal purposes; (ii) intellectual property (or related service) developed, used, provided to or performed for the Company in its activities (including, but not limited to, trading strategies, models, algorithms, trading hardware and software) or as part of its IT design or infrastructure; or (iii) a product, service or intellectual property (or related service) that is under development or planning by the Company but not yet provided to or performed for customers or used, provided to or performed for internal purposes and regarding which Grantee was provided Confidential Information in the course of his/her employment. 
+
+e. “Confidential Information” refers to the Company’s trade secrets and any other legally protectable information that is maintained as confidential by the Company and that is not authorized for disclosure to the public. 
+
+(j) If a court or arbitrator finds a restriction herein to be unenforceable as written, such court or arbitrator (for the jurisdiction covered by that court or the matter before that arbitrator only) will revise the restriction so as to make it enforceable to protect the Company’s legitimate business interests. If one or more of the provisions of this Agreement are deemed void by law, then the remaining provisions will continue in full force and effect. 
+
+6 
+
+* * *
+
+(k) Notwithstanding any provision of the Plan or this Agreement to the contrary, the validity and construction of the provisions of this Exhibit A will be governed by the laws of the State of New Jersey, without regard to the conflicts of law principles thereof. The Grantee expressly agrees that the provisions of the Plan, including, without limitation, the Choice of Forum and Dispute Resolution provision therein, apply with full force and effect to this Exhibit A. 
+
+(l) If Grantee is already subject to similar or stronger restrictive covenants in Grantee’s employment agreement or offer letter, the restrictive covenants in that agreement will control and supersede the provisions in this Agreement. 
+
+7 

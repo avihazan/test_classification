@@ -1,0 +1,221 @@
+  
+
+
+  
+
+
+Exhibit 10.14
+
+FREESCALE SEMICONDUCTOR HOLDINGS
+
+
+
+THIS AGREEMENT (the "Agreement"), is made effective as of the date indicated in the grant summary in the Freescale equity recordkeeping system (the "Date of Grant"), between Freescale Semiconductor Holdings I, Ltd., a Bermuda limited company (the "Company"), and the recipient of the grant (the "Participant"):
+
+R E C I T A L S:
+
+WHEREAS, the Company has adopted the Freescale Holdings 2006 Management Incentive Plan (the "Plan"), which Plan is incorporated herein by reference and made a part of this Agreement. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its shareholders to grant the Stock Option provided for herein to the Participant pursuant to the Plan and the terms set forth herein in exchange for the Class B Interests in Freescale Holdings L.P. held by the Participant pursuant to a previous award (the "Prior Award").
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows:
+
+1\. Grant of the Option. The Company hereby grants (subject to the Participant's execution of the Investors Agreement) to the Participant the right and option (the "Option") to purchase, on the terms and conditions hereinafter set forth, all or any part of an aggregate number of shares of Common Stock (each a "Share" and collectively, the "Shares") as indicated in the grant summary in the Freescale equity recordkeeping system. The purchase price of the Shares subject to the Option shall be $1.24 per Share (the "Option Price"). The Option is intended to be a non-qualified stock option, and is not intended to be treated as an option that complies with Section 422 of the Code. The Option is granted to the Participant in substitution for the Prior Award (which Prior Award is hereby cancelled).
+
+  
+
+
+2\. Vesting.
+
+(a) Subject to the Participant's continued Employment with the Company, or except as otherwise provided below, the Option shall vest and become exercisable with respect to twenty-five percent (25%) of the Shares initially covered by the Option on each of the first, second, third and fourth anniversaries of the Date of Grant. At any time, the portion of the Option which has become vested and exercisable as described above (or pursuant to Sections 2(b) or 4 below) is hereinafter referred to as the "Vested Portion".
+
+(b) Notwithstanding any other provisions of this Agreement to the contrary, in the event of a Change of Control, the unvested portion of the Option shall become vested and exercisable for an additional number of Shares where that additional number of Shares equals the remaining unvested Shares multiplied by the Change of Control Cash Consideration Fraction. For purposes of this Agreement, "Change of Control Cash Consideration Fraction" shall mean, with respect to a Change of Control, the portion of the per Share consideration which is paid in the form of cash, provided that if the Change of Control Cash Consideration Fraction is .75 or higher, it shall be deemed to be 1. Notwithstanding the above, in the event the Participant's Employment is terminated by the Company or any successor thereto without Cause or by the Participant for Good Reason, in each case following a Change of Control, the Option shall immediately become fully vested and exercisable.
+
+3\. Exercise of Option.
+
+(a) Period of Exercise. Subject to the provisions of the Plan and this Agreement, the Participant may exercise all or any part of the Vested Portion of the Option at any time prior to the earliest to occur of:
+
+(i) the tenth anniversary of the Date of Grant;
+
+(ii) one (1) year following the date of the Participant's termination of Employment due to death or Disability;
+
+(iii) ninety (90) days following the date of the Participant's termination of Employment for any reason other than due to the Participant's death or Disability; and
+
+(iv) the date of the Participant's termination of Employment for Cause.
+
+(b) Method of Exercise.
+
+(i) Each election to exercise the Vested Portion shall be subject to the terms and conditions of the Plan and shall be in writing, signed by the Participant or by his or her executor, administrator, or permitted transferee (subject to any restrictions 
+
+  
+
+
+1
+
+* * *
+
+  
+
+
+  
+
+
+provided under the Plan and the Investors Agreement), made pursuant to and in accordance with the terms and conditions set forth in the Plan and received by the Company at its principal offices, accompanied by payment in full as provided in the Plan.
+
+(ii) The Option Price may be paid by delivery of cash or check acceptable to the Committee, or by means of withholding of Shares subject to the Vested Portion with an aggregate Fair Market Value equal to (A) the aggregate exercise price and (B) unless the Committee determines otherwise under Section 11 of this Agreement or the Company is precluded or restricted from doing so under debt covenants, minimum statutory withholding taxes with respect to such exercise, or by such other method provided under the Plan and explicitly approved by the Committee. In the event that the Vested Portion is exercised by a person other than the Participant, the Company shall ascertain the authority of the Option holder to exercise the Vested Portion and shall deliver the Shares hereunder to the Option holder after it is satisfied as to such authority.
+
+(iii) Notwithstanding any other provision of the Plan or this Agreement to the contrary, the Vested Portion may not be exercised prior to the completion of any registration or qualification of the Option or the Shares under applicable state and federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange that the Committee shall in its sole discretion determine to be necessary or advisable. The Committee shall use its best efforts to cause any registration or qualification of the Option or the Shares to be completed.
+
+(iv) Upon the Company's determination that the Vested Portion of the Option has been validly exercised as to any of the Shares, the Company shall issue certificates in the Participant's name for such Shares. However, the Company shall not be liable to the Participant for damages relating to any reasonable delays in issuing the certificates to such Participant, any loss of the certificates, or any mistakes or errors in the issuance of the certificates or in the certificates themselves which it promptly undertakes to correct.
+
+(v) In the event of the Participant's death, the Option shall remain exercisable by the Participant's executor or administrator, or the person or persons to whom the Participant's rights under this Agreement shall pass by will or by the laws of descent and distribution as the case may be, to the extent set forth in Section 3(a). Any heir or legatee of the Participant shall take rights herein granted subject to the terms and conditions hereof.
+
+(vi) In no event may a Participant or any other holder of an Option who has not executed the Investors Agreement exercise any part of the Vested Portion.
+
+  
+
+
+4\. Termination of Employment.
+
+(a) General. If the Participant's Employment is terminated for any reason, the Option shall, to the extent not then vested (after giving effect to the provisions of Section 2(b) and this Section 4), terminate upon such termination of Employment and the Vested Portion of the Option shall remain exercisable for the period set forth in Section 3(a) and shall thereafter terminate.
+
+(b) For Cause. The Option (including any Vested Portion thereof) shall terminate upon the Participant's termination of Employment for Cause.
+
+(c) Without Cause or for Good Reason. Upon the Participant's termination of Employment without Cause or by the Participant for Good Reason, the Option shall become vested and exercisable for an additional number of Shares equal to the number of Shares subject to the Option (if any) that would have vested on the next anniversary of the Date of Grant if the Participant had remained employed until such date (the "Subsequent Tranche"), multiplied by a fraction, the numerator of which equals the number of days elapsed from the vesting date immediately preceding termination of the Participant's Employment through the Participant's termination of Employment and the denominator of which equals 365 plus, if so determined in the sole discretion of the Chief Executive Officer of the Company, the Subsequent Tranche; subject in all circumstances to the maximum of the total number of Shares subject to the Option as of the date of such termination of Employment. Any portion of the Option that is not exercisable after giving effect to the above provisions of this Section 4(c) shall terminate immediately effective as of the termination of the Participant's Employment.
+
+(d) Death. Upon the Participant's termination of Employment due to death, the Option shall become fully vested and exercisable.
+
+(e) Disability. Upon the Participant's termination of Employment due to Disability, the Option shall become fully vested and exercisable.
+
+(f) Retirement. Upon the Participant's termination of Employment due to Retirement and solely to the extent so determined by the Company's Chief Executive Officer, the Option shall become vested and exercisable for an additional number of Shares equal to the Subsequent Tranche multiplied by a fraction, the numerator of which equals the number of days elapsed from the vesting date immediately preceding termination of Participant's Employment through the Participant's termination of Employment and the denominator of which equals 365; subject in all circumstances to the maximum of the total number of Shares subject to the Option as of the date of such termination of Employment. Any portion of the Option that is not 
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+exercisable after giving effect to the above provisions of this Section 4(f) shall terminate immediately effective as of the termination of the Participant's Employment.
+
+(g) By the Participant other than due to Disability or Good Reason. If the Participant's Employment is terminated on account of a termination of the Participant's Employment initiated by the Participant other than due to Disability or Good Reason, then the unvested portion of the Option then held by the Participant shall be automatically forfeited.
+
+(h) Forfeiture. Notwithstanding anything herein to the contrary, if the Participant breaches any Restrictive Covenants applicable to the Participant (including, without limitation, the Restrictive Covenants set forth in Exhibit A hereto) following termination of the Participant's Employment by the Participant other than due to Disability or Good Reason, then (x) any portion of the Option that vested during the twelve-month period immediately preceding the date of termination (the "Preceding Tranche") shall be automatically forfeited, (y) any Shares acquired pursuant to the exercise of an Option in the Preceding Tranche shall be subject to the call option set forth in Section 6 of the Investors Agreement and (z) any proceeds from the sale of Shares described in preceding clause (y), shall be immediately repaid to the Company.
+
+5\. Certain Covenants. The Participant hereby agrees and covenants to perform all of his obligations set forth in Exhibit A hereto (which is incorporated by reference hereby) and acknowledges that the Participant's obligations set forth in Exhibit A constitute a material inducement for the Company's grant of Options to the Participant.
+
+6\. Share Restrictions, etc. Except as expressly provided herein, the Participant's rights hereunder and with respect to Shares received upon exercise of the Vested Portion are subject to the restrictions and other provisions contained in the Investors Agreement.
+
+7\. Distributions, Redemptions, etc. Upon the occurrence of an Adjustment Event, the Option Price shall be reduced by an amount equal to the per-Share amount paid in connection with the Adjustment Event; provided, however, that any such reduction shall be limited to that portion of such amount which would not cause the Option Price to be reduced below 25% of the per-Share Fair Market Value, as of the date of such reduction. In the case of a redemption or repurchase, the number of Shares of the class of stock redeemed or repurchased that are subject to the Option will be automatically reduced by an amount proportionate to the percentage reduction in outstanding shares of the affected class resulting from the redemption or repurchase.
+
+8\. No Right to Continued Employment. The granting of the Option evidenced hereby and this Agreement shall impose no obligation on the Company or any Affiliate to continue the Employment of the Participant and shall not lessen or affect the Company's or its Affiliate's right to terminate the Employment of such Participant.
+
+9\. Legend on Certificates. The certificates representing the Shares purchased by exercise of the Vested Portion shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed, and any applicable Federal or state laws, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions.
+
+10\. Transferability. Except as provided in the Investors Agreement, the Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. No such permitted transfer of the Option to heirs or legatees of the Participant shall be effective to bind the Company unless the Committee shall have been furnished with written notice thereof and a copy of such evidence as the Committee may deem necessary to establish the validity of the transfer and the acceptance by the transferee or transferees of the terms and conditions hereof. During the Participant's lifetime, the Vested Portion is exercisable only by the Participant or a permitted transferee (pursuant to the Investors Agreement).
+
+11\. Withholding. Notwithstanding any other provision in this Agreement to the contrary, the Participant may be required to pay to the Company or any Affiliate and the Company shall have the right and is hereby authorized to withhold from any payment due or transfer made under the Option or under the Plan or from any compensation or other amount owing to a Participant the amount (in cash, Shares, other securities or other property) of any applicable withholding taxes in respect of the Option, its exercise or any payment or transfer under or with respect to the Option or the Plan and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes.
+
+12\. Securities Laws. The issuance of any Shares hereunder shall be subject to the Participant making or entering into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws.
+
+13\. Notices. Any notice necessary under this Agreement shall be addressed to the Company in care of its Secretary at the principal executive office of the Company and to the Participant at the address appearing in the personnel records of the 
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+  
+
+
+Company for the Participant or to either party at such other address as either party hereto may hereafter designate in writing to the other. Any such notice shall be deemed effective upon receipt thereof by the addressee.
+
+14\. Governing Law. This Agreement and all claims arising out of or based upon this Agreement or relating to the subject matter hereof shall be governed by and construed in accordance with the domestic substantive laws of the State of Delaware without giving effect to any choice or conflict of laws provision or rule that would cause the application of the domestic substantive laws of any other jurisdiction.
+
+15\. Consent to Jurisdiction. All actions arising out of or relating to this Agreement shall be heard and determined exclusively in any New York state or federal court sitting in the Borough of Manhattan in The City of New York. The parties hereto hereby (a) submit to the exclusive jurisdiction of any state or federal court sitting in the Borough of Manhattan of The City of New York for the purpose of any action arising out of or relating to this Agreement brought by any party hereto, and (b) irrevocably waive, and agree not to assert by way of motion, defense, or otherwise, in any such action, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune of from attachment or execution, that the action is brought in an inconvenient forum, that the venue of the action is improper, or that this Agreement or the transactions contemplated hereby may not be enforced in or by any of the above-named courts.
+
+16\. WAIVER OF JURY TRIAL. TO THE EXTENT NOT PROHIBITED BY APPLICABLE LAW WHICH CANNOT BE WAIVED, EACH PARTY HERETO HEREBY WAIVES AND COVENANTS THAT IT WILL NOT ASSERT (WHETHER AS PLAINTIFF, DEFENDANT OR OTHERWISE) ANY RIGHT TO TRIAL BY JURY IN ANY FORUM IN RESPECT OF ANY ISSUE OR ACTION, CLAIM, CAUSE OF ACTION OR SUIT (IN CONTRACT, TORT OR OTHERWISE), INQUIRY, PROCEEDING OR INVESTIGATION ARISING OUT OF OR BASED UPON THIS AGREEMENT OR THE SUBJECT MATTER HEREOF OR IN ANY WAY CONNECTED WITH OR RELATED OR INCIDENTAL TO THE TRANSACTIONS CONTEMPLATED HEREBY, IN EACH CASE WHETHER NOW EXISTING OR HEREAFTER ARISING. EACH PARTY HERETO ACKNOWLEDGES THAT IT HAS BEEN INFORMED BY THE OTHER PARTIES HERETO THAT THIS SECTION 16 CONSTITUTES A MATERIAL INDUCEMENT UPON WHICH THEY ARE RELYING AND WILL RELY IN ENTERING INTO THIS AGREEMENT AND THE TRANSACTIONS CONTEMPLATED HEREBY. ANY PARTY HERETO MAY FILE AN ORIGINAL COUNTERPART OR A COPY OF THIS SECTION 16 WITH ANY COURT AS WRITTEN EVIDENCE OF THE CONSENT OF EACH SUCH PARTY TO THE WAIVER OF ITS RIGHT TO TRIAL BY JURY.
+
+17\. Option Subject to Plan and Investors Agreement. By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan, the Investors Agreement and the Offering Memorandum for the Plan. The Option is subject to the Plan and the Investors Agreement, each as may be amended from time to time, and the terms and provisions of the Plan and the Investors Agreement are hereby incorporated herein by reference. By entering into this Agreement, the Participant hereby authorizes the General Counsel of Freescale Semiconductor, Inc. (the "General Counsel") as the Participant's attorney-in-fact and delegates full power and authority to the General Counsel to enter into the Investors Agreement on the Participant's behalf.
+
+18\. Section 409A. It is intended that the terms of this Agreement comply with section 409A of the Code. If it is determined that the terms of this Agreement have been structured in a manner that would result in adverse tax treatment under Section 409A of the Code, the parties agree to cooperate in taking all reasonable measures to restructure the arrangement to minimize or avoid such adverse tax treatment without materially impairing Participant's economic rights.
+
+19\. Acceptance. This Agreement must be accepted by electronic signature of the Participant in the Freescale equity recordkeeping system.
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+EXHIBIT A
+
+Restrictive Covenants.  
+  
+(a)
+
+Confidential Information. The Participant shall hold in a fiduciary capacity for the benefit of the Company and its Affiliates (collectively, the "Affiliated Group"), all secret or confidential information, knowledge or data relating to the Affiliated Group and its businesses (including, without limitation, any proprietary and not publicly available information concerning any processes, methods, trade secrets, research or secret data, costs, names of users or purchasers of their respective products or services, business methods, operating procedures or programs or methods of promotion and sale) that the Participant obtains during the Participant's Employment that is not public knowledge (other than as a result of the Participant's violation of this Section (a)) ("Confidential Information"). The Participant shall not communicate, divulge or disseminate Confidential Information at any time during or after the Participant's Employment, except with the prior written consent of the Company, or as otherwise required by law or legal process or as such disclosure or use may be required in the course of the Participant performing his duties and responsibilities with the Affiliated Group. Notwithstanding the foregoing provisions, if the Participant is required to disclose any such confidential or proprietary information pursuant to applicable law or a subpoena or court order, the Participant shall promptly notify the Company in writing of any such requirement so that the Company or the appropriate member of the Affiliated Group may seek an appropriate protective order or other appropriate remedy or waive compliance with the provisions hereof. The Participant shall reasonably cooperate with the Company or the appropriate member of the Affiliated Group to obtain such a protective order or other remedy. If such order or other remedy is not obtained prior to the time the Participant is required to make the disclosure, or the Company waives compliance with the provisions hereof, the Participant shall disclose only that portion of the confidential or proprietary information which he is advised by counsel in writing (either his or the Company's) that he is legally required to so disclose. Upon his termination of Employment for any reason, the Participant shall promptly return to the Company all records, files, memoranda, correspondence, notebooks, notes, reports, customer lists, drawings, plans, documents, and other documents and the like relating to the business of the Affiliated Group or containing any trade secrets relating to the Affiliated Group or that the Participant uses, prepares or comes into contact with during the course of the Participant's employment with the Affiliated Group, and all keys, credit cards and passes, and such materials shall remain the sole property of the Affiliated Group. The Participant agrees to execute any standard-form confidentiality agreements with the Company that the Company in the future generally enters into with its senior executives.  
+  
+(b)
+
+Work Product and Inventions. The Affiliated Group and/or its nominees or assigns shall own all right, title and interest in and to any and all inventions, ideas, trade secrets, technology, devices, discoveries, improvements, processes, developments, designs, know how, show-how, data, computer programs, algorithms, formulae, works of authorship, works modifications, trademarks, trade names, documentation, techniques, designs, methods, trade secrets, technical specifications, technical data, concepts, expressions, patents, patent rights, copyrights, moral rights, and all other intellectual property rights or other developments whatsoever (collectively, "Developments"), whether or not patentable, reduced to practice or registrable under patent, copyright, trademark or other intellectual property law anywhere in the world, made, authored, discovered, reduced to practice, conceived, created, developed or otherwise obtained by the Participant (alone or jointly with others) during the Participant's Employment with the Affiliated Group, and arising from or relating to such employment or the business of the Affiliated Group (whether during business hours or otherwise, and whether on the premises of using the facilities or materials of the Affiliated Group or otherwise). The Participant shall promptly and fully disclose to the Affiliated Group and to no one else all Developments, and hereby assigns to the Affiliated Group without further compensation all right, title and interest the Participant has or may have in any Developments, and all patents, copyrights, or other intellectual property rights relating thereto, and agrees that the Participant has not acquired and shall not acquire any rights during the course of his employment with the Affiliated Group or thereafter with respect to any Developments.  
+  
+(c)
+
+Non-Recruitment of Affiliated Group Employees. The Participant shall not, at any time during the Nonsolicitation Restricted Period (as defined below), other than in the ordinary exercise of his duties, without the prior written consent of the Affiliated Group, directly or indirectly, solicit, recruit, or employ (whether as an employee, officer, agent, consultant or independent contractor) any person who is or was at any time during the previous 12 months, an employee, representative, officer or director of any member of the Affiliated Group. Further, during the Nonsolicitation Restricted Period, the Participant shall not take any action that could reasonably be expected to have the effect of directly encouraging or inducing any person to cease their relationship with any member of the Affiliated Group for any reason. A general employment advertisement by an entity of which the Participant is a part will not constitute solicitation or recruitment. The "Nonsolicitation Restricted Period" shall mean the period from the Date of Grant through the second anniversary of the Participant's termination of Employment.  
+  
+(d)
+
+Non-Competition - Solicitation of Business. During the Noncompetition Restricted Period (as defined below), the Participant shall not, either directly or indirectly, compete with the business of the Affiliated Group by (i) becoming an officer, agent, employee, partner or director of any other corporation, partnership or other entity, or otherwise render   
+  
+  
+
+
+5
+
+* * *
+
+  
+
+
+  
+
+
+services to or assist or hold an interest (except as a less than 3-percent shareholder of a publicly traded corporation or as a less than 5-percent shareholder of a corporation that is not publicly traded) in any Competitive Business (as defined below), or (ii) soliciting, servicing, or accepting the business of (A) any active customer of any member of the Affiliated Group, or (B) any person or entity who is or was at any time during the previous twelve months a customer of any member of the Affiliated Group, provided that such business is competitive with any significant business of any member of the Affiliated Group. "Competitive Business" shall mean any person or entity (including any joint venture, partnership, firm, corporation, or limited liability company) that conducts a business that is competitive with any significant business of the Affiliated Group as of the date of termination (or any significant business that is being actively pursued as of the date of termination by the Affiliated Group). The "Noncompetition Restricted Period" shall mean the period from the Date of Grant through the second anniversary of the date of termination of the Participant's Employment.  
+  
+(e)
+
+Assistance. The Participant agrees that during and after his employment by the Affiliated Group, upon request by the Company, the Participant will assist the Affiliated Group in the defense of any claims, or potential claims that may be made or threatened to be made against any member of the Affiliated Group in any action, suit or proceeding, whether civil, criminal, administrative, investigative or otherwise (a "Proceeding"), and will assist the Affiliated Group in the prosecution of any claims that may be made by any member of the Affiliated Group in any Proceeding, to the extent that such claims may relate to the Participant's Employment or the period of the Participant's Employment by the Affiliated Group. The Participant agrees, unless precluded by law, to promptly inform the Company if the Participant is asked to participate (or otherwise become involved) in any Proceeding involving such claims or potential claims. The Participant also agrees, unless precluded by law, to promptly inform the Company if the Participant is asked to assist in any investigation (whether governmental or otherwise) of any member of the Affiliated Group (or their actions), regardless of whether a lawsuit has then been filed against any member of the Affiliated Group with respect to such investigation. The Company agrees to reimburse the Participant for all of the Participant's reasonable out-of-pocket expenses associated with such assistance, including travel expenses and any attorneys' fees and shall pay a reasonable per diem fee for the Participant's service. In addition, the Participant agrees to provide such services as are reasonably requested by the Company to assist any successor to the Participant in the transition of duties and responsibilities to such successor. Any services or assistance contemplated in this Section (e) shall be at mutually agreed to and convenient times.  
+  
+(f)
+
+Remedies. The Participant acknowledges and agrees that the terms of this Exhibit A: (i) are reasonable in geographic and temporal scope, (ii) are necessary to protect legitimate proprietary and business interests of the Affiliated Group in, inter alia, near permanent customer relationships and confidential information. The Participant further acknowledges and agrees that the Participant's breach of the provisions of this Exhibit A will cause the Affiliated Group irreparable harm, which cannot be adequately compensated by money damages. The Participant consents and agrees that the forfeiture provisions contained in the Plan, the Agreement and the Investors Agreement, are reasonable remedies in the event the Participant commits any such breach. If any of the provisions of this Exhibit A are determined to be wholly or partially unenforceable, the Participant hereby agrees that Exhibit A or any provision hereof may be reformed so that it is enforceable to the maximum extent permitted by law. If any of the provisions of this Exhibit A are determined to be wholly or partially unenforceable in any jurisdiction, such determination shall not be a bar to or in any way diminish the Affiliated Group's right to enforce any such covenant in any other jurisdiction.  
+  
+  
+
+
+  
+
+
+  
+
+
+6

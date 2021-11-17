@@ -1,0 +1,74 @@
+Exhibit 10.2 
+
+FORM OF 
+
+
+
+FOR NON-EMPLOYEE DIRECTORS 
+
+CONAGRA FOODS 2009 STOCK PLAN 
+
+This Restricted Stock Unit Agreement, hereinafter referred to as the “Agreement” is made on the day of , 20 between ConAgra Foods, Inc., a Delaware corporation (the “Company”), and the undersigned director of the Company (“Director”). 
+
+1\. Award Grant. The Company hereby grants Restricted Stock Units (“RSUs,” and each such unit an “RSU”) to the Director under the ConAgra Foods 2009 Stock Plan (the “Plan”), as follows: 
+
+Director: 
+
+Number of RSUs: 
+
+Date of Grant: 
+
+Vesting Date:  (the “Vesting Date”) 
+
+The Vesting Date is subject to modification for early settlement as provided in Sections 2 and 6. 
+
+Dividends: Dividend equivalents on the RSUs will be accumulated for the benefit of the Director if and when regular cash dividends are declared and paid on the Stock, and will be paid in shares of Stock to the Director upon settlement of the RSUs. 
+
+IN WITNESS WHEREOF, the Company and the Director have caused this Agreement to be executed effective as of the date first written above. The Company and the Director acknowledge that this Agreement includes four pages including this first page. The Director acknowledges reading and agreeing to all four pages and that in the event of any conflict between the terms of this Agreement and the terms of the Plan, the Plan shall control. Capitalized terms used herein without definition have the meaning set forth in the Plan.   
+  
+CONAGRA FOODS, INC. DIRECTOR  
+By: By:  
+  
+Gary M. Rodkin, President and Chief Executive
+
+Officer  
+  
+Date: Date:  
+  
+* * *
+
+2\. RSU Settlement. 
+
+(a) Continuous Service. Subject to the Plan and this Agreement, if the Director serves continuously as a member of the Board from the Date of Grant through the Vesting Date [for interim grant: (the “Vesting Period”)], then the Company will issue to the Director one share of Stock for each RSU as soon as administratively practicable after the Vesting Date (but in no event more than 30 days after the Vesting Date). 
+
+(b) Death or Permanent Disability. If the Director ceases to serve as a member of the Board before the Vesting Date due to the death or permanent disability of the Director (with permanent disability determined in the Company’s sole discretion), then the RSUs will vest upon the date of the Director’s cessation of service as a member of the Board as a result of such death or permanent disability, and the Company will issue to the Director (or the Director’s legal representative) one share of Stock for each RSU as soon as administratively practicable after the Director incurs a Separation from Service (within the meaning of Section 409A of the Code) as a result of such death or permanent disability (but in no event more than 30 days after the date of such Separation from Service). 
+
+(c) Other than Death or Permanent Disability. If the Director ceases to serve as a member of the Board before the Vesting Date for any reason other than as set forth in Section 2(b), then the RSUs will vest upon the date of the Director’s cessation of service as a member of the Board at a rate of 25% of the RSUs for each fiscal quarter during the [for interim grant: Vesting Period / for annual grant: fiscal year in which the RSU is granted] with respect to which the Director was serving as a member of the Board on the first day of such fiscal quarter (with any RSUs that do not vest according to this Section 2(c) being forfeited by the Director upon such cessation of service), and the Company will issue to the Director one share of Stock for each vested RSU as soon as administratively practicable after the Director incurs a Separation from Service (within the meaning of Section 409A of the Code) (but in no event more than 30 days after the date of such Separation from Service). 
+
+(d) Deferral of Settlement. Notwithstanding the foregoing or anything in this Agreement or the Plan to the contrary, a Director may elect to defer receipt of shares of Stock to be received pursuant to this Agreement pursuant to the Company’s Directors’ Deferred Compensation Plan, as amended from time to time, or any successor deferred compensation plan applicable to non-employee directors. 
+
+(e) Specified Employee. Notwithstanding anything (including any provision of the Agreement or Plan) to the contrary, if the Director becomes a specified employee (as defined in Section 409A of the Code) and if the RSUs are subject to Section 409A of the Code, payment to the Director of any deferred compensation subject to Section 409A on account of a Separation from Service (within the meaning of Section 409A of the Code) shall, to the extent required to comply with Treasury Regulation Section 1.409A-3(i)(2), be made to the Director on the earlier of (i) the Director’s death or (ii) the first business day (or within 30 days after such first business day) that is more than six months after the date of Separation from Service. Interest may be paid due to such delay, provided that such interest payments are made at a reasonable rate in accordance with Treasury Regulation Section 1.409A-1(o). Further, any interest will be calculated in the manner determined by the Company in its sole and absolute discretion in a manner that qualifies any interest as reasonable earnings under Section 409A of the Code. Dividend equivalents will be paid with respect to any dividends that would have been paid during the delay as if the Stock had been issued. 
+
+3\. Non-Transferability of RSUs. The RSUs may not be assigned, transferred, pledged or hypothecated in any manner (otherwise than by will or the laws of descent or distribution), nor may the Director enter into any transaction for the purpose of, or which has the effect of, reducing the market risk of holding the RSUs by using puts, calls or similar financial techniques. The RSUs subject to this Agreement may be settled during the lifetime of the Director only with the Director. The terms of this Agreement shall be binding upon the beneficiaries, executors, administrators, heirs, successors and assigns (the “Successors”) of the Director. 
+
+4\. Stock Subject to the RSUs. The Company will not be required to issue or deliver any certificate or certificates for shares to be issued hereunder until such shares have been listed (or authorized for listing upon official notice of issuance) upon each stock exchange on which outstanding shares of the same class are then listed and until the Company has taken such steps as may, in the opinion of counsel for the Company, be required by law and applicable regulations, including the rules and regulations of the Securities and Exchange Commission, and state securities laws and regulations, in connection with the issuance of such shares, and the listing of such shares on each such exchange. The Company will use its best efforts to comply with any such requirements. 
+
+5\. Rights as Stockholder. The Director or his/her Successors shall have no rights as a stockholder with respect to any shares subject to the RSUs until the Director or his/her Successors shall have become the beneficial owner of such shares, and, except as provided in Section 6 of this Agreement, no adjustment shall be made for dividends or distributions or other rights in respect of such shares for which the record date is prior to the date on which the Director or his/her Successors shall have become the beneficial owner thereof. 
+
+2 
+
+* * *
+
+6\. Adjustments Upon Changes in Capitalization; Change in Control. In the event of any change in corporate capitalization, corporate transaction, sale or disposition of assets or similar corporate transaction or event involving the Company as described in Section 5.4 of the Plan, the Committee shall make equitable adjustment in the number and type of shares subject to the RSUs; provided, however, that no fractional share shall be issued upon subsequent settlement of the RSUs. No adjustment shall be made if such adjustment is prohibited by Section 5.4 of the Plan (relating to Section 409A of the Code). The provisions of Section 11.5 of the Plan related to any “Change of Control” (as defined in the Plan) are applicable to this Agreement and the Company will issue to the Director one share of Stock for each RSU as soon as administratively practicable after the date of the Change of Control (but in no event more than 30 days after such date). 
+
+7\. Notices. Each notice relating to this Agreement shall be deemed to have been given on the date it is received. Each notice to the Company shall be addressed to its principal office in Omaha, Nebraska, Attention: Compensation. Each notice to the Director or any other person or persons entitled to receive shares issuable upon settlement of the RSUs shall be addressed to the Director’s address and may be in written or electronic form. Anyone to whom a notice may be given under this Agreement may designate a new address by giving notice to that effect. 
+
+8\. Benefits of Agreement. This Agreement shall inure to the benefit of and be binding upon each successor of the Company. All obligations imposed upon the Director and all rights granted to the Company under this Agreement shall be binding upon the Director’s Successors. This Agreement and the Plan shall be the sole and exclusive source of any and all rights which the Director or his/her Successors may have in respect to the Plan or this Agreement. 
+
+9\. Resolution of Disputes. Any dispute or disagreement which should arise under or as a result of or in any way relate to the interpretation, construction or application of this Agreement will be determined by the Board. Any determination made hereunder shall be final, binding and conclusive for all purposes. This Agreement and the legal relations between the parties hereto shall be governed by and construed in accordance with the laws of the State of Delaware. 
+
+10\. Section 409A Compliance. This Agreement is intended to comply with Section 409A of the Code and any regulations or notices provided thereunder. The Company reserves the unilateral right to amend this Agreement on written notice to the Director in order to comply with such section. It is intended that all compensation and benefits payable or provided to Director under this Agreement shall, to the extent required to comply with Section 409A of the Code, fully comply with the provisions of Section 409A of the Code and the Treasury Regulations relating thereto so as not to subject Directors to the additional tax, interest or penalties which may be imposed under Section 409A of the Code. None of the Company, its contractors, agents and employees, the Board and each member of the Board shall be liable for any consequences of any failure to follow the requirements of Section 409A of the Code or any guidance or regulations thereunder, unless such failure was the direct result of an action or failure to act that was undertaken by the Company in bad faith. 
+
+11\. Amendment. Any amendment to the Plan shall be deemed to be an amendment to this Agreement to the extent that the amendment is applicable hereto; provided, however, that no amendment shall adversely affect the rights of the Director under this Agreement without the Director’s consent; further, provided, that the Director’s consent shall not be required to an amendment that is deemed necessary by the Company to ensure compliance with Section 409A of the Code. 
+
+3 

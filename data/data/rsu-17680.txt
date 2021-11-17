@@ -1,0 +1,217 @@
+EXHIBIT10.13
+
+CÜR Media, Inc.
+
+
+
+Granted Under 2014 Equity Incentive Plan
+
+1\. Grant of Option.
+
+This agreement (this “Agreement”) evidences the grant by CÜR Media, Inc., a Delaware corporation (the “Company”), on _________, 20__ (the “Grant Date”) to ___________________, an employee, director, consultant or advisor of the Company (the “Participant”), of an option (the “Option”) to purchase, in whole or in part, on the terms provided herein and in the Company’s 2014 Equity Incentive Plan (the “Plan”) ________ shares (the “Shares”) of the Company’s common stock, $0.0001 par value per share (the “Common Stock”), at an exercise price of $_____. Unless earlier terminated, this option shall expire at 5:00 p.m., Eastern Time, on ________, 20__ (the “Final Exercise Date”).
+
+It is not intended that the Option evidenced by this Agreement be an incentive stock option as defined in Section 422 of the Internal Revenue Code of 1986, as amended, and any regulations promulgated thereunder (the “Code”). Accordingly, the Option shall be treated as a non-qualified stock option.
+
+Except as otherwise indicated by the context, the term “Participant”, as used in this Agreement, shall be deemed to include any person who acquires the right to exercise this option validly under its terms.
+
+The Participant agrees to report sales of Shares that were issued pursuant to Option exercises to the Company within five (5) business days after such sale is concluded. The Participant also agrees to pay to the Company, within ten (10) business days after such sale is concluded, the amount necessary for the Company to satisfy its withholding requirement required by the Code in the manner specified in Section 13 of the Plan. Nothing herein is intended as a representation that the Shares may be sold without registration under state and federal securities laws or an exemption therefrom or that such registration or exemption will be available at any specified time.
+
+2\. Vesting Schedule.
+
+The Option will vest and become exercisable as to 25% of the original number of Shares (_______), on __________, 20__ and as to the remaining 75% of the original number of Shares, (________) pro-rata on a monthly basis for the next three years.
+
+The right of exercise shall be cumulative so that to the extent the Option is not exercised in any period to the maximum extent permissible it shall continue to be exercisable, in whole or in part, with respect to all Shares for which it is vested until the earlier of the Final Exercise Date or as provided in Section 3 hereof or in the Plan.
+
+1
+
+* * *
+
+3\. Exercise of Option.
+
+(a) (i) Manner of Exercise. Each election to exercise the Option shall be in writing, in substantially the form of Notice of Stock Option Exercise attached hereto as Exhibit A (the “Exercise Notice”), signed by the Participant, and received by the Company at its principal office, accompanied by this Agreement, and payment in full in the manner provided herein. The Participant may purchase less than the number of Shares covered hereby, provided that no partial exercise of the Option may be for any fractional share.
+
+(ii) Manner of Payment. Payment of the exercise price may be made in cash, by certified or cashier’s check or on a cashless basis. The Participant may exercise the Option, in whole or in part, on a cashless basis determined by the following formula:
+
+X = Y*(A-B)
+
+A  
+  
+Where 
+
+X = the number of Shares to be issued to the Participant.
+
+Y = the number of exercised Shares.
+
+A = the Fair Value (as defined below) of one Share (determined at the date of delivery of the Exercise Notice).
+
+B = the Exercise Price (as adjusted to the date of such calculation).  
+  
+(iii) For the purposes of Section 3(a)(ii), Fair Value per share of Common Stock shall mean the average Closing Price (as defined below) per share of Common Stock on the five (5) trading days immediately preceding the date on which the Notice of Exercise is received by the Company. Closing Price means, for any date, the price determined by the first of the following clauses that applies: (a) if the Common Stock is then listed or quoted on the New York Stock Exchange, the American Stock Exchange, the NASDAQ Global Select Market, the NASDAQ Global Market or the NASDAQ Capital Market or any other national securities exchange, the closing price per share of the Common Stock for such date (or the nearest preceding date) on the primary eligible market or exchange on which the Common Stock is then listed or quoted; (b) if prices for the Common Stock are then quoted on the OTC Bulletin Board or OTC Markets, the closing bid price per share of the Common Stock for such date (or the nearest preceding date) so quoted; or (c) if prices for the Common Stock are then reported in the “Pink Sheets” published by the National Quotation Bureau Incorporated (or a similar organization or agency succeeding to its functions of reporting prices), the most recent closing bid price per share of the Common Stock so reported. If the Common Stock is not publicly traded as set forth above, the Fair Value per share of Common Stock shall be reasonably and in good faith determined by the Board of Directors of the Company as of the date which the Notice of Exercise is received by the Company.
+
+2
+
+* * *
+
+(b) Exercise Period Upon Disability. If the Participant becomes disabled (within the meaning of Section 22(e)(3) of the Code) prior to the Final Exercise Date while he or she is an Eligible Participant, the vesting schedule of the Options shall be accelerated so that all of the Options that have not yet vested as of the date of disability shall vest immediately and the Option shall be exercisable, within the period of one year following the date of disability of the Participant, by the Participant, provided that the Option shall not be exercisable after the Final Exercise Date.
+
+(c) Exercise Period Upon Death. If the Participant dies prior to the final Exercise Date while he or she is an Eligible Participant, the vesting schedule of the Options shall be accelerated so that all of the Options that have not yet vested as of the date of the Participant’s death shall vest immediately and this Option shall be exercisable at any time through and including the Final Exercise Date by an authorized transferee.
+
+4\. Tax Matters.
+
+(a) Withholding. No Shares will be issued pursuant to the exercise of the Option unless and until the Participant pays to the Company, or makes provision satisfactory to the Company for payment of, any federal, state or local withholding taxes required by law to be withheld in respect of the Option. Regardless of any action the Company or the Participant take with respect to any or all income tax (including federal, state, local and foreign tax), social insurance, payroll tax, payment on account or other tax-related items related to Participant’s participation in the Plan and legally applicable to Participant (“Tax-Related Items”), Participant acknowledges that the ultimate liability for all Tax-Related Items is and remains Participant’s responsibility and may exceed the amount actually withheld by the Company.
+
+5\. Transfer Restrictions.
+
+(a) The Option may not be sold, assigned, transferred, pledged or otherwise encumbered by the Participant, either voluntarily or by operation of law, except by will or the laws of descent and distribution, and, during the lifetime of the Participant, the Option shall be exercisable only by the Participant.
+
+(b) The issuance and transfer of Shares shall be subject to compliance by the Company and Participant with all applicable requirements of federal, state, local or foreign securities laws and with all applicable requirements of any stock exchange or trading market on which the Shares may be listed at the time of such issuance or transfer.
+
+3
+
+* * *
+
+6\. Nature of the Grant.
+
+By entering into this Agreement and accepting the grant of the Option evidenced hereby, Participant acknowledges that: (i) the Plan is established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time unless otherwise provided in the Plan and this Agreement; (ii) the grant of the Option is voluntary and occasional and does not create any contractual or other right to receive future grants of options, or benefits in lieu of options; (iii) all decisions with respect to future grants, if any, will be at the sole discretion of the Company; (iv) Participant’s participation in the Plan shall not create a right to further employment with the Company and shall not interfere with the ability of the Company to terminate Participant’s employment relationship at any time; (v) Participant’s participation in the Plan is voluntary; (vi) the future value of the underlying Shares is unknown and cannot be predicted with certainty, and if the Participant exercises the Option and obtains Shares, the value of those Shares may increase or decrease in value, even below the exercise price; and (vii) if the underlying Shares do not increase in value, the Option will have no value.
+
+7\. 409A Disclaimer.
+
+This Agreement shall be interpreted in accordance with, and incorporate the terms and conditions required by, Section 409A of the Code. The Company reserves the right, to the extent the Company deems necessary or advisable in its sole discretion, to unilaterally amend or modify this Agreement or adopt other policies and procedures (including amendments, policies and procedures with retroactive effect), or take any other actions, as the Company determines are necessary or appropriate to ensure that the Option qualifies for exemption from, or complies with the requirements of, Code Section 409A; provided, however, that the Company makes no representation that the Option will be exempt from, or will comply with, Section 409A of the Code, and makes no undertakings to preclude Section 409A of the Code from applying to the Option or to ensure that it complies with Section 409A of the Code. For the avoidance of doubt, Participant hereby acknowledges and agrees that the Company will have no liability to Participant or any other party if the grant, vesting, exercise, issuance of shares or any other transaction under this Agreement is not exempt from, or compliant with, Code Section 409A, or for any action taken by the Company with respect thereto.
+
+8\. Additional Terms.
+
+The Company reserves the right to impose other requirements on Participant’s participation in the Plan, to the extent the Company determines it is necessary or advisable in order to comply with local law or facilitate the administration of the Plan, and to require Participant to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.
+
+4
+
+* * *
+
+9\. Investment Intent.
+
+By accepting the Option, the Participant represents and agrees that none of the Shares of Common Stock purchased upon exercise of the Option will be distributed in violation of applicable federal and state laws and regulations. In addition, the Company may require, as a condition of exercising the Option, that the Participant execute an undertaking, in such a form as the Company shall reasonably specify, that the Shares are being purchased only for investment and without any then-present intention to sell or distribute such shares.
+
+10\. Adjustments for Stock Splits, Stock Dividends, Etc.
+
+(a) In the case of any recapitalization, reclassification, consolidation, stock split, stock dividend, subdivision or combination of shares or like change in the nature of the Common Stock covered by this Agreement, the number of Options and exercise price shall be proportionately adjusted.
+
+(b) The existence of the Options shall not affect in any way the right or power of the Company or its shareholders to make or authorize any adjustments, recapitalizations, reorganizations, or other changes in the Company’s capital structure or its business, or any merger or consolidation of the Company, or any issue of bonds, debentures, preferred or preference stocks ahead of or affecting the shares issuable upon exercise of the Options, or the dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise.
+
+11\. Professional Advice.
+
+The acceptance of the Option, exercise of the Option, and the sale of Common Stock issued following the exercise of Option may have consequences under federal and state tax and securities laws which may vary depending upon the individual circumstances of the Participant. Accordingly, the Participant acknowledges that he or she has been advised to consult his or her personal legal and tax advisor in connection with this Agreement and his or her dealings with respect to the Options. Without limiting other matters to be considered with the assistance of the Participant’s professional advisors, the Participant should consider: (a) whether upon the exercise of the Options, the Participant will file an election with the Internal Revenue Service pursuant to Section 83(b) of the Code and the implications of alternative minimum tax pursuant to the Code; (b) the merits and risks of an investment in the underlying Shares of Common Stock; and (c) any resale restrictions that might apply under applicable securities laws.
+
+12\. Provisions of the Plan.
+
+The terms of the Options are subject to the provisions of the Plan, as the same may from time to time be amended, and any inconsistencies between this Agreement and the Plan, as the same may be from time to time amended, shall be governed by the provisions of the Plan, a copy of which has been delivered to the Participant, and which is available for inspection at the principal offices of the Company.
+
+5
+
+* * *
+
+13\. Miscellaneous.
+
+(a) Disputes. Any dispute or disagreement that may arise under or as a result of this Agreement, or any question as to the interpretation of this Agreement, may be determined by the Company’s Board of Directors in its absolute and uncontrolled discretion, and any such determination shall be final, binding, and conclusive on all affected persons.
+
+(b) Notices. Any notice that a party may be required or permitted to give to the other shall be in writing, and may be delivered personally, by overnight courier or by certified or registered mail, postage prepaid, addressed to the parties at their current principal addresses, or such other address as either party, by notice to the other, may designate in writing from time to time.
+
+(c) Law Governing. This Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+
+(d) Agreement Binding. This Agreement shall be binding upon the heirs, executors, administrators, successors and assigns of the parties hereto.
+
+(e) Further Action. The parties hereto shall execute and deliver all documents, provide all information and take or forbear from all such action as may be necessary or appropriate to achieve the purposes of the Agreement.
+
+(f) Parties of Interest. Nothing herein shall be construed to be to the benefit of any third party, nor is it intended that any provision shall be for the benefit of any third party.
+
+(g) Savings Clause. If any provision of this Agreement, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Agreement, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
+
+[SIGNATURE PAGE FOLLOWS]
+
+6
+
+* * *
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed under its corporate seal by its duly authorized officer. This Agreement shall take effect as a sealed instrument.
+
+CÜR Media, Inc.  
+  
+By: 
+
+/s/ Thomas Brophy  
+Name:  Thomas Brophy  
+Title: Founder & CEO  
+  
+7
+
+* * *
+
+PARTICIPANT’S ACCEPTANCE
+
+The undersigned hereby accepts the foregoing Option and agrees to the terms and conditions thereof. The undersigned hereby acknowledges receipt of a copy of the Company’s 2014 Equity Incentive Plan.
+
+PARTICIPANT:  
+  
+Signature:  
+  
+Name:  
+Address:  
+  
+8
+
+* * *
+
+EXHIBIT A
+
+To:
+
+CÜR Media, Inc.
+
+2217 New London Turnpike
+
+Glastonbury, CT 06073
+
+Attention: Chief Financial Officer
+
+Notice of Election to Exercise
+
+This Notice of Election to Exercise shall constitute proper notice pursuant Section 3(a)(i) of that certain Non-Qualified Stock Option Agreement (the “Agreement”), dated as of __________ __, 201__, between CÜR Media, Inc. (the “Company”) and the undersigned.
+
+The undersigned hereby elects to exercise Participant’s option to purchase __________ shares of common stock of the Company at a price of $______ per share, for aggregate consideration of US$__________, on the terms and conditions set forth in the Agreement and the 2014 Equity Incentive Plan.
+
+Payment is to be made as follows:
+
+¨  Cash
+
+¨  Bank or Certified Check
+
+¨ Cashless Exercise Pursuant to Section 3(a)(ii) of this Agreement, if applicable
+
+The undersigned hereby directs the Company to issue, register and deliver the certificates representing the shares as follows:
+
+Registration Information: Delivery Instructions:  
+  
+(Name to appear on certificates)
+
+Name   
+  
+Address:
+
+Address:  
+  
+Telephone Number:  
+  
+DATED at _________________________ , the ____ day of _________________ , 20__.  
+  
+(Name of Optionee – Please type or print)  
+  
+(Signature and, if applicable, Title)  
+  
+(Address of Optionee)  
+  
+(City, State and Zip Code of Optionee)  
+  
+  
+
+
+9
+
+* * *

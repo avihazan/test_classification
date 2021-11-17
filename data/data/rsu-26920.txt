@@ -1,0 +1,168 @@
+Exhibit 10.6 
+
+L-3 COMMUNICATIONS HOLDINGS, INC. 
+
+2008 LONG TERM PERFORMANCE PLAN 
+
+
+
+(CEO Version 2014) 
+
+This Restricted Stock Unit Agreement (this “Agreement”), effective as of the Grant Date (as defined below), is between L-3 Communications Holdings, Inc., a Delaware corporation (the “Corporation”), and the Participant (as defined below). 
+
+1\. Definitions. The following terms shall have the following meanings for purposes of this Agreement: 
+
+(a) “Award Letter” shall mean the letter to the Participant attached hereto as Exhibit A. 
+
+(b) “Code” shall mean the Internal Revenue Code of 1986, as amended from time to time. 
+
+(c) “Determination Date” shall mean the date on which the Committee determines whether the Performance Condition (as defined below) has been satisfied. 
+
+(d) “Free Cash Flow” shall mean (1) the Corporation’s net cash from operating activities, minus (2) capital expenditures, plus (3) dispositions of property, plant and equipment, in each case determined in accordance with GAAP and as derived from the Corporation’s audited consolidated financial statements prepared in the ordinary course of business; provided, that Free Cash Flow shall be calculated so as to eliminate the effect of: (i) discretionary contributions to pension plans that exceed the contributions forecasted in the Corporation’s most recent internal plan for the year as presented to the Board of Directors prior to the Grant Date; (ii) premiums and other payments in excess of principal and accrued interest associated with the retirement of debt; and (iii) tax payments or benefits associated with gains or losses on business divestitures in calculating net cash from operating activities; 
+
+(e) “GAAP” shall mean generally accepted accounting principles in the United States. 
+
+(f) “Grant Date” shall mean the “Grant Date” listed in the Award Letter. 
+
+(g) “Participant” shall mean the “Participant” listed in the Award Letter. 
+
+(h) “Restricted Units” shall mean that number of restricted units listed in the Award Letter as “Awards Granted,” subjection to Section 4(b). 
+
+(i) “Section 409A Change in Control Event” shall mean a change in ownership or effective control of the Corporation, or in the ownership of a substantial portion of the assets of the Corporation, within the meaning of Section 409A(a)(2)(A)(v) of the Code. 
+
+(j) “Shares” shall mean a number of shares of the Corporation’s Common Stock, par value $0.01 per share, equal to the number of Restricted Units outstanding under this Agreement. 
+
+2\. Grant of Units. The Corporation hereby grants the Restricted Units to the Participant, each of which represents the right to receive one Share upon the expiration or termination of the Restricted Period (as defined below), subject to the terms, conditions and restrictions set forth in the L-3 Communications Holdings, Inc. 2008 Long Term Performance Plan (the “Plan”) and this Agreement. 
+
+* * *
+
+3\. Restricted Unit Account. The Corporation shall cause an account (the “Unit Account”) to be established and maintained on the books of the Corporation to record the number of Restricted Units credited to the Participant under the terms of this Agreement, which Unit Account shall be subject to adjustment in accordance with the terms of the Plan and this Agreement, including without limitation Section 4(b). The Participant’s interest in the Unit Account shall be that of a general, unsecured creditor of the Corporation. 
+
+4\. Restricted Period; Performance Condition.
+
+(a) Except as otherwise provided in paragraphs 6 and 7 hereof, the “Restricted Period” shall mean the period beginning on the Grant Date and expiring on the third anniversary of the Grant Date. Subject to Section 4(b) below, upon the expiration or termination of the Restricted Period, the Shares shall be issued to the Participant in accordance with Section 13. 
+
+(b) As promptly as practicable following the last day of the fiscal year which includes the Grant Date, the Committee shall determine, subject to Section 4(c), whether: (x) the amount of 1.0% of the Company’s Free Cash Flow for such fiscal year, exceeds (y) the grant date fair value of the Shares underlying the Restricted Units, determined in accordance with GAAP (such condition, the “Performance Condition”). If the Performance Condition is not satisfied, then: 
+
+(1) the number of Restricted Units shall automatically be reduced to the highest whole number that would have resulted in the Performance Condition being satisfied; and 
+
+(2) any Restricted Units previously awarded in excess of the number calculated in accordance with clause (1) above (and any cash dividends accrued thereon in accordance with Section 8 hereof) shall be forfeited without any further action on behalf of the Corporation, the Committee or the Participant. 
+
+(c) In the event of an equity restructuring, as defined in Financial Accounting Standards Board Accounting Standards Codification 718-10 (formerly Statement of Financial Accounting Standards 123R), the Committee shall modify the Performance Condition to the extent it is affected by such restructuring so as to preserve (without enlarging) the likelihood that such Performance Condition shall be satisfied, with the manner of such adjustment to be determined by the Committee in its sole discretion. 
+
+5\. Nonalienation of Benefits. No Participant or beneficiary shall have the power or right to transfer, anticipate, or otherwise encumber the Participant’s interest under this Agreement. The provisions of this Agreement shall inure to the benefit of the Participant and the Participant’s beneficiaries, heirs, executors, administrators or successors in interest. 
+
+6\. Change in Control During Restricted Period. Upon the occurrence of a “change in control” that constitutes a Section 409A Change in Control Event, the Restricted Period shall automatically terminate and, if the Determination Date has not occurred, the Performance Condition shall automatically be waived, and the Shares shall thereafter be issued to the Participant in accordance with Section 13. In the event of any other “change in control” prior to the Determination Date the Performance Condition shall automatically be waived, but the Restricted Period shall not be immediately affected, and shall subsequently terminate (and the Shares shall thereafter be issued to the Participant in 
+
+2 
+
+* * *
+
+accordance with Section 13) upon the earliest to occur of: (a) a Section 409A Change in Control Event, (b) the Participant’s death, (c) the Participant’s “disability” (as defined in Section 7(c) hereof) or (d) the third anniversary of the Grant Date. For purposes of this Agreement, a “change in control” means: 
+
+(a) The acquisition by any person or group (including a group within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act), other than the Corporation or any of its subsidiaries, of beneficial ownership (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of a majority of the combined voting power of the Corporation’s then outstanding voting securities, other than by any employee benefit plan maintained by the Corporation; 
+
+(b) The sale of all or substantially all the assets of the Corporation and its subsidiaries taken as a whole; 
+
+(c) The consummation of a merger, combination, consolidation, recapitalization or other reorganization of the Corporation with one or more other entities that are not subsidiaries if, as a result of the consummation of the merger, combination, consolidation, recapitalization or other reorganization, less than 50 percent of the outstanding voting securities of the surviving or resulting corporation shall immediately after the event be beneficially owned in the aggregate by the stockholders of the Corporation immediately prior to the event; or 
+
+(d) The election, including the filling of vacancies, during any period of 24 months or less, of 50% or more of the members of the Board of Directors, without the approval of Continuing Directors, as constituted at the beginning of such period. “Continuing Directors” shall mean any director of the Corporation who either (i) is a member of the Board of Directors on the Grant Date, or (ii) is nominated for election to the Board of Directors by a majority of the Board which is comprised of directors who were, at the time of such nomination, Continuing Directors. 
+
+7\. Termination of Employment or Disability During Restricted Period. 
+
+(a) In the event that the Participant’s employment with the Corporation and its subsidiaries is terminated (other than by reason of death, “retirement” or “disability,” as defined below) prior to the expiration or termination of the Restricted Period and prior to the occurrence of a “change in control” (as defined in Section 6), the Participant shall forfeit the Restricted Units and all of the Participant’s rights hereunder shall cease (unless otherwise provided for by the Committee in accordance with the Plan). The Participant’s rights to the Restricted Units shall not be affected by any change in the nature of the Participant’s employment so long as the Participant continues to be an employee of the Corporation or any of its subsidiaries. 
+
+(b) In the event the Participant terminates employment with the Corporation and its subsidiaries because of “retirement” prior to the expiration or termination of the Restricted Period and prior to the occurrence of a “change in control” (as defined in Section 6), the Restricted Period and the Performance Condition shall not be affected and shall expire with the passage of time or be satisfied or not satisfied, as applicable, in each case in accordance with paragraph 4, except that (i) in the event that the Participant dies following retirement but prior to the expiration of the Restricted Period, the Restricted Period shall automatically terminate and in the event the Determination Date has not occurred, the Performance Condition shall be waived, and the Shares shall thereafter be delivered in accordance with Section 13 and (ii) the Restricted Period may earlier terminate and the Performance Condition may be waived in accordance with Section 6. For purposes of this Agreement, retirement means the Participant (A) terminates employment with the Corporation and its subsidiaries other than for Cause (and is not subject to termination for Cause at the time of such termination) more than one year after the Grant Date, 
+
+3 
+
+* * *
+
+(B) is available for consultation with the Corporation or any of its subsidiaries at the reasonable request of the Corporation or one of its subsidiaries and (C) terminates employment on or after attaining age 65 and completing at least five years of service in the aggregate with the Corporation and its subsidiaries (which service must be continuous through the date of termination except for a single break in service that does not exceed one year in length). For purposes of this Agreement, “Cause” means the Participant’s (1) intentional failure to perform reasonably assigned duties, (2) dishonesty or willful misconduct in the performance of duties, (3) engaging in a transaction in connection with the performance of duties to the Corporation or its subsidiaries which transaction is adverse to the interests of the Corporation and is engaged in for personal profit or (4) willful violation of any law, rule or regulation in connection with the performance of duties (other than traffic violations or similar offenses). 
+
+(c) Upon Participant’s death or “disability” (as defined below), the Restricted Period shall automatically terminate and in the event the Determination Date has not occurred, the Performance Condition shall be waived, and the Shares shall thereafter be issued in accordance with Section 13. For purposes of this Agreement, disability means the Participant, (i) is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months; or (ii) is, by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than 3 months under an accident and health plan covering employees of the Participant’s employer. 
+
+(d) Whether (and the circumstances under which) employment has been terminated and the determination of the termination date for the purposes of this Agreement (or whether, and the date upon which, the Participant has suffered a disability under Section 7(c)) shall be determined by the Committee or (with respect to any employee other than an “Executive Officer” as defined under the Plan) its designee (who, at the date of this Agreement, shall be the Corporation’s Vice President of Human Resources), whose good faith determination shall be final, binding and conclusive; provided, that such designee may not make any such determination with respect to his or her own employment. 
+
+8\. Dividends. If the Corporation pays a cash dividend on its common stock, the Participant shall accrue in his or her Dividend Account (as defined below) a cash dividend equivalent with respect to the Restricted Units credited to the Participant’s Unit Account as of the record date for the dividend, with each Restricted Unit being equivalent to one share of common stock. The Corporation shall cause an account (the “Dividend Account”) to be established and maintained as part of the records of the Corporation to evidence the aggregate cash dividend equivalents accrued by the Participant from time to time under this Section. No interest shall accrue on any amounts reflected in the Dividend Account. The Participant’s interest in the amounts reflected in the Dividend Account shall be that of a general, unsecured creditor of the Corporation. Subject to, and as promptly as practicable following, the issuance of the Shares pursuant to Section 13 hereunder, the Corporation shall pay an amount in cash (without interest and subject to applicable withholding taxes) to the Participant (or his or her beneficiaries, heirs, executors, administrators or successors in interest who are issued the Shares pursuant to Section 13 hereunder) equal to the aggregate cash dividend equivalents accrued in the Participant’s Dividend Account and the Participant’s Dividend Account shall be eliminated at that time. In the event that the Participant forfeits his or her rights to any or all of the Restricted Units, including pursuant to Section 4(b) hereof, the Participant also shall be deemed to have forfeited his or her rights to any cash dividend equivalents accrued in the Participant’s Dividend Account in respect of such forfeited Restricted Units and, if no Restricted Units remain outstanding under this Agreement the Participant’s Dividend Account shall be eliminated at that time. 
+
+4 
+
+* * *
+
+9\. No Right to Continued Employment. Nothing in this Agreement or the Plan shall be interpreted or construed to confer upon the Participant any right to continue employment by the Corporation or any of its subsidiaries, nor shall this Agreement or the Plan interfere in any way with the right of the Corporation or any of its subsidiaries to terminate the Participant’s employment at any time for any reason whatsoever, whether or not with cause. 
+
+10\. No Rights as a Stockholder. The Participant’s interest in the Restricted Units shall not entitle the Participant to any rights as a stockholder of the Corporation. The Participant shall not be deemed to be the holder of, or have any of the rights and privileges of a stockholder of the Corporation in respect of, the Shares unless and until such Shares have been issued to the Participant in accordance Section 13. 
+
+11\. Adjustments Upon Change in Capitalization. In the event of any reorganization, merger, consolidation, recapitalization, reclassification, stock split, stock dividend or similar capital adjustment, as a result of which shares of any class shall be issued in respect of outstanding shares of the Corporation’s Common Stock or shares of Corporation’s Common Stock shall be changed into a different number of shares or into another class or classes or into other property or cash, the Restricted Units, the Participant’s Unit Account and/or the Shares shall be adjusted to reflect such event so as to preserve (without enlarging) the value of the award hereunder, with the manner of such adjustment to be determined by the Committee in its sole discretion. This paragraph shall also apply with respect to any extraordinary dividend or other extraordinary distribution in respect of the Corporation’s Common Stock (whether in the form of cash or other property). 
+
+12\. General Restrictions. Notwithstanding anything in this Agreement to the contrary, the Corporation shall have no obligation to issue or transfer the Shares as contemplated by this agreement unless and until such issuance or transfer shall comply with all relevant provisions of law and the requirements of any stock exchange on which the Corporation’s shares are listed for trading. 
+
+13\. Issuance of Shares. Upon the expiration or termination of the Restricted Period and payment by the Participant of any applicable taxes pursuant to Section 14 of this Agreement, the Corporation shall, as soon as reasonably practicable (and in any event within 75 days of the termination or expiration of the Restricted Period), but subject to any delay necessary to comply with Section 12 hereof, issue the Shares to the Participant, free and clear of all restrictions; provided, that if the termination of the Restricted Period results from a Section 409A Change in Control Event, then notwithstanding the foregoing, the Shares shall be issued within 30 days of the Section 409A Change in Control Event. The Corporation shall not be required to deliver any fractional Shares, but shall pay, in lieu thereof, the fair market value (as defined in the Plan) as of the date the restrictions lapse of such fractional share to the Participant. The Corporation shall pay any costs incurred in connection with issuing the Shares. Upon the issuance of the Shares to the Participant, the Participant’s Unit Account shall be eliminated. Notwithstanding the provisions of this Section, in the event of the death of the Participant prior to the issuance of the Shares under this Section 13, the issuance of the Shares and any payment in lieu of fractional Shares shall be made to the Participant’s beneficiaries, heirs, executors, administrators or successors in interest as the case may be. 
+
+14\. Tax Withholding. Upon the expiration or termination of the Restricted Period, the Participant shall remit to the Corporation the minimum amount necessary to satisfy Federal, state, local or foreign withholding tax requirements, if any (“Withholding Taxes”) as a condition to the Corporation’s issuance of any Shares as provided in Section 13. The payment shall be in (i) cash, (ii) the delivery of Shares, (iii) a reduction in the number of Shares otherwise issuable or deliverable or other amounts otherwise payable to the Participant pursuant to this Agreement, or (iv) a combination of (i), (ii) and/or 
+
+5 
+
+* * *
+
+(iii). The value of any Shares delivered or withheld as payment in respect of withholding tax requirements shall be determined by reference to the Fair Market Value of such Shares as of the date of such withholding or delivery. In the event that Withholding Taxes are satisfied by withholding a portion of the Shares otherwise issuable or deliverable to the Participant pursuant to this Agreement, the Corporation shall not withhold any Shares in excess of the minimum number of Shares necessary to satisfy the applicable Withholding Taxes. 
+
+15\. Subsidiary. As used herein, the term “subsidiary” shall mean, as to any person, any corporation, association, partnership, joint venture or other business entity of which 50% or more of the voting stock or other equity interests (in the case of entities other than corporations), is owned or controlled (directly or indirectly) by that entity, or by one or more of the Subsidiaries of that entity, or by a combination thereof. 
+
+16\. Plan Governs. The Participant hereby acknowledges receipt of a copy of the Plan and agrees to be bound by its terms, all of which are incorporated herein by reference. The Plan shall govern in the event of any conflict between this Agreement and the Plan. 
+
+17\. Modification of Agreement. This Agreement may be not be modified, amended, suspended or terminated, and any terms or conditions may not be waived, without the approval of the Committee. The Committee reserves the right to amend or modify this Agreement at any time without prior notice to any Participant or other interested party; provided, that except as expressly provided hereunder, any such amendment or modification may not adversely affect in any material respect the Participant’s rights or benefits hereunder except for such amendments or modifications as are required by law. 
+
+18\. Severability. Should any provision of this Agreement be held by a court of competent jurisdiction to be unenforceable or invalid for any reason, the remaining provisions of this Agreement shall not be affected by such holding and shall continue in full force in accordance with their terms. 
+
+19\. Governing Law. The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of New York without giving effect to the conflicts of laws principles thereof. If the Participant has received a copy of this Agreement (or the Plan or any other document related hereto or thereto) translated into a language other than English, such translated copy is qualified in its entirety by reference to the English version thereof, and in the event of any conflict the English version will govern. 
+
+20\. Successors in Interest. This Agreement shall inure to the benefit of and be binding upon any successor to the Corporation. This Agreement shall inure to the benefit of the Participant or the Participant’s legal representatives. All obligations imposed upon the Participant and all rights granted to the Corporation under this Agreement shall be final, binding and conclusive upon the Participant’s heirs, executors, administrators and successors. 
+
+21\. Administration. The Committee shall have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee shall be final and binding upon the Participant, the Corporation and all other interested persons. No member of the Committee shall be personally liable for any action determination or interpretation made in good faith with respect to the Plan or the Restricted Units. In its absolute discretion, the Board of Directors may at any time and from time to time exercise any and all rights and duties of the Committee under the Plan and this Agreement. 
+
+6 
+
+* * *
+
+22\. Resolution of Disputes. Any dispute or disagreement which may arise under, or as a result of, or in any way related to, the interpretation, construction or application of this Agreement shall be determined by the Committee. Any determination made hereunder shall be final, binding and conclusive on the Participant and Corporation for all purposes. 
+
+23\. Data Privacy Consent. As a condition of the grant of the Restricted Units, the Participant hereby consents to the collection, use and transfer of personal data as described in this paragraph. The Participant understands that the Corporation and its subsidiaries hold certain personal information about the Participant, including name, home address and telephone number, date of birth, social security number, salary, nationality, job title, ownership interests or directorships held in the Corporation or its subsidiaries, and details of all restricted units or other equity awards or other entitlements to shares of common stock awarded, cancelled, exercised, vested or unvested (“Data”). The Participant further understands that the Corporation and its subsidiaries will transfer Data among themselves as necessary for the purposes of implementation, administration and management of the Participant’s participation in the Plan, and that the Corporation and any of its subsidiaries may each further transfer Data to any third parties assisting the Corporation in the implementation, administration and management of the Plan. The Participant understands that these recipients may be located in the European Economic Area or elsewhere, such as the United States. The Participant hereby authorizes them to receive, possess, use, retain and transfer such Data as may be required for the administration of the Plan or the subsequent holding of shares of common stock on the Participant’s behalf, in electronic or other form, for the purposes of implementing, administering and managing the Participant’s participation in the Plan, including any requisite transfer to a broker or other third party with whom the Participant may elect to deposit any shares of common stock acquired under the Plan. The Participant may, at any time, view such Data or require any necessary amendments to it. 
+
+24\. Limitation on Rights; No Right to Future Grants; Extraordinary Item of Compensation. By accepting this Agreement and the grant of the Restricted Units contemplated hereunder, the Participant expressly acknowledges that (a) the Plan is discretionary in nature and may be suspended or terminated by the Corporation at any time; (b) the grant of Restricted Units is a one-time benefit that does not create any contractual or other right to receive future grants of restricted units, or benefits in lieu of restricted units; (c) all determinations with respect to future grants of restricted units, if any, including the grant date, the number of Shares granted and the restricted period, will be at the sole discretion of the Corporation; (d) the Participant’s participation in the Plan is voluntary; (e) the value of the Restricted Units is an extraordinary item of compensation that is outside the scope of the Participant’s employment contract, if any, and nothing can or must automatically be inferred from such employment contract or its consequences; (f) grants of restricted units are not part of normal or expected compensation for any purpose and are not to be used for calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments, and the Participant waives any claim on such basis; and (g) the future value of the underlying Shares is unknown and cannot be predicted with certainty. In addition, the Participant understands, acknowledges and agrees that the Participant will have no rights to compensation or damages related to restricted unit proceeds in consequence of the termination of the Participant’s employment for any reason whatsoever and whether or not in breach of contract. 
+
+25\. Award Administrator. The Corporation may from time to time to designate a third party (an “Award Administrator”) to assist the Corporation in the implementation, administration and management of the Plan and any Restricted Units granted thereunder, including by sending Award Letters on behalf of the Corporation to Participants, and by facilitating through electronic means acceptance of Restricted Unit Agreements by Participants. 
+
+7 
+
+* * *
+
+26\. Section 409A. This Agreement is intended to comply with the provisions of Section 409A of the Code and the regulations promulgated thereunder. Without limiting the foregoing, the Committee shall have the right to amend the terms and conditions of this Agreement in any respect as may be necessary or appropriate to comply with Section 409A of the Code or any regulations promulgated thereunder, including without limitation by delaying the issuance of the Shares contemplated hereunder. 
+
+27\. Book Entry Delivery of Shares. Whenever reference in this Agreement is made to the issuance or delivery of certificates representing one or more Shares, the Corporation may elect to issue or deliver such Shares in book entry form in lieu of certificates. 
+
+28\. Acceptance. This Agreement shall not be enforceable until it has been executed by the Participant. In the event the Corporation has designated an Award Administrator, the acceptance (including through electronic means) of the Restricted Unit award contemplated by this Agreement in accordance with the procedures established from time to time by the Award Administrator shall be deemed to constitute the Participant’s acknowledgment and agreement to the terms and conditions of this Agreement and shall have the same legal effect in all respects of the Participant having executed this Agreement by hand.   
+  
+By: L-3 COMMUNICATIONS HOLDINGS, INC.  
+/s/ Michael T. Strianese  
+  
+Michael T. Strianese
+
+President and Chief Executive Officer  
+  
+/s/ Steven M. Post  
+  
+Steven M. Post
+
+Senior Vice President, General Counsel and
+
+Corporate Secretary  
+  
+Acknowledged and Agreed
+
+as of the date first written above:  
+  
+Participant Signature  
+  
+8 

@@ -1,0 +1,306 @@
+Exhibit 10.3
+
+  
+
+
+SUSSER HOLDINGS CORPORATION
+
+2013 Equity Incentive Plan
+
+
+
+THIS AGREEMENT (the “Agreement”) is made between Susser Holdings Corporation, a Delaware corporation (the “Company”), and the individual to whom the corresponding Grant (as hereinafter defined) is made (hereinafter, the “Participant”), as of the date of Grant acceptance: 
+
+RECITALS: 
+
+WHEREAS, the Company has adopted the 2013 Equity Incentive Plan (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and
+
+WHEREAS, the Committee desires to issue shares of common stock (the “Restricted Stock”) subject to certain restrictions and vesting requirements related to the ownership of the Restricted Stock by the Participant and other matters described herein. 
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows:  
+  
+1.
+
+Restricted Stock Award  
+  
+The number of shares of Restricted Stock awarded to the Participant and the grant date of the award are as set forth in the Grant Award Notification letter delivered to the Participant (the “Grant”).
+
+  
+  
+  
+2.
+
+Issuance of Shares  
+  
+  
+  
+  
+(a)
+
+Stock Certificates. The Restricted Stock will be issued in un-certificated form on the books of the Company's transfer agent.  
+  
+  
+  
+  
+(b)
+
+Shareholder Rights. The Participant shall have all rights of a stockholder with respect to the Restricted Stock, including voting rights; provided, that, the Participant shall not have the right to receive ordinary dividends or distributions paid or made with respect to the Restricted Stock prior to any vesting date hereunder.  
+  
+  
+  
+  
+(c)
+
+Withholding Requirements. As a condition to the grant or vesting of the Restricted Stock, the Participant shall make such arrangements as the Committee may require for the satisfaction of any Federal, state, local or foreign withholding tax obligations that may arise in connection with such Restricted Stock. Unless otherwise provided by the Committee, the Participant may elect to satisfy such obligations in cash or by having the Company withhold a number of shares of Common Stock having a value equal to such obligation.  
+  
+  
+  
+  
+3.
+
+Vesting of Restricted Stock  
+  
+  
+  
+  
+(a)
+
+In General. Except as provided in Sections 3(b) and (c) below, the Restricted Stock shall vest in accordance with the vesting schedule specified in the Grant Award Notification letter delivered to the Participant.  
+  
+  
+  
+  
+(b)
+
+Change in Control. If (i) a Change in Control occurs prior to the Participant becoming fully vested in the Restricted Stock, and (ii) the Participant's Service with the Company any of its Subsidiaries   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+or any acquiring or surviving entity is terminated by the Company or its Subsidiaries without Cause or by the Participant for Good Reason, in each case, on or within one (1) year of the date of such Change in Control, then, as of the date of such termination, any service-based vesting conditions shall be waived and any ongoing performance-based vesting conditions shall be deemed satisfied at the target level of achievement. “Good Reason” means (x) if the Participant has an effective employment agreement, service agreement or other similar agreement with the Company or a Subsidiary that defines “Good Reason” or a like term, the meaning set forth in such agreement at the time of the Participant's resignation or, (y) in the absence of such definition, (A) a material reduction in the Participant's rate of base salary or bonus opportunity (expressed as a percentage of base salary) compared to the Participant's rate of base salary or bonus opportunity in effect immediately prior to the Change in Control, or (B) a relocation of the Participant's principal place of employment to a location that is more than fifty (50) miles from the Participant's principal place of employment immediately prior to the Change in Control.
+
+  
+  
+  
+(c)
+
+Death or Disability. If the Participant's Service with the Company or any of its Subsidiaries is terminated as a result of death or Disability, then (i) as to any shares of Restricted Stock that vest solely based upon continued Service (i.e. that were never subject to performance-based vesting conditions) and would have vested had the Participant remained in Service until the first anniversary of the date of the Participant's termination of Service (the date of termination, “Termination Date”), such shares shall vest immediately on the Termination Date, (ii) as to any shares of Restricted Stock that were subject to performance-based vesting conditions that have been satisfied as of the Termination Date, such shares shall vest immediately on the Termination Date, and (iii) as to any shares of Restricted Stock that are subject to ongoing performance-based vesting conditions as of the Termination Date (the “Performance Shares”), a portion (the “Pro-Rata Portion”) of such Performance Shares shall vest immediately on the Termination Date. The Pro Rata Portion shall equal the number of Performance Shares that would vest if the performance-based vesting conditions were satisfied at the target level (assuming that all other vesting conditions were waived) multiplied by a fraction, the numerator of which is the number of days in the period between the start of the applicable performance period and the Termination Date, and the denominator of which is the total number of days in the applicable performance period. “Disability” means (x) if the Participant has an effective employment agreement, service agreement or other similar agreement with the Company or a Subsidiary that defines “Disability” or a like term, the meaning set forth in such agreement at the time of the Participant's termination or, (y) in the absence of such definition, the inability of the Participant to perform his duties for six (6) consecutive months as a result of incapacity due to a physical or mental disability, as determined by the Committee.  
+  
+  
+  
+  
+(d)
+
+Termination of Service.  
+  
+  
+  
+  
+(i)
+
+General. Except as otherwise set forth in Section 3(b) and Section 3(c) above or in an effective employment, service or similar agreement between the Participant and the Company or any of its Subsidiaries, the Participant shall forfeit all unvested Restricted Stock upon a termination of Service with the Company and any of its Subsidiaries for any reason.  
+  
+  
+  
+  
+(ii)
+
+Termination for Cause; Proscribed Conduct. Unless otherwise set forth in an effective employment, service or similar agreement between the Participant and the Company or any of its Subsidiaries, if (A) the Participant's Service is terminated for Cause or (B) after termination of Service for any other reason, the Committee determines in its discretion either that, (1) during the Participant's period of Service, the Participant engaged in an act   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+which would have warranted termination from Service for Cause or (2) after termination, the Participant engaged in Proscribed Conduct or other conduct that violates any continuing obligation or duty of the Participant in respect of the Company or any Subsidiary, the Participant shall forfeit all shares of Common Stock (including vested shares) that the Participant acquired pursuant to this Grant and, to the extent that the Participant sold or otherwise disposed of such shares, any gain realized by the Participant from the sale or disposition of such shares shall be paid by the Participant to the Company upon notice from the Company, subject to applicable state law. Such gain shall be determined in accordance with Section 13.3(a) of the Plan and such gain may be offset against other amounts owed to the Participant in accordance with Section 13.3(a) of the Plan.
+
+  
+  
+  
+(iii)
+
+Definition of Proscribed Conduct. “Proscribed Conduct” means (A) during the one (1) year period following termination of Service, a Participant's (I) unauthorized disclosure of confidential information relating to the Company or its Subsidiaries, (II) directly or indirectly engaging in, or owning or controlling any interest in, or acting as a director, officer or employer of, or consultant to or otherwise being employed by any business engaged in the operation of convenience stores, wholesale fuel distribution or any other business conducted by the Company or any Subsidiary or affiliate in any county in which the Company operates on the date of the Participant's termination of Service, (III) hiring, directly or indirectly, any individual who was an employee of the Company or its Subsidiaries within the twelve (12) month period prior to the date the Participant hires such individual, or soliciting or inducing, directly or indirectly, any such individual to terminate his or her Service with the Company or its Subsidiaries, or (IV) causing, inducing or encouraging any actual or prospective client, customer, supplier, dealer or licensor of the Company or any other Person who has a business relationship with the Company or any Subsidiary or affiliate to terminate or modify any such actual or prospective relationship or (B) a breach by the Participant of any non-competition, non-solicitation, confidentiality or similar restrictive covenants contained in any employment, service or other similar agreement between the Participant and the Company or any Subsidiary.  
+  
+  
+  
+  
+4.
+
+Adjustment of Shares  
+  
+  
+
+
+In the event of any change with respect to the outstanding shares of Common Stock of the Company, the Restricted Stock may be adjusted in accordance with Section 4.5 of the Plan.
+
+  
+  
+  
+5.
+
+Miscellaneous Provisions  
+  
+  
+  
+  
+(a)
+
+Securities Laws Requirements. No shares of Common Stock will be issued or transferred pursuant to this Agreement unless and until all then applicable requirements imposed by Federal and state securities and other laws, rules and regulations and by any regulatory agencies having jurisdiction, and by any exchanges upon which the shares of Common Stock may be listed, have been fully met. As a condition precedent to the issuance of shares of Common Stock pursuant to this Agreement, the Company may require the Participant to take any reasonable action to meet such requirements. The Committee may impose such conditions on any shares of Common Stock issuable pursuant to this Agreement as it may deem advisable, including, without limitation, restrictions under the Securities Act of 1933, as amended, under the requirements of any exchange upon which such shares of the same class are then listed, and under any blue sky or other securities laws applicable to such shares. The Committee may also require the Participant to represent and warrant at the time   
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+of issuance or transfer that the shares of Common Stock are being acquired only for investment purposes and without any current intention to sell or distribute such shares.
+
+  
+  
+  
+(b)
+
+Section 83(b) Election. The Participant may file an election pursuant to Section 83(b) of the Code with respect to the Restricted Stock. If the Participant makes an election pursuant to Section 83(b) of the Code, the Participant shall file, within thirty (30) days following the date of grant, a copy of such election with the Company and with the Internal Revenue Service, in accordance with the regulations under Section 83 of the Code.  
+  
+  
+  
+  
+(c)
+
+Non-transferability. No Restricted Stock may be transferred, assigned, pledged or hypothecated by the Participant during the Participant's lifetime, whether by operation of law or otherwise, or be made subject to execution, attachment or similar process, except (i) by beneficiary designation, will or the laws of descent and distribution and (ii) in the case of a transfer by the Participant to its affiliate with the prior written consent of the Committee in its sole discretion.  
+  
+  
+  
+  
+(d)
+
+No Right to Continued Employment. Nothing in this Agreement or the Plan shall confer upon the Participant any right to continue in Service for any period of specific duration or interfere with or otherwise restrict in any way the rights of the Company (or any Subsidiary employing or retaining the Participant) or of the Participant, which rights are hereby expressly reserved by each, to terminate his or her Service at any time and for any reason, with or without Cause.  
+  
+  
+  
+  
+(e)
+
+Transfer Restrictions. Any shares of Common Stock delivered hereunder shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations and other requirements of the Securities and Exchange Commission, any stock exchange upon which such shares are listed, and any applicable Federal or state laws, and the Committee may cause orders or designations to be placed upon the books and records of the Company's transfer agent to make appropriate reference to such restrictions.  
+  
+  
+  
+  
+(f)
+
+Notification. Any notification required by the terms of this Agreement shall be given in writing and shall be deemed effective upon personal delivery or within three (3) days of deposit with the United States Postal Service, by registered or certified mail, with postage and fees prepaid. A notice shall be addressed to the Company at its principal executive office and to the Participant at the address that he or she most recently provided to the Company.  
+  
+  
+  
+  
+(g)
+
+Entire Agreement. This Agreement and the Plan constitute the entire contract between the parties hereto with regard to the subject matter hereof. They supersede any other agreements, representations or understandings (whether oral or written and whether express or implied) which relate to the subject matter hereof.  
+  
+  
+  
+  
+(h)
+
+Waiver. No waiver of any breach or condition of this Agreement shall be deemed to be a waiver of any other or subsequent breach or condition whether of like or different nature.  
+  
+  
+  
+  
+(i)
+
+Restrictive Covenants. The Participant agrees and acknowledges that the provisions of Section 3(c)(ii) of this Agreement are reasonable and appropriate (including the remedies set forth therein) and hereby covenants to comply with the requirements thereof.  
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+  
+  
+(j)
+
+Successors and Assigns. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the Company and its successors and assigns and upon the Participant, the Participant's assigns and the legal representatives, heirs and legatees of the Participant's estate, whether or not any such person shall have become a party to this Agreement and have agreed in writing to be joined herein and be bound by the terms hereof.  
+  
+  
+  
+  
+(k)
+
+Severability. The provisions of this Agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.  
+  
+  
+  
+  
+(l)
+
+Amendment. This Agreement shall not be amended unless such amendment is agreed to in writing by both the Participant and the Company.  
+  
+  
+  
+  
+(m)
+
+Choice of Law. This Agreement shall be governed by, and construed in accordance with, the laws of Delaware, as such laws are applied to contracts entered into and performed in such jurisdiction.  
+  
+  
+  
+  
+(n)
+
+Signature in Counterparts. This Agreement may be signed in counterparts, manually, or electronically, and each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.  
+  
+  
+
+
+By accepting this Grant (as the Participant), I acknowledge and agree that this award of Restricted Stock is granted under and governed by the terms of the Susser Holdings Corporation 2013 Equity Incentive Plan, which is attached to and made a part of this document. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail. By electronically selecting the “Accept” button in connection with the Grant, I hereby agree to the terms and conditions set forth in this Agreement and understand that my acceptance shall act as my electronic signature to, and on, this Agreement, and it is my intent that the same shall be binding upon me as if I had delivered a copy of this Agreement to Susser Holdings, originally executed below by my own hand, as of the date of said acceptance.
+
+  
+  
+  
+PARTICIPANT
+
+SUSSER HOLDINGS CORPORATION  
+  
+[Via Electronic Signature]
+
+By:
+
+/s/ E.V. Bonner, Jr.  
+  
+E.V. Bonner, Jr., Executive Vice President  
+  
+  
+
+
+  
+
+
+  
+

@@ -1,0 +1,109 @@
+Exhibit 10.20
+
+
+
+THIS AGREEMENT, entered into as of [Grant Date] (the “Grant Date”), by and between the participant signing this Agreement (the “Participant”) and Isle of Capri Casinos, Inc. (the “Company”);
+
+WITNESSETH THAT:
+
+WHEREAS, the Company maintains the Isle of Capri Casinos, Inc. 2000 Long-Term Stock Incentive Plan (the “Plan”), which is incorporated into and forms a part of this Agreement, and the Participant has been selected by the committee administering the Plan (the “Committee”) to receive a Stock Option Award under the Plan;
+
+NOW, THEREFORE, IT IS AGREED, by and between the Company and the Participant, as follows:
+
+1. Terms of Award. The terms of the Award are set forth in Schedule I.
+
+2. Award and Exercise Price. This Agreement specifies the terms of the option (the “Option”) granted to the Participant to purchase the number of Covered Shares at the Exercise Price per share as set forth in Schedule I. The Option shall be an “incentive stock option” or a “nonqualified stock option” as designated in Schedule I. In the event that the Option is designated as an “incentive stock option” in Schedule I, the Option is intended to constitute, and shall be treated as, an “incentive stock option” as that term is used in Code section 422. To the extent that the aggregate fair market value (determined at the time of grant) of shares of Stock with respect to which incentive stock options are exercisable for the first time by the Participant during any calendar year under all plans of the Company and its Subsidiaries exceeds $100,000, the options or portions thereof which exceed such limit (according to the order in which they were granted) shall be treated as non-qualified stock options. It should be understood that if the Option is designated as an “incentive stock option”, there is no assurance that the Option will, in fact, be treated as an incentive stock option. In the event that the Option is designated as a “nonqualified stock option” in Schedule I, the Option is not intended to constitute, and shall not be treated as, an “incentive stock option” as that term is used in Code section 422.
+
+3. Date of Exercise. Subject to the limitations of this Agreement, the Option shall be exercisable as set forth on Schedule I. An installment shall not become exercisable on the otherwise applicable Vesting Date if the Participant’s Date of Termination occurs on or before such Vesting Date. Notwithstanding the foregoing provisions of this paragraph 3, the Option shall become exercisable with respect to all of the Covered Shares (to the extent it is not then otherwise exercisable) as follows:
+
+(a) The Option shall become fully exercisable upon the Participant’s Date of Termination, if the Participant’s Date of Termination occurs by reason of the Participant’s Death, Disability or Retirement.
+
+1
+
+* * *
+
+  
+
+
+(b) The Option shall become fully exercisable upon a Change in Control, if the Participant’s Date of Termination does not occur on or before the Change in Control.
+
+The Option may be exercised on or after the Date of Termination only as to that portion of the Covered Shares as to which it was exercisable immediately prior to the Date of Termination, or as to which it became exercisable on the Date of Termination in accordance with this paragraph 3\. Notwithstanding the foregoing provisions of this paragraph 3, a reload option shall not become exercisable in accordance with this paragraph 3, and shall instead become exercisable in accordance with paragraph 6.
+
+4. Expiration. The Option shall not be exercisable after the Company’s close of business on the last business day that occurs prior to the Expiration Date. The “Expiration Date” shall be earliest to occur of:
+
+(a) the ten-year anniversary of the Grant Date;
+
+(b) if the Participant’s Date of Termination occurs by reason of Death or Disability, the one-year anniversary of such Date of Termination; or
+
+(c) if the Participant’s Date of Termination occurs for reasons other than Death or Disability, the 90-day anniversary of such Date of Termination.
+
+5. Method of Option Exercise. Subject to the terms of this Agreement and the Plan, the Option may be exercised in whole or in part by filing a written notice with the Secretary of the Company at its corporate headquarters prior to the Company’s close of business on the last business day that occurs prior to the Expiration Date. Such notice shall be as provided in Schedule II. Except as otherwise provided by the Committee before the Option is exercised, all or a portion of the Exercise Price shall be paid by the Participant in accordance with the methods described in Schedule II.
+
+6. Withholding. All deliveries and distributions under this Agreement are subject to withholding of all applicable taxes. At the election of the Participant, and subject to such rules and limitations as may be established by the Committee from time to time, such withholding obligations may be satisfied through the surrender of shares of Stock which the Participant already owns, or to which the Participant is otherwise entitled under the Plan.
+
+7. Transferability. The Option is not transferable other than as designated by the Participant by will or by the laws of descent and distribution, and during the Participant’s life, may be exercised only by the Participant.
+
+8. Definitions. For the purposes of this Agreement, the terms used in this Agreement shall be subject to the following:
+
+(a) Date of Termination. The Participant’s “Date of Termination” shall be the first day occurring on or after the Grant Date on which the Participant is not employed by the Company or any Subsidiary, regardless of the reason for the termination of employment; provided that a termination of employment shall not be deemed to occur by reason of a transfer of the Participant between the Company and a Subsidiary or between two Subsidiaries; and 
+
+2
+
+* * *
+
+  
+
+
+further provided that the Participant’s employment shall not be considered terminated while the Participant is on a leave of absence from the Company or a Subsidiary approved by the Participant’s employer. If, as a result of a sale or other transaction, the Participant’s employer ceases to be a Subsidiary (and the Participant’s employer is or becomes an entity that is separate from the Company), the occurrence of such transaction shall be treated as the Participant’s Date of Termination caused by the Participant being discharged by the employer.
+
+(b) Disability. Except as otherwise provided by the Committee, the Participant shall be considered to have a “Disability” during the period in which the Participant is unable, by reason of a medically determinable physical or mental impairment, to engage in any substantial gainful activity, which condition, in the opinion of a physician selected by the Committee, is expected to have a duration of not less than 120 days.
+
+(c) Retirement. The term “Retirement” shall mean the termination by a Participant of his employment by reason of reaching the age of 65 or such later date approved by the Board of Directors of the Company.
+
+9. Heirs and Successors. This Agreement shall be binding upon, and inure to the benefit of, the Company and its successors and assigns, and upon any person acquiring, whether by merger, consolidation, purchase of assets or otherwise, all or substantially all of the Company’s assets and business. If any rights exercisable by the Participant or benefits deliverable to the Participant under this Agreement have not been exercised or delivered, respectively, at the time of the Participant’s death, such rights shall be exercisable by the Designated Beneficiary, and such benefits shall be delivered to the Designated Beneficiary, in accordance with the provisions of this Agreement and the Plan. The “Designated Beneficiary” shall be the beneficiary or beneficiaries designated by the Participant in writing filed with the Committee in such form and at such time as the Committee shall require. If a deceased Participant fails to designate a beneficiary, or if the Designated Beneficiary does not survive the Participant, any rights that would have been exercisable by the Participant and any benefits distributable to the Participant shall be exercised by or distributed to the legal representative of the estate of the Participant. If a deceased Participant designates a beneficiary and the Designated Beneficiary survives the Participant but dies before the Designated Beneficiary’s exercise of all rights under this Agreement or before the complete distribution of benefits to the Designated Beneficiary under this Agreement, then any rights that would have been exercisable by the Designated Beneficiary shall be exercised by the legal representative of the estate of the Designated Beneficiary, and any benefits distributable to the Designated Beneficiary shall be distributed to the legal representative of the estate of the Designated Beneficiary.
+
+10. Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of the Agreement by the Committee and any decision made by it with respect to the Agreement is final and binding on all persons.
+
+11. Plan Governs. Notwithstanding anything in this Agreement to the contrary, the terms of this Agreement shall be subject to the terms of the Plan, a copy of which may be obtained by the Participant from the office of the Secretary of the Company; and this Agreement 
+
+3
+
+* * *
+
+  
+
+
+is subject to all interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan.
+
+12. Not An Employment Contract. The Option will not confer on the Participant any right with respect to continuance of employment or other service with the Company or any Subsidiary, nor will it interfere in any way with any right the Company or any Subsidiary would otherwise have to terminate or modify the terms of such Participant’s employment or other service at any time.
+
+13. Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office.
+
+14. Fractional Shares. In lieu of issuing a fraction of a share upon any exercise of the Option, resulting from an adjustment of the Option pursuant to paragraph 4.2(f) of the Plan or otherwise, the Company will be entitled to pay to the Participant an amount equal to the fair market value of such fractional share.
+
+15. No Rights As Stockholder. The Participant shall not have any rights of a stockholder with respect to the shares subject to the Option, until a stock certificate has been duly issued following exercise of the Option as provided herein.
+
+16. Amendment. This Agreement may be amended by written agreement of the Participant and the Company, without the consent of any other person.
+
+4
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the Participant has executed this Agreement, and the Company has caused these presents to be executed in its name and on its behalf, all as of the Grant Date.
+
+Participant  
+  
+Isle of Capri Casinos, Inc.  
+  
+By:  
+  
+Its: Senior Vice President, CFO, Treasurer,  
+  
+and Assistant Secretary  
+  
+5
+
+* * *

@@ -1,0 +1,208 @@
+Exhibit 10.3
+
+FAIRPOINT COMMUNICATIONS, INC.
+
+
+
+FOR PERFORMANCE PERIOD
+
+BEGINNING 
+
+THIS PERFORMANCE UNIT AWARD AGREEMENT (this “Agreement”), made and entered into this day of , , by and between FairPoint Communications, Inc. (the “Company”) and (the “Participant”).
+
+W I T N E S S E T H:
+
+WHEREAS, the Compensation Committee of the Board of Directors of the Company (the “Committee”) desires to award the Participant Performance Units under the Company’s 2008 Long Term Incentive Plan (the “Plan”) for the Performance Period beginning and ending (the “Performance Period”); and
+
+WHEREAS, the Company and the Participant desire to enter into a written agreement that sets forth the terms and provisions of the Participant’s Performance Unit award.
+
+NOW, THEREFORE, in consideration of the premises and the mutual promises contained herein, the Company and the Participant hereby agree as follows:
+
+1. The Participant acknowledges that the Performance Unit award is governed by this Agreement and the terms of the Plan. The terms of the Plan are incorporated into this Agreement in their entirety and made a part hereof by reference. Unless otherwise defined herein, capitalized terms used herein shall have the meanings set forth in the Plan. In the event of any conflict between the terms of the Plan and this Agreement, the terms of the Plan shall govern and control.
+
+2. The Participant is awarded a target award of Performance Units. The actual number of Performance Units earned by the Participant for the Performance Period shall be determined in accordance with the Plan and this Agreement.
+
+3. The number of Performance Units earned by the Participant shall be based on the levels of performance achieved during the Performance Period as set forth on Exhibit A attached hereto.  The performance levels achieved for the Performance Period (Threshold, Target or Maximum) and the number of Performance Units earned by the Participant shall be determined by the Committee following the expiration of the Performance Period.
+
+4. Except as provided in Paragraph 5 below, one Share of the Company’s Common Stock will be distributed to the Participant for each whole Performance Unit earned by the Participant. Dividends on the Shares underlying the Performance Units will not accrue or be paid during the Performance Period.
+
+5. Any Shares to be distributed in respect of the Performance Units earned by the Participant will be delivered to the Participant as soon as practicable after , but no later than (the date Shares are delivered, the “Payment Date”). If the Participant’s employment with the Company terminates prior to the 
+
+* * *
+
+  
+
+
+Payment Date for any reason other than the Participant’s death, Disability or Normal Retirement, the Participant shall forfeit the Performance Units and any Shares distributable in respect of such Performance Units. If a Participant’s employment with the Company terminates during the Performance Period due to the Participant’s death, Disability or Normal Retirement, the Performance Units awarded to the Participant shall remain outstanding and earned by the Participant as set forth in Exhibit A attached hereto; provided, however, the number of Shares to be distributed to the Participant in respect of the Performance Units earned by the Participant will be determined by multiplying such number of earned Performance Units by a fraction, the numerator of which is the number of completed calendar months during the Performance Period that the Participant was employed, and the denominator of which is the total number of calendar months in the Performance Period.
+
+6. In the event a Change in Control occurs before the end of the Performance Period, Shares for one hundred percent (100%) of the Performance Units awarded to the Participant hereunder shall be distributed to the Participant at the Target Performance (as defined in Exhibit A) level without any adjustment for the levels of performance actually achieved during the Performance Period prior to or after the Change in Control. Any Shares to be distributed in respect of the Performance Units earned by the Participant upon a Change in Control will be delivered to the Participant immediately prior to the Change in Control.
+
+7. Unless otherwise elected by the Participant in accordance with procedures adopted by the Committee, the Company shall deduct from any Shares otherwise distributable to the Participant that number of Shares having a value equal to the amount of any taxes required by law to be withheld from awards made under the Plan.
+
+8. Participants may elect, by entering into a Deferral Agreement with the Company, to defer delivery of all (or any portion) of the Shares otherwise payable to the Participant in respect of the Performance Units earned by the Participant. To be effective, the Participant must complete and return the Deferral Agreement to the Company in accordance with procedures established by the Committee.
+
+9. The Performance Units awarded hereunder to the Participant shall not entitle the Participant to any rights as a shareholder of the Company.
+
+10. The Participant’s award under this Agreement and the Plan may not be assigned or alienated. Subject to any limitations under the Plan on transferability, this Agreement will be binding upon and inure to the benefit of the heirs, legatees, legal representatives, successors and assigns of the parties hereto. Neither the Plan, nor this Agreement, nor any action taken under the Plan or this Agreement shall be construed as giving to the Participant the right to be retained in the employ of the Company.
+
+11. Any distribution of Shares may be delayed until the requirements of any applicable laws or regulations or any stock exchange requirements are satisfied. The Shares distributed to the Participant shall be subject to such restrictions and conditions on disposition as counsel for the Company shall determine to be desirable or necessary under applicable law.
+
+2
+
+* * *
+
+  
+
+
+12. The Participant may designate a beneficiary or beneficiaries to receive all or part of the Shares to be distributed to the Participant under this Award Agreement in the event of the Participant’s death. If no beneficiary is designated, such Shares shall be paid to the estate of the Participant.
+
+13. This Agreement and the Plan constitute the entire understanding of the parties with respect to the award of Performance Units to the Participant for the Performance Period. Except with respect to modifications of the Plan as provided therein, this Agreement can be amended only in writing executed by the Participant and a duly authorized officer of the Company.
+
+14. This Agreement shall be governed by the laws of the State of Delaware to the extent not preempted by applicable federal law.
+
+IN WITNESS WHEREOF, the parties hereto have executed or caused this Agreement to be executed in duplicate as of the date first above written.
+
+FAIRPOINT COMMUNICATIONS, INC.  
+  
+By:  
+  
+Eugene B. Johnson  
+  
+Chairman and Chief Executive Officer  
+  
+PARTICIPANT  
+  
+3
+
+* * *
+
+  
+
+
+EXHIBIT A
+
+PERFORMANCE CRITERIA
+
+FOR THE
+
+PERFORMANCE PERIOD BEGINNING AND ENDING 
+
+Definitions:
+
+“Adjusted EBITDA” means the Company’s consolidated net income (including distributions from investments) plus (a) the following to the extent deducted from consolidated net income: provision for income taxes, consolidated interest expense, depreciation, amortization, losses on sales of assets and other extraordinary losses, certain one-time charges recorded as operating expenses related to the transactions contemplated by the merger agreement, non-cash retirement expenses, expenses incurred under the Transition Services Agreement and certain other non-cash charges to the extent such charges will not require cash payment in the future, and minus (b) gains on sales of assets and other extraordinary gains and all non-cash items increasing consolidated net income.
+
+“Maximum Performance” means:
+
+(a) for the Total Shareholder Return performance measure, the Company’s Total Shareholder Return for the Performance Period is greater than or equal to the Total Shareholder Return of 60% of the companies comprising the Telecommunications Peer Group.
+
+(b) for the Adjusted EBITDA performance measure, the Company’s Adjusted EBITDA for the Performance Period exceeds the Target Adjusted EBITDA by 5% or more.
+
+“Target Adjusted EBITDA” means cumulative, aggregate Adjusted EBITDA for the Performance Period of $ .
+
+“Target Performance” means:
+
+(a) for the Total Shareholder Return performance measure, the Company’s Total Shareholder Return for the Performance Period is greater than or equal to the Total Shareholder Return of 40% of the companies comprising the Telecommunications Peer Group; and
+
+(b) for the Adjusted EBITDA performance measure, the Company’s Adjusted EBITDA for the Performance Period equals the Target Adjusted EBITDA.
+
+“Telecommunications Peer Group” means all of the companies included in the Dow Jones Telecommunication Index on both the first and last day of the Performance Period.
+
+“Threshold Performance” means:
+
+* * *
+
+  
+
+
+(a) for the Total Shareholder Return performance measure, the Company’s Total Shareholder Return for the Performance Period is greater than or equal to the Total Shareholder Return of 20% of the companies comprising the Telecommunications Peer Group; and
+
+(b) for the Adjusted EBITDA performance measure, the Company’s Adjusted EBITDA for the Performance Period equals at least 95% of the Target Adjusted EBITDA.
+
+“Total Shareholder Return” means, with respect to a company for the Performance Period, the percentage determined by dividing the sum of Amount A plus Amount B by Amount C where:
+
+Amount A is (i) the average of the closing prices for one share of such company’s common stock during the 30 days trading period immediately preceding the expiration of the Performance Period minus (ii) the average of the closing prices for one share of such stock during the 30 day trading period immediately preceding the beginning of the Performance Period.
+
+Amount B is (i) the number of shares of such company’s common stock that would have been purchased during the Performance Period if all dividends paid during the Performance Period had been reinvested in such stock multiplied by (ii) the average of the closing prices for one share of such company’s common stock during the 30 days trading period immediately preceding the expiration of the Performance Period.
+
+Amount C is the average of the closing prices for one share of such company’s common stock during the 30 days trading period immediately preceding the beginning of the Performance Period.
+
+Performance Measures:
+
+Adjusted EBITDA. The Company’s Adjusted EBITDA for the Performance Period will determine the extent to which 30% of the target number of Performance Units are earned.
+
+Adjusted EBITDA for the  
+Performance Period
+
+Percentage of Target Performance Units  
+Earned Based on Adjusted EBITDA  
+  
+Below Threshold Performance
+
+0
+
+%  
+  
+Threshold Performance
+
+40
+
+%  
+  
+Target Performance
+
+100
+
+%  
+  
+Maximum Performance or Above
+
+200
+
+%  
+  
+The percentage of target Performance Units earned for Adjusted EBITDA between Threshold Performance (40%) and Maximum Performance (200%) will be determined by linear interpolation.
+
+2
+
+* * *
+
+  
+
+
+Total Shareholder Return. The Company’s Total Shareholder Return for the Performance Period will determine the extent to which the remaining 70% of the target number of Performance Units are earned.
+
+Company’s Total Shareholder  
+Return
+
+Percentage of Target Performance Units  
+Earned Based on Total Shareholder Return  
+  
+Below Threshold Performance
+
+0
+
+%  
+  
+Threshold Performance
+
+40
+
+%  
+  
+Target Performance
+
+100
+
+%  
+  
+Maximum Performance or Above
+
+200
+
+%  
+  
+The percentage of target Performance Units earned for Total Shareholder Return between Threshold Performance (40%) and Maximum Performance (200%) will be determined by linear interpolation.
+
+3
+
+* * *

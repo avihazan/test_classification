@@ -1,0 +1,121 @@
+Exhibit 10.1
+
+![GRAPHIC](g294904kki001.jpg)
+
+
+  
+1.
+
+The Grant. Alliant Techsystems Inc., a Delaware corporation (the “Company”), hereby grants to you, on the terms and conditions set forth in this Restricted Stock Award Agreement (this “Agreement”) and in the Alliant Techsystems Inc. 2005 Stock Incentive Plan (the “Plan”), an Award as of the date (the “Award Date”), and for the number of shares of common stock of the Company (the “Shares”), which the Company or its agent provided to you separately in writing through an electronic notice and on-line award acceptance web page (the “Electronic Notice and On-Line Award Acceptance”).  
+  
+2.
+
+Restricted Period. The Shares are subject to the restrictions contained in this Agreement and the Plan for a period (the “Restricted Period”) commencing on the Award Date and ending as to [applicable vesting provision] or, if earlier, upon (a) a Change in Control, as provided in Paragraph 4 below, or (b) your death, Disability (as defined in Appendix A to this Agreement), or involuntary layoff, as provided in Paragraph 5 below.  
+  
+3.
+
+Restrictions. The Shares shall be subject to the following restrictions during the Restricted Period:  
+  
+(a)
+
+The Shares shall be subject to forfeiture to the Company as provided in this Agreement and the Plan.  
+  
+(b)
+
+You may not sell, transfer, pledge or otherwise encumber the Shares during the Restricted Period. Neither the right to receive the Shares nor any interest under the Plan may be transferred by you, and any attempted transfer shall be void.  
+  
+(c)
+
+The Company will issue the Shares in your name, either by book-entry registration or issuance of a stock certificate or certificates, which certificate or certificates shall be held by the Company. The Shares shall be restricted from transfer and shall be subject to an appropriate stop-transfer order. If any certificate is issued, the certificate shall bear an appropriate legend referring to the restrictions applicable to the Shares. If any certificate is issued, you shall be required to execute and deliver to the Company a stock power relating to the Shares as a condition to the receipt of this Award of Restricted Stock (as defined in the Plan).  
+  
+(d)
+
+Any securities or property (other than cash) that may be issued with respect to the Shares as a result of any stock dividend, stock split, business combination or other event shall be subject to the restrictions and other terms and conditions contained in this Agreement.  
+  
+(e)
+
+You shall not be entitled to receive any Shares prior to the completion of any registration or qualification of the Shares under any federal or state law or governmental rule or regulation that the Company, in its sole discretion, determines to be necessary or advisable.  
+  
+4.
+
+Change in Control. After a Change in Control (as defined in Appendix A to this Agreement), the Shares shall immediately vest. However, if you are or become a participant in the Company’s Income Security Plan or any successor or substitute plan (the “ISP”), the terms of the vesting of the Shares shall be governed by the provisions of the ISP.  
+  
+5.
+
+Forfeiture. In the event of your termination of employment, other than by reason of death, Disability or involuntary layoff prior to the end of the Restricted Period, your rights to all of the Shares shall be immediately and irrevocably forfeited. In the event of your termination of employment by reason of death, Disability or involuntary layoff prior to the end of the Restricted Period, the restrictions with respect to all of the Shares shall lapse and the Shares shall vest as of the date of such termination of employment; provided, however, in the case of an invountary layoff, the Shares shall not vest unless at least one year has elapsed from the Award Date. The Committee reserves the right to recoup Awards, or the value of Awards, from you in the event there is a material restatement of the Company’s financial results. If the Committee determines a recoupment is appropriate in the exercise of its discretion, considering all the facts and circumstances, you shall forfeit and pay back such portion, or all, of the outstanding or previously awarded Awards as determined by the Committee in its sole discretion.This recoupment provision includes Awards deferred into the ATK Nonqualified Deferred Compensation Plan.  
+  
+6.
+
+Holding Requirement. You will be required to retain at least 30% of the total number of Shares earned under the terms of this Agreement. See the Stock Holding policy for additional information.  
+  
+7.
+
+Rights. Upon issuance of the Shares, you shall, subject to the restrictions of this Agreement and the Plan, have all of the rights of a stockholder with respect to the Shares, including the right to vote the Shares and receive any cash dividends and any other distributions thereon, unless and until you forfeit the Shares.  
+  
+8.
+
+Income Taxes. You are liable for any federal, state and local income or other taxes applicable upon the grant of the Restricted Stock, the vesting of the Shares, or subsequent disposition of the Shares, and you acknowledge that you should consult with your own tax advisor regarding the applicable tax consequences. Upon the vesting of the Shares, the Company will pay your required minimum statutory withholding taxes by withholding Shares otherwise to be delivered upon the vesting of the Shares with a Fair Market Value (as defined in the Plan) equal to the amount of such taxes. Alternatively, if you notify the Company prior to the vesting date of the Shares, you may elect to pay all or a portion of the minimum statutory withholding taxes by (a) delivering to the Company Shares other than the Shares vesting pursuant to this Agreement with a Fair Market Value equal to the amount of such taxes or (b) paying cash, provided that if you do not deliver such Shares or cash to the Company by the second business day after the vesting date of the Shares, the Company will pay your required minimum statutory withholding taxes by withholding Shares otherwise to be delivered upon the vesting of the Shares with a Fair Market Value equal to the amount of such taxes.  
+  
+9.
+
+Acknowledgment. This Award of Restricted Stock shall not be effective until you (a) agree to the terms and conditions of this Agreement and the Plan, and acknowledge receipt of a copy of the Prospectus relating to the Plan, by accepting this Award in writing or electronically as specified by the Company or its agent in the Electronic Notice and On-Line Award Acceptance, and (b) if the Company requests it, execute and deliver the stock power required by Paragraph 3 above.  
+  
+ALLIANT TECHSYSTEMS INC.  
+  
+Mark W. DeYoung  
+  
+/s/ Mark W. DeYoung  
+  
+President & Chief Executive Officer  
+  
+* * *
+
+  
+
+
+Alliant Techsystems Inc. 2005 Stock Incentive Plan
+
+Appendix A to Award Agreement
+
+“Change in Control” means any of the following:
+
+· The acquisition by any “person” or group of persons (a “Person”), as such terms are used in Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) (other than the Company or a “Subsidiary” (as defined below) or any Company employee benefit plan (including its trustee)) of “beneficial ownership” (as defined in Rule 13d-3 under the Exchange Act) (“Beneficial Ownership”), directly or indirectly, of securities of the Company representing, directly or indirectly, more than 50% of the total number of shares of the Company’s then outstanding “Voting Securities” (as defined below);
+
+· consummation of a reorganization, merger or consolidation of the Company, or the sale or other disposition of all or substantially all of the Company’s assets (a “Business Combination”), in each case, unless, following such Business Combination, the individuals and entities who were the beneficial owners of the total number of shares of the Company’s outstanding Voting Securities immediately prior to both (1) such Business Combination and (2) any “Change Event” (as defined below) occurring within 12 months prior to such Business Combination beneficially own, directly or indirectly, more than 50% of the total number of shares of the outstanding Voting Securities of the resulting corporation or the acquiring corporation, as the case may be, immediately following such Business Combination (including, without limitation, the outstanding Voting Securities of any corporation which as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination, of the total number of shares of the Company’s outstanding Voting Securities; or
+
+· any other circumstances (whether or not following a Change Event) which the Company’s Board of Directors (the “Board”) determines to be a Change in Control for purposes of this Plan after giving due consideration to the nature of the circumstances then represented and the purposes of this Plan. Any such determination made by the Board shall be irrevocable except by vote of a majority of the members of the Board who voted in favor of making such determination.
+
+For purposes of this definition, a “Change in Control” shall not result from any transaction precipitated by the Company’s insolvency, appointment of a conservator, or determination by a regulatory agency that the Company is insolvent.
+
+For purposes of this definition:
+
+· “Change Event” means
+
+(1) the acquisition by any Person (other than the Company or a Subsidiary or any Company employee benefit plan (including its trustee)) of Beneficial Ownership, directly or indirectly, of securities of the Company directly or indirectly representing 15% or more of the total number of shares of the Company’s then outstanding Voting Securities (excluding the sale or issuance of such securities
+
+* * *
+
+  
+
+
+directly by the Company, or where the acquisition of such securities is made by such Person from five or fewer stockholders in a transaction or transactions approved in advance by the Board);
+
+(2) the public announcement by any Person of an intention to acquire the Company through a tender offer, exchange offer or other unsolicited proposal; or
+
+(3) the individuals who are members of the Board (the “Incumbent Board”) as of the Grant Date set forth in the Award Agreement cease for any reason to constitute at least a majority of the Board; provided, however, that if the nomination for election of any new director was approved by a vote of a majority of the Incumbent Board, such new director shall, for purposes of this definition, be considered a member of the Incumbent Board.
+
+· “Subsidiary” means a corporation as defined in Section 424(f) of the Internal Revenue Code with the Company being treated as the employer corporation for purposes of this definition.
+
+· “Voting Securities” means any shares of the capital stock or other securities of the Company that are generally entitled to vote in elections for directors.
+
+* * * *
+
+“Disability” means that you have been determined to have a total and permanent disability either by
+
+· being eligible for disability for Social Security purposes, or
+
+· being totally and permanently disabled under the Company’s long-term disability plan.
+
+A-2
+
+* * *

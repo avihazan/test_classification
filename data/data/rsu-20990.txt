@@ -1,0 +1,153 @@
+Exhibit 10.27
+
+SURGI-VISION, INC.
+
+
+
+THIS NON-QUALIFIED STOCK OPTION AGREEMENT (this “Agreement”) is made effective as of the _____ day of _______________, 20___ (the “Grant Date”), by and between SURGI-VISION, INC., a Delaware corporation (together with its Subsidiaries and Affiliates, the “Company”), and __________________ (the “Optionee”). Capitalized terms used but not otherwise defined herein shall have the meanings ascribed to such terms in the Surgi-Vision, Inc. 2007 Stock Incentive Plan (the “Plan”).
+
+WHEREAS, the Company has adopted the Plan, which permits the issuance of stock options for the purchase of shares of the common stock, par value $.01 per share, of the Company (the “Shares”); and
+
+WHEREAS, the Company desires to afford the Optionee an opportunity to purchase Shares as hereinafter provided in accordance with the provisions of the Plan;
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows:
+
+1\. Grant of Option.
+
+(a) The Company grants as of the date of this Agreement the right and option (the “Option”) to purchase __________ Shares, in whole or in part (the “Option Stock”), at an exercise price of $_________ per Share, on the terms and conditions set forth in this Agreement and subject to all provisions of the Plan. The exercise price may not be less than the “Fair Market Value” of the underlying Shares on the Grant Date. The Optionee, holder or beneficiary of the Option shall not have any of the rights of a stockholder with respect to the Option Stock until such person has become a holder of such Shares by the due exercise of the Option and payment of the Option Payment (as defined in Section 3 below) in accordance with this Agreement. For purposes of this Agreement, “Fair Market Value” shall be determined pursuant to the reasonable application of a reasonable valuation method in accordance with Treasury Regulations promulgated under Section 409A of the Code.
+
+(b) The Option shall be a non-qualified stock option. In order to comply with all applicable federal or state tax laws or regulations, the Company may take such action as it deems appropriate to insure that, if necessary, all applicable federal, state or other taxes are withheld or collected from the Optionee.
+
+2\. Exercise of Option. [The Optionee may exercise the Option with respect to the percentage and number of shares set forth below from and after the dates specified below:
+
+Cumulative
+
+Percentage Vested
+
+Date of Vesting
+
+Cumulative
+
+Options Exercisable  
+  
+________ %
+
+_______________, _______
+
+__________  
+  
+________ %
+
+_______________, _______
+
+__________  
+  
+________ %
+
+_______________, _______
+
+__________  
+  
+________ %
+
+_______________, _______
+
+__________  
+  
+________ %
+
+_______________, _______
+
+__________  
+  
+* * *
+
+Notwithstanding the above, each outstanding Option shall vest and become immediately exercisable upon a Change in Control.]
+
+[OR]
+
+[The Option is 100% vested as of the Grant Date. Therefore, the Optionee may exercise the Option at any time on or after the Grant Date until the termination of the Option as provided in Section 4 below.]
+
+3\. Manner of Exercise. The Option may be exercised in whole or in part at any time within the period permitted hereunder for the exercise of the Option, with respect to whole Shares only, by delivering written notice of intent to exercise the Option to the Company at its principal office no earlier than thirty (30) days and no later than ten (10) days prior to the date upon which the Optionee desires to exercise all or any portion of the Option, stating the number of Shares to be purchased, the person or persons in whose name the Shares are to be registered and each such person’s address and social security number. Such notice shall not be effective unless accompanied by payment in full of the Option Price for the number of Shares with respect to which the Option is then being exercised (the “Option Payment”) and cash equal to the required withholding taxes as set forth by Internal Revenue Service and applicable State tax guidelines for the employer’s minimum statutory withholding. The Option Payment shall be made in cash or cash equivalents or, in the discretion of the Committee, (i) in whole Shares that have been held by the Optionee for at least six (6) months (or such lesser period as the Committee may permit), valued at the Fair Market Value of such Shares (as determined by the Committee) on the date of exercise (or, if applicable, the next succeeding trading date if the date of exercise is not a trading date), together with any applicable withholding taxes, such transfer to be upon such terms and conditions as determined by the Committee, or (ii) by a combination of such cash (or cash equivalents) and such Shares. In addition, the Committee in its sole discretion may permit the Option Payment to be made in whole or in part in the form of an option to acquire Shares or in the form of another Award under the Plan (based, in each case, on the Fair Market Value of such option or Award on the date the Option is exercised, as determined by the Committee). The Optionee shall not be entitled to tender Shares pursuant to successive, substantially simultaneous exercises of the Option or any other stock option of the Company.
+
+4\. Termination of Option. The Option will expire ten (10) years from the date of grant of the Option (the “Term”) with respect to any then unexercised portion thereof, unless terminated earlier as set forth below:
+
+(a) Termination by Death. If the Optionee’s Service (as defined below) with the Company terminates by reason of death, or if the Optionee dies within three (3) months after termination of such Service for any reason other than Cause (as defined below), this Option may thereafter be exercised, to the extent the Option was exercisable at the time of such termination, by the legal representative of the estate or by the legatee of the Optionee under the will of the Optionee, for a period of one (1) year from the date of death or until the expiration of the Term of the Option, whichever period is the shorter.
+
+2
+
+* * *
+
+(b) Termination by Reason of Disability. If the Optionee’s Service with the Company terminates by reason of Disability, this Option may thereafter be exercised, to the extent the Option was exercisable at the time of such termination, by the Optionee or personal representative or guardian of the Optionee, as applicable, for a period of one (1) year from the date of such termination of Service or until the expiration of the Term of the Option, whichever period is the shorter.
+
+(c) Termination for Cause or Voluntary Termination. If the Optionee voluntarily terminates his Service with the Company or if the Optionee’s Service is terminated for Cause, this Option shall terminate immediately and become void and of no effect.
+
+(d) Other Termination. If the Optionee’s Service with the Company is involuntarily terminated for any reason other than for Cause, death or Disability, this Option may be exercised, to the extent the Option was exercisable at the time of such termination, by the Optionee for a period of three (3) months from the date of such termination of Service or the expiration of the Term of the Option, whichever period is the shorter.
+
+(e) Definition of Service. For purposes of this Agreement, the term “Service” shall mean the Optionee’s employment or service with the Company, whether in the capacity of an Consultant, Director or Employee. The Optionee’s Service shall not be deemed to have terminated merely because of a change in the capacity in which the Optionee renders service to the Company as a Consultant, Director or Employee or a change in the entity for which the Optionee renders such service, provided that there is no interruption or termination of the Optionee’s Service. For illustrative purposes only, a change in the Optionee’s status from a Consultant to an Employee, and vice versa, shall not constitute a termination of Service. Furthermore, the Optionee’s Service shall not be deemed to have terminated if the Optionee takes military leave, sick leave or other bona fide leave of absence that is approved by the Company; provided, however, that if any such leave of absence exceeds 90 days, the Optionee’s Service shall be deemed to have terminated as of the 91st day of such leave of absence unless the Optionee is entitled to return to Service with the Company pursuant to statute, regulation or contract. Subject to the foregoing, the Committee, in its sole discretion, shall determine whether the Optionee’s Service has terminated and, if so, the effective date of such termination.
+
+(f) Definition of Cause. For purposes of this Agreement, the term “Cause” shall mean (i) the Optionee’s commission of an act of fraud, embezzlement, theft or other criminal act constituting a felony, (ii) the Optionee’s willful or wanton disregard of the rules or policies of the Company which results in a material loss, damage or injury to the Company, (iii) the repeated failure of the Optionee to perform duties consistent with his position or to follow or comply with the reasonable directives of the Board or the Optionee’s superior(s) after having been given notice thereof, (iv) the Optionee’s material breach of any provision contained in any written non-competition, confidentiality or non-disclosure agreement between the Company and the Optionee, or (v) if applicable, any other event that allows the Company to terminate the Optionee’s Service for “cause” pursuant to a written agreement.
+
+5\. No Right to Continued Service. The grant of the Option shall not be construed as giving Optionee the right to be retained in the employ or other service of the Company, and the Company may at any time dismiss Optionee from employment or such other service, free from any liability or any claim under the Plan.
+
+3
+
+* * *
+
+6\. Adjustment to Option Stock. The Committee shall make equitable and proportionate adjustments in the terms and conditions of, and the criteria included in, this Option in recognition of unusual or nonrecurring events (including, without limitation, the events described in Section 4.2 of the Plan) affecting the Company or the financial statements of the Company or of changes in applicable laws, regulations or accounting principles in accordance with the Plan.
+
+7\. Amendments to Option. Subject to the restrictions contained in the Plan, the Committee may waive any conditions or rights under, amend any terms of, or alter, suspend, discontinue, cancel or terminate, the Option, prospectively or retroactively; provided that any such waiver, amendment, alteration, suspension, discontinuance, cancellation or termination that would adversely affect the rights of the Optionee or any holder or beneficiary of the Option shall not to that extent be effective without the consent of the Optionee, holder or beneficiary affected.
+
+8\. Limited Transferability. During the Optionee’s lifetime this Option can be exercised only by the Optionee, except as otherwise provided in Section 4(b) above or in this Section 8. This Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by Optionee other than (i) to a Permitted Transferee (as defined below) on the terms set forth below or (ii) by will or the laws of descent and distribution. Any attempt to otherwise transfer this Option shall be void. No transfer of this Option by the Optionee by will or by laws of descent and distribution shall be effective to bind the Company unless the Company shall have been furnished with written notice thereof and an authenticated copy of the will and/or such other evidence as the Committee may deem necessary or appropriate to establish the validity of the transfer. The Optionee may transfer this Option to a Permitted Transferee provided that (i) this Option shall have fully vested, (ii) there is no consideration for such transfer (other than receipt by the Optionee of an interest in an entity that is a Permitted Transferee), (iii) the Optionee (or the Optionee’s estate or representative) shall remain obligated to satisfy all income or other tax withholding obligations associated with the exercise of this Option, (iv) the Optionee shall notify the Company in writing prior to such transfer and disclose to the Company the name and address of the Permitted Transferee and the relationship of the Permitted Transferee to the Optionee, and (v) such transfer shall be effected pursuant to transfer documents in a form approved by the Company. A Permitted Transferee may not further assign or transfer any this Option otherwise than by will or the laws of descent and distribution. For purposes of this Agreement, the term “Permitted Transferee” means, with respect to the Optionee, (x) any child, stepchild, grandchild, parent, stepparent, grandparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law or sister-in-law of the Optionee, including adoptive relationships, and (y) a trust in which the Optionee or the persons described in the preceding clause (x) have more than fifty percent (50%) of the beneficial interest.
+
+9\. Reservation of Shares. At all times during the term of this Option, the Company shall use its best efforts to reserve and keep available such number of Shares as shall be sufficient to satisfy the requirements of this Agreement.
+
+10\. Plan Governs. The Optionee hereby acknowledges receipt of a copy of the Plan and agrees to be bound by all the terms and provisions thereof. The terms of this Agreement are governed by the terms of the Plan, and in the case of any inconsistency between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall govern.
+
+4
+
+* * *
+
+11\. Restrictions on Purchase and Sale of Shares. The Company shall be obligated to sell or issue Shares pursuant to the exercise of this Option only in the event that the Shares are at that time effectively registered or otherwise exempt from registration under the Securities Act of 1933, as amended (the “1933 Act”). In the event that the Shares are not registered under the 1933 Act, the Optionee hereby agrees that, as a further condition to the exercise of this Option, the Optionee, if the Company so requests, will execute an agreement in form satisfactory to the Company in which the Optionee represents that he or she is purchasing the shares for investment purposes, and not with a view to resale or distribution. The Optionee further agrees that if the Shares to be issued upon the exercise of this Option are not subject to an effective registration statement filed with the Securities and Exchange Commission pursuant to the requirements of the 1933 Act, such Shares shall bear an appropriate restrictive legend.
+
+12\. Severability. If any provision of this Agreement is, or becomes, or is deemed to be invalid, illegal, or unenforceable in any jurisdiction or as to any Person or the Award, or would disqualify the Plan or Award under any laws deemed applicable by the Committee, such provision shall be construed or deemed amended to conform to the applicable laws, or if it cannot be construed or deemed amended without, in the determination of the Committee, materially altering the intent of the Plan or the Award, such provision shall be stricken as to such jurisdiction, Person or Award, and the remainder of the Plan and Award shall remain in full force and effect.
+
+13\. Notices. All notices required to be given under this Option shall be deemed to have been given (i) in the case of personal delivery, on the date of such delivery, or (ii) in the case of mailing, on the third business day following the date of such mailing, in either case addressed to the party to be notified at the address set forth below or to such other address as such party may provide in writing from time to time.
+
+To the Company:  Surgi-Vision, Inc.
+
+__________________________
+
+__________________________
+
+__________________________  
+  
+To the Optionee:
+
+The address then maintained with respect to the Optionee in the Company’s records.  
+  
+14\. Governing Law. The validity, construction and effect of this Agreement shall be determined in accordance with the laws of the State of Delaware without giving effect to conflicts of laws principles.
+
+15\. Resolution of Disputes. Any dispute or disagreement which may arise under, or as a result of, or in any way related to, the interpretation, construction or application of this Agreement shall be determined by the Committee. Any determination made hereunder shall be final, binding and conclusive on the Optionee and the Company for all purposes.
+
+16\. Successors in Interest. This Agreement shall insure to the benefit of and be binding upon any successor to the Company. This Agreement shall insure to the benefit of the Optionee’s administrators, executors, heirs, legal representatives, Permitted Transferees and successors. All obligations imposed upon the Optionee and all rights granted to the Company under this Agreement shall be binding upon the Optionee’s administrators, executors, heirs, legal representatives, Permitted Transferees and successors.
+
+[The next page is the signature page]
+
+5
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Non-Qualified Stock Option Agreement to be effective as of the day and year first above written.
+
+SURGI-VISION, INC.  
+  
+By:  
+  
+Name:  
+  
+Title:  
+  
+[Insert Name of Optionee]  
+  
+6

@@ -1,0 +1,198 @@
+Exhibit 10.1 
+
+
+
+This RESTRICTED STOCK AGREEMENT (this “Stock Agreement”), dated as of  , 20 (the “Grant Date”), is between ZEBRA TECHNOLOGIES CORPORATION, a Delaware corporation (the “Company”), and  (the “Participant”), relating to restricted stock granted under the 2006 Zebra Technologies Corporation Incentive Compensation Plan (the “Plan”). Capitalized terms used in this Stock Agreement without definition shall have the meanings ascribed to such terms in the Plan. 
+
+1. Grant of Restricted Stock.   
+  
+(a) Grant. Subject to the provisions of this Stock Agreement and pursuant to the provisions of the Plan, the Company hereby grants to the Participant as of the Grant Date _________ shares of the Company’s Class A Common Stock, $.01 par value per share (the “Restricted Stock”).   
+  
+(b) Nontransferability. Except as otherwise permitted under the Plan or this Stock Agreement, the Restricted Stock granted hereunder shall be non-transferable by the Participant during the Period of Restriction set forth under Section 2 of this Stock Agreement.   
+  
+2. Vesting of Restricted Stock.   
+  
+(a) Period of Restriction. The Restricted Stock shall be forfeitable and non-transferable during the Period of Restriction. The Period of Restriction with respect to the Restricted Stock shall begin on the Grant Date and shall end on the first anniversary of the Grant Date provided that the Participant must remain employed by the Company or any Subsidiary continuously through the Period of Restriction.  
+  
+(b) Vesting Exceptions. Notwithstanding the provisions of Section 2(a) hereof, a Participant’s unvested Restricted Stock shall be subject to the following additional vesting rules in the following circumstances:   
+  
+(i) Death, Disability or Good Reason. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated due to death or Disability, or by reason of the Participant’s resignation for Good Reason, any unvested Restricted Stock as of the date of the Participant’s termination of employment shall immediately become fully vested and the remainder of the Period of Restriction relating to such Restricted Stock shall immediately lapse. For purposes of this Stock Agreement, “Good Reason” means termination of the Participant’s employment with the Company or any Subsidiary because of resignation by the Participant for any of the following reasons:   
+  
+(A) demotion of the Participant by the Company to a lesser position (including a material diminution in the status of the Participant’s responsibilities, authorities, powers or duties taken as a whole) or assignment of Participant to any duties materially inconsistent with the status and responsibilities of that position;   
+  
+(B) material breach of any provision of the Participant’s employment agreement, if any, by the Company and the Company’s failure to cure such breach within fifteen (15) business days after receipt of written notice from the Participant specifying in reasonable detail the nature of the breach; or   
+  
+(C)
+
+decrease in base salary at the rate in effect on the date of grant (unless such decrease is applied on a proportionally equal basis to all executive officers of the Company) (an “Applicable Decrease”), but only if the Participant terminates his or her employment with the Company as a result of an Applicable Decrease within ten (10) business days after the effective date of the Applicable Decrease. For clarification purposes, if the   
+  
+* * *
+
+Participant fails to terminate his or her employment with the Company within ten (10) business days after the effective date of an Applicable Decrease, such termination shall not constitute termination of employment by Participant for Good Reason under this provision.   
+  
+(ii) Termination by the Company or any Subsidiary other than for Cause. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated by the Company and/or any Subsidiary other than for Cause, any unvested Restricted Stock as of the date of the Participant’s termination of employment shall immediately become fully vested and the remainder of the Period of Restriction relating to such Restricted Stock shall immediately lapse. For purposes of this Stock Agreement, “Cause” means, as determined by the Company, in its sole discretion, termination of the Participant’s employment with the Company or any Subsidiary because of the Participant’s:   
+  
+(A) material breach of this Stock Agreement or of any other agreement to which the Participant and the Company are parties, as determined by the Committee in good faith; or   
+  
+(B) material violation of Company policy, regardless of whether within or outside of his or her authority; or   
+  
+(C) willful or intentional misconduct; gross negligence; or dishonest, fraudulent, or unethical behavior; or other conduct involving serious moral turpitude, in the performance of his or her duties; or   
+  
+(D) dishonesty, theft or conviction of any crime or offense involving money or property of the Company or any Subsidiary; or   
+  
+(E) breach of any fiduciary duty owing to the Company or any Subsidiary; or   
+  
+(F) unauthorized disclosure of Confidential Information or unauthorized dissemination of Company Materials; or   
+  
+(G) conduct that is, or could reasonably be expected to be, materially harmful to the Company or any of its subsidiaries or affiliates, as determined by the Committee in good faith.   
+  
+(iii) Other Termination of Employment. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated for any reason other than as provided in Section 2(b)(i) or (ii) hereof, any unvested Restricted Stock as of the date of the Participant’s termination of employment shall immediately be forfeited to the Company.   
+  
+(iv) Change in Control Vesting. Subject to the provisions of Section 15 of the Plan, if a Change in Control occurs, any unvested Restricted Stock shall be immediately vested and the remainder of the Period of Restriction related to such Restricted Stock shall immediately lapse.   
+  
+3. Rights While Holding Restricted Stock.   
+  
+(a) Legend. Each certificate issued for shares of Restricted Stock under this Stock Agreement shall be registered in the Participant’s name and deposited by the Participant, together with a stock power endorsed in blank, with the Company and shall bear the following (or a similar) legend:   
+  
+“The transferability of this certificate and the shares of stock represented hereby are subject to the terms and conditions (including forfeiture) contained in a Stock Agreement entered into between the registered owner and Zebra Technologies Corporation.” 
+
+2 
+
+* * *
+
+When shares of Restricted Stock become vested, the Company shall redeliver to the Participant (or the Participant’s legal representatives, beneficiaries or heirs) the number of shares which have then vested. The Participant agrees that any sale of shares of Restricted Stock received upon vesting shall be made in compliance with the registration requirements of the Securities Act of 1933 or an applicable exemption therefrom. The Committee may require the Participant to furnish to the Company, prior to the delivery of any vested shares of Common Stock, an agreement (in such form as the Committee may specify) in which the Participant represents that the shares of Common Stock are being acquired for investment and not with a view to the sale or distribution thereof. 
+
+(b) Rights as a Stockholder. During the period that shares of Restricted Stock remain unvested, the Participant shall have all of the rights of a stockholder of the Company with respect to the Restricted Stock including, but not limited to, the right to receive dividends paid on the shares of Restricted Stock and the full right to vote such shares.   
+  
+(c) Section 83(b) Election. Unless prior written consent of the Committee is secured, the Participant is not permitted to make a Section 83(b) election with respect to the Restricted Stock granted under this Stock Agreement. If the Committee consents to such Section 83(b) election, the Participant must notify the Committee within ten (10) days after filing the Section 83(b) election with the Internal Revenue Service.   
+  
+(d) Compliance with Federal and State Law. The Company may postpone issuing and delivering any Restricted Stock for so long as the Company reasonably determines to be necessary to satisfy the following:   
+  
+(i) its completing or amending any securities registration or qualification of the Restricted Stock or it or the Participant satisfying any exemption from registration under any federal or state law, rule, or regulation;   
+  
+(ii) the Participant complying with any requests for representations under the Plan;   
+  
+(iii) the Participant complying with any federal, state, or local tax withholding obligations; and   
+  
+(iv) its deferring payment of any amount that it reasonably determines would not be deductible under Code Section 162(m) until the earlier of:   
+  
+(A) the earliest date on which the Company reasonably determines that the deductibility of the payment will not be limited; or   
+  
+(B) the year following the Participant’s termination of employment.   
+  
+4. Payment of Taxes.   
+  
+(a) General Rule. If the Company is obligated to withhold an amount on account of any tax imposed as a result of the issuance of the Restricted Stock, the Participant shall be required to pay such amount to the Company, as provided under Section 17 of the Plan. The Participant acknowledges and agrees that the Participant is responsible for the tax consequences associated with the grant of the Restricted Stock and its vesting.   
+  
+5. Changes in Company’s Capital Structure.   
+  
+(a) Adjustment in Authorized Stock. As may be determined to be appropriate and equitable by the Committee, in its complete and sole discretion, the Committee shall make or authorize to be made an adjustment in the number and/or class of shares of Restricted Stock to prevent dilution or enlargement of rights, as a result of the following:   
+  
+(i) any adjustment, recapitalization, reorganization or other changes in the Company’s capital structure or its business;   
+  
+(ii) any merger or consolidation of the Company;   
+  
+(iii)
+
+any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the   
+  
+3 
+
+* * *
+
+Company’s Common Stock or the rights thereof;   
+  
+(iv) the dissolution or liquidation of the Company;   
+  
+(v) any sale or transfer of all or any part of the Company’s assets or business; or   
+  
+(vi) any other corporate act or proceeding, whether of a similar character or otherwise.   
+  
+6. Confidentiality, Non-Solicitation and Non-Compete. Participant agrees to, understands and acknowledges the following:   
+  
+(a) Confidential Information. Participant will be furnished, use or otherwise have access to certain Confidential Information of the Company. For purposes of this Stock Agreement, Confidential Information means any and all financial, technical, commercial or other information concerning the business and affairs of the Company that is confidential and proprietary to the Company, including without limitation,   
+  
+(i) information relating to the Company’s past and existing customers and vendors and development of prospective customers and vendors, including specific customer product requirements, pricing arrangements, payments terms, customer lists and other similar information;   
+  
+(ii) inventions, designs, methods, discoveries, works of authorship, creations, improvements or ideas developed or otherwise produced, acquired or used by the Company;   
+  
+(iii) the Company’s proprietary programs, processes or software, consisting of but not limited to, computer programs in source or object code and all related documentation and training materials, including all upgrades, updates, improvements, derivatives and modifications thereof and including programs and documentation in incomplete stages of design or research and development;   
+  
+(iv) the subject matter of the Company’s patents, design patents, copyrights, trade secrets, trademarks, service marks, trade names, trade dress, manuals, operating instructions, training materials, and other industrial property, including such information in incomplete stages of design or research and development; and   
+  
+(v) other confidential and proprietary information or documents relating to the Company’s products, business and marketing plans and techniques, sales and distribution networks and any other information or documents which the Company reasonably regards as being confidential.   
+  
+The Company devotes significant financial, human and other resources to the development of its products, its customer base and the general goodwill associated with its business, and the Company diligently maintains the secrecy and confidentiality of its Confidential Information. Each and every component of the Confidential Information is sufficiently secret to derive economic value from its not being generally known to other persons. While employed by the Company and thereafter, Participant will hold in the strictest confidence and not use in any manner which is detrimental to the Company or disclose to any individual or entity any Confidential Information, except as may be required by the Company in connection with Participant’s employment. 
+
+All Company Materials are and will be the sole property of the Company. Participant agrees that during and after his or her employment by the Company, Participant will not remove any Company Materials from the business premises of the Company or deliver any Company Materials to any person or entity outside the Company, except as Participant is required to do so in connection with performing the duties of his or her employment. Participant further agrees that, immediately upon the termination of his or her employment for any reason, or during Participant’s employment if so requested by the Company, Participant will return all Company Materials and other physical property, and any reproduction thereof, excepting only Participant’s copy of this Agreement. For purposes of this Stock Agreement, Company Materials means documents or other media or tangible items that contain or embody Confidential Information or any other information concerning the business, operations or future/strategic plans of the Company, whether such documents have been prepared by Participant or by others. 
+
+4 
+
+* * *
+
+(b) Non-Solicitation and Non-Compete. For the period beginning on the date hereof and ending twelve (12) months following the termination of employment with the Company, Participant will not directly or indirectly:   
+  
+(i) employ, recruit or solicit for employment any person who is (or was within six (6) months prior to Participant’s employment termination date) an employee of the Company;   
+  
+(ii) accept employment or engage in a competing business which may require contact, solicitation, interference or diverting of any of the Company’s customers, or that may result in the disclosure, divulging, or other use, of Confidential Information or Company Materials acquired during Participant’s employment with the Company; or   
+  
+(iii) solicit or encourage any customer, vendor or potential customer or vendor of the Company with whom Participant had contact while employed by the Company to terminate or otherwise alter his, her or its relationship with the Company. Participant understands that any person or entity that Participant contacted during the twelve (12) months prior to the date of Participant’s termination of employment for the purpose of soliciting sales from such person or entity shall be regarded as a “potential customer” of the Company to whom the Company has a protectible proprietary interest.   
+  
+(c) Remedies for Violation.  
+  
+(i) Injunctive Action. Participant acknowledges that if he or she violates the terms of this Section 6 the injury that would be suffered by the Company as a result of a breach of the provisions of this Stock Agreement (including any provision of Section 6(a) or (b) hereof) would be irreparable and that an award of monetary damages to the Company for such a breach would be an inadequate remedy. Consequently, the Company will have the right, in addition to any other rights it may have, to obtain injunctive relief to restrain any breach or threatened breach or otherwise to specifically enforce any provision of this Stock Agreement, and the Company will not be obligated to post bond or other security in seeking such relief. Without limiting the Company’s rights under this Section(c) (or Sections 6(a) or (b) hereof) or any other remedies of the Company, if the Participant breaches any of the provisions of Sections(a) or (b) hereof, the Company will have the right to cease making any payments otherwise due to the Participant under this Stock Agreement.   
+  
+(ii) Forfeiture of Restricted Stock and Repayment. In addition to the rights available to the Company under Section 6(c)(i) hereof, if Participant violates the terms of this Section 6 at any time, Participant, without any further action by the Company or Participant, shall forfeit, as of the first day of any such violation, all right, title and interest to unvested Restricted Stock, any Shares then owned by Participant due to vesting of Restricted Stock and any net proceeds received by Participant pursuant to any sales or transfer of any Restricted Stock prior to, on or after such date, and the Company shall have the right to issue a stop transfer order and other appropriate instructions to its transfer agent with respect to the Restricted Stock, and the Company further shall be entitled to reimbursement from Participant of any fees and expenses (including attorneys’ fees) incurred by or on behalf of the Company in enforcing the Company’s rights under this Section 6. By accepting this Restricted Stock grant, Participant hereby consents to a deduction from any amounts the Company owes to Participant from time to time (including amounts owed to Participant as wages or other compensation, fringe benefits, or vacation pay, as well as any other amounts owed to Participant by the Company), to the extent of any amounts that Participant owes to the Company under this Section 6. In addition to any injunctive relief sought under Section 6(c)(i) hereof and whether or not the Company elects to make any set-off in whole or in part, if the Company does not recover by means of set-off the full amount Participant owes to the Company, calculated as set forth in this Section 6(c)(ii), Participant agrees to immediately pay the unpaid balance to the Company.   
+  
+(d) Enforceability of Restrictive Covenants. The scope and duration of the restrictive covenants contained in this Stock Agreement are reasonable and necessary to protect a legitimate, protectible interest of the Company. However, if one or more provisions of this Stock Agreement are held to be unenforceable under applicable law to any extent, such provision(s) shall, to that extent, be excluded from this Stock Agreement and the balance of the Stock Agreement shall be interpreted as if such provision(s) were so excluded to that extent and shall be enforceable in accordance with its terms.   
+  
+5 
+
+* * *
+
+(e) Written Acknowledgement by Participant. The Committee, in its sole discretion, may require the Participant, as a condition to lapsing any restriction on the Restricted Stock, to acknowledge in writing that he or she has not engaged, and is not in the process of engaging, in any of the activities described in this Section 6.   
+  
+7\. Miscellaneous Provisions. 
+
+(a) No Service or Employment Rights. No provision of this Stock Agreement or of the Restricted Stock granted hereunder shall give the Participant any right to continue in the service or employ of the Company or any Subsidiary, create any inference as to the length of employment or service of the Participant, affect the right of the Company or any Subsidiary to terminate the employment or service of the Participant, with or without Cause, or give the Participant any right to participate in any employee welfare or benefit plan or other program (other than the Plan) of the Company or any Subsidiary.   
+  
+(b) Plan Document Governs. The Restricted Stock is granted pursuant to the Plan, and the Restricted Stock and this Stock Agreement are in all respects governed by the Plan and subject to all of the terms and provisions thereof, whether such terms and provisions are incorporated in this Stock Agreement by reference or are expressly cited. Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Plan. Any inconsistency between the Stock Agreement and the Plan shall be resolved in favor of the Plan. Participant hereby acknowledges receipt of a copy of the Plan.   
+  
+(c) Beneficiary Designation. The Participant may, from time to time, in accordance with procedures set forth by the Committee, name any beneficiary or beneficiaries (who may be named contingently or successively) to whom any benefit under this Stock Agreement is to be paid in case of his or her death before he or she receives any or all of such benefit. Each such designation shall revoke all prior designations by the Participant, shall be in a form prescribed by the Company, and will be effective only when filed by the Participant in writing with the Committee during the Participant’s lifetime. In the absence of any such designation, benefits remaining unpaid at the Participant’s death shall be paid to the Participant’s estate or exercised by the Participant’s estate.   
+  
+(d) Administration. This Stock Agreement and the rights of the Participant hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this Stock Agreement, all of which shall be binding upon the Participant.   
+  
+(e) No Vested Right In Future Awards. Participant acknowledges and agrees (by executing this Stock Agreement) that the granting of Restricted Stock under this Stock Agreement is made on a fully discretionary basis by the Company and that this Stock Agreement does not lead to a vested right to further Restricted Stock awards in the future.   
+  
+(f) Use Of Personal Data. By executing this Stock Agreement, Participant acknowledges and agrees to the collection, use, processing and transfer of certain personal data, including his or her name, salary, nationality, job title, position and details of all past Awards and current Awards outstanding under the Plan (“Data”), for the purpose of managing and administering the Plan. The Participant is not obliged to consent to such collection, use, processing and transfer of personal data, but a refusal to provide such consent may affect his or her ability to participate in the Plan. The Company, or its Subsidiaries, may transfer Data among themselves or to third parties as necessary for the purpose of implementation, administration and management of the Plan. These various recipients of Data may be located elsewhere throughout the world. The Participant authorizes these various recipients of Data to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Plan. The Participant may, at any time, review Data with respect to the Participant and require any necessary amendments to such Data. The Participant may withdraw his or her consent to use Data herein by notifying the Company in writing; however, the Participant understands that by withdrawing his or her consent to use Data, the Participant may affect his or her ability to participate in the Plan.   
+  
+(g) Severability. In the event that any provision of this Stock Agreement shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining parts of this Stock Agreement, and this Stock Agreement shall be construed and enforced as if the illegal or invalid provision had not been included.   
+  
+6 
+
+* * *
+
+(h) Waiver; Cumulative Rights. The failure or delay of either party to require performance by the other party of any provision hereof shall not affect its right to require performance of such provision unless and until such performance has been waived in writing. Each and every right hereunder is cumulative and may be exercised in part or in whole from time to time.   
+  
+(i) Notices. Any notice which either party hereto may be required or permitted to give the other shall be in writing and may be delivered personally or by mail, postage prepaid, addressed to the Secretary of the Company, at its then corporate headquarters, and the Participant at the Participant’s address as shown on the Company’s records, or to such other address as the Participant, by notice to the Company, may designate in writing from time to time.   
+  
+(j) Counterparts. This Stock Agreement may be signed in two counterparts, each of which shall be an original, but both of which shall constitute but one and the same instrument.   
+  
+(k) Successors and Assigns. This Stock Agreement shall inure to the benefit of and be binding upon each successor and assign of the Company. All obligations imposed upon the Participant, and all rights granted to the Company hereunder, shall be binding upon the Participant’s heirs, legal representatives and successors.   
+  
+(l) Governing Law. This Stock Agreement and the Restricted Stock granted hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without giving effect to provisions thereof regarding conflict of laws.   
+  
+(m) Entire Agreement. This Stock Agreement, together with the Plan, constitute the entire obligation of the parties hereto with respect to the subject matter hereof and shall supersede any prior expressions of intent or understanding with respect to this transaction.   
+  
+(n) Amendment. Any amendment to this Stock Agreement shall be in writing and signed by the Company.   
+  
+(o) Headings. The headings contained in this Stock Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Stock Agreement.   
+  
+IN WITNESS WHEREOF, the Company has caused this Stock Agreement to be duly executed by an officer thereunto duly authorized, and the Participant has hereunto set his or her hand, all as of the day and year first above written.   
+  
+ZEBRA TECHNOLOGIES CORPORATION PARTICIPANT  
+By:  
+Name: Name:  
+Title:  
+  
+7 

@@ -1,0 +1,426 @@
+  
+
+
+Exhibit 10.2
+
+
+
+IMMUNOGEN, INC.
+
+  
+
+
+AGREEMENT made this «Grantdate», between ImmunoGen, Inc. (the "Company"), a Massachusetts corporation having a principal place of business in Cambridge, Massachusetts and «FirstName» «LastName», «Address», «City», «State» «Zip» (the "Employee"). 
+
+  
+
+
+WHEREAS, the Company desires to grant to the Employee an option to purchase shares of its Common Stock, $.01 par value ("Common Stock"), under and for the purposes of the Company's Restated Stock Option Plan, as amended (the "Plan"); 
+
+  
+
+
+WHEREAS, the Company and the Employee understand and agree that any terms used herein and not otherwise defined herein have the same meanings as in the Plan (the Employee being referred to in the Plan as a "Participant"); 
+
+  
+
+
+WHEREAS, the Company and the Employee each intend that the Option granted herein shall be an Incentive Stock Option. 
+
+  
+
+
+NOW, THEREFORE, in consideration of the mutual covenants hereinafter set forth and for other good and valuable consideration, the parties hereto agree as follows: 
+
+  
+
+
+1. GRANT OF OPTION 
+
+  
+
+
+The Company hereby grants to the Employee the right and Option to purchase all or any part of an aggregate of «ISO_Shares» shares (the "Shares") of Common Stock on the terms and conditions and subject to and with the benefit of all limitations set forth herein and in the Plan, which is incorporated herein by reference. The Employee acknowledges receipt of a copy of the Plan. 
+
+  
+
+
+2. PURCHASE PRICE 
+
+  
+
+
+The purchase price of the Shares covered by the Option shall be «Price» per Share, subject to adjustment, as provided in the Plan, in the event of a stock split, reverse stock split or other events affecting the holders of Common Stock. Payment shall be made in accordance with Article 6 of the Plan. 
+
+  
+
+
+3. EXERCISE OF OPTION 
+
+  
+
+
+Subject to the terms and conditions set forth in this Agreement and the Plan, the Option granted hereby shall become exercisable cumulatively as follows: 
+
+  
+
+
+  
+
+
+provided, however, that no part of the Option shall be exercisable after the termination or expiration of the option as hereinafter provided; and provided, further, that the Option may be exercised as to not more than «ISO_Shares» Shares in the aggregate from and after the date of this Agreement. 
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+4. TERM OF OPTION 
+
+  
+
+
+The Option shall terminate ten (10) years from the date of this Agreement but shall be subject to earlier termination as provided herein or in the Plan. If the Employee ceases to be an employee of the Company or of an Affiliate (for any reason other than the death or Disability of the Employee or termination for "cause" as defined in the Plan), the Option may be exercised, if it has not previously terminated, within three (3) months after the date the Employee ceases to be an employee, but may not be exercised thereafter. In such event, the Option shall be exercisable only to the extent that the right to purchase Shares under this Agreement has accrued and is in effect as of the date of such cessation of employment. 
+
+  
+
+
+In the event that the Employee's employment is terminated for "cause" (as defined in the Plan), or, if subsequent to the termination of the Employee's employment but prior to the exercise of the Option it is determined that either prior or subsequent to such termination the Employee engaged in conduct which would constitute "cause" for the termination of the Employee's employment (such determination to be made in accordance with Article 10 of the Plan), the Employee's right to exercise any unexercised portion of this Option shall cease forthwith, and this Option shall thereupon terminate. 
+
+  
+
+
+In the event that the Employee's employment is terminated for any reason other than death or Disability or for "cause", and the Employee subsequently becomes Disabled or dies, the first paragraph of this Section 4 shall control and fix the rights of the Employee, and nothing hereinafter set forth in this Section 4 (except the following provision) shall extend the period of exercisability of the Option; provided, however, in the case of the Employee's death within the period allowed for exercise, the Employee's Survivors may exercise the Option to the extent permitted by the first paragraph of this Section 4 within, but only within, six (6) months after the date of Employee's death. 
+
+  
+
+
+In the event of the Disability of the Employee (as defined in the Plan and as determined by the Board of Directors, and as to the fact and date of which the Employee is notified by the Board of Directors in writing), the Option shall be exercisable within one (1) year after the date of such Disability or, if earlier, the term originally prescribed by this Agreement. In such event, the Option shall be exercisable (1) to the extent that the right to purchase Shares hereunder has accrued and is in effect as of such determination date and (2) if rights to exercise the Option accrue periodically under Section 3 hereof, to the extent of a pro rata portion of any additional rights which would have accrued had the Employee not become so Disabled prior to the end of the accrual period which next ends following the date of Disability. (The proration shall be made on the basis of the number of days of the accrual period prior to the date of Disability.) 
+
+  
+
+
+In the event of the death of the Employee while in the employ of the Company or of an Affiliate, the Option (1) to the extent exercisable but not exercised as of the date of death, and (2) if rights to exercise the Option accrue periodically under Section 3 hereof, to the extent of a pro rata portion of any additional rights based upon the number of days prior to the Employee's death and during the accrual period which next ends following the date of death, may be exercised by the Employee's Survivors as provided in the Plan. (The proration shall be made on the basis of the number of days of the accrual period prior to the Employee's death.) In such event, the Option must be exercised, if at all, within one (1) year after the date of death of the Employee or, if earlier, within the time originally prescribed by this Agreement. 
+
+  
+
+
+5. EXERCISE OF OPTION AND ISSUE OF SHARES 
+
+  
+
+
+Subject to the terms and conditions of this Agreement, the Option may be exercised by written notice to the Company, at the principal office address of the Company. Such notice shall state the election to exercise the Option and the number of Shares in respect of which it is being exercised, shall be signed by
+
+  
+
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+the person or persons so exercising the Option, shall contain the warranty, if any, required by Section 6 of this Agreement and shall otherwise comply with the terms and conditions of this Agreement and the Plan. Payment of the full purchase price for such Shares shall be made in accordance with Article 6 of the Plan, and the Company shall deliver a certificate or certificates representing such Shares as soon as practicable after the notice shall be received, provided, however, that the Company may delay issuance of such Shares until completion of any action or obtaining of any consent, which the Company deems necessary under any applicable law (including without limitation, state securities or "blue sky" laws). 
+
+  
+
+
+The certificate or certificates for the Shares as to which the Option shall have been so exercised shall be registered in the name of the person or persons so exercising the Option (or, if the Option shall be exercised by the Employee and if the Employee shall so request in the notice exercising the Option, shall be registered in the name of the Employee and another person jointly, with right of survivorship) and shall be delivered as provided above to or upon the written order of the person or persons exercising the Option. In the event the Option shall be exercised, pursuant to Section 4 hereof, by any person or persons other than the Employee, such notice shall be accompanied by appropriate proof of the right of such person or persons to exercise the Option. All Shares that shall be purchased upon the exercise of the Option as provided herein shall be fully paid and nonassessable. 
+
+  
+
+
+6. PURCHASE FOR INVESTMENT 
+
+  
+
+
+Unless the offering and sale of the Shares to be issued upon the particular exercise of the Option shall have been effectively registered under the Securities Act of 1933 as now in force or hereafter amended (the "Act"), the Company shall be under no obligation to issue the Shares covered by such exercise unless and until the following conditions have been fulfilled: 
+
+  
+
+
+(a)
+
+The person(s) who exercise such Option shall warrant to the Company, prior to receipt of the Shares, that such person(s) are acquiring such Shares for their own respective accounts, for investment and not with a view to, or for sale in connection with, the distribution of any such Shares; and in such event the person(s) acquiring such Shares shall be bound by the provisions of the following legend which shall be endorsed upon the certificate or certificates evidencing the Shares issued by the Company pursuant to such exercise:   
+  
+  
+
+
+"The shares represented by this certificate have been taken for investment and they may not be sold or otherwise transferred by any person, including a pledgee, in the absence of an effective registration statement for the shares under the Securities Act of 1933 or an opinion of counsel satisfactory to the Company that an exemption from registration is then available." 
+
+  
+
+
+(b)
+
+The Company shall have received an opinion of its counsel that the Shares may be issued upon such particular exercise in compliance with the Act without registration thereunder.   
+  
+  
+
+
+7. RIGHTS AS A SHAREHOLDER 
+
+  
+
+
+The Employee shall have no rights as a shareholder with respect to any Shares covered by the Option, except after due exercise of the Option and provision for payment of the full purchase price for the Shares being purchased pursuant to such exercise. 
+
+  
+
+
+  
+
+
+3
+
+* * *
+
+8. ASSIGNABILITY AND TRANSFERABILITY OF OPTIONS 
+
+By its terms, the Option shall not be transferable by the Employee other than by will or by the laws of descent and distribution or pursuant to a qualified domestic relations order as defined by the Code or Title I of the Employee Retirement Income Security Act or the rules thereunder, and shall be exercisable, during the Employee's lifetime, only by such Employee (or by his or her legal representative). The Option shall not be assigned, pledged or hypothecated in any way (whether by operation of law or otherwise) and shall not be subject to execution, attachment or similar process. Any attempted transfer, assignment, pledge, hypothecation or other disposition of the Option or of any rights granted thereunder contrary to the provisions of this Section 8, or the levy of any attachment or similar process upon the Option, shall be null and void. 
+
+  
+
+
+9. OPTION IS AN ISO 
+
+  
+
+
+The parties each intend that the Option be an ISO so that the Employee (or Employee's Survivors) may qualify for the favorable tax treatment provided to holders of Options that meet the standards of Code Section 422. Any provision of this Agreement or the Plan which conflicts with the Code so that this Option would not be deemed an ISO is null and void and any ambiguities shall be resolved so that the Option qualifies as an ISO. Nonetheless, if the Option is determined not to be an ISO, the Employee understands that the Company and any Affiliates are not responsible to compensate him or her or otherwise make up for the treatment of the Option as a Non-qualified Option and not as an ISO. The Employee should consult with the Employee's own tax advisors regarding the tax effects of the Option and the requirements necessary to obtain favorable tax treatment under Section 422 of the Code, including, but not limited to, holding period requirements. 
+
+  
+
+
+10\.  NOTICE TO COMPANY OF DISQUALIFYING DISPOSITION 
+
+  
+
+
+The Employee agrees to notify the Company in writing immediately after the Employee makes a Disqualifying Disposition of any shares acquired pursuant to the exercise of an Option. A Disqualifying Disposition is any disposition (including any sale) of such shares before the later of (a) two years after the date the Employee was granted the ISO, or (b) one year after the date the Employee acquired shares by exercising the option. If the Employee has died before such stock is sold, these holding period requirements do not apply and no Disqualifying Disposition can occur thereafter. 
+
+  
+
+
+11. NOTICES 
+
+  
+
+
+Any notices required or permitted by the terms of this Agreement or the Plan shall be given by registered or certified mail, return receipt requested, addressed as follows: 
+
+  
+
+
+To the Company: 
+
+  
+
+
+ImmunoGen, Inc. 
+
+Attn: Finance
+
+128 Sidney Street 
+
+Cambridge, MA 02139 
+
+  
+
+
+4
+
+* * *
+
+To the Employee: 
+
+  
+
+
+«FirstName» «LastName»
+
+«Address»
+
+«City», «State» «Zip»
+
+  
+
+
+or to such other addresses of which notice in the same manner has previously been given. Any such notice shall be deemed to have been given when mailed in accordance with the foregoing provisions.
+
+12. PLAN PROVISIONS 
+
+  
+
+
+Without limiting the generality of Section 1 of this Agreement, the following provisions of the plan are hereby incorporated herein: 
+
+  
+
+
+1.
+
+Paragraph A of Article 1 (Definitions).   
+  
+  
+
+
+2\. 
+
+Article 15 (Dissolution or Liquidation of the Company).   
+  
+  
+
+
+3\. 
+
+Article 16 (Adjustments).   
+  
+  
+
+
+4\. 
+
+Article 19 (Conversion of ISOs into Non-Qualified Options: Termination of ISOs).   
+  
+  
+
+
+5\. 
+
+Article 20 (Withholding).   
+  
+  
+
+
+6\. 
+
+Article 23 (Amendment of the Plan).   
+  
+  
+
+
+7\. 
+
+Article 24 (Employment or Other Relationship).   
+  
+  
+
+
+13. GOVERNING LAW 
+
+  
+
+
+This Agreement shall be construed and enforced in accordance with the laws of the Commonwealth of Massachusetts. 
+
+  
+
+
+14. BENEFIT OF AGREEMENT 
+
+  
+
+
+This Agreement shall (subject to the provisions of Section 8 hereof) inure to the benefit of and be binding upon the heirs, executors, administrators, successors and assigns of the parties hereto. 
+
+  
+
+
+15. ENTIRE AGREEMENT
+
+  
+
+
+This Agreement, together with the Plan, embodies the entire agreement and understanding between the parties hereto with respect to the subject matter hereof and supersedes all prior oral or written agreements and understandings relating to the subject matter hereof. No statement, representation, warranty, covenant or agreement not expressly set forth in this Agreement shall affect or be used to interpret, change or restrict, the express terms and provisions of this Agreement, provided, however, in any event, this Agreement shall be subject to and governed by the Plan. 
+
+  
+
+
+16. MODIFICATIONS AND AMENDMENTS 
+
+  
+
+
+The terms and provisions of this Agreement may be modified or amended only by written
+
+  
+
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+agreement executed by all parties hereto. 
+
+  
+
+
+17. WAIVERS AND CONSENTS 
+
+  
+
+
+The terms and provisions of this Agreement may be waived, or consent for the departure there from granted, only by written document executed by the party entitled to the benefits of such terms or provisions. No such waiver or consent shall be deemed to be or shall constitute a waiver or consent with respect to any other terms or provisions of this Agreement, whether or not similar. Each such waiver or consent shall be effective only in the specific instance and for the purpose for which it was given, and shall not constitute a continuing waiver or consent. 
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be executed by its duly authorized representative, and the Employee has hereunto set his or her hand, all as of the day and year first above written. 
+
+  
+
+
+ImmunoGen, Inc. 
+
+  
+
+
+  
+
+
+By:
+
+Date:  
+  
+By:
+
+Date:  
+  
+«FirstName» «LastName»  
+  
+  
+
+
+  
+
+
+  
+
+
+Option No. «Grant_No»
+
+6
+
+* * *
+
+  
+

@@ -1,0 +1,897 @@
+EXHIBIT 10.6
+
+  
+
+
+  
+
+
+  
+
+
+Black Hills Corporation 
+
+2015 Omnibus Incentive Plan
+
+
+
+(for Awards granted on or after January 1, 2016)
+
+  
+
+
+Performance Period January 1, ______ - December 31, ______
+
+  
+
+
+  
+
+
+1
+
+* * *
+
+  
+
+
+Contents
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+  
+  
+Article 1.
+
+Performance Period
+
+2
+
+  
+  
+  
+Article 2.
+
+Value of Performance Shares
+
+2
+
+  
+  
+  
+Article 3.
+
+Performance Shares and Achievement of Performance Measure
+
+2
+
+  
+  
+  
+Article 4.
+
+Termination Provisions
+
+3
+
+  
+  
+  
+Article 5.
+
+Change in Control
+
+3
+
+  
+  
+  
+Article 6.
+
+Forfeiture and Repayment
+
+5
+
+  
+  
+  
+Article 7.
+
+Dividends
+
+7
+
+  
+  
+  
+Article 8.
+
+Form and Timing of Payment of Performance Shares
+
+8
+
+  
+  
+  
+Article 9.
+
+Nontransferability
+
+8
+
+  
+  
+  
+Article 10.
+
+Administration
+
+8
+
+  
+  
+  
+Article 11.
+
+Miscellaneous
+
+8
+
+  
+  
+  
+  
+
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+Black Hills Corporation
+
+2015 Omnibus Incentive Plan
+
+Performance Share Award Agreement
+
+  
+
+
+Performance Period January 1, _____ - December 31, ____
+
+You have been selected to be a participant in the Black Hills Corporation 2015 Omnibus
+
+Incentive Plan (the “Plan”), as specified below:
+
+  
+
+
+Participant: ______________________
+
+  
+
+
+Target Performance Share Award: ______ shares
+
+  
+
+
+Performance Period: January 1, ____ to December 31, ____
+
+  
+
+
+Performance Measure: Total Shareholder Return (“TSR”).
+
+  
+
+
+Peer Index: 
+
+  
+  
+  
+ALLETE Inc.
+
+ALE
+
+NiSource, Inc.
+
+NI-WI  
+  
+Alliant Energy Corp.
+
+LNT
+
+Northwest Natural Gas Co.
+
+NWN  
+  
+Ameren Corporation
+
+AEE
+
+Northwestern Corp.
+
+NWE  
+  
+Avista Corp.
+
+AVA
+
+OGE Energy Corp.
+
+OGE  
+  
+Cleco Corp.
+
+CNL
+
+ONE Gas, Inc.
+
+OGS  
+  
+CMS Energy
+
+CMS
+
+Pinnacle West Capital Corp.
+
+PNW  
+  
+El Paso Electric Co.
+
+EE
+
+PNM Resources, Inc.
+
+PNM  
+  
+Great Plains Energy Inc.
+
+GXP
+
+Portland General Electric Co.
+
+POR  
+  
+IDACORP Inc.
+
+IDA
+
+South Jersey Industries
+
+SJI  
+  
+The Laclede Group, Inc.
+
+LG
+
+Westar Energy Inc.
+
+WR  
+  
+MGE Energy Inc.
+
+MGEE
+
+WGL Holdings Inc.
+
+WGL  
+  
+New Jersey Resources Corp.
+
+NJR  
+  
+  
+
+
+THIS AGREEMENT (the “Agreement”) effective January 1, _____, represents the grant of Performance Shares by Black Hills Corporation, a South Dakota corporation (the “Company”), to the Participant named above, pursuant to the provisions of the Plan.
+
+  
+
+
+The Plan provides a complete description of the terms and conditions governing the Performance Shares. If there is any inconsistency between the terms of this Agreement and the terms of the Plan, the Plan’s terms shall completely supersede and replace the conflicting terms of this Agreement. 
+
+  
+
+
+All capitalized terms shall have the meanings ascribed to them in the Plan, unless specifically set forth otherwise herein. 
+
+  
+
+
+  
+
+
+1
+
+* * *
+
+  
+
+
+The parties hereto agree as follows:
+
+  
+
+
+Article 1. Performance Period
+
+  
+
+
+The Performance Period commences on January 1, _____ and ends on December 31, ______.
+
+  
+
+
+Article 2. Value of Performance Shares
+
+  
+
+
+Each Performance Share shall represent and have a value equal to one share of common stock of the Company.
+
+  
+
+
+Article 3. Performance Shares and Achievement of Performance Measure
+
+  
+  
+  
+(a)
+
+The number of Performance Shares to be earned under this Agreement shall be based upon the achievement of pre-established TSR performance goals as set by the Compensation Committee of the Board of Directors (the “Committee”) for the Performance Period, based on the following chart:  
+  
+  
+  
+  
+TSR Performance Relative to Companies in Peer Index
+
+Payout
+
+(% of Target)  
+  
+90th Percentile or Above
+
+200%  
+  
+50th Percentile
+
+100%  
+  
+25th Percentile
+
+25%  
+  
+Below the 25th Percentile 
+
+0%   
+  
+  
+
+
+Interpolation shall be used to determine the percentile rank in the event the Company’s Percentile Rank does not fall directly on one of the ranks listed in the above chart.
+
+For this purpose, Total Shareholder Return shall be determined as follows:
+
+  
+  
+  
+Total Shareholder
+
+Return
+
+=
+
+Change in Stock Price + Dividends Paid
+
+Beginning Stock Price  
+  
+  
+
+
+Beginning Stock Price shall mean the average closing price on the applicable stock exchange of one share of stock for the twenty (20) trading days immediately prior to the first day of the Performance Period; Ending Stock Price shall mean the average closing price on the applicable stock exchange of one share of stock for the last twenty (20) trading days of the Performance Period; Change in Stock Price shall mean the difference between the Beginning Stock Price and the Ending Stock Price; and Dividends Paid shall mean the total of all dividends paid on one (1) share of stock during the Performance Period. 
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+Following the Total Shareholder Return determination, the Company’s Percentile Rank shall be determined as follows:
+
+Percentile Rank shall be determined by listing from highest Total Shareholder Return to lowest Total Shareholder Return each company in the Peer Index (excluding the Company). The top company would have a one hundred percentile (100%) rank and the bottom company would have a zero percentile (0.0%) rank. Each company in between would be one hundred divided by n minus one (100/(n-1)) above the company below it, where “n” is the total number of companies in the Peer Index. The Company percentile rank would then be interpolated based on the Company TSR. The Companies in the Peer Index shall remain constant throughout the entire Performance Period. 
+
+  
+
+
+Article 4. Termination Provisions
+
+  
+
+
+Except as provided below in this Article 4 and in Article 5, a Participant shall be eligible for payment of awarded Performance Shares, as determined in Article 3, only if the Participant’s employment with the Company continues through the end of the Performance Period.
+
+  
+
+
+If participant Retires, suffers a Disability, or dies during the Performance Period, the Participant (or the Participant’s estate) shall be entitled to that proportion of the number of Performance Shares as such Participant is entitled to under Article 3 for such Performance Period that the number of full months of participation during the Performance Period bears to the total number of months in the Performance Period. The form and timing of the payment of such Performance Shares shall be as set forth in Article 8. 
+
+  
+
+
+“Retirement” or “Retires” means a Separation from service by a Participant on or after (i) attaining the age of 55 with at least 5 years of service, or (ii) attaining the age of 65. 
+
+  
+
+
+“Separation from service” (as defined in Treasury Regulation Section 1.409A-1(h)) during the Performance Period other than (i) due to Retirement, Disability, or death, or (ii) following a Change in Control shall require forfeiture of this entire award, with no payment to the Participant.
+
+  
+
+
+Article 5. Change in Control
+
+  
+
+
+Notwithstanding anything herein to the contrary, in the event of a Change in Control, the Participant shall be entitled to that proportion of the number of Performance Shares as such Participant is entitled to under Article 3 for such Performance Period that the number of full months of participation during the Performance Period (as of the effective date of the Change in Control) bears to the total number of months in the Performance Period. When there is a Change in Control, the TSR shall be calculated as set forth in Article 3, except that the Ending Stock Price shall mean the average closing price on the applicable stock exchange of one share of stock for the twenty (20) trading days immediately prior to the Change in Control. Performance Shares shall be paid out to the Participant in cash within thirty (30) days of the effective date of the Change in Control.
+
+"Change in Control" of the Company shall be deemed to have occurred (as of a particular day, as specified by the Board) upon the occurrence of any of the following events:
+
+  
+  
+  
+(a)
+
+The acquisition in a transaction or series of transactions by any Person of Beneficial Ownership of thirty percent (30%) or more of the combined voting power of the then   
+  
+  
+
+
+3
+
+* * *
+
+  
+
+
+outstanding shares of common stock of the Company; provided, however, that for purposes of this Agreement, the following acquisitions will not constitute a Change in Control: (A) any acquisition by the Company; (B) any acquisition of common stock of the Company by an underwriter holding securities of the Company in connection with a public offering thereof; and (C) any acquisition by any Person pursuant to a transaction which complies with subsections (c) (i), (ii) and (iii);
+
+  
+  
+  
+(b)
+
+Individuals who, as of December 31, 2014 are members of the Board (the "Incumbent Board"), cease for any reason to constitute at least a majority of the members of the Board; provided, however, that if the election, or nomination for election by the Company's common shareholders, of any new director was approved by a vote of at least two-thirds of the Incumbent Board, such new director shall, for purposes of this Plan, be considered as a member of the Incumbent Board; provided further, however, that no individual shall be considered a member of the Incumbent Board if such individual initially assumed office as a result of either an actual or threatened "Election Contest" (as described in Rule 14a‑11 promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board (a "Proxy Contest") including by reason of any agreement intended to avoid or settle any Election Contest or Proxy Contest;  
+  
+  
+  
+  
+(c)
+
+Consummation, following shareholder approval, of a reorganization, merger, or consolidation of the Company, or a sale or other disposition of all or substantially all of the assets of the Company (each a “Business Combination”), unless, in each case, immediately following such Business Combination, all of the following have occurred: (i) all or substantially all of the individuals and entities who were beneficial owners of shares of the common stock of the Company immediately prior to such Business Combination beneficially own, directly or indirectly, more that fifty percent (50%) of the combined voting power of the then outstanding shares of the entity resulting from the Business Combination or any direct or indirect parent corporation thereof (including, without limitation, an entity which as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one (1) or more subsidiaries) (the “Successor Entity”); (ii) no Person (excluding any Successor Entity or any employee benefit plan or related trust, of the Company or such Successor Entity) owns, directly or indirectly, thirty percent (30%) or more of the combined voting power of the then outstanding shares of common stock of the Successor Entity, except to the extent that such ownership existed prior to such Business Combination; and (iii) at least a majority of the members of the Board of Directors of the entity resulting from such Business Combination or any direct or indirect parent corporation thereof were members of the Incumbent Board at the time of the execution of the initial agreement or action of the Board providing for such Business Combination; or  
+  
+  
+  
+  
+(d)
+
+Approval by the shareholders of the Company of a complete liquidation or dissolution of the Company, except pursuant to a Business Combination that complies with subsections (c) (i), (ii), and (iii) above.   
+  
+  
+  
+  
+(e)
+
+A Change in Control shall not be deemed to occur solely because any Person (the "Subject Person") acquired Beneficial Ownership of more than the permitted amount of the then outstanding common stock as a result of the acquisition of common stock by the   
+  
+  
+
+
+4
+
+* * *
+
+  
+
+
+Company which, by reducing the number of shares of common stock then outstanding, increases the proportional number of shares Beneficially Owned by the Subject Persons, provided that if a Change in Control would occur (but for the operation of this sentence) as a result of the acquisition of common stock by the Company, and after such stock acquisition by the Company, the Subject Person becomes the Beneficial Owner of any additional common stock which increases the percentage of the then outstanding common stock Beneficially Owned by the Subject Person, then a Change in Control shall occur.
+
+  
+  
+  
+(f)
+
+A Change in Control shall not be deemed to occur unless and until all regulatory approvals required in order to effectuate a Change in Control of the Company have been obtained and the transaction constituting the Change in Control has been consummated.  
+  
+  
+
+
+Notwithstanding the above provisions of this definition, to the extent that any payment under the Agreement due to a Change in Control is subject to Code Section 409A for deferred compensation, then the term “Change in Control” shall be construed in a manner that is consistent with Code Section 409A(a)(2)(A)(v), but only to the extent inconsistent with the above provisions as determined by the Board.
+
+  
+
+
+Article 6. Forfeiture and Repayment.
+
+  
+  
+  
+(a)
+
+In the event the Participant incurs a separation from service for a reason other than those described in Article 4 herein during the Performance Period this entire award will be forfeited, unless the separation from service follows a Change in Control.  
+  
+  
+  
+  
+(b)
+
+Without limiting the generality of Article 6(a), the Company reserves the right to cancel all Performance Shares awarded hereunder, whether or not vested, and require the Participant to repay all income or gains previously realized in respect of such Performance Shares, in the event of the occurrence of any of the following events:  
+  
+  
+  
+  
+(i)
+
+termination of Participant’s employment for Cause;  
+  
+  
+  
+  
+(ii)
+
+within one year following any termination of Participant’s employment, the Board determines that the Participant engaged in conduct before the Participant’s termination date that would have constituted the basis for a termination of employment for Cause;  
+  
+  
+  
+  
+(iii)
+
+at any time during the Participant’s employment or the twelve month period immediately following any termination of employment, Participant:  
+  
+  
+  
+  
+(x)
+
+publicly disparages the Company, any of its affiliates or any of its or their officers, directors or senior executive employees or otherwise makes any public statement that is materially detrimental to the interests or reputation of the Company, any of its affiliates or such individuals; or  
+  
+  
+
+
+5
+
+* * *
+
+  
+  
+  
+(y)
+
+violates in any material respect any policy or any code of ethics or standard of behavior or conduct generally applicable to Participant, including the Code of Conduct; or  
+  
+(iv)
+
+Participant engages in any fraudulent, illegal or other misconduct involving the Company or any of its affiliates, including but not limited to any breach of fiduciary duty, breach of a duty of loyalty, or interference with contract or business expectancy.  
+  
+  
+  
+  
+(c)
+
+If the Board determines that the Participant’s conduct, activities or circumstances constitute events described in Article 6(b), in addition to any other remedies the Company has available to it, the Company may in its sole discretion:  
+  
+  
+  
+  
+(i)
+
+cancel any Performance Shares awarded hereby, whether or not issued; and/or  
+  
+  
+  
+  
+(ii)
+
+require the Participant to repay an amount equal to all income or gain realized in respect of all such Performance Shares. The amount of repayment shall include, without limitation, amounts received in connection with the delivery or sale of Shares of such Performance Shares or cash paid in respect of any Performance Shares.  
+  
+  
+
+
+There shall be no forfeiture or repayment under Article 6(b) following a Change-in-Control.   
+  
+(d)
+
+The Board, in its discretion, shall determine whether a Participant’s conduct, activities or circumstances constitute events described in Article 6(b) and whether and to what extent the Performance Shares awarded hereby shall be forfeited by Participant and/or a Participant shall be required to repay an amount pursuant to Article 6(c). The Board shall have the authority to suspend the payment, delivery or settlement of all or any portion of such Participant’s outstanding Performance Shares pending an investigation of a bona fide dispute regarding Participant’s eligibility to receive a payment under the terms of this Agreement as determined by the Board in good faith.  
+  
+  
+  
+  
+(e)
+
+For purposes of applying this provision:  
+  
+  
+  
+  
+(i)
+
+“Cause” means any of the following:  
+  
+  
+  
+  
+(u)
+
+a Participant’s violation of his or her material duties to the Company or any of its affiliates, which continues after written notice from the Company or any affiliate to cure such violation;  
+  
+(v)
+
+Participant’s willful failure to follow the lawful written directives of the Board in any material respect;  
+  
+(w)
+
+Participant’s willful misconduct in connection with the performance of any of his or her duties, including but not limited to falsifying or attempting to falsify documents, books or records of the Company or any of its affiliates, making or delivering a false representation, statement or certification of compliance to the Company,   
+  
+  
+
+
+6
+
+* * *
+
+  
+
+
+misappropriating or attempting to misappropriate funds or other property of the Company or any of its affiliates, or securing or attempting to secure any personal profit in connection with any transaction entered into on behalf of the Company or any of its affiliates;  
+  
+(x)
+
+Participant’s breach of any material provisions of this Agreement or any other non-competition, non-interference, non-disclosure, confidentiality or other similar agreement executed by Participant with the Company or any of its affiliates;  
+  
+(y)
+
+conviction (or plea of nolo contendere) of the Participant of any felony, or a misdemeanor involving false statement, in connection with conduct involving the Company or any of its subsidiaries or affiliates; or  
+  
+(z)
+
+intentional engagement in any activity which would constitute or cause a breach of duty of loyalty, or any fiduciary duty to the Company or any of its subsidiaries or affiliates.  
+  
+(ii)
+
+“Code of Conduct” means any code of ethics or code of conduct now or hereafter adopted by the Company or any of its affiliates, including to the extent applicable the Company’s Employee Conduct and Disclosure Policy, as amended or supplemented from time to time, and the Company’s or subsidiary Risk Management Policies and Procedures, as amended, supplemented or replaced from time to time.  
+  
+  
+  
+  
+(f)
+
+Participant agrees that the provisions of this Article 6 are entered into in consideration of, and as a material inducement to, the agreements by the Company herein as well as an inducement for the Company to enter into this Agreement, and that, but for Participant’s agreement to the provisions of this Article 6, the Company would not have entered into this Agreement.   
+  
+  
+
+
+Article 7. Dividends
+
+  
+
+
+During the Performance Period, all dividends and other distributions paid with respect to the shares of common stock shall accrue for the benefit of the Participant to be paid out to the Participant pursuant to Article 8.
+
+  
+
+
+  
+
+
+7
+
+* * *
+
+  
+
+
+Article 8. Form and Timing of Payment of Performance Shares
+
+  
+
+
+Payment of the Performance Shares, including accrued dividends, shall be made fifty percent (50%) in cash and fifty percent (50%) in shares of Company stock. 
+
+  
+
+
+Payment of Performance Shares shall be made within sixty (60) calendar days following the close of the Performance Period, subject to the following:
+
+  
+  
+  
+(a)
+
+The Participant shall have no right with respect to any Award or a portion there of, until such award shall be paid to such Participant.  
+  
+(b)
+
+If the Committee determines, in its sole discretion, that a Participant at any time has willfully engaged in any activity that the Committee determines was or is harmful to the Company, any unpaid pending Award will be forfeited by such Participant.  
+  
+(c)
+
+All appropriate taxes will be withheld from the cash portion of the award.  
+  
+  
+
+
+Article 9. Nontransferability
+
+  
+
+
+Performance Shares may not be sold, transferred, pledged, assigned, or otherwise alienated or hypothecated, other than by will or by the laws of descent and distribution. Further, except as otherwise provided in a Participant’s Award Agreement, a Participant’s rights under the Plan shall be exercisable during the Participant’s lifetime only by the Participant or the Participant’s legal representative. The terms hereof shall be binding on the executors, administrators, heirs and successors of the Participant.
+
+  
+
+
+Article 10. Administration
+
+  
+
+
+This Agreement and the rights of the Participant hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time by the Board of Directors, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this Agreement, in its sole discretion, all of which shall be binding upon the Participant. 
+
+  
+
+
+Any inconsistency between the Agreement and the Plan shall be resolved in favor of the Plan.
+
+  
+
+
+Article 11. Miscellaneous
+
+  
+  
+  
+(a)
+
+The selection of any employee for participation in the Plan shall not give such Participant any right to be retained in the employ of the Company. The right and power of the Company to dismiss or discharge any Participant at-will, is specifically reserved. Such Participant or any person claiming under or through the Participant shall not have any right or interest in the Plan or any Award thereunder, unless and until all terms, conditions, and provisions of the Plan that affect such Participant have been complied with as specified herein.   
+  
+  
+  
+  
+(b)
+
+With the approval of the Board, the Committee may terminate, amend, or modify the Plan; provided, however, that no such termination, amendment, or modification of the Plan may in any way adversely affect the Participant’s rights under this Agreement without the Participant’s written consent, except as required by law.   
+  
+  
+
+
+8
+
+* * *
+
+  
+
+
+  
+  
+  
+(c)
+
+Participant shall not have voting rights with respect to the Performance Shares. Participant shall obtain voting rights upon the settlement of Performance Shares and distribution into shares of common stock of the Company.  
+  
+  
+  
+  
+(d)
+
+The Participant may defer such Participant’s receipt of the payment of cash and the delivery of shares of common stock, that would otherwise be due to such Participant by virtue of the satisfaction of the performance goals with respect to the Performance Shares, pursuant to the rules of the Black Hills Corporation Nonqualified Deferred Compensation Plan and the procedures set forth by the Compensation Committee. If the Participant elects to defer the receipt of the award, the Participant will be required to pay any necessary taxes from their own funds. They will not be allowed to have their deferred award reduced for tax withholding.  
+  
+  
+  
+  
+(e)
+
+This Agreement shall be subject to all applicable laws, rules, and regulations, and to such approvals by any governmental agencies or national securities exchanges as may be required.   
+  
+  
+  
+  
+(f)
+
+To the extent not preempted by federal law, this Agreement shall be governed by, and construed in accordance with, the laws of the State of South Dakota.  
+  
+  
+  
+  
+(g)
+
+Any awards received by Participant are subject to the provisions of the Stock Ownership Guidelines approved by the Board of Directors.  
+  
+  
+  
+  
+(h) 
+
+Waiver and Modification. The provisions of this Agreement may not be waived or modified unless such waiver or modification is in writing and signed by the Company.  
+  
+(i)
+
+Compliance with Exchange Act. If the Participant is subject to Section 16 of the Exchange Act, Performance Shares granted pursuant to the Award are intended to comply with all applicable conditions of Rule 16b-3 or its successors under the Exchange Act.  
+  
+  
+
+
+  
+
+
+9
+
+* * *
+
+  
+
+
+The following parties have caused this Agreement to be executed effective as of January 1, _____.
+
+  
+
+
+Black Hills Corporation
+
+  
+
+
+  
+
+
+By: _______________________
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+___________________________
+
+Participant
+
+  
+
+
+  
+
+
+10

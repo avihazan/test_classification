@@ -1,0 +1,166 @@
+Exhibit 10.6
+
+
+
+THIS STOCK PURCHASE AGREEMENT (this “Agreement”) is made and entered into as of the 18th day of May, 2009, by and between Champions Biotechnology, Inc., a Delaware corporation (the “Company”), and James M. Martell, an individual (the “Seller”). 
+
+RECITALS
+
+A. The Seller owns 8,348,000 shares of the Company’s outstanding common stock, par value $.001 per share (“Stock”). 
+
+B. The Seller wishes to sell to the Company up to 2,250,000 shares of Stock (the “Shares”), and the Company wishes to purchase the Shares on the terms and subject to the conditions set forth in this Agreement. 
+
+AGREEMENT
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the mutual obligations set forth in this Agreement, the parties hereto agree as follows: 
+
+1\. Purchase and Delivery of the Shares. 
+
+(a) Purchase of Shares. Subject to the terms and conditions hereof and in reliance upon the representations, warranties, covenants, and agreements set forth and contained herein, the Seller hereby agrees to sell to the Company, and the Company agrees to purchase from the Seller at each Closing (as hereinafter defined), the number of Shares set forth in Section 1(b) below. The purchase and sale of the Shares will occur in multiple closings, as described below. 
+
+(b) Closings. 
+
+(i) The closing of the purchase and sale to the Company of the first installment of the Shares (the “Initial Closing”) shall take place at such time and place upon which the Company and the Seller shall agree, but in no event shall the Initial Closing be later than April 15, 2009. At the Initial Closing, the Company shall purchase such number of Shares (rounded to the nearest whole Share) as is determined by dividing $125,000 by the Purchase Price (as defined below). 
+
+(ii) For so long as that certain Consulting Agreement, dated as of the date hereof, by and between the Company and the Seller (such agreement and any renewal thereof, the “Consulting Agreement”), shall remain in effect, the Company shall purchase an aggregate of $31,250 of Shares each calendar quarter. The first such quarterly purchase of Shares (the “Initial Quarterly Closing”) shall be made no later than July 31, 2009 with respect to the quarter ending July 31, 2009, and future quarterly purchases of Shares (each a “Quarterly Closing”) shall be made no later than October 31, January 31, April 30, and July 31 occurring during the term of the Consulting Agreement. At each Quarterly Closing, the Company shall purchase such number of Shares (rounded to the nearest whole Share) as is determined by dividing $31,250 by the Purchase Price. If at any time the Consulting Agreement is terminated or not renewed pursuant to its terms, then the Company’s obligation to purchase Shares under this Section 1(b)(ii) shall immediately cease. The Initial Closing, the Initial Quarterly Closing, each Quarterly Closing, and any purchase and sale of Shares pursuant to Section 1(c) shall be referred to as a “Closing.” 
+
+* * *
+
+##### 
+
+(c) Option to Purchase Additional Shares. The Company shall have the option (the “Option”), at any time and from time to time following the date of this Agreement through the third anniversary of the termination of the Consulting Agreement, to purchase all or any part of the Shares that have not otherwise previously been purchased hereunder. In the event the Company, in its sole discretion, exercises the Option, the Company shall do so by providing written notice to the Seller in accordance with the terms hereof, and by paying the Purchase Price for the number of Shares to be purchased upon exercise of the Option. The Option may be exercised in multiple Closings at the Company’s sole discretion; provided, however, that in no event shall the aggregate number of Shares purchased under this Agreement exceed 2,250,000 Shares. 
+
+(d) Notice of Closing. The Company shall notify the Seller in writing in accordance with the terms hereof as to the date of each Closing at least ten (10) days prior to such Closing (the “Closing Notice”). The Closing Notice shall set forth the Purchase Price to be paid for the Shares at such Closing. 
+
+(e) Purchase Price. The purchase price to be paid by the Company to the Seller for the Shares to be acquired pursuant to Section 1 (the “Purchase Price”) shall be equal to the lesser of (A) $0.50 per Share and (B) the volume-weighted average closing price of the Stock as quoted on the OTC Bulletin Board (or other quotation medium that publishes quotes of the Stock) for the 30-trading-day period ending on the day before the date of the Closing Notice. In the event that the volume-weighted average closing price is not available, the Purchase Price shall be the average of the closing prices for the 30-trading-day period ending on the day before the date of the Closing Notice. In the event the calculation of the number of Shares to be purchased at a Closing would result in the issuance of fractional shares, the number of Shares to be purchased at such Closing shall be rounded to the nearest whole Share. 
+
+(f) Delivery. At each Closing, the Seller shall deliver to the Company (1) certificates evidencing the Shares, such certificates from the Seller to be validly endorsed by the Seller in blank or with a duly executed and medallion guaranteed Assignment Separate From Certificate attached, and (2) a certificate in the form of Exhibit A hereto executed by the Seller to the effect that the conditions set forth in Section 6 have been satisfied. 
+
+2\. Representations and Warranties of the Seller. The Seller represents and warrants as follows: 
+
+(a) Authorization of Transaction; Agreement Binding. The Seller has full power and authority to execute and deliver, and to perform his obligations under, this Agreement. This Agreement constitutes the valid and legally binding obligation of the Seller, enforceable in accordance with its terms, except as such enforcement may be limited by general equitable principles or by applicable bankruptcy, insolvency, or similar laws affecting creditors’ rights generally. 
+
+2
+
+* * *
+
+##### 
+
+(b) No Conflict. The execution, delivery, and performance of this Agreement by the Seller does not and will not violate, conflict with, or result in a breach of or a default under (A) any applicable law, order, judgment or decree, or (B) any agreement, contract or other obligation to which the Seller is a party. 
+
+(c) Title to Shares. The Seller is the lawful owner of the Shares. The Seller owns the Shares free of any liens, claims, charges, pledges, encumbrances, or security interests of any kind. Upon payment of the Purchase Price at each Closing, legal and equitable title to the Shares will pass to the Company free and clear of all liens, claims, charges, pledges, encumbrances, and security interests of any kind. 
+
+(d) Representations Regarding the Company. The Company has made no representations to the Seller regarding the sale of the Shares or regarding its financial condition or future prospects. The Seller acknowledges that the Purchase Price may not necessarily reflect the fair market value of the Stock, and could be significantly lower than the price which the Company eventually obtains if it sells the Shares. The Seller has been afforded the opportunity to ask questions of and receive answers from the Company concerning the Company’s financial condition and future prospects. 
+
+3\. Representations and Warranties of the Company. The Company represents and warrants as follows: 
+
+(a) Authorization of Transaction; Agreement Binding. The Company has full power and authority to execute and deliver, and to perform its obligations under, this Agreement. This Agreement constitutes the valid and legally binding obligation of the Company, enforceable in accordance with its terms, except as such enforcement may be limited by general equitable principles or by applicable bankruptcy, insolvency, or similar laws affecting creditors’ rights generally. 
+
+(b) No Conflict. The execution, delivery, and performance of this Agreement by the Company does not and will not violate, conflict with, or result in a breach of or default under (A) the Company’s charter or other governing instruments, (B) any applicable law, order, judgment, or decree, or (C) any agreement, contract, or other obligation to which the Company is a party. 
+
+4\. Seller’s Release. The Seller hereby releases and forever discharges the Company and its officers, agents, and affiliates, of and from any and all manner of action and actions, causes of action, claims, demands, debts, accounts, judgments, and damages, whether known or unknown or suspected or unsuspected, which the Seller ever had, now has, or may, shall, or can hereafter have arising out of, related to, or in connection with this Agreement and the purchase and sale of the Shares. 
+
+5\. Further Assurances of Seller and the Company. Each of the parties hereto shall execute and deliver any and all such other instruments, documents, and agreements and take all such actions as either party may reasonably request from time to time in order to effectuate the purposes of this Agreement. Seller hereby agrees not to otherwise sell, agree to sell, or encumber in any way the Shares that may be sold hereunder until expiration of the period set forth in Section 1(c). 
+
+3
+
+* * *
+
+##### 
+
+6\. Conditions to the Obligations of the Company. The obligation of the Company to purchase the Shares being purchased by it at each Closing is, at its option, subject to the representations and warranties contained in Section 2 being true, complete, and correct on and as of the date of the Closing with the same effect as though such representations and warranties had been made on and as of such date. The Seller shall, at each Closing, deliver to the Company a certificate in the form of Exhibit A hereto confirming that all representations and warranties of the Seller are true and correct at and as of the Closing, and the Seller has performed and satisfied all agreements and covenants required by this Agreement to be performed and satisfied by the Seller at or prior to the Closing. 
+
+7\. Conditions to the Obligations of the Seller. The obligation of the Seller to sell the Shares being sold by him at each Closing is, at his option, subject to the Company having delivered to the Seller the aggregate Purchase Price for all of the Shares to be purchased by it on the Closing in accordance with the provisions of Section 1 hereof. 
+
+8\. Brokerage. Each party hereto shall indemnify and hold harmless the other against and in respect of any claim for brokerage or other commissions relating to this Agreement or to the transactions contemplated hereby, based in any way on agreements, arrangements, or understandings made or claimed to have been made by such party with any third party. 
+
+9\. Miscellaneous. 
+
+(a) Controlling Law. This Agreement shall be governed by and construed in accordance with the laws of the state of Delaware. 
+
+(b) Binding Nature of Agreement; No Assignment. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and assigns, except that no party may assign or transfer its rights or obligations under this Agreement without the prior consent of the other party hereto. 
+
+(c) Notices. All notices, requests, demands, claims, and other communications hereunder shall be in writing. Any notice, request, demand, claim, or other communication hereunder shall be deemed duly given if it is sent by registered or certified mail, return receipt requested, postage prepaid, and addressed to the intended recipient as follows:   
+  
+If to the Seller:  James M. Martell  
+  
+1400 N. 14th Street  
+  
+  
+Arlington, Virginia 22209  
+  
+If to the Company:  Champions Biotechnology, Inc.  
+  
+Attention: Douglas D. Burkett  
+  
+ASU Research Park  
+  
+2050 E ASU Circle, Suite 103  
+  
+Tempe, Arizona 85284  
+  
+4
+
+* * *
+
+#####   
+  
+with a copy (which shall not constitute notice) to:  
+  
+Greenberg Traurig, LLP  
+  
+Attention: Brian H. Blaney  
+  
+2375 E. Camelback Road  
+  
+Suite 700  
+  
+Phoenix, Arizona 85016  
+  
+Fax: (602) 445-8603  
+  
+Any party hereto may send any notice, request, demand, claim, or other communication hereunder to the intended recipient at the address set forth above using any other means (including personal delivery, expedited courier, messenger service, telecopy, telex, ordinary mail, or electronic mail), but no such notice, request, demand, claim, or other communication shall be deemed to have been duly given unless and until it actually is received by the intended recipient. Any party hereto may change the address to which notices, requests, demands, claims, and other communications hereunder are to be delivered by giving the other party notice in the manner herein set forth. 
+
+(d) Entire Agreement. This Agreement contains the entire understanding between the parties hereto with respect to the purchase and sale of the Shares, and supersedes all prior and contemporaneous agreements and understandings, inducements, or conditions, express or implied, oral or written, between the parties hereto, with respect to the purchase and sale of the Shares. This Agreement may not be modified or amended other than by an agreement executed in writing by the parties hereto. 
+
+(e) Counterparts. This Agreement may be executed on separate counterparts, each of which shall deemed to be an original and all of which taken together shall constitute one and the same agreement. Any telecopied signature shall be deemed a manually executed and delivered original. 
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK] 
+
+5
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the Company and the Seller have executed and delivered this Agreement as of the day and year first above written.   
+  
+SELLER:  
+  
+JAMES M. MARTELL  
+  
+COMPANY:  
+CHAMPIONS BIOTECHNOLOGY, INC.  
+  
+By:  
+  
+Douglas D. Burkett  
+President  
+  
+* * *
+
+##### 
+
+Exhibit A
+
+Form of Closing Certificate 
+
+This Certificate is being delivered pursuant to Section 6 of that certain Stock Purchase Agreement, dated as of ___ ___, 2009 (the “Agreement”), by and between Champions Biotechnology, Inc., a Delaware corporation, and James M. Martell, an individual (the “Seller”). Capitalized terms not defined herein shall have the meanings ascribed thereto in the Agreement. 
+
+The Seller hereby certifies that all representations and warranties of the Seller contained in the Agreement are true and correct at and as of the Closing, and the Seller has performed and satisfied all agreements and covenants required by the Agreement to be performed and satisfied by the Seller at or prior to the Closing. 
+
+IN WITNESS WHEREOF, this Certificate is executed as of _____, 20____.   
+  
+JAMES M. MARTELL  
+  
+A-1

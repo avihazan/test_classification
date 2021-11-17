@@ -1,0 +1,233 @@
+Exhibit 10.1 
+
+Darling International Inc. 
+
+2012 Omnibus Incentive Plan 
+
+
+
+SECTION 1. GRANT OF AWARD. 
+
+On the terms and conditions set forth in this Performance Unit Award Agreement (this “Agreement”), the Company hereby grants to the undersigned individual (the “Grantee”) a number of Performance Units (the “Performance Units”) as specified below, each of which represents a contingent right to receive a share of common stock of the Company, $0.01 par value per share (a “Share”) at a future date after such Performance Unit has become earned and vested. 
+
+[In addition, the Company hereby grants to the Grantee a number of fully vested, unrestricted Shares (the “Other Stock-Based Award”) as specified below, to be issued to the Grantee on the Grant Date, but conditioned on the Grantee first executing and accepting the terms of this Agreement.]1
+
+This award is granted under and subject to the terms of the Darling International Inc. 2012 Omnibus Incentive Plan (the “Plan”), which is incorporated herein by this reference. Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Plan. 
+
+SECTION 2. VESTING. 
+
+(a) Vesting—General. Subject to the requirements of Section 2(b), the Grantee shall vest in his or her Performance Units pursuant to this Section 2(a):   
+  
+i. General; Performance Measures Achieved. As of the first, second, and third anniversaries of the Grant Date (each, a “Vesting Date”), the Grantee shall become vested in one-third (1/3) of the Performance Units (subject to the rounding provisions of Section 2(d)), if the following performance condition has been met: the Company and VION Ingredients each must have achieved at least the target level of Adjusted EBITDA for the most recently completed fiscal year of the Company, as set forth on Appendix A to this Agreement. For example, as of the first Vesting Date, the Grantee shall become vested in one-third of the Performance Units (subject to rounding) if the target level of Adjusted EBITDA was achieved by both the Company and VION Ingredients for the 2014 fiscal year. For purposes of this Agreement, each such fiscal year of the Company is referred to as a “Performance Period.”   
+  
+ii. Certain Performance Measures Achieved. Notwithstanding anything to the contrary herein, if the target Adjusted EBITDA for a Performance Period for either the Company or VION Ingredients is achieved for one entity, but is not achieved for the other entity, a portion of the Performance Units that would otherwise vest on the related Vesting Date will be vested as follows (rounded up to the next whole Performance Unit):   
+  
+1 Additional language to be included for European Executives only.   
+  
+1 
+
+* * *  
+  
+Percentage of Performance Goals Achieved
+
+Percentage of Installment
+
+Vesting on the Vesting Date  
+  
+Company achieves target
+
+Adjusted EBITDA, VION
+
+Ingredients Adjusted EBITDA
+
+achieved at the following
+
+percentage of target
+
+VION Ingredients achieves
+
+target Adjusted EBITDA,
+
+Company Adjusted EBITDA
+
+achieved at the following
+
+percentage of target  
+  
+98% 99% 90%  
+96% 98% 80%  
+94% 97% 70%  
+Below 94% Below 97% 0%  
+  
+iii. Written Certification of Performance Results. Vesting of Performance Units as of a Vesting Date is conditioned on the Committee first certifying in writing the performance results for the applicable Performance Period.   
+  
+(b) Employment Requirement. No Performance Units shall become earned and vested following the Grantee’s separation from Service, except as expressly provided in Section 2(c) below.   
+  
+(c) Termination of Service—Death or Disability. If the Grantee’s Service terminates as a result of the Grantee’s death or Disability, on each Vesting Date following such termination of Service, the Grantee shall vest in a number of Performance Units equal to the number of Performance Units subject to vesting on such Vesting Date, based upon the Company and VION Ingredient’s achievement of the Adjusted EBITDA goals as described in Section 2(a), multiplied by the Pro-Rata Fraction.   
+  
+(d) Fractional Shares. Only a whole number of Performance Units will become vested as of any given Vesting Date. If the number of Performance Units scheduled to vest as of a Vesting Date under Section 2(a)(i) is a fractional number, the number of Performance Units schedule to vest on that Vesting Date will be rounded down to the nearest whole number with any fractional portion carried forward.   
+  
+(e) Cancellation of Rights. To the extent any of the Performance Units fail to become earned and vested under this Section 2, then such Performance Units shall be immediately forfeited as of the date of such failure and all of the Grantee’s rights to such Performance Units shall immediately terminate without any payment of consideration by the Company.   
+  
+SECTION 3. SETTLEMENT. 
+
+(a) Settlement in Shares. Upon the Grantee vesting in some or all of his or her Performance Units, he or she will be issued Shares representing the whole number of Performance Units in which the Grantee has vested. Such Shares shall be issued as soon as administratively practicable (generally not more than 30 days) after the applicable Vesting Date.   
+  
+(b) Withholding Requirements.  
+  
+i.
+
+Regardless of any action the Company takes with respect to any or all income tax, payroll tax or other tax-related withholding (“Tax-Related Items”), the Grantee acknowledges that the ultimate liability for all Tax-Related Items owed by the Grantee is and remains the Grantee’s responsibility and that the Company (i) makes no representations or undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the award made under this Agreement, including the   
+  
+2 
+
+* * *
+
+grant or vesting of the Performance Units, [the Other Stock-Based Award,] or the subsequent sale of Shares; and (ii) does not commit to structure the terms of the grant or any aspect of this award to reduce or eliminate the Grantee’s liability for Tax-Related Items.   
+  
+ii. Prior to vesting of the Performance Units [and the Other Stock-Based Award], the Grantee shall pay or make adequate arrangements satisfactory to the Company to satisfy all withholding obligations of the Company. In this regard, the Grantee authorizes the Company to withhold all applicable Tax-Related Items legally payable by the Grantee from the Grantee’s wages or other cash compensation paid to the Grantee by the Company or from proceeds of the sale of the Shares. Alternatively, or in addition, to the extent permissible under applicable law, the Company may (i) sell or arrange for the sale of Shares that the Grantee acquires to meet the withholding obligation for Tax-Related Items, and/or (ii) withhold in Shares to be issued to the Grantee under this Agreement, provided that the Company only withholds the amount of Shares necessary to satisfy the minimum withholding amount. Finally, the Grantee shall pay to the Company any amount of Tax-Related Items that the Company may be required to withhold as a result of the Grantee’s participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue and deliver Shares in payment of any earned and vested Performance Units [or Other Stock-Based Award] if the Grantee fails to comply with the Grantee’s obligations in connection with the Tax-Related Items as described in this Section 3(b).   
+  
+SECTION 4. MISCELLANEOUS PROVISIONS. 
+
+(a) Data Privacy and Other Acknowledgments. By accepting the award provided for in this Agreement, the Grantee acknowledges and agrees that such award is subject to the provisions regarding data privacy and additional acknowledgments set forth in Appendix B. The Grantee shall review the provisions of Appendix B carefully, as this award shall be null and void absent the Grantee’s acceptance of such provisions. The Company reserves the right to impose other requirements on the award to the extent the Company determines it is necessary or advisable in order to comply with local law or facilitate the administration of the award and to require the Grantee to sign any additional agreements or undertakings that may be necessary to accomplish the foregoing.   
+  
+(b) No Right to Continued Service. Nothing in this Agreement or the Plan shall confer upon the Grantee any right to continue in Service for any period of specific duration or interfere with or otherwise restrict in any way the rights of the Company (or any affiliated entity employing or retaining the Grantee) or of the Grantee, which rights are hereby expressly reserved by each, to terminate his or her Service at any time and for any reason, with or without cause.   
+  
+(c) No Right as a Shareholder.  
+  
+i.
+
+The Performance Units constitute an unfunded and unsecured obligation of the Company. The Grantee shall not have any rights of a stockholder of the Company with respect to the Shares underlying the Performance Units unless and until the Performance Units become earned and vested and are settled by the issuance of Shares. Upon issuance of Shares in connection with the settlement of vested   
+  
+3 
+
+* * *
+
+Performance Units, the Grantee shall be the record owner of the Shares unless and until such Shares are sold or otherwise disposed of, and as record owner shall be entitled to all rights of a stockholder of the Company (including voting rights).   
+  
+ii. If a cash dividend is paid with respect to the Shares underlying the Performance Units, the Grantee shall be credited as of the applicable dividend payment date with an additional number of whole Performance Units (the “Dividend Units”) equal to (A) the total cash dividend the Grantee would have received had the Performance Units (and any previously credited Dividend Units with respect thereto) been actual Shares divided by (B) the Fair Market Value of a Share as of the applicable dividend payment date, such amount rounded to the nearest whole number. Dividend Units shall be subject to the same vesting conditions as applicable to the underlying Performance Units as provided in this Agreement.   
+  
+(d) Beneficiary. The Grantee may designate a beneficiary to receive settlement in connection with the Performance Units in the event of the Grantee’s death in accordance with the Company’s beneficiary designation procedures, as in effect from time to time. If the Grantee does not designate a beneficiary, or if the Grantee’s designated beneficiary does not survive the Grantee, then the Grantee’s beneficiary will be the Grantee’s estate.   
+  
+(e) Notification. Any notification required by the terms of this Agreement shall be given in writing and shall be deemed effective (i) upon personal delivery; (ii) upon deposit with the United States Postal Service, by registered or certified mail, with postage and fees prepaid; or (iii) upon the Company’s sending of an email to the Grantee. A notice shall be addressed to the Company at its principal executive office and to the Grantee at the postal address that he or she most recently provided to the Company or at his or her Service email address, if any.   
+  
+(f) Entire Agreement. This Agreement and the Plan constitute the entire contract between the parties hereto with regard to the subject matter hereof. They supersede any other agreements, representations or understandings (whether oral or written and whether express or implied) relating to the subject matter hereof. In the event of a conflict between any provision of the Plan and this Agreement, the Plan shall control.   
+  
+(g) Waiver. No waiver of any breach or condition of this Agreement shall be deemed to be a waiver of any other or subsequent breach or condition, whether of like or different nature.   
+  
+(h) Successors and Assigns. The provisions of this Agreement shall inure to the benefit of, and be binding upon, the Company and its successors and assigns and upon the Grantee, the Grantee’s assigns and the legal representatives, heirs and legatees of the Grantee’s estate, whether or not any such person shall have become a party to this Agreement and have agreed in writing to be joined herein and be bound by the terms hereof.   
+  
+(i) Choice of Law. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Texas, as such laws are applied to contracts entered into and performed in such state, without regard to principles of conflict of law.   
+  
+4 
+
+* * *
+
+SECTION 5. DEFINITIONS. 
+
+(a) “Adjusted EBITDA” for a Performance Period, solely for purposes of this Agreement, shall mean with respect to the Company and VION Ingredients, respectively, the earnings before interest, taxes, depreciation, and amortization reported for the applicable entity for the Performance Period, which shall be adjusted for each of the following items occurring during the Performance Period that would have the effect of increasing Adjusted EBITDA for the Performance Period: (A) asset write-downs; (B) litigation or claims judgments or settlements; (C) the effect of changes in tax laws, accounting principles, or other laws or provisions affecting reported results; (D) any reorganization and restructuring programs; (E) acquisitions or divestitures; (F) foreign exchange gains; and (G) Extraordinary Items; provided, however, that the Committee may determine to not make one or more of such adjustments, consistent with Section 12.4 of the Plan regarding the Committee’s right to adjust awards downwards.   
+  
+(b) “Disability” shall mean that the Grantee is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment as determined by the Board of Directors in its sole discretion.   
+  
+(c) “Grant Date” shall mean the date of the closing date of such transactions contemplated by that certain Sale and Purchase Agreement dated October 5, 2013 and entered into by and among the Company and VION Holding N.V., relating to the Company’s acquisition of VION Ingredients Nederland (Holding) B.V., VION Ingredients International (Holding) B.V., and VION Ingredients Germany GmbH.  
+  
+(d) “Pro-Rata Fraction” shall mean, as of each Vesting Date, a fraction with the numerator equal to the Grantee’s days of employment during the period of Service from the Grant Date through the date of termination of Service due to death or Disability (as applicable) and the denominator equal to the total number of days between the Grant Date and the Vesting Date.  
+  
+(e) “Service” shall mean service as an employee of the Company or any of its Subsidiaries or Affiliates or as a member of the Board of Directors.   
+  
+(f) “VION Ingredients” shall mean the business unit of the Company designated as VION Ingredients resulting from the transaction described in the definition of “Grant Date.”   
+  
+This Award is conditioned upon the Grantee’s acceptance of the provisions set forth in this Agreement within 90 days after the Agreement is presented to the Grantee for review. If the Grantee fails to accept the Award within such 90-day period, the Award shall be null and void, and the Grantee’s rights in the Award shall immediately terminate without any payment of consideration by the Company. 
+
+Darling International Inc.   
+  
+By:  
+  
+Title:  
+  
+Date:  
+  
+5 
+
+* * *
+
+Grantee   
+  
+[type name]  
+Date:  
+  
+No. of Performance Units: 
+
+[Other Stock-Based Award:  Shares2] 
+
+2 For European Executives only.   
+  
+6 
+
+* * *
+
+Appendix A 
+
+[Adjusted EBITDA targets] 
+
+1 
+
+* * *
+
+Appendix B 
+
+1. DATA PRIVACY   
+  
+By accepting the this award, you hereby explicitly and unambiguously consent to the collection, use and transfer, in electronic or other form, of your personal data as described in this document by and among, as applicable, your employer and the Company and its Subsidiaries for the exclusive purpose of implementing, administering and managing the Performance Units and/or Other Stock-Based Award which have been awarded to you under this Agreement (collectively, the “Stock Awards”). 
+
+You understand that the Company and your employer hold certain personal information about you, including, but not limited to, your name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares of stock or directorships held in the Company, details of any entitlement to shares of stock or equivalent benefits awarded, canceled, vested, unvested or outstanding in your favor (“Data”), for the purpose of implementing, administering and managing the Stock Awards. You understand that Data may be transferred to any third parties assisting in the implementation, administration and management of the Stock Awards, that these recipients may be located in your country or elsewhere, and that the recipient’s country may have different data privacy laws and protections from your country. You understand that you may request a list with the names and addresses of any potential recipients of the Data by contacting your local human resources representative. You authorize the recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Stock Awards. You understand that Data will be held only as long as is necessary to implement, administer and manage the Stock Awards. You understand that you may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing your local human resources representative. Further, you understand that you are providing the consents herein on a purely voluntary basis. If you do not consent, or if you later seek to revoke your consent, your employment status or service and career with your employer will not be adversely affected; the only adverse consequence of refusing or withdrawing your consent is that the Company would not be able to grant you Stock Awards or other awards or administer or maintain such awards. Therefore, you understand that refusing or withdrawing your consent may affect your ability to benefit from the Stock Awards. For more information on the consequences of your refusal to consent or withdrawal of consent, you understand that you may contact your local human resources representative. 
+
+2. ADDITIONAL ACKNOWLEDGEMENTS   
+  
+By entering into this award agreement and accepting the grant of Stock Awards evidenced hereby, you acknowledge, understand and agree that: 
+
+(a) the Stock Awards are granted voluntarily by the Company, are discretionary in nature and may be modified, suspended or terminated by the Company at any time;   
+  
+(b) the grant of Stock Awards is voluntary and occasional and does not create any contractual or other right to receive future awards of Stock Awards or benefits in lieu of Stock Awards, even if such awards have been awarded in the past;   
+  
+1 
+
+* * *
+
+(c) all decisions with respect to future awards, if any, will be at the sole discretion of the Company;   
+  
+(d) the grant of Stock Awards shall not create a right to further employment with your employer and shall not interfere with the ability of your employer to terminate your employment relationship at any time, with or without Cause;   
+  
+(e) you are voluntarily accepting the grant of Stock Awards;   
+  
+(f) the Stock Awards and any payment made pursuant to the Stock Awards are not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, long-service awards, pension or retirement benefits or welfare benefits or similar payments, and in no event should be considered as compensation for, or in any way relating to, past services for the Company or any of its Subsidiaries;   
+  
+(g) in accepting the grant of Stock Awards, you expressly recognize that the Stock Awards are an award made solely by the Company, with principal offices at 251 O’Connor Ridge Blvd., #300, Irving, TX 75038, U.S.A., the Company is solely responsible for the administration of the Plan and the Agreement (collectively, the “Plan Documents”) and your participation in the Plan Documents; in the event that you are an employee of a Subsidiary, the Stock Awards and your participation in the Plan Documents will not be interpreted to form an employment contract or relationship with the Company; furthermore, the Stock Awards will not be interpreted to form an employment contract with any Subsidiary;   
+  
+(h) the future value of the Company shares which may be delivered in settlement of the Stock Awards (to the extent earned) is unknown and cannot be predicted with certainty;   
+  
+(i) no claim or entitlement to compensation or damages shall arise from forfeiture of the Stock Awards resulting from failure to achieve performance goals as set forth in the Agreement, termination of your employment by the Company or your employer (for any reason whatsoever and regardless of whether or not such termination is later found to be invalid or in breach of the employment laws in the jurisdiction where you are employed or the terms of your employment agreement, if any) or recoupment of all or any portion of any payment made pursuant to the Stock Awards as provided by any applicable Company policy on recoupment of incentive compensation and, in consideration of the grant of the Stock Awards to which you are not otherwise entitled, you irrevocably agree never to institute any claim against the Company or your employer, waive your ability, if any, to bring any such claim, and release the Company and your employer from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan Documents, you shall be deemed irrevocably to have agreed not to pursue such claim, and you agree to execute any and all documents necessary to request dismissal or withdrawal of such claim;   
+  
+(j)
+
+for purposes of the Stock Awards, your employment will be considered terminated as of the date you are no longer actively employed and providing services to the Company or one of its Subsidiaries, and your right, if any, to earn and be paid any portion of the Stock Awards (and any related dividend equivalents) pursuant to this Agreement after such termination of employment (for any reason whatsoever and regardless of whether or not   
+  
+2 
+
+* * *
+
+such termination is later found to be invalid or in breach of the employment laws in the jurisdiction where you are employed or the terms of your employment agreement, if any) will be measured by the date you cease to be actively employed and will not be extended by any notice period mandated under local law (e.g., active employment would not include a period of “garden leave” or similar period mandated under the employment laws in the jurisdiction where you are employed or the terms of your employment agreement, if any); the Company, in its sole discretion, shall determine when you are no longer actively employed for purposes of the Stock Awards (including whether you may still be considered actively employed while on an approved leave of absence);   
+  
+(k) you are solely responsible for investigating and complying with any exchange control laws applicable to you in connection with any payment made pursuant to Stock Awards and/or the payment of cash dividend equivalents, if any;   
+  
+(l) unless otherwise provided in the Plan Documents or by the Company in its discretion, the Stock Awards and the benefits evidenced by this award agreement do not create any entitlement to have the Stock Awards or any such benefits transferred to, or assumed by, another company nor to be exchanged, cashed out or substituted for, in connection with any corporate transaction affecting the Company’s common stock;   
+  
+(m) neither your employer, the Company nor any of its Subsidiaries shall be liable for any foreign exchange rate fluctuation between your local currency and the United States Dollar that may affect the value of the Stock Awards or any payment made pursuant to the Stock Awards; and   
+  
+(n) the Company is not providing any tax, legal, or financial advice, nor is the Company making any recommendations regarding the Stock Awards. You are hereby advised to consult with your personal tax, legal and financial advisors regarding the Stock Awards before taking any action in relation thereto.   
+  
+3. LANGUAGE   
+  
+If you have received this Agreement or any other document related to the Plan Documents translated into a language other than English and if the meaning of the translated version differs from the English version, the English version shall control. 
+
+3 

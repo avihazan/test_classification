@@ -1,0 +1,407 @@
+  
+
+
+  
+
+
+Exhibit 10.11
+
+
+  
+Participant: [ ]
+
+  
+
+
+Number of Shares: […….]
+
+  
+
+
+Expiration Date: [………]
+
+  
+
+
+Grant Date: _________, 20__
+
+  
+
+
+Option Price: [ ]
+
+(Closing Price of Shares on Grant Date)
+
+  
+
+
+  
+
+
+Vesting Dates:
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+1/3rd vested on the day prior to the first anniversary of the Grant Date
+
+  
+
+
+2/3 vested on the day prior to the second anniversary of the Grant Date
+
+  
+
+
+Fully vested on the day prior to the third anniversary of the Grant Date
+
+  
+  
+  
+  
+
+
+1.Grant of Option. This option is granted pursuant to the Premier, Inc. 2013 Equity Incentive Plan (the “Plan”), by Premier, Inc. (the “Company”) to the Participant. The Company hereby grants to the Participant as of the Grant Date (set forth above) a non-qualified stock option (the “Option”) to purchase the number of shares set forth above of the Company’s Class A common stock, $0.01 par value (“Shares”), at an option price per share (the “Option Price”) set forth above, pursuant to the Plan, as it may be amended from time to time, and subject to the terms, conditions, and restrictions set forth herein. Capitalized terms in this stock option agreement (this “Award Agreement”) shall have the meaning specified in the Plan, unless a different meaning is specified herein.
+
+2. Terms and Conditions. The terms, conditions, and restrictions applicable to the Option are specified in the Plan, this Award Agreement, including Exhibit A – Option Rules and Exhibit B – Section 280G Rules, and the prospectus dated October, 2013 and any applicable prospectus supplement (together, the “Prospectus”). The terms, conditions and restrictions in the Plan and Prospectus include, but are not limited to, provisions relating to amendment, vesting, cancellation, and exercise, all of which are hereby incorporated by reference into this Award Agreement to the extent not otherwise set forth herein. 
+
+By accepting the Option, the Participant acknowledges receipt of the Prospectus and that he or she has read and understands the Prospectus. 
+
+The Participant understands that the Option and all other incentive awards are entirely discretionary and that no right to receive an award exists absent a prior written agreement with the Company to the contrary. The Participant also understands that the value that may be realized, if any, from the Option is contingent, and depends on, the future market price of the Common Stock, among other factors. The Participant further confirms the Participant’s understanding that the Option is intended to promote employee retention and stock ownership and to align employees’ interests with those of shareholders, is subject to vesting conditions and will be cancelled if the vesting 
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+conditions are not satisfied. Thus, the Participant understands that (a) any monetary value assigned to the Option in any communication regarding the Option is contingent, hypothetical, or for illustrative purposes only, and does not express or imply any promise or intent by the Company to deliver, directly or indirectly, any certain or determinable cash value to the Participant; (b) receipt of the Option or any incentive award in the past is neither an indication nor a guarantee that an incentive award of any type or amount will be made in the future, and that absent a written agreement to the contrary, the Company is free to change its practices and policies regarding incentive awards at any time; (c) vesting may be subject to confirmation and final determination by the Committee that the vesting conditions have been satisfied; and (d) Shares received upon exercise of the Option shall be subject to lock-up restrictions as described in Section 15 of this Award Agreement. The Participant shall have no rights as a stockholder of the Company with respect to any shares covered by the Option unless and until the Option vests, is properly exercised and shares of Common Stock are issued.
+
+3. Vesting. One-third (1/3rd) of the Shares covered by this Option shall vest and become exercisable on the day before each Vesting Date, provided the Participant is continuously employed by a member of the Premier Group. Notwithstanding the foregoing:
+
+(a) In the event that a Participant terminates employment due to being a Good Leaver (as defined below) the portion of the Option that would have vested over the following twelve month period had the Participant continued employment shall immediately vest on the date of such employment termination. A Participant is a “Good Leaver” on account of (i) terminating employment with the Premier Group due to death, Disability or an Approved Retirement (as defined in Section 14 below) or (ii) the termination of the Participant’s employment with the Premier Group Without Cause (as defined in Section 14 below) prior to a Change in Control; and
+
+(b) In the event a member of the Premier Group (or a successor) terminates the Participant’s employment with the Premier Group Without Cause or the Participant terminates his employment with the Premier Group for Good Reason (as defined in Section 14 below) within the twelve month period commencing upon a Change in Control (as defined in the Plan), the Option shall vest in full.
+
+Notwithstanding the above, vesting of the Option shall be prohibited to the extent that it would violate applicable law. 
+
+4. Term. The Option shall in all events expire not later than the tenth (10th) anniversary of the Grant Date set forth above. If the Participant has a termination of, or break in, employment prior to exercise or expiration of the Option, the Participant’s rights to exercise the Option shall be determined under the Option Rules set forth in Exhibit A, which shall be enforceable as if set forth in this Award Agreement. Notwithstanding the foregoing, the unvested portion of the Option as determined under Section 3 above shall expire and be permanently forfeited upon employment termination with the Premier Group.
+
+5. Exercise of Option.
+
+  
+
+
+\- 2 - 
+
+* * *
+
+  
+
+
+  
+
+
+(a) In General. Subject to Section 6 below, the portion of the Option that is exercisable under this Award Agreement may be exercised in whole or in part by the Participant upon notice to the Company in accordance with any form of exercise that may be permitted under the Plan by the Committee, in its sole discretion, which satisfies in full payment of the Option Price and applicable withholding taxes. For avoidance of doubt, the Committee may, in its discretion, require that the Option only be exercised using a net exercise (as described under the Plan). Such notice shall be given in the manner prescribed by the Company and shall specify the date of exercise and the number of shares being exercised.
+
+(b) Exercise Suspension. The Committee may suspend the right to exercise the Option during any period for which (i) there is no registration statement under the Securities Act of 1933, as amended, in effect with respect to the Shares issuable upon exercise of the Option, (ii) the Committee determines, in its sole discretion, that such suspension would be necessary or advisable in order to comply with the requirements of (A) any applicable federal securities law or rule or regulation thereunder; (B) any rule of a national securities exchange, national securities association, or other self-regulatory organization; or (C) any other federal or state law or regulation (each an “Option Exercise Suspension”). Notwithstanding the foregoing, no Option Exercise Suspension shall extend the term of the Option in a manner that would result in the Option becoming nonqualified deferred compensation subject to Section 409A of the Code. 
+
+6. Compliance with Certain Obligations; Compensation Recovery. The Shares subject to the Option shall be subject to forfeiture as a result of the Participant’s violation of any obligations contained in any agreement between the Company and the Participant relating to non-competition, non-interference, non-solicitation and confidentiality (the “Employment Obligations”), and shall be subject to being recovered under any compensation recovery policy that may be adopted from time to time by the Company or any of its Affiliates. For avoidance of doubt, compensation recovery rights to Shares shall extend to the proceeds realized by the Participant due to the sale or other transfer of Shares. The Participant’s prior execution of agreements containing the Employment Obligations and confirmation of such obligations was a material inducement for the Company’s grant of the Option under this Award Agreement.
+
+7. Taxes; Limitation on Excess Parachute Payments. The exercise of the Option is conditioned on the Participant making arrangements reasonably satisfactory to the Company for the withholding of all applicable federal, state, local or foreign taxes as may be required under applicable law. The Participant shall bear all expense of, and be solely responsible for, all federal, state, local or foreign taxes due with respect to any payment received under this Award Agreement. The Committee, in its sole discretion, may satisfy the Participant’s withholding tax obligations by reducing the number of Shares to which the Participant is entitled under the Award. Notwithstanding any other provision in this Award Agreement to the contrary, any payment or benefit received or to be received by the Participant in connection with a Change in Control or the termination of employment (whether payable under the terms of this Award Agreement or any other plan, arrangement or agreement with a member of the Premier Group (collectively, the “Payments”) that would constitute a “parachute payment” within the meaning of Section 280G of the Code, shall be reduced to the extent necessary so that no portion thereof shall be subject to the excise tax imposed by Section 4999 of the Code (the “Excise Tax”), but only if, by reason of such reduction, the net 
+
+  
+
+
+\- 3 - 
+
+* * *
+
+  
+
+
+  
+
+
+after-tax benefit received by the Participant shall exceed the net after-tax benefit that would be received by the Participant if no such reduction was made. Whether and how the limitation under this Section 7 is applicable shall be determined under the Section 280G Rules set forth in Exhibit B, which shall be enforceable as if set forth in this Award Agreement.
+
+8. Consent to Electronic Delivery. In lieu of receiving documents in paper format, the Participant agrees, to the fullest extent permitted by law, to accept electronic delivery of any documents that the Company may be required to deliver (including, but not limited to, prospectuses, prospectus supplements, grant or award notifications and agreements, account statements, annual and quarterly reports, and all other agreements, forms and communications) in connection with this and any other prior or future incentive award or program made or offered by the Company or its predecessors or successors. Electronic delivery of a document to the Participant may be via a Company e-mail system or by reference to a location on a Company intranet site to which the Participant has access. 
+
+9. Administration. In administering the Plan, or to comply with applicable legal, regulatory, tax, or accounting requirements, it may be necessary for a member of the Premier Group to transfer certain Participant data to another member of the Premier Group, or to its outside service providers or governmental agencies. By accepting the Option, the Participant consents, to the fullest extent permitted by law, to the use and transfer, electronically or otherwise, of the Participant’s personal data to such entities for such purposes.
+
+10. Entire Agreement/Amendment/Survival/Assignment. The terms, conditions and restrictions set forth in the Plan, this Award Agreement and the Prospectus, constitute the entire understanding between the parties hereto regarding the Option and supersede all previous written, oral, or implied understandings between the parties hereto about the subject matter hereof. This Award Agreement may be amended by a subsequent writing (including e-mail or other electronic form) agreed to between the Company and the Participant. Section headings herein are for convenience only and have no effect on the interpretation of this Award Agreement. The provisions of this Award Agreement that are intended to survive a Participant’s termination of employment shall survive such date. The Company may assign this Award Agreement and its rights and obligations hereunder to any current or future member of the Premier Group.
+
+11. No Right to Employment. The Participant agrees that nothing in this Award Agreement constitutes a contract of employment with a member of the Premier Group for a definite period of time. The employment relationship is “at will,” which affords the Participant or a member of the Premier Group the right to terminate the relationship at any time for any reason or no reason not otherwise prohibited by applicable law. The Premier Group retains the right to decrease the Participant’s compensation and/or benefits, transfer or demote the Participant or otherwise change the terms or conditions of the Participant’s employment.
+
+12. Transfer Restrictions. The Participant may not sell, assign, transfer, pledge, encumber or otherwise alienate, hypothecate or dispose of the Option or the Participant’s right under the Option to receive Shares, except as otherwise provided in the Committee’s sole discretion consistent with the Plan and applicable securities laws.
+
+  
+
+
+\- 4 - 
+
+* * *
+
+  
+
+
+  
+
+
+13. Conflict. This Award Agreement is subject to the terms and provisions of the Plan, including but not limited to the adjustment provisions under Section 12 of the Plan. In the event of a conflict between the Plan, this Award Agreement and/or the Prospectus, the documents shall control in that order (that is, the Plan, this Award Agreement and then the Prospectus). 
+
+14. Definitions. For purposes of this Award Agreement, the following terms shall be as defined below:
+
+(a) “Approved Retirement” shall mean a Participant’s voluntary resignation from the Premier Group on or after attaining age 59 ½ or age 55 with 5 or more years of service.
+
+  
+
+
+(b) “Just Cause” means termination of the Participant’s employment with the Premier Group by a member of the Premier Group as a result of conduct by the Participant amounting to: (i) commission or omission of any act of dishonesty, moral turpitude, fraud, embezzlement, theft, misappropriation, breach of fiduciary duty, or breach of the duty of loyalty in connection with the Participant’s employment with a Premier Group member or against any Premier Group partner hospital, affiliated health care organization or customer; (ii) willful misconduct, insubordination, or repeated refusal or unwillingness to follow the reasonable directives of the Board of Directors / Managers of a Premier Group member and/or the Participant’s Premier Group employer, the Chief Executive Officer of the Participant’s Premier Group employer, or the Participant’s immediate supervisor(s); (iii) willful action or inaction with respect to the Participant’s performance of his or her employment duties that constitutes a violation of law or governmental regulations or that causes a Premier Group member to violate such law or regulation; (iv) a material breach of any securities or other law or regulation or any Premier Group policy governing inappropriate disclosures or “tipping” related to (or the trading or dealing of) securities, stock or investments; (v) excessive absenteeism not related to authorized sick leave, authorized family/medical leave, authorized disability leave, authorized vacation, authorized military leave or other authorized statutory leave within the parameters set forth in accordance with Premier Group policies and procedures regarding the same; (vi) a conviction, guilty plea or plea of nolo contendere by the Participant for any crime involving moral turpitude or dishonesty or for any felony; or (vii) material breach or violation of the terms of employment or other agreements to which the Participant and one or more members of the Premier Group are party; or (viii) breach or violation of material policies, rules, procedures or instructions of a Premier Group member.
+
+  
+
+
+For purposes of this definition only, no act or failure to act by a Participant shall be deemed “willful” if done or omitted to be done by the Participant in good faith and with the reasonable belief that the Participant’s act or omission was in the best interest of the Premier Group and consistent with Premier Group policies and applicable law. Further, any act or failure to act based on and consistent with (a) instructions pursuant to a resolution duly adopted by the Board of Directors / Managers of a Premier Group member, (b) instructions of the applicable Board Chair as authorized by such Boards, or (c) the advice of Premier Group counsel shall be presumed to be done or omitted to be done by the Participant in good faith and in the best interests of the Premier Group.
+
+  
+
+
+(c) “Disability” means any of the following: (i) the Participant is unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental 
+
+  
+
+
+\- 5 - 
+
+* * *
+
+  
+
+
+  
+
+
+impairment that can be expected to result in death or can be expected to last for a continuous period of at least twelve months, or the Participant’s entitlement to and receipt of disability benefits under a disability insurance program that pays benefits on the basis of the foregoing definition; (ii) the Participant is, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of at least twelve months, receiving either (a) income replacement benefits for a period of at least three months under an accident and health plan covering employees of the Participant’s Premier Group employer, or (b) disability benefits under a disability insurance program that pays benefits on the basis of the foregoing definition; or (iii) the Participant is determined to be totally disabled by the Social Security Administration or Railroad Retirement Board.
+
+  
+
+
+(d) “Good Reason” means a Participant’s resignation of employment from all applicable members of the Premier Group due to: (i) a material reduction of the Participant’s base salary without the Participant’s consent; (ii) a material reduction in the Participant’s authority, duties or responsibilities without the Participant’s consent, but excluding any such reductions made in good faith to conform with applicable law or accounting/public company standards; or (iii) a relocation of the Participant to a location outside a fifty (50) mile radius of the Participant’s primary office location. In all instances, a Participant must provide the Chair of the Board of Directors / Managers of the Participant’s Premier Group employer (in the case of the CEO) or the CEO of the Participant’s Premier Group employer (in the case of other Participants) written notice of the asserted instances constituting “Good Reason” within ninety (90) calendar days of the initial existence of the condition(s). Further, “Good Reason” shall not mean or include resignation by a Participant for conditions (i) – (iii) if cured or remedied by the appropriate Premier Group member(s) within thirty (30) calendar days of receiving the Participant’s notice.
+
+  
+
+
+(e) “Premier Group” shall mean the Company, its Subsidiaries and Affiliates.
+
+(f) “Termination Date” shall have the meaning set forth in Exhibit A.
+
+(g) “Without Cause” means a termination of the Participant’s employment with the Premier Group by a member of the Premier Group for a reason other than death, Disability or for Just Cause.
+
+15. Lock-up Restriction. The Participant agrees that, if the Company proposes to offer for sale any Shares pursuant to a public offering under the Securities Act of 1933 and if requested by the Company and any underwriter engaged by the Company for a reasonable period of time specified by the Company or such underwriter following the date of any prospectus, offering memorandum or similar disclosure document used with respect to such offering (such period of time not to exceed the lock-up period applicable to the Company for such proposed offering), the Participant will not, directly or indirectly, offer, sell, pledge, contract to sell (including any short sale), grant any option to purchase, or otherwise dispose of any securities of the Company held by the Participant or enter into any Hedging Transaction (as defined below) relating to any securities of the Company held by the Participant. For purposes of this Section, a “Hedging Transaction” means any short sale (whether or not against the box) or any purchase, sale or grant of any right (including, without limitation, any put or call option) with respect to any security (other than a 
+
+  
+
+
+\- 6 - 
+
+* * *
+
+  
+
+
+  
+
+
+broad-based market basket or index) that includes, relates to or derives any significant part of its value from the Shares.
+
+16. Governing Law. This Award Agreement shall be legally binding and shall be executed and construed and its provisions enforced and administered in accordance with the laws of the State of Delaware without regard to the principles of conflicts of law thereunder.
+
+  
+
+
+\- 7 - 
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+EXHIBIT A \- Option Rules
+
+To Form of Stock Option Agreement
+
+When you terminate covered employment
+
+References to “you” or “your” are to the Participant. “Termination Date” means the date on which you terminate employment with the Premier Group. “Terminate employment” or “termination of employment” means the cessation of your employment with the Premier Group. 
+
+If you terminate employment and immediately begin providing services as a consultant or director for a member of the Premier Group, you shall not be deemed to have terminated employment on the date on which your employment terminates. 
+
+If you terminate your employment or if there is a break in your employment, your Option may be cancelled before the end of the vesting period and the vesting and exercisability of your Option may be affected.
+
+The provisions in the chart below apply to the Option granted to you in this Award Agreement under the Plan.
+
+If any Option exercisability period set forth in the chart below would otherwise expire during an Option Exercise Suspension, the Option shall remain exercisable for a period of 30 days after the Option Exercise Suspension (as defined in Section 5 of this Award Agreement) is lifted by the Company (but no later than the original option expiration date, which is the tenth (10th) anniversary of the Grant Date).  
+  
+If:
+
+Here’s what happens to Your Option:  
+  
+You are a Good Leaver (as defined in Section 3(a))
+
+Any portion of the Option which would have vested over the twelve months following Termination Date immediately vests upon your termination. You may exercise the vested portion of your Option for up to twelve months after the Termination Date but no later than the original option expiration date.  
+  
+We terminate your employment for Just Cause or you leave the Premier Group other than as a Good Leaver prior to a Change in Control
+
+Both the vested and unvested portions of your Option are immediately cancelled.
+
+  
+
+
+  
+  
+  
+  
+
+
+  
+
+
+\- 8 - 
+
+* * *
+
+  
+
+
+  
+  
+  
+You take an approved personal leave of absence
+
+For the first six (6) months of an approved personal leave, vesting continues. If the approved leave exceeds six (6) months, vesting is suspended until you return to work and remain actively employed for 30 calendar days, after which time vesting will be restored retroactively. The vested portion of your Option may be exercised during approved leave, but no later than the original option expiration date. If you terminate employment for any reason during the first year of an approved leave, the termination of employment provisions will apply. If the leave exceeds one year, your Option will be cancelled immediately.  
+  
+  
+  
+  
+You are on an approved family and medical leave, military leave, or other statutory leave of absence
+
+Your Option will continue to vest on schedule, and you may exercise the vested portion of your Option during the leave but no later than the original option expiration date.  
+  
+  
+
+
+  
+  
+  
+You are terminated involuntarily other than for Just Cause or you terminate your employment for Good Reason, in either case, within one (1) year following a Change in Control
+
+Upon the Termination Date the unvested portion of your Option will vest immediately, and you may exercise the vested portion of your Option for up to twelve months from the Termination Date, but no later than the original option expiration date.  
+  
+While employed and at any time during the Restricted Period, you breach the Agreement not to Compete
+
+In addition to all rights and remedies available to the Company at law and in equity, you will immediately forfeit any of your outstanding rights under this Award Agreement.  
+  
+  
+
+
+  
+
+
+\- 9 - 
+
+* * *
+
+  
+
+
+  
+
+
+Exhibit B – Section 280G Rules
+
+  
+
+
+To Form of Stock Option Agreement
+
+When you receive benefits in connection with a Change in Control
+
+  
+
+
+The following rules shall apply for purposes of determining whether and how the limitations provided under Section 7 are applicable to the Participant.
+
+1\. The “net after-tax benefit” shall mean (i) the Payments (as defined in Section 7) which the Participant receives or is then entitled to receive from the Company or an Affiliate that would constitute “parachute payments” within the meaning of Section 280G of the Code, less (ii) the amount of all federal, state and local income and employment taxes payable by the Participant with respect to the foregoing calculated at the highest marginal income tax rate for each year in which the foregoing shall be paid to the Participant (based on the rate in effect for such year as set forth in the Code as in effect at the time of the first payment of the foregoing), less (iii) the amount of Excise Tax imposed with respect to the payments and benefits described in (i) above.
+
+2\. All determinations under Section 7 of this Award Agreement and this Exhibit B will be made by an accounting firm or law firm that is selected for this purpose by the Company’s Chief Executive Officer prior to a Change in Control (the “280G Firm”). All fees and expenses of the 280G Firm shall be borne by the Company. The Company will direct the 280G Firm to submit any determination it makes under Section 7 of this Award Agreement and this Exhibit B and detailed supporting calculations to both the Participant and the Company as soon as reasonably practicable. 
+
+3\. If the 280G Firm determines that one or more reductions are required under Section 7 of this Award Agreement, the 280G Firm shall also determine which Payments shall be reduced (first from cash payments and then from non-cash benefits) to the extent necessary so that no portion thereof shall be subject to the excise tax imposed by Section 4999 of the Code, and the Company shall pay such reduced amount to the Participant. The 280G Firm shall make reductions required under Section 7 of this Award Agreement in a manner that maximizes the net after-tax amount payable to the Participant.
+
+4\. As a result of the uncertainty in the application of Section 280G at the time that the 280G Firm makes its determinations under this Section, it is possible that amounts will have been paid or distributed to the Participant that should not have been paid or distributed (collectively, the “Overpayments”), or that additional amounts should be paid or distributed to the Participant (collectively, the “Underpayments”). If the 280G Firm determines, based on either the assertion of a deficiency by the Internal Revenue Service against the Company or the Participant, which assertion the 280G Firm believes has a high probability of success or controlling precedent or substantial authority, that an Overpayment has been made, the Participant must repay to the Company, without interest; provided, however, that no loan will be deemed to have been made and no amount will be payable by the Participant to the Company unless, and then only to the extent that, the deemed loan and payment would either reduce the amount on which the Participant is subject to tax under Section 4999 of the Code or generate a refund of tax imposed under Section 4999 of the Code. If the 280G 
+
+  
+
+
+\- 10 - 
+
+* * *
+
+  
+
+
+  
+
+
+Firm determines, based upon controlling precedent or substantial authority, that an Underpayment has occurred, the 280G Firm will notify the Participant and the Company of that determination and the amount of that Underpayment will be paid to the Participant promptly by the Company.
+
+5\. The Participant will provide the 280G Firm access to, and copies of, any books, records, and documents in the Participant’s possession as reasonably requested by the 280G Firm, and otherwise cooperate with the 280G Firm in connection with the preparation and issuance of the determinations and calculations contemplated by Section 7 of this Award Agreement and this Exhibit B.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+\- 11 - 

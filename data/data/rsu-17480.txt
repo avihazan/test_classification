@@ -1,0 +1,241 @@
+Exhibit 10.6
+
+SPX FLOW
+
+
+
+FORM OF
+
+STOCK OPTION AGREEMENT  
+AWARD
+
+THIS STOCK OPTION AGREEMENT (the “Agreement”) is made between SPX FLOW, Inc., a Delaware corporation (the “Company”), and the Recipient pursuant to the SPX FLOW Stock Compensation Plan, as amended from time to time, and related plan documents (the “Plan”) in combination with an SPX Stock Option Summary (the “Award Summary”) to be displayed at the Fidelity website. The Award Summary, which identifies the person to whom the Options are granted (the “Recipient”) and specifies the date (the “Award Date”) and other details of this grant of Options, and the electronic acceptance of this Agreement (which also is to be displayed at the Fidelity website), are incorporated herein by reference. Capitalized terms used but not otherwise defined herein shall have the meanings assigned to such terms in the Plan. The parties hereto agree as follows:
+
+1. Grant of Options. The Company hereby grants to the Recipient, a non-qualified stock option to purchase the number of shares of Common Stock of the Company specified in the Award Summary (the “Award”) at a price per share equal to the Fair Market Value of a share of Common Stock on the date of grant, subject to the terms and conditions of the Plan and this Agreement. The Recipient must accept the Award within [ninety (90) days] after notification that the Award is available for acceptance and in accordance with the instructions provided by the Company. The Award automatically will be rescinded upon the action of the Company, in its discretion, if the award is not accepted within [ninety (90) days] after notification is sent to the Recipient indicating availability for acceptance. The Company shall maintain an account (the “Option Account” or “Account”) on its books in the name of the Recipient, which shall reflect the number of Options awarded to the Recipient.
+
+2. Restrictions. The Options may not be sold, transferred, pledged, assigned or otherwise alienated or hypothecated, whether voluntarily or involuntarily or by operation of law. The Recipient shall have no rights in the Common Stock underlying the Options until the vesting and subsequent exercise and delivery of the Common Stock or as otherwise provided in the Plan or this Agreement. The Recipient shall not have any voting rights with respect to the Options, nor shall the Recipient receive or be entitled to receive any dividends or dividend equivalents with respect to the Options.
+
+3. Expiration Date. Subject to earlier expiration, forfeiture or termination as provided in the following Sections, the Options will expire and be forfeited at the close of business on the business day immediately preceding the tenth anniversary of the Award Date (the “Stated Expiration Date”).
+
+4. Vesting Period. Subject to the provisions of the Plan and this Agreement, unless they are vested or forfeited earlier as described in Section 5, 6, or 7 of this Agreement, as applicable, the Options shall become vested in/on [
+
+* * *
+
+  
+
+
+(“Vesting Date”),] subject to the Recipient’s continuous employment through the [applicable Vesting Date], provided that the Committee, in its sole discretion, may accelerate the vesting of all or a portion of the Options, at any time and from time to time.
+
+5. Vesting upon Certain Terminations.
+
+(a) Disability or Death. If the Recipient terminates employment with the Company (or a Subsidiary of the Company if the Recipient is then in the employ of such Subsidiary) by reason of Disability (as defined below) or death, then (i) any unvested Options shall become fully vested as of the date of employment termination without regard to the vesting restrictions set forth in Section 4 of this Agreement and (ii) vested options shall remain exercisable for following such termination or until the Stated Expiration Date, whichever period is shorter, and any Options not exercised by the end of such period shall be forfeited at the end of the period. “Disability” means, in the written opinion of a qualified physician selected by the Company, the Recipient is, by reason of any medically determinable physical or mental impairment that can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, (i) unable to engage in any substantial gainful activity, or (ii) receiving income replacement benefits for a period of not less than three months under the Company’s disability plan.
+
+(b) [Retirement. If the Recipient terminates employment with the Company by reason of Retirement (as defined below), then (i) any unvested Options shall become fully vested as of the date of employment termination without regard to the vesting restrictions set forth in Section 4 of this Agreement and (ii) vested options shall remain exercisable for following such termination or until the Stated Expiration Date, whichever period is shorter, and any Options not exercised by the end of such period shall be forfeited at the end of the period. A Recipient will be eligible for “Retirement” treatment for purposes of this Agreement if, at the time of the Recipient’s termination of Service, the Recipient is age 55 or older, has completed five years of Service with the Company or a Subsidiary (provided that the Subsidiary has been directly or indirectly owned by the Company for at least three years), has been an employee of the Company for at least ninety (90) days following the Award Date and voluntarily elects to retire by providing appropriate notice to the Company’s Human Resources department.]
+
+6. Forfeiture upon Termination due to Reason other than [Retirement, ]Disability or Death. If the Recipient experiences a termination of Service for any reason other than the Recipient’s [Retirement, ]Disability or death, then the Recipient shall forfeit any unvested Options on the date of such termination of Service. [Vested options shall remain exercisable for following such termination or until the Stated Expiration Date, whichever period is shorter, and any vested Options not exercised by the end of such period shall be forfeited at the end of the period.]
+
+7. Termination Without Cause Following Change of Control. In the event the Recipient is terminated without Cause within two years following a “Change of Control” of the Company as defined in this Section, then (i) any unvested Options shall become fully vested and exercisable as of the termination without Cause and shall cease to be subject to the restrictions set forth in Section 4 of the Agreement and (ii) vested options shall remain exercisable for [two
+
+2
+
+* * *
+
+  
+
+
+years] following such termination or until the Stated Expiration Date, whichever period is shorter, and any Options not exercised by the end of such period shall be forfeited at the end of the period. A “Change of Control” shall be deemed to have occurred if:
+
+(a) Any “Person” (as defined below), excluding for this purpose (i) the Company or any Subsidiary of the Company, (ii) any employee benefit plan of the Company or any Subsidiary of the Company, and (iii) any entity organized, appointed or established for or pursuant to the terms of any such plan that acquires beneficial ownership of Common Stock, is or becomes the “Beneficial Owner” (as defined below) of twenty-five percent (25%) or more of the Common Stock then outstanding; provided, however, that no Change of Control shall be deemed to have occurred as the result of an acquisition of Common Stock by the Company which, by reducing the number of shares outstanding, increases the proportionate beneficial ownership interest of any Person to twenty-five percent (25%) or more of the Common Stock then outstanding, but any subsequent increase in the beneficial ownership interest of such a Person in Common Stock shall be deemed a Change of Control; and provided further that if the Board determines in good faith that a Person who has become the Beneficial Owner of Common Stock representing twenty-five percent (25%) or more of the Common Stock then outstanding has inadvertently reached that level of ownership interest, and if such Person divests as promptly as practicable a sufficient number of shares of the Company so that the Person no longer has a beneficial ownership interest in twenty-five percent (25%) or more of the Common Stock then outstanding, then no Change of Control shall be deemed to have occurred. For purposes of this paragraph (a), the following terms shall have the meanings set forth below:
+
+(i) “Person” shall mean any individual, firm, limited liability company, corporation or other entity, and shall include any successor (by merger or otherwise) of any such entity.
+
+(ii) “Affiliate” and “Associate” shall have the respective meanings ascribed to such terms in Rule 12b-2 of the General Rules and Regulations under the Securities Exchange Act of 1934, as amended (the “Exchange Act”).
+
+(iii) A Person shall be deemed the “Beneficial Owner” of and shall be deemed to “beneficially own” any securities:
+
+(A) which such Person or any of such Person’s Affiliates or Associates beneficially owns, directly or indirectly (determined as provided in Rule 13d-3 under the Exchange Act);
+
+(B) which such Person or any of such Person’s Affiliates or Associates has (1) the right to acquire (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding (other than customary agreements with and between underwriters and selling group members with respect to a bona fide public offering of securities), or upon the exercise of conversion rights, exchange rights, rights, warrants or options, or otherwise; provided,
+
+3
+
+* * *
+
+  
+
+
+however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, securities tendered pursuant to a tender or exchange offer made by or on behalf of such Person or any of such Person’s Affiliates or Associates until such tendered securities are accepted for purchase or exchange; or (2) the right to vote pursuant to any agreement, arrangement or understanding; provided, however, that a Person shall not be deemed the Beneficial Owner of, or to beneficially own, any security if the agreement, arrangement or understanding to vote such security (a) arises solely from a revocable proxy or consent given to such Person in response to a public proxy or consent solicitation made pursuant to, and in accordance with, the applicable rules and regulations promulgated under the Exchange Act and (b) is not also then reportable on Schedule 13D under the Exchange Act (or any comparable or successor report); or
+
+(C) which are beneficially owned, directly or indirectly, by any other Person with which such Person or any of such Person’s Affiliates or Associates has any agreement, arrangement or understanding (other than customary agreements with and between underwriters and selling group members with respect to a bona fide public offering of securities) for the purpose of acquiring, holding, voting (except to the extent contemplated by the proviso to subparagraph (a)(iii)(B)(2), above) or disposing of any securities of the Company.
+
+Notwithstanding anything in this “Beneficial Ownership” definition to the contrary, the phrase “then outstanding,” when used with reference to a Person’s beneficial ownership of securities of the Company, shall mean the number of such securities then issued and outstanding together with the number of such securities not then actually issued and outstanding which such Person would be deemed to own beneficially hereunder.
+
+(b) During any period of two (2) consecutive years (not including any period prior to the acceptance of this Agreement), individuals who at the beginning of such two-year period constitute the Board and any new director or directors (except for any director designated by a person who has entered into an agreement with the Company to effect a transaction described in paragraph (a), above, or paragraph (c), below) whose election by the Board or nomination for election by the Company’s shareholders was approved by a vote of at least two-thirds of the directors then still in office who either were directors at the beginning of the period or whose election or nomination for election was previously so approved, cease for any reason to constitute at least a majority of the Board; or
+
+(c) The consummation of: (i) a plan of complete liquidation of the Company, (ii) an agreement for the sale or disposition of the Company or all or substantially all of the Company’s assets, (iii) a plan of merger or consolidation of the Company with any other corporation, or (iv) a similar transaction or series of transactions involving the Company (any transaction described in parts (i) through (iv) of this paragraph (c) being referred to as a “Business Combination”), in each case unless after such a Business Combination the shareholders of the Company immediately prior to the Business
+
+4
+
+* * *
+
+  
+
+
+Combination continue to own at least seventy-five percent (75%) of the voting securities of the new (or continued) entity immediately after such Business Combination, in substantially the same proportion as their ownership of the Company immediately prior to such Business Combination.
+
+Notwithstanding any provision of this Agreement to the contrary, a “Change of Control” shall not include any transaction described in paragraph (a) or (c), above, where, in connection with such transaction, the Recipient and/or any party acting in concert with the Recipient substantially increases his or its, as the case may be, ownership interest in the Company or a successor to the Company (other than through conversion of prior ownership interests in the Company and/or through equity awards received entirely as compensation for past or future personal Services).
+
+8. Effect of Change of Control. In the event of a Change of Control as defined in Section 7 of this Agreement:
+
+(a) No cancellation, termination, acceleration of exercisability or vesting, or settlement or other payment shall occur with respect to the Options if the Committee (as constituted immediately prior to the Change in Control) reasonably determines, in good faith, prior to the Change in Control that the Options shall be honored or assumed or new rights substituted therefor by an Alternative Award, in accordance with the terms of Section 14.5 of the Plan.
+
+(b) Notwithstanding Section 8(a), if an Alternative Award meeting the requirements of Section 14.5 of the Plan cannot be issued, or the Committee so determines at any time prior to the Change of Control, any unvested options shall become fully vested and exercisable immediately prior to the Change of Control.
+
+(c) Notwithstanding Sections 8(a) and 8(b), the Committee (as constituted immediately prior to the Change in Control) may determine that all then-outstanding Options (whether vested or unvested) shall be canceled in exchange for a payment having a value equal to the excess, if any, of (a) the product of the Change in Control Price multiplied by the aggregate number of shares covered by all such Options immediately prior to the Change in Control over (b) the aggregate Option Price for all such shares, to be paid as soon as reasonably practicable, but in no event later than 30 days following the Change in Control.
+
+(d) Notwithstanding Sections 8(a) through 8(c), the Committee may, in its discretion, terminate any outstanding Options if either (i) the Company provides holders of such Options with reasonable advance notice to exercise their outstanding and unexercised Options, or (ii) the Board reasonably determines that the Change in Control Price is equal to or less than the Option Price for such Options.
+
+9. Manner of Exercise. Vested Options shall be exercised pursuant to this Section 9.
+
+(a) Subject to such reasonable administrative regulations as the Committee may adopt from time to time, the exercise of vested Options by the Recipient shall be pursuant to procedures established by the Company from time to time and shall include
+
+5
+
+* * *
+
+  
+
+
+the Recipient specifying the proposed date on which the Recipient desires to exercise a vested Option (the “Exercise Date”), the number of whole shares with respect to which the vested Options are being exercised (the “Exercise Shares”) and the aggregate Option Price for such Exercise Shares (the “Exercise Price”), or such other or different requirements as may be specified by the Company. Unless otherwise determined by the Committee, (i) on or before the Exercise Date the Recipient shall deliver to the Company full payment for the Exercise Shares in United States dollars in cash or cash equivalents satisfactory to the Company, in an amount equal to the Exercise Price, or tendering shares of previously acquired Mature Common Stock having a fair market value at the time of exercise equal to the Exercise Price plus (if applicable) any required withholding taxes or other similar taxes, charges or fees, or, pursuant to a broker-assisted exercise program established by the Company, the Recipient may exercise vested Options by an exercise and sell procedure (cashless exercise) in which the Exercise Price (together with any required withholding taxes or other similar taxes, charges or fees) is deducted from the proceeds of the exercise of an Option, or in such other method permitted under the Plan, and (ii) the Company shall register the issuance of the Exercise Shares on its records (or direct such issuance to be registered by the Company’s transfer agent). The Company may require the Recipient to furnish or execute such other documents as the Company shall reasonably deem necessary (i) to evidence such exercise or (ii) to comply with or satisfy the requirements of the Securities Act of 1933, as amended, applicable state or non-U.S. securities laws or any other law.
+
+(b) Notwithstanding any other provision of this Agreement, the Options may not be exercised in whole or in part, (i) (A) unless all requisite approvals and consents of any governmental authority of any kind shall have been secured, (B) unless the purchase of the Exercise Shares shall be exempt from registration under applicable U.S. federal and state securities laws, and applicable non-U.S. securities laws, or the Exercise Shares shall have been registered under such laws, and (C) unless all applicable U.S. federal, state and local and non-U.S. tax withholding requirements shall have been satisfied or (ii) if such exercise would result in a violation of the terms or provisions of or a default or an event of default under, any of the financing or credit agreements of the Company or any Subsidiary. The Company shall use its commercially reasonable efforts to obtain any consents or approvals referred to in clause (i) (A) of the preceding sentence, but shall otherwise have no obligations to take any steps to prevent or remove any impediment to exercise described in such sentence.
+
+(c) The shares of Common Stock issued upon exercise of the Options shall be registered in the Recipient’s name, or, if applicable, in the names of the Recipient’s heirs or estate. In the Company’s discretion, such shares may be issued either in certificated form or in uncertificated, book entry form. The certificate or book entry account shall bear such restrictive legends or restrictions as the Company, in its sole discretion, shall require. If delivered in certificate form, the Company may deliver a share certificate to the Recipient, or deliver shares electronically or in certificate form to the Recipient’s designated broker on the Recipient’s behalf. If the Recipient is deceased (or subject to Disability and if necessary) at the time that a delivery of share certificates is to be made, the certificates will be delivered to the Recipient’s estate, executor, administrator, legally authorized guardian or personal representative (as applicable).
+
+6
+
+* * *
+
+  
+
+
+(d) The Company may postpone the issuance and delivery of any shares of Common Stock provided for under this Agreement for so long as the Company determines to be necessary or advisable to satisfy the following: (1) the completion or amendment of any registration of such shares or satisfaction of any exemption from registration under any securities law, rule, or regulation; (2) compliance with any requests for representations; and (3) receipt of proof satisfactory to the Company that a person seeking such shares on the behalf of the Recipient upon the Recipient’s Disability (if necessary), or upon the Recipient’s estate’s behalf after the death of the Recipient, is appropriately authorized.
+
+(e) Except as otherwise provided, the unvested Options will expire and be forfeited upon the Recipient’s termination of Service.
+
+10. Adjustment in Capitalization. In the event of any change in the Common Stock of the Company through stock dividends or stock splits, a corporate spin-off, reverse spin-off, split-off or split-up, or recapitalization, merger, consolidation, exchange of shares, or a similar event, the number of Options subject to this Agreement shall be equitably adjusted by the Committee to preserve the intrinsic value of any Awards granted under the Plan. Such mandatory adjustment may include a change in any or all of the number and kind of shares of Common Stock or other equity interests underlying the Options, and/or if reasonably determined in good faith by the Committee prior to such adjustment event, that the Options (in whole or in part) shall be replaced by Alternative Awards meeting the requirements set forth in Section 14.5 of the Plan. In addition, the Committee may make provisions for a cash payment to a Recipient in such event. The number of shares of Common Stock or other equity interests underlying the Options shall be rounded to the nearest whole number. Any such adjustment shall be consistent with Code
+
+7
+
+* * *
+
+  
+
+
+Section 162(m) to the extent the Award is subject to such section of the Code and shall not result in adverse tax consequences to the Recipient under Code Section 409A.
+
+11. Tax Withholding. Regardless of any action the Company, any Subsidiary of the Company, or the Recipient’s employer takes with respect to any or all income tax, social insurance, payroll tax, payment on account or other tax-related withholding (“Tax”) that the Recipient is required to bear pursuant to all applicable laws upon the vesting or exercise of the Options, the Recipient hereby acknowledges and agrees that the ultimate liability for all Tax is and remains the responsibility of the Recipient.
+
+Prior to receipt of any shares of Common Stock that correspond to exercised Options, the Recipient shall pay or make adequate arrangements satisfactory to the Company and/or any Subsidiary of the Company to satisfy all withholding and payment obligations of the Company and/or any Subsidiary of the Company. In this regard, the Recipient authorizes the Company and/or any Subsidiary of the Company to withhold all applicable Tax legally payable by the Recipient from the Recipient’s wages or other cash compensation paid to the Recipient by the Company and/or any Subsidiary of the Company or from the proceeds of the sale of shares of Common Stock. Alternatively, or in addition, the Company may sell or arrange for the sale of Common Stock that the Recipient is due to acquire to satisfy the minimum withholding obligation for Tax and/or withhold any Common Stock necessary to satisfy the withholding amount. Finally, the Recipient agrees to pay the Company or any Subsidiary of the Company any amount of any Tax that the Company or any Subsidiary of the Company may be required to withhold as a result of the Recipient’s participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to deliver Common Stock if the Recipient fails to comply with its obligations in connection with the tax as described in this section.
+
+The Company advises the Recipient to consult a lawyer or accountant with respect to the tax consequences for the Recipient under the Plan.
+
+The Company and/or any Subsidiary of the Company: (a) make no representations or undertakings regarding the tax treatment in connection with the Plan; and (b) do not commit to structure the Plan to reduce or eliminate the Recipient’s liability for Tax.
+
+12. Securities Laws. This Award is a private offer that may be accepted only by a Recipient who is an employee of the Company or a Subsidiary of the Company and who satisfies the eligibility requirements outlined in the Plan and the Committee’s administrative procedures. This Award may not be registered with the body responsible for regulating offers of securities in the Recipient’s country. The future value of Common Stock acquired under the Plan is unknown and could increase or decrease.
+
+Neither the Plan nor any offering materials related to the Plan may be distributed to the public. The Common Stock should be resold only on the New York Stock Exchange and should not be resold to the public except in full compliance with all applicable securities laws.
+
+13. No Employment or Compensation Rights. This Section applies whether or not the Company has full discretion in the operation of the Plan, and whether or not the Company
+
+8
+
+* * *
+
+  
+
+
+could be regarded as being subject to any legal obligations in the operation of the Plan. It also applies both during and after the period that the Recipient is providing Services, whether the termination of a Recipient’s Service is lawful or unlawful.
+
+Nothing in the rules, the operation of the Plan or this Agreement forms part of the contract of employment or employment relationship between a Recipient and the Company or any Subsidiary of the Company. The rights and obligations arising from the employment relationship between the Recipient and the Company or one of its Subsidiaries are separate from, and are not affected by, the Plan. This Agreement shall not confer upon the Recipient any right to continue to provide Services, nor shall this Agreement interfere in any way with the Company’s or its Subsidiaries’ right to terminate Recipient’s Service at any time.
+
+The grant of rights on a particular basis in any year does not create any right to or expectation of the grant of rights on the same basis, or at all, in any future year.
+
+No employee is entitled to participate in the Plan, or to be considered for participation in the Plan, at a particular level or at all. Participation in any operation of the Plan does not imply any right to participate, or to be considered for participation, in any later operation of the Plan.
+
+Without prejudice to a Recipient’s rights under the Plan, subject to and in accordance with the express terms of the applicable rules, no Recipient has any rights in respect of the Company’s exercise or omission to exercise any discretion, or making or omission to make any decision, relating to the right. Any and all discretion, decisions or omissions relating to the right may operate to the disadvantage of the Recipient, even if this could be regarded as capricious or unreasonable or could be regarded as a breach of any implied term between the Recipient and the Recipient’s employer, including any implied duty of trust and confidence. Any such implied term is hereby excluded and overridden.
+
+No employee has any right to compensation for any loss in relation to the Plan, including:
+
+· any loss or reduction of any rights or expectations under the Plan in any circumstances or for any reason (including lawful or unlawful termination of Service);
+
+· any exercise of discretion or a decision taken in relation to the Plan, or any failure to exercise discretion or make a decision; or
+
+· the operation, suspension, termination or amendment of the Plan.
+
+The Options granted pursuant to this Agreement do not constitute part of the Recipient’s wages or remuneration or count as pay or remuneration for pension or other purposes. If the Recipient experiences a termination of Service, in no circumstances will the Recipient be entitled to any compensation for any loss of any right or benefit or any prospective right or benefit under the Plan or this Agreement that the Recipient might otherwise have enjoyed had such Service continued, whether such compensation is claimed by way of damages for wrongful dismissal, breach of contract or otherwise.
+
+9
+
+* * *
+
+  
+
+
+Participation in the Plan is permitted only on the basis that the Recipient accepts all of the terms and conditions of the Plan and this Agreement, as well as the administrative rules established by the Committee. By participating in the Plan, a Recipient waives all rights under the Plan to the fullest extent permitted by applicable laws, other than the rights subject to and in accordance with the express terms of the applicable rules, in consideration for, and as a condition of, the grant of rights under the Plan. Neither this Agreement nor the Plan confers on the Recipient any legal or equitable rights (other than those related to the Award) against the Company or any Subsidiary or directly or indirectly gives rise to any cause of action in law or in equity against the Company or any Subsidiary.
+
+Nothing in this Plan confers any benefit, right or expectation on a person who is not a Recipient.
+
+14. Data Privacy. The Recipient agrees that the Company, with its headquarters located at 13320 Ballantyne Corporate Place, Charlotte, North Carolina, USA 28277, is the data controller in the context of the Plan.
+
+The Recipient hereby explicitly and unambiguously consents to the collection, storage, use, processing and transfer, in electronic or other form, of the Recipient’s personal data as described below by and among, as applicable, the Recipient’s employer and any of its affiliates for the exclusive purpose of implementing, administering and managing the Recipient’s participation in the Plan, and the transfer of such data by them to government and other regulatory authorities for the purpose of complying with their legal obligations in connection with the Plan.
+
+The Recipient understands that the Recipient’s employer and any of its affiliates may hold certain personal information about the Recipient, including the Recipient’s name, date of birth, date of hire, home and business addresses and telephone numbers, e-mail address, business group/segment, employment status, account identification, and details of all rights and other entitlement to shares or options awarded, cancelled, purchased, vested, unvested or outstanding in the Recipient’s favor pursuant to this Agreement, for the purpose of managing and administering the Plan (“Data”).
+
+The Recipient further agrees that Data may be transferred to any third parties assisting in the implementation, administration and management of the Plan, that these recipients may be located in the Recipient’s country or elsewhere, including outside the European Economic Area, and that the Recipient’s country may have less adequate data privacy laws and protections than the Recipient’s country. The Company has entered into contractual arrangements to ensure the same safeguards for data as required under European Union Law. A third party to whom the information may be passed is Fidelity Investments and its affiliates. The Recipient understands that the Recipient may request a list with the names and addresses of any potential recipients of the Data by contacting the Recipient’s local human resources representative. The Recipient authorizes recipients of the Data to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Recipient’s participation in the Plan, including any requisite transfer of such Data as may be required to a broker or other third party with whom shares acquired pursuant to the Plan may be deposited.
+
+10
+
+* * *
+
+  
+
+
+The Recipient understands that Data will be held only as long as necessary to implement, administer and manage the Recipient’s participation in the Plan. The Recipient understands that the Recipient may, at any time, view the Recipient’s Data, request additional information about the storage and processing of Data, require any necessary amendments to the Recipient’s Data or refuse or withdraw the consents herein, in any case without cost, by contacting the Company’s local data privacy administrator.
+
+The Recipient understands, however, that refusing or withdrawing the Recipient’s consent, or that refusing to disclose the Data, although it will not have any negative effect on the Recipient’s employment, may affect the Recipient’s ability to participate in the Plan. For more information on the consequences of the Recipient’s refusal to consent or withdrawal of consent, or refusal to disclose the Data, the Recipient understands that the Recipient may contact the Company’s local data privacy administrator.
+
+15. Exemption from Code Section 409A. Notwithstanding any provision of the Plan or this Agreement to the contrary, the Award is intended to be exempt from Code Section 409A. The Plan and the Agreement will be construed and interpreted in accordance with such intent. References in the Plan and this Agreement to “termination of Service” and similar terms shall mean a “separation from service” within the meaning of that term under Code Section 409A.
+
+16. No Fractional Shares. No fractional shares of Common Stock shall be issued or delivered under this Agreement. The Committee shall determine whether cash or other property shall be issued or paid in lieu of such fractional shares of Common Stock or whether such fractional shares of Common Stock or any rights thereto shall be forfeited or otherwise eliminated.
+
+17. Amendment. The Board may at any time amend, modify or terminate the Plan and this Agreement; provided, however, that no such action of the Board shall adversely affect the Recipient’s rights under this Agreement without the consent of the Recipient. The Board or the Committee, to the extent it deems necessary or advisable in its sole discretion, reserves the right, but shall not be required, to unilaterally amend or modify this Agreement so that the Award qualifies for exemption from or complies with Code Section 409A; provided, however, that the Board, the Committee and the Company make no representations that the Award shall be exempt from or comply with Code Section 409A and make no undertaking to preclude Code Section 409A from applying to the Award.
+
+18. Plan Terms and Committee Authority. This Agreement and the rights of the Recipient hereunder are subject to all of the terms and conditions of the Plan, as it may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe and make all determinations necessary or appropriate for the administration of the Plan and this Agreement, all of which shall be binding upon the Recipient. Any inconsistency between this Agreement and the Plan shall be resolved in favor of the Plan. The Recipient hereby acknowledges receipt of a copy of the Plan and this Agreement.
+
+19. Severability. If any provision of this Agreement is determined to be invalid, illegal or unenforceable in any jurisdiction, or as to any person, or would disqualify the Plan or
+
+11
+
+* * *
+
+  
+
+
+the Agreement under any law deemed applicable by the Board, such provision shall be construed or deemed amended to conform to applicable laws, or, if it cannot be so construed or deemed amended without, in the Board’s determination, materially altering the intent of the Plan or the Agreement, such provision shall be stricken as to such jurisdiction or person, and the remainder of the Agreement shall remain in full force and effect.
+
+20. Governing Law and Jurisdiction. The Plan and this Agreement shall be construed in accordance with and governed by the laws of the State of Delaware, United States of America. The jurisdiction and venue for any disputes arising under, or any action brought to enforce (or otherwise relating to), the Plan will be exclusively in the courts in the State of North Carolina, County of Mecklenburg, United States of America, including the Federal Courts located therein (should Federal jurisdiction exist). As consideration for and by accepting the Award, the Recipient agrees that the Governing Law and Jurisdiction provisions of this Section 20 shall supersede any Governing Law or similar provisions contained or referenced in any prior equity awards made by the Company to the Recipient, and, accordingly, such prior equity awards shall become subject to the terms and conditions of the Governing Law and Jurisdiction provisions of this Section 20.
+
+21. Successors. All obligations of the Company under this Agreement will be binding on any successor to the Company, whether the existence of the successor results from a direct or indirect purchase of all or substantially all of the business or assets of the Company or both, or a merger, spin-off, consolidation or otherwise.
+
+22. Compensation Recovery. This Award shall be subject to any compensation recovery policy adopted by the Company, including any policy required to comply with applicable law or listing standards, as such policy may be amended from time to time in the sole discretion of the Company. As consideration for and by accepting the Award, the Recipient agrees that all prior equity awards made by the Company to the Recipient shall become subject to the terms and conditions of the provisions of this Section 22.
+
+23. Language. If the Recipient has received this Agreement or any other document related to the Plan translated into a language other than English and the translated version is different than the English version, the English version will control.
+
+24. Further Assurances. The Recipient agrees to use his or her reasonable efforts to proceed promptly with the transactions contemplated herein, to fulfill the conditions precedent for the Recipient’s benefit or to cause the same to be fulfilled and to execute such further documents and other papers and perform such further acts as may be reasonably required or desirable to carry out the provisions hereof and the transactions contemplated herein.
+
+25. Addendums. The Company may adopt addendums to this Agreement, which shall constitute part of this Agreement.
+
+12
+
+* * *

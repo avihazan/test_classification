@@ -1,0 +1,292 @@
+Exhibit 10g
+
+  
+
+
+2005 ROWAN COMPANIES, INC. LONG-TERM INCENTIVE PLAN
+
+
+
+  
+
+
+THIS PERFORMANCE SHARE AWARD AGREEMENT (this “Agreement”) is made as of the ____day of ______(“Award Date”) between Rowan Companies, Inc., a Delaware corporation (the “Company”) and [name] (“Participant”).
+
+1. Agreement to Grant Performance Shares. Subject to the conditions described in this Agreement and the 2005 Rowan Companies, Inc. Long-Term Incentive Plan (the “Plan”), the Company hereby agrees to grant shares of common stock, $0.125 par value per share, of the Company (“Stock”) to Participant in consideration for services to be performed and contingent upon the occurrence of certain events as set forth herein. Prior to the actual issuance of such shares, Participant shall have no rights as a shareholder pursuant to this Agreement including but not limited to any rights to receive or accrue dividends with respect to such shares or the right to vote such shares.
+
+  
+
+
+2. Definitions. For purposes of this Agreement, the following terms shall have the following meaning:
+
+  
+
+
+“Average Stock Price”means the average of the closing prices for the Stock or the common stock of each of the Peer Group Companies on each of the twenty-five (25) trading days immediately preceding the date of the determination.
+
+“Committee” means the Compensation Committee of the Board of Directors of the Company.
+
+“Peer Group Companies” means the companies listed on Appendix A attached hereto.
+
+“Performance Period” means a period of three years beginning on the Award Date and ending on the third anniversary thereof.
+
+“Relative TSR Rank” means the Total Shareholder Return of the Stock and the Total Shareholder Return of the common stock of each of the Peer Group Companies ranked in descending order. Relative TSR Rank shall be expressed as a number from one to seven with the number one (1) representing the highest Relative TSR Rank and seven (7) the lowest.
+
+“Retirement” by an Employee shall have occurred if:
+
+(a) in the case of an Employee who is an employee of Rowan Companies, Inc. or an employee of an Employing Company, as defined in the Rowan Pension Plan (the “Rowan Plan”), the Employee: (1) has satisfied the requirements for normal retirement pursuant to the rules of the Rowan Plan which, in terms of age, is a minimum of 60 and (2) has requested and received authorization from the administrative committee appointed by the Company’s Board of Directors to administer the Rowan Plan to commence receiving pension benefits; or
+
+* * *
+
+(b) in the case of an Employee who is an employee of LeTourneau, Inc. or an employee of an Employing Company, as defined in the LeTourneau Pension Plan (the “LeTourneau Plan”), the Employee: (1) has satisfied the requirements for either normal or late retirement pursuant to the rules of the LeTourneau Plan, (2) has requested and received authorization from the administrative committee appointed by the Board of Directors of LeTourneau, Inc. to administer the LeTourneau Plan to commence receiving pension benefits, and (3) would have satisfied the requirements for normal retirement pursuant to the rules of the Rowan Plan if he or she was an employee of Rowan Companies, Inc. or an employee of an Employing Company under the Rowan Plan.
+
+Determination of the date of termination of employment by reason of Retirement shall be based on such evidence as the Committee may require and a determination by the Committee of such date of termination shall be final and controlling on all interested parties.
+
+“Target Shares” means the number of shares of Stock that will be transferred to Participant if the Relative TSR Rank of the Stock is four (4) and Total Shareholder Return is equal to one (1) or greater. Participant’s Target Shares shall be set forth in paragraph 3 below.
+
+“Total Shareholder Return” or “TSR” means x∕y where:
+
+x = the sum of (i) the difference between the Average Stock Price as of the last trading day of the Performance Period and the Average Stock Price as of the first day of the Performance Period; and (ii) all dividends paid on the Stock during the Performance Period; and
+
+y = the Average Stock Price as of the first day of the Performance Period.
+
+All capitalized terms not otherwise defined herein shall have the meanings set forth in the Plan, the terms of which are incorporated herein by reference.
+
+3. Determination of Performance Shares. Provided that Participant is continuously employed by the Company throughout the Performance Period as soon as administratively feasible, but not later than seventy-five (75) days after the last day of the Performance Period, the Company shall transfer to Participant a number of shares of Stock to be determined as a percentage of the Target Shares based on the Relative TSR Rank according to the following chart.
+
+  
+
+
+Rowan Relative TSR Rank
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7  
+  
+Target Share Payout
+
+if TSR ³ 1
+
+200%
+
+167%
+
+133%
+
+100%
+
+25%
+
+0%
+
+0%  
+  
+Target Share Payout - Negative
+
+If TSR < 1
+
+150%
+
+125%
+
+100%
+
+75%
+
+20%
+
+0%
+
+0%  
+  
+  
+
+
+Participant’s Target Shares = [number].
+
+  
+
+
+-2-
+
+* * *
+
+4. Retirement, Disability, Death, or Change of Control. Except as otherwise provided below, in the event that Participant’s employment with the Company terminates prior to the last day of the Performance Period for any reason other than Retirement, Disability or death, this Agreement shall terminate and all rights of Participant to receive Stock under this Agreement shall be forfeited. In the event of Participant’s termination of employment by reason of Retirement, Disability or death, Participant shall receive at the conclusion of the Performance Period a prorated portion of the Target Shares based on the period of employment during the Performance Period prior to such termination. In the event of Participant’s termination of employment following a Change of Control or Retirement, the Committee, in its sole discretion, may grant Stock to Participant in an amount in excess of the amount that would be otherwise granted to Participant; provided, however, that the maximum number of shares of Stock awarded Participant pursuant to this Agreement shall not exceed 200% of the Target Shares.
+
+  
+
+
+5. Status of Stock. The Company intends to register for issuance under the Securities Act of 1933, as amended (the “Act”), the shares of Stock acquired pursuant to this Agreement. In the absence of such effective registration or an available exemption from registration under the Act, issuance of shares of Stock pursuant to this Agreement will be delayed until registration of such shares is effective or an exemption from registration under the Act is available. The Company intends to use its reasonable efforts to ensure that no such delay will occur. In the event exemption from registration under the Act is available, Participant (or the person entitled to receive Participant’s shares in the event of Participant’s incapacity or death), if requested by the Company to do so, will execute and deliver to the Company in writing an agreement containing such provisions as the Company may require assuring compliance with applicable securities laws. The Company shall incur no liability to Participant for failure to register the Stock or maintain the registration.
+
+  
+
+
+Participant agrees that the shares of Stock, which Participant may acquire pursuant to this Agreement, will not be sold or otherwise disposed of in any manner that would constitute a violation of any applicable securities laws, whether federal or state. Participant also agrees (i) that the certificates representing such shares of Stock may bear such legend or legends as the Committee deems appropriate in order to assure compliance with applicable securities laws, (ii) that the Company may refuse to register the transfer of the shares of Stock acquired pursuant to this Agreement on the stock transfer records of the Company if such proposed transfer would in the opinion of counsel satisfactory to the Company constitute a violation of any applicable securities law and (iii) that the Company may give related instructions to its transfer agent, if any, to stop registration of the transfer of such shares.
+
+  
+
+
+6. Employment Relationship. For purposes of this Agreement, Participant shall be considered to be in the employment of the Company as long as Participant remains an Employee of either the Company, a parent or subsidiary corporation (as defined in section 424 of the Code) of the Company, or a corporation or a parent or subsidiary of such corporation assuming this Agreement. Any question as to whether and when there has been a termination of such employment, and the cause of such termination, shall be determined by the Committee in its sole discretion, and its determination shall be final.
+
+  
+
+
+7. Withholding of Taxes.  The Company shall have the right to take any action as may be necessary or appropriate to satisfy any federal, state or local tax withholding obligations, including, but not limited to, the right to withhold shares of Stock sufficient to pay the amount required to be withheld and to cause such Stock to be sold and the proceeds remitted to the Company. In the event that the proceeds of such sale shall exceed the legally required withholding amount, the Company shall remit the difference in cash to Participant. In the event that the proceeds of such sale are less than the legally required withholding amount, the Company may withhold the difference from any cash or Stock then or thereafter payable to Participant.
+
+  
+
+
+-3-
+
+* * *
+
+8. Reorganization of the Company. The existence of this Agreement shall not affect in any way the right or power of the Company or its stockholders to make or authorize any or all adjustments, recapitalizations, reorganizations or other changes in the Company’s capital structure or its business; any merger or consolidation of the Company; any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Stock or the rights thereof; the dissolution or liquidation of the Company; any sale or transfer of all or any part of its assets or business; or any other corporate act or proceeding, whether of a similar character or otherwise.
+
+  
+
+
+9. Recapitalization Events. In the event of stock dividends, spin-offs of assets or other extraordinary dividends, stock splits, combinations of shares, recapitalizations, mergers, consolidations, reorganizations, liquidations, issuances of rights or warrants and similar transactions or events involving the Company (“Recapitalization Events”), for all purposes references herein to Stock shall mean and include all securities or other property (other than cash) that holders of Stock of the Company are entitled to receive in respect of Stock by reason of each successive Recapitalization Event and the number of Target Shares and the Average Stock Price may be adjusted as deemed necessary or appropriate in the sole discretion of the Committee to prevent enlargement or diminution in Participant’s rights under this Agreement.
+
+  
+
+
+10. Severability. In the event that any provision of this Agreement shall be held illegal, invalid, or unenforceable for any reason, such provision shall be fully severable and shall not affect the remaining provisions of this Agreement, and the Agreement shall be construed and enforced as if the illegal, invalid or unenforceable provision had never been included herein.
+
+  
+
+
+11. Certain Restrictions. By executing this Agreement, Participant acknowledges that he will enter into such written representations, warranties and agreements and execute such documents as the Company may reasonably request in order to comply the terms of the Plan or this Agreement, or the securities law or any other applicable laws, rules or regulations.
+
+  
+
+
+12. Amendment and Termination. In the event that the common stock of any Peer Group Company ceases to be publicly traded during the Performance Period, the Committee shall have the authority to substitute the common stock of any successor in interest to the stock or assets of such Peer Group Company, provided that the common stock of such successor is publicly traded and provided further that such successor is determined by the Committee to be an appropriate Peer Group Company. If the Committee substitutes the common stock of a successor, the Total Shareholder Return of such successor common stock shall determine its Relative TSR Rank. If the Committee determines that the common stock of a successor cannot or should not be substituted for the common stock of a Peer Group Company that has ceased to be publicly traded, then Relative TSR Rank of such Peer Group Company shall be based on Total Sharehold Return of such common stock as of the date that such common stock ceases to be publicly traded. Except as otherwise provided in the Plan or this Agreement, no amendment or termination of this Agreement shall be made by the Company without the written consent of Participant. 
+
+  
+
+
+-4-
+
+* * *
+
+13. Binding Effect. This Agreement shall be binding upon and inure to the benefit of any successors to the Company and all persons lawfully claiming under Participant.
+
+  
+
+
+14. Governing Law and Venue. This Agreement shall be governed by, and construed in accordance with, the laws of the State of Texas. The courts in Harris County, Texas shall be the exclusive venue for any dispute regarding the Plan or this Agreement.
+
+  
+
+
+IN WITNESS WHEREOF, the Company has caused this Agreement to be duly executed by its officer thereunto duly authorized, and Participant has executed this Agreement, all as of the day and year first above written.
+
+  
+
+
+  
+
+
+ROWAN COMPANIES INC.
+
+  
+
+
+  
+
+
+  
+
+
+By:_________________________________________ Date:_____________________________________
+
+Robert G. Croyle, 
+
+Vice Chairman and Chief Administrative Officer
+
+  
+
+
+  
+
+
+  
+
+
+PARTICIPANT:
+
+  
+
+
+______________________________________ Date:_____________________________________
+
+  
+
+
+  
+
+
+Address:
+
+____________________________________________
+
+____________________________________________
+
+  
+
+
+-5-
+
+* * *
+
+  
+
+
+Appendix A
+
+  
+
+
+  
+
+
+Diamond Offshore Drilling, Inc.
+
+  
+
+
+ENSCO International Incorporated
+
+  
+
+
+GlobalSantaFe Corporation
+
+  
+
+
+Noble Corporation
+
+  
+
+
+TODCO
+
+  
+
+
+Transocean Inc.
+
+-6-
+
+* * *

@@ -1,0 +1,389 @@
+* * *
+
+* * *
+
+EXHIBIT 4.1
+
+
+
+V2K INTERNATIONAL, INC. AND AMERIVON HOLDINGS LLC
+
+DATED JUNE 6, 2008
+
+  
+
+
+* * *
+
+  
+
+
+STOCK OPTION AGREEMENT
+
+  
+
+
+  
+
+
+THIS AGREEMENT is made by and between Amerivon Holdings LLC, a Nevada limited liability company (the "Optionee") and V2K International, Inc., a Colorado corporation (the "Company"), as of June 6, 2008.
+
+  
+
+
+In consideration of the mutual covenants contained herein and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto agree as follows:
+
+  
+
+
+1. Grant of Option. The Company hereby grants to the Optionee, in the manner and subject to the conditions hereinafter provided, the right, privilege and option to purchase (the "Option") an aggregate of 3,256,810 shares (the "Stock") of the common stock (the “Common Stock”) of the Company, no par value. This Option is specifically conditioned on compliance with the terms and conditions set forth herein.
+
+  
+
+
+2. Term of Option. Subject to the terms, conditions, and restrictions set forth herein, the term of this Option shall be five (5) years from the date of grant (the "Expiration Date"). Any portion of this Option not exercised prior to the Expiration Date shall thereupon become null and void.
+
+  
+
+
+3\. Exercise of Option.
+
+  
+
+
+3.1. Vesting of Option. Only the “vested” portion of the Stock underlying this Option may be purchased during the term of this Option. Vesting shall occur as set forth in Schedule 1 attached hereto.
+
+  
+
+
+3.2. Manner of Exercise. Any vested portion of this Option may be exercised from time to time, in whole or in part, by presentation of a Request to Exercise Form, substantially in the form attached hereto, to the Company, which Form must be duly executed by the Optionee and accompanied by the form of payment indicated on the Form, subject to any legal restrictions, in the aggregate amount of the Exercise Price (as defined below), multiplied by the number of shares of Stock the Optionee is purchasing at such time. The form of payment may include cash or check payable to the Company or in the form of a Cashless Exercise (as set forth in Section 3.4 hereof).
+
+Upon receipt and acceptance by the Company of such Form accompanied by the payment specified, the Optionee shall be deemed to be the record owner of the Stock purchased. Upon such receipt and acceptance, the Company shall immediately issue a stock certificate for the number of shares of Stock exercised.
+
+3.3. Exercise Price. The exercise price (the "Exercise Price") payable upon exercise of this Option shall be $0.30 per share of Stock.
+
+3.4 Cashless Exercise. The Optionee may elect to exercise any portion of this Option by the cancellation of a portion of the remaining shares of this Option and the Company shall cause the issuance to the Optionee the net number of shares of Stock determined by application of the following formula:
+
+  
+
+
+1
+
+* * *
+
+X=Y(A-B)
+
+A
+
+Where: X= the number of shares of Stock to be issued;
+
+Y= the total number of shares covered by the Option to be surrendered, including both the number of shares being exercised and the number of shares being cancelled to pay for the shares being exercised.;
+
+A = the Fair Market Value (as defined below) of one (1) share of the Stock; and
+
+B = the Exercise Price
+
+  
+
+
+For purposes of this Section 3.4, the Fair Market Value of a share of Stock shall mean the average closing price of the Common Stock quoted on any exchange on which the Stock is listed, for the thirty (30) trading days prior to the date of determination of the Fair Market Value. If the Stock is not publicly traded, the Fair Market Value shall be determined by the Company’s Board of Directors.
+
+  
+
+
+4. Compliance with Securities Laws. Upon exercising all or any portion of this Option, the Optionee may be required to furnish representations or undertakings deemed appropriate by the Company to enable the offer and sale of the shares of Stock or subsequent transfers of any interest in such shares to comply with applicable securities laws. Evidence of ownership of shares of Stock acquired upon exercise of Options shall bear any legend required by, or useful for purposes of compliance with, applicable securities laws, and this Option.
+
+  
+
+
+6. No Rights as Shareholder. The Optionee shall have no rights as a shareholder with respect to any shares of Stock covered by this Option. The Optionee shall have no right to vote any shares of Stock, or to receive distributions of dividends or any assets or proceeds from the sale of the Company’s assets upon liquidation until such Optionee has effectively exercised this Option and fully paid for such shares of Stock.
+
+  
+
+
+7. Arbitration. Any controversy, dispute, or claim arising out of or relating to this Option which cannot be amicably settled shall be settled by arbitration. Said arbitration shall be conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association at a location selected by the arbitrator(s).
+
+7.1 Initiation of Arbitration. After seven (7) days prior written notice to the other, either party hereto may formally initiate arbitration under this Agreement by filing a written request therefor, and paying the appropriate filing fees, if any.
+
+7.2 Hearing and Determination Dates. The hearing before the arbitrator shall occur within thirty (30) days from the date the matter is submitted to arbitration. Further, a determination by the arbitrator shall be made within forty-five (45) days from the date the matter is submitted to arbitration. Thereafter, the arbitrator shall have fifteen (15) days to provide the parties with his or her decision in writing. However, any failure to meet the deadlines in this section will not affect the validity of any decision or award.
+
+2
+
+* * *
+
+7.3 Binding Nature of Decision. The decision of the arbitrator shall be binding on the parties. Judgment thereon shall be entered in a court of competent jurisdiction.
+
+7.4 Injunctive Actions. Nothing herein contained shall bar the right of either party to seek to obtain injunctive relief or other provisional remedies against threatened or actual conduct that will cause loss or damages under the usual equity rules including the applicable rules for obtaining preliminary injunctions and other provisional remedies.
+
+7.5 Costs. The cost of arbitration, including the fees of the arbitrator, shall initially be borne equally by the parties; provided, the prevailing party shall be entitled to recover such costs, in addition to attorneys' fees and other costs, in accordance with Section 10 of this Agreement.
+
+8. Notices. All notices to be given by either party to the other shall be in writing and may be transmitted by personal delivery, facsimile transmission, overnight courier or mail, registered or certified, postage prepaid with return receipt requested; provided, however, that notices of change of address or facsimile number shall be effective only upon actual receipt by the other party. Notices shall be delivered at the following addresses, unless changed as provided for herein.
+
+  
+
+
+To the Optionee: Amerivon Holdings LLC
+
+4520 E. Thousand Oaks Blvd, Suite 100
+
+Westlake Village, California 91362
+
+e-mail: info@amerivon.com
+
+fax: 805-435-1703
+
+  
+
+
+To the Company: V2K International, Inc.
+
+13949 W. Colfax Ave Su 250
+
+Lakewood, CO 80401
+
+e-mail: vyosha@v2k.com
+
+fax: 303-202-5201
+
+  
+
+
+9. Applicable Law. This Option and the relationship of the parties in connection with its subject matter shall be governed by, and construed under, the laws of the State of Colorado.
+
+  
+
+
+10. Attorneys Fees. In the event of any litigation, arbitration, or other proceeding arising out of this Option, the prevailing party shall be entitled to an award of costs, including an award of reasonable attorneys' fees. Any judgment, order, or award entered in any such proceeding shall designate a specific sum as such an award of attorney's fees and costs incurred. This attorneys' fee provision is intended to be severable from the other provisions of this Agreement, shall survive any judgment or order entered in any proceeding and shall not be deemed merged into any such judgment or order, so that such further fees and costs as may be incurred in the enforcement of an award or judgment or in defending it on appeal shall likewise be recoverable by further order of a court or panel or in a separate action as may be appropriate.
+
+  
+
+
+11. Binding Effect. This Agreement shall inure to the benefit of, and be binding upon, the parties hereto and their respective heirs, executors, and successors.
+
+  
+
+
+3
+
+* * *
+
+12. Counterparts. This Option Agreement may be executed in one or more counterparts, each of which when taken together shall constitute one and the same instrument.
+
+  
+
+
+13. Tax Effect. The federal tax consequences of stock options are complex and subject to change. Each person should consult with his or her tax advisor before exercising any Option or disposing of any Shares acquired upon the exercise of an Option.
+
+  
+
+
+IN WITNESS WHEREOF, this Option Agreement has been executed as of the dated first written above.
+
+  
+
+
+  
+
+
+V2K International, Inc.
+
+  
+
+
+  
+
+
+/s/ Victor J. Yosha 
+
+By: Victor J. Yosha
+
+Title: Chief Executive Officer
+
+  
+
+
+  
+
+
+  
+
+
+THE OPTIONEE: Amerivon Holdings LLC
+
+/s/ Tod M. Turley 
+
+By Tod M. Turley
+
+Title: Chief Executive Officer
+
+  
+
+
+  
+
+
+4
+
+* * *
+
+REQUEST TO EXERCISE FORM
+
+  
+
+
+  
+
+
+  
+
+
+Dated:______________
+
+  
+
+
+  
+
+
+  
+
+
+The undersigned hereby irrevocably elects to exercise all or part, as specified below, of the option ("Option") granted to him or her pursuant to a certain stock option agreement ("Agreement") effective June __, 2008 between the undersigned and _______________ (the "Company") to purchase an aggregate of _______ shares of the Company’s common stock, no par value (the "Stock").
+
+  
+
+
+The undersigned hereby (check the box):
+
+  
+
+
+____
+
+Tenders cash in the amount of $0.30 per share multiplied by ____________, the number of shares of Stock he is purchasing at this time, for a total of $_____________.  
+  
+  
+
+
+____
+
+Cancels __________ shares of Stock for the purchase of __________ shares of Stock.  
+  
+  
+
+
+INSTRUCTIONS FOR REGISTRATION OF SHARES
+
+IN COMPANY'S TRANSFER BOOKS
+
+  
+
+
+  
+
+
+Name: __________________________________________
+
+(Please type or print in block letters)
+
+  
+
+
+Address: __________________________________________
+
+  
+
+
+__________________________________________
+
+  
+
+
+Signature: __________________________________________
+
+  
+
+
+  
+
+
+Accepted by ______________________________
+
+  
+
+
+By: ____________________________
+
+  
+
+
+____________________________
+
+Name
+
+  
+
+
+____________________________
+
+Title
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+Schedule 1
+
+  
+
+
+Vesting
+
+  
+
+
+The Option shall vest in the amount and based on achievement of the following events:
+
+  
+
+
+Benchmark #1 – 33.3% vested
+
+YE annual sales > $20.0 million  
+  
+Benchmark #2 – 66.6% vested
+
+YE annual sales > $30.0 million  
+  
+Benchmark #3 – 100.0% vested
+
+YE annual sales > $40.0 million  
+  
+  
+
+
+“Annual sales” means the Total Revenues shown on the audited Consolidated Statements of Operations of V2K International, Inc. for a fiscal year completed during the term of the Services Agreement between Amerivon Holdings LLC and V2K International, Inc. dated June 6, 2008.
+
+  
+
+
+  
+
+
+  
+
+
+6
+
+  
+
+
+* * *
+
+* * *

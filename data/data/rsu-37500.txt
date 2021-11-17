@@ -1,0 +1,149 @@
+Exhibit 10.6 
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”) dated as of October 5, 2004, is entered into by and among enherent Corp., a Delaware corporation (the “Company”), and Douglas A. Catalano (“Holder”). 
+
+WITNESSETH 
+
+WHEREAS, the Compensation Committee of the Board of Directors of the Company (the “Committee”) has authorized the grant of restricted shares to Holder; 
+
+WHEREAS, such authorization of the grant provides that the terms of such grant shall be set forth in a restricted stock agreement by and among the Company and Holder; and 
+
+WHEREAS, the parties hereto now desire to enter into this Agreement. 
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, and for other valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto agree as follows: 
+
+1\. Grant of Restricted Stock. Concurrently with the execution and delivery hereof, the Company has issued to Holder 700,000 shares of the Company’s common stock, par value $0.001 per share (“Common Stock”). The Company and Holder have determined that it would be in their best interests to impose certain rights and obligations upon the Company, Holder and his legal representatives, as the case may be, with respect to such 700,000 shares of Common Stock (as adjusted for stock splits, dividends and the like, the “Shares”). 
+
+2\. Restriction Period. During the period (the “Restriction Period”) commencing as of the date of this Agreement and ending on April 1, 2007, the Shares shall be subject to the restrictions described in Section 3 of this Agreement (the “Restrictions”). The Shares subject to the Restrictions at any given time are called the “Restricted Shares.” 
+
+3\. Restrictions. The Restricted Shares shall be represented by one or more stock certificates registered in the name of Holder. Holder shall have the right to receive dividends on the Restricted Shares, to vote the Restricted Shares and to enjoy all other stockholder rights with respect thereto, except that (i) Holder shall not be entitled to possession of the stock certificate representing the Restricted Shares, (ii) the Company shall retain custody of the stock certificate(s) representing the Restricted Shares, (iii) Holder may not sell, assign, pledge, exchange, transfer, encumber, charge, otherwise dispose of the Restricted Shares, or any of them, or any interest therein or thereto, and (iv) the Restricted Shares are subject to potential forfeiture as provided in Section 4 of this Agreement. 
+
+4\. Forfeiture. Any Restricted Shares (and all voting and other rights associated with such Restricted Shares) shall be forever forfeited (to the extent that the Restrictions with respect to such Restricted Shares have not previously lapsed) in the event (i) such Restricted Shares are transferred by operation of law to any Person other than the Company for any reason (including without limitation the bankruptcy of Holder or seizure and sale by legal process), or (ii) Holder’s employment with the Company is terminated prior to the end of the Restriction 
+
+* * *
+
+Period for any reason other than as described in Section 9(a) and (b) of this Agreement. The Company shall not be obligated to pay Holder any amount for the forfeiture of any Restricted Shares. Holder shall be entitled to retain all Shares to which the Restrictions have ceased to apply. 
+
+5\. Lapse of Restrictions. Subject to Sections 4 and 9 of this Agreement, Restricted Shares shall become “vested”, and the Restriction Period with regard thereto shall lapse, as follows: 
+
+(i) 50,000 Restricted Shares shall become fully vested as of the date of this Agreement; 
+
+(ii) an additional 166,667 Restricted Shares shall become fully vested on February 10, 2005; 
+
+(iii) an additional 50,000 Restricted Shares shall become fully vested on April 1, 2005; 
+
+(iv) an additional 166,667 Restricted Shares shall become fully vested on February 10, 2006; 
+
+(v) an additional 50,000 Restricted Shares shall become fully vested on April 1, 2006; 
+
+(vi) an additional 166,666 Restricted Shares shall become fully vested on February 10, 2007; and 
+
+(vii) the remaining 50,000 Restricted Shares shall become fully vested on April 1, 2007. 
+
+6\. Restrictions on Corresponding Securities and Assets. Any other securities or assets (other than ordinary cash dividends) that are received by Holder in respect of any of the Restricted Shares shall be subject to the Restrictions to the same extent and for so long as such Restricted Shares to which such securities or other assets are attributable remain subject to the Restrictions. 
+
+7\. Delivery of Certificates Upon Lapse of Restrictions. Promptly following the lapse of the Restrictions as to any of the Shares, the Company will deliver the stock certificate or certificates representing such Shares with respect to which the Restrictions have lapsed to Holder or his legal representative. 
+
+8\. No Transfer or Assignment. Except for the rights granted to the Holder in Section 12 of this Agreement, no right or benefit under this Agreement shall be subject to anticipation, alienation, sale, assignment, hypothecation, pledge, exchange, transfer, encumbrance or charge, and any attempt to anticipate, alienate, sell, assign, hypothecate, pledge, exchange, transfer, encumber or charge the same shall be void. If the Holder or any beneficiary under this Agreement should become bankrupt or attempt to anticipate, alienate, sell, assign, hypothecate, pledge, exchange, transfer, encumber or charge any right or benefit under this Agreement, then such right or benefit, in the sole discretion of the Company, shall cease and terminate, and in such event, the Company, in its sole discretion may hold or apply the same or any part thereof for the benefit of the Holder or his or her beneficiary, spouse, children or other dependents, or any of them, in such manner and in such proportion as the Company may deem proper. 
+
+2 
+
+* * *
+
+9\. Acceleration of Vesting. 
+
+(a) If the Company completes a Change of Control Transaction (as defined in Section 21), all Restricted Shares shall become fully vested concurrently with the consummation of the Change of Control Transaction; 
+
+(b) In the event of the death or permanent disability of Holder, all Restricted Shares shall become fully vested immediately thereafter; and 
+
+(c) In the event of the retirement of Holder approved by the Company or the partial disability of Holder, all Restricted Shares shall vest upon the earlier of (i) ninety (90) days following such approved retirement or partial disability or (ii) the vesting schedule as set forth in Section 5. 
+
+10\. Legends of Certificates. The reverse side of each certificate reflecting ownership of the Restricted Shares subject to the Restrictions under Section 3 shall bear the following legends: 
+
+THE SALE, ASSIGNMENT, PLEDGE, ENCUMBRANCE OR OTHER DISPOSITION (EACH A “TRANSFER”) AND VOTING OF ANY OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE RESTRICTED BY THE TERMS OF A RESTRICTED STOCK AGREEMENT DATED AS OF OCTOBER 15, 2004, WITH THE COMPANY (THE “RESTRICTED STOCK AGREEMENT”), COPIES OF WHICH ARE AVAILABLE AT THE COMPANY’S PRINCIPAL OFFICE FOR INSPECTION. THE COMPANY WILL NOT REGISTER THE TRANSFER OF SUCH SECURITIES ON THE BOOKS OF THE COMPANY UNLESS AND UNTIL THE TRANSFER HAS BEEN MADE IN COMPLIANCE WITH THE TERMS OF THE RESTRICTED STOCK AGREEMENT. 
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, AND THUS MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR OTHERWISE DISPOSED OF, UNLESS THEY ARE REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR UNLESS AN EXEMPTION FROM SUCH REGISTRATION IS AVAILABLE AND AN OPINION IN FORM AND SUBSTANCE AND FROM COUNSEL SATISFACTORY TO THE COMPANY HAS BEEN RECEIVED BY THE COMPANY. 
+
+11\. Notices. Any notice required or permitted under this Agreement shall be in writing and shall be deemed to be delivered (i) upon physical delivery (if hand delivered); (ii) three business days after deposit in the United States mail (if mailed), postage prepaid, certified 
+
+3 
+
+* * *
+
+or registered mail, return receipt requested, addressed as set forth below or (iii) the day such notice is sent via facsimile as set forth below:   
+  
+The Company: enherent Corp.  
+80 Lamberton Road  
+Windsor, Connecticut 06095  
+Attention: Corporate Secretary  
+Fax: (860) 687-2210  
+Holder: Douglas A. Catalano  
+79 Hidden Valley Road  
+Marshfield, MA 02050  
+  
+Notice given in any other manner shall be effective when received. The address for notice may be changed by notice given in accordance with this provision. If notice is required to be delivered to any party to this Agreement, a copy of such notice shall be delivered to all other parties to this Agreement.
+
+12\. Registration Rights. In the event the merger (the “Dynax Merger”) of Dynax Solutions, Inc. with and into the Company is consummated, the Company shall include all of the Shares in the shelf registration statement that the Company is obligated to register with the Securities and Exchange Commission under the Preferred Stock Conversion Agreement entered into by and among the Company and the holders of preferred stock identified therein (“Conversion Agreement”), provided that, the Holder agrees to be bound by the same obligations to which such preferred stockholders are subject to under the Conversion Agreement.
+
+13\. Power of Attorney. The General Counsel of the Company, from time to time, is hereby appointed the attorney-in-fact, with full power of substitution of Holder for the sole purpose of carrying out the provisions of this Agreement and taking any action and executing any instrument which such attorney-in fact may deem necessary or advisable to accomplish the purposes hereof, which appointment as attorney-in fact is irrevocable and coupled with an interest. The General Counsel of the Company, as attorney-in-fact for the Holder may, in the name of Holder, make and execute all conveyances, assignments and transfers of the Restricted Shares, and Holder hereby ratifies and confirms all that the General Counsel of the Company, as said attorney-in-fact, shall do so by virtue hereof, provided that the foregoing shall be solely for the purpose of carrying out the provisions of this Agreement. Nevertheless, Holder shall, if so requested by the Company, execute and deliver to the Company all such instruments as may, in the reasonable judgment of the Company, be advisable for the purposes hereof. 
+
+14\. Waiver. No waiver of any provision of this Agreement shall constitute a waiver of any other provision of this Agreement, nor shall such waiver constitute a waiver of any subsequent breach of such provision. 
+
+15\. Binding Effect. This Agreement shall be binding upon and shall inure to the benefit of Holder and his heirs, executors, administrators and legal representatives and upon the Company and its successors and assigns. 
+
+16\. Governing Law; Venue. The validity, construction, and enforcement of this Agreement shall be governed by the laws of the State of Connecticut, without regard for any 
+
+4 
+
+* * *
+
+principles of conflict of laws. Any dispute arising out of or relating to this Agreement may be brought in a court of competent jurisdiction located in Connecticut, and both of the parties to this Agreement irrevocably submit to the exclusive jurisdiction of such courts in any such dispute, waive any objection they may now or hereafter have to venue or to convenience of forum, agree that all claims in respect of the dispute shall be heard and determined only in any such court, and agree not to bring any dispute arising out of or relating to this Agreement in any other court. The parties agree that either or both of them may file a copy of this paragraph with any court as written evidence of the knowing, voluntary and bargained agreement among the parties irrevocably to waive any objections to venue or to convenience of forum. Process in any dispute may be served on any party anywhere in the world. 
+
+17\. Severability. If any provision of this Agreement is declared unenforceable by a court of last resort, such declaration shall not affect the validity of any other provision of this Agreement. 
+
+18\. Construction. The headings contained in this Agreement are for reference purposes only and shall not affect this Agreement in any manner whatsoever. Wherever required by the context, any gender shall include any other gender, the singular shall include the plural, and the plural shall include the singular. 
+
+19\. Amendments. This Agreement may only be amended or modified by written agreement of the Company and Holder. 
+
+20\. Tax Consequences. Holder understands that he shall be responsible for his own tax liability that may arise as a result of the transaction contemplated by this Agreement. Holder understands that Section 83 of the Internal Revenue Code of 1986, as amended (the “Code”), taxes as ordinary income the difference between the amount paid for the Shares and the fair market value of the Shares as of the date any of the restrictions on the Shares lapse. Holder understands that he may elect to be taxed at the time the Shares are granted rather than when the restrictions lapse by filing an election under Section 83(b) of the Code with the Internal Revenue Service within 30 days from the date of grant. If Holder does not choose to elect Section 83(b) status, Holder may ask the Company to reduce the number of Restricted Shares issued pursuant to this Agreement to equal the estimated after-tax value of Restricted Shares when reduced. 
+
+21\. Definitions. 
+
+(a) “Change of Control Transaction” shall mean (i) any “person” as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934 (other than (A) the Company, (B) any trustee or other fiduciary holding securities under an employee benefit plan of the Company or (C) any corporation owned, directly or indirectly, by the stockholders of the Company in substantially the same proportions as their ownership of the common stock of the Company) is or becomes the “beneficial owner” (as defined in Rule 13d-3 under the Securities Exchange Act of 1934), directly or indirectly, of securities of the Company (not including securities acquired directly from the Company or its affiliates) representing fifty-one percent (51%) or more of the combined voting power of the Company’s then outstanding voting securities; (ii) the stockholders of the Company approve a merger or consolidation of the Company with any other corporation, other than (A) a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by 
+
+5 
+
+* * *
+
+remaining outstanding without conversion or by being converted into voting securities of the surviving or parent entity) fifty-one (51%) or more of the combined voting power of the voting securities of the Company or such surviving or parent entity outstanding immediately after such merger or consolidation or (B) a merger or consolidation effected to implement a recapitalization of the Company (or similar transaction) in which no “person” (as hereinabove defined) acquires fifty-one (51%) or more of the combined voting power of the Company’s then outstanding securities; (iii) the consummation of the Dynax Merger; or (iv) the stockholders of the Company approve a plan of complete liquidation of the Company or an agreement for the sale or disposition by the Company of all or substantially all of the Company’s assets (or any transaction having a similar effect). 
+
+(b) “Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint stock company, trust, unincorporated organization or government or any agency or political subdivision thereof. 
+
+[Remainder of page intentionally left blank.] 
+
+6 
+
+* * *
+
+The parties have executed this Agreement effective as of the date first set forth above.   
+  
+ENHERENT CORP.  
+By:
+
+/S/ Felicia A. Norvell
+
+* * *  
+  
+Name: Felicia A. Norvell  
+Title: Corporate Secretary  
+HOLDER  
+  
+/S/ Douglas A. Catalano
+
+* * *  
+  
+Douglas A. Catalano  
+  
+7 

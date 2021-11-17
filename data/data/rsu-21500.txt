@@ -1,0 +1,188 @@
+Exhibit 10.16 
+
+C&J; ENERGY SERVICES 
+
+2015 LONG TERM INCENTIVE PLAN 
+
+
+
+(Performance-Based Restricted Shares) 
+
+C&J; Energy Services Ltd. (the “Company”), a Bermuda exempted company, hereby awards to you (the “Grantee”), as of the date set forth on your Bank of America Merrill Lynch online equity award account (the “Date of Grant”), an award of restricted shares (the “Award”), consisting of the number of Shares set forth on your Bank of America Merrill Lynch online equity award account for that date (the “Restricted Shares”), pursuant to the C&J; Energy Services 2015 Long Term Incentive Plan, as may be amended from time to time (the “Plan”). The Award is subject to the terms of this Restricted Share Agreement (this “Agreement”) and the Plan and is intended to constitute an Award of Performance-Based Restricted Shares that qualifies as Performance-Based Compensation for purposes of the Plan. The Restricted Shares granted hereunder shall be issued in the name of the Grantee as soon as reasonably practicable after the Date of Grant, pursuant to the terms herein, and shall be subject to the execution and return of this Agreement by the Grantee through the electronic signature and/or web-based approval and notice process authorized by the Company. Capitalized terms used but not defined in this Agreement shall have the meaning attributed to such terms under the Plan, unless the context requires otherwise. By executing this Agreement, the Grantee acknowledges that his or her agreement to the covenants set forth in Section 7 is a material inducement to the Company in granting this Award to the Grantee. 
+
+The terms and conditions of the Restricted Shares granted hereby, to the extent not controlled by the terms and conditions contained in the Plan, are as follows: 
+
+1\. No Right to Continued Employee Status or Consultant Service 
+
+Nothing contained in this Agreement shall confer upon the Grantee the right to the continuation of his or her Employee status, or, in the case of a Consultant, to the continuation of his or her service arrangement, or in either case to interfere with the right of the Company or, as applicable, any of its Subsidiaries or other Affiliates to terminate the Grantee’s Business Relationship (as defined in Section 7) at any time. 
+
+2\. Coordination with Employment Agreement 
+
+The parties hereby acknowledge that the Grantee is a party to an employment agreement between the Grantee and the Company (the “Employment Agreement”), which may include provisions governing the treatment of share options, restricted shares or other equity-based awards granted to the Grantee prior to the effectiveness of this Agreement. The parties acknowledge and agree that to the extent that the Employment Agreement includes provisions in respect of the treatment of share options, restricted shares or other equity-based awards in the event of termination of employment, a change in control, or other similar event, (i) notwithstanding anything contained in this Agreement to the contrary, such provisions in the Employment Agreement shall govern the treatment of the Restricted Shares covered by the Award granted under this Agreement; and (ii) if, and to the extent, such provisions in the Employment 
+
+* * *
+
+Agreement conflict with the provisions in this Agreement, the terms of the Employment Agreement shall control. For the avoidance of doubt, if the Employment Agreement is silent regarding matters concerning the treatment of share options, restricted shares or other equity-based awards in the event of termination of employment, a change in control, or other similar event, then the terms of this Agreement shall govern the treatment of the Restricted Shares granted hereunder. Nothing herein (including nothing contained in Section 7 herein) will replace any of the Grantee’s obligations to the Company or its Subsidiaries or Affiliates with respect to confidentiality, non-disclosure, return of property, non-competition or non-solicitation as all provisions of Section 7 herein are in addition to all commitments and obligations the Grantee has to the Company and any of its Subsidiaries or Affiliates, including all commitments and obligations created by contract, statute and common law. 
+
+3\. Vesting; Forfeiture; Effect of Termination of Service 
+
+The Restricted Shares will be subject to a two-tiered vesting schedule. The Restricted Shares will first be subject to achievement of the following Performance Objective, subject to certification by the Committee (the “Performance-Based Vesting Schedule”): 
+
+• Achievement of positive “EBITDA” (as defined below) in any calendar quarter during the period beginning on [ ] and ending on [ ] (such period, the “Performance Cycle”).   
+  
+If the Performance-Based Vesting Schedule is not satisfied during the Performance Cycle, all Restricted Shares granted pursuant to this Agreement shall be returned to or cancelled by the Company, and shall be deemed to have been forfeited by the Grantee. For purposes of this Agreement, “EBITDA” shall mean, with respect to any applicable calendar quarter, the Company’s net income for such quarter, determined in accordance with generally accepted accounting principles (consistently applied), plus, without duplication, the sum of (a) income tax expense, (b) interest expense, amortization or write-off of debt discount and debt issuance costs and commissions, discounts and other fees and charges associated with indebtedness, (c) depreciation and amortization expense, (d) amortization of intangibles (including, but not limited to, goodwill) and organization costs, (e) any extraordinary, unusual or non-recurring expenses or losses, and any prepayment fees paid to existing lenders (including, whether or not otherwise includable as a separate item in the statement of such net income for such period, losses on sales of assets outside of the ordinary course of business) (f) any other non-cash charges, and (g) any extraordinary incentive compensation paid to the Company’s employees, including any bonuses payable in respect of such quarter under any employment agreement between the Company and its employees. 
+
+2 
+
+* * *
+
+In addition to satisfaction of the Performance-Based Vesting Schedule, the Restricted Shares will be subject to the following time-based vesting schedule (the “Time-Based Vesting Schedule”):   
+  
+Vesting Date
+
+Cumulative Vested Percentage  
+%   
+%   
+%   
+  
+In the event that a Vesting Date within the Time-Based Vesting Schedule passes prior to the time that the Performance-Based Vesting Schedule is satisfied, the tranche of Restricted Shares subject to that particular Vesting Date in the Time-Based Vesting Schedule will carry forward and be aggregated with the next tranche of Restricted Shares scheduled to vest on the next Vesting Date in the Time-Based Vesting Schedule and be eligible to vest on such date, subject to satisfaction of the Performance-Based Vesting Schedule prior to or as of that Vesting Date. Notwithstanding the foregoing, in no event shall any tranche of the Restricted Shares become vested unless the Grantee continuously maintains his or her Business Relationship from the Date of Grant to an applicable Vesting Date and the Performance-Based Vesting Schedule shall have been satisfied prior to such Vesting Date. Except as otherwise provided in this Agreement or as otherwise determined by the Committee, if the Grantee’s Business Relationship Terminates for any reason prior to a Vesting Date, the right of the Grantee to receive further vesting of the Restricted Shares under this Award shall terminate. For the avoidance of doubt, the Grantee shall not receive vesting of the Restricted Shares on the remaining Vesting Dates and all Restricted Shares that have not vested as of the date of such Termination shall be deemed to be forfeited by the Grantee. Notwithstanding the foregoing, upon the Grantee’s Termination by reason of Disability or death prior to a Vesting Date, the Performance-Based Vesting Schedule will be deemed to have been satisfied and the number of Restricted Shares that would have vested on the next applicable Vesting Date shall immediately vest as of the date of such Termination. 
+
+4\. Restrictions on Transfer 
+
+(a) The Restricted Shares subject to this Award may not be sold, transferred, assigned or otherwise disposed of, and may not be pledged or otherwise hypothecated (the “Transfer Restrictions”) while the Restricted Shares are subject to forfeiture to the Company pursuant to Section 3. The Transfer Restrictions shall lapse on the same schedule under which the Restricted Shares vest pursuant to Section 3. 
+
+(b) The foregoing Transfer Restrictions shall not prohibit the sale, transfer or other disposition of such Restricted Shares pursuant to a definitive agreement executed by the Company in connection with a Corporate Transaction. 
+
+5\. Escrow, Delivery of Shares and Restrictive Legend 
+
+(a) Certificates or evidence of book-entry Shares representing the Restricted Shares shall be issued and held by the Company in escrow and shall remain in the custody of the Company until their delivery to the Grantee or nominee as set forth herein, subject to the Grantee’s delivery of any document 
+
+3 
+
+* * *
+
+which the Committee or Company may, in its discretion, require as a condition to the delivery of Shares to the Grantee or his or her estate, including, but not limited to delivery of a share power, duly endorsed in blank, relating to the Restricted Shares. 
+
+(b) Certificates or evidence of book-entry Shares representing the Restricted Shares which have vested and for which the Transfer Restrictions have lapsed pursuant to Sections 3 and 4 of this Agreement will be delivered to or otherwise made available to the Grantee (or, at the discretion of the Grantee, joint in the names of the Grantee and the Grantee’s spouse) or to the Grantee’s nominee at such person’s request. 
+
+(c) The certificates, if any, representing the Restricted Shares acquired pursuant to this Award shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or under applicable state and Federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange unless an exemption to such registration or qualification is available and satisfied. The Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions. 
+
+6\. Rights as Shareholder 
+
+Upon the issuance and delivery of the Restricted Shares to the Grantee and the entry of the Grantee’s name as a shareholder of record on the books of the Company, the Grantee shall be, unless and until such Restricted Shares are forfeited pursuant to Section 3 of this Agreement or sold or otherwise disposed of pursuant to Section 4 of this Agreement, entitled to all rights of a common shareholder of the Company, including, without limitation, the right to vote such Restricted Shares and the right to receive all dividends or other distributions paid or made with respect thereto; provided, however, that any cash dividends or distributions declared or paid on the Restricted Shares by the Company shall be deferred and paid to the Grantee at the same time as the Restricted Shares in respect of which such dividends or distributions were made vest pursuant to this Agreement; provided, further, that any Shares distributed as a dividend or otherwise with respect of any Restricted Shares shall be subject to the same Vesting Schedule and be subject to the same Transfer Restrictions, and evidenced in the same manner, as such Restricted Shares. 
+
+7\. Prohibited Activities 
+
+The Grantee acknowledges and agrees that this Agreement further aligns the Grantee’s interests with the Company’s long-term business interests and that the restrictions contained in this Section 7 are reasonably related to the protection of such business interests, including the preservation of the Company’s goodwill and the protection of the Confidential or Proprietary Information that Grantee has obtained and will obtain in the course of his or her future Business Relationship with the Company. The Grantee further acknowledges and agrees that his or her entry into this Agreement gives rise to an expectation by the Company that the Grantee, as the recipient of the equity securities of the Company and ancillary to this Agreement to provide the Grantee with such securities and Confidential or Proprietary Information during the period of his or her Business Relationship with the Company, will not interfere with or otherwise damage the Company Business, either during the period of the Grantee’s Business Relationship with the Company or thereafter. As an express incentive for the Company to enter into this 
+
+4 
+
+* * *
+
+Agreement and in order to further the Company’s legitimate business interests and interest in granting the Award and entering into this Agreement, the Grantee agrees to the following covenants: 
+
+(a) Prohibition against Certain Activities. The Grantee agrees that the Grantee will not at any time: (x) disclose or furnish to any other Person or use for the Grantee’s own or any other Person’s account any Confidential or Proprietary Information (other than in the course of the Grantee’s service to the Company or any Subsidiary or other Affiliate, if the Grantee is an Employee, Director or Consultant to the Company or any Subsidiary or other Affiliate) except for Permitted Disclosures (a “Prohibited Disclosure or Use”), or (y) commit a breach of the provisions of Section 4 (a “Prohibited Transfer”), or (z) make any statement that is intended to become public, or that should reasonably be expected to become public, and that criticizes, ridicules, disparages or is otherwise derogatory of the Company or any Subsidiary or other Affiliate, or any employee, officer, director, member or shareholder of any of them (a “Prohibited Disparagement”).   
+  
+(b) Return of Property. Upon the Grantee’s Termination for whatever reason, or upon request of the Company or any Subsidiary or other Affiliate prior to the Grantee’s Termination, the Grantee shall promptly deliver to the requesting entity all materials, documents and other property of the Company or any Subsidiary or other Affiliate, including originals and copies of all documents and records (both paper and electronic), computer hardware and software programs, computer files (and all other electronically stored information), media, equipment and other materials containing any of the Company’s, Subsidiary’s, Affiliate’s or any customer’s Confidential or Proprietary Information or any summaries, extracts or derivative works thereof. Such property includes but is not limited to all materials constituting or reflecting Confidential or Proprietary Information.   
+  
+(c) Right to Cancellation and Recovery. The Grantee understands and agrees that the Company has granted this Award to the Grantee to reward the Grantee for the Grantee’s future efforts and loyalty to the Company, its Subsidiaries and other Affiliates by giving the Grantee the opportunity to participate in the potential future appreciation of the Company. Accordingly, if (v) the Grantee engages in any Prohibited Disclosure or Use or breaches or violates the Grantee’s obligations relating to the non-disclosure or non-use of confidential or proprietary information under any Restrictive Agreement to which the Grantee is a party, or (w) the Grantee engages in any Prohibited Disparagement or breaches or violates the Grantee’s obligations relating to non-disparagement under any Restrictive Agreement to which the Grantee is a party, or (x) the Grantee engages in any Prohibited Transfer, or (y) the Grantee is Terminated for Cause, or (z) the Grantee violates Section 7 hereof, (collectively items (v) – (z), “Prohibited Actions”) then, subject to Section 7(c)(iii) below, in addition to any other rights and remedies available to the Company, the Company shall be entitled, at its option, exercisable by written notice (the date of such notice, the “Forfeiture Notice Date”) to take any the following actions:   
+  
+(i) The Company may terminate this Award and immediately cancel the Restricted Shares for which the Transfer Restrictions have not yet lapsed; and   
+  
+5 
+
+* * *
+
+(ii) If such Prohibited Action occurs during the period of the Grantee’s Business Relationship or within two (2) years following the Grantee’s Termination, the Company may recover from the Grantee, and the Grantee shall pay over to the Company, with respect to any Restricted Shares on which the Transfer Restrictions lapsed during the period of two (2) years prior to the earlier of the occurrence of the Prohibited Action or the Grantee’s Termination (A) with respect to any such Shares that the Grantee continues to own as of the Forfeiture Notice Date, an amount equal to the aggregate Fair Market Value of such Shares on the Forfeiture Notice Date; and (B) with respect to any such Shares that the Grantee no longer owns as of the Forfeiture Notice Date, an amount equal to either (x) if such Shares were disposed of in an open market transaction, the proceeds received from the disposition of the Restricted Shares, or (y) if such Shares were disposed of other than in an open market transaction, the aggregate Fair Market Value of the Restricted Shares as of the Forfeiture Notice Date. If the Grantee does not pay such amount over to the Company within twenty (20) days of demand, such amount shall thereafter bear interest at the maximum rate permitted by law and the Grantee shall be liable for all of the Company’s costs of collection, including but not limited to, reasonable legal fees.   
+  
+(iii) Notwithstanding anything to the contrary, in the event that a Change in Control has occurred and the Grantee is Terminated without Cause within the twelve (12) months following the Change in Control, the Company may take the actions set forth in Sections 7(c)(i) and (ii) only if the Grantee engages in any Prohibited Disclosure or Use or breaches or violates the Grantee’s obligations relating to the non-disclosure or non-use of confidential or proprietary information under any Restrictive Agreement to which the Grantee is a party.   
+  
+(d) Other Remedies. The Grantee specifically acknowledges and agrees that the remedy at law for any breach of this Section 7 will be inadequate and that the Company, in addition to any other relief available to it, shall be entitled at the discretion of the Board to seek temporary and permanent injunctive relief without the necessity of proving actual damage or posting any bond whatsoever. In the event that the provisions of this Section 7 should ever be deemed to exceed the limitation provided by applicable law, then the Grantee and the Company agree that such provisions shall be reformed to set forth the maximum limitations permitted.   
+  
+(e) Certain Definitions. For purposes of this Agreement, the following terms shall have the meaning set forth below:   
+  
+(i)
+
+“Business Relationship” shall mean service to the Company or any Subsidiary or other Affiliate, or a corporation or parent or subsidiary of such corporation assuming or substituting a new Award for this Award, in the capacity of an Employee, Director or Consultant, as applicable. Without limiting the scope of the preceding sentence, it is expressly provided that the Grantee’s Business Relationship shall be considered to have Terminated at the time of the termination of the “Subsidiary” or “Affiliate” status under the Plan of the entity or other organization that employs the Grantee or to which the   
+  
+6 
+
+* * *
+
+Grantee provides services as a Consultant. Any question as to whether and when there has been a Termination of the Grantee’s Business Relationship, and the cause of such Termination, shall be determined by the Committee and its determination shall be final.   
+  
+(ii) “Company Business” shall mean any business in which the Company or any Subsidiary or other Affiliate is: (x) engaged in during the term of the Grantee’s Business Relationship; or (y) any business in which the Company or any Subsidiary or other Affiliate has undertaken material substantive steps to engage within the twelve (12) month period prior to such Termination, so long as with respect to both prongs (x) and (y) of this sentence, the Grantee had responsibilities with respect to, or Confidential or Proprietary Information about, such business (or anticipated business) prior to the Termination. Without limiting the foregoing, the Company Business shall be deemed to include the well completion and servicing business (including, without limitation, hydraulic fracturing, coiled tubing, pressure pumping, wireline, cementing, pressure testing, pump-down, perforating, pipe recovery and other complementary services), petroleum engineering services (including without limitation services in connection with hydraulic fracture stimulation and reservoir engineering), directional drilling and production services.   
+  
+(iii) “Confidential or Proprietary Information” shall mean confidential, competitively valuable and/or proprietary information of the Company, its Subsidiaries and other Affiliates and/or its and their Customers (to the extent such information of Customers is provided to the Company, its Subsidiaries or other Affiliates with an expectation of confidentiality), including without limitation all intangible, trade secret and/or intellectual property of the Company, its Subsidiaries and other Affiliates, and all copies, summaries, extracts or derivative works thereof, whether developed prior to the date hereof or hereafter, and whether with the assistance of the Grantee or otherwise. Without limiting the foregoing, Confidential or Proprietary Information shall be deemed to include (u) the Company’s, its Subsidiary’s and other Affiliate’s proprietary computer software, databases and non-public lists of Customers, prospects, candidates, and employees; employee applications; skills inventory sheets and similar summaries of employee qualifications as well as employee compensation; Customer ordering habits, billing rates, buying preferences, and short term needs; sales reports and analysis; (v) employee reports and analysis; Customer job orders and profit margin data; businesses processes, methods of operation and sales techniques; (w) statistical information regarding the Company, its Subsidiaries and other Affiliates; (x) financial information of the Company, its Subsidiaries, other Affiliates and its and their Customers that is not publicly available; (y) specially negotiated terms and pricing with vendors and Customers; and (z) research and development, business projects, strategic business plans and other strategic information and strategies; products and solution services offered to Customers.   
+  
+7 
+
+* * *
+
+(iv) “Customer” shall mean anyone who is a customer of the Company, any Subsidiary or other Affiliate within the Restricted Area during the period of the Grantee’s Business Relationship and as of the Grantee’s Termination.   
+  
+(v) “Permitted Disclosures” shall mean the disclosure of Confidential or Proprietary Information (x) made with the prior written consent by the Board, or (y) required to be made by law or legal process.   
+  
+(vi) “Restricted Area” shall mean: (a) during the portion of the Restricted Period prior to the Termination, those geographic areas where the Company or any Subsidiary or other Affiliate conducts the Company Business; and (b) during the portion of the Restricted Period that follows the Termination, those geographic areas within a 100-mile radius of those areas where the Grantee: (X) was based on behalf of the Company, a Subsidiary or other Affiliate; or (Y) performed services on behalf of the Company, a Subsidiary or other Affiliate. For the avoidance of doubt, the Restricted Area shall include the applicable areas within the States of Arkansas, Colorado, Idaho, Kansas, Mississippi, Montana, North Dakota, Ohio, Oklahoma, Pennsylvania, Texas, Utah, West Virginia, and Wyoming, and the following parishes within the State of Louisiana: Bienville, Bossier, Caddo, Caldwell, Claiborne, DeSoto, Harrison, Iberia, Jackson, Lafayette, Lincoln, Natchitoches, Red River, Sabine, St. Helena, St. Martin, Webster, and Winn.   
+  
+(vii) “Restrictive Agreement” shall mean any agreement between the Company, or any Subsidiary or other Affiliate, and the Grantee that contains non-competition, non-solicitation, non-hire, non-disparagement, return-of-property or confidentiality restrictions applicable to the Grantee.   
+  
+8\. Taxation 
+
+The Grantee understands that, unless a timely election is made pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the “Code”), when the Restricted Shares are no longer subject to a substantial risk of forfeiture (i.e., generally when the Restricted Shares vest), the Grantee will be obligated to recognize income, for Federal, state and local income tax purposes, as applicable, in an amount equal to the Fair Market Value of the Shares, determined as of the date the Restricted Shares are no longer subject to a substantial risk of forfeiture. The acceptance of the Shares by the Grantee shall constitute an agreement by the Grantee to report such income in accordance with then applicable law and to cooperate with the Company and its Subsidiaries in establishing the amount of such income and corresponding deduction to the Company and/or its Subsidiaries for its income tax purposes. 
+
+The Grantee is responsible for all tax obligations that arise in connection with the Restricted Shares. The Company may withhold from any amount payable to the Grantee an amount sufficient to cover any Federal, state or local withholding taxes which may become required with respect to the vesting of the Restricted Shares or take any other action it deems necessary to satisfy any income or other tax withholding requirements as a result of the vesting of the Award. The Company shall have the right to require the payment of any such taxes and require that the Grantee furnish information deemed necessary 
+
+8 
+
+* * *
+
+by the Company to meet any tax reporting obligation as a condition to issuing and releasing any Shares pursuant to the Award. The Committee, in its discretion (which such discretion, if the Grantee is a “statutory insider” within the meaning of Section 16(a) of the Exchange Act, may not be delegated to management), may allow the Grantee to pay his or her withholding tax obligation in connection with the vesting of the Restricted Shares by (x) making a cash payment to the Company, (y) permitting the purchase (subject to the requirements of Bermuda law) of a portion of the Shares that have become vested, or (z) surrendering Shares owned by the Participant prior to vesting of the Award, in each case having an aggregate Fair Market Value equal to the withholding taxes. 
+
+The Grantee hereby acknowledges that, with respect to the grant of Restricted Shares pursuant to this Award, he or she may file an election with the Internal Revenue Service, within 30 days of the Date of Grant, under Section 83(b) of the Code to be taxed on the Fair Market Value of the Restricted Shares as of the Date of Grant. The Grantee will seek the advice of his own tax advisors as to the advisability of making such a Section 83(b) election, the potential consequences of making such an election, the requirements for making such an election, and the other tax consequences of his Award under Federal, state, and any other laws that may be applicable. The Company and its agents have not and are not providing any tax advice to the Grantee. 
+
+9\. Securities Laws 
+
+Upon the acquisition of the Restricted Shares, the Grantee will make such written representations, warranties, and agreements as the Committee may reasonably request in order to comply with securities laws or with this Agreement. The obligation of the Company to issue and deliver the Restricted Shares granted hereunder shall be subject to all applicable laws, rules and regulations, and such approvals by governmental agencies as may be required. The Grantee hereby agrees not to offer, sell or otherwise attempt to dispose of any Shares issued to the Grantee pursuant to this Agreement in any way which would: (x) require the Company to file any registration statement with the Securities and Exchange Commission (or any similar filing under state law or the laws of any other county) or to amend or supplement any such filing or (y) violate or cause the Company to violate the Securities Act, the Exchange Act, the rules and regulations promulgated thereunder, or any other Federal, state or local law, or the laws of any other country. 
+
+10\. Notices 
+
+Unless otherwise provided herein, any notices or other communication given or made pursuant to this Agreement or the Plan shall be in writing and shall be deemed to have been duly given (i) as of the date delivered, if personally delivered (including receipted courier service) or overnight delivery service, with confirmation of receipt; (ii) on the date the delivering party receives confirmation, if delivered by facsimile to the number indicated or by email to the address indicated or through an electronic administrative system designated by the Company; (iii) one (1) business day after being sent by reputable commercial overnight delivery service courier, with confirmation of receipt; or (iv) three (3) business days after being mailed by registered or certified mail, return receipt requested, postage prepaid and addressed (a) if to the Company, to the Company’s Legal Department and (b) if to the Grantee, at the most recent address, facsimile number or email contained in the Company’s records. 
+
+9 
+
+* * *
+
+11\. Agreement Subject to Plan and Applicable Law 
+
+This Award is made pursuant to the Plan and shall be interpreted to comply therewith. A copy of the Plan is attached hereto. Any provision of this Award inconsistent with the Plan shall be considered void and replaced with the applicable provision of the Plan. The Plan shall control in the event there shall be any conflict between the Plan and this Agreement, and it shall control as to any matters not contained in this Agreement. The Committee shall have authority to make constructions of this Agreement, and to correct any defect or supply any omission or reconcile any inconsistency in this Agreement, and to prescribe rules and regulations relating to the administration of this Award and other Awards granted under the Plan. 
+
+This Award shall be governed by the laws of the State of Delaware, without regard to the conflicts of law principles thereof. Delaware has a substantial relationship to the parties and transaction reflected herein and, in signing below, the Grantee acknowledges and agrees that there is a reasonable basis for the choice of Delaware law, as Delaware law is known to the parties and well-developed with respect to the subject matters of this Agreement. The designation of Delaware law and the interpretation and application of this Agreement consistent with principles of Delaware law assures uniformity, certainty and predictability in the application of the Agreement and the Plan through which the Award is granted. The Grantee hereby consents to personal jurisdiction in any action brought in any court, Federal or state, within the State of Texas having subject matter jurisdiction in the matter. 
+
+12\. Headings and Capitalized Terms 
+
+Unless otherwise provided herein, capitalized terms used herein that are defined in the Plan and not defined herein shall have the meanings set forth in the Plan. Headings are for convenience only and are not deemed to be part of this Agreement. Unless otherwise indicated, any reference to a Section herein is a reference to a Section of this Agreement. 
+
+13\. Severability and Reformation 
+
+If any provision of this Agreement (or part thereof) shall be determined by a court of law to be unenforceable for any reason, such unenforceability shall not affect the enforceability of any of the remaining provisions hereof (or parts thereof), as such unenforceable provision (or part thereof) shall be severable and this Agreement, to the fullest extent lawful, shall be reformed and construed as if such unenforceable provision, or part thereof, had never been contained herein, and such provision or part thereof shall be reformed or construed so that it would be enforceable to the maximum extent legally possible. 
+
+14\. Binding Effect 
+
+This Agreement shall be binding upon the parties hereto, together with their personal executors, administrator, successors, personal representatives, heirs and permitted assigns. 
+
+15\. Entire Agreement 
+
+This Agreement supersedes all prior written and oral agreements and understandings among the 
+
+10 
+
+* * *
+
+parties as to its subject matter and constitutes the entire agreement of the parties with respect to the subject matter hereof, except to the extent that the Plan may be considered to address the subject matter hereof. Notwithstanding the foregoing, this Agreement shall be in addition to, and shall not supersede or replace, any other Restrictive Agreements. If there is any conflict between this Agreement and the Plan, then the applicable terms of the Plan shall govern. 
+
+16\. Waiver 
+
+Waiver by any party of any breach of this Agreement or failure to exercise any right hereunder shall not be deemed to be a waiver of any other breach or right whether or not of the same or a similar nature. The failure of any party to take action by reason of such breach or to exercise any such right shall not deprive the party of the right to take action at any time while or after such breach or condition giving rise to such rights continues. 
+
+11 

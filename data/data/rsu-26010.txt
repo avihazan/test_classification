@@ -1,0 +1,167 @@
+##### 
+
+Exhibit 10.48
+
+[Name]  
+Employee ID Number: [Number]  
+Grant Number: [Number]
+
+APPLIED MATERIALS, INC.
+
+
+
+Applied Materials, Inc. (the “Company”) hereby grants you, [Name] (the “Employee”), an award of Restricted Stock under the Company’s Employee Stock Incentive Plan (the “Plan”). The date of this Agreement is [DATE] (the “Grant Date”). Subject to the provisions set forth in the attached Appendix A and of the Plan, the principal features of this grant are as follows:   
+  
+Number of Shares of Restricted Stock: [Number]
+
+Purchase Price per Share:  US $0.01  
+  
+Scheduled Vesting Dates/Period of Restriction:
+
+Number of Shares:  
+  
+[VESTING SCHEDULE and/or PERFORMANCE VESTING CONDITIONS]*
+
+[Number]  
+  
+IMPORTANT:  
+  
+* Except as otherwise provided in Appendix A, Employee will not vest in the Restricted Stock unless he or she is employed by the Company or one of its Affiliates through the applicable vesting date.  
+  
+Your signature below indicates your agreement to purchase the shares of Restricted Stock (the “Shares”)and your understanding that this grant is subject to all of the terms and conditions contained in Appendix A and the Plan. For example, important additional information on vesting and forfeiture of the Shares covered by this grant is contained in paragraphs 3 through 6 of Appendix A. PLEASE BE SURE TO READ ALL OF APPENDIX A, WHICH CONTAINS THE SPECIFIC TERMS AND CONDITIONS OF THIS GRANT.
+
+By clicking the “ACCEPT” button below, you agree to the following: “This electronic contract contains my electronic signature, which I have executed with the intent to sign this Agreement.”  
+  
+EMPLOYEE  
+  
+[Name]  
+  
+Date: [DATE]  
+  
+* * *
+
+##### 
+
+Please be sure to retain a copy of your returned electronically signed Agreement; you may obtain a paper copy at any time and at the Company’s expense by requesting one from Stock Programs (see Paragraph 11 below). If you prefer not to electronically sign this Agreement, you may accept this Agreement by signing a paper copy of the Agreement and delivering it to Stock Programs. 
+
+* * *
+
+##### 
+
+APPENDIX A
+
+TERMS AND CONDITIONS OF RESTRICTED STOCK GRANT
+
+1\. Grant. The Company hereby grants to the Employee under the Plan an award of [Number] Shares for $0.01 per Share, commencing on the Grant Date, subject to all of the terms and conditions in this Agreement and the Plan. By accepting this grant of Restricted Stock, the par value purchase price for each share of Restricted Stock (a) will be deemed paid by the Employee by past services rendered by the Employee, if the Employee is an existing employee of the Company or one of its Affiliates and not a newly-hired employee, or (b) shall be paid to the Company by cash or check by the Employee, if the Employee is a newly-hired employee of the Company or one of its Affiliates. Only whole shares shall be issued. 
+
+2\. Shares Held in Escrow. Unless and until the Shares will have vested in the manner set forth in paragraphs 3 through 5, such Shares will be issued in the name of the Employee and held by the Stock Programs Department of the Company (or its designee) as escrow agent (the “Escrow Agent”), and will not be sold, transferred or otherwise disposed of, and will not be pledged or otherwise hypothecated. The Company may determine to issue the Shares in book entry form and/or may instruct the transfer agent for its Common Stock to place a legend on the certificate or certificates representing the Restricted Stock or otherwise note in its records as to the restrictions on transfer set forth in this Agreement and the Plan. The Shares, which may be issued in certificate or book entry form, will not be delivered by the Escrow Agent to the Employee unless and until the Shares have vested and all other terms and conditions in this Agreement have been satisfied. 
+
+3\. Vesting Schedule/Period of Restriction. Except as provided in paragraphs 4 and 5, and subject to paragraph 6, the Shares awarded by this Agreement shall vest in accordance with the vesting provisions set forth on the first page of this Agreement. Shares shall not vest in the Employee in accordance with any of the provisions of this Agreement unless the Employee shall have been continuously employed by the Company or by one of its Affiliates from the Grant Date until the date vesting otherwise is scheduled to occur. 
+
+4\. Modifications to Vesting Schedule. 
+
+(a) Vesting upon Personal Leave of Absence. In the event that the Employee takes a personal leave of absence (“PLOA”), the Shares awarded by this Agreement that are scheduled to vest shall be modified as follows: 
+
+(i) if the duration of the Employee’s PLOA is six (6) months or less, the vesting schedule set forth on the first page of this Agreement shall not be affected by the Employee’s PLOA. 
+
+(ii) if the duration of the Employee’s PLOA is greater than six (6) months but not more than twelve (12) months, the scheduled vesting of any Shares awarded by this Agreement that are not then vested shall be deferred for a period of time equal to the duration of the Employee’s PLOA less six (6) months unless otherwise recommended by the Company’s VP of HR. 
+
+3
+
+* * *
+
+##### 
+
+(iii) if the duration of the Employee’s PLOA is greater than twelve (12) months, any Shares awarded by this Agreement that are not then vested will immediately terminate unless otherwise recommended by the Company’s VP of HR and approved by the CEO. 
+
+(iv) Example 1. Employee is scheduled to vest in Shares on January 1, 2007. On May 1, 2006, Employee begins a six-month PLOA. Employee’s Shares will still be scheduled to vest on January 1, 2007\. 
+
+(v) Example 2. Employee is scheduled to vest in Shares on January 1, 2007. On May 1, 2006, Employee begins a nine-month PLOA. Employee’s Shares awarded by this Agreement that are scheduled to vest after November 2, 2006 will be modified (this is the date on which the Employee’s PLOA exceeds six (6) months). Employee’s Shares now will be scheduled to vest on April 1, 2007 (three (3) months after the originally scheduled date). 
+
+(vi) Example 3. Employee is scheduled to vest in Shares on January 1, 2007. On May 1, 2006, Employee begins a 13-month PLOA. Employee’s Shares will terminate on May 2, 2007 unless otherwise recommended by the Company’s VP of HR and approved by the CEO. 
+
+In general, a “personal leave of absence” does not include any legally required leave of absence. The duration of the Employee’s PLOA will be determined over a rolling twelve- (12-) month measurement period. Shares awarded by this Agreement that are scheduled to vest during the first six (6) months of the Employee’s PLOA will continue to vest as scheduled. However, Shares awarded by this Agreement that are scheduled to vest after the first six (6) months of the Employee’s PLOA will be deferred or terminated depending on the length of the Employee’s PLOA. The Employee’s right to vest in Shares awarded by this Agreement shall be modified as soon as the duration of the Employee’s PLOA exceeds six (6) months. 
+
+(b) Death of Employee. In the event that the Employee incurs a Termination of Service due to his or her death, one hundred percent (100%) of the Shares subject to this Restricted Stock award shall vest on the date of the Employee’s death. In the event that any applicable law limits the Company’s ability to accelerate the vesting of this award of Restricted Stock, this Paragraph 4(b) shall be limited to the extent required to comply with applicable law. Notwithstanding any contrary provision of this Agreement, if the Employee is subject to Hong Kong’s ORSO provisions, the first sentence of this Paragraph 4 (b) shall not apply to this award of Restricted Stock. 
+
+5\. Committee Discretion. The Committee, in its discretion, may accelerate the vesting of the balance, or some lesser portion of the balance, of the unvested Shares at any time, subject to the terms of the Plan. If so accelerated, such Shares will be considered as having vested as of the date specified by the Committee. 
+
+6\. Forfeiture. Notwithstanding any contrary provision of this Agreement, the balance of the Shares that have not vested at the time of Employee’s Termination of Service will be forfeited and automatically transferred to and reacquired by the Company at no cost to the Company upon the date the Employee incurs a Termination of Service for any reason. The Employee shall not be entitled to a refund of the price paid for the Shares returned to the Company pursuant to this paragraph 6. The Employee hereby appoints the Escrow Agent with full power of substitution, as 
+
+4
+
+* * *
+
+##### 
+
+the Employee’s true and lawful attorney-in-fact with irrevocable power and authority in the name and on behalf of the Employee to take any action and execute all documents and instruments, including, without limitation, stock powers which may be necessary to transfer the certificate or certificates evidencing such unvested Shares to the Company upon such Termination of Service. 
+
+7\. Withholding of Taxes. The Company (or the employing Affiliate) will withhold a portion of the Shares that have an aggregate market value sufficient to pay federal, state and local income, employment and any other applicable taxes required to be withheld by the Company or the employing Affiliate with respect to the Shares, unless the Company, in its sole discretion, requires the Employee to make alternate arrangements satisfactory to the Company for such withholdings in advance of the arising of any withholding obligations. The number of Shares withheld pursuant to the prior sentence will be rounded up to the nearest whole Share, with no refund for any value of the Shares withheld in excess of the tax obligation as a result of such rounding. Notwithstanding any contrary provision of this Agreement, no Shares will be issued unless and until satisfactory arrangements (as determined by the Company) will have been made by the Employee with respect to the payment of any income and other taxes which the Company determines must be withheld or collected with respect to such Shares. In addition and to the maximum extent permitted by law, the Company (or the employing Affiliate) has the right to retain without notice from salary or other amounts payable to the Employee, cash having a sufficient value to satisfy any tax withholding obligations that the Company determines cannot be satisfied through the withholding of otherwise deliverable Shares. All income and other taxes related to the Restricted Stock award and any Shares delivered in payment thereof are the sole responsibility of the Employee. 
+
+8\. Rights as Stockholder. Neither the Employee nor any person claiming under or through the Employee will have any of the rights or privileges of a stockholder of the Company in respect of any Shares deliverable hereunder unless and until such Shares will have been issued (which may be in certificate or book entry form), recorded on the records of the Company or its transfer agents or registrars, and delivered to the Employee or the Escrow Agent. Except as provided in paragraph 10, after such issuance, recordation and delivery, the Employee will have all the rights of a stockholder of the Company with respect to voting such Shares. Notwithstanding any contrary provisions in this Agreement, any quarterly or other regular, periodic dividends (as determined by the Company) paid on unvested Shares shall be forfeited by the Employee and automatically returned to the Company. The Company shall be entitled to receive any dividends and/or distributions on any Shares held by the Escrow Agent until such Shares have vested in the manner set forth in paragraphs 3 through 5. 
+
+9\. No Effect on Employment. Subject to any employment contract with the Employee, the terms of such employment will be determined from time to time by the Company, or the Affiliate employing the Employee, as the case may be, and the Company, or the Affiliate employing the Employee, as the case may be, will have the right, which is hereby expressly reserved, to terminate or change the terms of the employment of the Employee at any time for any reason whatsoever, with or without good cause. The transactions contemplated hereunder and the vesting schedule set forth on the first page of this Agreement do not constitute an express or implied promise of continued employment for any period of time. A leave of absence or an interruption in service (including an interruption during military service) authorized or acknowledged by the Company or the Affiliate 
+
+5
+
+* * *
+
+##### 
+
+employing the Employee, as the case may be, shall not be deemed a Termination of Service for the purposes of this Agreement. 
+
+10\. Changes in Shares. In the event that as a result of a stock or extraordinary cash dividend, stock split, distribution, reclassification, recapitalization, combination of shares or the adjustment in capital stock of the Company or otherwise, or as a result of a merger, consolidation, spin-off or other corporate transaction or event, the Shares will be increased, reduced or otherwise affected, and by virtue of any such event the Employee will in his or her capacity as owner of unvested Shares which have been awarded to him or her (the “Prior Shares”) be entitled to new or additional or different shares of stock, cash or other securities or property (other than rights or warrants to purchase securities); such new or additional or different shares, cash or securities or property will thereupon be considered to be unvested Restricted Stock and will be subject to all of the conditions and restrictions that were applicable to the Prior Shares pursuant to this Agreement and the Plan. If the Employee receives rights or warrants with respect to any Prior Shares, such rights or warrants may be held or exercised by the Employee, provided that until such exercise any such rights or warrants and after such exercise any shares or other securities acquired by the exercise of such rights or warrants will be considered to be unvested Restricted Stock and will be subject to all of the conditions and restrictions which were applicable to the Prior Shares pursuant to the Plan and this Agreement. The Committee in its absolute discretion at any time may accelerate the vesting of all or any portion of such new or additional shares of Restricted Stock, cash or securities, rights or warrants to purchase securities or shares or other securities acquired by the exercise of such rights or warrants. 
+
+11\. Address for Notices. Any notice to be given to the Company under the terms of this Agreement will be addressed to the Company, in care of Stock Programs, at Applied Materials, Inc., 2881 Scott Blvd., M/S 2023, P.O. Box 58039, Santa Clara, CA 95050, or at such other address as the Company may hereafter designate in writing. 
+
+12\. Grant is Not Transferable. Except to the limited extent provided in this Agreement, the unvested Shares subject to this grant and the rights and privileges conferred hereby will not be transferred, assigned, pledged or hypothecated in any way (whether by operation of law or otherwise) and will not be subject to sale under execution, attachment or similar process. Upon any attempt to transfer, assign, pledge, hypothecate or otherwise dispose of any unvested Shares subject to this grant, or any right or privilege conferred hereby, or upon any attempted sale under any execution, attachment or similar process, this grant and the rights and privileges conferred hereby immediately will become null and void. 
+
+13\. Restrictions on Sale of Securities. The Shares issued under this Agreement will be registered under U. S. federal securities laws and will be freely tradable upon receipt following vesting. However, an Employee’s subsequent sale of the Shares may be subject to any market blackout-period that may be imposed by the Company and must comply with the Company’s insider trading policies, and any other applicable securities laws. 
+
+14\. Binding Agreement. Subject to the limitation on the transferability of this grant contained herein, this Agreement will be binding upon and inure to the benefit of the heirs, legatees, legal representatives, successors and assigns of the parties hereto. 
+
+6
+
+* * *
+
+##### 
+
+15\. Additional Conditions to Release from Escrow. The Company shall not be required to issue Shares hereunder (in certificate or book entry form) or release such Shares from the escrow established pursuant to paragraph 2 prior to fulfillment of all the following conditions: (a) the admission of such Shares to listing on all stock exchanges on which such class of stock is then listed; (b) the completion of any registration or other qualification of such Shares under any U. S. state or federal law or under the rulings or regulations of the Securities and Exchange Commission or any other governmental regulatory body, which the Committee shall, in its absolute discretion, deem necessary or advisable; (c) the obtaining of any approval or other clearance from any U. S. state or federal governmental agency, which the Committee shall, in its absolute discretion, determine to be necessary or advisable; and (d) the lapse of such reasonable period of time following the date of grant of the Restricted Stock as the Committee may establish from time to time for reasons of administrative convenience. 
+
+16\. Plan Governs. This Agreement is subject to all the terms and provisions of the Plan. In the event of a conflict between one or more provisions of this Agreement and one or more provisions of the Plan, the provisions of the Plan will govern. Capitalized terms used and not defined in this Agreement will have the meaning set forth in the Plan. 
+
+17\. Committee Authority. The Committee will have the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules (including, but not limited to, the determination of whether or not any Shares have vested). All actions taken and all interpretations and determinations made by the Committee in good faith will be final and binding upon the Employee, the Company and all other interested persons. No member of the Committee will be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or this Agreement. 
+
+18\. Captions. Captions provided herein are for convenience only and are not to serve as a basis for interpretation or construction of this Agreement. 
+
+19\. Agreement Severable. In the event that any provision in this Agreement will be held invalid or unenforceable, such provision will be severable from, and such invalidity or unenforceability will not be construed to have any effect on, the remaining provisions of this Agreement. 
+
+20\. Modifications to the Agreement. This Agreement constitutes the entire understanding of the parties on the subjects covered. The Employee expressly warrants that he or she is not accepting this Agreement in reliance on any promises, representations, or inducements other than those contained herein. Modifications to this Agreement or the Plan can be made only in an express written contract executed by a duly authorized officer of the Company. 
+
+21\. Amendment, Suspension or Termination of the Plan. By accepting this Restricted Stock award, the Employee expressly warrants that he or she has received a Restricted Stock award under the Plan, and has received, read and understood a description of the Plan. The Employee understands that the Plan is discretionary in nature and may be amended, suspended or terminated by the Company at any time. 
+
+7
+
+* * *
+
+##### 
+
+22\. Labor Law. By accepting this Restricted Stock award, the Employee acknowledges that: (a) the grant of this Restricted Stock is a one-time benefit which does not create any contractual or other right to receive future grants of Restricted Stock, or benefits in lieu of Restricted Stock; (b) all determinations with respect to any future grants, including, but not limited to, the times when the Restricted Stock shall be granted, the number of Shares subject to each Restricted Stock award, the Purchase Price per Share, and the time or times when Restricted Stock shall vest, will be at the sole discretion of the Company; (c) the Employee’s participation in the Plan is voluntary; (d) the value of this Restricted Stock is an extraordinary item of compensation which is outside the scope of the Employee’s employment contract, if any; (e) this Restricted Stock is not part of the Employee’s normal or expected compensation for purposes of calculating any severance, resignation, redundancy, end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments; (f) the vesting of this Restricted Stock ceases upon termination of employment for any reason except as may otherwise be explicitly provided in the Plan or this Agreement; (g) the future value of the underlying Shares is unknown and cannot be predicted with certainty; (h) this Restricted Stock has been granted to the Employee in the Employee’s status as an employee of the Company or its Affiliates; (i) any claims resulting from this Restricted Stock shall be enforceable, if at all, against the Company; and (j) there shall be no additional obligations for any Affiliate employing the Employee as a result of this Restricted Stock. 
+
+23\. Disclosure of Employee Information. By accepting this Restricted Stock award, the Employee consents to the collection, use and transfer of personal data as described in this paragraph. The Employee understands that the Company and its Affiliates hold certain personal information about him or her, including his or her name, home address and telephone number, date of birth, social security or identity number, salary, nationality, job title, any shares of stock or directorships held in the Company, details of all awards of Restricted Stock or any other entitlement to shares of stock awarded, canceled, exercised, vested, unvested or outstanding in his or her favor, for the purpose of managing and administering the Plan (“Data”). The Employee further understands that the Company and/or its Affiliates will transfer Data among themselves as necessary for the purpose of implementation, administration and management of his or her participation in the Plan, and that the Company and/or any of its Affiliates may each further transfer Data to any third parties assisting the Company in the implementation, administration and management of the Plan. The Employee understands that these recipients may be located in the European Economic Area, or elsewhere, such as in the U.S. or Asia. The Employee authorizes the Company to receive, possess, use, retain and transfer the Data in electronic or other form, for the purposes of implementing, administering and managing his or her participation in the Plan, including any requisite transfer to a broker or other third party with whom he or she may elect to deposit any Shares of stock acquired from this award of Restricted Stock of such Data as may be required for the administration of the Plan and/or the subsequent holding of Shares of stock on his or her behalf. The Employee understands that he or she may, at any time, view the Data, require any necessary amendments to the Data or withdraw the consent herein in writing by contacting the Human Resources Department and/or the Stock Programs Administrator for his or her employer. 
+
+24\. Notice of Governing Law. This award of Restricted Stock shall be governed by, and construed in accordance with, the laws of the State of California, U.S.A., without regard to principles of conflict of laws. 
+
+8
+
+* * *
+
+##### 
+
+25\. Notice to Directors. If the Employee is a director or shadow director of a U.K. Affiliate, the Employee agrees to notify the U.K. Affiliate in writing of his or her interest in the Company and the number of Shares or rights to which the interest relates. The Employee agrees to notify the U.K. Affiliate when Shares acquired under the Plan are sold. This disclosure requirement also applies to any rights or Shares acquired by the Employee’s spouse or child (under the age of 18). 
+
+26\. Private Offer. If the Employee is a resident in Ireland, this offering is part of a private transaction; this is not an offer to the public. 
+
+o O o 
+
+9

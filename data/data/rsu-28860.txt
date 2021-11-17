@@ -1,0 +1,343 @@
+  
+
+
+  
+
+
+  
+
+
+Exhibit 10.1
+
+ASPEN INSURANCE HOLDINGS LIMITED
+
+
+
+THIS AGREEMENT (the “Agreement”), is made effective as of the 5th day of March, 2015 (hereinafter called the “Date of Grant”), between Aspen Insurance Holdings Limited, a Bermuda corporation (hereinafter called the “Company”), and XXXXXX (hereinafter called the “Participant”):
+
+R E C I T A L S:
+
+WHEREAS, the Company has adopted the Aspen Insurance Holdings Limited 2013 Share Incentive Plan, as amended from time to time (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its shareholders to grant the performance shares provided for herein to the Participant pursuant to the Plan and the terms set forth herein.
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows:  
+  
+1.
+
+Grant of Performance Shares. The Company hereby awards to the Participant XXXXX Shares, payment of which is dependent upon the performance of the Company as described in Section 2 of this Agreement (the “Performance Shares”).  
+  
+2.
+
+Vesting. The Performance Shares shall vest and become payable based on the performance and service requirements set forth in Sections 2(c) to 2(j) below and the definition of growth in diluted Book Value Per Share (“BVPS Growth”) set forth in Section 2(a) below.   
+  
+(a)
+
+For the purposes of this Agreement, 2015, 2016, and 2017 BVPS Growth, respectively, shall be equal to gn% (for n = 2015, 2016, and 2017), where  
+  
+gn = 100 x (Bn – B(n-1) \+ Dn) / B(n-1), and  
+  
+(i)
+
+Bn = BVPS at December 31 in year n,  
+  
+(ii)
+
+B(n-1) = BVPS at December 31 in year n-1,   
+  
+(iii)
+
+Dn = total dividends per share paid to ordinary shareholders in year n, and  
+  
+(iv)
+
+BVPS is the diluted book value per ordinary share of the Company as calculated in accordance with the accounting policies and definitions adopted for the purpose of preparation of the annual audited financial statements of the Company, as adjusted to (i) exclude total accumulated other comprehensive income (“AOCI”), (ii) address the impact of any extraordinary capital management transactions, including any special dividends, or the impact of share price movements during the Company’s fiscal year on the Company’s share buy-back program, as determined by the   
+  
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Committee in its sole discretion, and (iii) exclude all selling and other transactional expenses incurred in connection with any transaction which, if consummated, would result in a Change in Control, including without limitation the cost of defending against any such transaction and any third-party legal and advisory costs.
+
+  
+  
+  
+(b)
+
+For purposes of this Agreement:  
+  
+(i)
+
+“2015 Fiscal Year” shall mean the Company’s fiscal year ended December 31, 2015,  
+  
+(ii)
+
+“2016 Fiscal Year” shall mean the Company’s fiscal year ended December 31, 2016, and  
+  
+(iii)
+
+“2017 Fiscal Year” shall mean the Company’s fiscal year ended December 31, 2017.  
+  
+(c)
+
+Subject to the Participant’s continued Employment with the Company (which Employment shall not include the performance of services under a notice of termination or resignation), a maximum of one-third (1/3) of the Performance Shares awarded hereunder (the “2015 BVPS Award”) shall be eligible for vesting (“Eligible Shares”) upon the later of (i) the date the Company’s outside auditors complete the audit of the Company’s financial statements containing the information necessary to compute the Company’s BVPS for the 2015 Fiscal Year or (ii) the date such BVPS is approved by the Board of Directors or an authorized committee thereof, but only to the extent provided below:  
+  
+2015 BVPS Growth   
+(as defined in Section 2(a))
+
+Percentage of Eligible Shares  
+  
+< 5.6%
+
+0%  
+  
+5.6%
+
+10%  
+  
+11.1%
+
+100%  
+  
+≥ 22.2%
+
+200%  
+  
+Interim percentages to be pro-rated.
+
+Notwithstanding the schedule to be provided to the Participant during the 2015 Fiscal Year, if the 2015 BVPS Growth is greater than the target vesting level at 100% vesting determined in accordance with the schedule provided, and the average of the 2015 BVPS Growth and the 2014 BVPS Growth is less than the average of the minimum vesting thresholds for such years, then the Percentage of Eligible Shares shall be 100%. Notwithstanding the foregoing, if in the judgment of the Committee, the main reason for the 2015 BVPS Growth falling below the minimum vesting threshold for such year is the impact of rising interest rates and bond yields, then the Committee may, at its discretion, disapply the limitation on 100% vesting described in this paragraph. 
+
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+(d)
+
+Subject to the Participant’s continued Employment with the Company (which Employment shall not include the performance of services under a notice of termination or resignation), a maximum of one-third (1/3) of the Performance Shares awarded hereunder (the “2016 BVPS Award”) shall become Eligible Shares upon the later of (i) the date the Company’s outside auditors complete the audit of the Company’s financial statements containing the information necessary to compute the Company’s BVPS for the 2016 Fiscal Year or (ii) the date such BVPS is approved by the Board of Directors or an authorized committee thereof, but only to the extent provided in a vesting schedule to be provided to the Participant during the 2016 Fiscal Year. The Committee shall determine the vesting conditions for the 2016 BVPS Award taking into consideration the market conditions and the Company’s business plans at the commencement of the 2016 Fiscal Year.  
+  
+Notwithstanding the schedule to be provided to the Participant during the 2016 Fiscal Year, if the 2016 BVPS Growth is greater than the target vesting level at 100% vesting determined in accordance with the schedule provided, and the average of the 2016 BVPS Growth and the 2015 BVPS Growth is less than the average of the minimum vesting thresholds for such years, then the Percentage of Eligible Shares shall be 100%. Notwithstanding the foregoing, if in the judgment of the Committee, the main reason for the 2015 BVPS Growth falling below the minimum vesting threshold for such year is the impact of rising interest rates and bond yields, then the Committee may, at its discretion, disapply the limitation on 100% vesting described in this paragraph.   
+  
+(e)
+
+Subject to the Participant’s continued Employment with the Company (which Employment shall not include the performance of services under a notice of termination or resignation), a maximum of one-third (1/3) of the Performance Shares awarded hereunder (the “2017 BVPS Award”) shall become Eligible Shares upon the later of (i) the date the Company’s outside auditors complete the audit of the Company’s financial statements containing the information necessary to compute the Company’s BVPS for the 2017 Fiscal Year or (ii) the date such BVPS is approved by the Board of Directors or an authorized committee thereof, but only to the extent provided in a vesting schedule to be provided to the Participant during the 2017 Fiscal Year. The Committee shall determine the vesting conditions for the 2017 BVPS Award taking into consideration the market conditions and the Company’s business plans at the commencement of the 2017 Fiscal Year.  
+  
+Notwithstanding the schedule to be provided to the Participant during the 2017 Fiscal Year, if the 2017 BVPS Growth is greater than the target vesting level at 100% vesting determined in accordance with the schedule provided, and the average of the 2017 BVPS Growth and the 2016 BVPS Growth is less than the average of the minimum vesting thresholds for such years, then the Percentage of Eligible Shares shall be 100%. Notwithstanding the foregoing, if in the judgment of the Committee, the main reason for the 2016 BVPS Growth falling below the minimum vesting threshold for such year is the impact of rising interest rates and bond yields, then the Committee may, at its discretion, disapply the limitation on 100% vesting described in this paragraph.  
+  
+(f)
+
+Subject to the Participant’s continued Employment with the Company (which Employment shall not include the performance of services under a notice of   
+  
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+termination or resignation), all Eligible Shares shall become vested on the day immediately following the day the Company files its Annual Report on Form 10-K with the U.S. Securities and Exchange Commission for the 2017 Fiscal Year, provided, that, if the Company does not file a Form 10-K pursuant to applicable law for the 2017 Fiscal Year, all Eligible Shares shall become vested upon the later of (i) the date the Company’s outside auditors complete the audit of the Company’s financial statements containing the information necessary to compute the Company’s BVPS for the 2017 Fiscal Year or (ii) the date such BVPS is approved by the Board of Directors or an authorized committee thereof.  
+  
+(g)
+
+In connection with any event described in Section 10(a) of the Plan or in the event of a change in applicable accounting rules, the Committee shall make such adjustments in the terms of the Performance Shares as it shall determine shall be necessary to equitably reflect such event in order to prevent dilution or enlargement of the potential benefits of the Performance Shares. The Committee’s determination as to any such adjustment shall be final.  
+  
+(h)
+
+Subject to the terms of the Participant’s employment agreement with the Company, or any of its Affiliates (which, if applicable, shall supersede this provision), if the Participant’s Employment with the Company is terminated for any reason, the Performance Shares shall, to the extent not then vested, be canceled by the Company without consideration.  
+  
+(i)
+
+Any Performance Shares that do not become Eligible Shares by reason of the Company’s failure to achieve a percentage increase in BVPS as set forth above (or, if applicable, as set forth in schedules to be provided to the Participant) shall immediately be forfeited without consideration.  
+  
+(j)
+
+Notwithstanding anything to the contrary contained herein, in the event that the Participant’s Employment with the Company is terminated (i) due to the Participant’s death or (ii) by the Company due to the Participant’s Disability, all Eligible Shares shall vest in full on the date of such termination of Employment. For the avoidance of doubt, any Performance Shares that have not become Eligible Shares on or before the date of such termination of Employment shall be forfeited on such date without consideration. For purposes of this Agreement, “Disability” shall mean the inability of a Participant to perform in all material respects his or her duties and responsibilities to the Company, or any Affiliate of the Company, by reason of a physical or mental disability or infirmity which inability is reasonably expected to be permanent and has continued (i) for a period of six consecutive months or (ii) such shorter period as the Committee may determine in good faith. The Disability determination shall be in the sole discretion of the Committee and a Participant (or his or her representative) shall furnish the Committee with medical evidence documenting the Participant’s disability or infirmity, which is reasonably satisfactory to the Committee.  
+  
+3.
+
+Payment.   
+  
+(a)
+
+The Company shall deliver to the Participant one Share for each vested Performance Share. Any fractional share will be rounded down to the nearest whole Share and the remainder forfeited.   
+  
+  
+
+
+4
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+(b)
+
+Except as otherwise provided in the Plan, vested Performance Shares shall be paid to the Participant as soon as practicable after the date such Performance Shares become vested, but in no event later than the fifteenth (15th) day of the third (3rd) month following the end of the fiscal year in which the Performance Shares become vested.  
+  
+(c)
+
+When Performance Shares are paid, the Company shall either issue certificates for such Shares or enter such Shares in book-entry form in the Participant’s name, as determined by the Company in its sole discretion. However, in the event certificates are issued for such Shares, the Company shall not be liable to the Participant for damages relating to any delays in issuing the certificates to him, any loss of the certificates, or any mistakes or errors in the issuance of the certificates or in the certificates themselves.  
+  
+4.
+
+No Right to Continued Employment. The granting of the Performance Shares evidenced hereby and this Agreement shall impose no obligation on the Company or any Affiliate to continue the Employment of the Participant and shall not lessen or affect the Company’s or its Affiliate’s right to terminate the Employment of such Participant.  
+  
+5.
+
+Legends; Stop-Transfer Orders. Any certificates representing the Shares paid in settlement of Performance Shares and any Shares held in book-entry form, shall be subject to such stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations, and other requirements of the U.S. Securities and Exchange Commission, any stock exchange upon which such Shares are listed, and any applicable laws, and the Committee may cause a legend or legends to be put on any such certificates, if applicable, to make appropriate reference to such restrictions.  
+  
+6.
+
+Transferability. The Performance Shares may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. For avoidance of doubt, Shares issued to the Participant in payment of vested Performance Shares pursuant to Section 3 hereof shall not be subject to any of the foregoing transferability restrictions.  
+  
+7.
+
+Withholding. The Participant may be required to pay to the Company or any Affiliate and the Company shall have the right and is hereby authorized to withhold, any applicable withholding taxes in respect of Performance Shares and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes.   
+  
+8.
+
+Securities Laws. Upon the acquisition of any Shares pursuant to settlement of Performance Shares, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement.  
+  
+9.
+
+Bermuda Government Regulations. No Shares shall be issued pursuant to this Agreement unless and until all relevant licenses, permissions and authorizations required to be granted by the Government of Bermuda, or by any authority or agency thereof, shall have been duly received.  
+  
+  
+
+
+5
+
+  
+
+
+* * *
+
+  
+
+
+  
+  
+  
+10.
+
+Notices. Any notice necessary under this Agreement shall be addressed to the Company in care of its Secretary at the principal executive office of the Company and to the Participant at the address appearing in the personnel records of the Company for the Participant or to either party at such other address as either party hereto may hereafter designate in writing to the other. Any such notice shall be deemed effective upon receipt thereof by the addressee.  
+  
+11.
+
+Choice of Law. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF BERMUDA, WITHOUT REGARD TO CONFLICTS OF LAWS PRINCIPLES  
+  
+12.
+
+Performance Shares Subject to the Plan. By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan. The Performance Shares are subject to the Plan (including without limitation the arbitration provision), and the terms and provisions of the Plan, as it may be amended from time to time, are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail.   
+  
+13.
+
+Rights as a Shareholder. The Participant shall have no rights as a shareholder, and shall not receive dividends, with respect to any Performance Shares until the Performance Shares have been issued to the Participant.   
+  
+14.
+
+Fiscal Year. If the Company’s fiscal year is changed to other than a calendar year, the references to calendar year in this Agreement shall be adjusted to appropriately reflect the change  
+  
+15.
+
+Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.  
+  
+  
+
+
+  
+
+
+6
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement.
+
+ASPEN INSURANCE HOLDINGS LIMITED
+
+![](exhibit1012015perform_image1.gif)
+
+Mike Cain
+
+Group General Counsel
+
+  
+
+
+AGREED AND ACKNOWLEDGED AS
+
+OF THE DATE FIRST ABOVE WRITTEN:
+
+  
+
+
+  
+
+
+_____________________________________
+
+Participant
+
+  
+
+
+7
+
+  
+

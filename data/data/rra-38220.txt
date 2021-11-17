@@ -1,0 +1,303 @@
+Exhibit 10.2
+
+
+
+This Registration Rights Agreement (this “Agreement”) is made and entered into as of April 18, 2008, by and among Summer Infant, Inc., a Delaware corporation (the “Company”), and the investors listed on Schedule A hereto (the “Investors”).
+
+WHEREAS, the Investors, who are stockholders of Kiddopotamus & Company (“KidCo”), have received shares of common stock of the Company (“Common Stock”) in connection with the merger of KidCo with an indirect subsidiary of the Company pursuant to that certain Agreement and Plan of Merger, dated April 18, 2008 (the “Merger Agreement”).
+
+The Company and the Investors hereby agree as follows:
+
+1. Definitions.
+
+Capitalized terms used and not otherwise defined herein shall have the meanings given such terms in the Merger Agreement. As used in this Agreement, the following terms shall have the following meanings:
+
+“Advice” shall have meaning set forth in Section 3(m).
+
+“Affiliate” means, with respect to any Person, any other Person that directly or indirectly controls or is controlled by or under common control with such Person. For the purposes of this definition, “control,” when used with respect to any Person, means the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of such Person, whether through the ownership of voting securities, by contract or otherwise; and the terms of “affiliated,” “controlling” and “controlled” have meanings correlative to the foregoing.
+
+“Board” shall have meaning set forth in Section 3(n).
+
+“Business Day” means any day except Saturday, Sunday and any day which shall be a legal holiday or a day on which banking institutions in the state of New York generally are authorized or required by law or other government actions to close.
+
+“Closing Date” means the date of the closing of the transactions contemplated by the Merger Agreement.
+
+“Commission” means the Securities and Exchange Commission.
+
+“Common Stock” means the Company’s Common Stock, par value $0.01 per share.
+
+“Effectiveness Period” shall have the meaning set forth in Section 2.
+
+* * *
+
+  
+
+
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+“Filing Date” means the date that is six months following the Closing Date.
+
+“Holder” or “Holders” means each of the Investors and any transferee of any of them to whom Registrable Securities have been transferred in accordance with Section 7(e) of this Agreement, other than a transferee to whom Registrable Securities have been transferred pursuant to a Registration Statement under the Securities Act or Rule 144 or Regulation S under the Securities Act (or any successor rule thereto).
+
+“Indemnified Party” shall have the meaning set forth in Section 5(c).
+
+“Indemnifying Party” shall have the meaning set forth in Section 5(c).
+
+“Losses” shall have the meaning set forth in Section 5(a).
+
+“Person” means an individual or a corporation, partnership, trust, incorporated or unincorporated association, joint venture, limited liability company, joint stock company, government (or an agency or political subdivision thereof) or other entity of any kind.
+
+“Proceeding” means an action, claim, suit, investigation or proceeding (including, without limitation, an investigation or partial proceeding, such as a deposition), whether commenced or threatened.
+
+“Prospectus” means the prospectus included in the Registration Statement (including, without limitation, a prospectus that includes any information previously omitted from a prospectus filed as part of an effective registration statement in reliance upon Rule 430A promulgated under the Securities Act), as amended or supplemented by any prospectus supplement, with respect to the terms of the offering of any portion of the Registrable Securities covered by the Registration Statement, and all other amendments and supplements to the Prospectus, including post-effective amendments.
+
+“Registration Expenses” shall mean all expenses incurred by the Company in compliance with Section 2 hereof, including, without limitation, all registration and filing fees, printing expenses, fees and disbursements of counsel for the Company, blue sky fees and expenses and the expense of any special audits incident to or required by any such registration (but excluding the compensation of regular employees of the Company, which shall be paid in any event by the Company).
+
+“Registrable Securities means the shares of Common Stock issued pursuant to the Merger Agreement; provided, however, that such shares of Common Stock shall no longer be deemed Registrable Securities if either (i) such 
+
+2
+
+* * *
+
+  
+
+
+shares have been sold pursuant to an effective Registration Statement or pursuant to Rule 144 or (ii) such shares may be sold without restriction under Rule 144.
+
+“Registration Statement” means the registration statement and any additional registration statements contemplated by Section 2, including (in each case) the Prospectus, amendments and supplements to such registration statement or Prospectus, including pre- and post-effective amendments, all exhibits thereto, and all material incorporated by reference in such registration statement.
+
+“Rule 144” means Rule 144 promulgated by the Commission pursuant to the Securities Act, as such Rule may be amended from time to time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same effect as such Rule.
+
+“Rule 158” means Rule 158 promulgated by the Commission pursuant to the Securities Act, as such Rule may be amended from time to time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same effect as such Rule.
+
+“Rule 415” means Rule 415 promulgated by the Commission pursuant to the Securities Act, as such Rule may be amended from time to time, or any similar rule or regulation hereafter adopted by the Commission having substantially the same effect as such Rule.
+
+“Securities Act” means the Securities Act of 1933, as amended.
+
+“Selling Expenses” shall mean, with respect to a given Holder, all underwriting discounts and selling commissions applicable to the sale of the Registrable Securities of such Holder and all fees and disbursements of counsel to such Holder.
+
+2. Shelf Registration.
+
+The Company shall use commercially reasonable efforts to prepare and file with the Commission as soon as practicable after the Closing Date (but in any event by the Filing Date), a “shelf” Registration Statement covering the resale of all Registrable Securities for an offering to be made on a continuous basis pursuant to Rule 415. The Registration Statement shall be on Form S-3 (except if the Company is not then eligible to register for resale the Registrable Securities on Form S-3, in which case such registration shall be on another appropriate form in accordance herewith). The Company shall (i) use its commercially reasonable efforts to cause the Registration Statement to be declared effective under the Securities Act as promptly as possible after the filing thereof, and to keep such Registration Statement continuously effective under the Securities Act until such date as is the earlier of (x) the date when all Registrable Securities covered by such Registration Statement have been sold or (y) the date on which the Registrable Securities may be sold without any restriction pursuant to Rule 144 as determined 
+
+3
+
+* * *
+
+  
+
+
+by the counsel to the Company pursuant to a written opinion letter, addressed to the Company’s transfer agent to such effect (the “Effectiveness Period”).
+
+3. Registration Procedures.
+
+In connection with the Company’s registration obligations hereunder, the Company shall:
+
+(a) Use commercially reasonable efforts to prepare and file with the Commission, as soon as practicable following the Closing Date (but in any event on or prior to the Filing Date), a Registration Statement on Form S-3 (or if the Company is not then eligible to register for resale the Registrable Securities on Form S-3 such registration shall be on another appropriate form in accordance herewith) including the method or methods of distribution thereof as specified by the Holders (except if otherwise directed by the Holders) and in accordance with applicable law, and cause the Registration Statement to become effective and remain effective as provided herein; provided, however, that not less than three (3) Business Days prior to the filing of the Registration Statement or any related Prospectus or any amendment or supplement thereto, the Company shall (i) furnish to the Holders, copies of all such documents proposed to be filed, which documents will be subject to the review of such Holders, and (ii) cause its officers and directors, counsel and independent certified public accountants to respond to such inquiries as shall be necessary, in the reasonable opinion of counsel to such Holders, to conduct a reasonable review of such documents. The Company shall not file the Registration Statement or any such Prospectus or any amendments or supplements thereto to which the Holders of a majority of the Registrable Securities shall reasonably object in writing within three (3) Business Days of their receipt thereof.
+
+(b) (i) Prepare and file with the Commission such amendments, including post-effective amendments, to the Registration Statement as may be necessary to keep the Registration Statement continuously effective as to the applicable Registrable Securities for the Effectiveness Period and prepare and file with the Commission such additional Registration Statements in order to register for resale under the Securities Act all of the Registrable Securities; (ii) cause the related Prospectus to be amended or supplemented by any required Prospectus supplement, and as so supplemented or amended to be filed pursuant to Rule 424 (or any similar provisions then in force) promulgated under the Securities Act; (iii) respond as promptly as possible to any comments received from the Commission with respect to the Registration Statement or any amendment thereto and as promptly as possible provide the Holders true and complete copies of all correspondence from and to the Commission relating to the Registration Statement; and (iv) comply in all material respects with the provisions of the Securities Act and the Exchange Act with respect to the disposition of all Registrable Securities covered by the Registration Statement during the applicable period in accordance with the intended methods of disposition by the Holders thereof set forth in the Registration Statement as so amended or in such Prospectus as so supplemented.
+
+4
+
+* * *
+
+  
+
+
+(c) Notify the Holders of Registrable Securities as promptly as possible (i)(A) when a Prospectus or any Prospectus supplement or post-effective amendment to the Registration Statement is filed; (B) when the Commission notifies the Company whether there will be a “review” of such Registration Statement and whenever the Commission comments in writing on such Registration Statement and (C) with respect to the Registration Statement or any post-effective amendment, when the same has become effective; (ii) of any request by the Commission or any other Federal or state governmental authority for amendments or supplements to the Registration Statement or Prospectus or for additional information; (iii) of the issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement covering any or all of the Registrable Securities or the initiation or threatening of any Proceedings for that purpose; (iv) of the receipt by the Company of any notification with respect to the suspension of the qualification or exemption from qualification of any of the Registrable Securities for sale in any jurisdiction, or the initiation of any Proceeding for such purpose; and (v) of the occurrence of any event that makes any statement made in the Registration Statement or Prospectus or any document incorporated or deemed to be incorporated therein by reference untrue in any material respect or that requires any revisions to the Registration Statement, Prospectus or other documents so that, in the case of the Registration Statement or the Prospectus, as the case may be, it will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+(d) Use its commercially reasonable efforts to avoid the issuance of, or, if issued, obtain the withdrawal of, as promptly as possible, (i) any order suspending the effectiveness of the Registration Statement or (ii) any suspension of the qualification (or exemption from qualification) of any of the Registrable Securities for sale in any jurisdiction.
+
+(e) If requested by the Holders of a majority in interest of the Registrable Securities, (i) promptly incorporate in a Prospectus supplement or post-effective amendment to the Registration Statement such information as the Company reasonably agrees should be included therein and (ii) make all required filings of such Prospectus supplement or such post-effective amendment as soon as practicable after the Company has received notification of the matters to be incorporated in such Prospectus supplement or post-effective amendment.
+
+(f) If requested by any Holder, furnish to such Holder, without charge, at least one conformed copy of each Registration Statement and each amendment thereto, including financial statements and schedules, all documents incorporated or deemed to be incorporated therein by reference, and all exhibits to the extent requested by such Person (including those previously furnished or incorporated by reference) promptly after the filing of such documents with the Commission.
+
+(g) Promptly deliver to each Holder, without charge, as many copies of the Prospectus or Prospectuses (including each form of prospectus) and 
+
+5
+
+* * *
+
+  
+
+
+each amendment or supplement thereto as such Persons may reasonably request; and subject to the provisions of Section 3(m), the Company hereby consents to the use of such Prospectus and each amendment or supplement thereto by each of the selling Holders in connection with the offering and sale of the Registrable Securities covered by such Prospectus and any amendment or supplement thereto.
+
+(h) Prior to any public offering of Registrable Securities, use its commercially reasonable efforts to register or qualify or cooperate with the selling Holders in connection with the registration or qualification (or exemption from such registration or qualification) of such Registrable Securities for offer and sale under the securities or Blue Sky laws of such jurisdictions within the United States as any Holder requests in writing, to keep each such registration or qualification (or exemption therefrom) effective during the Effectiveness Period and to do any and all other acts or things reasonably necessary or advisable to enable the disposition in such jurisdictions of the Registrable Securities covered by a Registration Statement; provided, however, that the Company shall not be required to qualify generally to do business in any jurisdiction where it is not then so qualified or to take any action that would subject it to general service of process in any such jurisdiction where it is not then so subject or subject the Company to any material tax in any such jurisdiction where it is not then so subject.
+
+(i) Cooperate with the Holders to facilitate the timely preparation and delivery of certificates representing Registrable Securities to be sold pursuant to a Registration Statement, which certificates, to the extent permitted by the Merger Agreement and applicable federal and state securities laws, shall be free of all restrictive legends, and to enable such Registrable Securities to be in such denominations and registered in such names as any Holder may request in connection with any sale of Registrable Securities.
+
+(j) Upon the occurrence of any event contemplated by Section 3(c)(v), as promptly as possible, prepare a supplement or amendment, including a post-effective amendment, to the Registration Statement or a supplement to the related Prospectus or any document incorporated or deemed to be incorporated therein by reference, and file any other required document so that, as thereafter delivered, neither the Registration Statement nor such Prospectus contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+
+(k) Use its commercially reasonable efforts to cause all Registrable Securities relating to such Registration Statement to be listed on The Nasdaq Capital Market or any other securities exchange, quotation system or market, if any, on which similar securities issued by the Company are then listed.
+
+(l) Comply in all material respects with all applicable rules and regulations of the Commission and make generally available to its security holders earning statements satisfying the provisions of Section 11(a) of the Securities Act and Rule 158 not later than 45 days after the end of any 12-month period (or 90 
+
+6
+
+* * *
+
+  
+
+
+days after the end of any 12-month period if such period is a fiscal year) commencing on the first day of the first fiscal quarter of the Company after the effective date of the Registration Statement, which statement shall conform to the requirements of Rule 158.
+
+(m) Be permitted to require each selling Holder to furnish to the Company information regarding such Holder and the distribution of such Registrable Securities as is required by law to be disclosed in the Registration Statement, Prospectus, or any amendment or supplement thereto, and the Company may exclude from such registration the Registrable Securities of any such Holder who unreasonably fails to furnish such information within seven (7) Business Days after receiving such request.
+
+Each Holder covenants and agrees that (i) it will not sell any Registrable Securities under the Registration Statement until it has received copies of the Prospectus as then amended or supplemented as contemplated in Section 3(g) and notice from the Company that such Registration Statement and any post-effective amendments thereto have become effective as contemplated by Section 3(c) and (ii) it and its officers, directors or Affiliates, if any, will comply with the prospectus delivery requirements of the Securities Act as applicable to them in connection with sales of Registrable Securities pursuant to the Registration Statement.
+
+Each Holder agrees by its acquisition of such Registrable Securities that, upon receipt of a notice from the Company of the occurrence of any event of the kind described in Section 3(c)(ii), 3(c)(iii), 3(c)(iv), 3(c)(v) or 3(n), such Holder will forthwith discontinue disposition of such Registrable Securities under the Registration Statement until such Holder’s receipt of the copies of the supplemented Prospectus and/or amended Registration Statement contemplated by Section 3(j), or until it is advised in writing (the “Advice”) by the Company that the use of the applicable Prospectus may be resumed, and, in either case, has received copies of any additional or supplemental filings that are incorporated or deemed to be incorporated by reference in such Prospectus or Registration Statement.
+
+(n) If (i) there is material non-public information regarding the Company which the Company’s Board of Directors (the “Board”) reasonably determines not to be in the Company’s best interest to disclose and which the Company is not otherwise required to disclose, or (ii) there is a significant business opportunity (including, but not limited to, the acquisition or disposition of assets (other than in the ordinary course of business) or any merger, consolidation, tender offer or other similar transaction) available to the Company which the Board reasonably determines not to be in the Company’s best interest to disclose, then the Company may postpone or suspend filing or effectiveness of a registration statement for a period not to exceed 20 consecutive days.
+
+(o) Each Holder agrees, if requested by the Company and an underwriter of the Common Stock (or other securities) of the Company, not to sell or otherwise transfer or dispose of any Common Stock (or other securities of the 
+
+7
+
+* * *
+
+  
+
+
+Company) held by the Holder during the 90-day period following the effective date of a registration statement of the Company filed under the Securities Act; provided, however, that the Company shall not make such a request unless all similarly situated selling securityholders (regardless of the number of shares owned) are to be restricted in the same manner (including duration and nature of transfer restrictions) without discrimination and the Company accompanies such request with an officer’s certificate identifying the other securityholders to be bound by such an agreement. If requested by the underwriters, each such Holder shall execute a separate agreement to the foregoing effect. The Company may impose stop-transfer instructions with respect to the shares (or securities) subject to the foregoing restriction until the end of said 90-day period. The provisions of this Section 3(o) shall be binding upon any transferee who acquires Registrable Securities, whether or not such transferee is entitled to the registration rights provided hereunder.
+
+4. Registration Expenses.
+
+All Registration Expenses incurred in connection with any registration, qualification or compliance pursuant to this Agreement shall be borne by the Company, and any and all Selling Expenses of a given Holder shall be borne by such Holder.
+
+5. Indemnification.
+
+(a) Indemnification by the Company. The Company shall, notwithstanding any termination of this Agreement, indemnify and hold harmless each Holder, the officers, directors, agents, brokers (including brokers who offer and sell Registrable Securities as principal as a result of a pledge or any failure to perform under a margin call of Common Stock), investment advisors and employees of each of them, each Person who controls any such Holder (within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act) and the officers, directors, agents and employees of each such controlling Person, to the fullest extent permitted by applicable law, from and against any and all losses, claims, damages, liabilities, costs (including, without limitation, costs of preparation and attorneys’ fees) and expenses (collectively, “Losses”), as incurred, arising out of or based upon any untrue or alleged untrue statement of a material fact contained in the Registration Statement, any Prospectus or any form of prospectus or in any amendment or supplement thereto or in any preliminary prospectus, or arising out of or based upon any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein (in the case of any Prospectus or form of prospectus or supplement thereto), in the light of the circumstances under which they were made, not misleading, except to the extent, but only to the extent, that such untrue statements or omissions arise out of or are based upon information regarding the Holders or such other Indemnified Party furnished in writing to the Company by a Holder expressly for use therein, which information was reasonably relied on by the Company for use therein or to the extent that such information relates to a Holder or such Holder’s proposed method of distribution of Registrable Securities and was reviewed and expressly approved 
+
+8
+
+* * *
+
+  
+
+
+in writing by a Holder expressly for use in the Registration Statement, such Prospectus or such form of Prospectus or in any amendment or supplement thereto. The Company shall notify the Holders promptly of the institution, threat or assertion of any Proceeding of which the Company is aware in connection with the transactions contemplated by this Agreement.
+
+(b) Indemnification by Holders. Each Holder shall, severally and not jointly, indemnify and hold harmless the Company, the directors, officers, agents and employees, each Person who controls the Company (within the meaning of Section 15 of the Securities Act and Section 20 of the Exchange Act), and the directors, officers, agents or employees of such controlling Persons, to the fullest extent permitted by applicable law, from and against all Losses, as incurred, arising out of or based upon any untrue or alleged untrue statement of a material fact contained in the Registration Statement, any Prospectus, or any form of prospectus, or in any amendment or supplement thereto or in any preliminary prospectus, or arising out of or based upon any omission or alleged omission of a material fact required to be stated therein or necessary to make the statements therein (in the case of any Prospectus or form of prospectus or supplement thereto), in the light of the circumstances under which they were made, not misleading, to the extent, but only to the extent, that such untrue statement or omission is contained in any information so furnished in writing by such Holder or other Indemnified Party to the Company expressly for use therein and that such information was reasonably relied upon by the Company for use therein, or to the extent that such information relates to such Holder or such Holder’s proposed method of distribution of Registrable Securities and was reviewed and expressly approved in writing by such Holder expressly for use in the Registration Statement, such Prospectus or such form of Prospectus or any amendment or supplement thereto. Notwithstanding anything to the contrary contained herein, the Holders shall be liable under this Section 5(b) for only that amount as does not exceed the net proceeds to such Holder as a result of the sale of Registrable Securities pursuant to such Registration Statement. (c) Conduct of Indemnification Proceedings. If any Proceeding shall be brought or asserted against any Person entitled to indemnity hereunder (an “Indemnified Party”), such Indemnified Party promptly shall notify the Person from whom indemnity is sought (the “Indemnifying Party) in writing, and the Indemnifying Party shall be entitled to assume the defense thereof, including the employment of counsel reasonably satisfactory to the Indemnified Party and the payment of all fees and expenses incurred in connection with defense thereof; provided, that the failure of any Indemnified Party to give such notice shall not relieve the Indemnifying Party of its obligations or liabilities pursuant to this Agreement, except (and only) to the extent that it shall be finally determined by a court of competent jurisdiction (which determination is not subject to appeal or further review) that such failure shall have proximately and materially adversely prejudiced the Indemnifying Party.
+
+An Indemnified Party shall have the right to employ separate counsel in any such Proceeding and to participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Indemnified Party or Parties 
+
+9
+
+* * *
+
+  
+
+
+unless: (1) the Indemnifying Party has agreed in writing to pay such fees and expenses; or (2) the Indemnifying Party shall have failed promptly to assume the defense of such Proceeding and to employ counsel reasonably satisfactory to such Indemnified Party in any such Proceeding; or (3) the named parties to any such Proceeding (including any impleaded parties) include both such Indemnified Party and the Indemnifying Party, and such parties shall have been advised by counsel that a conflict of interest is likely to exist if the same counsel were to represent such Indemnified Party and the Indemnifying Party (in which case, if such Indemnified Party notifies the Indemnifying Party in writing that it elects to employ separate counsel at the expense of the Indemnifying Party, the Indemnifying Party shall not have the right to assume the defense thereof and such counsel shall be at the expense of the Indemnifying Party). The Indemnifying Party shall not be liable for any settlement of any such Proceeding effected without its written consent, which consent shall not be unreasonably withheld or delayed. No Indemnifying Party shall, without the prior written consent of the Indemnified Party, which consent shall not be unreasonably withheld, effect any settlement of, or consent order with respect to, any pending or threatened Proceeding in respect of which any Indemnified Party is a party and indemnity has been sought hereunder.
+
+All fees and expenses of the Indemnified Party (including reasonable fees and expenses to the extent incurred in connection with investigating or preparing to defend such Proceeding in a manner not inconsistent with this Section) shall be paid to the Indemnified Party, as incurred, within ten (10) Business Days of written notice thereof to the Indemnifying Party (regardless of whether it is ultimately determined that an Indemnified Party is not entitled to indemnification hereunder; provided, that the Indemnified Party shall reimburse all such fees and expenses to the extent it is finally judicially determined that such Indemnified Party is not entitled to indemnification hereunder).
+
+(d) Contribution. If indemnification under Section 5(a) or 5(b) is due but unavailable to an Indemnified Party because of a failure or refusal of a governmental authority to enforce such indemnification in accordance with its terms (by reason of public policy or otherwise), then each Indemnifying Party, in lieu of indemnifying such Indemnified Party, shall contribute to the amount paid or payable by such Indemnified Party as a result of such Losses, in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party and Indemnified Party in connection with the actions, statements or omissions that resulted in such Losses as well as any other relevant equitable considerations. The relative fault of such Indemnifying Party and Indemnified Party shall be determined by reference to, among other things, whether any action in question, including any untrue or alleged untrue statement of a material fact or omission or alleged omission of a material fact, has been taken or made by, or relates to information supplied by, such Indemnifying, Party or Indemnified Party, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such action, statement or omission. The amount paid or payable by a party as a result of any Losses shall be deemed to include, subject to the limitations 
+
+10
+
+* * *
+
+  
+
+
+set forth in Section 5(c), any reasonable attorneys’ or other reasonable fees or expenses incurred by such party in connection with any Proceeding to the extent such party would have been indemnified for such fees or expenses if the indemnification provided for in this Section was available to such party in accordance with its terms.
+
+The parties hereto agree that it would not be just and equitable if contribution pursuant to this Section 5(d) were determined by pro rata allocation or by any other method of allocation that does not take into account the equitable considerations referred to in the immediately preceding paragraph. No Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation.
+
+The indemnity and contribution agreements contained in this Section are in addition to any liability that the Indemnifying Parties may have to the Indemnified Parties pursuant to the law.
+
+6. Rule 144.
+
+As long as any Holder owns Registrable Securities, the Company covenants to timely file (or obtain extensions in respect thereof and file within the applicable grace period) all reports required to be filed by the Company after the date hereof pursuant to Section 13(a) or 15(d) of the Exchange Act. As long as any Holder owns Registrable Securities, if the Company is not required to file reports pursuant to Section 13(a) or 15(d) of the Exchange Act, it will prepare and furnish to the Holders and make publicly available in accordance with Rule 144(c) promulgated under the Securities Act annual and quarterly financial statements, together with a discussion and analysis of such financial statements in form and substance substantially similar to those that would otherwise be required to be included in reports required by Section 13(a) or 15(d) of the Exchange Act, as well as any other information required thereby, in the time period that such filings would have been required to have been made under the Exchange Act. The Company further covenants that it will take such further action as any Holder may reasonably request, all to the extent required from time to time to enable such Person to sell Registrable Securities without registration under the Securities Act within the limitation of the exemptions provided by Rule 144 promulgated under the Securities Act, including providing any legal opinions relating to such sale pursuant to Rule 144. Upon the request of any Holder, the Company shall deliver to such Holder a written certification of a duly authorized officer as to whether it has complied with such requirements.
+
+7. Miscellaneous.
+
+(a) No Inconsistent Agreements. Simultaneously on the date hereof, the Company and each Holder is entering into a Lock-Up Agreement, pursuant to which, among other things, such Holder has agreed not to offer for sale, 
+
+11
+
+* * *
+
+  
+
+
+sell, pledge, assign, hypothecate or otherwise create any interest in or dispose of any Registrable Securities during the one year period commencing on the Closing Date. Nothing contained herein shall be deemed to alter or modify the obligations of such Holder under such Lock-Up Agreement. Except for the Lock-Up Agreement, neither the Company nor any of its subsidiaries has, as of the date hereof entered into any agreement with respect to its securities that is inconsistent with the rights granted to the Holders in this Agreement or otherwise conflicts with the provisions hereof.
+
+(b) Amendments and Waivers. The provisions of this Agreement, including the provisions of this sentence, may not be amended, modified or supplemented, and waivers or consents to departures from the provisions hereof may not be given, unless the same shall be in writing and signed by the Company and each of the Holders. Notwithstanding the foregoing, a waiver or consent to depart from the provisions hereof with respect to a matter that relates exclusively to the rights of Holders and that does not directly or indirectly affect the rights of other Holders may be given by Holders of at least a majority of the Registrable Securities to which such waiver or consent relates; provided, however, that the provisions of this sentence may not be amended, modified, or supplemented except in accordance with the provisions of the immediately preceding sentence.
+
+(c) Notices. Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective on the earlier of (i) the date of transmission, if such notice or communication is delivered via facsimile at the facsimile telephone number specified for notice prior to 5:00 p.m., New York City time, on a Business Day, (ii) the Business Day after the date of transmission, if such notice or communication is delivered via facsimile at the facsimile telephone number specified for notice later than 5:00 p.m., New York City time, on any date and earlier than 11:59 p.m., New York City time, on such date, (iii) the Business Day following the date of mailing, if sent by overnight delivery by nationally recognized overnight courier service or (iv) actual receipt by the party to whom such notice is required to be given. The addresses for such communications shall be with respect to each Holder at its address set forth in the stock register, or with respect to the Company, addressed to:
+
+Summer Infant, Inc.
+
+1275 Park East Drive
+
+Woonsocket, RI
+
+Attention: Joseph Driscoll
+
+Tel. No.: (401) 671-6550
+
+or to such other address or addresses or facsimile number or numbers as any such party may most recently have designated in writing to the other parties hereto by such notice. Copies of notices to the Company shall be sent to Greenberg Traurig, LLP, One International Place, Boston, MA 02110, Attention: Stephen Faberman Esq., Tel. No.: (617) 310-6037.
+
+12
+
+* * *
+
+  
+
+
+(d) Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and permitted assigns.
+
+(e) Assignment. Neither this Agreement nor any of the rights, duties, or obligations of any party hereunder may be assigned or delegated (by operation of law or otherwise) by either party hereto except with the prior written consent of the other party hereto; provided, however, that a Holder may assign or delegate its rights, duties and obligations hereunder to any transferee of such Holder’s Registrable Securities who agrees in writing to become bound by the terms and conditions of this Agreement, so long as such assignment or delegation is not in violation of the Merger Agreement or any applicable law or regulation.
+
+(f) Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and, all of which taken together shall constitute one and the same Agreement. In the event that any signature is delivered by facsimile transmission, such signature shall create a valid binding obligation of the party executing (or on whose behalf such signature is executed) the same with the same force and effect as if such facsimile signature were the original thereof.
+
+(g) Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware, without regard to principles of conflicts of law thereof.
+
+(h) Cumulative Remedies. The remedies provided herein are cumulative and not exclusive of any remedies provided by law.
+
+(i) Severability. If any term, provision, covenant or restriction of this Agreement is held to be invalid, illegal, void or unenforceable in any respect, the remainder of the terms, provisions, covenants and restrictions set forth herein shall remain in full force and effect and shall in no way be affected, impaired or invalidated, and the parties hereto shall use their reasonable efforts to find and employ an alternative means to achieve the same or substantially the same result as that contemplated by such term, provision, covenant or restriction. It is hereby stipulated and declared to be the intention of the parties that they would have executed the remaining terms, provisions, covenants and restrictions without including any of such that may be hereafter declared invalid, illegal, void or unenforceable.
+
+(j) Headings. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be deemed to limit or affect any of the provisions hereof.
+
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+13
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Registration Rights Agreement to be duly executed by their respective authorized persons as of the date first indicated above.
+
+SUMMER INFANT, INC.  
+  
+By:
+
+/s/Jason M. Macari  
+  
+Name: Jason P. Macari  
+  
+Title: President  
+  
+* * *
+
+  
+
+
+Schedule A
+
+Schedule of Investors
+
+J. CHRIS SNEDEKER  
+  
+/s/ J. Chris Snedeker  
+  
+KRISTEN PETERSON SNEDEKER  
+  
+/s/Kristen Peterson Snedeker  
+  
+* * *

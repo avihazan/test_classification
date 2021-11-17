@@ -1,0 +1,179 @@
+Exhibit 10.2 
+
+WARNER MUSIC GROUP CORP. 
+
+
+
+THIS STOCK OPTION AGREEMENT (this “Agreement”), is entered into as of this 15 th day of March 2008 (the “Date of Grant”), by and between Warner Music Group Corp., a Delaware corporation (“Parent”), and Edgar Bronfman, Jr. (the “Executive”). 
+
+WHEREAS, WMG Acquisition Corp., a Delaware corporation (the “Company”), an indirect subsidiary of Parent, or one of Parent’s other direct or indirect subsidiaries, employs the Executive; and 
+
+WHEREAS, the Parent has adopted the Amended and Restated Warner Music Group Corp. 2005 Omnibus Award Plan (the “Plan”), pursuant to which awards of options to purchase shares of the Parent’s Common Stock may be granted to persons, including persons regularly employed by the Parent or its Affiliates; and 
+
+WHEREAS, the Board of Directors of Parent (the “Board”) has determined that it is in the best interests of Parent and its stockholders to grant to the Executive as of the Date of Grant an option to purchase shares of Common Stock of Parent (“Common Stock”), as provided for herein (the “Stock Option Award”); 
+
+NOW, THEREFORE, for and in consideration of the mutual covenants hereinafter set forth, the parties hereto agree as follows: 
+
+1\. Grant. Parent hereby grants on the Date of Grant to the Executive an option (the “Option”) to purchase 2,750,000 shares of Common Stock (such shares of Common Stock, the “Option Shares”), on the terms and conditions set forth in the Plan and this Agreement. This Option is not intended to be treated as an incentive stock option under Section 422 of the Code. The number and type of Option Shares purchasable hereunder shall be subject to adjustment as and in the manner provided in Section 11 below. 
+
+2\. Incorporation by Reference, Etc. The provisions of the Plan are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement shall be construed in accordance with the provisions of the Plan and any capitalized terms not otherwise defined in this Agreement shall have the definitions set forth in the Plan. As used herein with respect to any person, the term “Affiliate” shall mean any entity that directly or indirectly is controlled by, controls or is under common control with such person. The Board shall have final authority to interpret and construe the Plan and this Agreement and to make any and all determinations under them, and its decision shall be binding and conclusive upon the Executive and his legal representative in respect of any questions arising under the Plan or this Agreement. 
+
+3\. Option Price. The price at which the Executive shall be entitled to purchase the Option Shares upon the exercise of all or any portion of this Option shall be $5.29 per share, representing the Fair Market Value of the Common Stock as of the Date of Grant. Such exercise price shall be subject to adjustment as and in the manner provided in Section 11 below. 
+
+B-1 
+
+* * *
+
+4\. Expiration Date. Subject to Section 6 hereof, the Option shall expire at the end of the period commencing on the Date of Grant and ending at 11:59 p.m. Eastern Time (“ET”) on the day preceding the tenth anniversary of the Date of Grant (the “Option Period”). 
+
+5\. Exercisability of the Option.
+
+(a) General. Except as may otherwise be provided herein, the Option shall become vested and exercisable in five equal installments on the day prior to each of the first, second, third, fourth and fifth anniversaries of the Date of Grant (i.e., the vesting dates shall be March 14 of 2009, 2010, 2011, 2012 and 2013, respectively) provided that the Executive remains employed with the Company on each such date, such that one hundred percent (100%) of the Option shall be vested and exercisable on the day prior to the fifth anniversary of the Date of Grant. 
+
+(b) Effect of Certain Terminations of Employment. Upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent for any reason, any then remaining portion of the Unvested Option shall be immediately terminated without the receipt of consideration by the Executive, as more fully set out below, except as set out in clauses (iv), (v) and (vi) below: 
+
+(i) Termination for Cause. Upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent due to a termination for Cause at any time, the entire Option (regardless of whether then vested) shall be immediately terminated without the receipt of consideration by the Executive. 
+
+(ii) Termination without Cause or for Good Reason. Except as provided in Sections 5(b)(v)-(vi) below, upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent due to a termination without Cause or for Good Reason, any then remaining portion of the Unvested Option shall be immediately terminated without the receipt of consideration by the Executive. 
+
+(iii) Voluntary Termination without Good Reason. Except as provided in Section 5(b)(vi) below, upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent due to a voluntary termination without Good Reason, any then remaining portion of the Unvested Option shall be immediately terminated without the receipt of consideration by the Executive. 
+
+(iv) Termination Due to Death or Disability. Except as provided in Section 5(b)(vi) below, in the event of the Executive’s cessation of employment with the Company or any Affiliate of the Parent by reason of the Executive’s death or Disability, the additional portion, if any, of the Option that would have become vested and exercisable if the Executive had remained employed by the Company for 12 months following such termination date will become immediately vested and exercisable as of such termination date. Any remaining portion of the Unvested Option (after giving effect to the preceding sentence) shall be immediately terminated without the receipt of consideration by the Executive. 
+
+B-2 
+
+* * *
+
+(v) Termination without Cause or for Good Reason in Connection with a Change in Control. Upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent due to a termination without Cause or for Good Reason, in each case, provided that such termination occurs on or after, or in anticipation of, a Change in Control, including an “EMI Change in Control” (as defined below), the Option shall become fully vested and exercisable. 
+
+(vi) Termination for any Reason Other than for Cause Upon or Following an EMI Change in Control. Upon the Executive’s cessation of employment with the Company or any Affiliate of the Parent for any reason (including due to voluntary termination by the Executive, death or Disability) other than by the Company for Cause, provided that such termination occurs on or after an EMI Change in Control, the Option shall become fully vested and exercisable. For the purposes of this Agreement, an “EMI Change in Control” shall mean a transaction that constitutes a Change in Control pursuant to which EMI Group Limited or its Affiliates (including, without limitation, any consortium of investors controlled by EMI Group Limited or its Affiliates) directly or indirectly acquires (including, without limitation, by way of a merger, consolidation, reorganization or similar transaction) a controlling interest in the Common Stock or assets of Parent (for purposes of this clause (vi), a “controlling interest” shall mean an interest which represents directly or indirectly through one or more entities, more than 50% of the economic interests in or voting power of Parent or such other surviving entity immediately after such Change in Control and the power to elect a majority of the entire board of directors of Parent or such other surviving entity immediately after such Change in Control) in exchange for consideration that is at least 90% comprised of cash; provided that, immediately following any such Change in Control, 10% or less of the voting securities of the surviving entity are owned by entities that were deemed to be part of a group pursuant to Rule 13d-5(b)(1) of the Securities Exchange Act of 1934, as amended, with respect to Parent’s Common Stock immediately prior to such Change in Control. 
+
+(c) The term “Vested Option,” as used herein, shall mean the portion of the Option on and following the time that the vesting condition set forth in Section 5(a) or 5(b) hereof has been satisfied as to such portion. The portion of the Option which has not become the Vested Option is hereinafter referred to as the “Unvested Option.” 
+
+(d) The Option may be exercised only as to the Vested Option, and only by written notice using the applicable form provided by Parent delivered in person or by mail in accordance with Section 12(a) hereof and accompanied by payment therefor. The purchase price of the Option Shares shall be paid by the Executive to Parent (A) by certified check or wire transfer (using such wire transfer instructions as are provided by Parent or the Company), (B) by transferring to Parent shares of Common Stock, if and in the manner approved by Parent, (C) by a broker-assisted “cashless exercise” procedure if and in the manner approved by the Committee, or (D) by any other method approved in 
+
+B-3 
+
+* * *
+
+writing by the Committee. If requested by Parent, the Executive shall promptly deliver his copy of this Agreement evidencing the Option to the Secretary of Parent who shall endorse thereon a notation of such exercise and promptly return such Agreement to the Executive. Upon payment of the applicable purchase price and the issuance of the Option Shares in accordance with the terms and conditions of this Agreement, the Option Shares shall be validly issued, fully paid and nonassessable. 
+
+(e) In the event that the Common Stock ceases to be traded on an Exchange following a transaction or other event that does not constitute a Change in Control, then, notwithstanding any provision of the Plan, the Option shall be treated in the same manner as Parent and the Company treat stock options then held by the employees of the Company generally. 
+
+6\. Exercise Period for Vested Option Following Termination of Employment on Option. 
+
+(a) For purposes of this Agreement, the Executive’s employment may be terminated (i) by the Company for Cause or by the employee in violation of any applicable employment agreement (a “6(a)(i) Termination”), (ii) by the Executive other than as a Retirement or for Good Reason and without any violation of any applicable employment agreement (a “6(a)(ii) Termination”), (iii) by the Company without Cause (including on account of Disability), or on account of the Executive’s death or by the Executive for Good Reason (a “6(a)(iii) Termination”) or (iv) by the Executive on account of Retirement (a “6(a)(iv) Termination”). For purposes of the preceding sentence, “Retirement” shall mean the Executive’s voluntary termination of employment with the Company on or after the age of 62, after no less than 10 years of employment with the Company. 
+
+(b) The Vested Option shall remain exercisable by the Executive until the earlier of the last day of the Option Period or, as applicable, (i) thirty (30) days following the date of a 6(a)(i) Termination or a 6(a)(ii) Termination, (ii) one hundred and twenty (120) days following the date of a 6(a)(iii) Termination and (iii) the last day of the Option Period, in the case of a 6(a)(iv) Termination. 
+
+7\. Compliance with Legal Requirements. The granting and exercising of the Option, and any other obligations of the Company under this Agreement shall be subject to all applicable federal and state laws, rules and regulations and to such approvals by any regulatory or governmental agency as may be required. Parent, in its sole discretion, may postpone the issuance or delivery of Option Shares as Parent may consider appropriate and may require the Executive to make such representations and furnish such information as it may consider appropriate in connection with the issuance or delivery of Option Shares in compliance with applicable laws, rules and regulations. 
+
+8\. Transferability. Except as described in Section 12(k) of the Plan, the Option shall not be transferable by the Executive other than by will or the laws of descent and distribution, and any such purported transfer shall be void and unenforceable against Parent; provided that the designation of a beneficiary shall not constitute a transfer or encumbrance. 
+
+B-4 
+
+* * *
+
+9\. Rights as Stockholder. The Executive shall not be deemed for any purpose to be the owner of any shares of Common Stock subject to this Option unless, until and to the extent that (A) this Option shall have been exercised pursuant to its terms, (B) Parent shall have issued and delivered to the Executive the Option Shares, and (C) the Executive’s name shall have been entered as a stockholder of record with respect to such Option Shares on the books of Parent. 
+
+10\. Tax Withholding. Prior to the delivery of a certificate or certificates representing the Option Shares, the Executive must pay in the form of a certified check to Parent or the Company (as designated by Parent) any such additional amount as Parent (or the Company) determines that it is required to withhold under applicable federal, state or local tax laws in respect of the exercise or the transfer of Option Shares; provided that the Committee may, in its sole discretion, allow such withholding obligation to be satisfied by withholding Option Shares otherwise deliverable upon exercise of the Option or by any other method. 
+
+11\. Adjustments for Stock Splits, Stock Dividends, etc.; Change in Control. Awards shall be subject to adjustment, substitution, or cancellation as determined by the Committee in its sole discretion, as is fully set forth in Section 13 of the Plan. 
+
+12\. Miscellaneous.
+
+(a) Notices. Any notice, consent, request or other communication made or given in accordance with this Agreement shall be in writing and shall be deemed to have been duly given when actually received or, if mailed, three days after mailing by registered or certified mail, return receipt requested, or one business day after mailing by a nationally recognized express mail delivery service with instructions for next-day delivery, to those persons listed below at their following respective addresses or at such other address or person’s attention as each may specify by notice to the others: 
+
+To Parent: 
+
+Warner Music Group Corp. 
+
+75 Rockefeller Plaza 
+
+New York, New York 10019 
+
+Attention: General Counsel 
+
+To the Executive: 
+
+The most recent address for the Executive in the records of Parent or the Company. The Executive hereby agrees to promptly provide Parent and the Company with written notice of any change in the Executive’s address for so long as this Agreement remains in effect. 
+
+(b) Bound by Plan and Stockholders Agreement. By signing this Agreement, the Executive acknowledges that he has received a copy of the Plan and has had an opportunity to review the Plan and agrees to be bound by all the terms and provisions of the Plan. Additionally, the Executive acknowledges that any shares of Common Stock acquired upon exercise of the Option shall be subject to the terms of the Amended and Restated Stockholders Agreement, dated as of May 10, 2005, by and among Parent, WMG Holdings Corp., the Company, Executive and certain other stockholders of Parent (the “Stockholders Agreement”). 
+
+B-5 
+
+* * *
+
+(c) Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law. 
+
+(d) No Rights to Employment. Nothing contained in this Agreement shall be construed as giving the Executive any right to be retained, in any position, as an employee, consultant or director of the Company or its Affiliates or shall interfere with or restrict in any way the right of the Company or its Affiliates, which are hereby expressly reserved, to remove, terminate or discharge the Executive at any time for any reason whatsoever. 
+
+(e) Beneficiary. The Executive may file with Parent a written designation of a beneficiary on such form as may be prescribed by Parent and may, from time to time, amend or revoke such designation. If no designated beneficiary survives the Executive, the executor or administrator of the Executive’s estate shall be deemed to be the Executive’s beneficiary. 
+
+(f) Successors. The terms of this Agreement shall be binding upon and inure to the benefit of Parent and its successors and assigns, and of the Executive and the beneficiaries, executors, administrators, heirs and successors of the Executive. 
+
+(g) Entire Agreement. This Agreement contains the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersedes all prior communications, representations and negotiations in respect thereto. No change, modification or waiver of any provision of this Agreement shall be valid unless the same be in writing and signed by the parties hereto. 
+
+(h) GOVERNING LAW; CONSENT TO JURISDICTION. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE APPLICABLE TO AGREEMENTS MADE AND TO BE WHOLLY PERFORMED WITHIN THAT STATE. ANY ACTION TO ENFORCE THIS AGREEMENT MUST BE BROUGHT IN A COURT SITUATED IN, AND THE PARTIES HEREBY CONSENT TO THE JURISDICTION OF, COURTS SITUATED IN NEW YORK COUNTY, NEW YORK. EACH PARTY HEREBY WAIVES THE RIGHTS TO CLAIM THAT ANY SUCH COURT IS AN INCONVENIENT FORUM FOR THE RESOLUTION OF ANY SUCH ACTION. 
+
+(i) JURY TRIAL WAIVER. THE PARTIES EXPRESSLY AND KNOWINGLY WAIVE ANY RIGHT TO A JURY TRIAL IN THE EVENT ANY ACTION ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT IS LITIGATED OR HEARD IN ANY COURT. 
+
+B-6 
+
+* * *
+
+(j) Interpretations. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement. The term “Company” as used herein with reference to the employment of the Executive or the termination thereof shall refer to the Company, Parent and each of their direct and indirect subsidiaries. 
+
+(k) Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. The parties hereto confirm that any facsimile copy of another party’s executed counterpart of this Agreement (or its signature page thereof) will be deemed to be an executed original thereof. 
+
+B-7 
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first set forth above.   
+  
+WARNER MUSIC GROUP CORP.  
+  
+/s/ Paul Robinson  
+  
+By: Paul Robinson  
+Title: EVP and General Counsel  
+EXECUTIVE  
+  
+/s/ Edgar Bronfman, Jr.  
+  
+Name: Edgar Bronfman, Jr.  
+  
+B-8 
+
+* * *
+
+NOTICE OF OPTION EXERCISE 
+
+To exercise your option to purchase shares of Warner Music Group Corp. (“Parent”) common stock (“Shares”), please fill out this form and return it to the Corporate Secretary of Parent, together with a certified check in the amount of the exercise price due, which is the product of the number of Shares with respect to which you are exercising the Option and the per share exercise price per share in your Stock Option Agreement. At its option, Parent may provide for the exercise price to be paid in a different manner. You are not required to exercise your option with respect to all Shares thereunder. You also must include a certified check in the amount of any required payroll taxes and income tax withholding due in connection with your exercise, unless Parent specifically provides for such obligation to be satisfied in a different manner (such as the “cashless exercise” method set forth below). 
+
+I hereby exercise my right to purchase  Shares under the option granted to me pursuant to the Stock Option Agreement between myself and Parent, dated as of  . My option is vested and exercisable as to the Shares being purchased hereunder. 
+
+Please note below the form of payment elected: 
+
+Cashless Exercise: 
+
+¨ I elect to pay both the exercise price and required payroll taxes and income tax withholding through a “cashless exercise”. Under this method, Merrill Lynch will sell some or all of the Shares immediately, with part of the proceeds being used to pay the exercise price, taxes and brokerage fees. The remaining proceeds (net of the exercise price, any withholding and brokerage commissions or other fees) will be paid to the option holder. 
+
+Exercise with Cash Payment: 
+
+¨ I have enclosed either one or more certified checks covering both the exercise price of $ and the required payroll taxes and income tax withholding of $ . (Please contact Trent N. Tappe to determine the amount of any required payroll taxes and income tax withholding.) 
+
+If electing the cashless exercise form of payment above, this represents a sale of Shares. You will need to obtain any necessary pre-clearance required by Parent’s Insider Trading Policy prior to completing any such exercise. Additionally, any sale of Shares must comply with and will be subject to the terms of the Stockholders Agreement. 
+
+I hereby represent that, to the best of my knowledge and belief, I am legally entitled to exercise this option.   
+  
+Signature:  
+  
+Printed Name:  
+  
+Social Security Number:  
+  
+Date:  
+  
+B-9 

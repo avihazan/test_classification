@@ -1,0 +1,267 @@
+EXHIBIT 10.1 
+
+
+
+This LOAN AGREEMENT (the “Agreement”) is entered into as of May 22, 2003 by and between Digital Production Solutions, Inc., a Delaware corporation (“Lender”), and Film Roman, Inc., a Delaware corporation ( “Borrower”). 
+
+WHEREAS, Lender or its designee is willing to lend to Borrower up to $2,059,125.87 under the terms and subject to the conditions contained herein; and 
+
+WHEREAS, Borrower is willing to borrow from Lender up to $2,059,125.87 under the terms and subject to the conditions contained herein.
+
+NOW, THEREFORE, in consideration of the covenants, warranties and mutual agreements contained herein and in reliance upon the representations and warranties contained herein, the parties hereto agree as follows: 
+
+SECTION 1 DEFINITIONS
+
+In addition to the other terms defined herein, as used in this Agreement the following terms shall have the following respective meanings: 
+
+“Business Day” means any day which is not a Saturday, a Sunday or a day on which banks are required or permitted to be closed in the State of New York. 
+
+“Convertible Note” means the convertible note of Borrower issued to Lender substantially in the form of Exhibit A hereto. 
+
+“Event of Default” means any event of default described in Section 6 hereof. 
+
+“Liabilities” means all debts, liabilities and obligations of Borrower to Lender hereunder of every kind, nature and description, now existing or hereafter incurred, matured or unmatured, direct or indirect, primary or secondary, joint or several, absolute or contingent, due or to become due, regardless of how the same may be evidenced, and including any extensions and renewals thereof or a part thereof, together with interest, fees, charges, expenses and costs of collection (including reasonable attorney’s fees). 
+
+“Loan Documents” means this Agreement, the Convertible Note, the Security Agreement, the Pledge Agreement and all other agreements and instruments extending, renewing, refinancing or rebinding any Liabilities arising under any of the foregoing, in each case as the same may be amended, modified or supplemented from time to time hereafter. 
+
+“Person” means any individual, partnership, corporation or other legal entity. 
+
+“Pledge Agreement” means that certain Pledge Agreement between Lender and Borrower, dated as of the date hereof. 
+
+“Security Agreement” means that certain Guarantee and Security agreement among Lender, Borrower and the subsidiaries of Borrower, dated as of the date hereof. 
+
+* * *
+
+SECTION 2 LOAN TERMS
+
+2.1. Amounts to be Loaned. Lender or its designee shall, subject to the terms and conditions contained herein, lend hereunder to Borrower, from time to time, and upon request of Borrower, amounts which, when added to amounts outstanding to Borrower hereunder, shall not exceed, in the aggregate, the principal sum of Two Million Fifty Nine Thousand One Hundred Twenty Five and 87/100 Dollars ($2,059,125.87); provided, however, that until the Company amends its Certificate of Incorporation to increase the number of its authorized shares of Common Stock, par value $0.01 per share to 60,000,000 and such amendment becomes effective, the amount borrowed by Borrower under this Agreement shall not exceed One Million Seven Hundred Fifty Five Thousand One Hundred Forty Eight and 77/100 Dollars ($1,755,148.77). Upon execution of this Agreement, Lender shall loan to Borrower under this Agreement the sum of Fifty Nine Thousand One Hundred Twenty Five and 87/100 Dollars ($59,125.87) in cash by wire transfer of immediately available funds. 
+
+The obligation of Lender to make any loan under this Agreement is subject to the fulfillment by Borrower of the conditions set forth in Section 3 hereof and the accuracy of the representations and warranties contained in Section 4 hereof as of the date of each loan. Each such representation and warranty shall be true on and as of the date of each loan hereunder with the same effect as though such representations and warranties had been made on and as of such date; and on each such date no uncured Event of Default and no condition, event or act which, with the giving of notice or the lapse of time, or both, would constitute an Event of Default shall have occurred and be continuing and an authorized officer of Borrower shall provide to Lender a certificate to such effect prior to each loan. 
+
+2.2. Convertible Note. The obligation of Borrower to repay all amounts loaned by Lender pursuant to this Agreement shall be evidenced by the Convertible Note of Borrower, dated the date of this Agreement. 
+
+2.3. Interest. Any principal amount outstanding at the close of each day shall accrue interest at a fluctuating interest rate per annum equal at all times to the sum of (a) the prime bank lending rate as published from time to time in the Wall Street Journal (Eastern Edition) plus (b) 2% per annum (calculated on a year of 360 days and payable for the actual number of days elapsed including any time extended by reason of Saturdays, Sundays and holidays).
+
+2.4. Notice of Borrowing. Borrower shall give Lender not less than ten (10) days’ prior notice of each loan. The notice shall specify the date on which the loan is to be obtained (which shall be a Business Day) and the amount of such loan. 
+
+2.5. Loan Records. Lender shall maintain on its books and records accounts in the name of Borrower showing the date and amount of each loan under this Agreement, as well as the date and amount of each payment of principal by Borrower with respect thereto. 
+
+2.6. Payments; No Revolving Facility. All principal and interest shall be due and payable no later than May 22, 2008 (the “Maturity Date”). Except as otherwise provided in this Agreement, all payments by or on behalf of Borrower shall be made at Lender’s offices at 
+
+* * *
+
+520 Broad Street, Newark, New Jersey 07102, and shall be credited (on a conditional basis subject to collection and final payment) on the day of receipt by Lender, and shall be applied to the Convertible Note, first to any interest due thereon to the date of payment, and the balance, if any, to the unpaid principal of the Convertible Note. The right of Borrower to make such payments in such manner at any time without prepayment premium or penalty is absolute and unconditional; provided, however, that Lender shall not be obligated to relend to Borrower any amounts prepaid by Borrower. 
+
+SECTION 3 CONDITIONS OF LENDING
+
+3.1. Conditions. No loan may be requested (and Lender shall not be obligated to make any loan) hereunder at any time unless as of the date of such loan request, Borrower shall be in compliance with all material terms, conditions and obligations of this Agreement, all of the material representations and warranties contained herein shall be true on and as of such date with the same effect as though the same had been made on and as of such date, no Event of Default, and no condition, event or act which, with the giving of notice or the lapse of time or both, would constitute an Event of Default, shall exist, and all of the following conditions are fully satisfied: 
+
+(a) Convertible Note. Lender shall have received on or before the date hereof the Convertible Note duly executed and delivered by Borrower.   
+  
+(b) Other Indebtedness. Except for amounts owed under the Production Services Agreement, dated February 5, 2003, by and between the Borrower and Twentieth Century Fox Television (the “Fox Payment Obligations”), Borrower shall not have any other indebtedness for borrowed money to any other Person that, as to right of payment, is senior to, or ranks on a parity with, the loans made hereunder.   
+  
+(c) No Notice of Borrower’s Default. Lender shall not have received notice of any default of Borrower in respect of any order, writ, injunction or decree of any court or federal, state, municipal or other governmental department, commission, board, bureau, agency or instrumentality, domestic or foreign unless such default (or alleged default) shall have been cured on or before the date of such request for a loan, and Lender shall have received evidence reasonably satisfactory to it of such cure.   
+  
+SECTION 4 REPRESENTATIONS AND WARRANTIES
+
+Borrower represents and warrants, as of the date hereof and as of the date of each loan hereunder or any renewal thereof, that: 
+
+4.1. Status. Borrower is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware, and has the requisite power and lawful authority to own, lease and operate its respective assets and properties and to carry on its respective business as it is now being conducted. Borrower is duly qualified as a foreign entity to transact business, and is in good standing, in each jurisdiction where the character of its properties, owned or leased, or the nature of its activities, makes such qualification necessary, 
+
+* * *
+
+other than where the failure to be so qualified or licensed would not have a material adverse effect on the business, operations, conditions (financial or otherwise) or future prospects of the business currently being conducted by the Company and its Subsidiaries taken as a whole, other than any effect relating to or arising out of an event, matter, occurrence or action affecting the United States or global economy generally (a “Material Adverse Effect”). 
+
+4.2. Authority. Borrower has all necessary legal right and power and all authority and approval required to enter into, execute and deliver this Agreement, the Convertible Note, and each other Loan Document to which it is a party and to perform fully its respective obligations hereunder and thereunder. The execution and delivery by Borrower of this Agreement, the Convertible Note, and each other Loan Document to which it is a party and the consummation by Borrower of the transactions consummated hereby and thereby have been duly authorized by the board of directors of Borrower and no other proceedings on the part of Borrower are necessary to authorize the execution, delivery and performance of this Agreement, the Convertible Note, and each other Loan Document to which it is a party and the consummation of the transactions consummated hereby and thereby. This Agreement, the Convertible Note, and each other Loan Document have been duly executed and delivered by Borrower and this Agreement, the Convertible Note, and each other Loan Document to which it is a party constitute the valid and binding obligations of Borrower enforceable against Borrower in accordance with their respective terms. Neither the execution and delivery of this Agreement, the Convertible Note, or any other Loan Document, or the consummation of the transactions contemplated hereby or thereby, nor compliance with the terms and provisions hereof or thereof, will conflict with or result in a breach of any of the terms, conditions or provisions of Borrower’s Certificate of Incorporation or By-laws, or of any law or any regulation, or any order, writ, injunction or decree of any court or governmental instrumentality, or of any agreement or instrument to which Borrower is subject, or constitute a default thereunder, or result in the creation or imposition of any lien, charge or encumbrance of any nature whatsoever upon any of Borrower’s property or assets pursuant to the terms of any such agreement or instrument or otherwise except pursuant to and under this Agreement. 
+
+4.3. Financial Statements. The financial statements to be delivered to Lender hereunder will fairly present the consolidated financial condition (including contingent liabilities) of Borrower at the dates thereof in accordance with generally accepted accounting principles consistently applied. 
+
+4.4. Seniority. Except for the Fox Payment Obligations, the loans made hereunder are and shall be senior obligations of Borrower and no other indebtedness of Borrower for borrowed money is senior to, or on a parity with, in right of payment, with the Liabilities or the liabilities of Borrower to Lender under any other debt instrument. 
+
+SECTION 5 GENERAL COVENANTS OF BORROWER
+
+Borrower covenants and agrees, until the Maturity Date and thereafter until final payment in full of the Liabilities, as follows: 
+
+5.1. Reporting Requirements. Borrower shall furnish to Lender: (a) within fifteen (15) days after the end of each month, financial statements indicating Borrower’s 
+
+* * *
+
+financial condition and the results of its operations for each such month; and (b) within sixty (60) days after the end of each fiscal year of Borrower, such financial statements at the end of and for the entire fiscal year. Such financial statements shall fairly present, in all material respects, the results of the operations of Borrower for the periods covered and the financial condition of Borrower as at the end of such periods in accordance with generally accepted accounting principles in the United States consistently applied (subject, in the case of interim financial statements, to good faith year-end adjustments), and each such statement will be certified as such by the president or chief financial officer of Borrower to his or her best knowledge. The financial statements shall be accompanied by a certificate of Borrower’s chief executive officer to the effect that to his or her best knowledge no Event of Default has occurred or, if the same has occurred, the nature thereof. In addition, as soon as possible, and in any event within three Business Days after becoming aware of the occurrence of any Default or Event of Default or any other event or occurrence which has or would reasonably be expected to have a materially adverse effect upon the business, property or financial condition of Borrower, Borrower shall provide to Lender a written statement setting forth details of such Default, Event of Default or other event or occurrence and the action which Borrower has taken or has caused to be taken or proposes to take or cause to be taken with respect thereto. 
+
+5.2. Affirmative Covenants. Borrower will: 
+
+(a) pay all its other debts and discharge all other obligations when due, including all taxes, unless and to the extent that such payment is being contested in good faith by appropriate proceedings;   
+  
+(b) maintain its financial records in accordance with generally accepted accounting principles in the United States;   
+  
+(c) maintain its existence in its state of organization;   
+  
+(d) comply in all material respects with any applicable law, rule or regulation, or any order, writ, injunction or decree of any court or governmental instrumentality, in effect from time to time; and   
+  
+(e) maintain insurance coverage on its physical assets and against other business risks in such amounts and of such types as are customarily covered by companies similar in size and nature to Borrower.   
+  
+5.3. Negative Covenants. Without the prior written consent of Lender, Borrower will not: 
+
+(a) declare or pay any cash dividends, retire or otherwise acquire for value any or all of its capital stock, or return any capital or make any distribution of its assets to its stockholders, except as reasonable salaries or bonuses for labor actually performed or services actually rendered or except as provided under the Borrower’s employee, director or consultant benefit plans.   
+  
+(b) create, incur, assume or suffer to exist any liability for borrowed money;   
+  
+* * *
+
+(c) other than in the ordinary course of Borrower’s business and other than payment of the Fox Payment Obligations, make any payment of principal on any indebtedness for borrowed money (other than on the loans made hereunder);   
+  
+(d) mortgage, pledge, or subject to any lien or otherwise encumber any assets of Borrower;   
+  
+(e) form any new subsidiaries;   
+  
+(f) make any capital purchases or acquisitions, which in the aggregate exceed $150,000; or   
+  
+(g) dissolve, liquidate or wind up its affairs.   
+  
+5.4. Lender’s Costs and Expenses. Borrower hereby expressly agrees to remit to Lender forthwith all costs and expenses reasonably incurred by Lender in connection with the collection of the Convertible Note (including reasonable attorney’s fees and court costs); together with interest on any of the above from the date of such expenditure to the date of repayment in full to Lender at the rate of interest payable on the Convertible Note. At its option, Lender may charge such costs, expenses and amounts as a loan pursuant to this Agreement. 
+
+SECTION 6 DEFAULT
+
+6.1. Events of Default. Without limitation of any of Lender’s rights as provided elsewhere in this Agreement, upon the occurrence of any of the following, an Event of Default shall have occurred, Lender’s obligation to lend hereunder shall terminate and, at Lender’s option, after the expiration of thirty (30) days from the delivery in accordance with Section 8.6 hereof of written notice to Borrower of the occurrence thereof (during which thirty (30) day period Borrower shall have the opportunity to cure such Event of Default), all Liabilities shall become immediately due and payable without notice, presentation or demand of any kind, all of which are hereby waived, provided that no acceleration of the Liabilities shall occur if such Event of Default shall be cured to Lender’s reasonable satisfaction prior to the expiration of such thirty (30) day period: 
+
+(a) Borrower fails to pay when due any principal or any interest (in accordance with Section 2.3 hereof) on the Convertible Note;   
+  
+(b) Borrower fails or neglects to perform, keep or observe (i) any of the provisions of Section 5.2 hereof, (ii) any of the provisions of Section 5.3 hereof, or (iii) any material term, covenant or agreement on its part to be performed or observed in any Loan Document;   
+  
+(c)
+
+(i) Borrower defaults in any payment of the principal of or interest on any obligation(s) for borrowed money or evidences of indebtedness for borrowed money (other than hereunder), whether owing to Lender or any other Person, or in the performance of any other term or condition contained in any agreement under which any such obligation(s) for   
+  
+* * *
+
+borrowed money or evidences of indebtedness for borrowed money is created, and such default(s) shall continue beyond the period of grace, if any, specified therein, and (ii) such obligation or indebtedness is accelerated; or   
+  
+(d) Final judgment(s) singly or in the aggregate amount of twenty-five thousand dollars ($25,000.00) or more at any one time outstanding are rendered against Borrower, and remain unsatisfied for a period of thirty (30) days thereafter.   
+  
+6.2. Further Events of Default. Lender’s obligation to lend hereunder shall terminate and all Liabilities shall become immediately due and payable without notice, presentation or demand of any kind, all of which are hereby waived upon the occurrence of any of the following events, each of which shall constitute an Event of Default: 
+
+(a) Borrower fails to comply with its obligations under Section 5.1 of the Stock Purchase Agreement, dated as of the date hereof, between Borrower and Lender;   
+  
+(b) Borrower becomes insolvent or generally fails to pay, or admits in writing its inability to pay, its debts when due;   
+  
+(c) Borrower makes an assignment for the benefit of creditors, commences a case in bankruptcy, or commences any proceeding under any other insolvency law;   
+  
+(d) A case in bankruptcy or any proceeding under any other insolvency law is commenced against Borrower and the case or proceeding is not dismissed within sixty (60) days; or   
+  
+(e) A trustee, receiver or agent is appointed or authorized to take charge of substantially all of the property of Borrower for the purpose of enforcing a lien against such property or for the purpose of general administration of such property for the benefit of creditors.   
+  
+SECTION 7 CONVERSION
+
+Lender may, in its sole discretion, at any time when any principal and/or accrued interest remains outstanding hereunder, convert such unpaid principal and accrued but unpaid interest, in whole or in part, into fully paid and nonassessable shares of Common Stock, par value $0.01 per share, of Borrower as set forth in Section 3 of the Convertible Note. 
+
+SECTION 8 MISCELLANEOUS
+
+8.1. Security. As an inducement to Lender to enter into this Agreement (i) Borrower and each of its subsidiaries shall enter into the Security Agreement with Lender and (ii) Borrower shall enter into the Pledge Agreement for the benefit of Lender. 
+
+* * *
+
+8.2. Waivers and Enforcement of Rights. To the extent permitted by law and except as otherwise provided in this Agreement, Borrower expressly waives all rights to any notice of hearing and to any hearing prior to the taking of any action by Lender under and pursuant to this Agreement. Borrower waives demand, notice of default, protest, presentment, notice of acceptance of this Agreement, notice of loans made, credit extended, or other action taken in reliance hereon and all other demands and notices of any description except as otherwise expressly provided herein. Borrower hereby waives promptness by Lender in making any demand upon Borrower, and agrees that no delay or omission by Lender in exercising any of its rights hereunder or under any other agreement or instrument between Borrower and Lender shall be deemed to constitute a waiver of such Lender’s rights. Failure by Lender to exercise any right, remedy or option under this Agreement or delay by Lender in exercising the same will not operate as a waiver. No waiver by Lender will be effective unless it is confirmed in writing by Lender and then only to the extent specifically stated therein. All rights and remedies of Lender hereunder shall be cumulative and may be exercised singularly or concurrently. 
+
+8.3. Successors and Assigns. The covenants, representations, warranties and agreements herein set forth shall be binding upon Borrower, its successors and assigns and shall inure to the benefit of Lender, its successors and assigns. Lender may assign this Agreement, and any or all of its rights and obligations hereunder, to one or more third parties, however, no part of this Agreement may be assigned by Borrower without the prior written consent of the Lender. Any permitted purchaser, assignee, transferee or pledgee of any of the Liabilities shall forthwith become vested with and entitled to exercise all the powers and rights given by this Agreement to Lender, as if said purchaser, assignee, transferee or pledgee were originally named herein. 
+
+8.4. Maturity Date; Duration. This Agreement shall have an initial term from the date hereof through and including the Maturity Date. Unless this Agreement shall be earlier terminated in accordance with the provisions hereof or the Liabilities become due and payable as provided herein, all Liabilities shall be due and payable on the Maturity Date. Upon the effective date of termination all of the Liabilities shall become immediately due and payable without further notice or demand. Lender’s rights with respect to obligations owing to it prior to the effective date of termination will not be affected by termination, and all of the provisions of this Agreement shall continue to be operative until all such obligations have been fully satisfied. 
+
+8.5. ENTIRE AGREEMENT; AMENDMENT; SEVERABILITY. THIS AGREEMENT AND THE LOAN DOCUMENTS CONSTITUTE THE ENTIRE AGREEMENT BETWEEN THE PARTIES WITH RESPECT TO THE SUBJECT MATTER HEREOF AND SHALL BE GOVERNED BY THE LAWS OF THE STATE OF DELAWARE, WITHOUT GIVING EFFECT TO ANY CHOICE OF LAW OR CONFLICT OF LAW PROVISIONS. None of the terms or provisions hereof may be waived, altered, modified, or amended in respect of Borrower except by an agreement in writing signed by Lender and Borrower. If at any time one or more provisions of this Agreement, any amendment or supplement thereto or any related writing is or becomes invalid, illegal or unenforceable in whole or in part, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby. 
+
+* * *
+
+8.6. Notices. Any notices, request, demand or other communication required or permitted hereunder shall be in writing and shall be deemed to have been given if delivered or sent by facsimile transmission, upon receipt, if by hand delivery, upon receipt, if sent by nationally recognized overnight courier service, one day after deposit with such, or if sent by registered or certified mail, upon the sooner of the date on which receipt is acknowledged or the expiration of three days after deposit in United States post officer facilities properly addressed with postage prepaid. All notices to a party will be sent to the addresses set forth below or to such other address or person as such party may designate by notice to each other party hereunder. 
+
+If to Lender, to:
+
+Digital Production Solutions, Inc.
+
+c/o IDT Corporation
+
+520 Broad Street
+
+Newark, NJ 07102
+
+Attention: Morris Berger
+
+Facsimile: 973-438-1741  
+  
+With a copy to:
+
+McDermott, Will & Emery
+
+50 Rockefeller Plaza
+
+New York, NY 10020
+
+Attention: Mark Selinger, Esq.
+
+Facsimile: 212-547-5444  
+  
+If to Borrower, to:
+
+Film Roman, Inc.
+
+12020 Chandler Boulevard, Suite 200
+
+North Hollywood, CA 91607
+
+Attn: Chief Executive Officer
+
+Facsimile: 818-985-2973  
+  
+With a copy to:
+
+Dixon Q. Dern, Esq.
+
+1901 Avenue of the Stars, Suite 400
+
+Los Angeles, CA 90067
+
+Facsimile: 310-557-2224  
+  
+With a copy to:
+
+Shaw Pittman LLP
+
+2029 Century Park East, Suite 2550
+
+Los Angeles, CA 90067
+
+Attn: John J. Molloy, III, Esq.
+
+Facsimile: 310-551-4501  
+  
+8.7. Consent to Jurisdiction. Each of the parties hereby agrees that any dispute among them or any claim, suit or proceeding arising under this Agreement shall be brought before the federal or state courts sitting in Delaware, and hereby consents to personal jurisdiction, service of process and venue in the federal or state courts of Delaware for such claim, suit or proceeding. 
+
+* * *
+
+8.8. Counterparts. This Agreement may be executed in several counterparts each of which shall be an original and all of which shall constitute but one and the same instrument. 
+
+8.9. Headings. The headings to Sections appearing in this Agreement have been inserted for the purpose of convenience and ready reference. They do not purport to, and shall not be deemed to, define, limit or extend the scope or intent of the Sections to which they appertain. 
+
+IN WITNESS WHEREOF, the parties have caused this Loan Agreement to be executed by their duly elected officers duly authorized as of the date first above written. 
+
+DIGITAL PRODUCTION SOLUTIONS, INC.  
+  
+By:
+
+/s/ Morris Berger 
+
+* * *  
+  
+Name: Morris Berger
+
+Title: President  
+  
+FILM ROMAN, INC.  
+  
+By:
+
+/s/ John W. Hyde 
+
+* * *  
+  
+Name: John W. Hyde
+
+Title: Chief Executive Officer

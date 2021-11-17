@@ -1,0 +1,140 @@
+  
+
+
+  
+
+
+Exhibit 10.2
+
+  
+
+
+Ingersoll-Rand plc
+
+
+
+  
+
+
+Restricted Stock Unit Award Agreement
+
+Dated as of [Grant Date] ("Grant Date")
+
+  
+
+
+Ingersoll-Rand plc (the “Company”) hereby grants to [insert name] (“Participant”) a restricted stock unit award (the “RSUs”) with respect to [insert number of shares subject to RSUs] ordinary shares of the Company (the “Shares”), pursuant to and subject to the terms and conditions set forth in the Company’s Incentive Stock Plan of 2013 (the “Plan”) and to such further terms and conditions set forth in this Restricted Stock Unit Award Agreement (the “Award Agreement”). Unless otherwise defined herein, the terms defined in the Plan shall have the same meanings in this Award Agreement.
+
+1.Vesting and Issuance of Shares; Dividend Equivalents.
+
+(a)Participant’s right to receive Shares subject to the RSUs shall vest ____.
+
+(b)Participant shall be entitled to receive an amount equal to any cash dividend paid by the Company upon one Share for each RSU held by Participant when such dividend is paid (“Dividend Equivalent”), provided that, (i) Participant shall have no right to receive the Dividend Equivalents unless and until the associated RSUs vest, (ii) Dividend Equivalents shall not accrue interest and (iii) Dividend Equivalents shall be paid in cash at the time that the associated RSUs vest.
+
+(c)If Participant’s employment terminates involuntarily by reason of a group termination (including, but not limited to, terminations resulting from sale of a business or division, outsourcing of an entire function, reduction in workforce or closing of a facility) (a “Group Termination Event”), the number of Shares subject to the RSUs that would have vested within 12 months of termination of Participant’s active employment shall vest as of the date of termination of active service (such date also being a “Vesting Date”) and all other RSUs and associated Dividend Equivalents shall be forfeited as of the date of termination of active employment, and Participant shall have no right to or interest in such RSUs, the underlying Shares or any associated Dividend Equivalents. In the event Participant's employer ceases to be an Affiliate (as defined in the Plan) as a result of a Major Restructuring, this will not constitute a Group Termination Event.
+
+(d)If Participant’s employment terminates due to an Involuntary Loss of Job that occurs between the Grant Date and the first anniversary of completion of a Major Restructuring, the Shares subject to the RSUs that have not yet vested shall vest as of the date of such termination of employment (such date also being a “Vesting Date”); however, if Participant has attained age 55 with at least 5 years of service as of such date, the Shares subject to the RSUs that have not yet vested shall continue to vest in accordance with Section 1(f) below.
+
+(e)If Participant’s employment terminates by reason of disability, the Shares subject to the RSUs that have not yet vested shall vest as of the date of such termination of employment (such date also being a “Vesting Date”).
+
+(f)Notwithstanding the provisions of Section 1(c) through (e) above, if Participant’s employment terminates after attainment of age 55 with at least 5 years of service (“Retirement”), the Shares subject to the RSUs shall continue to vest according to the schedule set forth in Section 1(a), notwithstanding such termination of employment.
+
+(g)Notwithstanding the provisions of Section 1(f) above, if Participant’s employment terminates due to death, the Shares subject to the RSUs that have not yet vested shall vest as of the date of such termination of employment (such date also being a “Vesting Date”).
+
+(h)If Participant’s employment terminates (i) for any reason or in any circumstances other than those specified in Section 1(c) through (g) above or (ii) for cause in the circumstances specified in Section 1(f) above, all unvested RSUs and associated Dividend Equivalents shall be forfeited as of the date of termination of active employment and Participant shall have no right to or interest in such RSUs, the underlying Shares or any associated Dividend Equivalents. For purposes of this Section 1(h), “cause” shall mean (x) any action by Participant involving willful 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+malfeasance or willful gross misconduct having a demonstrable adverse effect on the Company or an Affiliate; (y) Participant being convicted of a felony under the laws of the United States or any state or district (or the equivalent in any foreign jurisdiction); or (z) any material violation of the Company’s code of conduct, as in effect from time to time.
+
+(i)On or as soon as administratively practicable following each Vesting Date, the Company shall cause to be issued to Participant Shares with respect to the RSUs that become vested on such Vesting Date. However, if the RSUs are considered an item of deferred compensation under Section 409A of the Code and the Shares are distributable by reason of a Participant’s separation from service (within the meaning of Section 409A(a)(2)(A)(i) of the Code) during the period that Participant is both subject to U.S. federal income taxation and a “specified employee” (within the meaning of Section 409A(a)(2)(B)(i) of the Code), any Shares that would otherwise be issuable during the 6 month period immediately following Participant’s separation from service will be issued on the first day of the 7th month following Participant’s separation from service (or, if Participant dies during such period, within 30 days after Participant’s death). Such Shares shall be fully paid and non-assessable. Participant will not have any of the rights or privileges of a shareholder of the Company in respect of any Shares subject to the RSUs unless and until such Shares have been issued to Participant. 
+
+2.Definitions.
+
+(a)Cause, for purposes of Section 2(c) below, shall mean (i) any action by Participant involving willful malfeasance or willful gross misconduct having a demonstrable adverse effect on the Company or an Affiliate; (ii) substantial failure or refusal by Participant to perform his or her employment duties, which failure or refusal continues for a period of 10 days following delivery of written notice of such failure or refusal to Participant by the Company or an Affiliate; (iii) Participant being convicted of a felony under the laws of the United States or any state or district (or the equivalent in any foreign jurisdiction); or (iv) any material violation of the Company’s code of conduct, as in effect from time to time.
+
+(b)Good Reason shall mean (i) a substantial diminution in Participant’s job responsibilities or a material adverse change in Participant’s title or status (however, performing the same job for a smaller organization following a Major Restructuring shall not constitute Good Reason); (ii) a reduction of Participant’s base salary or target bonus (however, a reduction of Participant’s base salary or target bonus shall not constitute Good Reason if there is a broad-based reduction in the base salary or target bonus applicable to employees in the Company or an Affiliate) or the failure to pay Participant’s base salary or bonus when due or the failure to maintain on behalf of Participant (and his or her dependents) benefits which are at least comparable in the aggregate to those in effect prior to the completion of the Major Restructuring; or (iii) the relocation of the principal place of Participant’s employment by more than 35 miles from Participant’s principal place of employment immediately prior to the completion of the Major Restructuring; however, any of the events described in clauses (i)-(iii) above shall constitute Good Reason only if the Company (or an Affiliate, if applicable) fails to cure such event within 30 days after receipt from Participant of written notice of the event which constitutes Good Reason; and such Participant shall cease to have a right to terminate due to Good Reason on the 90th day following the later of the occurrence of the event or Participant’s knowledge thereof, unless Participant has given the Company written notice thereof prior to such date.
+
+(c)Involuntary Loss of Job shall mean, with respect to any Participant, the termination of such Participant’s employment with the Company or an Affiliate (i) by the Company or an Affiliate without Cause, or (ii) by Participant with Good Reason, unless, with respect to both (i) and (ii), the Company can reasonably demonstrate that such occurrence is not substantially related to, or as a result of, a Major Restructuring. In no event shall Participant’s employer ceasing to be an Affiliate (as defined in the Plan) as a result of a Major Restructuring, on its own, constitute an Involuntary Loss of Job. 
+
+  
+
+
+(d)Major Restructuring shall mean a reorganization, recapitalization, extraordinary stock dividend, merger, sale, spin-off or other similar transaction or series of transactions which, individually or in the aggregate, has the effect of resulting in the elimination of all, or the majority of, any one or more of the Company’s two business segments (i.e., Climate and Industrial), so long as such transaction or transactions do not constitute a Change in Control.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(e)For purposes of this Award Agreement, the term “Affiliate” shall include any entity that was an Affiliate as of the Grant Date if such entity has ceased to be an Affiliate as a result of a Major Restructuring unless otherwise specified herein.
+
+  
+
+
+3.Taxes. Regardless of any action the Company and/or an Affiliate take with respect to any and all federal, state, local or other tax related to Participant’s participation in the Plan and legally applicable to Participant (“Tax-Related Items”), Participant acknowledges that the ultimate liability for all Tax-Related Items is and remains Participant’s responsibility. To satisfy any withholding obligations of the Company or an Affiliate with respect to Tax-Related Items, the Company will withhold Shares otherwise issuable upon settlement of the RSUs. To avoid negative accounting treatment, the Company may withhold for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates. Alternatively, or in addition, the Company may satisfy such withholding obligations by (a) withholding from Participant’s wages or other cash compensation paid to Participant by the Company or an Affiliate, (b) withholding from proceeds of the sale of Shares acquired upon settlement of the RSUs either through a voluntary sale or through a mandatory sale arranged by the Company (on Participant’s behalf pursuant to this authorization without further consent), or (c) requiring Participant to tender a cash payment to the Company or an Affiliate in the amount of the Tax-Related Items; provided, however, that if Participant is a Section 16 officer of the Company under the Act, the withholding methods described in this Section 3 (a), (b) and (c) will only be used if the Committee (as constituted to satisfy Rule 16b-3 of the Act) determines, in advance of the applicable withholding event, that one such withholding method will be used in lieu of withholding Shares. The Company may refuse to issue or deliver the Shares or the proceeds of the sale of Shares, if Participant fails to comply with his or her obligations in connection with the Tax-Related Items.
+
+4.Recoupment Provision. In the event that Participant commits fraud or engages in intentional misconduct that results in a need for the Company to restate its financial statements, then the Committee may direct the Company to (i) cancel any outstanding portion of the RSUs and (ii) recover all or a portion of the financial gain realized by Participant through the RSUs.
+
+5.Electronic Delivery and Participation. The Company may, in its sole discretion, decide to deliver any documents related to participation in the Plan by electronic means. 
+
+6.Acknowledgement & Acceptance within 120 Days. This grant is subject to acceptance, within 120 days of the Grant Date, by electronic acceptance through the website of UBS, the Company’s stock plan administrator. Failure to accept the RSUs within 120 days of the Grant Date may result in cancellation of the RSUs.
+
+Signed for and on behalf of the Company:
+
+  
+
+
+/s/ Michael W. Lamach
+
+__________________________________ 
+
+Michael W. Lamach
+
+Chairman and CEO
+
+Ingersoll-Rand plc
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+This document constitutes part of a prospectus covering securities that have been registered under the Securities Act of 1933.
+
+  
+
+
+  
+
+
+  
+

@@ -1,0 +1,146 @@
+Exhibit 10.4
+
+
+
+OF
+
+SYMBOL TECHNOLOGIES, INC.
+
+THIS AGREEMENT (the “Agreement”) is entered into as of  (the “Award Date”) by and between Symbol Technologies, Inc., a Delaware corporation (the “Company”) and  , an employee of the Company, hereinafter referred to as the “Participant” 
+
+WHEREAS, the Company has adopted the Symbol Technologies, Inc. 2004 Equity Incentive Award Plan (as it may be amended from time to time, the “Plan”), the terms of which are hereby incorporated by reference and made a part of this Agreement; and 
+
+WHEREAS, Article 6 of the Plan provides for the issuance of awards of the Company’s common stock, par value $0.01 per share (“Common Stock”), subject to certain restrictions (“Restricted Stock”); and 
+
+WHEREAS, the Committee described in Article 12 of the Plan (the “Committee”) has determined that it would be to the advantage and best interest of the Company and its stockholders to award shares of Restricted Stock to the Participant pursuant to the terms and conditions set forth herein; and 
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, receipt of which is hereby acknowledged, the parties hereto do hereby agree as follows: 
+
+ARTICLE I  
+DEFINITIONS
+
+Section 1.1 In General. Wherever the following terms are used in this Agreement, they shall have the meanings specified below, unless the context clearly indicates otherwise. Capitalized terms not defined herein shall have the meanings assigned to such terms in the Plan. 
+
+Section 1.2 “EBIT” for a given period shall mean the Company’s consolidated earnings before interest and taxes, as reflected on the Company’s reported financial statements for such period. 
+
+Section 1.3 “Net Assets” as of a given date shall mean the excess of (a) the amount of the Company’s total assets as of such date over (b) the sum of the Company’s non-interest bearing liabilities, including but not limited to: (i) accounts payable, (ii) income taxes payable, (iii) deferred credits, and (iv) other liabilities, in each case as reflected on the Company’s reported financial statements as of such date. 
+
+Section 1.4 “Restrictions” shall mean the restrictions on sale or other transfer set forth in Section 4.2 and the exposure to forfeiture set forth in Section 3.1. 
+
+Section 1.5 “RONA” as of a given date shall mean the Company’s annual rate of “return on net assets” as of such date and shall be equal to the ratio of [ ] 
+
+ARTICLE II.
+
+RESTRICTED STOCK AWARD
+
+Section 2.1 Award of Restricted Stock. In consideration of the Participant’s agreement to remain in the employ of the Company, and for other good and valuable consideration which the Committee has determined exceeds the aggregate par value of the shares of Common Stock subject to the Awards (as defined below), as of the Award Date, the Company issues to the Participant the (a) the Tranche A Award described in Section 3.2(b)(i) (the “Tranche A Award”); (b) the Tranche B Award described in Section 3.2(b)(ii) (the “Tranche B Award”); (c) the Tranche C Award described in Section 3.2(b)(iii) (the “Tranche C Award”); and (d) the Tranche D Award described in Section 3.2(b)(iv) (the “Tranche D Award” and, collectively with the Tranche A, Tranche B and Tranche C Awards, the “Awards”). The number of shares of Restricted Stock subject to each of the Tranche A Award, Tranche B Award, Tranche C Award, and Tranche D Award, is set forth on the signature page hereof. 
+
+Section 2.2 Awards Subject to Plan. The Awards granted hereunder are subject to the terms and provisions of the Plan, including without limitation, Article 11 thereof. 
+
+ARTICLE III.
+
+RESTRICTIONS
+
+Section 3.1 Forfeiture. Any Award which is not vested upon the Participant’s termination of employment with the Company (as determined in good faith by the Committee) shall thereupon be forfeited immediately and without any further action by the Company. 
+
+Section 3.2 Vesting and Lapse of Restrictions
+
+(a) Subject to Sections 3.1, 3.2(b), and 3.3, the Restrictions shall lapse with respect to all shares of Restricted Stock subject to the Awards on the fifth anniversary of the Award Date, provided that the Participant remains continuously employed in active service by the Company from the Award Date through such date. 
+
+(b) Notwithstanding Section 3.2(a), but subject to Sections 3.1 and 3.3: 
+
+(i) Tranche A Award. The Tranche A Award shall vest and the Restrictions with respect thereto shall lapse on the date that the Committee determines that the Company has achieved a cumulative average annual RONA for the Company’s four most recently completed fiscal quarters of [ ]% or more; provided, however, that notwithstanding the foregoing, 50% of the shares subject to the Tranche A Award shall not be eligible to become vested and the Restrictions with respect thereto shall not lapse until the second anniversary of the Award Date (and if the RONA target set forth in this Section 3.2(b)(i) is achieved prior to the second anniversary of the Award Date then such portion of the Tranche A Award will become vested and the Restrictions with respect thereto shall lapse on the second anniversary of the Award Date). 
+
+(ii) Tranche B Award. The Tranche B Award shall vest and the Restrictions with respect thereto shall lapse on the date that the Committee determines that the Company has achieved a cumulative average annual RONA for the Company’s four most recently completed fiscal quarters of [ ]% or more; provided, however, that notwithstanding the foregoing, 60% of the shares subject to the Tranche B Award shall not be eligible to become vested and the Restrictions with respect thereto shall not lapse until the third anniversary of the Award Date (and if the RONA target set forth in this Section 3.2(b)(ii) is achieved prior to the third anniversary of the Award Date then such portion of the Tranche B Award will become vested and the Restrictions with respect thereto shall lapse on the third anniversary of the Award Date). 
+
+(iii) Tranche C Award. The Tranche C Award shall vest and the Restrictions with respect thereto shall lapse on the date that the Committee determines that the Company has achieved a cumulative average annual RONA for the Company’s four most recently completed fiscal quarters of [ ]% or more; provided, however, that notwithstanding the foregoing, 70% of the shares subject to the Tranche C Award shall not be eligible to become vested and the Restrictions with respect thereto shall not lapse until the fourth anniversary of the Award Date (and if the RONA target set forth in this Section 3.2(b)(iii) is achieved prior to the fourth anniversary of the Award Date then such portion of the Tranche C Award will become vested and the Restrictions with respect thereto shall lapse on the fourth anniversary of the Award Date). 
+
+(iv) Tranche D Award. The Tranche D Award shall vest and the Restrictions with respect thereto shall lapse on the date that the Committee determines that the Company has achieved a cumulative average annual RONA for the Company’s four most recently completed fiscal quarters of [ ]% or more; provided, however, that notwithstanding the foregoing, 80% of the shares subject to the Tranche D Award shall not be eligible to become vested and the Restrictions with respect thereto shall not lapse until the fifth anniversary of the Award Date (and if the RONA target set forth in this Section 3.2(b)(iv) is achieved prior to the fifth anniversary of the Award Date then such portion of the Tranche D Award will become vested and the Restrictions with respect thereto shall lapse on the fifth anniversary of the Award Date). 
+
+(c) The Committee shall make the determination as to whether the respective RONA targets described in Section 3.2(b) have been met, and shall determine the extent, if any, to which the any Award has become exercisable, on any such date as the Committee in its sole discretion shall determine; provided, however, that with respect to each fiscal quarter of the Company, such date shall not be later than the 45th day following the last day of such fiscal quarter. 
+
+Section 3.3 Change in Control. Notwithstanding Section 3.2, but subject to Section 3.1, in the event of any Change of Control (as defined in the Plan): 
+
+(a) If the Restrictions have lapsed with respect to any portion of the Tranche A Award pursuant to Section 3.2(b)(i) prior to the date of such Change in Control, then immediately prior to such Change in Control: (i) the Tranche A Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto and (ii) the Tranche B Award will vest and the Restrictions with respect thereto shall lapse with respect to all shares subject thereto. 
+
+(b) If the Restrictions have lapsed with respect to any portion of the Tranche B Award pursuant to Section 3.2(b)(ii) prior to the date of such Change in Control, then this Section 3.3(b) shall apply in lieu of Section 3.3(a) and immediately prior to such Change in Control: (i) the Tranche A Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto, (ii) the Tranche B Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto, and (iii) the Tranche C Award will vest and the Restrictions with respect thereto shall lapse with respect to all shares subject thereto. 
+
+(c) If the Restrictions have lapsed with respect to any portion of the Tranche C Award pursuant to Section 3.2(b)(iii) prior to the date of such Change in Control, then this Section 3.3(c) shall apply in lieu of Section 3.3(a) or 3.3(b) and immediately prior to such Change in Control: (i) the Tranche A Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto, (ii) the Tranche B Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto, (iii) the Tranche C Award shall vest and the Restrictions with respect thereto shall lapse with respect to any remaining shares subject thereto, and (iv) the Tranche D Award will vest and the Restriction with respect thereto shall lapse with respect to all shares subject thereto. 
+
+(d) If no portion of any Award has vested pursuant to Section 3.2(b) prior to the date of such Change in Control, then this Section 3.3(d) shall apply in lieu of Section 3.3(a), 3.3(b) or 3.3(c) and no portion of any Award shall become vested and the Restrictions shall not lapse with respect to any shares subject thereto in connection with such Change in Control. 
+
+3.4 Legend. Certificates representing shares of Restricted Stock issued pursuant to this Agreement shall, until all Restrictions lapse or shall have been removed and new certificates are issued pursuant to Section 3.4, bear the following legend: 
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO CERTAIN VESTING REQUIREMENTS AND MAY BE SUBJECT TO FORFEITURE UNDER THE TERMS OF THAT CERTAIN RESTRICTED STOCK AGREEMENT, DATED  , BY AND BETWEEN SYMBOL TECHNOLOGIES, INC. AND THE REGISTERED OWNER OF SUCH SHARES, AND SUCH SHARES MAY NOT BE, DIRECTLY OR INDIRECTLY, OFFERED, TRANSFERRED, SOLD, ASSIGNED, PLEDGED, HYPOTHECATED OR OTHERWISE DISPOSED OF UNDER ANY CIRCUMSTANCES, EXCEPT PURSUANT TO THE PROVISIONS OF SUCH AGREEMENT.” 
+
+Section 3.5 Issuance of Certificates; Tax Withholding. 
+
+(a) Subject to Sections 3.5(b), upon the vesting of the shares of Restricted Stock as provided in Section 3.2, the Company shall cause new certificates to be issued with respect to such vested Shares and delivered to the Participant or his legal representative, free from the legend provided for in Section 3.4 and any of the other Restrictions. Such vested shares shall cease to be considered Restricted Stock subject to the terms and conditions of this Agreement. 
+
+(b) Notwithstanding Section 3.5(a), no such new certificate shall be delivered to the Participant or his legal representative unless and until the Participant or his legal representative shall have paid to the Company the full amount of all federal and state withholding or other taxes applicable to the taxable income of Participant resulting from the grant of Restricted Stock or the lapse or removal of the Restrictions. 
+
+3.6 Certain Changes in Capitalization. Subject to Section 3.3, if the shares of the Company’s Common Stock as a whole are increased, decreased, changed into or exchanged for a different number or kind of shares or securities of the Company, whether through merger, consolidation, reorganization, recapitalization, reclassification, stock dividend, stock split, combination of shares, exchange of shares, change in corporate structure or the like, the Committee, in its sole discretion, shall have the discretion and power to determine and to make effective provision for acceleration of the time or times at which any Restrictions shall lapse or be removed. In addition, in the case of the occurrence of any event described in this Section 3.6, the Committee, subject to the provisions of the Plan and this Agreement, shall make an appropriate and proportionate adjustment in the number and kind of shares of Restricted Stock, to the end that after such event the Participant’s proportionate interest shall be maintained as before the occurrence of such event. Any such adjustment made by the Committee shall be final and binding upon the Participant, the Company and all other interested persons. In the event that the Participant receives any new or additional or different shares or securities by reason of any transaction or event described in this Section 3.6, such new or additional or different shares or securities which are attributable to the Participant in his capacity as the registered owner of the Restricted Stock then subject to Restrictions, shall be considered to be Restricted Stock and shall be subject to all of the Restrictions. 
+
+Section 3.7 Section 83(b) Election. Participant understands that Section 83(a) of the Code taxes as ordinary income the difference between the amount, if any, paid for the shares of Common Stock and the Fair Market Value of such shares at the time the Restrictions on such shares lapse. Participant understands that, notwithstanding the preceding sentence, Participant may elect to be taxed at the time of the Award Date, rather that at the time the Restrictions lapse, by filing an election under Section 83(b) of the Code (an “83(b) Election”) with the Internal Revenue Service within 30 days of the Award Date. In the event Participant files an 83(b) Election, Participant will recognize ordinary income in an amount equal to the difference between the amount, if any, paid for the shares of Common Stock and the Fair Market Value of such shares as of the Award Date. Participant further understands that an additional copy of such 83(b) Election form should be filed with his or her federal income tax return for the calendar year in which the date of this Agreement falls. Participant acknowledges that the foregoing is only a summary of the effect of United States federal income taxation with respect to the award of Restricted Stock hereunder, and does not purport to be complete. PARTICIPANT FURTHER ACKNOWLEDGES THAT THE COMPANY IS NOT RESPONSIBLE FOR FILING THE PARTICIPANT’S 83(b) ELECTION, AND THE COMPANY HAS DIRECTED PARTICIPANT TO SEEK INDEPENDENT ADVICE REGARDING THE APPLICABLE PROVISIONS OF THE CODE, THE INCOME TAX LAWS OF ANY MUNICIPALITY, STATE OR FOREIGN COUNTRY IN WHICH PARTICIPANT MAY RESIDE, AND THE TAX CONSEQUENCES OF PARTICIPANT’S DEATH. 
+
+ARTICLE IV.
+
+OTHER PROVISIONS
+
+Section 4.1 Escrow. The Secretary of the Company or such other escrow holder as the Committee may appoint shall retain physical custody of the certificates representing Restricted Stock until all of the Restrictions lapse or shall have been removed; provided, however, that in no event shall the Participant retain physical custody of any certificates representing unvested Restricted Stock issued to him. 
+
+Section 4.2 Restricted Stock Not Transferable. No Restricted Stock or any interest or right therein or part thereof shall be liable for the debts, contracts or engagements of the Participant or his successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect; provided, however, that this Section 4.2 shall not prevent transfers by will or by applicable laws of descent and distribution. 
+
+Section 4.3 Rights as Stockholder. Except as otherwise provided herein, upon delivery of the shares of Restricted Stock to the escrow holder pursuant to Section 4.1, the Participant shall have all the rights of a stockholder with respect to said shares, subject to the Restrictions herein, including the right to vote the shares and to receive all dividends or other distributions paid or made with respect to the shares or Restricted Stock; provided, however, that any and all shares of Common Stock received by the Participant with respect to such Restricted Stock as a result of stock dividends, stock splits or any other form of recapitalization shall also be subject to the Restrictions until the Restrictions on the underlying shares of Restricted Stock lapse or are removed pursuant to this Agreement. 
+
+Section 4.4 Not a Contract of Employment. Nothing in this Agreement or in the Plan shall confer upon the Participant any right to continue in the employ of the Company or any of its Subsidiaries or shall interfere with or restrict in any way the rights of the Company or its Subsidiaries, which are hereby expressly reserved, to discharge the Participant at any time for any reason whatsoever, with or without cause, except as may otherwise be provided by any written agreement entered into by and between the Company and the Participant. 
+
+Section 4.5 Stock Ownership and Retention Program. The Participant acknowledges and agrees that any shares acquired in connection with an Award may be subject to the terms and conditions of the Company’s Executive Stock Ownership and Retention Program, or a successor program thereto, as such Executive Stock Ownership and Retention Program, or successor program thereto, may be amended from time to time. 
+
+Section 4.6 Governing Law. The laws of the State of Delaware shall govern the interpretation, validity, administration, enforcement and performance of the terms of this Agreement regardless of the law that might be applied under principles of conflicts of laws. 
+
+Section 4.7 Conformity to Securities Laws. The Participant acknowledges that the Plan and this Agreement are intended to conform to the extent necessary with all provisions of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and any and all regulations and rules promulgated thereunder by the Securities and Exchange Commission, including without limitation Rule 16b-3 under the Exchange Act. Notwithstanding anything herein to the contrary, the Plan shall be administered, and the Award is granted and may be exercised, only in such a manner as to conform to such laws, rules and regulations. To the extent permitted by applicable law, the Plan and this Agreement shall be deemed amended to the extent necessary to conform to such laws, rules and regulations. 
+
+Section 4.8 Amendment, Suspension and Termination. The Awards may be wholly or partially amended or otherwise modified, suspended or terminated at any time or from time to time by the Committee or the Board, provided that, except as may otherwise be provided by the Plan, neither the amendment, suspension nor termination of this Agreement shall, without the consent of the Participant, alter or impair any rights or obligations under any Award. 
+
+Section 4.9 Notices. Notices required or permitted hereunder shall be given in writing and shall be deemed effectively given upon personal delivery or upon deposit in the United States mail by certified mail, with postage and fees prepaid, addressed to the Participant to his address shown in the Company records, and to the Company at its principal executive office. 
+
+Section 4.10 Adjustments in RONA Targets. The RONA targets described in Section 3.2(b) are based upon certain financial and capitalization assumptions regarding the Company and its business as of May 13, 2004. Accordingly, in the event that, after such date, the Committee determines, in its sole discretion, that any acquisition or disposition of any business by the Company or any dividend or other distribution (whether in the form of cash, Common Stock, other securities, or other property), recapitalization, reclassification, stock split, reverse stock split, reorganization, merger, consolidation, split-up, spin-off, combination, repurchase, or exchange of Common Stock or other securities of the Company, issuance of warrants or other rights to purchase Common Stock or other securities of the Company, any unusual or nonrecurring transactions or events affecting the Company, or the financial statements of the Company, or change in applicable laws, regulations, or accounting principles occurs such that an adjustment is determined by the Committee to be appropriate in order to prevent dilution or enlargement of the benefits or potential benefits intended to be made available under the Plan or with respect to any Award, then the Committee shall, in good faith and in such manner as it may deem equitable, adjust the RONA targets set forth in Section 3.2(b) to reflect the projected effect of such transaction(s) or event(s) on RONA, subject to Article 11 of the Plan. 
+
+[signature page follows] 
+
+1 
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto. 
+
+SYMBOL TECHNOLOGIES, INC. 
+
+By:
+
+Its: 
+
+[Participant’s Name] 
+
+Residence Address:   
+  
+Participant’s Social Security Number:
+
+—  
+  
+Aggregate number of shares of Restricted Stock subject to the Tranche A Award:
+
+[25%]  
+  
+Aggregate number of shares of Restricted Stock subject to the Tranche B Award:
+
+[25%]  
+  
+Aggregate number of shares of Restricted Stock subject to the Tranche C Award:
+
+[25%]  
+  
+Aggregate number of shares of Restricted Stock subject to the Tranche D Award:
+
+[25%]  
+  
+2 

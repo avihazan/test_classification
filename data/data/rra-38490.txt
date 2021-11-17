@@ -1,0 +1,147 @@
+EXHIBIT 10.1
+
+
+
+This Registration Rights Agreement (the “Agreement”) is entered into as of December 1, 2014 by and among BluePhoenix Solutions Ltd., an Israeli corporation (the “Acquiror”), and the holder of the Acquiror’s ordinary shares whose names are set forth on Exhibit A attached hereto (the “Shareholder”).
+
+RECITALS
+
+The Acquiror, BluePhoenix Solutions, Inc., a Delaware corporation and an indirect, wholly owned subsidiary of Acquirer (“Parent”), BP-AT Acquisition LLC, a Delaware limited liability company and a direct, wholly owned subsidiary of Parent (“Merger Sub”); Sophisticated Business Systems, Inc., a Texas corporation doing business as Ateras (“Target”) and the Shareholder have entered into an Agreement and Plan of Merger dated as of August 13, 2014, as amended (the “Merger Agreement”), which provides for the acquisition of Target by the Acquiror through a merger (the “Merger”) of Sub with and into Target and the issuance by the Acquiror of Acquiror’s Ordinary Shares (the “Acquiror Shares”), to the shareholders of Target, including the Shareholder, in consideration of the shares of Target (the “Target Shares”) exchanged by the shareholders of Target in the Merger. As a condition to the closing of the Merger, the Shareholder desires to obtain and the Acquiror has agreed to grant certain registration rights to the Shareholder with respect to the Acquiror Shares.
+
+AGREEMENT
+
+The parties hereby agree as follows:
+
+1\. Registration Rights.
+
+1.1 Definitions. For purposes of this Section 1:
+
+(a) The terms “register,” “registered,” and “registration” refer to a registration effected by preparing and filing a registration statement or similar document in compliance with the Securities Act of 1933, as amended (the “Securities Act”), and the subsequent declaration or ordering of the effectiveness of such registration statement or document.
+
+(b) The term “Registrable Securities” means:
+
+(i) the Acquiror Shares; and
+
+(ii) any other ordinary shares of the Acquiror issued as (or issuable upon the conversion or exercise of any warrant, right or other security which is issued as) a dividend or other distribution with respect to, or in exchange for or in replacement of, Acquiror Shares, excluding in all cases, however, any Registrable Securities sold by a person in a transaction in which his or her rights under this Agreement are not assigned; provided, however, that ordinary shares or other securities shall only be treated as Registrable Securities if and so long as they have not been (A) sold to or through a broker or dealer or underwriter in a public distribution or a public securities transaction, or (B) sold in a transaction exempt from the registration and prospectus delivery requirements of the Securities Act under Section 4(1) thereof so that all transfer restrictions, and restrictive legends with respect thereto, if any, are removed upon the consummation of such sale.  
+  
+(c) The number of shares of “Registrable Securities then outstanding” shall mean the number of ordinary shares outstanding which are, and the number of ordinary shares issuable pursuant to the then exercisable or convertible securities which are, Registrable Securities;
+
+(d) The term “Holder” means any holder of outstanding Registrable Securities who acquired such Registrable Securities in a transaction or series of transactions not involving any registered public offering; and
+
+(e) The term “SEC” means the Securities and Exchange Commission.
+
+(f) “Selling Expenses” means all underwriting discounts, selling commissions, and stock transfer taxes applicable to the sale of Registrable Securities, and fees and disbursements of counsel for any Holder, except for the fees and disbursements of the Selling Holder Counsel borne and paid by the Acquiror as provided in Subsection 1.5.
+
+(g) The term “Special Registration Statement” means (i) a registration statement relating to any employee benefit plan or (ii) with respect to any corporate reorganization or transaction under Rule 145 of the Securities Act, any registration statements related to the issuance or resale of securities issued in such a transaction or (iii) a registration related to stock issued upon conversion of debt securities.
+
+1.2 Piggyback Registrations. Acquiror shall notify all Holders in writing at least twenty (20) days prior to the filing of any registration statement under the Securities Act for purposes of a public offering of securities of Acquiror (including, but not limited to, registration statements relating to secondary offerings of securities of Acquiror, but excluding Special Registration Statements) and will afford each such Holder an opportunity to include in such registration statement all or part of such Registrable Securities held by such Holder. Each Holder desiring to include in any such registration statement all or any part of the Registrable Securities held by it shall, within fifteen (15) days after the above-described notice from Acquiror, so notify Acquiror in writing. Such notice shall state the intended method of disposition of the Registrable Securities by such Holder. If a Holder decides not to include all of its Registrable Securities in any registration statement thereafter filed by Acquiror, such Holder shall nevertheless continue to have the right to include any Registrable Securities in any subsequent registration statement or registration statements as may be filed by Acquiror with respect to offerings of its securities, all upon the terms and conditions set forth herein.
+
+2  
+  
+(a) Underwriting. If the registration statement of which Acquiror gives notice under this Section 1.2 is for an underwritten offering, Acquiror shall so advise the Holders of Registrable Securities. In such event, the right of any such Holder to include Registrable Securities in a registration pursuant to this Section 1.2 shall be conditioned upon such Holder’s participation in such underwriting and the inclusion of such Holder’s Registrable Securities in the underwriting to the extent provided herein. All Holders proposing to distribute their Registrable Securities through such underwriting shall enter into an underwriting agreement in customary form with the underwriter or underwriters selected for such underwriting by Acquiror. Notwithstanding any other provision of this Agreement, if Acquiror determines in good faith, based on consultation with the underwriter, that marketing factors require a limitation of the number of shares to be underwritten, the number of shares that may be included in the underwriting shall be allocated, first, to Acquiror; second, to the Holders on a pro rata basis based on the total number of Registrable Securities held by the Holders; and third, to any stockholder of Acquiror (other than a Holder) on a pro rata basis. If any Holder disapproves of the terms of any such underwriting, such Holder may elect to withdraw therefrom by written notice to Acquiror and the underwriter, delivered at least ten (10) business days prior to the effective date of the registration statement. Any Registrable Securities excluded or withdrawn from such underwriting shall be excluded and withdrawn from the registration. For any Holder which is a partnership, limited liability company or corporation, the partners, retired partners, members, retired members and stockholders of such Holder, or the estates and family members of any such partners, retired partners, members and retired members and any trusts for the benefit of any of the foregoing person shall be deemed to be a single “Holder,” and any pro rata reduction with respect to such “Holder” shall be based upon 1.2 the aggregate amount of shares carrying registration rights owned by all entities and individuals included in such “Holder,” as defined in this sentence.
+
+(b) Right to Terminate Registration. Acquiror shall have the right to terminate or withdraw any registration initiated by it under this Section 1.2 whether or not any Holder has elected to include securities in such registration, and shall promptly notify any Holder that has elected to include shares in such registration of such termination or withdrawal.
+
+1.3 Furnish Information. It shall be a condition precedent to the obligations of the Acquiror to take any action pursuant to this Section 1 with respect to the Registrable Securities of any selling Holder that such Holder shall furnish to the Acquiror such information regarding itself, the Registrable Securities held by it, and the intended method of disposition of such securities as shall be required to effect the registration of such Holder’s Registrable Securities.
+
+1.4 Obligations of the Acquiror. In connection with its registration of any Registrable Securities, the Acquiror shall, as expeditiously as reasonably possible:
+
+(a) furnish to the selling Holders such numbers of copies of a prospectus, including a preliminary prospectus, as required by the Securities Act, and such other documents as the Holders may reasonably request in order to facilitate their disposition of their Registrable Securities;
+
+(b) use its commercially reasonable efforts to register and qualify the securities covered by such registration statement under such other securities or blue-sky laws of such jurisdictions as shall be reasonably requested by the selling Holders; provided that the Acquiror shall not be required to qualify to do business or to file a general consent to service of process in any such states or jurisdictions, unless the Acquiror is already subject to service in such jurisdiction and except as may be required by the Securities Act;
+
+3  
+  
+(c) in the event of any underwritten public offering, enter into and perform its obligations under an underwriting agreement, in usual and customary form, with the underwriter(s) of such offering;
+
+(d) use its commercially reasonable efforts to cause all such Registrable Securities covered by such registration statement to be listed on a national securities exchange or trading system and each securities exchange and trading system (if any) on which similar securities issued by the Acquiror are then listed;
+
+(e) provide a transfer agent and registrar for all Registrable Securities registered pursuant to this Agreement and provide a CUSIP number for all such Registrable Securities, in each case not later than the effective date of such registration;
+
+(f) promptly make available for inspection by the selling Holders, any underwriter(s) participating in any disposition pursuant to such registration statement, and any attorney or accountant or other agent retained by any such underwriter or selected by the selling Holders, all financial and other records, pertinent corporate documents, and properties of the Acquiror, and cause the Acquiror’s officers, directors, employees, and independent accountants to supply all information reasonably requested by any such seller, underwriter, attorney, accountant, or agent, in each case, as necessary or advisable to verify the accuracy of the information in such registration statement and to conduct appropriate due diligence in connection therewith;
+
+(g) notify each selling Holder, promptly after the Acquiror receives notice thereof, of the time when such registration statement has been declared effective or a supplement to any prospectus forming a part of such registration statement has been filed; and
+
+(h) after such registration statement becomes effective, notify each selling Holder of any request by the SEC that the Acquiror amend or supplement such registration statement or prospectus.
+
+1.5 Expenses of Registration. All expenses (other than Selling Expenses) incurred in connection with registrations, filings, or qualifications pursuant to Section 1, including all registration, filing, and qualification fees; printers’ and accounting fees; fees and disbursements of counsel for the Acquiror; and the reasonable fees and disbursements, not to exceed $25,000, of one counsel for the selling Holders (“Selling Holder Counsel”), shall be borne and paid by the Acquiror. All Selling Expenses relating to Registrable Securities registered pursuant to this Section 1 shall be borne and paid by the Holders pro rata on the basis of the number of Registrable Securities registered on their behalf.
+
+4  
+  
+1.6 Indemnification. In the event any Registrable Securities are included in a registration statement under this Section 1:
+
+(a) To the extent permitted by law, the Acquiror will indemnify and hold harmless each Holder and each person, if any, who controls such Holder within the meaning of the Securities Act or the Securities Exchange Act of 1934, as amended (the “Exchange Act”), against any losses, claims, damages, or liabilities (joint or several) to which they may become subject, under the Securities Act, the Exchange Act or other federal or state law, insofar as such losses, claims, damages, or liabilities (or actions in respect thereof) arise out of or are based upon any of the following statements, omissions or violations (collectively a “Violation”): (i) any untrue statement or alleged untrue statement of a material fact contained in such registration statement, including any final prospectus contained therein or any amendments or supplements thereto, (ii) the omission or alleged omission to state therein a material fact required to be stated therein, or necessary to make the statements therein not misleading, or (iii) any violation or alleged violation by the Acquiror of the Securities Act, the Exchange Act, any state securities law or any rule or regulation promulgated under the Securities Act, the Exchange Act or any state securities law; and the Acquiror will pay, as incurred, any legal or other expenses reasonably incurred by them in connection with investigating or defending any such loss, claim, damage, liability, or action; provided, however, that the indemnity agreement contained in this subsection 1.6(a) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability, or action if such settlement is effected without the consent of the Acquiror, which consent shall not be unreasonably withheld, nor shall the Acquiror be liable in any such case for any such loss, claim, damage, liability, or action to the extent that it arises out of or is based upon a Violation which is caused by or contained in written information furnished expressly for use in connection with such registration by such Holder or controlling person.
+
+(b) To the extent permitted by law, each selling Holder will severally (and not jointly and severally) indemnify and hold harmless the Acquiror, each of its directors, each of its officers who has signed the registration statement, each person, if any, who controls the Acquiror within the meaning of the Securities Act or the Exchange Act, any other Holder selling securities in such registration statement and any controlling person of any such other Holder, against any losses, claims, damages, or liabilities (joint or several) to which any of the foregoing persons may become subject, under the Securities Act, the Exchange Act or other federal or state law, insofar as such losses, claims, damages, or liabilities (or actions in respect thereof) arise out of or are based upon any Violation, in each case to the extent (and only to the extent) that such Violation is caused by or contained in written information furnished by such Holder expressly for use in connection with such registration; and each such Holder will pay, as incurred, any legal or other expenses reasonably incurred by any person intended to be indemnified pursuant to this subsection 1.6(b), in connection with investigating or defending any such loss, claim, damage, liability, or action; provided, however, that the indemnity agreement contained in this subsection 1.6(b) shall not apply to amounts paid in settlement of any such loss, claim, damage, liability or action if such settlement is effected without the consent of the Holder, which consent shall not be unreasonably withheld; provided that in no event shall any indemnity under this subsection 1.6(b) exceed the gross proceeds from the offering received by such Holder.
+
+(c) Promptly after receipt by an indemnified party under this Section 1.6 of notice of the commencement of any action (including any governmental action), such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Section 1.6, deliver to the indemnifying party a written notice of the commencement thereof and the indemnifying party shall have the right to participate in, and, to the extent the indemnifying party so desires, jointly with any other indemnifying party similarly noticed, to assume the defense thereof with counsel mutually satisfactory to the parties; provided, however, that an indemnified party shall have the right to retain its own counsel, with the fees and expenses to be paid by the indemnifying party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential differing interests between such indemnified party and any other party represented by such counsel in such proceeding. The failure to deliver written notice to the indemnifying party within a reasonable time of the commencement of any such action, if prejudicial to its ability to defend such action, shall relieve such indemnifying party of any liability to the indemnified party under this Section 1.6 to the extent that such failure materially prejudices the indemnifying party’s ability to defend such action, but the omission so to deliver written notice to the indemnifying party will not relieve it of any liability that it may have to any indemnified party otherwise than under this Section 1.6.
+
+5  
+  
+(d) If the indemnification provided in this Section 1.6 is held by a court of competent jurisdiction to be unavailable to an indemnified party with respect to any loss, liability, claim, damage or expense referred to therein, then the indemnifying party, in lieu of indemnifying such indemnified party hereunder, shall contribute to the amount paid or payable by such indemnified party as a result of such loss, liability, claim, damage or expense in such proportion as is appropriate to reflect the relative fault of the indemnifying party on the one hand and of the indemnified party on the other in connection with the statements or omissions that resulted in such loss, liability, claim, damage or expense as well as any other relevant equitable considerations. The relative fault of the indemnifying party and of the indemnified party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission to state a material fact relates to information supplied by the indemnifying party or by the indemnified party and the parties’ relative intent, knowledge, access to information, and opportunity to correct or prevent such statement or omission.
+
+(e) The obligations of the Acquiror and Holders under this Section 1.6 shall survive the completion of any offering of Registrable Securities in a registration statement under this Section 1, and otherwise.
+
+1.7 No Assignment of Registration Rights. The rights to cause the Acquiror to register Registrable Securities may not be assigned by the Shareholder.
+
+1.8 Termination of Registration Rights. The rights granted under this Section 1 shall terminate upon the earlier of (a) three years following the date of this Agreement, (b) the date of any merger whereby Acquiror does not survive other than a merger to effect a redomiciliation or (c) with respect to any Holder, at such time as such Holder may sell all of such Holder’s Registrable Securities in any one three month period pursuant to Rule 144 (or such successor rule as may be adopted).
+
+2\. Miscellaneous.
+
+2.1 Amendments and Waivers. Any term of this Agreement may be amended or waived with the written consent of the Acquiror and the Holders of at least a majority of the outstanding Registrable Securities. Any amendment or waiver effected in accordance with this Section 2.1 shall be binding upon the parties and their respective successors and assigns. In addition, the Acquiror may waive performance of any obligation owing to it, as to some or all of the Holders of Registrable Securities, or agree to accept alternatives to such performance, without obtaining the consent of any Holder of Registrable Securities. Each Holder acknowledges that by the operation of Section 2.1 hereof, the Holders of a majority of the outstanding Registrable Securities, acting in conjunction with the Acquiror, will have the right and power to diminish or eliminate all rights pursuant to this Agreement.
+
+6  
+  
+2.2 Successors and Assigns. Subject to the provisions of Section 1.7, the terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+
+2.3 Governing Law. This Agreement and all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the State of Israel without giving effect to principles of conflicts of law.
+
+2.4 Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
+
+2.5 Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement.
+
+2.6 Notices. Any notice required or permitted by this Agreement shall be in writing and shall be deemed sufficient upon receipt, when delivered personally or by courier, overnight delivery service or confirmed facsimile, or 48 hours after being deposited in the regular mail as certified or registered mail (airmail if sent internationally) with postage prepaid, if such notice is addressed to the party to be notified at such party’s address or facsimile number as set forth below, or as subsequently modified by written notice.
+
+2.7 Severability. If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith, in order to maintain the economic position enjoyed by each party as close as possible to that under the provision rendered unenforceable. In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (i) such provision shall be excluded from this Agreement, (ii) the balance of the Agreement shall be interpreted as if such provision were so excluded and (iii) the balance of the Agreement shall be enforceable in accordance with its terms.
+
+2.8 Entire Agreement. This Agreement is the product of all of the parties hereto, and constitutes the entire agreement between such parties pertaining to the subject matter hereof, and merges all prior negotiations and drafts of the parties with regard to the transactions contemplated herein. Any and all other written or oral agreements existing between the parties hereto regarding such transactions are expressly canceled.
+
+7  
+  
+2.9 Advice of Legal Counsel. Each party acknowledges and represents that, in executing this Agreement, it has had the opportunity to seek advice as to its legal rights from legal counsel and that the person signing on its behalf has read and understood all of the terms and provisions of this Agreement. This Agreement shall not be construed against any party by reason of the drafting or preparation thereof.
+
+2.10 Rights of Holders. Each Holder of Registrable Securities shall have the absolute right to exercise or refrain from exercising any right or rights that such Holder may have by reason of this Agreement, including, without limitation, the right to consent to the waiver or modification of any obligation under this Agreement, and such Holder shall not incur any liability to any other Holder of any securities of the Acquiror as a result of exercising or refraining from exercising any such right or rights.
+
+2.11 Delays or Omissions. No delay or omission to exercise any right, power or remedy accruing to any party to this Agreement, upon any breach or default of the other party, shall impair any such right, power or remedy of such non-breaching party nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of or in any similar breach or default thereafter occurring; nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent or approval of any kind or character on the part of any party of any breach or default under this Agreement, or any waiver on the part of any party of any provisions or conditions of this Agreement, must be made in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement, or by law or otherwise afforded to any Holder, shall be cumulative and not alternative.
+
+2.12 Third Parties. Nothing in this Agreement, express or implied, is intended to confer upon any party, other than the parties hereto, and their respective successors and assigns, any rights, remedies, obligations or liabilities under or by reason of this Agreement, except as expressly provided herein.
+
+[Signature Page Follows]
+
+8  
+  
+The parties have executed this Agreement as of the date first above written.
+
+ACQUIROR:  
+BluePhoenix Solutions Ltd.,  
+By: /s/ Matt Bell  
+Title: CEO  
+Address: 601 E Union Street  
+Suite 4616  
+Seattle, Washington 98101  
+SHAREHOLDER:  
+Mindus Holdings, LTD  
+By: /s/ Scott D. Miller  
+Name: Scott D. Miller  
+Title:  
+  
+9  
+  
+EXHIBIT A
+
+Shareholder
+
+NAME  
+Mindus Holdings, LTD  
+  
+10

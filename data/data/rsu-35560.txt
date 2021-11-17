@@ -1,0 +1,195 @@
+Exhibit 10.52
+
+
+
+This Stock Option Agreement (“Agreement”), is made as of December 1, 2009 (the “Grant Date”), by and between Hansen Natural Corporation, a Delaware corporation (the “Company”), and Hilton H. Schlosberg (“Holder”).
+
+## Preliminary Recitals
+
+## 
+
+A. Holder is an employee of a Participating Company.
+
+B. Pursuant to the Hansen Natural Corporation 2001 Stock Option Plan (the “Plan”), the Company desires to grant Holder an incentive stock option to purchase shares of the Company’s common stock, par value $.005 per share (the “Common Stock”).
+
+C. Capitalized terms not otherwise defined in this Agreement shall have the meaning given to them in the Plan.
+
+NOW, THEREFORE, the Company and Holder agree as follows:
+
+1\. Grant of Incentive Stock Option. The Company hereby grants to Holder, subject to the terms and conditions set forth herein and in the Plan, an incentive stock option (“ISO”) to purchase 250,000 shares of Common Stock, at the purchase price of $35.64 per share (the “Option”), such Option to be exercisable and exercised as hereinafter provided. If for any reason the Option or any portion of the Option shall not qualify as an ISO, then, to the extent of such nonqualification, such Option (or portion thereof) shall be regarded as a nonqualified stock option granted under the Plan, provided that such Option (or portion thereof) otherwise complies with the Plan’s requirements relating to nonqualified stock options. In no event shall any member of the Committee or any Participating Company (or their respective employees, officers or directors) have any liability to Holder (or any other person) due to the failure of an Option (or any portion thereof) to qualify for any reason as an ISO.
+
+2\. Exercise Period. The Option shall expire three months after the termination of the Holder’s employment with a Participating Company unless the employment is terminated by a Participating Company for Cause (as defined below) or unless the employment is terminated by reason of the death or Total Disability of Holder. If the Holder’s employment is terminated by a Participating Company for Cause, the Option shall expire as of the date employment terminates. If the Holder’s employment terminates due to his death or Total Disability, then the Option may be exercised by Holder or the person or persons to which Holder’s rights under this Agreement pass by will, or if no such person has such right, by his executors or administrators, within six months after
+
+* * *
+
+  
+
+
+the date of death or Total Disability, but no later than the expiration date specified in Section 3(d) below. “Cause” means the Holder’s act of fraud or dishonesty, knowing and material failure to comply with applicable laws or regulations, or drug or alcohol abuse, in any case as determined by the Committee.
+
+3\. Exercise of Option
+
+(a) Subject to the other terms of this Agreement regarding the exercisability of the Option, provided that Holder is employed by a Participating Company on the relevant Exercise Date set forth below, the Option may be exercised in respect of the number of shares (the “Option Portion”) listed in column A from and after the Exercise Date listed in column B,
+
+Column “A”
+
+Column “B”  
+  
+Number of Shares
+
+Exercise Date  
+  
+20% of the number of shares subject to the Option
+
+After the first anniversary of the Grant Date  
+  
+20% of the number of shares subject to the Option
+
+After the second anniversary of the Grant Date  
+  
+20% of the number of shares subject to the Option
+
+After the third anniversary of the Grant Date  
+  
+20% of the number of shares subject to the Option
+
+After the fourth anniversary of the Grant Date  
+  
+20% of the number of shares subject to the Option
+
+After the fifth anniversary of the Grant Date”  
+  
+(b) This Option may be exercised, to the extent exercisable by its terms, from time to time in whole or in part at any time prior to the expiration thereof. Any exercise shall be accompanied by a written notice to the Company specifying the number of shares as to which this Option is being exercised (the “Option Shares”). Notations of any partial exercise or installment exercise, shall be made by the Company on Schedule A hereto.
+
+(c) Notwithstanding Section 3(a) above, this ISO shall be fully exercisable in the event Holder’s employment with a Participating Company is terminated by the Holder for “Good Reason” (as defined below), or a Participating Company terminates the Holder’s employment 
+
+* * *
+
+  
+
+
+without “Cause” (as defined above). “Good Reason” means the Holder’s termination of employment with a Participating Company on or after a reduction in his compensation or benefits, his removal as the Company’s Vice Chairman of the Board or President, or his being assigned duties or responsibilities that are inconsistent with the dignity, importance or scope of his position with the Company.
+
+(d) Notwithstanding anything else in this Agreement to the contrary, this Option shall expire on the tenth anniversary of the Grant Date.
+
+(e) The Holder hereby agrees to notify the Company in writing in the event shares acquired pursuant to the exercise of this Option are transferred, other than by will or by the laws of descent and distribution, within two years after the Grant Date or within one year after the issuance of such shares pursuant to such exercise.
+
+4\. Payment of Purchase Price Upon Exercise. At the time of any exercise of all or a portion of the Option, the purchase price shall be paid in full to the Company in any of the following ways or in any combination of the following ways:
+
+(a) By check or other immediately available funds.
+
+(b) With property consisting of shares of Stock. (The shares of Stock to be used as payment shall be valued as of the date of exercise of the Option at the Closing Price as defined below. For example, if Holder exercises the option for 4,000 shares at a total Exercise Price of $8,000, assuming an exercise price of $2.00 per share, and the Closing Price is $5.00, Holder may pay for the 4,000 Option Shares by transferring 1,600 shares of Stock to the Company.)
+
+(c) By delivering a properly executed exercise notice together with irrevocable instructions to a broker to deliver promptly to the Company the amount of sale proceeds necessary to pay the purchase price and applicable withholding taxes, and such other documents as the Committee may determine.
+
+(d) For purposes of this Agreement, the term “Closing Price” means, with respect to the Company’s Stock, the last sale price regular-way or, in case no such sale takes place on such date, the average of the closing bid and asked prices regular-way on the principal national securities exchange on which the Stock is listed or admitted to trading; or, if the Stock is not listed or admitted to trading on any national securities exchange, the last sale price of the Stock on the consolidated transaction reporting system of the National Association of Securities Dealers (“NASD”), if such last sale information is reported on such system or, if not so reported, the average
+
+* * *
+
+  
+
+
+of the closing bid and asked prices of the securities on the National Association of Securities Dealers Automatic Quotation System (“NASDAQ”) or any comparable system or, if the Stock is not listed on NASDAQ or a comparable system, the “Closing Price” shall be the Fair Market Value of the Stock as determined by the Committee in good faith.
+
+5\. Purchase for Investment; Resale Restrictions. Unless at the time of exercise of the Option there shall be a valid and effective registration statement under the Securities Act of 1933 (the “‘33 Act”) and appropriate qualification and registration under applicable state securities laws relating to the Option Shares being acquired, Holder shall upon exercise of the Option give a representation that he is acquiring such shares for his own account for investment and not with a view to, or for sale in connection with, the resale or distribution of any such shares. In the absence of such registration statement, Holder shall execute a written affirmation, in a form reasonably satisfactory to the Company, of such investment intent. Holder further agrees that he will not sell or transfer any Option Shares until he requests and receives an opinion of the Company’s counsel or other counsel reasonably satisfactory to the Company to the effect that such proposed sale or transfer will not result in a violation of the ‘33 Act, or a registration statement covering the sale or transfer of the shares has been declared effective by the Securities and Exchange Commission, or he obtains a no-action letter from the Securities and Exchange Commission with respect to the proposed transfer.
+
+6\. Nontransferability. This Option shall not be transferable other than by will or by the laws of descent and distribution. During the lifetime of Holder, this Option shall be exercisable only by Holder.
+
+7\. Adjustments.
+
+(a) Subject to clause 7(b) below, if the outstanding shares of stock of the Company are increased, decreased, or exchanged for a different number or kind of shares or other securities, or if additional shares or new or different shares or other securities are distributed with respect to such shares of stock or securities, through merger, consolidation, sale of all or substantially all of the assets or shares of the Company, reorganization, recapitalization, reclassification, stock dividend, stock split, reverse stock split or other distribution with respect to such shares of stock or other securities, then, to the extent permitted by the Board, an appropriate and proportionate adjustment shall be made in (1) the maximum number and/or kind of shares provided in Paragraph 1 above; (2) the number and/or kind of shares or other securities subject to
+
+* * *
+
+  
+
+
+the outstanding options and tandum SARs, if any; and (3) the price for each share or other unit of any other securities subject to outstanding options without change in the aggregate purchase price or value as to which the options remain exercisable or subject to restrictions. Any adjustment under this clause 7(a) shall be made by the Board, whose determination as to what adjustments shall be made, if any, and the extent thereof, will be final, binding and conclusive. No fractional interests will be issued under this Agreement resulting from any such adjustment.
+
+(b) Notwithstanding anything else in this Agreement to the contrary, unless the Board, in its sole discretion, determines that the Holder did not perform the duties reasonably requested of him in connection with a Change in Control (as defined in (c) below), including, without limitation, agreeing to provide remunerated services to the Company (for a reasonable length of time) following a Change in Control, upon the occurrence of a Change in Control, the Option or any portion thereof not theretofore exercisable, shall immediately become exercisable in its entirety and the Option may be purchased by the Company for cash at a price equal to the Fair Market Value less the purchase price payable by the Holder to exercise the Option as set out in Section 1 above for one (1) share of Common Stock of the Company multiplied by the number of shares of Common Stock which the Holder has the option to purchase pursuant to the terms of Section 1 above.
+
+(c) For the purposes of this agreement, “Change in Control” means:
+
+(i) the acquisition (in one or more transactions) of “Beneficial Ownership” by any person (as defined in rule 13 (d) - 3 under the Securities Exchange Act 1934), corporation or other entity other than the Company or a wholly owned subsidiary of the Company of 20% or more of the outstanding Common Stock,
+
+(ii) the sale or disposition of substantially all of the assets of the Company, or
+
+(iii) the merger of the Company with another entity in which the Common Stock of the Company is no longer outstanding after such merger.
+
+8\. No Rights as Stockholder. Holder shall have no rights as a stockholder with respect to any shares of Stock subject to this Option prior to the date of issuance to him of a certificate or certificates for such shares.
+
+9\. No Right to Continue Employment. This Agreement shall not confer upon Holder any right with respect to continuance of employment with a Participating Company nor shall it
+
+* * *
+
+  
+
+
+interfere in any way with the right of a Participating Company to terminate the Holder’s employment at any time.
+
+10\. Compliance With Law and Regulation. This Agreement and the obligation of the Company to sell and deliver shares of Stock hereunder shall be subject to all applicable federal and state laws, rules and regulations and to such approvals by any government or regulatory agency as may be required. If at any time the Board shall determine that (i) the listing, registration or qualification of the shares of Stock subject or related thereto upon any securities exchange or under any state or federal law, or (ii) the consent or approval of any government regulatory body, is necessary or desirable as a condition of or in connection with the issue or purchase of shares of Stock hereunder, this Option may not be exercised in whole or in part unless such listing, registration, qualification, consent, approval or agreement shall have been effected or obtained free of any conditions not acceptable to the Board.
+
+11\. Tax Withholding Requirements. The Company shall have the right to require Holder to remit to the Company an amount sufficient to satisfy any federal, state or local withholding tax requirements prior to the delivery of any certificate or certificates for Stock.
+
+12\. Fractional Shares. Notwithstanding any other provision of this Agreement, no fractional shares of Stock shall be issued upon the exercise of this Option, and the Company shall not be under any obligation to compensate Holder in any way for such fractional shares.
+
+13\. Notices. Any notice hereunder to the Company shall be addressed to it at its office at 550 Monica Circle, Suite 201, Corona, California 92880, Attention: Rodney C. Sacks with a copy to Benjamin Polk, Schulte Roth & Zabel LLP, 919 Third Avenue, New York, New York 10022, and any notice hereunder to Holder shall be addressed to him at 2 Nidden, Irvine, California 92603, subject to the right of either party to designate at any time hereafter in writing some other address.
+
+14\. Amendment. No modification, amendment or waiver of any of the provisions of this Agreement shall be effective unless in writing specifically referring hereto, and signed by both parties.
+
+15\. Governing Law. This Agreement shall be construed according to the laws of the State of Delaware and all provisions hereof shall be administered according to and its validity shall be determined under, the laws of such State, except where preempted by federal laws.
+
+* * *
+
+  
+
+
+16\. Counterparts. This Agreement may be executed in one or more counterparts, each of which shall constitute one and the same instrument.
+
+IN WITNESS WHEREOF, Hansen Natural Corporation has caused this Agreement to be executed by a duly authorized officer and Holder has executed this Agreement both as of the day and year first above written.
+
+# 
+
+# 
+
+# HANSEN NATURAL CORPORATION  
+  
+# 
+
+# 
+
+#   
+  
+# /s/ Hilton H. Schlosberg
+
+# 
+
+# By:
+
+# /s/ Rodney C. Sacks
+
+#   
+  
+# Hilton H. Schlosberg
+
+# 
+
+# Name: Rodney C. Sacks  
+  
+# 
+
+# 
+
+# Title: Chairman and CEO  
+  
+# 
+
+# 
+
+#   
+  
+# 
+
+## 
+
+* * *

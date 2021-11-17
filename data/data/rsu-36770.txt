@@ -1,0 +1,115 @@
+Exhibit 10.26
+
+HEALTHWAYS, INC.
+
+
+
+THIS STOCK OPTION AGREEMENT is made and entered into this «Day1st» day of «Month», «Year», by and between HEALTHWAYS, INC., a Delaware corporation (the "Corporation") including its subsidiary corporations, and «First_Name» «Last_Name» (the "Director").
+
+WHEREAS, the Corporation desires to afford the Director an opportunity to purchase shares of Common Stock, $.001 par value per share  ("Common Stock") of the Corporation, in accordance with the provisions of Healthways 2007 Stock Incentive Plan (the "Plan").
+
+NOW, THEREFORE, In consideration of the mutual covenants set forth in this Agreement and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1\. Grant of Option. Corporation hereby grants to Director the option (the "Option"), exercisable in whole or in part to purchase «TotalShares» shares of the Corporation's Common Stock, for a price of $ «AmountPerShare» per share.
+
+2\. Option Plan. This Option is granted as a non-qualified stock option under the Plan, and is not intended to qualify as an incentive stock option, as that term is used in Section 422 of the Internal Revenue Code of 1986, as amended (the "Code"). This means that, at the time Director exercises all or any portion of this Option, Director will have taxable income equal to any positive difference between the market value of the Common Stock at the date of the exercise and the option exercise price paid for the Common Stock under this Option as shown in Section 1 of this Agreement.
+
+The Director hereby acknowledges receipt of a copy of the Plan and agrees to be bound by all the terms and provisions thereof, which are incorporated herein by reference and made a part hereof. The terms of this Agreement are governed by the terms of the Plan, and in the case of any inconsistency between the terms of this Agreement and the terms of the Plan, the terms of the Plan shall govern. Terms not otherwise defined herein shall have the meanings given them in the Plan.
+
+3\. Timing of Exercise. Director may exercise this Option with respect to the percentage of shares set forth below from and after the dates specified below, provided that Director is still serving as a director of the Corporation on such date except as set forth in Section 6 hereof:
+
+Percentage Vested
+
+Date of Vesting
+
+Cumulative Options Exercisable  
+  
+100%
+
+«MoDayYrPlus2»
+
+«TotalShares»  
+  
+This Option will expire ten (10) years from the date of grant of this Option.
+
+* * *
+
+4. Manner of Exercise. This Option shall be exercised by the Director (or other party entitled to exercise the Option under Section 5 of this Agreement) by delivering written notice to the Corporation stating the number of shares of Common Stock to be purchased, the person or persons in whose name the shares are to be registered and each such person's address and social security number. Such notice shall not be effective unless accompanied by the full purchase price for all shares so purchased. The purchase price shall be payable in cash, personal check (subject to collection), bank draft or such other method as the Committee may determine from time to time. The purchase price may also be paid by the tender of, by either actual delivery or attestation, Common Stock acceptable to the Committee and valued at its Fair Market Value on the date of exercise or through a combination of Stock and cash. The purchase price shall be calculated as the number of shares to be purchased times the option exercise price per share as shown in Section 1 of this Agreement. The Corporation shall have the right to require the Director to remit to the Corporation an amount sufficient to satisfy any federal, state and local withholding tax requirements prior to the delivery of any certificate for such shares, which may be paid as set forth in Section 5.6 of the Plan.
+
+5. Nontransferability of Option. This Option shall not be transferable by the Director without the prior written consent of the Board of Directors otherwise than (i) transfers by the Director to a member of the Director’s immediate family or a trust for the benefit of Director or a member of such Director’s immediate family, or (ii) transfers by will or by the laws of descent and distribution. For purposes of this section, “immediate family” shall mean any child, stepchild, grandchild, parent, stepparent, grandparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law and shall include adoptive relationships. 
+
+6. Termination or Expiration of Director's Position on the Board of Directors.
+
+(a) Termination or Resignation from Board Following Two Terms as a Director. If the Director shall cease to serve as a director of the Corporation for any reason other than involuntary removal by the stockholders for cause and if the Director has (x) (a) served at least two full three-year terms as a director, or (b) served at least two terms as a director of the Corporation (the first of which may be a partial term and the last of which shall be a full three-year term) and offered to resign from the Board on or after such Director’s 70th birthday, which offer to resign has been accepted by the Corporation, and (y) in the event of the Director’s retirement from the Board, given the Corporation at least nine months’ prior written notice of the Director’s intent not to stand for re-election at the end of the Director’s then-current term, the shares subject to the Option granted hereunder not previously exercisable and vested shall vest and become immediately exercisable at the end of the Director’s then-current term and this Option may be exercised for a period of one year from the end of such term or until the expiration of the stated term of the Option, whichever period is shorter (the “Exercise Period”); provided, however, that if the Director dies within the Exercise Period, the Option shall thereafter be exercisable to the extent to which it was exercisable at the time of death for a period of one year from the date of such death or until the expiration of the stated term of the Option, whichever period is shorter.
+
+2
+
+* * *
+
+(b) Termination by Reason of Retirement. If the Director shall cease to be a director of the Corporation by reason of retirement without meeting the requirements of section 6(a) above, this Option may thereafter be exercised by the Director, to the extent it was exercisable at the time of such cessation, for a period of one year from the date of such cessation or until the expiration of the stated term of the Option, whichever period is shorter; provided, however, that if the Director dies within such one-year period, the Option shall thereafter be exercisable to the extent to which it was exercisable at the time of death for a period of one year from the date of such death or until the expiration of the stated term of the Option, whichever period is shorter.
+
+(c) Termination by Reason of Disability. If the Director shall cease to be a director of the Corporation by reason of Disability, the shares subject to the Option granted hereunder not previously exercisable and vested shall vest and become immediately exercisable and may thereafter be exercised by the Director for a period of one year from the date of such cessation or until the expiration of the stated term of the Option, whichever period is shorter; provided, however, that if the Director dies within such one-year period, the Option shall thereafter be exercisable to the extent to which it was exercisable at the time of death for a period of one year from the date of such death or until the expiration of the stated term of the Option, whichever period is shorter.
+
+(d) Termination by Death. If the Director shall cease to be a director of the Corporation by reason of death, the shares subject to the Option granted hereunder not previously exercisable and vested shall vest and become immediately exercisable and may thereafter be exercised, by the legal representative of the estate or by the legatee of the Director under the will of the Director, for a period of one year from the date of such death or until the expiration of the stated term of the Option, whichever period is the shorter.
+
+(e) Termination for any Other Reason. If the Director shall cease to be a director of the Corporation for any reason (including removal by the stockholders for cause) other than retirement, death or Disability without meeting the requirements of section 6(a) above, this Option may be exercised by the Director, to the extent otherwise then exercisable on the date of such cessation, for a period of three months from the date of such cessation or the expiration of the Option's term, whichever period is the shorter. 
+
+7. Restrictions on Purchase and Sale of Shares. The Corporation shall be obligated to sell or issue shares pursuant to the exercise of this Option only in the event that the shares are at that time effectively registered or otherwise exempt from registration under the Securities Act of 1933, as amended (“the 1933 Act”). In the event that the shares are not registered under the 1933 Act, the Director hereby agrees that, as a further condition to the exercise of this Option, the Director (or his successor under Section 5 of this Agreement), if the Corporation so requests, will execute an agreement in form satisfactory to the Corporation in which the Director represents that he or she is purchasing the shares for investment purposes, and not with a view to resale or distribution. The Director further agrees that if the shares of Common Stock to be issued upon the exercise of this Option are not subject to an effective registration statement filed with the Securities and Exchange Commission pursuant to the requirements of the 1933 Act, such shares shall bear an appropriate restrictive legend.
+
+3
+
+* * *
+
+8. Adjustment. In the event of any merger, reorganization, consolidation, recapitalization, extraordinary cash dividend, stock dividend, stock split or other change in corporate structure affecting the Common Stock, the number of shares of Common Stock of the Corporation subject to this Option and the price per share of such shares shall be equitably and proportionately adjusted by the Committee in accordance with the Plan.
+
+9. Change in Control. Upon a Change in Control, as defined in the Plan, the shares subject to the Option granted hereunder not previously exercisable and vested shall become fully exercisable and vested. 
+
+10. No Rights Until Exercise. The Director shall have no rights hereunder as a stockholder with respect to any shares subject to this Option until the date of the issuance of a stock certificate to him or her for such shares upon due exercise of this Option.
+
+11. Amendment. Subject to the restrictions contained in the Plan, the Board of Directors may amend the terms of this Option, prospectively or retroactively, but, subject to Section 8 above, no such amendment shall impair the rights of the Director hereunder without the Director's consent.
+
+12. Notices. All notices required to be given under this Option shall be deemed to be received if delivered or mailed as provided for herein, to the parties at the following addresses, or to such other address as either party may provide in writing from time to time.
+
+To the Corporation:
+
+Healthways, Inc.
+
+3841 Green Hills Village Drive
+
+Nashville, Tennessee 37215  
+  
+To the Director:
+
+(Director name and address)  
+  
+13. Severability. If any provision of this Agreement is, or becomes, or is deemed to be invalid, illegal, or unenforceable in any jurisdiction or as to any person or the award of the Option, or would disqualify the Plan or the Option under any laws deemed applicable by the Committee, such provision shall be construed or deemed amended to conform to the applicable laws, or if it cannot be construed or deemed amended without, in the determination of the Committee, materially altering the intent of the Plan or the Option, such provision shall be stricken as to such jurisdiction, person or Option, and the remainder of the Plan and Option shall remain in full force and effect.
+
+14. Governing Law. The validity, construction and effect of this Agreement shall be determined in accordance with the laws of the State of Delaware without giving effect to conflicts of laws principles.
+
+4
+
+* * *
+
+15. Resolution of Disputes. Any dispute or disagreement which may arise under, or as a result of, or in any way related to, the interpretation, construction or application of this Agreement shall be determined by the Board of Directors. Any determination made hereunder shall be final, binding and conclusive on the Director and the Corporation for all purposes.
+
+16. Successors in Interest. This Agreement shall inure to the benefit of and be binding upon any successor to the Corporation. This Agreement shall inure to the benefit of the Director’s legal representative and permitted assignees. All obligations imposed upon the Director and all rights granted to the Corporation under this Agreement shall be binding upon the Director 's heirs, executors, administrators, successors and assignees. 
+
+[remainder of page intentionally left blank; signature page follows]
+
+5
+
+* * *
+
+IN WITNESS WHEREOF, the parties have caused the Stock Option Agreement to be duly executed as of the day and year first above written.
+
+HEALTHWAYS, INC.:  
+  
+/s/ Ben R. Leedle, Jr.  
+  
+Name: Ben R. Leedle, Jr.  
+  
+Title: President & CEO  
+  
+DIRECTOR:  
+  
+6

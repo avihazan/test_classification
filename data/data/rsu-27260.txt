@@ -1,0 +1,181 @@
+Exhibit 10.86 
+
+INTERDIGITAL COMMUNICATIONS CORPORATION 
+
+
+
+This Restricted Stock Unit Award Agreement (this “Agreement”) is made as of August 14, 2006 (the “Date of Grant”) by InterDigital Communications Corporation (the “Company”) to  (“Grantee”) pursuant to the terms of the InterDigital Communications Corporation 1999 Restricted Stock Plan (the “Plan”), and is intended to constitute Performance RSUs, as that term is used in the voluntary RSU Exchange Offer Memorandum dated August 4, 2006\. 
+
+1\. Definitions. Capitalized terms shall have the meanings set forth below or in the Plan. As used herein: 
+
+(a) “Account” shall mean a bookkeeping account reflecting Grantee’s interest in restricted stock units. 
+
+(b) “Cause” means: (a) willful and repeated failure of Grantee to perform substantially his or her duties (other than any such failure resulting from incapacity due to physical or mental illness); (b) Grantee’s conviction of, or plea of guilty or nolo contendere to, a felony which is materially and demonstrably injurious to the Company or an Affiliate; (c) willful misconduct or gross negligence by Grantee in connection with his or her service to the Company; or (d) Grantee’s breach of any material obligation or duty owed to the Company or an affiliate. 
+
+(c) “Change in Control Event” means any transaction or series of transactions that constitutes both a Change of Control as defined in the Plan and a “change in the ownership” of the Company, a “change in effective control” of the Company, or a “change in the ownership of a substantial portion of the assets” of the Company for purposes of Code Section 409A and applicable IRS guidance promulgated thereunder. 
+
+(d) “Disability” a disability entitling Grantee to long-term disability benefits under the applicable long-term disability plan of the Company (or its Affiliate if Grantee is employed by such Affiliate); or (b) if Grantee is not covered by such a plan, a physical or mental condition or illness that renders Grantee incapable of performing his or her duties for a total of 180 days or more during any consecutive 12-month period. 
+
+(e) “Dividend Equivalent” means credits arising in respect of dividends paid on Shares, as described in Section 6 herein. 
+
+(f) “Fair Market Value” means the closing price of a Share on the exchange or on NASDAQ, as reported in The Wall Street Journal on the relevant valuation date or, if there is no trading on that date, on the next preceding trading date. 
+
+(g) “Restricted Period” means the period beginning on the Date of Grant and ending on the Vesting Date. 
+
+(h) “Restricted Stock Unit” means a right to receive  Shares issued pursuant to the Plan. 
+
+* * *
+
+(i) “Retirement” means resignation by Grantee after attaining a combination of age plus years of service at the Company (and Affiliates) equal to 70 with the consent of the Company. 
+
+(j) “Vesting Date” means January 15, 2008, subject to the conditions set forth in Section 4 below. 
+
+2\. Grant of Restricted Stock Units. 
+
+(a) Subject to the terms and conditions set forth herein and in the Plan, the Company hereby grants to Grantee the Restricted Stock Units. The Company shall maintain an Account for Grantee reflecting the number of Restricted Stock Units credited to Grantee hereunder. 
+
+(b) All of the terms, conditions and other provisions of the Plan are hereby incorporated by reference into this Agreement. Capitalized terms used in this Agreement but not defined herein shall have the same meanings as in the Plan. If there is any conflict between the provisions of this Agreement and the provisions of the Plan, the provisions of the Plan shall govern. Grantee acknowledges receipt of the Plan, a copy of which is annexed hereto, represents that he/she is familiar with the terms and provisions thereof and hereby agrees to be bound by the Plan (as presently in effect or hereafter amended) and this Agreement, and by all decisions and determinations of the Committee thereunder. (For purposes of this provision and other provisions of this Agreement, references to the Committee include any persons or administrative body to whom the Committee has delegated authority.) 
+
+3\. Restrictions on Restricted Stock Units. Subject to the terms and conditions set forth herein and in the Plan, Grantee shall not be permitted to sell, transfer, pledge or assign the Restricted Stock Units except by will or by the laws of descent and distribution. No such transfer occurring as a result of the Grantee’s death shall be effective to bind the Company unless the Committee shall have been furnished with a copy of the applicable will or such other evidence as the Committee may deem necessary to establish the validity of the transfer. 
+
+4\. Vesting and Forfeiture. 
+
+(a) Restricted Stock Units granted hereunder shall vest (meaning that the risk of forfeiture of such Restricted Stock Units shall lapse) on the Vesting Date if all of the following conditions are met: 
+
+(i) Grantee remains continuously employed by the Company through that date; and 
+
+(ii) One or more of the Performance Target or Targets set forth in the Performance Target Schedule attached hereto as Exhibit A have been attained. Each Restricted Stock Unit credited under Section 6 in respect of Dividend Equivalents shall vest at the time of vesting of the Restricted Stock Unit that gives rise, directly or indirectly, to such Dividend Equivalent. 
+
+(iii) For purposes of this Section 4(b), the portion of the Restricted Stock Units granted hereunder that becomes vested on the Vesting Date shall be determined by reference 
+
+2 
+
+* * *
+
+to the Performance Target Schedule, and any Restricted Stock Units that do not become vested as of the Vesting Date shall be immediately forfeited without regard to the Grantee’s continued employment with the Company. 
+
+(b) If Grantee’s service as a director and/or employee of the Company ends prior to the Vesting Date due to a termination for Cause or a resignation for any reason other than Grantee’s death, Disability, Retirement, or termination by the Company without Cause, all Restricted Stock Units granted hereunder will be forfeited. 
+
+(c) If Grantee’s service or employment with the Company ceases prior to the Vesting Date due to death, Disability, Retirement, or termination by the Company without Cause, Grantee will become vested in a pro-rata portion of his or her Restricted Stock Units. That pro-rata portion will be determined by multiplying the number of Restricted Stock Units by a fraction equal to the portion of the Restricted Period that has transpired prior to such cessation of service or employment. Settlement for Restricted Stock Units that become vested pursuant to this Section 4(c) will occur subject to the terms of the Plan on the first business day following the Vesting Date; provided, however, that in no event will settlement of Grantee’s Restricted Stock Units be made before the date which is six months after the date of Grantee’s termination of employment if Grantee is a “specified employee” within the meaning of Section 409A(a)(2)(B)(i) of the Internal Revenue Code, or any successor provision. 
+
+5\. Settlement and Election to Defer Settlement. 
+
+(a) Restricted Stock Units credited hereunder (including Restricted Stock Units credited in respect of Dividend Equivalents) will be settled by delivery of one share of the Company’s Common Stock for each Restricted Stock Unit being settled. Subject to Section 4(c) of this Agreement, settlement will occur on the first business day following the applicable Vesting Date, unless Grantee has elected to defer settlement in accordance with Section 5(b). 
+
+(b) By completing, signing and returning Exhibit B to this Agreement within 30 days of the date of this Agreement, Grantee may elect to defer the date of settlement of Restricted Stock Units credited hereunder. If a Grantee elects to defer settlement, such deferred settlement must occur on or after January 15, 2009. Notwithstanding the foregoing, no deferral election made pursuant to this Section 5(b) will be effective until the first anniversary of the date on which such election was made. 
+
+6\. Dividend Equivalents and Adjustments. Dividend Equivalents shall be credited on Restricted Stock Units (other than Restricted Stock Units that, at the relevant record date, previously have been settled or forfeited) in accordance with this Section 6: 
+
+(a) Cash Dividends. If the Company declares and pays a dividend or distribution on its Shares in the form of cash, then a number of additional Restricted Stock Units shall be credited to Grantee’s Account as of the payment date for such dividend or distribution equal to the number of Restricted Stock Units credited to the Account as of the record date for such dividend or distribution, multiplied by the amount of cash actually paid as a dividend or distribution on each outstanding Share at such payment date, divided by the Fair Market Value of a Share as of such payment date. 
+
+3 
+
+* * *
+
+(b) Non Cash Dividends. If the Company declares and pays a dividend or distribution on Shares in the form of property other than Shares, then a number of additional Restricted Stock Units shall be credited to Grantee’s Account as of the payment date for such dividend or distribution equal to the number of Restricted Stock Units credited to the Account as of the record date for such dividend or distribution, multiplied by the fair market value of such property actually paid as a dividend or distribution on each outstanding Share at such payment date, divided by the Fair Market Value of a Share as of such payment date. 
+
+(c) Stock Dividends. If the Company declares and pays a dividend or distribution on Shares in the form of additional Shares, then a number of additional Restricted Stock Units shall be credited to Grantee’s Account as of the payment date for such dividend or distribution equal to the number of Restricted Stock Units credited to the Account as of the record date for such dividend or distribution or split, multiplied by the number of additional Shares actually paid as a dividend or distribution or issued in such split in respect of each outstanding Share. 
+
+7\. Other Terms Relating to Restricted Stock Units. 
+
+(a) The number of Restricted Stock Units credited to a Grantee’s Account shall include fractional Restricted Stock Units calculated to at least three decimal places, unless otherwise determined by the Committee. Upon settlement of Restricted Stock Units, Grantee shall be paid, in cash, an amount equal to the value of any fractional Share that would have otherwise been deliverable in settlement of such Restricted Stock Units. 
+
+(b) It shall be a condition to the Company’s obligation to issue and deliver Shares in settlement of the Restricted Stock Units that Grantee (or the person to whom ownership rights may have passed by will or the laws of descent and distribution) pay to the Company, upon its demand, such amount as may be required by the Company for the purpose of satisfying any liability to withhold federal, state, or local income or other taxes. If the amount required is not paid, the Company may refuse to deliver the Shares in settlement of the Restricted Stock Units until such amount is paid. The Committee may, in its discretion, permit a Grantee (or the person to whom ownership rights may have passed by will or the laws of descent and distribution) to pay all or a portion of the amount required by the Company for such tax withholding, at such time and in such manner as the Committee shall deem to be appropriate, including by authorizing the Company to withhold from the Shares to be delivered in settlement, or by agreeing to surrender to the Company on or about the date such tax liability is determinable, Shares having a Fair Market Value on such date equal to the amount of such tax liability or a specified portion of such tax liability. 
+
+8\. Absence of Tax Gross-Up Payment. There shall be no tax gross-up on the Restricted Stock Units. 
+
+9\. Notices. Any notice to the Company under this Agreement shall be made in care of the Committee to the office of the General Counsel, at the Company’s main office in King of Prussia, Pennsylvania. All notices under this Agreement shall be deemed to have been given when hand-delivered or mailed, first class postage prepaid, and shall be irrevocable once given. 
+
+4 
+
+* * *
+
+10\. Securities Laws. The Committee may from time to time impose any conditions on the Restricted Stock Units (or the underlying Shares) as it deems necessary or advisable to comply with applicable securities laws. 
+
+11\. Award Not to Affect Service. The award granted hereunder shall not confer upon Grantee any right to continue service as an employee and/or director of the Company. 
+
+12\. Miscellaneous. 
+
+(a) The address for Grantee to which notice, demands and other communications to be given or delivered under or by reason of the provisions hereof shall be the Grantee’s address as reflected in the Company’s personnel records. 
+
+(b) Grantee authorizes the Company to withhold in accordance with applicable law from any compensation payable to him/her any taxes required to be withheld by federal, state or local law in connection with this award. 
+
+(c) Any provision for distribution in settlement of Grantee’s Account hereunder shall be by means of bookkeeping entries on the books of the Company and shall not create in Grantee or any person to whom ownership right may have passed any right to, or claim against any specific assets of the Company, nor result in the creation of any trust or escrow account for Grantee or any person to whom ownership rights may have passed. Grantee (or any other person entitled to a distribution hereunder) shall be a general creditor of the Company. 
+
+(d) To the extent not preempted by federal law, the validity, performance, construction and effect of this award shall be governed by the laws of the Commonwealth of Pennsylvania, without giving effect to principles of conflicts of law. 
+
+(e) To the extent Grantee elects to defer settlement of Restricted Stock Units pursuant to Section 5(b), this Agreement is intended to constitute part of a “top-hat” plan described in Section 201(2) of ERISA. 
+
+13\. Claims Procedure. 
+
+(a) To initiate a claim with respect to the settlement of Restricted Stock Units deferred in accordance with Section 5(b), Grantee (or the person to whom ownership rights may have passed by will or the laws of descent and distribution) (the “Claimant”) must file a written request with the Company. Upon receipt of such claim, the Company will advise the Claimant within ninety (90) days of receipt of the claim whether the claim is denied. If special circumstances require more than ninety (90) days for processing, the Claimant will be notified in writing within ninety (90) days of filing the claims than the Company requires up to an additional ninety (90) days to reply. The notice will explain what special circumstances make an extension necessary and indicate the date a final decision is expected to be made. 
+
+(b) If the claim is denied in whole or in part, the Claimant will be provided a written opinion, in language calculated to be understood by the Claimant, setting forth (i) the specific reason(s) for the denial of the claim, or any part of it, (ii) specific reference(s) to pertinent provisions of the Plan or this award upon which such denial was based, (iii) a description of any 
+
+5 
+
+* * *
+
+additional material or information necessary for the Claimant to perfect the claim, and an explanation of why such material or information is necessary, (iv) an explanation of the claim appeal procedure set forth in Section 13(c), below; and (v) a statement of the Claimant’s right to bring a civil action under section 502(a) of ERISA following an adverse determination upon appeal. 
+
+(c) Within sixty (60) days after receiving a notice from the Company that a claim has been denied, in whole or in part, a Claimant (or the Claimant’s duly authorized representative) may file with the Company a written request for a review of the denial of the claim. The Claimant or his duly authorized representative may, but need not, review the pertinent documents and submit issues and comments in writing for consideration by the Company. If the Claimant does not request a review of the initial determination within such sixty (60) days period, the Claimant will be barred and estopped from challenging the determination. 
+
+(d) Within sixty (60) days after the Company’s receipt of a request for review, it will review the initial determination. After considering all materials presented by the Claimant, without regard to whether such materials were submitted or considered in the initial review, the Company will render a written opinion. The manner and content of the final decision will include the same information described above in Section 13(b) with respect to the initial determination. If special circumstances require that the sixty (60) day time period be extended, the Company will so notify the Claimant and will render the decision as soon as possible, but no later than one hundred twenty (120) days after receipt of the request for review. The notice will explain what special circumstances make an extension necessary and indicate the date a final decision is expected to be made. Any decision on appeal will be final, conclusive and binding upon all parties. 
+
+IN WITNESS WHEREOF, the Company has caused this Restricted Stock Unit Award Agreement to be executed by its duly authorized officer, and Grantee has executed this Restricted Stock Unit Award Agreement, in each case as of the date first above written.   
+  
+INTERDIGITAL COMMUNICATIONS CORPORATION  
+By:  
+  
+Name:  
+GRANTEE  
+By:  
+  
+Name:  
+  
+6 
+
+* * *
+
+EXHIBIT A 
+
+PERFORMANCE TARGET SCHEDULE   
+  
+Performance Target/Goal
+
+Number of Restricted Stock Units Vested  
+  
+Units  
+Units  
+Units  
+Units  
+  
+7 
+
+* * *
+
+EXHIBIT B 
+
+INTERDIGITAL COMMUNICATIONS CORPORATION 
+
+RESTRICTED STOCK UNIT DEFERRAL ELECTION FORM 
+
+Grant Date: August 14, 2006 
+
+Restricted Stock Units 
+
+Check Only One: 
+
+I hereby elect to defer the settlement of my Restricted Stock Units until  [insert a date on or after the Vesting Date, (subject to accelerated settlement upon the consummation of a Change in Control Event* or my cessation of service as an employee or director of the Company).   
+  
+I hereby elect to defer the settlement of my Restricted Stock Units until my cessation of service as a director and/or employee of the Company (subject to accelerated settlement upon the consummation of a Change in Control Event*); provided, however, such settlement shall, to the extent required pursuant to Section 409A(a)(2)(B)(i) for a period of six months following such cessation of service.   
+  
+* * *
+
+* As defined in the Restricted Stock Unit Award Agreement pursuant to which the Restricted Stock Units were awarded to me.   
+  
+[name]  
+  
+Date  
+  
+8 

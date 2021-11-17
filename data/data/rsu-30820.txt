@@ -1,0 +1,64 @@
+Exhibit 10.3
+
+GLOBAL EAGLE ENTERTAINMENT INC.
+
+
+
+1\. Grant of Option. Global Eagle Entertainment Inc., a Delaware corporation (the “Company”), hereby grants to [ ] (the “Optionee”), an option (the “Option”), pursuant to the Company’s 2012 Equity Incentive Plan (the “Plan”), to purchase an aggregate of [ ] shares (the “Underlying Shares”) of Common Stock, par value $0.0001 per share (“Common Stock”), of the Company at a price of $[ ] per share (the “Exercise Price”), purchasable as set forth in and subject to the terms and conditions of this Nonstatutory Stock Option Agreement (the “Agreement”) and the Plan. Except where the context otherwise requires, the term “Company” shall include the parent and all subsidiaries of the Company as defined in Sections 424(e) and 424(f) of the Internal Revenue Code of 1986, as amended (the “Code”). Capitalized terms used but not otherwise defined herein shall have the meaning ascribed to such terms in the Plan. To the extent that any term of this Agreement conflicts or is otherwise inconsistent with any term of the Plan, as amended from time to time, the terms of the Plan shall take precedence and supersede any such conflicting or inconsistent term contained herein.
+
+2\. Nonstatutory Stock Option. This Option is not intended to qualify as an “incentive stock option” within the meaning of Section 422 of the Code.
+
+3\. Exercise of Option and Provisions for Termination.
+
+(a) Vesting Schedule. [Vesting to be specified by the Compensation Committee of the Board of Directors.] Except as otherwise provided in this Agreement, this Option may be exercised at any time prior to the tenth anniversary of the date of grant (the “Expiration Date”) in installments as to not more than the number of Underlying Shares then Vested pursuant to the provisions of this Section 3(a). The right of exercise shall be cumulative so that if this Option is not exercised to the maximum extent permissible during any exercise period it shall be exercisable, in whole or in part, with respect to all Underlying Shares not so purchased at any time prior to the Expiration Date or the earlier termination of this Option. This Option may not be exercised at any time after the Expiration Date.
+
+(b) Exercise Procedure. Subject to the conditions set forth in this Agreement, the Employee may exercise this Option by delivery of notice in a form (which may be electronic) approved by the Company to the Company or its designated Administrative Service (as defined below) accompanied by payment of consideration in an amount equal to the aggregate Exercise Price for the Underlying Shares to be purchased by such means as may be permitted by the Company or the Administrative Service, including, without limitation, by electing that the Company or the Administrative Service withhold delivery of such number of Underlying Shares having an aggregate Fair Market Value equal in amount to the aggregate Exercise Price for all Underlying Shares to be purchased plus the amount of all applicable Federal, state and local income and employment tax withholding requirements and applicable fees. Such exercise shall be effective upon receipt by the Company or the Administrative Service of such notice together with the required payment. The Employee may purchase less than the number of Underlying Shares for which this Option is Vested at any point in time; provided, however, that no partial exercise of this Option may be for any fractional shares. “Administrative Service” shall mean [ ] or any successor third-party stock option administrator designated by the Company from time to time.
+
+(c) Continuous Engagement Required. Except as otherwise provided in this Section 3, this Option may not be exercised unless the Optionee, at the time that he or she exercises this Option, is, and has been at all times since the date of grant of this Option, a Director of the Company.  
+  
+(d) Exercise Period Upon Termination of Engagement. If the Optionee ceases to be a Director of the Company for any reason other than death or Disability, the right to exercise this Option shall terminate three months after such cessation (but in no event after the Expiration Date); provided, however, that this Option shall be exercisable only to the extent that the Optionee was entitled to exercise this Option on the date of such cessation.
+
+(e) Exercise Period Upon Death or Disability. If the Optionee dies or becomes Disabled prior to the Expiration Date while he or she is a Director of the Company, or if the Optionee dies within three months after the Optionee ceases to be a Director of the Company, this Option shall be exercisable, within the period of one year following the date of death or Disability of the Optionee (but in no event after the Expiration Date) by the Optionee or by the person to whom this Option is transferred by will or the laws of descent and distribution or pursuant to a qualified domestic relations order (as defined in the Code) or Title I of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), or the rules thereunder; provided, however, that this Option shall be exercisable only to the extent that this Option was exercisable by the Optionee on the date of his or her death or Disability.
+
+(f) Discharge for Cause. If the Optionee, prior to the Expiration Date, ceases to serve as a Director of the Company because he or she is discharged for cause, the right to exercise this Option shall terminate immediately upon such termination for cause.
+
+4\. Non-transferability of Option. Except as provided in Section 3(e), this Option is personal and no rights granted hereunder may be transferred, assigned, pledged or hypothecated in any way (whether by operation of law or otherwise) nor shall any such rights be subject to execution, attachment or similar process. Upon any attempt to transfer, assign, pledge, hypothecate or otherwise dispose of this Option or of such rights contrary to the provisions hereof, or upon the levy of any attachment or similar process upon this Option or such rights, this Option and such rights shall, at the election of the Company, become null, void and of no further force of effect.
+
+5\. No Right to Serve as Director. Nothing contained in the Plan or this Agreement shall be construed or deemed by any Person under any circumstance to bind the Company to continue to engage the Optionee as a Director of the Company for the period within which this Option may be exercised.
+
+6\. Rights as a Shareholder. The Optionee shall have no rights as a shareholder with respect to any Underlying Shares unless and until the date on which the Optionee becomes the holder of record of the Underlying Shares purchased pursuant to this Option on the books and records of the Company, as maintained by the transfer agent for the Company’s Common Stock. No adjustment shall be made for dividends or other rights for which the record date is prior to such date.
+
+7\. Adjustments.
+
+(a) General. If: (i) the Company shall at any time be involved in a merger or other transaction in which shares of Common Stock are changed or exchanged, (ii) the Company shall subdivide or combine shares of Common Stock or the Company shall declare a dividend payable in shares of Common Stock, other securities or other property, (iii) the Company shall effect a cash dividend the amount of which, on a per share of Common Stock basis, exceeds 10% of the Fair Market Value of a share of Common Stock at the time the dividend is declared, or the Company shall effect any other dividend or other distribution on shares of Common Stock in the form of cash, or a repurchase of shares of Common Stock, that the Board determines by resolution is special or extraordinary in nature or that is in connection with a transaction that the Company characterizes publicly as a recapitalization or reorganization involving shares of Common Stock, or (iv) any other event shall occur, which in the judgment of the Board or Committee necessitates an adjustment to prevent dilution or enlargement of the benefits or potential benefits intended to be made available under the Plan, then the Committee shall, in such manner as it may deem equitable to prevent dilution or enlargement of the benefits or potential benefits intended to be made available under the Plan, adjust as applicable: (y) the number and kind of shares or other securities subject to this Option and (z) the Exercise Price for each share of Common Stock or other security subject to this Option, without changing the aggregate Exercise Price as to which this Option remains exercisable.  
+  
+(b) Board Authority to Make Adjustments. Adjustments under this Section 7 will be made by the Committee, whose determination as to what adjustments, if any, will be made and the extent thereof will be final and binding. No fractional shares will be issued pursuant to this Option on account of any such adjustments.
+
+(c) Limits on Adjustments. No adjustment shall be made under this Section 7 which would, within the meaning of any applicable provision of the Code, constitute a modification, extension or renewal of this Option or a grant of additional benefits to the Optionee.
+
+8\. Change of Control.
+
+(a) General. In the event of a Change of Control, the Optionee shall, with respect to this Option or any unexercised portion hereof, be entitled to the rights and benefits, and be subject to the limitations, set forth in Section 15 of the Plan.
+
+(b) Acceleration. In the event of a Change of Control, the Vesting schedule set forth in Section 3(a) of this Agreement shall be accelerated such that this Option shall, immediately prior to consummation of such Change of Control, become Vested and exercisable as to all Underlying Shares.
+
+9\. Withholding Taxes. The Company’s obligation to deliver Underlying Shares upon the exercise of this Option shall be subject to the Optionee’s satisfaction of all applicable Federal, state and local tax withholding requirements.
+
+10\. Miscellaneous.
+
+(a) Except as provided herein, this Agreement may not be amended or otherwise modified unless evidenced in writing and signed by the Company and the Optionee.
+
+(b) All notices under this Agreement shall be mailed, delivered by hand, or delivered by electronic means to the parties pursuant to the contact information for the applicable party set forth in the records of the Administrative Service, or at such other address as may be designated in writing by either of the parties to the other party.
+
+(c) This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware.
+
+(d) The Optionee hereby accepts, by signature or electronic means delivered to the Administrative Service, this Option and agrees to the terms and conditions of this Agreement and the Company’s 2012 Equity Incentive Plan. The Optionee hereby acknowledges receipt of a copy of the Company’s 2012 Equity Incentive Plan.  
+  
+Date of Grant: [_____________]
+
+GLOBAL EAGLE ENTERTAINMENT INC.  
+By:  
+Name:  
+Title:  
+EMPLOYEE  
+[________________]

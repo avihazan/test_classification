@@ -1,0 +1,295 @@
+Exhibit 10.10
+
+
+
+THIS NONSTATUTORY STOCK OPTION AGREEMENT (“Agreement”) is made and entered into as of August 9, 2010, by and between New Energy Technologies, Inc. a Nevada corporation (the “Company”), and John A. Conklin (“Recipient”):
+
+This Stock Option Agreement has been executed and delivered pursuant to the Employment Amendment dated August 9, 2010 (the “Employment Agreement, between the Recipient and the Company (the “Employment Agreement”). 
+
+In consideration of the covenants herein set forth, the parties hereto agree as follows:
+
+1\. Option Grant
+
+(a) Date option grant authorized: August 9, 2010 (the “Grant Date”)
+
+(c) Number of shares: 2,000,000 
+
+(d) Exercise Price: $0.55
+
+2\. Acknowledgements.
+
+(a) Recipient is the President and Chief Executive Officer of the Company (collectively, the “Company/Recipient Relationship”).
+
+(b) The Board has this day approved the granting of this Option subject to the execution of this Agreement; and
+
+(c) The Board has authorized the granting to Recipient of a non-statutory stock option (“Option”) to 2,000,000 purchase shares (the “Option Shares”) of common stock of the Company (“Common Stock”) upon the terms and conditions hereinafter stated and pursuant to an exemption from registration under the Securities Act of 1933, as amended (the “Securities Act”). 
+
+3\. Option Shares; Price.
+
+The Company hereby grants to Recipient the right to purchase, upon and subject to the terms and conditions herein stated, the Option Shares for cash (or other consideration as is authorized hereunder) at the price per Option Share set forth in Section 1 above (the “Exercise Price”), such price being not less than [e.g., 100%] of the fair market value per share of the Option Shares covered by this Option as of the date of grant. 
+
+4\. Term of Option; Continuation of Service. 
+
+Subject to the early termination provisions set forth in Sections 7 and 8 of this Agreement, this Option shall expire, and all rights hereunder to purchase the Option Shares shall terminate 10 years from the Grant Date. Nothing contained herein shall be construed to interfere in any way with the right of the Company, or its shareholders, or the Board, to remove or not elect Recipient as an officer and or a director of the Company, or to increase or decrease the compensation of Directors from the rate in effect at the date hereof.
+
+5\. Vesting of Option.
+
+1
+
+* * *
+
+Subject to the provisions of Sections 7 and 8 of this Agreement, this Option shall become exercisable during the term that Recipient serves in the Company/Recipient Relationship as follows:
+
+Number of Option Shares as to which the Option may vest:
+
+Milestone that must be achieved in order for vesting to occur:  
+  
+a.
+
+500,000
+
+Or such portion thereof as may be determined by the Board at its sole discretion, when one or more of the following items related the development, production, manufacturing, and sale of any commercially viable product have been successfully executed: 
+
+(i) completion of final design and/or engineering; 
+
+(ii) the establishment of manufacturing facilities, whether in-house or outsourced; and 
+
+(iii) the initial filing of any product safety approval applications, if required, in order to allow for the commercial sale of products by the Company;  
+  
+b.
+
+500,000
+
+Upon commencing commercial sales of any of the Company’s products, as reported in the Company's financial statements, whether to retail customers or wholesale customers;  
+  
+c.
+
+500,000
+
+As follows:
+
+(i) as to 100,000 shares on August 9, 2011;
+
+(ii) as to 100,000 shares on August 9, 2012;
+
+(iii) as to 100,000 shares on August 9, 2013;
+
+(iv) as to 100,000 shares on August 9, 2014; and
+
+(v) as to 100,000 shares on August 9, 2015;  
+  
+d.
+
+500,000
+
+When, to the Board’s satisfaction, the Company enters into a favorable business partnership with a third-party commercial organization in the industry segment related to the Company’s product development and sales efforts, under any of the following conditions:
+
+(i) a product development relationship whereby the third-party partner makes a significant financial investment, as determined at the Board’s discretion, directed towards the development of the Company’s products; or 
+
+(ii) a product development relationship whereby the third-party partner invests significant research and development resources, as determined at the Board’s discretion, directed towards the development of the Company’s products; or
+
+(iii) a strategic partnership with the third-party partner where, as determined at the Board’s discretion, such a partnership provides significant business advantages to the Company which it would otherwise not have, whether related to product development, commercial sales, industry position, or business reputation.  
+  
+2
+
+* * *
+
+All determinations and calculations with respect hereto shall be made by the Board or any committee thereof to which the Board has delegated such authority, in good faith in accordance with applicable law, the Articles of Incorporation and By-laws of the Company. This Option is an uncertificated security. Accordingly, the Company shall maintain an option registry, consistent with its current practices, for recording the vesting, exercise and termination of the Option. 
+
+6\. Exercise.
+
+(a) This Option shall be exercised, as to the vested shares, by delivery to the Company of (a) written notice of exercise stating the number of Option Shares being purchased (in whole shares only) and such other information set forth on the form of Notice of Exercise attached hereto as Exhibit A hereto, (b) a check or cash in the amount of the Exercise Price of the Option Shares covered by the notice, unless Recipient elects to exercise the cashless exercise option set forth in Section 6(b) below, in which case no payment will be required (or such other consideration as has been approved by the Board of Directors consistent with the Plan) and (c) a written investment representation as provided for in Section 13 hereof. This Option shall not be assignable or transferable, except by will or by the laws of descent and distribution, and shall be exercisable only by Recipient during his or her lifetime.
+
+(b) Anything herein to the contrary notwithstanding, to the extent and only to the extent vested, the Option may also be exercised (as to the Option Shares vested) at such time by means of a “cashless exercise” in which the Recipient shall be entitled to receive a certificate for the number of Option Shares equal to the quotient obtained by dividing [(A-B) (X)] by (A)< FONT lang=EN-US>, where: 
+
+(A) equals the average of the closing price of the Company’s Common Stock, as reported (in order of priority) on the Trading Market on which the Company’s Common Stock is then listed or quoted for trading on the Trading Date preceding the date of the election to exercise; or, if the Company’s Common Stock is not then listed or traded on a Trading Market, then the fair market value of a share of Common Stock as determined by an independent appraiser selected in good faith by the Recipient and the Company, the fees and expenses of which shall be paid by the Company for the three (3) Trading Days immediately preceding the date of such election;
+
+(B) equals the Exercise Price of the Option, as adjusted from time to time in accordance herewith; and
+
+(X) equals the number of vested Option Shares issuable upon exercise of this Option in accordance with the terms of this Option by means of a cash exercise rather than a cashless exercise (or, if the Option is being exercised only as to a portion of the shares as to which it has vested, the portion of the Options being exercised at the time the cashless exercise is made pursuant to this Section 6 ).
+
+For purposes of this Agreement:
+
+“Trading Day” means a day on which the Common Stock is traded on a Trading Market.
+
+“Trading Market” means, in order of priority, the following markets or exchanges on which the Common Stock is listed or quoted for trading on the date in question: the American Stock Exchange, the Nasdaq Capital Market, the Nasdaq Global Market, the Nasdaq Global Select Market, the New York Stock Exchange, the OTC Bulletin Board or the Pink Sheets.
+
+3
+
+* * *
+
+(c) No fractional shares shall be issued upon exercise of this Option. The Company shall, in lieu of issuing any fractional share, pay the Recipient entitled a sum in cash equal to such fraction multiplied by the then effective Exercise Price.
+
+7\. Termination of Service.
+
+If the Employment Agreement is terminated, unless the parties thereto otherwise agree in writing, as of the date of the termination of the Employment Agreement (the “Termination Date”), no further installments of the Option shall vest pursuant to Section 5, and the maximum number of Option Shares that Recipient may purchase pursuant hereto shall be limited to the number of Option Shares that were vested as of the Termination Date. Thereupon, Recipient shall have the right, subject to Section 8 hereof, at any time within 120 days of the Termination Date (the “Termination Exercise Period”) to exercise this Option to the extent vested and purchase Option Shares, to the extent, but only to the extent, that Recipient could have exercised this Option as of the Termination Date; following the expiration of the Termination Exercise Period the remaining unexercised vested Options shall terminate and this Agreement shall be of no further force or effect. 
+
+8\. Death of Recipient.
+
+If the Recipient shall die during the term of the Employment Agreement, Recipient’s personal representative or the person entitled to Recipient’s rights hereunder may at any time within the then remaining exercise period, exercise this Option and purchase Option Shares to the extent, but only to the extent, that Recipient could have exercised this Option as of the date of Recipient’s death; following the expiration of the aforesaid then remaining exercise period, this Agreement shall terminate in its entirety and be of no further force or effect.
+
+9\. No Rights as Shareholder. 
+
+Recipient shall have no rights as a shareholder with respect to the Option Shares covered by any installment of this Option until the effective date of issuance of the Option Shares following exercise of this Option, and no adjustment will be made for dividends or other rights for which the record date is prior to the date such stock certificate or certificates.
+
+10\. Recapitalization.
+
+(a) Subdivision or consolidation of shares. Subject to any required action by the shareholders of the Company, the number of Option Shares covered by this Option, and the Exercise Price thereof, shall be proportionately adjusted for any increase or decrease in the number of issued shares resulting from a subdivision or consolidation of shares or the payment of a stock dividend, or any other increase or decrease in the number of such shares effected without receipt of consideration by the Company; provided however that the conversion of any convertible securities of the Company shall not be deemed having been “effected without receipt of consideration by the Company”.
+
+(b) Reorganizations, Mergers etc.
+
+(i) In the event of a proposed dissolution or liquidation of the Company, a merger or consolidation in which the Company is not the surviving entity, or a sale of all or substantially all of the assets or capital stock of the Company (collectively, a “Reorganization”):
+
+(1) then, subject to Clause (b)(ii) below, any and all shares as to which the Option had not yet vested shall vest upon the date (the “Reorganization Vesting Date”) that the 
+
+4
+
+* * *
+
+Company provides the Recipient with the Reorganization Notice (as defined below); and provided, however, that there has been no termination of the Employment Agreement Recipient shall have the right to exercise this Option to the extent of all shares subject to the Option, for a period commencing on the Reorganization Vesting Date and terminating on the date of the consummation of such Reorganization. Unless otherwise agreed to by the Company. The Option shall terminate upon the consummation of the Reorganization and may not be exercised thereafter as to any shares subject thereto. The Company shall notify Recipient in writing (the “< FONT lang=EN-US>Reorganization Notice”), at least 30 days prior to the consummation of such Reorganization, of its intention to consummate a Reorganization. 
+
+(2) anything herein to the contrary notwithstanding, the exercise of the Option or any portion thereof pursuant to this Section 10(b) will be consummated simultaneously with the consummation of the Reorganization. If after the Company provides the Reorganization Notice to the Recipient the Company provides the Recipient with a further written notice notifying the Recipient that the Reorganization will not be consummated, then the Option will return to its status prior to the Reorganization Notice and the sh ares as to which the Option vested solely by virtue of this Section 10(b) (i) will revert to an unvested status.
+
+(ii) Subject to any required action by the shareholders of the Company, if the Company shall be the surviving entity in any merger or consolidation, this Option thereafter shall pertain to and apply to the securities to which a Recipient of Option Shares equal to the Option Shares subject to this Option would have been entitled by reason of such merger or consolidation, and the installment provisions of Section 5 shall continue to apply.
+
+(iii) In the event of a change in the shares of the Company as presently constituted, which is limited to a change of all of its authorized Stock without par value into the same number of shares of Stock with a par value, the shares resulting from any such change shall be deemed to be the Option Shares within the meaning of this Option.
+
+(iv) To the extent that the foregoing adjustments relate to shares or securities of the Company, such adjustments shall be made by the Board, whose determination in that respect shall be final, binding and conclusive. Except as hereinbefore expressly provided, Recipient shall have no rights by reason of any subdivision or consolidation of shares of Stock of any class or the payment of any stock dividend or any other increase or decrease in the number of shares of stock of any class, and the number and price of Option Shares subject to this Option shall not be affected by, and no adjustments shall be made by reason of, any dissolution, liquidation, merger, consolidation or sale of assets or capital stock, or any issue by the Company of s hares of stock of any class or securities convertible into shares of stock of any class.
+
+(v) The grant of this Option shall not affect in any way the right or power of the Company to make adjustments, reclassifications, reorganizations or changes in its capital or business structure or to merge, consolidate, dissolve or liquidate or to sell or transfer all or any part of its business or assets.
+
+11\. Taxation upon Exercise of Option.
+
+Recipient understands that, upon exercise of this Option, Recipient may recognize income, for Federal and state income tax purposes, in an amount equal to the amount by which the fair market value of the Option Shares, determined as of the date of exercise, exceeds the Exercise Price. The acceptance of the Option Shares by Recipient shall constitute an agreement by Recipient to report such income in accordance with then applicable law and to cooperate with Company in establishing the amount of such income and corresponding deduction to the Company for its income tax purposes. Withholding for federal 
+
+5
+
+* * *
+
+or state income and employment tax purposes will be made, if and as required by law, from Recipient’s then current compensation, or, if such current compensation is insufficient to satisfy withholding tax liability, the Company may require Recipient to make a cash payment to cover such liability as a condition of the exercise of this Option.
+
+12\. Modification, Extension and Renewal of Options.
+
+The Board or a duly appointed committee thereof, may modify, extend or renew this Option or accept the surrender thereof (to the extent not theretofore exercised) and authorize the granting of a new option in substitution therefore (to the extent not theretofore exercised), subject at all times to the Code and applicable securities laws. Notwithstanding the foregoing provisions of this Section 12, no modification shall, without the consent of the Recipient, alter to the Recipient’s detriment or impair any rights of Recipient hereunder.
+
+13\. Investment Intent; Restrictions on Transfer.
+
+(a) Recipient represents and agrees that if Recipient exercises this Option in whole or in part, Recipient will in each case acquire the Option Shares upon such exercise for the purpose of investment and not with a view to, or for resale in connection with, any distribution thereof; and that upon such exercise of this Option in whole or in part Recipient (or any person or persons entitled to exercise this Option under the provisions of Sections 7 and 8 of this Agreement) shall furnish to the Company a written statement to such effect, satisfactory to the Company in form and substance. If the Option Shares represented this Option are registered under the Securities Act, either before or after the exercise this Option in whole or in part, the Recipient shall be relieved of the foregoing investment representation and agreement and shall not be required to furnish the Company with the foregoing written statement.
+
+(b) Recipient further represents that Recipient has had access to the financial statements or books and records of the Company, has had the opportunity to ask questions of the Company concerning its business, operations and financial condition, and to obtain additional information reasonably necessary to verify the accuracy of such information.
+
+(c) Unless and until the Option Shares represented by this Option are registered under the Securities Act, all certificates representing the Option Shares and any certificates subsequently issued in substitution therefore and any certificate for any securities issued pursuant to any stock split, share reclassification, stock dividend or other similar capital event shall bear legends in substantially the following form:
+
+“THESE SECURITIES HAVE NOT BEEN REGISTERED OR OTHERWISE QUALIFIED UNDER THE SECURITIES ACT OF 1933 (THE ‘SECURITIES ACT’) OR UNDER THE APPLICABLE OR SECURITIES LAWS OF ANY STATE. NEITHER THESE SECURITIES NOR ANY INTEREST THEREIN MAY BE SOLD, TRANSFERRED, PLEDGED OR OTHERWISE DISPOSED OF IN THE ABSENCE OF REGISTRATION UNDER THE SECURITIES ACT OR ANY APPLICABLE SECURITIES LAWS OF ANY STATE, UNLESS PURSUANT TO EXEMPTIONS THEREFROM.
+
+THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE BEEN ISSUED PURSUANT TO THAT CERTAIN NONSTATUTORY STOCK OPTION AGREEMENT DATED MARCH 25, 2010 BETWEEN THE COMPANY AND THE ISSUEE WHICH RESTRICTS THE TRANSFER OF THESE SHARES WHICH ARE SUBJECT TO REPURCHASE BY THE COMPANY UNDER CERTAIN CONDITIONS.”
+
+6
+
+* * *
+
+and/or such other legend or legends as the Company and its counsel deem necessary or appropriate. Appropriate stop transfer instructions with respect to the Option Shares have been placed with the Company’s transfer agent.
+
+14\. Stand-off Agreement. Recipient agrees that, in connection with any registration of the Company’s securities under the Securities Act, and upon the request of the Company or any underwriter managing an underwritten offering of the Company’s securities, Recipient shall not sell, short any sale of, loan, grant an option for, or otherwise dispose of any of the Option Shares (other than Option Shares included in the offering) without the prior written consent of the Company or such managing underwriter, as applicable, for a period (the “Restrictive Period”) as may be specified by the Company or such underwriter or managing underwriter; provided, however, that the Restrictive Period shall not exceed one year following the effective date of registration of such offering.
+
+15\. Transfer Restrictions. This Option is not transferable by the Recipient, except as contemplated by Section 8 of this Agreement.
+
+16\. Notices. Any and all notices (including, but not limited to the Notice of Exercise) or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective on the earliest of (a) the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto prior to 5:30 p.m. (New York City time) on a Trading Day, (b) the next Trading Day after the date of transmis sion, if such notice or communication is delivered via facsimile at the facsimile number set forth on the signature pages attached hereto on a day that is not a Trading Day or later than 5:30 p.m. (New York City time) on any Trading Day, (c) the 2nd Trading Day following the date of mailing, if sent by U.S. nationally recognized overnight courier service, or (d) upon actual receipt by the party to whom such notice is required to be given. The address for such notices and communications shall be as set forth on the signature pages attached hereto.
+
+17\. Agreement Subject to Plan; Applicable Law. This Option is made pursuant to the Plan and shall be interpreted to comply therewith. A copy of such Plan is available to Recipient, at no charge, at the principal office of the Company. Any provision of this Option inconsistent with the Plan shall be considered void and replaced with the applicable provision of the Plan. This Option has been granted, executed and delivered in the State of Nevada, and the interpretation and enforcement shall be governed by the laws thereof and subject to the exclusive jurisdiction of the courts therein.
+
+[SIGNATURE PAGE FOLLOWS]
+
+7
+
+* * *
+
+IN WITNESS WHEREOF the parties hereto have executed this Stock Option Agreement as of the date first above written.
+
+New Energy Technologies, Inc. 
+
+By: _______________________________
+
+Name: Meetesh Patel
+
+Title: President and Chief Executive Officer
+
+Address and Facsimile For Notices: 
+
+3905 National Drive, Suite 110, Burtonsville,   
+Maryland 20866  
+800-213-0689   
+  
+Recipient 
+
+___________________________________
+
+John A. Conklin
+
+3489 Pennsylvania Avenue
+
+Apalachin, New York 13732
+
+(One of the following, as appropriate, shall be signed):
+
+I certify that as of August 9, 2010, I am not married.
+
+By his or her signature, the undersigned spouse of the Recipient named herein hereby agrees, as of August 9, 2010, to be bound by the provisions of the foregoing NONSTATUTORY STOCK OPTION AGREEMENT.  
+  
+__________________________
+
+John A. Conklin, Recipient 
+
+Recipient’s Spouse: 
+
+_____________________________
+
+Print Name:   
+  
+8
+
+* * *
+
+Exhibit A
+
+NOTICE OF EXERCISE OF STOCK OPTION
+
+To: NEW ENERGY Technologies, Inc.
+
+3905 National Drive
+
+Suite 110, 
+
+Burtonsville, Maryland 20866
+
+800-213-0689
+
+Attention: 
+
+The undersigned hereby elects to purchase ______________ shares (the “Purchased Option Shares”) of the Company pursuant to the terms of the Stock Option Agreement Dated August 9, 2010 between the undersigned and New Energy Technologies, Inc. and the undersigned (the “Option Agreement”), herewith tenders payment of the aggregate e xercise price in full, together with all applicable transfer taxes, if any, for the Purchased Option Shares, by (check applicable box):
+
+[ ] in lawful money of the United States; or
+
+[ ] [if permitted] the cancellation of such number of Option Shares as is necessary, in accordance with the formula set forth in Section 6(b) of the Option Agreement with respect to the maximum number of Option Shares purchasable pursuant to the cashless exercise procedure set forth Section 6(b).
+
+Please issue a certificate or certificates representing said Option Shares in the name of the undersigned as is specified below and forward the same to the address set forth below.
+
+__________________________________
+
+Signature of Recipient 
+
+Print Name of Recipient: _______________________________________
+
+Address For Delivery of Option Shares:
+
+___________________________________
+
+___________________________________
+
+___________________________________
+
+___________________________________
+
+9
+
+* * *

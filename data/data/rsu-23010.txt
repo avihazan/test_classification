@@ -1,0 +1,219 @@
+Exhibit 10.15 
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (this “Agreement”), is made, effective as of October 28,2010 (the “Grant Date”); by and between Western Liberty Bancorp (the “Company”) and William E. Martin (the “Employee”). 
+
+W I T N E S S E T H: 
+
+WHEREAS, in collection with the appointment of the Employee as Chief Executive Officer of the Company, the Board of Directors of the Company (the “Board”) has approved a grant of shared of the Company’s common stock, par value $0.0001 per share (“Common Stock”) to the Employee subject to certain restrictions as set forth herein. 
+
+NOW, THEREFORE, for and in consideration of the mutual promises herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows: 
+
+1\. Grant of Shares. Subject to the restrictions, terms and conditions of this Agreement, the Company granted to the Employee on the Grant Date 155,279 shares of duly authorized, validly issued, fully paid and non-assessable Common Stock (the “Shares”). Pursuit to Sections 2, 3(c), 3(d) and 3(e) hereof, the Shares are subject to certain transfer restrictions and possible risk of forfeiture. While the restrictions in Sections 2, 3(c) and 3(d) are in effect, the Shares subject to such restrictions shall be referred to herein as “Restricted Stock.” 
+
+2\. Restrictions on Transfer. The Employee shall not sell, assign, transfer, pledge, exchange, encumber, hypothecate, or otherwise dispose of the Restricted Stock, except as set forth in this Agreement. Any Attempted sale, assignment, transfer, pledge, exchange, encumbrance, hypothecation, or other disposition of the Restricted Stock in violation of this Agreement shall be void and of no effect and the Company shall have the right to disregard the same on its books and records and to issue “stop transfer” instructions to its transfer agent. 
+
+3\. Restricted Stock.
+
+(a) Retention of Certificates. Promptly after the date of this Agreement, the Company shall issue stock certificates representing the Restricted Stock unless it elects to recognize such ownership through book entry or another similar, method, pursuant to Section 8. The stock certificates shall be registered in the Employee’s name and shall bear any legend required under Section 4(a). Unless held in book entry form, such stock certificates shall be held in custody by the Company (or its designated agent) until the restrictions thereon shall have lapsed. Upon the Company’s request, the Employee shall deliver to the Company a duly signed stock power, endorsed in blank, relating to the Restricted Stock. If the Employee receives a stock dividend or extraordinary cash dividend on the Restricted Stock or the shares of Restricted Stock are split or the Employee receives any other shares, securities, moneys or property representing a dividend on the Restricted Stock (other than regular cash dividends on and after the date of this Agreement) or representing a distribution or return of capital upon or in respect of the Restricted Stock or any part thereof, or resulting from a split-up, reclassification or other like changes of the Restricted Stock, or otherwise received in exchange therefor, and any 
+
+* * *
+
+warrants, rights or options issued to the Employee in respect of the Restricted Stock (collectively “RS Property”), the Employee will also immediately deposit with and deliver to the Company any of such RS Property, including any certificates representing shares duly endorsed in blank or accompanied by stock powers duly executed in blank, and such RS Property shall be subject to the same restrictions, including that of this Section 3(a), as the Restricted Stock with regard to which they are issued and shall herein be encompassed within the term “Restricted Stock.” 
+
+(b) Rights with Regard to Restricted Stock. The Employee will have all rights of a stockholder with respect to the Restricted Stock, including the right to vote the Restricted Stock, to receive and retain any dividends payable to holders of Common Stock of record on and after the transfer of the Restricted Stock (although such dividends shall be treated, to the extent required by applicable law, as additional compensation for tax purposes if paid, on Restricted Stock and stock dividends will be subject to the restrictions provided in Section 3(a)), and to exercise all other rights, powers and privileges of a holder of Common Stock with respect to the Restricted Stock, with the exceptions that: (i) the Employee will not be entitled to delivery of the stock certificate or certificates representing the Restricted Stock until the period of time that such Shares are subject to the Restrictions set forth in Section 2 (the “Restricted Period”) shall have expired and unless all other vesting requirements with respect thereto have been fulfilled; (ii) the Company (or its designated agent) shall be entitled to retain custody of the stock certificate or certificates representing the Restricted Stock and the other RS Property during the Restriction Period; (iii) no RS Property shall bear interest or be segregated in separate accounts during the Restriction Period; and (iv) the Employee may not sell, assign, transfer, pledge, exchange, encumber, hypothecate, or otherwise dispose of the Restricted Stock during the Restriction Period, except as set forth in this Agreement. 
+
+(c) Vesting.
+
+(i) Subject to Section 3(d)(i), the Shares shall become vested and cease to be Restricted Stock, and accordingly, the restrictions contained in Sections 2, 3(a) and 3(b) shall no longer apply (but the Shares shall remain subject to Section 5) pursuant to the following schedule, which shall be cumulative; provided that the Employee’s employment with the Company has not terminated for any reason at any time prior to the applicable vesting date:   
+  
+Vesting Date
+
+Number of  
+Shares  
+Vested  
+  
+October 28, 2011
+
+31,056  
+  
+October 28, 2012
+
+31,056  
+  
+October 28, 2013
+
+31,056  
+  
+October 28, 2014
+
+31,056  
+  
+October 28, 2015
+
+31,055  
+  
+(ii) There shall be no proportionate or partial vesting in the periods prior to any vesting date and all vesting pursuant to Section 3(c)(i) shall occur only on the appropriate vesting date. 
+
+2 
+
+* * *
+
+(iii) Notwithstanding the foregoing, subject to Section 3(d)(i), any then unvested Restricted Stock shall vest in full upon the acquisition, directly or indirectly, in one or more transactions, by any person or group of persons acting in concert, of 50% of more of the then outstanding voting securities of the Company or the power to cause the election of a majority of the members of the Board. 
+
+(d) Termination.
+
+(i) If the Employee’s employment with the Company is terminated (i) at any time by the Company for Cause (as defined in the Amended and Restated Employment Agreement between the: Company and the Employee dated as of February 8, 2010 (the “Employment Agreement”)), or (ii) prior to October 28, 2015, by the Employee without Good Reason (as defined in the Employment Agreement), then the Employee shall (x) forfeit to the Company, without compensation (other than any amounts the Employee paid to acquire such Restricted Stock), any and all unvested Restricted Stock and (y) forfeit and transfer to the Company, without compensation (other than any amounts the Employee paid to acquire such Shares), 50% of the Shares that have become vested pursuant to Section 3(c) on or prior to the date of termination (subject to reduction by a number of Shares equal to the amount of any tax liability incurred by the Employee with respect to such vested Shares); provided, that the Employee has not made an election with respect to the shares of Restricted Stock under Section 83(b) of the Code, as of the date of termination (including any shares subject to a Lock-up Period (as defined below)). Any Shares subject to forfeiture in accordance with subsection (y) of the prior sentence are referred to as the “Forfeitable Shares”. Notwithstanding anything herein to the contrary, the Forfeitable Shares shall be remain Restricted Stock and shall be considered unvested under this Agreement, provided that the restrictions relating to RS Property shall not apply to the Forfeitable Shares. The Forfeitable Shares will vest and cease to be deemed Restricted Stock, and accordingly, the restrictions contained in Sections 2, 3(a) and 3(b) shall no longer apply (but the Shares shall remain subject to Section 5), upon a termination of the Employee’s employment for any reason other than a termination by the Company for Cause or termination by the Employee without Good Reason prior to October 28, 2015. 
+
+(ii) Upon a termination of the Employee’s employment with the Company any reason other than as set forth in Section 3(d)(i), the Employee shall forfeit to the Company, without compensation (other than any amounts the Employee paid to acquire such Restricted Stock), any and all unvested Restricted Stock (but no vested portion of the Restricted Stock). 
+
+(e) Lock-Up Period. The Employee agrees that, for a period of one year following the date that any Restricted Stock vests (each such period, a “Lock-up Period”), the Employee will not offer, sell, contract to sell, pledge, grant any option to purchase, make any short sale or otherwise dispose of, directly or indirectly, the Shares that became or that are deemed to have become vested on such vesting date; provided, however, that on each such vesting date (or, in the case of Restricted Stock issued after a vesting date, on the date of its issuance), the Employee shall be able to sell certain of the Shares that became or that are deemed to have become vested on such vesting date to the extent the proceeds of each such sale will be applied exclusively towards the satisfaction of the portion of any tax liabilities that become due 
+
+3 
+
+* * *
+
+and payable that is directly attributable to the vesting of such Shares; provided further, however, that the Employee shall not transfer any such Shares that remain subject to forfeiture pursuant to Section 3(d)(i), without first delivering prior notice to the Company, then receiving written approval from the Company, which approval shall not unreasonably be withheld or delayed. For the avoidance of doubt, the Shares subject to a Lock-up Period shall not be Restricted Stock and are not subject to forfeiture, except as otherwise provided in Section 3(d)(i). Each Lock-up Period shall survive the termination of the Employee’s employment. 
+
+(f) Delivery. When any Restricted Stock (including any Forfeitable Shares) becomes vested, the Company shall promptly issue and deliver, unless the Company is using a book entry or similar method pursuant to Section 8, in which case the Company shall upon the Employee’s request promptly issue and deliver, to the Employee a new stock certificate registered in the name of the Employee for such Shares without the legend set forth in Section 4(a) and deliver such Shares free of all liens, claims and other encumbrances (other than those created by the Employee), subject to applicable withholding taxes. Upon the vesting of any Restricted Stock under Section 3(c), notwithstanding whether such Shares remain Forfeitable Shares, the Company shall within 30 days following vesting deliver to the Employee any RS Property related to such Shares free of all liens, claims and other encumbrances (other than those created by the Employee), subject to applicable withholding taxes. 
+
+(g) Adjustments. The grant of Restricted Stock hereunder shall not affect in any way the right or power of the Board or the stockholders of the Company to make or authorize (i) any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, (ii) any merger or consolidation of the Company or any of its affiliates, (iii) any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Common Stock, (iv) the dissolution or liquidation of the Company or any of its affiliates, (v) any sale or transfer of all or part of the assets or business of the Company or any of its affiliates or (vi) any other corporate act or proceeding. 
+
+(h) Withholding. The Employee agrees that, subject to Section 3(i), no later than the date on which any Restricted Stock shall have become vested and the Employee becomes subject to any federal, state and local or foreign tax with respect to such Shares, the Employee shall pay, or make arrangements to pay or otherwise satisfy, in a manner approved by the Company in its sole discretion, an amount equal to the amount of all applicable federal, state and local or foreign taxes that the Company is required to withhold with respect to any such Shares. In the absence of such arrangements, the Company or one of its affiliates shall have the right to withhold such taxes from the Employee’s normal pay or other amounts payable to the Employee, including, but not limited to, the right to withhold Shares otherwise deliverable to the Employee hereunder. 
+
+(i) Section 83(b). If the Employee properly elects (as permitted by Section 83(b) of the Code) within 30 days after the Grant Date to include in gross income for federal income tax purposes in the year of issuance the fair market value of all or a portion of such Restricted Stock, the Employee shall pay to the Company or make arrangements satisfactory to the Company to pay to the Company upon such election, any federal, state or local taxes required to be withheld with respect to the applicable Restricted Stock. If the Employee shall fail to make such payment, the Company shall, to the extent permitted by law, have the right to deduct from 
+
+4 
+
+* * *
+
+any payment of any kind otherwise due to the Employee any federal, state or local taxes of any kind required by law to be withheld with respect to the Restricted Stock, as well as the rights set forth in Section 3(h). The Employee acknowledges that it is the Employee’s sole responsibility, and not the Company, to file timely and properly the election under Section 83(b) of the Code and any corresponding provisions of state tax laws if the Employees elects to utilize such election. 
+
+(j) Other Benefits. The Employee acknowledges and agrees that the Restricted Stock shall not be deemed compensation for purposes of computing benefits under any retirement plan of the Company or its affiliates nor affect any benefits under any other benefit plan now or subsequently in effect under which the availability or amount of benefits is related to the level of the Employee’s compensation. 
+
+(k) Delivery Delay. The delivery of any certificate representing the Restricted Stock or other RS Property may be postponed by the Company for such period as may be required for it to comply with any applicable foreign, federal or state securities law, or any national securities exchange listing requirements and the Company is not obligated to issue or deliver any securities if, in the opinion of counsel for the Company, the issuance of such Shares shall constitute a violation by the Employee or the Company of any provisions of any applicable foreign, federal or state law of any regulations of any governmental authority or any national securities exchange. 
+
+4\. Legend. All certificates representing the Restricted Stock shall have endorsed thereon the following legends: 
+
+(a) “The anticipation, alienation, attachment, sale, transfer, assignment, pledge, encumbrance or charge of the shares of stock represented hereby are subject to the terms and conditions (including forfeiture) of an agreement entered into between the registered owner and Western Liberty Bancorp (the “Company”). Copies of such agreement are on file at the principal office of the Company.” 
+
+(b) Any legend required to be placed thereon by applicable blue sky laws of any state. 
+
+Notwithstanding the foregoing, in no event shall the Company be obligated to issue a certificate representing the Restricted Stock prior to the vesting dates set forth above. 
+
+5\. Securities Representations. The Shares are being issued to the Employee and this Agreement is being made by the Company in reliance upon the following express representations and warranties of the Employee. 
+
+The Employee acknowledges, represents and warrants that: 
+
+(a) the Employee has been advised that the participant may be an “affiliate” within the meaning of Rule 144 under the Securities Act of 1933, as amended, (the “Act”), currently or at the time the Employee desires to sell the Shares following the vesting of the Restricted Stock, and in this connection the Company is relying in part on the Employee’s representations set forth in this section. 
+
+5 
+
+* * *
+
+(b) If the Employee is deemed an affiliate within the meaning of Rule 144 of the Act, the Shares, must be held indefinitely unless an exemption from any applicable resale restrictions is available or the Company files an additional registration statement (or a “re-offer prospectus”) with regard to such Shares and the Company is under no obligation to register the Shares (or to file a “re-offer prospectus”). 
+
+(c) If the Employee is deemed an affiliate within the meaning of Rule 144 of the Act, the Employee understands that the exemption from registration under Rule 144 will not be available unless (i) a public trading market then exists for the Common Stock of the Company, (ii) adequate information concerning the Company is then available to the public, and (iii) other terms and conditions of Rule 144 or any exemption therefrom are complied with; and that any sale of the Shares may be made only in limited amounts in accordance with such terms and conditions. 
+
+6\. No Obligation to Continue Employment. This Agreement is not an agreement of employment. This Agreement does not guarantee that the Company or its affiliates, will employ or retain, or continue to employ or retain, the Employee during the entire, or any portion of the, term of this Agreement, including but not limited to any period during which the Restricted Stock is outstanding, nor does it modify in any respect the Company’s or any of its affiliate’s right to terminate or modify the Employee’s employment or compensation. 
+
+7\. Power of Attorney. The Company, its successors and assigns, is hereby appointed the attorney-in-fact, with full power of substitution, of the Employee for the purpose of carrying out the provisions of this Agreement and taking any action and executing any instruments which such attorney-in-fact may deem necessary or advisable to accomplish the purposes hereof, which appointment as attorney-in-fact is irrevocable and coupled with an interest. The Company, as attorney-in-fact for the Employee, may in the name and stead of the Employee, make and execute all conveyances, assignments and transfers, of the Restricted Stock, Shares and property provided for herein, and the Employee hereby ratifies and confirms all that the Company, as said attorney-in-fact, shall do by virtue hereof. Nevertheless, the Employee shall, if so requested by the Company, execute and deliver to the Company all such instruments as may, in the judgment of the Company, be advisable for the purpose. 
+
+8\. Uncertificated Shares. Notwithstanding anything else herein, to the extent permitted under applicable foreign, federal or state law, the Company may issue the Restricted Stock in the form of uncertificated shares. Such uncertificated shares of Restricted Stock shall be credited to a book entry account maintained by the Company (or its designee) on behalf of the Employee. If thereafter certificates are issued with respect to the uncertificated shares of Restricted Stock, such issuance and delivery of certificates shall be in accordance with the applicable terms of this Agreement. 
+
+6 
+
+* * *
+
+9\. Notices. Any notice or communication given hereunder (each a “Notice”) shall be in writing and shall be sent by personal delivery, by courier or by United States mail (registered or certified mail, postage prepaid and return receipt requested), to the appropriate party at the address set forth below: 
+
+If to the Company, to: 
+
+Western Liberty Bancorp 
+
+8363 W. Sunset Road, Suite 350 
+
+Las Vegas, Nevada 89113 
+
+Attn: Chief Financial Officer 
+
+Telephone: (702) 966-7400 
+
+with a copy (which shall not constitute notice) to: 
+
+Proskauer Rose, LLP 
+
+1585 Broadway 
+
+New York, New York 10036 
+
+Attn: Jeffrey A. Horwitz, Esq. 
+
+Telephone: (212) 969-3000 
+
+If to the Employee, to the address for the Employee on file with the Company; 
+
+or such other address or to the attention of such other person as a party shall have specified by prior Notice to the other party. Each Notice will be deemed given and effective upon actual receipt (or refusal of receipt). 
+
+10\. Governing Law. All questions concerning the construction, validity and interpretation of this Agreement will be governed by, and construed in accordance with, the domestic laws of the State of Delaware, without giving effect to any choice of law or conflict of law provision or rule (whether of the State of Delaware or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than the State of Delaware. 
+
+11\. Consent to Jurisdiction. In the event of any dispute, controversy or claim between the Company or any Affiliate and the Employee in any way concerning, arising out of or relating to this Agreement (a “Dispute”), including without limitation any Dispute concerning, arising out of or relating to the interpretation, application or enforcement of this Agreement, the parties hereby (a) agree and consent to the personal jurisdiction of the courts of the State of New York located in New York County and/or the Federal courts of the United States of America located in the Southern District of New York (collectively, the “Agreed Venue”) for resolution of any such Dispute, (b) agree that those courts in the Agreed Venue, and only those courts, shall have exclusive jurisdiction to determine any Dispute, including any appeal, and (c) agree that any cause of action arising out of this Agreement shall be deemed to have arisen from a transaction of business in the State of New York. The parties also hereby irrevocably (i) submit to the jurisdiction of any competent court in the Agreed Venue (and of the appropriate appellate courts therefrom), (ii) to the fullest extent permitted by law, waive any and all defenses the parties may have on the grounds of lack of jurisdiction of any such court and any other objection that such parties may now or hereafter have to the laying of the venue of any such suit, action or proceeding in any such court (including without limitation any defense that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum), and (iii) consent to service of process in any such suit, action or proceeding, anywhere in the world, whether within or without the jurisdiction of any such court, in any manner provided by applicable law. Without limiting the foregoing, each party agrees 
+
+7 
+
+* * *
+
+that service of process on such party pursuant to a Notice as provided in Section 9 shall be deemed effective service of process on such party. Any action for enforcement or recognition of any judgment obtained in connection with a Dispute may be enforced in any competent court in the Agreed Venue or in any other court of competent jurisdiction. 
+
+12\. Amendment. No modification or waiver of any of the provisions of this Agreement shall be effective unless in writing by the party against whom it is sought to be enforced. 
+
+13\. Counterparts. This Agreement may be executed (including by facsimile transmission) with counterpart signature pages or in separate counterparts each of which shall be an original and all of which taken together shall constitute one and the same agreement. 
+
+14\. Miscellaneous.
+
+(a) By signing and returning this Agreement, the Employee agrees to comply with this Agreement and all applicable laws and regulations. 
+
+(b) This Agreement contains the entire understanding of the parties with respect to the subject matter hereof and supersedes any prior agreements between the Company and the Employee with respect to the subject matter hereof, including without limitation, the Employment Agreement. 
+
+(c) This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective heirs, legal representatives, successors and assigns. Except as provided in this Section 14(c), neither party may assign or delegate any rights or obligations hereunder. Notwithstanding the foregoing, the Employee hereby acknowledges and agrees that the Company may assign this Agreement to any successor to all or substantially all of the business and/or assets of the Company. As used in this Agreement, “Company” shall mean the Company and any successor to its business and/or assets. 
+
+(d) The failure of any party hereto at any time to require performance by another party of any provision of this Agreement shall not affect the right of such party to require performance of that provision, and any waiver by any party of any breach of any provision of this Agreement shall not be construed as a waiver of any continuing or succeeding breach of such provision, a waiver of the provision itself, or a waiver of any right under this Agreement. 
+
+(e) If any provision of this Agreement shall be held invalid or unenforceable, such invalidity or unenforceability shall not affect any other provisions hereof, and this Agreement shall be construed and enforced as if such provisions had not been included. 
+
+(f) The section headings used in this Agreement are included solely for convenience and shall not affect, or be used in connection with, the interpretation of this Agreement. 
+
+(g) The Company shall pay all fees and expenses necessarily incurred by the Company in connection with this Agreement and will from time to time use its reasonable efforts to comply with all laws and regulations which, in the opinion of counsel to the Company, are applicable thereto. 
+
+8 
+
+* * *
+
+(h) Although the Company makes no guarantee with respect to the tax treatment of the Restricted Stock, the award of Restricted Stock pursuant to this Agreement is intended to be exempt from Section 409A of the Code and shall be limited, construed and interpreted in accordance with such intent. With respect to any dividends and other RS Property, however, this Agreement is intended to comply with, or to be exempt from, the applicable requirements of Section 409A of the Code and shall be limited, construed and interpreted in accordance with such intent. In no event whatsoever shall the Company or any of its affiliates be liable for any additional tax, interest or penalties that may be imposed on the Employee by Section 409A of the Code or any damages for failing to comply with Section 409A of the Code. 
+
+[Remainder of page intentionally left blank – signature page follows] 
+
+9 
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Agreement on the date and year first above written.   
+  
+WESTERN LIBERTY BANCORP  
+By:
+
+/s/ George A. Rosenbaum Jr.  
+  
+George A. Rosenbaum Jr.  
+Title:
+
+CFO  
+  
+EMPLOYEE:  
+  
+/s/ William E. Martin  
+  
+William E. Martin  
+  
+10 

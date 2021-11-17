@@ -1,0 +1,513 @@
+  
+
+
+  
+
+
+  
+
+
+Exhibit 10.59
+
+  
+
+
+____ Award 2011 Plan
+
+
+
+  
+
+
+THIS AGREEMENT (the “Agreement”), dated ____________ (the “Grant Date”), is made by and between PEABODY ENERGY CORPORATION, a Delaware corporation (the “Company”), and the undersigned employee of the Company or a Subsidiary (as defined below) or an Affiliate (as defined below) of the Company (“Optionee”). 
+
+WHEREAS, the Company wishes to afford the Optionee the opportunity to purchase shares of its $0.01 par value Common Stock (“Common Stock”);
+
+WHEREAS, the Company wishes to carry out the Plan (as hereinafter defined), the terms of which are hereby incorporated by reference and made a part of this Agreement; and
+
+WHEREAS, the Committee (as hereinafter defined) appointed to administer the Plan, has determined that it would be to the advantage and best interest of the Company and its stockholders to grant the non-qualified stock option provided for herein to the Optionee as an incentive for increased efforts during his or her term of office with the Company or its Subsidiaries or Affiliates, and has advised the Company thereof and instructed the undersigned officers to issue said Options;
+
+NOW, THEREFORE, in consideration of the mutual covenants herein contained and other good and valuable consideration, receipt of which is hereby acknowledged, the parties hereto agree as follows:
+
+ARTICLE I
+
+DEFINITIONS
+
+  
+
+
+Whenever the following terms are used in this Agreement, they shall have the meaning specified below. Capitalized terms not otherwise defined in this Agreement shall have the meanings specified in the Plan.
+
+Section 1.1 - “Affiliate” shall mean any Person that (i) is directly or indirectly controlling, controlled by, or under common control with, the Company and (ii) would, together with the Company, be classified as the “service recipient” (as defined in the regulations under Code Section 409A) with respect to the Optionee. For the purposes of this definition, the term “control” (including, with correlative meanings, the terms “controlling”, “controlled by” and “under common control with”), as applied to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of that Person, whether through the ownership of voting securities, by contract or otherwise.
+
+  
+
+
+Section 1.2 - “Cause” shall mean “Cause” as defined in the Optionee's employment agreement with the Company.
+
+  
+
+
+Section 1.3 - “Change of Control” shall have meaning given to such term in Section 17(m) of the Plan.
+
+Section 1.4 - “Change of Control Price” means the lower of (i) the Fair Market Value of a share of Common Stock as of the date of the Change in Control, or (ii) the price paid per share of Common Stock as part of the transaction which constitutes the Change of Control. 
+
+  
+
+
+Section 1.5 - “Code” shall mean the Internal Revenue Code of 1986, as amended.
+
+  
+
+
+Section 1.6 - “Committee” shall mean the Administrator.
+
+  
+
+
+Section 1.7 - “Disability” shall have the meaning given to such term in Section 17(n) of the Plan.
+
+  
+
+
+Sections 1.8 - “Good Reason” shall mean “Good Reason” as defined in the Optionee's employment agreement with the Company.
+
+  
+
+
+Section 1.9 - “Option” shall mean the non-qualified stock option to purchase Common Stock granted under this Agreement.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+Section 1.10 - “Permitted Transferee” shall mean any child, stepchild, grandchild, parent, stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law or sister-in-law of the Optionee (including adoptive relationships); any person sharing the Optionee's household (other than a tenant or employee); any trust in which the Optionee and any of these persons have all of the beneficial interest; any foundation in which the Optionee and any of these persons control the management of the assets; any corporation, partnership, limited liability company or other entity in which the Optionee or any of these persons are the direct and beneficial owners of all of the equity interests (provided that the Optionee and these other persons agree in writing to remain the direct and beneficial owners of all such equity interests); and any personal representative of the Optionee upon the Optionee's death for purposes of administration of the Optionee's estate or upon the Optionee's incompetence for purposes of the protection and management of the assets of the Optionee. 
+
+  
+
+
+Section 1.11 - “Person” shall mean an individual, partnership, corporation, business trust, joint stock company, trust, unincorporated association, joint venture, governmental authority or other entity of whatever nature.
+
+  
+
+
+Section 1.12 - “Plan” shall mean the Peabody Energy Corporation 2011 Long-Term Equity Incentive Plan, as from time to time amended.
+
+  
+
+
+Section 1.13 - Pronouns ‑ The masculine pronoun shall include the feminine and neuter, and the singular the plural, where the context so indicates.
+
+  
+
+
+Section 1.14 - “Retirement” shall mean a Termination of Employment on or after age 55 with at least ten (10) years of service with the Company.
+
+  
+
+
+Section 1.15 - “Subsidiary” shall mean any corporation that (i) is in an unbroken chain of corporations beginning with the Company if each of the corporations, or group of commonly controlled corporations, other than the last corporation in the unbroken chain, then owns stock possessing 50% or more of the total combined voting power of all classes of stock in one of the other corporations in such chain and (ii) would, together with the Company, be classified as the “service recipient” (as defined in the regulations under Code Section 409A) with respect to the Optionee.
+
+  
+
+
+Section 1.16 - “Termination of Employment” shall mean a termination of the Optionee's employment with the Company, a Subsidiary or an Affiliate (regardless of the reason therefor).
+
+  
+
+
+ARTICLE II
+
+GRANT OF OPTIONS
+
+  
+
+
+Section 2.1 - Grant of Options. For good and valuable consideration, the Company hereby grants to the Optionee an option to purchase any part or all of the number of shares of Common Stock set forth on the signature page hereof upon the terms and subject to the conditions set forth in this Agreement.
+
+  
+
+
+Section 2.2 - Exercise Price. The exercise price of the shares of Common Stock covered by the Option shall be such amount per share as set forth on the signature page hereof (which shall not be less than the Fair Market Value (as determined in accordance with guidance issued under Code Section 409A) of a share of Common Stock on the Grant Date), subject to adjustment pursuant to Section 2.4 herein without commission or other charge.
+
+  
+
+
+Section 2.3 - No Obligation of Employment. Nothing in this Agreement or in the Plan shall confer upon the Optionee any right to continue in the employ of the Company or any Subsidiary or Affiliate, or interfere with or restrict in any way the rights of the Company and its Subsidiaries or Affiliates, which are hereby expressly reserved, to terminate the employment of the Optionee at any time for any reason whatsoever, with or without Cause.
+
+  
+
+
+Section 2.4 - Adjustments in Options. In the event of the occurrence of one of the corporate transactions or other events listed in Section 12(a) of the Plan, the Committee shall make such substitution or adjustment as provided in Section 12(a) in order to equitably reflect such corporate transaction or other event. Any such adjustment made by the Committee shall be final and binding upon the Optionee, the Company and all other interested persons.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+ARTICLE III
+
+EXERCISABILITY OF OPTIONS
+
+  
+
+
+Section 3.1 \- Options. Unless otherwise provided in this Agreement, this Option shall become exercisable as follows:  
+  
+Date Option
+
+Becomes Exercisable
+
+Percentage of shares of Common Stock as to which Option Is Exercisable  
+  
+First anniversary of Grant Date
+
+33.33%  
+  
+Second anniversary of Grant Date
+
+66.67%  
+  
+Third anniversary of Grant Date
+
+100%  
+  
+  
+
+
+This Option shall become exercisable, pursuant to the schedule above, with respect to the nearest whole number of shares of Common Stock, as determined by the Committee in its sole discretion.
+
+  
+
+
+Section 3.2 - Acceleration Events. Notwithstanding anything in this Article III to the contrary, this Option shall become exercisable with respect to 100% of the shares of Common Stock early (but only to the extent such Option has not otherwise terminated or become exercisable) upon (i) a Termination of Employment on account of death or Disability of the Optionee, or (ii) a Change of Control.
+
+  
+
+
+Section 3.3 - Effect of Termination of Employment. Except as otherwise provided in Section 3.2, the Option shall not become exercisable as to any additional shares of Common Stock following a Termination of Employment, and the portion of the Option which is then unexercisable shall terminate immediately.
+
+  
+
+
+Section 3.4 - Expiration of Options. This Option may not be exercised to any extent by the Optionee after the first to occur of the following events:
+
+  
+
+
+(a) The tenth anniversary of the date hereof; or 
+
+  
+
+
+(b) The first anniversary of the date of Termination of Employment (i) by reason of death or Disability, (ii) by the Company without Cause, or (iii) by the Optionee for Good Reason; or
+
+(c) The fifth anniversary of the date of Termination of Employment by reason of Retirement; or
+
+  
+
+
+(d) The date of a Termination of Employment by the Company for Cause or by the Optionee without Good Reason; or
+
+(e) The date of a Termination of Employment for any reason if the Option exercise price per share of Common Stock, as set forth on the signature page hereof, is higher than the Fair Market Value per share of Common Stock on the date of the Termination of Employment; or
+
+  
+
+
+(f) Upon a Change of Control, if either
+
+(i) the Committee terminates this Option by paying the Optionee an amount equal to the product of (x) the difference between the Change of Control Price and the Exercise Price (unless the Exercise Price is greater than the Change of Control Price, in which case this Option shall be terminated) and (y) the aggregate number of shares of Common Stock for which the Option is exercisable, or
+
+(ii) the Optionee is permitted to exercise his or her Option prior to the Change of Control.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+ARTICLE IV
+
+EXERCISE OF OPTION
+
+  
+
+
+Section 4.1 - Person Eligible to Exercise. During the lifetime of the Optionee, only he or she, or a Permitted Transferee, or in the event of Disability his or her committee or conservator, may exercise this Option or any portion thereof. After the death of the Optionee, the Option may, prior to the time when the Option becomes unexercisable under Section 3.4, be exercised by his or her beneficiary or estate or Permitted Transferee.
+
+  
+
+
+Section 4.2 - Partial Exercise. Any exercisable portion of this Option or the entire Option, if then wholly exercisable, may be exercised in whole or in part at any time prior to the time when the Option or portion thereof becomes unexercisable under Section 3.4; provided, however, that any partial exercise shall be for whole shares of Common Stock only.
+
+  
+
+
+Section 4.3 - Manner of Exercise. The Option, or any exercisable portion thereof, may be exercised solely by delivery to the Secretary of the Company or designee or his or her office (or any third party designated by the Secretary of the Company to that effect) of all of the following prior to the time when the Option or such portion becomes unexercisable under Section 3.4:
+
+  
+
+
+(a) Notice in writing signed by the Optionee or another person then entitled to exercise the Option or portion thereof, stating that the Option or portion thereof is thereby exercised, such notice complying with all applicable rules established by the Committee;
+
+  
+
+
+(b) Full payment (in cash, in shares of Common Stock, by check or by a combination thereof) for the shares with respect to which such Option or portion thereof is exercised;
+
+  
+
+
+(c) Full payment to the Company of all amounts which, under federal, state or local law, it is required to withhold upon exercise of the Option; and
+
+  
+
+
+(d) In the event the Option or portion thereof is exercised pursuant to Section 4.1 by any person or persons other than the Optionee, appropriate proof of the right of such person or persons to exercise the Option.
+
+  
+
+
+  
+
+
+Section 4.4 - Conditions to Issuance of Stock Certificates. The shares of Common Stock deliverable upon the exercise of an Option, or any portion thereof, may be either previously authorized but unissued shares or issued shares that have been reacquired by the Company. Such shares shall be fully paid and nonassessable. The Company shall not be required to issue or deliver any certificate or certificates for shares of Common Stock purchased upon the exercise of an Option or portion thereof prior to fulfillment of all of the following conditions:
+
+  
+
+
+(a) The obtaining of approval or other clearance from any state or federal governmental agency that the Committee, in its absolute discretion, determines to be necessary or advisable; and
+
+  
+
+
+(b) The lapse of such reasonable period of time following the exercise of the Option as the Committee may from time to time establish for reasons of administrative convenience.
+
+  
+
+
+Section 4.5 - Rights as Stockholder. The holder of an Option shall not be, and shall not have any of the rights or privileges of, a stockholder of the Company in respect of any shares purchasable upon the exercise of the Option or any portion thereof unless and until certificates representing such shares shall have been issued by the Company to such holder.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+ARTICLE V
+
+MISCELLANEOUS
+
+  
+
+
+  
+
+
+Section 5.1 - Administration. The Committee has the power to interpret the Plan and this Agreement and to adopt such rules for the administration, interpretation and application of the Plan as are consistent therewith and to interpret or revoke any such rules. All actions taken and all interpretations and determinations made by the Committee shall be final and binding upon the Optionee, the Company and all other interested persons. No member of the Committee shall be personally liable for any action, determination or interpretation made in good faith with respect to the Plan or the Options. In its absolute discretion, the Board may at any time and from time to time exercise any and all rights and duties of the Committee under the Plan and this Agreement.
+
+  
+
+
+Section 5.2 - Options Not Transferable. Neither the Option nor any interest or right therein or part thereof shall be liable for the debts, contracts or engagements of the Optionee or his or her successors in interest or shall be subject to disposition by transfer, alienation, anticipation, pledge, encumbrance, assignment or any other means whether such disposition be voluntary or involuntary or by operation of law by judgment, levy, attachment, garnishment or any other legal or equitable proceedings (including bankruptcy), and any attempted disposition thereof shall be null and void and of no effect; provided, however, that this Section 5.2 shall not prevent transfers by will or by the applicable laws of descent and distribution or transfers without consideration to a Permitted Transferee to the extent permitted by the Plan.
+
+  
+
+
+Section 5.3 - Shares to Be Reserved. The Company shall at all times during the term of the Option reserve and keep available such number of shares of Common Stock as will be sufficient to satisfy the requirements of this Agreement.
+
+  
+
+
+Section 5.4 - Notices. Any notice to be given under the terms of this Agreement to the Company shall be addressed to the Company in care of its Secretary, and any notice to be given to the Optionee shall be addressed to him or her at the address given beneath his or her signature hereto. By a notice given pursuant to this Section 5.4, either party may hereafter designate a different address for notices to be given to him or her. Any notice which is required to be given to the Optionee shall, if the Optionee is then deceased, be given to the Optionee's personal representative if such representative has previously informed the Company of his or her status and address by written notice under this Section 5.4. Any notice shall be deemed duly given when enclosed in a properly sealed envelope or wrapper addressed as aforesaid, deposited (with postage prepaid) in a post office or branch post office regularly maintained by the United States Postal Service. Notwithstanding the foregoing, any notice required or permitted hereunder from the Company to the Optionee may be made by electronic means, including by electronic mail to the Company-maintained electronic mailbox of the Optionee, and the Optionee hereby consents to receive such notice by electronic delivery. To the extent permitted in an electronically delivered notice described in the previous sentence, the Optionee shall be permitted to respond to such notice or communication by way of a responsive electronic communication, including by electronic mail.
+
+  
+
+
+Section 5.5 - Titles. Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement.
+
+  
+
+
+Section 5.6 - Applicability of Plan. The Option and the shares of Common Stock issued to the Optionee upon exercise of the Option shall be subject to all of the terms and provisions of the Plan, to the extent applicable to the Option and such shares. In the event of any conflict between this Agreement and the Plan, the terms of the Plan shall control.
+
+  
+
+
+Section 5.7 - Amendment. 
+
+  
+
+
+(a) This Agreement may be amended only by a writing executed by the parties hereto that specifically states that it is amending this Agreement.
+
+(b) This Agreement is intended to be exempt from the application of Code Section 409A and shall, to the extent practicable, be construed accordingly. If either party to this Agreement reasonably determines that any amount payable pursuant to this Agreement would result in adverse tax consequences under Code Section 409A, then such party shall deliver written notice of such determination to the other party, and the parties hereby agree to work in good faith to amend this Agreement so it complies with the requirements of Code Section 409A and preserves as nearly as possible the original intent and economic effect of the affected provisions.
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Section 5.8 - Dispute Resolution. Any dispute or controversy arising under or in connection with this Agreement shall be resolved by arbitration in St. Louis, Missouri. Arbitrators shall be selected, and arbitration shall be conducted, in accordance with the rules of the American Arbitration Association. The Company shall pay or reimburse any legal fees in connection with such arbitration in the event that the Optionee prevails on a material element of his or her claim or defense. Payments or reimbursements of legal fees made under this Section 5.8 that are provided during one calendar year shall not affect the amount of such payments or reimbursements provided during a subsequent calendar year, payments or reimbursements under this Section 5.8 may not be exchanged or substituted for another form of compensation to the Optionee, and any such reimbursement or payment will be paid within sixty (60) days after the Optionee prevails, but in no event later than the last day of the Optionee's taxable year following the taxable year in which he incurred the expense giving rise to such reimbursement or payment. This Section 5.8 shall remain in effect throughout the Optionee's employment with the Company and for a period of five (5) years following the Optionee's Termination of Employment.
+
+  
+
+
+Section 5.9 - Governing Law. The laws of the State of Delaware shall govern the interpretation, validity and performance of the terms of this Agreement regardless of the law that might be applied under principles of conflicts of laws.
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties hereto.
+
+  
+  
+  
+OPTIONEE
+
+PEABODY ENERGY CORPORATION  
+  
+By  
+  
+[Optionee Name]
+
+Its  
+  
+Aggregate number of shares of Common Stock for which the Option granted hereunder is exercisable: ________  
+  
+Exercise Price per share of Common Stock: $____  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+

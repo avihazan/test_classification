@@ -1,0 +1,425 @@
+Exhibit 10.2
+
+
+
+BY AND BETWEEN
+
+PEPSIAMERICAS, INC.,  
+A DELAWARE CORPORATION,
+
+POHLAD COMPANIES,  
+A MINNESOTA CORPORATION
+
+AND
+
+ROBERT C. POHLAD
+
+DATED AS OF SEPTEMBER 6, 2005
+
+* * *
+
+  
+
+
+TABLE OF CONTENTS
+
+ARTICLE I
+
+CERTAIN DEFINITIONS  
+  
+Section 1.1.
+
+Certain Definitions  
+  
+ARTICLE II
+
+REPRESENTATIONS AND WARRANTIES  
+  
+Section 2.1.
+
+Representations and Warranties of the Company  
+  
+Section 2.2.
+
+Representations and Warranties of the Shareholders  
+  
+ARTICLE III
+
+SHAREHOLDER AND COMPANY CONDUCT  
+  
+Section 3.1.
+
+Prohibited Acquisitions  
+  
+Section 3.2.
+
+Acquisition of Voting Securities  
+  
+Section 3.3.
+
+Buy-Back Offer  
+  
+Section 3.4.
+
+Charter and By-Laws  
+  
+Section 3.5.
+
+Rights Agreement  
+  
+Section 3.6.
+
+No Agreements  
+  
+Section 3.7.
+
+Special Meetings Requested by the Shareholder; Nominations  
+  
+Section 3.8.
+
+Options  
+  
+ARTICLE IV
+
+EFFECTIVENESS AND TERMINATION  
+  
+Section 4.1.
+
+Effectiveness  
+  
+Section 4.2.
+
+Termination  
+  
+ARTICLE V
+
+MISCELLANEOUS  
+  
+Section 5.1.
+
+Injunctive Relief  
+  
+Section 5.2.
+
+Successors and Assigns  
+  
+Section 5.3.
+
+Amendments, Waiver  
+  
+Section 5.4.
+
+Notices  
+  
+Section 5.5.
+
+Applicable Law  
+  
+Section 5.6.
+
+Headings  
+  
+Section 5.7.
+
+Integration  
+  
+Section 5.8.
+
+Severability  
+  
+Section 5.9.
+
+Consent to Jurisdiction  
+  
+Section 5.10.
+
+Counterparts  
+  
+i
+
+* * *
+
+  
+
+
+AMENDED AND RESTATED SHAREHOLDER AGREEMENT, dated as of September 6, 2005 (this “Agreement”), by and between PepsiAmericas, Inc., a Delaware corporation (the “Company”), Pohlad Companies, a Minnesota corporation, and Robert C. Pohlad (each a “Shareholder” and collectively, the “Shareholders.”)
+
+W I T N E S S E T H:
+
+WHEREAS, the Company and Shareholders are parties to a Shareholder Agreement dated as of November 30, 2000, as amended (the “Original Shareholder Agreement”);
+
+WHEREAS, each Shareholder is currently the owner of certain outstanding shares of common stock par value $0.01 per share of the Company (the “Common Stock”);
+
+WHEREAS, in light of the Company’s and Shareholders’ continuing relationship, the Company and the Shareholders desire to amend and restate this agreement to contain certain terms and conditions concerning the acquisition and disposition of Voting Securities (as defined herein) of the Company by the Shareholders, and related provisions concerning the Shareholders’ relationship with and investment in the Company.
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements set forth herein and for other good and valuable consideration, receipt and sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+
+ARTICLE I
+
+CERTAIN DEFINITIONS
+
+Section 1.1. CERTAIN DEFINITIONS. In addition to other terms defined elsewhere in this Agreement, as used in this Agreement, the following terms shall have the meanings ascribed to them below:
+
+“Affiliate” shall mean, with respect to any person, any other person that directly or indirectly through one or more intermediaries controls or is controlled by or is under common control with such person. For the purposes of this definition, “control,” when used with respect to any particular person, means the power to direct the management and policies of such person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms “controlling” and “controlled” have meanings correlative to the foregoing.
+
+“Affiliated Transaction Committee” shall mean the Affiliated Transaction Committee of the Board.
+
+“Agreement” shall have the meaning assigned to such term in the preamble.
+
+“Beneficial Owner” (and, with correlative meanings, “Beneficially Own” and “Beneficial Ownership”) of any interest means a Person who, together with his or its Affiliates, is or may be deemed a beneficial owner of such interest for purposes of Rule 13d-3 or 13d-5 under the Exchange Act, or who, together with his or its Affiliates, has the right to become such a
+
+* * *
+
+  
+
+
+beneficial owner of such interest (whether such right is exercisable immediately or only after the passage of time) pursuant to any agreement, arrangement or understanding, or upon the exercise, conversion or exchange of any warrant, right or other instrument, or otherwise; PROVIDED that a Person shall not be deemed the Beneficial Owner of Voting Securities solely as a result of having been granted a revocable proxy relating to such Voting Securities in connection with any one special or annual meeting of shareholders of the Company (including any postponements or adjournments thereof), nor shall the procurement of such a proxy be deemed to give the proxy holder “control” over any Person as to which such proxy holder does not otherwise have control.
+
+“Board” shall mean the Board of Directors of the Company in office at the applicable time, as elected in accordance with the By-Laws.
+
+“Buy-Back Offer” shall have the meaning set forth in Section 3.3 of this Agreement.
+
+“By-Laws” shall mean the by-laws of the Company, as they may be amended from time to time.
+
+“Charter” shall mean the Certificate of Incorporation of the Company, as it may be amended from time to time.
+
+“Commission” shall mean the United States Securities and Exchange Commission.
+
+“Common Stock” shall have the meaning assigned in the recitals of this Agreement.
+
+“Company” shall have the meaning assigned in the preamble.
+
+“Director” shall mean any member of the Board of Directors of the Company in office at the applicable time, as elected in accordance with the provisions of the By-Laws.
+
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended.
+
+“Family” shall mean, with respect to any natural person, (i) any child, stepchild, parent, stepparent, spouse or sibling, and (ii) any grandchild, grandparent, uncle, aunt, first cousin, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law who Beneficially Owns greater than 1% of the Voting Power or who has entered into an agreement or commitment with said natural person with respect to the Voting Securities, and shall in each case include adoptive relationships.
+
+“Permitted Acquisition” shall mean the acquisition of Voting Securities pursuant to (1) a transaction (including the grant of any options to purchase Common Stock granted to any member of the Shareholder Group) approved by the Affiliated Transaction Committee, or (2) compensation paid or otherwise given by the Company for Robert C. Pohlad’s services as a director, officer, employee, or in any other capacity.
+
+“Person” shall mean any individual, partnership, joint venture, corporation, trust, unincorporated organization, government or department or agency of a government.
+
+“Pohlad Companies” shall mean Pohlad Companies, a Minnesota corporation.
+
+2
+
+* * *
+
+  
+
+
+“Pohlad Group” shall mean the Pohlad Companies, Robert C. Pohlad, any Affiliate of Robert C. Pohlad (other than the Company or its subsidiaries), any member of Robert C. Pohlad’s Family, and any Person with whom Robert C. Pohlad, any Affiliate of Robert C. Pohlad or any member of Robert C. Pohlad’s Family is part of a 13D Group.
+
+“Repurchase” shall have the meaning set forth in Section 3.3 of this Agreement.
+
+“Rights Agreement” shall mean the Shareholder Rights Agreement between PepsiAmericas, Inc. (f/k/a Whitman Corporation), Pohlad Companies, Dakota Holdings, LLC, and Robert C. Pohlad, dated as of November 30, 2000, as amended.
+
+“Securities Act” shall mean the Securities Act of 1933, as amended.
+
+“Shareholder Group” shall mean the Pohlad Group.
+
+“13D Group” shall mean any group of Persons acquiring, holding, voting or disposing of any Voting Security which would be required under Section 13(d) of the Exchange Act and the rules and regulations thereunder to file a statement on Schedule 13D with the Commission as a “person” within the meaning of Section 13(d)(3) of the Exchange Act; PROVIDED that a Person shall not be deemed to be part of a 13D Group with another Person solely as a result of having been granted a revocable proxy relating to such Person’s Voting Securities in connection with any one special or annual meeting of shareholders of the Company (including any postponements or adjournments thereof).
+
+“Total Voting Power” shall mean, calculated at a particular point in time, the aggregate Votes represented by all then outstanding Voting Securities.
+
+“Transfer” shall mean any sale, transfer, pledge, encumbrance or other disposition to any Person, and to “Transfer” shall mean to sell, transfer, pledge, encumber or otherwise dispose of to any Person.
+
+“Votes” shall mean votes entitled to be cast generally in the election of Directors, assuming the conversion of any securities then convertible into Common Stock or shares of any other class of capital stock of the Company then entitled to vote generally in the election of Directors.
+
+“Voting Securities” shall mean the Common Stock and shares of any other class of capital stock of the Company then entitled to vote generally in the election of Directors and any securities then convertible into Common Stock or shares of any other class of capital stock of the Company then entitled to vote generally in the election of Directors.
+
+ARTICLE II
+
+REPRESENTATIONS AND WARRANTIES
+
+Section 2.1. REPRESENTATIONS AND WARRANTIES OF THE COMPANY. The Company represents and warrants to the Shareholders as of the date hereof as follows:
+
+3
+
+* * *
+
+  
+
+
+(a) The Company has been duly incorporated and is validly existing as a corporation in good standing under the laws of the State of Delaware and has all necessary corporate power and authority to enter into this Agreement and to carry out its obligations hereunder.
+
+(b) This Agreement has been duly and validly authorized by the Company and all necessary and appropriate action has been taken by the Company to execute and deliver this Agreement and to perform its obligations hereunder.
+
+(c) This Agreement has been duly executed and delivered by the Company and assuming due authorization and valid execution and delivery by each of the Shareholders, this Agreement is a valid and binding obligation of the Company, enforceable against it in accordance with its terms.
+
+Section 2.2. REPRESENTATIONS AND WARRANTIES OF THE SHAREHOLDERS. The Shareholders represent and warrant to the Company as of the date hereof as follows:
+
+(a) Pohlad Companies has been duly incorporated and is validly existing as a corporation in good standing under the laws of the State of Minnesota and has all necessary corporate power and authority to enter into this Agreement and to carry out its obligations hereunder.
+
+(b) This Agreement has been duly and validly authorized by Pohlad Companies and all necessary and appropriate action has been taken by Pohlad Companies to execute and deliver this Agreement and to perform its obligations hereunder.
+
+(c) This Agreement has been duly executed and delivered by each of Pohlad Companies and Robert C. Pohlad and assuming due authorization and valid execution and delivery by the Company, this Agreement is a valid and binding obligation on each of Pohlad Companies and Robert C. Pohlad, enforceable against each in accordance with its terms.
+
+ARTICLE III
+
+SHAREHOLDER AND COMPANY CONDUCT
+
+Section 3.1. PROHIBITED ACQUISITIONS. Subject to the provisions of this Agreement, during the term of this Agreement, the Shareholders agree with the Company that, without the prior approval of the Affiliated Transaction Committee, the Shareholders will not, and will cause each member of the Shareholder Group not to initiate (including by means of publicly proposing or announcing or otherwise disclosing an intention to propose, solicit, offer, seek to effect or negotiate) a merger, acquisition or other business combination transaction relating to the Company (other than a merger, acquisition or business combination of a third party (not a member of the Shareholder Group) with the Company) which would not be, if consummated, a Permitted Acquisition.
+
+4
+
+* * *
+
+  
+
+
+Section 3.2. ACQUISITION OF VOTING SECURITIES. Subject to the provisions of this Agreement, during the term of this Agreement, the Shareholders agree with the Company that the Shareholders may not take any of the following actions (unless such action is a Permitted Acquisition) singly or as part of a partnership, limited partnership, syndicate or other 13D Group: directly or indirectly, acquire, propose to acquire, or publicly announce or otherwise disclose an intention to propose to acquire, or offer or agree to acquire, by purchase or otherwise, Beneficial Ownership of any additional Voting Security other than those Voting Securities already Beneficially Owned as of the date of this Agreement, provided that nothing in this Agreement shall require the approval of the Affiliated Transaction Committee for the exercise of any options, warrants, or similar rights in existence as of the date hereof.
+
+The Shareholder Group shall not be prohibited by the terms of this Agreement from taking any action or exercising any right which is not inconsistent with the terms of this Agreement, including soliciting or obtaining the revocable proxy of any other shareholder of the Company with respect to the election of directors or any other matter, seeking the election of new directors, calling special meetings of shareholders of the Company, making shareholder proposals, engaging in discussions with the Board or the management of the Company or otherwise voting its Voting Securities in any manner in which any member of the Shareholder Group shall determine in its sole discretion. In addition, this section shall not be deemed to restrict Directors affiliated with the Shareholders from participating as officers or Board members in the direction of the Company.
+
+Section 3.3. BUY-BACK OFFER. During the term of this Agreement, if the Company purchases shares of Common Stock from the public, whether by tender offer, open market purchase or otherwise (a “Repurchase”), the Company shall contemporaneously with the Repurchase offer to purchase from the Shareholder Group, on the same terms and conditions, including price, as in the Repurchase, a percentage of those shares of Common Stock Beneficially Owned by the Shareholder Group equal to the percentage of shares of Common Stock to be Repurchased from the Beneficial Owners of shares of Common Stock other than the Shareholder Group (the “Buy-Back Offer”). The Company shall provide notice to the Shareholders of its intention to engage in a Repurchase and of the mechanism by which the Repurchase shall occur not less than thirty (30) days in advance of the date on which the Repurchase is to be consummated, and the Shareholders shall provide notice to the Company within ten (10) days of receipt of such notice whether the Shareholder Group intends to accept the Buy-Back Offer.
+
+Section 3.4. CHARTER AND BY-LAWS. During the term of this Agreement the Company shall not, and the Shareholder Group shall not, and shall not facilitate any effort to, amend, alter or repeal, or propose the amendment, alteration or repeal of, any provision of the Charter or the By-Laws in any manner which is inconsistent with the terms of this Agreement. If at any time during the term of this Agreement the provisions of this Agreement shall conflict with the provisions of the Charter or the By-Laws, the parties shall use all reasonable efforts, consistent with their fiduciary responsibilities, to cause the provisions of the Charter and the By-Laws to be brought into conformity with the provisions of this Agreement.
+
+Section 3.5. RIGHTS AGREEMENT. During the term of this Agreement, the Company hereby agrees not to (i) amend any provision of the Rights Agreement in any manner which is inconsistent with the terms of this Agreement and which adversely affects the rights of
+
+5
+
+* * *
+
+  
+
+
+the Shareholder Group under the terms of this Agreement or (ii) adopt any new rights agreement which is inconsistent with the terms of this Agreement and which adversely affects the rights of the Shareholder Group under the terms of this Agreement.
+
+Section 3.6. NO AGREEMENTS. During the term of this Agreement no member of the Shareholder Group shall, directly or indirectly, enter into any agreement or other understanding with any member of the PepsiCo Group with respect to the holding, voting, acquisition or disposition of Voting Securities.
+
+Section 3.7. SPECIAL MEETINGS REQUESTED BY THE SHAREHOLDER; NOMINATIONS. In the event that during the term of this Agreement the Shareholder Group requests a special meeting of the stockholders of the Company in accordance with the By-Laws, or the Shareholder Group nominates an alternative slate of directors to the slate proposed by the Board at any annual meeting of stockholders of the Company in accordance with the By-Laws, the Company hereby agrees that the Company shall not, without the Shareholders’ consent, from the date of receipt of such request for a special meeting or the date of receipt of such nomination, as the case may be, until the adjournment of the requested special meeting or the annual meeting, as the case may be, (i) take any action effecting a material change in its capital structure, (ii) declare or pay a dividend (other than any regular quarterly dividend), (iii) materially increase the compensation of any executive officer or (iv) take any material action not in the ordinary course of business; PROVIDED that this section shall not restrict the ability of the Company to comply with commitments entered into prior to the date of such request.
+
+Section 3.8. OPTIONS. The Company shall not grant to any member of the Shareholder Group any options to purchase Common Stock (other than as a Permitted Acquisition) unless such grant is approved by the Affiliated Transaction Committee (or, if such Committee shall not be in existence, by a committee of the Board composed entirely of Independent Directors).
+
+ARTICLE IV
+
+EFFECTIVENESS AND TERMINATION
+
+Section 4.1. EFFECTIVENESS. This Agreement shall take effect immediately upon its execution and shall remain in effect until it is terminated pursuant to Section 4.2 hereof.
+
+Section 4.2. TERMINATION. This Agreement shall terminate upon written agreement of the Company (which shall require the approval of the Affiliated Transaction Committee (or, if such Committee shall not be in existence, by a committee of the Board composed entirely of Independent Directors)) and the Shareholders at any time to terminate this Agreement, which termination shall occur at a time to be fixed in such mutual agreement.
+
+ARTICLE V
+
+MISCELLANEOUS
+
+Section 5.1. INJUNCTIVE RELIEF. Each party hereto acknowledges that it would be impossible to determine the amount of damages that would result from any breach of any of the
+
+6
+
+* * *
+
+  
+
+
+provisions of this Agreement and that the remedy at law for any breach, or threatened breach, of any of such provisions would likely be inadequate and, accordingly, agrees that each other party shall, in addition to any other rights or remedies which it may have, be entitled to seek such equitable and injunctive relief as may be available from any court of competent jurisdiction to compel specific performance of, or restrain any party from violating, any of such provisions. In connection with any action or proceeding for injunctive relief, each party hereto hereby waives the claim or defense that a remedy at law alone is adequate and agrees, to the maximum extent permitted by law, to have each provision of this Agreement specifically enforced against him or it, without the necessity of posting bond or other security against him or it, and consents to the entry of injunctive relief against him or it enjoining or restraining any breach or threatened breach of such provisions of this Agreement.
+
+Section 5.2. SUCCESSORS AND ASSIGNS. This Agreement shall be binding upon, shall inure to the benefit of and shall be enforceable by the Company and by the Shareholders and their respective successors and permitted assigns, and no such term or provision is for the benefit of, or intended to create any obligations to, any other Person.
+
+Section 5.3. AMENDMENTS, WAIVER.
+
+(a) This Agreement may be amended only by an agreement in writing executed by the parties hereto. Any approval of an amendment of this Agreement upon the part of the Company shall require the approval of the Affiliated Transaction Committee (or, if such Committee shall not be in existence, by a committee of the Board composed entirely of Independent Directors) at a duly convened meeting thereof.
+
+(b) Either party may waive in whole or in part any benefit or right provided to it under this Agreement, such waiver being effective only if contained in a writing executed by the waiving party. No failure by any party to insist upon the strict performance of any covenant, duty, agreement or condition of this Agreement or to exercise any right or remedy consequent upon breach thereof shall constitute a waiver of any such breach or of any other covenant, duty, agreement or condition, nor shall any delay or omission of either party to exercise any right hereunder in any manner impair the exercise of any such right accruing to it thereafter. Any waiver of any benefit or right provided to the Company under this Agreement shall require the approval of a majority of the Board and approval of the Affiliated Transaction Committee (or, if such Committee shall not be in existence, by a committee of the Board composed entirely of Independent Directors) at a duly convened meeting thereof.
+
+Section 5.4. NOTICES. Except as otherwise provided in this Agreement, all notices, requests, claims, demands, waivers and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered by hand, when delivered personally or by courier, three days after being deposited in the mail (registered or certified mail, postage prepaid, return receipt requested), or when received by facsimile transmission if promptly confirmed by one of the foregoing means, as follows:
+
+7
+
+* * *
+
+  
+
+
+If to the Shareholders:
+
+Pohlad Companies
+
+Suite 3800
+
+60 South Sixth Street
+
+Minneapolis, MN 55402
+
+Attention: Robert C. Pohlad
+
+Fax: (612) 661-3825
+
+If to the Company:
+
+PepsiAmericas, Inc.
+
+4000 Dain Rauscher Plaza
+
+60 South Sixth Street
+
+Minneapolis, MN 55402
+
+Attention: Chief Executive Officer
+
+Fax: (612) 661-3825
+
+or to such other address or facsimile number as either party may, from time to time, designate in a written notice given in a like manner.
+
+Section 5.5. APPLICABLE LAW. This Agreement shall be governed by and construed in accordance with the internal laws of the State of Delaware without giving effect to principles of conflicts of law.
+
+Section 5.6. HEADINGS. The descriptive headings of the several sections in this Agreement are for convenience only and do not constitute a part of this Agreement and shall not be deemed to limit or affect in any way the meaning or interpretation of this Agreement.
+
+Section 5.7. INTEGRATION. This Agreement and the other writings referred to herein or delivered pursuant hereto which form a part hereof contain the entire understanding of the parties with respect to its subject matter. This Agreement supersedes all prior agreements and understandings between the parties with respect to its subject matter. There are no restrictions, agreements, promises, representations, warranties, covenants or undertakings with respect to its subject matter other than those expressly set forth or referred to herein.
+
+Section 5.8. SEVERABILITY. If any term or provision of this Agreement or any application thereof shall be declared or held invalid, illegal or unenforceable, in whole or in part, whether generally or in any particular jurisdiction, such provision shall be deemed amended to the extent, but only to the extent, necessary to cure such invalidity, illegality or unenforceability, and the validity, legality and enforceability of the remaining provisions, both generally and in every other jurisdiction, shall not in any way be affected or impaired thereby.
+
+Section 5.9. CONSENT TO JURISDICTION. In connection with any suit, claim, action or proceeding arising out of this Agreement, the Shareholders and the Company each hereby consent to the in personam jurisdiction of the United States federal courts and state courts located in the State of Delaware; the Shareholders and the Company each agree that service in the manner set forth in Section 5.4 hereof shall be valid and sufficient for all purposes; and the
+
+8
+
+* * *
+
+  
+
+
+Shareholders and the Company each agree to, and irrevocably waive any objection based on forum non conveniens or venue not to appear in any United States federal court or state court located in the State of Delaware.
+
+Section 5.10. COUNTERPARTS. This Agreement may be executed by the parties hereto in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+[SIGNATURE PAGE FOLLOWS]
+
+9
+
+* * *
+
+  
+
+
+[SIGNATURE PAGE TO AMENDED AND RESTATED SHAREHOLDER AGREEMENT]
+
+IN WITNESS WHEREOF, the Company and the Shareholders have caused this Agreement to be duly executed by their respective authorized officers as of the date set forth at the head of this Agreement.
+
+PEPSIAMERICAS, INC.  
+  
+By:
+
+/s/ Alexander H. Ware  
+  
+Name: Alexander H. Ware  
+  
+Title: Executive Vice President and  
+Chief Financial Officer  
+  
+POHLAD COMPANIES  
+  
+By:
+
+/s/ Robert C. Pohlad  
+  
+Name: Robert C. Pohlad  
+  
+Title: President  
+  
+/s/ Robert C. Pohlad  
+  
+Robert C. Pohlad  
+  
+* * *

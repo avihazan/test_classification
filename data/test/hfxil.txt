@@ -1,0 +1,167 @@
+Exhibit 10.20 
+
+IOMEGA CORPORATION 
+
+
+
+Granted Under 1997 Stock Incentive Plan 
+
+1\. Grant of Option. 
+
+This agreement evidences the grant by Iomega Corporation, a Delaware corporation (the “Company”), on  (the “Grant Date”) to  , an employee of the Company (the “Participant”), of an option to purchase, in whole or in part, on the terms provided herein and in the Company’s 1997 Stock Incentive Plan (the “Plan”), a total of  shares of common stock, $0.03 1/3 par value per share (the “Common Stock”), of the Company (the “Shares”) at $  per Share. Unless earlier terminated, this option shall expire on the tenth anniversary of the Grant Date (the “Final Exercise Date”). 
+
+It is intended that the option evidenced by this agreement shall not be an incentive stock option as defined in Section 422 of the Internal Revenue Code of 1986, as amended and any regulations promulgated thereunder (the “Code”). Except as otherwise indicated by the context, the term “Participant”, as used in this option, shall be deemed to include any person who acquires the right to exercise this option validly under its terms. 
+
+2\. Vesting Schedule. 
+
+(a) Scheduled Vesting. Except as otherwise provided in this agreement, this option will become exercisable (“vest”) in accordance with the following schedule:   
+  
+Date
+
+* * *
+
+Amount Which First
+
+Becomes Vested
+
+* * *
+
+Amount Vested on a
+
+Cumulative Basis
+
+* * *  
+  
+First anniversary of the Grant Date
+
+25% 25%  
+  
+Second anniversary of the Grant Date
+
+25% 50%  
+  
+Third anniversary of the Grant Date
+
+25% 75%  
+  
+Fourth anniversary of the Grant Date
+
+25% 100%  
+  
+This option shall expire upon, and will not be exercisable after, the Final Exercise Date. The right of exercise shall be cumulative so that to the extent the option is not exercised in any period to the maximum extent permissible it shall continue to be exercisable, in whole or in part, with respect to all shares for which it is vested until the earlier of the Final Exercise Date or the termination of this option under Sections 3, 4 or 5 hereof or the Plan. 
+
+(b) Automatic Acceleration Upon Certain Events. 
+
+(i) Effective immediately prior to the occurrence of an Acquisition Event (as defined in the Plan), the vesting schedule of this option shall be accelerated in part so that one-half of the number of shares which would otherwise have first become exercisable on any date on or after the date of such Acquisition Event shall become vested. The remaining one-half of such number of shares shall continue to vest in accordance with Section 2(a) (i.e., on each subsequent anniversary of the Vesting Date, one-half of the number of shares that would otherwise have first become exercisable shall become vested), except as otherwise provided in subparagraph (ii) or (iii) below or as otherwise determined by the Board of Directors in accordance with the Plan. 
+
+\- 1 - 
+
+* * *
+
+(ii) To the extent this option remains outstanding after an Acquisition Event, then, as of the date which is the second anniversary of the date of the Acquisition Event, the vesting schedule of this option shall be accelerated so that all shares which remain unvested shall automatically become vested in full. 
+
+(iii) To the extent this option remains outstanding after an Acquisition Event, then, if (x) the Participant’s employment is terminated by the Company or its successor without Cause (as defined in Section 5(e)) or (y) the Participant resigns from employment by the Company or its successor for Good Cause (as defined below), in either case prior to the time that this option is vested in full, then the vesting schedule of this option shall be accelerated so that all shares which remain unvested shall automatically become vested in full. 
+
+(iv) For purposes of this Section, “Good Cause” shall mean a significant reduction in the Participant’s compensation, position or responsibilities. 
+
+3\. Non-Solicitation; Non-Disclosure. 
+
+(a) Non-Solicitation of Employees. Participant agrees that during Participant’s employment with the Company, and for one year following Participant’s termination of employment with the Company, Participant shall not, directly or indirectly, in any capacity (including but not limited to, as an individual, a sole proprietor, partner, stockholder, investor, officer or director of a corporation, an employee, agent, associate, or consultant of any person, firm or corporation, or other entity) hire any person from, attempt to hire any person from, or solicit, induce, persuade, or otherwise cause any person to leave his or her employment with the Company. Any breach of Participant’s obligations under this paragraph shall, in addition to all other remedies available to the Company, result in the immediate release of the Company from any obligations it would otherwise have to provide further payments or benefits under this agreement. 
+
+(b) Non-Solicitation of Customers. Participant agrees that during Participant’s employment with the Company and for one year following Participant’s termination of employment with the Company, Participant shall not, directly or indirectly, in any capacity, solicit the business of any customer of the Company except on behalf of the Company, or attempt to induce any customer of the Company to cease or reduce its business with the Company; provided that following the termination of Participant’s employment with the Company he or she may solicit a customer of the Company to purchase goods or services that do not compete directly or indirectly with those then offered by the Company. Any breach of Participant’s obligations under this paragraph shall, in addition to all other remedies available to the Company, result in the immediate release of the Company from any obligations it would otherwise have to provide further payments or benefits under this agreement. 
+
+(c) Non-Disclosure. Participant agrees that, except in the ordinary and proper course of performing his or her duties for the Company, Participant shall not disclose to others any proprietary, confidential or secret information, including but not limited to inventions, intellectual property, information relating to the Company’s products, research, technology, development, services, clients, customers, suppliers, employees, business, operation, activities, procedures, plans, or proposals. 
+
+(d) Remedies. Participant agrees and acknowledges that if Participant violates the non-solicitation or non-disclosure provisions of this Section 3 (i) Participant’s right to exercise this option 
+
+\- 2 - 
+
+* * *
+
+and any other options granted by the Company shall terminate immediately, (ii) the Company may pursue any and all remedies available at law or in equity, including but not limited to specific performance, injunctive relief and damages, and (iii) in addition to any remedies described in (ii), the Participant shall pay to the Company an amount equal to Participant’s gain resulting from any exercise of the option computed as the difference between the option price and the market price on the date of exercise multiplied by the number of shares exercised. 
+
+4\. Non-Competition. 
+
+(a) Confidential/Proprietary Information. Participant acknowledges and agrees that in Participant’s position at the Company, Participant will have access to, knowledge of and use of the Company’s trade secrets, proprietary information, business operations, business know-how, employee information, and customer information. Participant acknowledges that such information is critical to the successful operation of Company’s business, that it would be impossible for Participant to discard all knowledge of such information upon separation of employment from the Company, and that it would be unfair to the Company for such information to be used by an Participant in a business that competes or attempts to compete with the Company. Participant recognizes and agrees that the Company operates and competes on a worldwide basis and that it is appropriate that this covenant not to compete extends worldwide. 
+
+(b) Participant acknowledges and agrees that Participant’s employment with the Company and any stock option grants made to Participant from the Company are consideration for this agreement not to compete. 
+
+(c) Participant agrees that during Participant’s employment with the Company and for one year following the termination of Participant’s employment with the Company for whatever reason, Participant will not directly or indirectly anywhere in the world, engage in any business or enterprise or perform services for any entity, whether as owner, partner, officer, director, employee, consultant, investor, lender or otherwise, except as the holder of not more than 1% of the outstanding stock of a publicly-held company, that actually or potentially competes with the Company. For the purposes of this section only and not for purposes of any antitrust related market definition or analysis, an entity (which includes but is not limited to a person, partnership, joint venture, or corporation) will be considered to compete with the Company if such entity (or in the case of a multi-billion dollar, multi-division corporation, the division thereof for which services are proposed to be performed by Participant) or any of its affiliates engages directly or indirectly in the removable media storage device market segment as all or part of its business. Examples of such entities include: Syquest, Castlewood, Imation, Sony, HP Storage Division, Seagate Removable Storage Division, and their affiliates. These examples are provided for illustration purposes and are not intended to be an all-inclusive list or to limit the preceding terms in any way. Any breach of Participant’s obligations under this paragraph shall, in addition to all other remedies available to the Company, result in the immediate release of the Company from any obligations it would otherwise have to provide further payments or benefits under this agreement. 
+
+(d) Participant agrees and acknowledges that if Participant violates the non-competition provisions of this Section 4 (i) Participant’s right to exercise this option and any other options granted by the Company shall terminate immediately, (ii) the Company may pursue any and all remedies available at law or in equity, including but not limited to specific performance, injunctive relief and damages, and (iii) in addition to any remedies described in (ii), the Participant shall pay to the Company an amount equal to Participant’s gain resulting from any exercise of the option computed as the difference between the option price and the market price on the date of exercise multiplied by the number of shares exercised. 
+
+\- 3 - 
+
+* * *
+
+(e) If any restriction set forth in this Section 4 is found by any court of competent jurisdiction to be unenforceable because it extends for too long a period of time or over too great a range of activities or in too broad of a geographic area, it shall be interpreted to extend only over the maximum period of time, range of activities or geographic area as to which it may be enforceable. 
+
+5\. Exercise of Option. 
+
+(a) Form of Exercise. Each election to exercise this option shall be in writing, signed by the Participant, and received by the Company at its principal office, accompanied by payment in full in the manner provided in the Plan. The Participant may purchase less than the number of shares covered hereby, provided that no partial exercise of this option may be for any fractional share or for fewer than ten whole shares. 
+
+(b) Continuous Relationship with the Company Required. Except as otherwise provided in this Section 5, this option may not be exercised unless the Participant, at the time he or she exercises this option, is, and has been at all times since the date of grant of this option, an employee, officer or director of, or consultant or advisor to, the Company or any parent or subsidiary of the Company as defined in Section 424(e) or (f) of the Code (an “Eligible Participant”). 
+
+(c) Termination of Relationship with the Company. If the Participant ceases to be an Eligible Participant for any reason, then, except as provided in Sections 3 or 4 or in paragraphs (d) and (e) of this Section 5, the right to exercise this option shall terminate three months after such cessation (but in no event after the Final Exercise Date), provided that this option shall be exercisable only to the extent that the Participant was entitled to exercise this option on the date of such cessation. 
+
+(d) Exercise Period Upon Death or Disability. If the Participant dies or becomes disabled (within the meaning of Section 22 (e)(3) of the Code) prior to the Final Exercise Date while he or she is an Eligible Participant and the Company has not terminated such relationship for “cause” as specified in paragraph (e) below, this option shall be exercisable, within the period of one year following the date of death or disability of the Participant by the Participant, provided that this option shall be exercisable only to the extent that this option was exercisable by the Participant on the date of his or her death or disability plus any Pro Rata Shares (as defined below), and further provided that this option shall not be exercisable after the Final Exercise Date. “Pro Rata Shares” means the number of shares that would have first become exercisable on the next anniversary of the Grant Date times a fraction, the numerator of which is the number of days elapsed from the most recent anniversary of the Grant Date until the date of death or disability and the denominator of which is 365. 
+
+(e) Discharge for Cause. If the Participant, prior to the Final Exercise Date, is discharged by the Company for “cause” (as defined below), the right to exercise this option shall terminate immediately upon the effective date of such discharge. “Cause” shall mean willful misconduct by the Participant or willful failure by the Participant to perform his or her responsibilities to the Company (including, without limitation, breach by the Participant of any provision of any employment, consulting, advisory, nondisclosure, non-competition or other similar agreement between the Participant and the Company), as determined by the Company, which determination shall be conclusive. The Participant shall be considered to have been discharged for “Cause” if the Company determines, within 30 days after the Participant’s resignation, that discharge for cause was warranted. 
+
+\- 4 - 
+
+* * *
+
+6\. Withholding. 
+
+No Shares will be issued pursuant to the exercise of this option unless and until the Participant pays to the Company, or makes provision satisfactory to the Company for payment of, any federal, state or local withholding taxes required by law to be withheld in respect of this option. 
+
+7\. Nontransferability of Option. 
+
+This option may not be sold, assigned, transferred, pledged or otherwise encumbered by the Participant, either voluntarily or by operation of law, except by will or the laws of descent and distribution, and, during the lifetime of the Participant, this option shall be exercisable only by the Participant. 
+
+8\. Provisions of the Plan. 
+
+This option is subject to the provisions of the Plan, a copy of which is furnished to the Participant with this agreement. 
+
+IN WITNESS WHEREOF, the Company has caused this option to be executed under its corporate seal by its duly authorized officer. This option shall take effect as a sealed instrument.   
+  
+IOMEGA CORPORATION  
+  
+Dated:
+
+* * *
+
+By:
+
+* * *  
+  
+\- 5 - 
+
+* * *
+
+PARTICIPANT’S ACCEPTANCE 
+
+The undersigned hereby accepts the foregoing option and agrees to the terms and conditions thereof. The undersigned hereby acknowledges receipt of a copy of the Company’s 1997 Stock Incentive Plan and Prospectus.   
+  
+PARTICIPANT:  
+  
+DATED:
+
+* * *  
+  
+* * *  
+  
+Signature  
+  
+Name:
+
+* * *  
+  
+Address:
+
+* * *  
+  
+* * *  
+  
+\- 6 - 

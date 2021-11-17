@@ -1,0 +1,189 @@
+* * *
+
+Exhibit 10.1  
+
+
+  
+
+
+  
+
+
+HURCO COMPANIES, INC.
+
+  
+
+
+
+
+  
+
+
+This Incentive Stock Option Agreement (“Agreement”) has been entered into as of «grant_date», between Hurco Companies, Inc., an Indiana corporation (the “Company”) and «employee», an employee of the Company (“Participant”), pursuant to the Hurco Companies, Inc. 1997 Stock Option and Incentive Plan (the “Plan”).
+
+  
+
+
+WHEREAS, the committee of the Board of Directors of the Company appointed to administer the Plan (the “Committee”), has granted to Participant an option to purchase shares of the Company's common stock, no par value (the “Common Stock”), pursuant to the terms and conditions as provided in the Plan and this Agreement; and
+
+  
+
+
+WHEREAS, the Company and Participant desire to set forth the terms and conditions of the option;
+
+  
+
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained in this Agreement, the Company and the Participant agree as follows:
+
+  
+
+
+1. Grant of Option and Exercise Price. Subject to the terms and conditions stated in the Plan and this Agreement, on «grant_date» (the “Date of Grant”), the Committee granted to Participant an option (the “Option”) to purchase «shares» shares of the Company's Common Stock (the “Shares”) at an exercise price of $«price»per Share (the “Exercise Price”).
+
+  
+
+
+2. Incentive Stock Option. The Option is intended to qualify as an incentive stock option under Section 422 of the Internal Revenue Code of 1986, as amended.
+
+  
+
+
+3. Exercise of Option. The Participant may exercise the Option, provided the Participant has maintained Continuous Service, as defined in the Plan, with the Company since the Date of Grant. Subject to the foregoing sentence, the Option shall become exercisable as to the following specified number of Shares on and after each of the following dates during the term of the Option:
+
+  
+
+
+Date Number of Shares
+
+  
+
+
+«vest1» «shares1»
+
+«vest2» «shares2»
+
+«vest3» «shares3»
+
+«vest4» «shares4»
+
+«vest5» «shares5»
+
+  
+
+
+Notwithstanding the foregoing sentence, the Option shall become immediately exercisable upon a Change in Control, as defined in the Plan, in accordance with the terms and conditions specified in the Plan.
+
+  
+
+
+  
+
+
+4. Term of Option. Unless sooner terminated as provided in the Plan and this Agreement, the Option shall expire on «expiration». In the event that the Participant voluntarily terminates employment with the Company or is terminated by the Company for cause, the Optio n shall immediately terminate as provided in the Plan and the Participant shall have no further rights with respect to the Option or under this Agreement. In the event that the Participant's employment with the Company is terminated for any other reason, including disability, death or retirement, the Participant may exercise the Option as provided in the Plan, except that (a) in the case of disability, the Option shall remain exercisable for a period of one year following the Participant's termination of employment; and (b) in the case of retirement, the Option shall remain exercisable for a period of three months following the Participant's termination of employment. 
+
+  
+
+
+5. Method of Exercise. The Participant may exercise the Option in the manner stated in the Plan.
+
+  
+
+
+6. Restriction on Transfer. The Participant may not assign or transfer the Option except by will or the laws of descent and distribution or as approved by the Committee.
+
+  
+
+
+7. Delivery and Registration of the Shares. The Company shall not be required to deliver any Shares upon exercise of the Option prior to (a) the admission of the Shares for listing on any stock exchange or system on which the Shares may then be listed, and (b) the completion of registration or other qualification of the Shares under any state or federal law, rule or regulation, as the Committee shall determine to be necessary or advisable.
+
+  
+
+
+8. Plan Controlling. The Option and the terms and conditions set forth in the Agreement are subject in all respects to the terms and conditions of the Plan, which are controlling. All determinations and interpretations of the Committee shall be binding and conclusive upon the Participant and his or her legal representatives.
+
+  
+
+
+9. Qualification of Rights. Neither this Agreement nor the existence of the Option shall be construed as giving the Participant any right (a) to be retained in the employ of the Company or any of its affiliates; or (b) as a shareholder with respect to the Shares, until the certificates for the Shares have been issued and delivered to the Participant.
+
+  
+
+
+10. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Indiana.
+
+  
+
+
+11. Notices. All notices and other communications required or permitted under this Agreement shall be written and shall be delivered personally or sent by registered or certified first-class mail, postage prepaid and return receipt required, addressed as follows: if to the Company, to the Company's principal office at One Technology Way, Indianapolis, Indiana 46268, and if to the Participant or his or her successor, to the address last furnished by the P articipant to the Company. Each notice and communication shall be deemed to have been given when received by the Company or the Participant. 
+
+  
+
+
+12. Representations and Warranties of Participant. The Participant represents and warrants to the Company that he or she:
+
+  
+
+
+(a) has received and reviewed a copy of the Plan; and  
+  
+  
+
+
+(b) understands that neither the Option nor any of the rights and interests under the Plan or this Agreement may be assigned, encumbered or otherwise transferred except, in the event of death, by will or the laws and descent and distribution or as approved by the Committee.
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the Company and Participant have executed this Agreement as of the date first written above.
+
+  
+
+
+HURCO COMPANIES, INC.
+
+  
+
+
+  
+
+
+By: ____________________________________________
+
+Michael Doar, Chairman and CEO
+
+  
+
+
+  
+
+
+  
+
+
+____________________________________________
+
+«employee»
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *

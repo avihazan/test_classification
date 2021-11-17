@@ -1,0 +1,441 @@
+  
+  
+
+
+EXHIBIT 10.6
+
+Grant # ________
+
+
+
+This Stock Option Agreement (“Agreement”) is made and entered into as of [DATE] (the “Grant Date”) by and between Computer Sciences Corporation, a Nevada corporation (the “Company”), and [NAME], a full-time employee of the Company and/or one or more of its subsidiaries (the “Employee”).
+
+WHEREAS, pursuant to the Company’s [PLAN] Stock Incentive Plan (the “Plan”), the Company desires to grant to the Employee, and the Employee desires to accept, an option to purchase shares of the common stock, par value $1.00 per share, of the Company (the “Common Stock”), upon the terms and conditions set forth herein, which terms and conditions have been approved by the committee of the Board of Directors administering the Plan (the “Committee”);
+
+NOW, THEREFORE, in consideration of the foregoing recital and the covenants set forth herein, the parties hereto hereby agree as follows:
+
+The Company hereby grants to the Employee, and the Employee hereby accepts, an option to purchase [SHARES] shares of Common Stock (the “Option Shares”) at an exercise price of [EXERCISE PRICE] per share (the “Exercise Price”), which option shall expire at 5:00 p.m., California, U.S.A. time, on [EXPIRATION DATE] (the “Expiration Date”) and shall be subject to all of the terms and conditions set forth in the Plan and this Agreement, including, without limitation, the terms and conditions set forth in Schedule “[__]” attached hereto and incorporated herein by this reference (the “Option”). The Option shall not initially be exercisable to purchase any Option Shares; provided, however, that upon each of the dates indicated below, the Option shall become exercisable to purchase (“vest with respect to”) the number of the Option Shares indicated below across from such date:
+
+Number of Option Shares Vesting Date
+
+(Shares) 1st Anniversary of the Grant Date
+
+(Shares) 2nd Anniversary of the Grant Date
+
+(Shares) 3rd Anniversary of the Grant Date
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed as of the Grant Date.
+
+EMPLOYEE COMPUTER SCIENCES CORPORATION
+
+  
+  
+  
+The Employee acknowledges receipt of the Plan and a Prospectus relating to the Option, and further acknowledges that he or she has reviewed this Agreement and the related documents and accepts the provisions thereof.  
+  
+_____________________________________________
+
+[NAME]
+
+The Employee acknowledges receipt of the Plan and a Prospectus relating to the Option, and further acknowledges that he or she has reviewed this Agreement and the related documents and accepts the provisions thereof.  
+  
+___________________________________________
+
+[NAME]
+
+[ADD1]
+
+[ADD2]
+
+[ADD3]
+
+By ______________________________
+
+Michael W. Laphen
+
+President and Chief Executive Officer
+
+By ______________________________
+
+Donald G. DeBuck
+
+Vice President and Chief Financial Officer
+
+b 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+STOCK OPTION SCHEDULE [__]
+
+ADDITIONAL TERMS AND CONDITIONS
+
+The Option is intended not to qualify as an incentive option under Section 422 of the U.S. Internal Revenue Code.
+
+Capitalized terms not otherwise defined in this Stock Option Schedule (the “Schedule”) shall have the same meanings as set forth in the Stock Option Agreement (the “Agreement”) and the Plan.
+
+  
+
+
+This Schedule has been incorporated by reference into the Agreement and, by signing the Agreement, the Employee has acknowledged and agreed to the additional terms and conditions of this Schedule. This Schedule and the Agreement are collectively referred to as the “Agreement” herein.
+
+  
+
+
+1. Forfeiture Obligations.
+
+(a) Certain Definitions. For purposes of this Section, the following terms shall have the following meanings:
+
+(i) “Stock Option” shall mean the Option and each other stock option to purchase shares of Common Stock (except stock options granted in lieu of an annual cash bonus) that has previously been granted to the Employee by the Company or any of its affiliates or predecessors-in-interest.
+
+(ii) “Stock Option Exercise Date” shall mean, with respect to each exercise of a Stock Option, the date upon which such Stock Option is exercised.
+
+(iii) “Restricted Period” shall mean, with respect to each exercise of a Stock Option, the period set forth in Section 1(c)(i) or (ii) hereof, respectively.
+
+(iv) The “Fair Market Value” of a share of Common Stock on any day shall be equal to the last sale price, regular way, of a share of Common Stock on such day (or in case the principal United States national securities exchange on which the Common Stock is listed or admitted to trading is not open on such date, the next preceding date upon which it is open), or in case no such sale takes place on such day, the average of the closing bid and asked prices, regular way, in either case as reported in the principal consolidated transaction reporting system with respect to securities listed or admitted to trading on the principal United States national securities exchange on which the Common Stock is listed or admitted to trading.
+
+(b) Refund of Stock Option Gains; Termination of Stock Options. If the Employee shall exercise a Stock Option at any time on or after the Grant Date and any of the events set forth in Section 1(c)(i) or (ii) hereof shall occur during the respective Restricted Period for such exercise, then:
+
+  
+
+
+1
+
+* * *
+
+  
+
+
+(i) Refund of Stock Option Gains. The Employee shall immediately deliver to the Company with respect to such exercise, an amount in cash equal to:
+
+(A) the aggregate Fair Market Value, determined as of the Stock Option Exercise Date, of the shares of Common Stock issued upon such exercise; minus
+
+(B) the aggregate exercise price paid, whether in cash or by the delivery or withholding of shares of Common Stock, upon such exercise.
+
+(ii) Termination of All Stock Options. All Stock Options that would otherwise be outstanding shall terminate on the Stock Option Exercise Date.
+
+(c) Triggering Events. The events referred to in Section 1(b) hereof are as follows:
+
+(i) Competing With the Company After Voluntary Termination of Employment and Prior to Six Months After the Stock Option Exercise Date. The Employee participating, as a director, officer, employee, agent, consultant or greater than 5% equity holder (collectively, “Participating”), in any of the following during the period of time commencing on the date upon which the Employee’s status as a full-time employee of the Company or its affiliates is voluntarily terminated (the “Voluntary Employment Termination Date”), there being a presumption that any termination of employment is voluntary, and continuing until six months after the Stock Option Exercise Date (for the purpose of such event, the “Restricted Period”):
+
+(A) Participating in any manner in any enterprise that competes with, or is becoming a competitor of, the Company (if the Employee is a Corporate Employee) or any operating business unit of the Company in which the Employee has been employed within one year prior to the Voluntary Employment Termination Date (if the Employee is not a Corporate Employee) in any city in which the Company or such business unit, respectively, provides services or products on the Voluntary Employment Termination Date; or
+
+(B) Participating in any other organization or business, which organization or business, or which Participation therein, is or is becoming otherwise prejudicial to or in conflict with the interests of the Company.
+
+(ii) Engaging in Certain Activities After Voluntary Or Involuntary Termination of Employment and Prior to One Year After the Stock Option Exercise Date. The Employee engaging in any of the following activities during the period of time commencing on the date upon which the Employee’s status as a full-time employee of the Company or its affiliates is voluntarily or involuntarily terminated (the “Employment Termination Date”) and continuing until one year after the Stock Option Exercise Date (for the purpose of such events, the “Restricted Period”):
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+(A) Solicitation of Customers or Prospective Customers. Directly or indirectly soliciting any of the following with respect to any of the services or products that the Company or any of its affiliates then provide to customers:
+
+(1) any person or entity that the Employee knew to be a customer of the Company or any of its affiliates; or
+
+(2) any person or entity whose business the Employee solicited on behalf of the Company or its affiliates during the one-year period preceding the Employment Termination Date.
+
+(B) Solicitation or Hiring of Employees. Directly or indirectly soliciting or hiring any person who then is an employee of the Company or any of its affiliates.
+
+(C) Disclosure of Confidential Information. Use, or disclosure, communication or delivery to any person or entity, of any confidential business information or trade secrets that the Employee obtained during the course of his or her employment with the Company or any of its affiliates (collectively, “Confidential Information”). Confidential Information includes, without limitation, the following:
+
+(1) non-public financial information;
+
+(2) non-public operational information, including, without limitation, information relating to business or market strategies, pricing policies and methodologies, research and development plans, or the introduction of new services or products;
+
+(3) information regarding employees, including, without limitation, names, addresses, contact information and compensation;
+
+(4) information regarding customers and suppliers, including, without limitation, names, addresses, contact information and requirements, and the terms and conditions of the business arrangements with such customers and suppliers;
+
+(5) information regarding potential acquisitions or dispositions of businesses or products; and
+
+(6) information relating to proprietary technological or intellectual property, or the operational or functional features or limitations thereof.
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+(d) Release of Forfeiture Obligations.
+
+(i) Notwithstanding the foregoing, the Employee shall be released from (A) all of his or her obligations under Section 1(b) hereof in the event that a Change of Control (as hereinafter defined) occurs within three years prior to the Employment Termination Date, and (B) some or all of his or her obligations under Section 1(b) hereof in the event that the Committee (if the Employee is an executive officer of the Company) or the Company’s Chief Executive Officer (if the Employee is not an executive officer of the Company) shall determine, in their respective sole discretion, that such release is in the best interests of the Company.
+
+(ii) “Change in Control” shall mean the consummation of a “change in the ownership” of Computer Sciences Corporation, a “change in effective control” of Computer Sciences Corporation or a “change in the ownership of a substantial portion of the assets” of Computer Sciences Corporation, in each case, as defined in Section 409A of the U.S. Internal Revenue Code and the regulations thereunder.
+
+(e) Effect on Other Rights and Remedies. The rights of the Company set forth in this Section 1 shall not limit or restrict in any manner any rights or remedies which the Company or any of its affiliates may have under law or under any separate employment, confidentiality or other agreement with the Employee or otherwise with respect to the events described in Section 1(c) hereof.
+
+(f) Certification Upon Exercise of Stock Options. Upon exercise of any Stock Option, the Employee shall certify on a form acceptable to the Committee that none of the events set forth in Section 1(c)(i) or 1(c)(ii) hereof shall have occurred.
+
+(g) Amendment of All Other Stock Option Agreements. All other stock option agreements covering Stock Options shall be deemed covered and amended by Section 1(b)(ii) and 1(f) hereof.
+
+(h) Reasonableness. The Employee agrees that the terms and conditions set forth in Section 1 hereof are fair and reasonable and are reasonably required for the protection of the interests of the Company. If, however, in any judicial proceeding any provision of Section 1 hereof is found to be so broad as to be unenforceable, the Employee and the Company agree that such provision shall be interpreted to be only so broad as to be enforceable.
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+2. Acceleration and Termination.
+
+(a) Termination of Status as Full-Time Employee.
+
+(i) Termination at Age 62 or Older.
+
+(A) If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated at age 62 or older for no reason, or for any reason other than Cause (as hereinafter defined), including, without limitation, by reason of death or Disability (as hereinafter defined), then:
+
+(1) if the Employee shall have been (or for any other purpose shall have been treated as if he or she had been) a continuous full-time employee of the Company or its subsidiaries for at least 10 years immediately prior to the date of termination of full-time status (the “Employment Termination Date”), then (a) the portion of the Option that has not vested on or prior to such date shall fully vest immediately prior to such date, and (b) subject to Section 2(a)(ii) hereof, the Option shall terminate upon the earlier of the Expiration Date or the fifth anniversary of the Employment Termination Date; and
+
+(2) if the Employee shall not have been (and shall not for any other purpose have been treated as if he or she had been) a continuous full-time employee of the Company or its subsidiaries for at least 10 years immediately prior to the Employment Termination Date, then, subject to Section 2(a)(ii) hereof (a) the portion of the Option that has not vested on or prior to such date shall terminate on such date, and (b) the remaining vested portion of the Option shall terminate upon the earlier of the Expiration Date or the fifth anniversary of the Employment Termination Date.
+
+(B) If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated at age 62 or older for Cause, then (1) the portion of the Option that has not vested on or prior to such date shall terminate on such date, and (2) the remaining vested portion of the Option shall terminate upon the earlier of the Expiration Date or three months after the Employment Termination Date.
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+(C) “Cause” shall mean: (1) fraud, misappropriation, embezzlement or other act of material misconduct against the Company or any of its affiliates; (2) conviction of a felony involving a crime of moral turpitude; (3) willful and knowing violation of any rules or regulations of any governmental or regulatory body material to the business of the Company; or (4) substantial and willful failure to render services in accordance with the terms of his or her employment (other than as a result of illness, accident or other physical or mental incapacity), provided that (a) a demand for performance of services has been delivered to the Employee in writing by the Employee’s supervisor at least 60 days prior to termination identifying the manner in which such supervisor believes that the Employee has failed to perform and (b) the Employee has thereafter failed to remedy such failure to perform.
+
+(ii) Lay-Off or Leave of Absence.
+
+(A) If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated by reason of a permanent or temporary lay-off, or a leave of absence other than a military leave of absence, then the Option shall be suspended, but not canceled, as of the Employment Termination Date. If the Employee shall thereafter become a full-time employee of the Company or any of its subsidiaries on or prior to the earlier of (i) the Expiration Date or (ii) the first anniversary of the Employment Termination Date, then the Option shall be reinstated. If the Option has not been so reinstated on or prior to such earlier date, then the Option shall be canceled on that date.
+
+(B) If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated by reason of a military leave of absence, then the Option shall be suspended, but not canceled, as of the Employment Termination Date. If the Employee shall thereafter become a full-time employee of the Company or any of its subsidiaries on or prior to the earliest of (i) the Expiration Date, (ii) the fifth anniversary of the Employment Termination Date or (iii) the date upon which the military leave of absence terminates, then the Option shall be reinstated. If the Option has not been so reinstated on or prior to such earliest date, then the Option shall be canceled on that date.
+
+(C) During any period in which the Option is suspended, it shall be treated for all purposes under this Agreement as though the Employee’s status as a full-time employee of the Company or any of its subsidiaries had been voluntarily terminated by the Employee other than for death, Permanent Disability or Cause. If the Option is reinstated, then it shall thereafter be treated, for all purposes under this Agreement other than the vesting of any portion of the Option that shall have theretofore vested, as though the Employee had never ceased to be a full-time employee of the Company or any of its subsidiaries.
+
+  
+
+
+6
+
+* * *
+
+  
+
+
+(iii) Death or Disability at Age 61 or Younger.
+
+(A) If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated at age 61 or younger by reason of the death or Disability of the Employee, then (1) the portion of the Option that has not vested on or prior to the Employment Termination Date shall fully vest immediately prior to such date and (2) the Option shall terminate upon the earlier of the Expiration Date or the first anniversary of the Employment Termination Date.
+
+(B) “Disability” shall mean the Employee has become “disabled,” as such term is defined in Section 409A of the U.S. Internal Revenue Code and the regulations thereunder.
+
+(iv) Other Termination at Age 61 or Younger. If the Employee’s status as a full-time employee of the Company or any of its subsidiaries is terminated at age 61 or younger for no reason, or for any reason (including Cause) other than death, Disability, permanent or temporary lay-off, or Approved Leave of Absence, then (A) the portion of the Option that has not vested on or prior to the Employment Termination Date shall terminate on such date and (B) the remaining vested portion of the Option shall terminate upon the earlier of the Expiration Date or three months after the Employment Termination Date.
+
+(b) Death Following Termination of Full-Time Status. Notwithstanding anything to the contrary in this Agreement, if the Employee shall die at any time after the termination of his or her status as a full-time employee of the Company or any of its subsidiaries and at a time when the Option is exercisable, then the Option shall remain exercisable until, and shall terminate upon, the earlier of the Expiration Date or the first anniversary of the date of such death.
+
+(c) Acceleration of Option.
+
+(i) The Committee, in its sole discretion, may accelerate the exercisability of the Option at any time and for any reason.
+
+(ii) Notwithstanding anything to the contrary in this Agreement, upon the date of a Change of Control: (A) the portion of the Option that has not vested on or prior thereto shall fully vest on such date and (B) the Option shall remain exercisable until, and shall terminate upon, the earlier of the Expiration Date or, if applicable, the first anniversary of the date of the Employee’s death.
+
+(d) Certain Events Causing Termination of Option. Notwithstanding anything to the contrary in this Agreement, the Option shall terminate upon the consummation of any of the following events, or, if later, the thirtieth day following the first date upon which such event shall have been approved by both the Board of Directors and the stockholders of the Company, or upon such later date as shall be determined by the Committee:
+
+  
+
+
+7
+
+* * *
+
+  
+
+
+(i) the dissolution or liquidation of the Company;
+
+(ii) a sale of substantially all of the property and assets of the Company, unless the terms of such sale shall provide otherwise; or
+
+(iii) a reorganization, merger or consolidation of the Company that results in the outstanding securities of any class then subject to the Option being exchanged for or converted into cash, property and/or securities not issued by the Company, unless the terms of such reorganization, merger or consolidation provide otherwise.
+
+3. Adjustments. In the event that the outstanding securities of the class then subject to the Option are increased, decreased or exchanged for or converted into cash, property and/or a different number or kind of securities, or cash, property and/or securities are distributed in respect of such outstanding securities, in either case as a result of a reorganization, merger, consolidation, recapitalization, reclassification, dividend (other than a regular, quarterly cash dividend) or other distribution, stock split, reverse stock split or the like, or in the event that substantially all of the property and assets of the Company are sold, then, unless such event shall cause the Option to terminate pursuant to Section 2(d) hereof, the Committee shall make appropriate and proportionate adjustments in the number and type of shares or other securities or cash or other property that may thereafter be acquired upon the exercise of the Option; provided, however, that any such adjustments in the Option shall be made without changing the aggregate Exercise Price of the then unexercised portion of the Option.
+
+4. Exercise. The Option shall be exercisable during the Employee’s lifetime only by the Employee or by his or her guardian or legal representative, and after the Employee’s death only by the person or entity entitled to do so under the Employee’s last will and testament or applicable intestate law. The Option may only be exercised by the delivery to the Company of a written notice of such exercise, in the form specified by the Company, which notice shall, among other things, specify the number of Option Shares to be purchased and the aggregate Exercise Price for such shares, together with payment in full of such aggregate Exercise Price by check or pursuant to the Company’s cashless exercise program; provided, however, that payment of such aggregate Exercise Price may instead be made, in whole or in part, by the delivery to the Company of shares of Common Stock (including Option Shares otherwise issuable upon such exercise), which delivery effectively transfers to the Company good and valid title to such shares, free and clear of any pledge, commitment, lien, claim or other encumbrance (such shares to be valued on the basis of the aggregate Fair Market Value thereof on the date of such exercise), provided that the Company is not then prohibited from purchasing or acquiring such shares of Common Stock.
+
+  
+
+
+8
+
+* * *
+
+  
+
+
+5. Payment of Taxes.
+
+(a) If the Company and/or the Employee’s employer (the “Employer”) are obligated to withhold an amount on account of any federal, state or local tax imposed as a result of the exercise of the Option (collectively, “Taxes”), including, without limitation, any federal, state or other income tax, or any F.I.C.A., state disability insurance tax or other employment tax, then, concurrently with such exercise, the Employee shall pay to the Company, by check, the minimum aggregate amount that the Company and the Employer are so obligated to withhold, as such amount shall be determined by the Company (the “Minimum Withholding Liability”); provided, however, that the Employee may instead pay all or any part of the Minimum Withholding Liability by either of the following methods:
+
+(i) pursuant to the Company’s cashless exercise program; or
+
+(ii) by instructing the Company to withhold shares of Common Stock otherwise issuable upon such exercise of the Option (such withholding to be valued on the basis of the aggregate Fair Market Value of the withheld shares on the date of such exercise), provided that if the Employee is then subject to Section 16(b) of the Exchange Act, such method of payment may only be used if, in the opinion of the General Counsel of the Company, such use would not cause the Employee to incur any liability pursuant to Section 16(b); and
+
+provided, further, however, that if all of such payment is made by check and/or pursuant to the Company’s cashless exercise program, then the Employee shall be entitled, but not obligated, so to pay an amount that is greater than the Minimum Withholding Liability.
+
+(b) The Employee acknowledges that neither the Company nor the Employer has:
+
+(i) except to the extent specifically set forth in a prospectus delivered by the Company to the Employee together with this Agreement, made any representation or given any advice to the Employee with respect to the realization or recognition of any Taxes by the Employee; or
+
+(ii) undertaken or agreed to structure the Option, or the grant of the Option, to reduce or eliminate the Employee’s liability or potential liability for Taxes.
+
+  
+
+
+9
+
+* * *
+
+  
+
+
+6. Data Privacy.
+
+(a) In order to implement, administer, manage and account for the Employee’s participation in the Plan, the Company and/or the Employer may:
+
+(i) collect and use certain personal data regarding the Employee, including, without limitation, the Employee’s name, home address and telephone number, work address and telephone number, work e-mail address, date of birth, social insurance or other identification number, term of employment, employment status, salary, nationality and tax residence, and any details regarding the terms and conditions, grant, vesting, exercise, cancellation, termination and expiration of all stock options and other stock-based incentives granted, awarded or sold to the Employee by the Company (collectively, the “Data”);
+
+(ii) transfer the Data to any third parties who may be involved in the implementation, administration and/or management of the Plan, which recipients may be located in the Employee’s country or in other countries that may have different data privacy laws and protections than the Employee’s country;
+
+(iii) transfer the Data to a broker or other third party with whom the Employee has elected to deposit any Option Shares acquired upon exercise of the Option; and
+
+(iv) retain the Data for only as long as may be necessary in order to implement, administer, manage and account for the Employee’s participation in the Plan.
+
+(b) The Employee hereby explicitly and unambiguously consents to the collection, use, transfer and retention of the Data, as described in this Agreement, in electronic or other form, for the exclusive purpose of implementing, administering, managing and accounting for the Employee’s participation in the Plan.
+
+(c) The Employee understands that by contacting his or her local human resources representative, the Employee may:
+
+(i) view the Data;
+
+(ii) correct any inaccurate information included within the Data;
+
+(iii) request additional information regarding the storage and processing of the Data; and
+
+(iv) request a list with the names and addresses of any potential recipients of the Data.
+
+(d) The Employee understands that he or she may refuse or withdraw the consents herein, in any case without cost, by contacting in writing his or her local human resources representative. The Employee understands, however, that refusing or withdrawing his or her consent may affect his or her ability to participate in the Plan. For more information on the consequences of the Employee’s refusal to consent or withdrawal of consent, the Employee understands that he or she may contact his or her local human resources representative.
+
+  
+
+
+10
+
+* * *
+
+  
+
+
+  
+
+
+7. Stock Exchange Requirements; Applicable Laws. Notwithstanding anything to the contrary in this Agreement, no Option Shares purchased upon exercise of the Option, and no certificate representing all or any part of such shares, shall be issued or delivered if, in the opinion of counsel to the Company, such issuance or delivery would cause the Company to be in violation of, or to incur liability under, any securities law, or any rule, regulation or procedure of any U.S. national securities exchange upon which any securities of the Company are listed, or any listing agreement with any such securities exchange, or any other requirement of law or of any administrative or regulatory body having jurisdiction over the Company.
+
+8. Nontransferability. Neither the Option nor any interest therein may be sold, assigned, conveyed, gifted, pledged, hypothecated or otherwise transferred in any manner other than by will or the laws of descent and distribution.
+
+9. Plan. The Option is granted pursuant to the Plan, as in effect on the Grant Date, and is subject to all the terms and conditions of the Plan, as the same may be amended from time to time; provided, however, that no such amendment shall deprive the Employee, without his or her consent, of the Option or of any of the Employee’s rights under this Agreement. The interpretation and construction by the Committee of the Plan, this Agreement, the Option and such rules and regulations as may be adopted by the Committee for the purpose of administering the Plan shall be final and binding upon the Employee. Until the Option shall expire, terminate or be exercised in full, the Company shall, upon written request therefor, send a copy of the Plan, in its then-current form, to the Employee or any other person or entity then entitled to exercise the Option.
+
+10. Stockholder Rights. No person or entity shall be entitled to vote, receive dividends or be deemed for any purpose the holder of any Option Shares until the Option shall have been duly exercised to purchase such Option Shares in accordance with the provisions of this Agreement.
+
+11. Nature of Company Option Grants. The Employee acknowledges and agrees that:
+
+(a) the Plan was established voluntarily by the Company, it is discretionary in nature and it may be modified, amended, suspended or terminated by the Company at any time, as provided in the Plan;
+
+(b) the grant of the Option is voluntary and occasional and does not create any contractual or other right to receive any future Option grants, or any benefits in lieu of Options, even if the Employee has repeatedly received Option grants in the past;
+
+(c) all decisions with respect to future grants of Options by the Company will be at the sole discretion of the Company;
+
+(d) the Employee’s participation in the Plan shall not create a right to further employment with the Employer and shall not interfere with the ability of the Employer to terminate the Employee’s employment relationship at any time with or without Cause;
+
+  
+
+
+11
+
+* * *
+
+  
+
+
+(e) the Employee is voluntarily participating in the Plan;
+
+(f) the Option is an extraordinary item which does not constitute compensation of any kind for services of any kind rendered to the Company or the Employer, and which is outside the scope of the Employee’s employment contract, if any;
+
+(g) the Option is not part of normal or expected compensation or salary for any purposes, including, without limitation, for purposes of calculating any severance, resignation, termination, redundancy or end-of-service payments, or any bonuses, long-service awards or pension or retirement benefits, or any similar payments;
+
+(h) in the event that the Employee is not an employee of the Company, the Option grant will not be interpreted to form an employment contract or relationship with the Company; and furthermore, the Option grant will not be interpreted to form an employment contract with the Employer or any Subsidiary of the Company;
+
+(i) the future value of the underlying Option Shares is unknown and cannot be predicted with certainty;
+
+(j) if the underlying Option Shares do not increase in value, the Option will have no value;
+
+(k) if the Employee exercises the Option, the value of the Option Shares acquired upon exercise may increase or decrease in value, even below the Exercise Price;
+
+(l) in consideration of the grant of the Option, no claim or entitlement to compensation or damages shall arise from termination of the Option or diminution in value of the Option or Option Shares purchased through exercise of the Option resulting from termination of the Employee’s employment by the Company or the Employer (for any reason whatsoever and whether or not in breach of local labor laws) and the Employee irrevocably releases the Company and the Employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing the Agreement, the Employee shall be deemed irrevocably to have waived his or her entitlement to pursue such claim; and
+
+  
+
+
+12. Successors. The Agreement shall be binding upon and inure to the benefit of the Company and its successors and assigns, on the one hand, and the Employee and his or her heirs, beneficiaries, legatees and personal representatives, on the other hand.
+
+13. Entire Agreement; Amendments and Waivers. The Agreement embodies the entire understanding and agreement of the parties with respect to the subject matter hereof, and no promise, condition, representation or warranty, express or implied, not stated or incorporated by reference herein, shall bind either party hereto. None of the terms and conditions of the Agreement may be amended, modified, waived or canceled except by a writing, signed by the parties hereto specifying such amendment, modification, waiver or cancellation. A waiver by either party at any time of compliance with any of the terms and conditions of the Agreement shall not be considered a modification, cancellation or consent to a future waiver of such terms and conditions or of any preceding or succeeding breach thereof, unless expressly so stated.
+
+  
+
+
+12
+
+* * *
+
+  
+
+
+  
+
+
+14. Governing Law; Consent to Jurisdiction. The Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Nevada, United States of America, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of the Agreement to the substantive law of another jurisdiction. Any action, suit or proceeding to enforce the terms and provisions of the Agreement, or to resolve any dispute or controversy arising under or in any way relating to the Agreement, may be brought in the state courts for the County of Washoe, State of Nevada, United States of America, and the parties hereto hereby consent to the jurisdiction of such courts.
+
+15. Language. If the Employee has received the Agreement or any other document related to the Plan translated into a language other than English, and the translated version is different than the English version, the English version will control.
+
+16. Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to the Option granted under and participation in the Plan or future Options that may be granted under the Plan by electronic means or to request the Employee’s consent to participate in the Plan by electronic means. The Employee hereby consents to receive such documents by electronic delivery and, if requested, to agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or another third party designated by the Company.
+
+17. Severability. Any provision of the Agreement which is invalid, illegal or unenforceable in any jurisdiction shall, as to that jurisdiction, be ineffective to the extent of such invalidity, illegality or unenforceability, without affecting in any way the remaining provisions hereof in such jurisdiction or rendering that or any other provision of the Agreement invalid, illegal or unenforceable in any other jurisdiction.
+
+  
+
+
+13
+
+* * *
+
+  
+

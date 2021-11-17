@@ -1,0 +1,131 @@
+Exhibit 10.37 
+
+
+
+VISA INC. 2007 EQUITY INCENTIVE COMPENSATION PLAN 
+
+Performance Share Award Agreement 
+
+This PERFORMANCE SHARE AWARD AGREEMENT (this “Agreement”), dated November 5, 2008 (the “Grant Date”), is by and between VISA INC. (the “Company”) and [—] (the “Participant”), pursuant to the Visa Inc. 2007 Equity Incentive Compensation Plan (the “Plan”). Capitalized terms that are not defined herein shall have the meanings given to such terms in the Plan. 
+
+WHEREAS, pursuant to the provisions of the Plan, the Committee has authorized the grant to the Participant of Performance Shares in accordance with the terms and conditions of this Agreement; and 
+
+WHEREAS, the Participant and the Company desire to enter into this Agreement to evidence and confirm the grant of such Performance Shares on the terms and conditions set forth herein. 
+
+NOW, THEREFORE, the Participant and the Company agree as follows: 
+
+1\. Grant of Performance Shares. Pursuant to the provisions of the Plan and this Agreement, the Company on the Grant Date has granted and hereby evidences the grant to the Participant, subject to the terms and conditions set forth herein and in the Plan, of an Award of [—] Performance Shares (this “Award”). 
+
+2\. Payment of Earned and Vested Performance Shares. Subject to the provisions of this Section 2 and Sections 4 and 5 of the Agreement, the Payment Value of each Performance Share covered by this Award which the Committee determines, in writing, to be earned and vested pursuant to Sections 3, 4(b) or 5 shall be paid or delivered to the Participant on a date as soon as administratively practicable (but no later than 60 days) after the applicable vesting date described in Sections 3(b), 4(b) or 5 on which such Performance Share initially becomes vested. For purposes of this Agreement, “Payment Value” means the Fair Market Value of a Share on the applicable vesting date. Payments hereunder shall be made in Shares, unless the Committee, in its discretion, determines to make such payments in cash or a combination of cash and Shares. The foregoing to the contrary notwithstanding, if the Participant’s Termination occurs under any circumstances other than death, any such payment due by reason of such Termination shall be delayed for six months from the date of such Termination if the Participant is a “specified employee” (as such term is defined in Section 409A(a)(2)(B)(i) of the Code). 
+
+1 
+
+* * *
+
+3\. Performance Criteria and Vesting Applicable to Performance Shares. 
+
+(a) Performance Criteria. 
+
+(i) Performance Cycle. The Performance Cycle for this Award shall commence on October 1, 2008, and shall end on September 30, 2009. 
+
+(ii) Performance Goal. The Performance Goal for the Performance Cycle is specified levels of the Company’s Adjusted Net Income. For this purpose, “Adjusted Net Income” means the Company’s fiscal year 2009 net revenue, less (1) operating expenses, (2) depreciation and amortization, (3) other income and expenses and (4) tax expense, in each case as reported in the Company’s Fiscal Year 2009 Financial Statements, and excludes expenses related to covered litigation, restructuring charges, purchase amortization, and other income and expenses which includes significant non-recurring finance charges related to the IPO transaction. The amount of Adjusted Net Income shall be adjusted to exclude the effects of extraordinary items to the extent approved by the Committee in its discretion. 
+
+(iii) Percentage of Performance Shares Earned. The extent to which Performance Shares shall become earned when and to the extent determined by the Committee according to the following schedule:   
+  
+Performance Level
+
+Adjusted Net Income
+
+Percentage of
+
+Performance
+
+Shares Earned  
+  
+Less than $[—] 0%  
+  
+Threshold
+
+$[—] 50%  
+  
+Target
+
+$[—] 100%  
+  
+Maximum
+
+$[—] or more 200%  
+  
+If the Adjusted Net Income falls between Threshold and Target, or between Target and Maximum, then the percentage of Performance Shares earned shall be the sum of the Percentage of Performance Shares Earned in the schedule above for the lower such Performance Level plus the product of (i) the difference between the Percentage of Performance Shares Earned in the schedule above for the greater and lower such Performance Levels, multiplied by (ii) a fraction, the numerator of which is the amount by which the Adjusted Net Income achieved exceeds the Adjusted Net Income in the schedule above for the lower such Performance Level and the denominator of which is the difference between Adjusted Net Income amounts in the schedule above for the greater and lower such Performance Levels. The percentage of Performance Shares earned shall never exceed 200%. 
+
+(iv) Notification. Promptly following the end of the Performance Cycle, the Committee shall notify the Participant in writing of the number of Performance Shares earned. 
+
+(b) Vesting. One-half of the Performance Shares that are earned pursuant to Section 3(a) shall become vested on each of November 5, 2010, and November 5, 2011. 
+
+2 
+
+* * *
+
+4\. Termination of Employment. 
+
+(a) In General. Except as otherwise provided in this Section 4 or in Section 5 of this Agreement or in the Plan, all Performance Shares subject to this Award that have not become vested pursuant to Section 3(b) prior to the date of the Participant’s Termination shall be immediately forfeited upon such Termination. 
+
+(b) Death, Disability, without Cause, and Retirement. Upon Termination of the Participant after the end of the Performance Cycle due to death or Disability (as defined below), by the Company without Cause (as defined below) or at or after attainment of normal retirement eligibility under the generally applicable retirement plan of the Company, a Subsidiary or an Affiliate under which the Participant is covered in his or her home country (“Retirement”), the Participant shall be fully vested in all of his or her Performance Shares that have been earned pursuant to Section 3(a)(iii) but are not yet vested under Section 3(b). If Termination of the Participant occurs due to death or Disability, by the Company without Cause or Retirement, in each case, prior to the end of the Performance Cycle, as of the last day of the Performance Cycle, all of the Performance Shares (if any) subject to this Award shall be eligible to be earned (based on actual performance through the end of the Performance Cycle), and any such earned Performance Shares shall be fully vested. 
+
+5\. Change of Control. Notwithstanding Sections 2, 3 or 4 of this Agreement to the contrary, if a Change of Control occurs, and, at any later time prior to the second (2nd) anniversary of the Change of Control, but after the end of the Performance Cycle, the Participant incurs a Termination, either by the Company, a Subsidiary or an Affiliate without Cause, or by the Participant for Good Reason (as defined below), then the Participant shall be fully vested in all of the Performance Shares subject to this Award that have been earned pursuant to Section 3(a)(iii) but not yet vested under Section 3(b) (provided that, if such Change of Control occurs prior to the end of the Performance Cycle, the percentage of Performance Shares subject to this Award earned shall be based on the deemed achievement of the Target Performance Level (within the meaning of Section 3(a)(iii)), and such earned Performance Shares shall be fully vested upon any such Termination). For the avoidance of doubt, Section 14.1(b) of the Plan shall not apply to the Performance Shares subject to this Agreement to the extent such provision conflicts with this Section 5. 
+
+6\. Restrictions on Transfer. Performance Shares may not be sold, assigned, hypothecated, pledged or otherwise transferred or encumbered in any manner except (a) by will or the laws of descent and distribution or (b) as otherwise permitted pursuant to the Plan. 
+
+7\. Dividend Equivalents. Each Performance Share subject to this Award shall entitle the Participant to Dividend Equivalents with respect to regular cash dividends that would otherwise be paid on one Share during the period from the date such Performance Share is earned in accordance with Section 3(a) to the date such Performance Share is paid in accordance with Section 2 or forfeited in accordance with Section 4(a). Any such Dividend Equivalent shall be paid to the Participant at (or within thirty (30) days following) the time such related dividends are paid to holders of Shares. 
+
+8\. No Rights as a Shareholder Prior to Issuance of Shares. Neither the Participant nor any other person shall become the beneficial owner of any Shares underlying the Performance Shares subject to this Award, nor have any rights to dividends or other rights as a shareholder with respect to any such Shares, until and after such Shares, if any, have been 
+
+3 
+
+* * *
+
+actually issued in satisfaction of the Company’s obligations under this Award, in the time and manner specified in Section 2, and such Shares are transferred on the books and records of the Company or its agent in accordance with the terms of the Plan and this Agreement. 
+
+9\. Taxes and Withholding. The Company shall have the right to deduct from all amounts otherwise payable to the Participant in cash in respect of Performance Shares covered by this Award any amount of taxes of any kind required by law to be withheld as may be necessary in the opinion of the Company to satisfy tax withholding required under the laws of any country, state, province, city or other jurisdiction. In the case of any payments of Performance Shares covered by this Award in the form of Shares, at the Committee’s discretion, the Participant shall be required to either pay to the Company in cash the amount of any such taxes required to be withheld with respect to such Shares or, in lieu thereof, the Company shall have the right to retain (or the Participant may be offered the opportunity to elect to tender) the number of Shares whose Fair Market Value equals such amount required to be withheld; provided, however, that the amount of any Shares so retained shall not exceed the amount necessary to satisfy required Federal, state, local and non-United States withholding obligations using the minimum statutory withholding rates for Federal, state, local and/or non-U.S. tax purposes, including payroll taxes, that are applicable to supplemental taxable income. To the extent any such taxes are required by law to be withheld with respect to the Performance Shares covered by this Award prior to the date such Performance Shares are paid in accordance with Section 2, the Participant shall be required to pay to the Company in cash the amount of such taxes promptly following written notice thereof by the Company. 
+
+10\. No Right to Continued Employment. Neither the Performance Shares covered by this Award nor any terms contained in this Agreement shall confer upon the Participant any rights or claims except in accordance with the express provisions of the Plan and this Agreement, and shall not give the Participant any express or implied right to be retained in the employment or service of the Company or any Subsidiary or Affiliate for any period or in any particular position or at any particular rate of compensation, nor restrict in any way the right of the Company or any Subsidiary or Affiliate, which right is hereby expressly reserved, to modify or terminate the Participant’s employment or service at any time for any reason. The Participant acknowledges and agrees that any right to vesting of this Award is earned only by continuing as an employee of the Company or a Subsidiary or Affiliate at the will of the Company or such Subsidiary or Affiliate, or satisfaction of any other applicable terms and conditions contained in the Plan and this Agreement, and not through the act of being hired or being granted this Award. 
+
+11\. The Plan. By accepting any benefit under this Agreement, the Participant and any person claiming under or through the Participant shall be conclusively deemed to have indicated his or her acceptance and ratification of, and consent to, all of the terms and conditions of the Plan and this Agreement and any action taken under the Plan by the Board, the Committee or the Company, in any case in accordance with the terms and conditions of the Plan. In the event of any conflict between the provisions of the Plan and this Agreement, the provisions of the Plan shall control, and this Agreement shall be deemed to be modified accordingly. This Agreement is subject to all the terms, provisions and conditions of the Plan, which are incorporated herein by reference, and to such rules, policies and regulations as may from time to time be adopted by the Committee. The Plan and the prospectus describing the Plan can be found on the Company’s HR intranet. A paper copy of the Plan and the prospectus shall be provided to the Participant upon the Participant’s written request to the Company in California, Attention: Stock Plan Administrator. 
+
+4 
+
+* * *
+
+12\. Certain Defined Terms. For purposes of this Agreement, the following terms shall have the meanings set forth below: 
+
+(a) “Cause” means: (i) engaging in (A) willful or gross misconduct or (B) willful or gross neglect; (ii) repeatedly failing to adhere to the directions of superiors or the Board or the written policies and practices of the Company, a Subsidiary or an Affiliate; (iii) the commission of a felony or a crime of moral turpitude, dishonesty, breach of trust or unethical business conduct, or any crime involving the Company, a Subsidiary or an Affiliate; (iv) fraud, misappropriation or embezzlement; (v) a material breach of the Participant’s employment agreement (if any) with the Company, a Subsidiary or an Affiliate; (vi) acts or omissions constituting a material failure to perform substantially and adequately the duties assigned to the Participant; (vii) any illegal act detrimental to the Company, a Subsidiary or an Affiliate; or (viii) repeated failure to devote substantially all of Participant’s business time and efforts to the Company, a Subsidiary or an Affiliate if required by the Participant’s employment agreement; provided, however, that, if at any particular time the Participant is subject to an effective employment agreement with the Company, a Subsidiary or an Affiliate, then, in lieu of the foregoing definition, “Cause” shall at that time have such meaning as may be specified in such employment agreement. 
+
+(b) “Disability” shall have the meaning set forth for such term in the Company’s or its Affiliate’s long-term disability plan under which the Participant is covered from time to time; provided, however, that, if at any particular time the Participant is subject to an effective employment agreement with the Company, a Subsidiary or an Affiliate, then, in lieu of the foregoing definition, “Disability” shall at that time have such meaning as may be specified in such employment agreement (or as may be specified for a term of similar import, such as “Permanent Disability”). 
+
+(c) “Good Reason” means: (i) a material reduction by the Company, a Subsidiary or an Affiliate in the Participant’s rate of annual base salary from that in effect immediately prior to the Change of Control; (ii) a material reduction by the Company or a Subsidiary in the Participant’s annual target bonus opportunity from that in effect immediately prior to the Change of Control; or (iii) the Company, a Subsidiary or an Affiliate requires the Participant to change the Participant’s principal location of work to a location that is in excess of fifty (50) miles from the location thereof immediately prior to the Change of Control. Notwithstanding the foregoing, a Termination of a Participant for Good Reason shall not have occurred unless (i) the Participant gives written notice to the Company, a Subsidiary or an Affiliate, as applicable, of Termination within thirty (30) days after the Participant first becomes aware of the occurrence of the circumstances constituting Good Reason, specifying in reasonable detail the circumstances constituting Good Reason, and the Company, the Subsidiary or the Affiliate, as the case may be, has failed within thirty (30) days after receipt of such notice to cure the circumstances constituting Good Reason. The foregoing to the contrary notwithstanding, if at any particular time the Participant is subject to an effective employment agreement with the Company, a Subsidiary or an Affiliate, then, in lieu of the foregoing definition, “Good Reason” shall at that time have such meaning as may be specified in such employment agreement. 
+
+5 
+
+* * *
+
+13\. Compliance with Laws and Regulations. 
+
+(a) The Performance Shares subject to this Award and the obligation of the Company to deliver Shares or cash payments hereunder shall be subject in all respects to (i) all applicable Federal and state laws, rules and regulations; and (ii) any registration, qualification, approvals or other requirements imposed by any government or regulatory agency or body which the Committee shall, in its discretion, determine to be necessary or applicable. Moreover, the Company shall not deliver any certificates for Shares to the Participant or any other person pursuant to this Agreement if doing so would be contrary to applicable law. If at any time the Company determines, in its discretion, that the listing, registration or qualification of Shares upon any national securities exchange or under any state or federal law, or the consent or approval of any governmental regulatory body, is necessary or desirable, the Company shall not be required to deliver any certificates for Shares to the Participant or any other person pursuant to this Agreement unless and until such listing, registration, qualification, consent or approval has been effected or obtained, or otherwise provided for, free of any conditions not acceptable to the Company. 
+
+(b) It is intended that any Shares received pursuant to this Agreement shall have been registered under the Securities Act. If the Participant is an “affiliate” of the Company, as that term is defined in Rule 144 under the Securities Act (“Rule 144”), the Participant may not sell the Shares received except in compliance with Rule 144. Certificates representing Shares issued to an “affiliate” of the Company may bear a legend setting forth such restrictions on the disposition or transfer of the Shares as the Company deems appropriate to comply with federal and state securities laws. 
+
+(c) If at any time the Shares are not registered under the Securities Act, and/or there is no current prospectus in effect under the Securities Act with respect to the Shares, the Participant shall execute, prior to the delivery of any Shares to the Participant by the Company pursuant to this Agreement, an agreement (in such form as the Company may specify) in which the Participant represents and warrants that the Participant is purchasing or acquiring the Shares acquired under this Agreement for the Participant’s own account, for investment only and not with a view to the resale or distribution thereof, and represents and agrees that any subsequent offer for sale or distribution of any kind of such Shares shall be made only pursuant to either (i) a registration statement on an appropriate form under the Securities Act, which registration statement has become effective and is current with regard to the Shares being offered or sold; or (ii) a specific exemption from the registration requirements of the Securities Act, but in claiming such exemption the Participant shall, prior to any offer for sale of such Shares, obtain a prior favorable written opinion, in form and substance satisfactory to the Company, from counsel for or approved by the Company, as to the applicability of such exemption thereto. 
+
+14\. Notices. All notices by the Participant or the Participant’s successors or permitted assigns shall be addressed to the Company in California, Attention: Stock Plan Administrator, or such other address as the Company may from time to time specify. All notices to the Participant shall be addressed to the Participant at the Participant’s address in the Company’s records. 
+
+15\. Other Plans. The Participant acknowledges that any income derived from this Award shall not affect the Participant’s participation in, or benefits under, any other benefit plan or other contract or arrangement maintained by the Company or any Subsidiary or Affiliate. 
+
+16\. Acceptance or Rejection of this Award. If the Participant determines not to accept this Award, the Participant shall complete the on-line form (“Reject Your Grant”) as 
+
+6 
+
+* * *
+
+promptly as possible, but, in any case, within ninety (90) days after the Grant Date, to reject this Award. This on-line form may be accessed through the Participant’s account at www. .com. If the Participant has not completed such on-line form within such period, the Participant shall be deemed to have accepted this Award and agreed to the terms and conditions set forth in this Agreement and the terms and conditions of the Plan. 
+
+7 

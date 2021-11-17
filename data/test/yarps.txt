@@ -1,0 +1,332 @@
+  
+
+
+  
+
+
+Exhibit 10.2
+
+  
+
+
+
+
+UNDER THE ENSTAR GROUP LIMITED 2016 EQUITY INCENTIVE PLAN
+
+  
+
+
+This Restricted Stock Unit Award Agreement (this “Agreement”) is entered into as of the Grant Date (as defined below), by and between the Grantee (as defined below) and Enstar Group Limited (the “Company”). Except as otherwise defined herein, capitalized terms used in this Agreement have the respective meanings set forth in the Plan (as defined below).
+
+WITNESSETH THAT:
+
+  
+
+
+WHEREAS, the Company maintains the Enstar Group Limited 2016 Equity Incentive Plan (the “Plan”), which is incorporated into and forms a part of this Agreement; and
+
+  
+
+
+WHEREAS, the Grantee has been selected by the committee administering the Plan (the “Committee”) to receive a Restricted Stock Unit Award under the Plan.
+
+  
+
+
+NOW, THEREFORE, IT IS AGREED, by and between the Company and the Grantee as follows:
+
+  
+
+
+1\. Terms of Award.
+
+  
+
+
+(a) The “Grantee” is _______________.
+
+  
+
+
+(b) The “Grant Date” is _______________.
+
+  
+
+
+(c) The number of Restricted Stock Units granted under this Agreement is _______ (“RSUs”). Each RSU represents the right to receive one Common Share. 
+
+  
+
+
+2\. Award. Subject to the terms of this Agreement and the Plan, the Grantee is hereby granted the RSUs as described in paragraph 1. The Company shall establish a bookkeeping account in the Grantee’s name which reflects the number of RSUs standing to the credit of the Grantee. 
+
+  
+
+
+3\. Vesting. 
+
+  
+
+
+(a) Except as otherwise provided herein, upon [Insert Vesting Date(s)] (each, a “Vesting Date”), the RSUs that have not been previously forfeited shall become vested according to the following schedule: 
+
+  
+  
+  
+Number of RSUs Becoming Vested
+
+Vesting Date  
+  
+  
+
+
+(b) The Grantee’s right to vest in this Award is conditioned upon the Grantee’s continuous employment with the Company. If the Grantee incurs a Termination of Service, the Grantee’s rights with respect to the Award shall be affected as follows: 
+
+  
+  
+  
+(i)
+
+If the Grantee’s Termination of Service occurs by reason of the Grantee’s death, disability, or a termination by the Company or a Related Corporation without Cause, 100% of the unvested RSUs shall vest as of the date of such termination.   
+  
+(ii) 
+
+Except as otherwise provided in this paragraph 3, if the Grantee experiences a Termination of Service for any reason, any RSUs granted to the Grantee that are not fully vested as of the date of Termination of Service shall be forfeited at the time of such termination.   
+  
+  
+  
+  
+(iii)
+
+If the Grantee experiences a Termination of Service for Cause, any RSUs granted to the Grantee shall be forfeited at the time of such termination, and the Committee may require   
+  
+  
+
+
+1
+
+* * *
+
+  
+
+
+  
+
+
+that such Grantee disgorge any profit, gain or other benefit received in respect of the lapse of restrictions on any prior grant of RSUs for a period of up to twelve months prior to the Grantee’s Termination of Service for Cause.   
+  
+(c)
+
+Subject to Subsection 13(d) and Section 14 of the Plan, upon the occurrence of a Change in Control, 100% of the unvested RSUs shall vest as of the date of the Change in Control.   
+  
+  
+
+
+4\. Shareholder Rights. The Grantee shall not have any right, in respect of RSUs awarded pursuant to the Plan, to receive dividends or vote on any matter submitted to the Company’s stockholders until such time as Common Shares attributable to such RSUs have been issued to the Grantee. 
+
+  
+
+
+5\. Dividend Equivalents. RSUs awarded under this Agreement are eligible to receive Dividend Equivalents. On each date that a cash dividend is paid with respect to Common Shares, the Company shall credit the bookkeeping account (the “Account”) established on behalf of the Grantee with the dollar amount of the dividends the Grantee would have received if the RSUs held by the Grantee on the record date for such dividend payment had been Common Shares. Interest may be credited on the Dividend Equivalents at a rate and subject to such terms as determined by the Committee. Dividend Equivalents shall be subject to the same vesting and forfeiture restrictions as the RSUs to which they are attributable and shall be paid in cash on the same date that the RSUs to which they are attributable are settled. 
+
+  
+
+
+6\. Settlement of RSUs. As soon as practicable after the applicable Vesting Date and in any event no later than March 15 of the calendar year following the calendar year in which such vesting occurs, the Company shall transfer to the Grantee one Common Share for each RSU vesting on the Vesting Date (the date of any such transfer shall be the settlement date for purposes of this Agreement); however, the Company may withhold shares otherwise transferable to the Grantee to the extent necessary to satisfy withholding taxes due by reason of the vesting of the RSU. 
+
+  
+
+
+7\. Deferral of RSUs.
+
+  
+
+
+(a) The Grantee may elect to defer the settlement of RSUs (and any related Dividend Equivalents) granted under this Agreement until the earliest of (i) a date (the “Specified Payment Date”) selected by the Grantee that is not less than one (1) year and not more than ten (10) years from the applicable Vesting Date, (ii) a Change in Control, provided that the event constitutes a change in control within the meaning of Treasury Regulation Section 1.409A-3(i)(5) or any successor provision, or (iii) the Grantee’s Termination of Service for any reason, provided that the event constitutes a separation from service within the meaning of Treasury Regulation Section 1.409A-1(h) or any successor provision. In such case, settlement of RSUs (and any related Dividend Equivalents) will occur as soon as practicable after the Specified Payment Date, Change in Control, or Termination of Service, as applicable, but in any event no later than sixty (60) days thereafter. Notwithstanding the foregoing, if settlement is to be made as a result of the Grantee’s Termination of Service other than due to death or disability and the Grantee is a “specified employee” within the meaning of Code Section 409A at the time of such Termination of Service, then settlement will not occur until the first business day of the seventh month following the month in which such Termination of Service occurs (or, if earlier, within 60 days of the Grantee’s death if the Grantee dies following Termination of Service and before payment is made). 
+
+  
+
+
+(b) To make an election to defer settlement of RSUs (and any related Dividend Equivalents), the Grantee must make a valid and timely election in compliance with the provisions of Section 409A of the Code and in accordance with procedures established by the Committee. Such deferral election is irrevocable and may not be accelerated, revoked or modified except as otherwise permitted under Code Section 409A and the Plan. RSUs deferred under this election will be settled in Common Shares payable in a single lump sum. Dividend Equivalents deferred under this election will be settled in a single lump sum cash payment. For purposes of this paragraph 7, the portion of the RSUs that vest each year under this Agreement shall be treated as a separate grant and the Grantee may make a separate deferral election with respect to each separate grant. 
+
+  
+
+
+8\. Transferability. The Grantee shall not transfer or assign, in whole or in part, RSUs subject to this Agreement, other than (a) by will or by the laws of descent and distribution, or (b) by designation, in a manner established by the Company, of a beneficiary or beneficiaries to exercise the rights of the Grantee and to receive any property distributable with respect to this Agreement upon the death of the Grantee upon satisfaction of the vesting conditions described in paragraph 3 above. 
+
+  
+
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+9\. Withholding. Any tax consequences arising from the grant of this Award shall be borne solely by the Grantee. The Company and/or its Related Corporations shall withhold taxes according to the requirements under the applicable laws, rules and regulations including withholding taxes at source. The Grantee will not be entitled to receive from the Company any Common Shares hereunder prior to the full payment of the Grantee’s tax liabilities relating to this Award. The Committee may, in its discretion, permit the Grantee to elect, subject to such conditions as the Committee shall impose, (a) to have Common Shares otherwise issuable under the Plan withheld by the Company or (b) to deliver to the Company previously acquired Common Shares (through actual tender or attestation), in either case for the greatest number of whole shares having a Fair Market Value on the date immediately preceding the date of vesting not in excess of the amount required to satisfy the withholding tax obligations.
+
+  
+
+
+10\. Compliance with Applicable Law. Notwithstanding any other provision of this Agreement, the Company shall have no obligation to issue any Common Shares if such issuance would violate any applicable law or any applicable regulation or requirement of any securities exchange or similar entity.
+
+  
+
+
+11\. Section 409A. Notwithstanding anything herein to the contrary, to the maximum extent permitted by applicable law, the settlement of the RSUs (including any Dividend Equivalents) to be made to the Grantee pursuant to this Agreement is intended to qualify as a “short-term deferral” pursuant to Section 1.409A-1(b)(4) of the Regulations and this Agreement shall be interpreted consistently therewith. However, under certain circumstances, including where Grantee has elected to defer settlement of this Award in accordance with paragraph 7, settlement of the RSUs or any Dividend Equivalents may not so qualify, and in that case, the Committee shall administer the grant and settlement of such RSUs and any Dividend Equivalents in compliance with Section 409A of the Code. Notwithstanding the foregoing, neither the Company nor the Committee shall have any obligation to take any action to prevent the assessment of any excise tax or penalty on the Grantee under Section 409A of the Code and neither the Company nor the Committee will have any liability to the Grantee for such tax or penalty. 
+
+  
+
+
+12\. Administration. The authority to manage and control the operation and administration of this Agreement shall be vested in the Committee, and the Committee shall have all powers with respect to this Agreement as it has with respect to the Plan. Any interpretation of the Agreement by the Committee and any decision made by it with respect to the Agreement is final and binding on all parties. Any inconsistency between this Agreement and the Plan shall be resolved in favor of the Plan.
+
+  
+
+
+13\. Not an Employment Contract. This Award will not confer on the Grantee any right with respect to the continuance of employment or other service to the Company or any Related Corporation, nor will it interfere in any way with any right the Company or any Related Corporation would otherwise have to terminate or modify the terms of such Grantee’s employment or other service at any time.
+
+  
+
+
+14\. Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later the date of actual receipt. Notices shall be directed, if to the Grantee, at the Grantee’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office. 
+
+  
+
+
+15\. Amendment. This Agreement may be amended in accordance with the provisions of the Plan, and may otherwise be amended by written agreement of the Grantee and the Company without the consent of any other person.
+
+  
+
+
+16\. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original and all of which together shall be deemed to be one and the same instrument.
+
+  
+
+
+17\. Successors and Assigns. This Agreement shall be binding upon and shall inure to the benefit of the Company and the Grantee and their respective heirs, executors, administrators, legal representatives, successors and assigns, subject to the transfer restrictions set forth in this Agreement and the Plan.
+
+  
+
+
+18\. Applicable Law. This Agreement shall be construed in accordance with the laws of Bermuda (without reference to principles of conflict of laws). 
+
+  
+
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+  
+
+
+19\. Clawback Policy. Notwithstanding any other provision of this Agreement, this Award will be subject to any compensation recovery or clawback policy the Company adopts, including any policy required to comply with applicable law or listing standards, as such policy may be amended from time to time in the Company’s sole discretion.
+
+  
+
+
+20\. Electronic Administration. Grantee hereby consents to any and all procedures that the Company has established or may establish for an electronic signature system for delivery and acceptance of this award agreement and any other documents that the Company may be required to deliver, and agrees that his or her electronic signature is the same as, and shall have the same force and effect as, his or her manual signature.
+
+  
+
+
+21\. Special Provisions for European Grantees. 
+
+  
+
+
+(a) In addition, the Grantee acknowledges: (i) that the Plan is discretionary in nature and may be suspended or terminated by the Company at any time; (ii) that the grant of the RSUs does not create any contractual or other right to receive future grants of RSUs, or benefits in lieu of RSUs; (iii) that all determinations with respect to any such future grants, including, but not limited to, the times when RSUs shall be granted and the number of shares subject to each RSU will be at the sole discretion of the Company without the need to supply reasons for the exercise or non-exercise of that discretion; and (v) that the RSU is not part of normal or expected compensation for purposes of calculating any severance or other payments paid for any reason whatsoever and whether such termination is subsequently held to be wrongful or unfair.
+
+  
+
+
+(b) The Grantee has been informed by the Company about the processing of relevant data under the Plan and the RSUs and in particular this paragraph. By entering into this Agreement, the Grantee: (i) authorizes the Company and each Affiliate, and any agent of the Company or any Affiliate or third party administering the Plan, to collect, use, process and disclose and transfer to and retention by the Company or any of its or their persons such information and data (including personal data) as the Company or any such person (including any situated outside the European Economic Area) shall request or need in order to facilitate the grant of RSUs and the administration of the Plan; (ii) waives any data privacy rights he or she may have with respect to such information; and (iii) authorizes the Company and each Affiliate to store and transmit such information in electronic form.
+
+  
+
+
+(c) The Grantee acknowledges that any income, other taxes or social security contributions (including to the extent provided herein any employers’ social security contributions) due from him or her with respect to the grant, vesting, deferral or delivery of this Award and Common Shares transferable hereunder (“Tax Liability”) shall be the Grantee’s responsibility and the Grantee agrees to indemnify the Company and his employer or former employer in respect of all such Tax Liability provided that the Grantee understands and agrees that, unless (a) his employer or former employer is able to withhold the amount of the Tax Liability from payment of his remuneration within the period of 30 days from the date on which any Tax Liability arises; (b) the Grantee indicates in writing to his employer or former employer in a manner agreed with the Company that the Grantee will make a payment to the Company of an amount equal to the Tax Liability and does in fact make such a payment, within 14 days of being notified by the Company of the amount of the Tax Liability, the Company shall be entitled to sell sufficient of the Common Shares acquired or to be acquired by the Grantee necessary to satisfy the indemnity and to procure payment to the Grantee’s employer of an amount sufficient to satisfy the indemnity out of the net proceeds of sale of the Shares. 
+
+  
+
+
+(d) In accordance with the instructions included on the deferral election form attached hereto as Exhibit A, any deferral election made in a jurisdiction where such election would be ineffective for tax purposes according to the law of such jurisdiction shall be null and void and the RSUs will be settled as if no deferral election had been made. 
+
+  
+
+
+  
+
+
+[Signature Page Follows]
+
+  
+
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Restricted Stock Award Agreement on ___________________, ____. 
+
+  
+
+
+ENSTAR GROUP LIMITED
+
+  
+
+
+  
+
+
+By:________________________________
+
+Name: 
+
+Title: 
+
+  
+
+
+  
+
+
+  
+
+
+____________________________________
+
+Grantee
+
+  
+
+
+Address: 
+
+  
+
+
+5

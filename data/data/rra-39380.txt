@@ -1,0 +1,285 @@
+Exhibit 10.2
+
+
+
+This Investor Rights Agreement (this "Agreement") is made as of the 26th day of October, 2016, by and between Blackboxstocks Inc., a Nevada corporation (the "Company"), and Stephen Chiang, a citizen of Singapore (the "Investor").
+
+WHEREAS, the Company and the Investor are parties to the Stock Purchase Agreement of even date herewith (the "Purchase Agreement") pursuant to which the Investor has agreed to purchase shares of Common Stock; and
+
+WHEREAS, in order to induce the Company to enter into the Purchase Agreement and to induce the Investor to invest funds in the Company pursuant to the Purchase Agreement, the Investor and the Company hereby agree that this Agreement shall govern the rights of the Investor to cause the Company to register shares of the Investor's Common Stock and to participate in future equity offerings by the Company, and shall govern certain other matters as set forth in this Agreement;
+
+NOW, THEREFORE, the parties hereby agree as follows:
+
+1\. Definitions. For purposes of this Agreement:
+
+1.1 "Affiliate" means, with respect to any specified Person, any other Person who, directly or indirectly, controls, is controlled by, or is under common control with such Person, including without limitation any general partner, managing member, officer or director of such Person or any venture capital fund now or hereafter existing that is controlled by one or more general partners or managing members of, or shares the same management company with, such Person.
+
+1.2 "Common Stock" means shares of the Company's common stock, par value $0.001 per share.
+
+1.3 "Competitor" means a Person engaged, directly or indirectly (including through any partnership, limited liability company, corporation, joint venture or similar arrangement (whether now existing or formed hereafter)), in the design, development, marketing and exploitation of software applications and solutions to be used in conjunction with stock trading platforms.
+
+1.4 "Convertible Securities" shall mean any evidences of indebtedness, shares or other securities directly or indirectly convertible into or exchangeable for Common Stock, but excluding Options.
+
+1.5 "Deemed Liquidation Event" means (a) a merger or consolidation in which (i) the Company is a constituent party or (ii) a subsidiary of the Company is a constituent party and the Company issues shares of its capital stock pursuant to such merger or consolidation, except any such merger or consolidation involving the Company or a subsidiary in which the shares of capital stock of the Company outstanding immediately prior to such merger or consolidation continue to represent, or are converted into or exchanged for shares of capital stock that represent, immediately following such merger or consolidation, at least a majority, by voting power, of the capital stock of (1) the surviving or resulting corporation or entity; or (2) if the surviving or resulting corporation or entity is a wholly owned subsidiary of another corporation immediately following such merger or consolidation, the parent corporation of such surviving or resulting corporation; or (b) the sale, lease, transfer, exclusive license or other disposition, in a single transaction or series of related transactions, by the Company or any subsidiary of the Company of all or substantially all the assets of the Company and its subsidiaries taken as a whole, or the sale or disposition (whether by merger, consolidation or otherwise) of one or more subsidiaries of the Company if substantially all of the assets of the Company and its subsidiaries taken as a whole are held by such subsidiary or subsidiaries, except where such sale, lease, transfer, exclusive license or other disposition is to a wholly owned subsidiary of the Company.
+
+1
+
+* * *
+
+1.6 "Exchange Act" means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+1.7  "Excluded Registration" means (i) a registration relating to the sale of securities to employees of the Company or a subsidiary pursuant to a stock option, stock purchase, or similar plan; (ii) a registration relating to an SEC Rule 145 transaction; (iii) a registration on any form that does not include substantially the same information as would be required to be included in a registration statement covering the sale of the Registrable Securities; or (iv) a registration in which the only Common Stock being registered is Common Stock issuable upon conversion of debt securities that are also being registered.
+
+1.8 "Exempted Securities" means (i) shares of Common Stock issued upon conversion of the Company's Preferred Stock; (ii) shares of Common Stock, Options or Convertible Securities issued by reason of a dividend, stock split, split-up or other distribution on shares of Common Stock; (iii) shares of Common Stock or Options issued to employees or directors of, or consultants or advisors to, the Company or any of its subsidiaries pursuant to a plan, agreement or arrangement approved by the Board of Directors of the Company; and (iv) shares of Common Stock or Convertible Securities actually issued upon the exercise of Options or shares of Common Stock actually issued upon the conversion or exchange of Convertible Securities, in each case provided such issuance is pursuant to the terms of such Option or Convertible Security.
+
+1.9 "Holder" means any holder of Registrable Securities who is a party to this Agreement.
+
+1.10 "Immediate Family Member" means a child, stepchild, grandchild, parent, stepparent, grandparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law, including, adoptive relationships, of a natural person referred to herein.
+
+1.11 "IPO" means the Company's first underwritten public offering of its Common Stock under the Securities Act.
+
+1.12 "New Securities" means, collectively, equity securities of the Company, whether or not currently authorized, as well as rights, options, or warrants to purchase such equity securities, or securities of any type whatsoever that are, or may become, convertible or exchangeable into or exercisable for such equity securities.
+
+1.13 "Option" shall mean rights, options or warrants to subscribe for, purchase or otherwise acquire Common Stock or Convertible Securities.
+
+1.14 "Person" means any individual, corporation, partnership, trust, limited liability company, association or other entity.
+
+1.15 "Registrable Securities" means (i) all Common Stock purchased by, issued to or otherwise acquired by the Investor, including shares of Common Stock issued pursuant to stock splits, stock dividends and similar distributions; but excluding any Registrable Securities sold by a Person in a transaction in which the applicable rights under this Agreement are not assigned pursuant to Subsection 5.1, and excluding for purposes of Section 2 any shares for which registration rights have terminated pursuant to Subsection 2.9 of this Agreement.
+
+2
+
+* * *
+
+1.16 "Registrable Securities then outstanding" means the number of shares determined by adding the number of shares of outstanding Common Stock that are Registrable Securities and the number of shares of Common Stock issuable (directly or indirectly) pursuant to then exercisable and/or convertible securities that are Registrable Securities.
+
+1.17 "SEC" means the Securities and Exchange Commission.
+
+1.18 "SEC Rule 144" means Rule 144 promulgated by the SEC under the Securities Act.
+
+1.19 "SEC Rule 145" means Rule 145 promulgated by the SEC under the Securities Act.
+
+1.20 "Securities Act" means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+1.21 "Selling Expenses" means all underwriting discounts, selling commissions, and stock transfer taxes applicable to the sale of Registrable Securities, and fees and disbursements of counsel for any Holder, except for the fees and disbursements of the Selling Holder Counsel borne and paid by the Company as provided in Subsection 2.5.
+
+2\. Registration Rights. The Company covenants and agrees as follows:
+
+2.1 Company Registration. If the Company proposes to register (including, for this purpose, a registration effected by the Company for stockholders other than the Holders) any of its Common Stock under the Securities Act in connection with the public offering of such securities solely for cash (other than in an Excluded Registration), the Company shall, at such time, promptly give each Holder notice of such registration. Upon the request of each Holder given within twenty (20) days after such notice is given by the Company, the Company shall, subject to the provisions of Subsection 2.2, cause to be registered all of the Registrable Securities that each such Holder has requested to be included in such registration. The Company shall have the right to terminate or withdraw any registration initiated by it under this Subsection 2.1 before the effective date of such registration, whether or not any Holder has elected to include Registrable Securities in such registration. The expenses (other than Selling Expenses) of such withdrawn registration shall be borne by the Company in accordance with Subsection 2.5.
+
+2.2 Underwriting Requirements. In connection with any offering involving an underwriting of shares of the Company's capital stock pursuant to Subsection 2.1, the Company shall not be required to include any of the Holders' Registrable Securities in such underwriting unless the Holders accept the terms of the underwriting as agreed upon between the Company and its underwriters, and then only in such quantity as the underwriters in their sole discretion determine will not jeopardize the success of the offering by the Company. If the underwriters determine that less than all of the Registrable Securities requested to be registered can be included in such offering, then the Registrable Securities that are included in such offering shall be allocated among the selling Holders in proportion (as nearly as practicable to) the number of Registrable Securities owned by each selling Holder or in such other proportions as shall mutually be agreed to by all such selling Holders. Notwithstanding the foregoing, in no event shall (i) the number of Registrable Securities included in the offering be reduced unless all other securities (other than securities to be sold by the Company) are first entirely excluded from the offering, or (ii) the number of Registrable Securities included in the offering be reduced below thirty percent (30%) of the total number of securities included in such offering, unless such offering is the IPO, in which case the selling Holders may be excluded further if the underwriters make the determination described above and no other stockholder's securities are included in such offering.
+
+3
+
+* * *
+
+2.3 Obligations of the Company. Whenever required under this Section 2 to effect the registration of any Registrable Securities, the Company shall, as expeditiously as reasonably possible:
+
+(a) prepare and file with the SEC a registration statement with respect to such Registrable Securities and use its commercially reasonable efforts to cause such registration statement to become effective and, upon the request of the Holders of a majority of the Registrable Securities registered thereunder, keep such registration statement effective for a period of up to one hundred twenty (120) days or, if earlier, until the distribution contemplated in the registration statement has been completed; provided, however, that such one-hundred-twenty-(120)-day period shall be extended for a period of time equal to the period the Holder refrains, at the request of an underwriter of Common Stock (or other securities) of the Company, from selling any securities included in such registration;
+
+(b) prepare and file with the SEC such amendments and supplements to such registration statement, and the prospectus used in connection with such registration statement, as may be necessary to comply with the Securities Act in order to enable the disposition of all securities covered by such registration statement;
+
+(c) furnish to the selling Holders such numbers of copies of a prospectus, including a preliminary prospectus, as required by the Securities Act, and such other documents as the Holders may reasonably request in order to facilitate their disposition of their Registrable Securities;
+
+(d) use its commercially reasonable efforts to register and qualify the securities covered by such registration statement under such other securities or blue-sky laws of such jurisdictions as shall be reasonably requested by the selling Holders; provided that the Company shall not be required to qualify to do business or to file a general consent to service of process in any such states or jurisdictions, unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act;
+
+(e) in the event of any underwritten public offering, enter into and perform its obligations under an underwriting agreement, in usual and customary form, with the underwriter(s) of such offering;
+
+(f) use its commercially reasonable efforts to cause all such Registrable Securities covered by such registration statement to be listed on a national securities exchange or trading system and each securities exchange and trading system (if any) on which similar securities issued by the Company are then listed;
+
+(g) provide a transfer agent and registrar for all Registrable Securities registered pursuant to this Agreement and provide a CUSIP number for all such Registrable Securities, in each case not later than the effective date of such registration;
+
+(h) promptly make available for inspection by the selling Holders, any managing underwriter(s) participating in any disposition pursuant to such registration statement, and any attorney or accountant or other agent retained by any such underwriter or selected by the selling Holders, all financial and other records, pertinent corporate documents, and properties of the Company, and cause the Company's officers, directors, employees, and independent accountants to supply all information reasonably requested by any such seller, underwriter, attorney, accountant, or agent, in each case, as necessary or advisable to verify the accuracy of the information in such registration statement and to conduct appropriate due diligence in connection therewith;
+
+4
+
+* * *
+
+(i) notify each selling Holder, promptly after the Company receives notice thereof, of the time when such registration statement has been declared effective or a supplement to any prospectus forming a part of such registration statement has been filed; and
+
+(j) after such registration statement becomes effective, notify each selling Holder of any request by the SEC that the Company amend or supplement such registration statement or prospectus.
+
+In addition, the Company shall ensure that, at all times after any registration statement covering a public offering of securities of the Company under the Securities Act shall have become effective, its insider trading policy shall provide that the Company's directors may implement a trading program under Rule 10b5-1 of the Exchange Act.
+
+2.4  Furnish Information. It shall be a condition precedent to the obligations of the Company to take any action pursuant to this Section 2 with respect to the Registrable Securities of any selling Holder that such Holder shall furnish to the Company such information regarding itself, the Registrable Securities held by it, and the intended method of disposition of such securities as is reasonably required to effect the registration of such Holder's Registrable Securities.
+
+2.5 Expenses of Registration. All expenses (other than Selling Expenses) incurred in connection with registrations, filings, or qualifications pursuant to Section 2, including all registration, filing, and qualification fees; printers' and accounting fees; fees and disbursements of counsel for the Company; and the reasonable fees and disbursements of one counsel for the selling Holders ("Selling Holder Counsel"), shall be borne and paid by the Company.
+
+2.6 Delay of Registration. No Holder shall have any right to obtain or seek an injunction restraining or otherwise delaying any registration pursuant to this Agreement as the result of any controversy that might arise with respect to the interpretation or implementation of this Section 2.
+
+2.7 Reports under Exchange Act. With a view to making available to the Holders the benefits of SEC Rule 144 and any other rule or regulation of the SEC that may at any time permit a Holder to sell securities of the Company to the public without registration or pursuant to a registration on Form S-3, the Company shall:
+
+(a) make and keep available adequate current public information, as those terms are understood and defined in SEC Rule 144, at all times after the effective date of the registration statement filed by the Company for the IPO;
+
+(b) use commercially reasonable efforts to file with the SEC in a timely manner all reports and other documents required of the Company under the Securities Act and the Exchange Act (at any time after the Company has become subject to such reporting requirements); and
+
+(c) furnish to any Holder, so long as the Holder owns any Registrable Securities, forthwith upon request (i) to the extent accurate, a written statement by the Company that it has complied with the reporting requirements of SEC Rule 144 (at any time after ninety (90) days after the effective date of the registration statement filed by the Company for the IPO), the Securities Act, and the Exchange Act (at any time after the Company has become subject to such reporting requirements), or that it qualifies as a registrant whose securities may be resold pursuant to Form S-3 (at any time after the Company so qualifies); and (ii) such other information as may be reasonably requested in availing any Holder of any rule or regulation of the SEC that permits the selling of any such securities without registration (at any time after the Company has become subject to the reporting requirements under the Exchange Act) or pursuant to Form S-3 (at any time after the Company so qualifies to use such form).
+
+5
+
+* * *
+
+2.8 Limitations on Subsequent Registration Rights. From and after the date of this Agreement, the Company shall not, without the prior written consent of the Holders of the Registrable Securities then outstanding, enter into any agreement with any holder or prospective holder of any securities of the Company that would allow such holder or prospective holder to include such securities in any registration unless, under the terms of such agreement, such holder or prospective holder may include such securities in any such registration only to the extent that the inclusion of such securities will not reduce the number of the Registrable Securities of the Holders that are included.
+
+2.9 Termination of Registration Rights. The right of any Holder to request registration or inclusion of Registrable Securities in any registration pursuant to Subsection 2.1 shall terminate upon the earliest to occur of:
+
+(a) the closing of a Deemed Liquidation Event;
+
+(b) such time as Rule 144 or another similar exemption under the Securities Act is available for the sale of all of such Holder's shares without limitation during a three-month period without registration; and
+
+(c)  the second anniversary of the date of this Agreement.
+
+3\. Rights to Future Stock Issuances.
+
+3.1 Right of First Offer. Subject to the terms and conditions of this Subsection 3.1 and applicable securities laws, if the Company proposes to offer or sell any New Securities, the Company shall first offer such New Securities to the Investor.
+
+(a) The Company shall give written notice (the "Offer Notice") to the Investor, stating (i) its bona fide intention to offer such New Securities, (ii) the number of such New Securities to be offered to the Investor, and (iii) the price and terms, if any, upon which it proposes to offer such New Securities.
+
+(b) By notification to the Company within twenty (20) days after the Offer Notice is given, the Investor may elect to purchase or otherwise acquire, at the price and on the terms specified in the Offer Notice, up to that portion of such New Securities which equals the proportion that the Common Stock then held by the Investor bears to the total Common Stock of the Company then outstanding unless otherwise agreed by the Board of Directors. The closing of any sale pursuant to this Subsection 3.1(b) shall occur within the later of ninety (90) days of the date that the Offer Notice is given and the date of initial sale of New Securities pursuant to Subsection 3.1(c).
+
+(c) If all New Securities referred to in the Offer Notice are not elected to be purchased or acquired as provided in Subsection 3.1(b), the Company may, during the ninety (90) day period following the date that the Offer Notice is given, offer and sell the remaining unsubscribed portion of such New Securities to any Person or Persons at a price not less than, and upon terms no more favorable to the offeree than, those specified in the Offer Notice. If the Company does not enter into an agreement for the sale of the New Securities within such period, or if such agreement is not consummated within thirty (30) days of the execution thereof, the right provided hereunder shall be deemed to be revived and such New Securities shall not be offered unless first reoffered to the Investor in accordance with this Subsection 3.1.
+
+6
+
+* * *
+
+(d) The right of first offer in this Subsection 3.1 shall not be applicable to (i) Exempted Securities and (ii) shares of Common Stock issued in the IPO.
+
+3.2 Termination. The covenants set forth in Subsection 3.1 shall terminate and be of no further force or effect (i) immediately before the consummation of the IPO, or (ii) upon a Deemed Liquidation Event, whichever event occurs first.
+
+4\. Employee Agreements. The Company will cause each of Gust Kepler and Jeff Sharrock to enter into a one (1) year Employee Non-Compete Agreement, substantially in the form attached hereto as Exhibit A.
+
+5\. Miscellaneous.
+
+5.1 Successors and Assigns. The rights under this Agreement may be assigned (but only with all related obligations) by a Holder to a transferee of Registrable Securities that (i) is an Affiliate of a Holder; or (ii) is a Holder's Immediate Family Member or trust for the benefit of an individual Holder or one or more of such Holder's Immediate Family Members; provided, however, that (x) the Company is, within a reasonable time after such transfer, furnished with written notice of the name and address of such transferee and the Registrable Securities with respect to which such rights are being transferred; and (y) such transferee agrees in a written instrument delivered to the Company to be bound by and subject to the terms and conditions of this Agreement. The terms and conditions of this Agreement inure to the benefit of and are binding upon the respective successors and permitted assignees of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and permitted assignees any rights, remedies, obligations or liabilities under or by reason of this Agreement, except as expressly provided herein.
+
+5.2 Governing Law. This Agreement shall be governed by the internal law of the State of Texas.
+
+5.3 Counterparts. This Agreement may be executed in two (2) or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.  Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+5.4 Titles and Subtitles. The titles and subtitles used in this Agreement are for convenience only and are not to be considered in construing or interpreting this Agreement.
+
+5.5 Notices. All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt or (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient's next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with an internationally nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. All communications shall be sent to the respective parties at their address as set forth on Schedule A, or to such email address, facsimile number or address as subsequently modified by written notice given in accordance with this Section 5.5. If notice is given to the Company, it shall be sent to Blackboxstocks Inc., 5430 LBJ Freeway, Suite 1485, Dallas, Texas 75240, Attention: Gust Kepler, President; and a copy (which shall not constitute notice) shall also be sent to Munck Wilson Mandala, LLP, 12770 Coit Road, Suite 600, Dallas, Texas 75252, Attention: Jeffrey M. McPhaul. Notwithstanding the foregoing or any provision herein to the contrary, any notice to be delivered to the Investor hereunder shall, in addition to any other method of delivery, be e-mailed to the Investor at his e-mail address set forth on Schedule A attached hereto (or to such other e-mail address provided to the Company by the Investor in writing after the date hereof).
+
+7
+
+* * *
+
+5.6 Amendments and Waivers. Any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally or in a particular instance, and either retroactively or prospectively) only with the written consent of the Company and the Investor. The Company shall give prompt notice of any amendment or termination hereof or waiver hereunder to any party hereto that did not consent in writing to such amendment, termination, or waiver. Any amendment, termination, or waiver effected in accordance with this Subsection 5.6 shall be binding on all parties hereto, regardless of whether any such party has consented thereto. No waivers of or exceptions to any term, condition, or provision of this Agreement, in any one or more instances, shall be deemed to be or construed as a further or continuing waiver of any such term, condition, or provision.
+
+5.7 Severability. In case any one or more of the provisions contained in this Agreement is for any reason held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Agreement, and such invalid, illegal, or unenforceable provision shall be reformed and construed so that it will be valid, legal, and enforceable to the maximum extent permitted by law.
+
+5.8 Entire Agreement. This Agreement (including, the Exhibits and Schedules hereto) constitutes the full and entire understanding and agreement between the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties are expressly canceled.
+
+5.9 Dispute Resolution. The parties (a) hereby irrevocably and unconditionally submit to the jurisdiction of the state courts of Texas and to the jurisdiction of the United States District Court for the Northern District of Texas for the purpose of any suit, action or other proceeding arising out of or based upon this Agreement, (b) agree not to commence any suit, action or other proceeding arising out of or based upon this Agreement except in the state courts of Texas or the United States District Court for the Northern District of Texas, and (c) hereby waive, and agree not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or the subject matter hereof may not be enforced in or by such court
+
+8
+
+* * *
+
+5.10 Delays or Omissions. No delay or omission to exercise any right, power, or remedy accruing to any party under this Agreement, upon any breach or default of any other party under this Agreement, shall impair any such right, power, or remedy of such nonbreaching or nondefaulting party, nor shall it be construed to be a waiver of or acquiescence to any such breach or default, or to any similar breach or default thereafter occurring, nor shall any waiver of any single breach or default be deemed a waiver of any other breach or default theretofore or thereafter occurring. All remedies, whether under this Agreement or by law or otherwise afforded to any party, shall be cumulative and not alternative.
+
+[Remainder of Page Intentionally Left Blank]
+
+  
+
+
+9
+
+* * *
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+  
+
+
+COMPANY:
+
+Blackboxstocks Inc.  
+  
+
+
+  
+
+
+  
+
+
+By: __________________________
+
+Gust Kepler, President
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+PURCHASER:
+
+  
+
+
+  
+
+
+  
+
+
+_____________________________
+
+Stephen Chiang  
+  
+  
+
+
+  
+
+
+* * *
+
+SCHEDULE A  
+INVESTORS
+
+  
+
+
+  
+
+
+Name and Address
+
+Number of Shares Held  
+  
+Stephen Chiang, a Singapore citizen
+
+3,000,000 Common Stock  
+  
+Mailing address:
+
+8 Kitchener Link,  
+  
+City Square Residences #21-14 Singapore 207226  
+  
+E-mail address:
+
+mansapost@gmail.com  
+  
+  
+
+
+* * *
+
+  
+
+
+EXHIBIT A
+
+Form of Non-Compete Agreement
+
+* * *

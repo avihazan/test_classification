@@ -1,0 +1,266 @@
+Exhibit 10.1 
+
+
+
+This NON-QUALIFIED STOCK OPTION AGREEMENT (this “Option Agreement”), dated as of  , 20 (the “Grant Date”), is between ZEBRA TECHNOLOGIES CORPORATION, a Delaware Corporation (the “Company”), and  (the “Participant”), relating to a non-qualified stock option granted under the 2006 Zebra Technologies Corporation Incentive Compensation Plan (the “Plan”). Capitalized terms used in this Option Agreement without definition shall have the meanings ascribed to such terms in the Plan. 
+
+1. Grant of Option.   
+  
+(a) Grant. Subject to the provisions of this Option Agreement and pursuant to the provisions of the Plan, the Company hereby grants to the Participant as of the Grant Date a Non-Qualified Stock Option (the “Option”) to purchase  shares (the “Option Shares”) of the Company’s Class A Common Stock, $.01 par value per share (the “Stock”), at a price of $ per share (the “Option Price”).   
+  
+(b) Term of the Option. Unless the Option terminates earlier pursuant to other provisions of the Option Agreement, the Option shall expire on the tenth anniversary of the Grant Date (the “Expiration Date”).   
+  
+(c) Nontransferability. The Option shall be non-transferable, except by will or the laws of descent and distribution, or as otherwise permitted under the Plan.   
+  
+2. Vesting of Option.   
+  
+(a) General Vesting Rule. Prior to the Expiration Date, the Option shall become and be exercisable as follows:   
+  
+Grant Date Anniversary
+
+Percentage of Option Exercisable  
+  
+Prior to the first anniversary of the Grant Date
+
+0%  
+  
+On or after the first anniversary of the Grant Date
+
+15%  
+  
+On or after the second anniversary of the Grant Date, an additional
+
+17.5%  
+  
+On or after the third anniversary of the Grant Date, an additional
+
+20%  
+  
+On or after the fourth anniversary of the Grant Date, an additional
+
+22.5%  
+  
+On or after the fifth anniversary of the Grant Date, an additional
+
+25%  
+  
+provided, however, except as otherwise provided for under this Option Agreement, the Participant must remain employed by the Company or any Subsidiary continuously through the applicable vesting dates.
+
+* * *
+
+(b) Death or Disability. Notwithstanding the provisions of Section 2(a) hereof, in the event the Participant’s employment with the Company and/or any Subsidiary is terminated due to death or Disability, any unvested Option Shares as of the date of Participant’s termination of employment shall immediately become fully vested and exercisable and, along with unexercised vested Option Shares, shall remain exercisable until the earlier of:   
+  
+(i) the Expiration Date; or   
+  
+(ii) one (1) year after the date of the Participant’s termination of employment due to death or Disability.   
+  
+In the event of the Participant’s death, the Participant’s beneficiary or estate may exercise the vested Option Shares. 
+
+(c) Retirement. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated due to Retirement, any unexercised, vested Option Shares as of the date of Participant’s termination of employment shall remain exercisable until the earlier of:   
+  
+(i) the Expiration Date; or   
+  
+(ii) one (1) year after the date of the Participant’s termination of employment due to Retirement.   
+  
+For purposes of this Option Agreement, “Retirement” means the Participant’s voluntary termination of employment with the Company and/or any Subsidiary after attaining either: 
+
+• age 55 with ten (10) complete years of service or more with the Company and/or any Subsidiary; or   
+  
+• age 65.   
+  
+(d) Termination for Cause. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated for Cause, all unvested Option Shares and all unexercised, vested Option Shares shall expire immediately, be forfeited and considered null and void. For purposes of this Option Agreement, “Cause” means, as determined by the Company, in its sole discretion, termination of the Participant’s employment with the Company or any Subsidiary because of:   
+  
+(i) Participant’s breach of this Option Agreement;   
+  
+(ii) willful or intentional misconduct; gross negligence; or dishonest, fraudulent, or unethical behavior; or other conduct involving serious moral turpitude, by Participant in the performance of his or her duties; or   
+  
+(iii) the Participant’s dishonesty, theft or conviction of any crime or offense involving money or property of the Company or any Subsidiary; or   
+  
+(iv) the Participant’s breach of any fiduciary duty owing to the Company or any Subsidiary.   
+  
+(e) Other Termination of Employment. In the event the Participant’s employment with the Company and/or any Subsidiary is terminated for any reason other than as provided in Sections 2(b), (c) or (d) hereof, any unexercised, vested Option Shares as of the date of Participant’s termination of employment shall remain exercisable until the earlier of:   
+  
+(i) the Expiration Date; or   
+  
+(ii) ninety (90) days after the date of the Participant’s involuntary (as to the Participant) termination of employment for reasons other than death, Disability, Retirement, or Cause; or   
+  
+2 
+
+* * *
+
+(iii) thirty (30) days after the date of the Participant’s voluntary termination of employment for reasons other than Retirement.   
+  
+(f) Change in Control Vesting. Subject to the provisions of Section 15 of the Plan, if a Change in Control occurs, 100% of the remaining unvested Option Shares shall be immediately vested and exercisable upon the Change in Control and, along with unexercised vested Option Shares, shall remain exercisable through the Expiration Date.   
+  
+3. Exercise of Option.   
+  
+(a) Manner of Exercise. The vested Option Shares may be exercised, in whole or in part, by delivering written notice to the Company in accordance with of Section 7(k) hereof and in such form as the Company may require from time to time. Such notice of exercise shall:   
+  
+(i) specify the number of Option Shares to be purchased;   
+  
+(ii) specify the aggregate Option Price for such Option Shares; and   
+  
+(iii) be accompanied by payment in full of such aggregate Option Price.   
+  
+(b) Payment Upon Exercise. The Option Price upon exercise of any Option Shares shall be payable to the Company in full either:   
+  
+(i) in cash or its equivalent;   
+  
+(ii) by tendering previously acquired Stock that has been held for at least six months (or such longer period to avoid a charge to earnings for financial reporting purposes) and having an aggregate Fair Market Value at the time of exercise equal to the total Option Price, or   
+  
+(iii) a combination of Sections 3(b)(i) and (ii) hereof.   
+  
+In addition, payment of the Option Price may be payable by one or more of the following methods either upon written consent from the Committee or if one or more of the following methods will not result in a charge to earnings for financial reporting purposes: 
+
+(iv) by withholding Stock that otherwise would be acquired on exercise having an aggregate Fair Market Value at the time of exercise equal to the total Option Price,   
+  
+(v) by tendering other Awards payable under the Plan, or   
+  
+(vi) by cashless exercise through delivery of irrevocable instructions to a broker to promptly deliver to the Company the amount of proceeds from a sale of shares having a Fair Market Value equal to the purchase price.   
+  
+(vii) Any combination of Sections 3(b)(i)-(vi) upon written consent of the Committee.   
+  
+(c) Compliance with Federal and State Law. The Company reserves the right to delay a Participant’s exercise of an Option if the Company’s issuance of Stock upon such exercise would violate any applicable federal or state securities laws or any other applicable laws or regulations. The Participant may not sell or otherwise dispose of the Option Shares in violation of any applicable law. The Company may postpone issuing and delivering any Option Shares for so long as the Company reasonably determines to be necessary to satisfy the following:   
+  
+(i) its completing or amending any securities registration or qualification of the Option Shares or it or the Participant satisfying any exemption from registration under any federal or state law, rule, or regulation;   
+  
+(ii) its receiving proof it considers satisfactory that a person seeking to exercise the Option after the Participant’s death is entitled to do so;   
+  
+3 
+
+* * *
+
+(iii) the Participant complying with any requests for representations under the Plan;   
+  
+(iv) the Participant complying with any federal, state, or local tax withholding obligations;   
+  
+(v) its deferring payment of any amount that it reasonably determines would not be deductible under Code Section   
+162(m) until the earlier of:   
+  
+• the earliest date on which the Company reasonably determines that the deductibility   
+of the payment will not be limited; or   
+  
+• the year following the Participant’s termination of employment; and   
+  
+(vi) its compliance with the restrictions of Code Section 409A to the extent applicable, including any final regulations issued pursuant thereto, including the Committee’s right to amend any provision of this Option Agreement, to the extent necessary to comply with Code Section 409A.   
+  
+(d) No Fractions of Stock. The Company shall not be required to issue any fractional shares of Stock.   
+  
+4. Payment of Taxes.   
+  
+(a) General Rule. If the Company is obligated to withhold an amount on account of any tax imposed as a result of the exercise of an Option, the Participant shall be required to pay such amount to the Company, as provided under Section 17 of the Plan. The Participant acknowledges and agrees that the Participant is responsible for the tax consequences associated with the grant of the Option and its exercise.   
+  
+5. Changes in Company’s Capital Structure.   
+  
+(a) Adjustment in Authorized Stock. As may be determined to be appropriate and equitable by the Committee, in its complete and sole discretion, to prevent dilution or enlargement of rights, the Committee may make or authorize to be made:   
+  
+(i) any adjustment, recapitalization, reorganization or other changes in the Company’s capital structure or its business;   
+  
+(ii) any merger or consolidation of the Company;   
+  
+(iii) any issuance of bonds, debentures, preferred or prior preference stock ahead of or affecting the Stock or the rights thereof;   
+  
+(iv) the dissolution or liquidation of the Company;   
+  
+(v) any sale or transfer of all or any part of the Company’s assets or business; or   
+  
+(vi) any other corporate act or proceeding, whether of a similar character or otherwise.   
+  
+6. Confidentiality, Non-Solicitation and Non-Compete. Participant agrees to, understands and acknowledges the following:   
+  
+(a) Confidential Information. Participant will be furnished, use or otherwise have access to certain Confidential Information of the Company. For purposes of this Option Agreement, Confidential Information means any and all financial, technical, commercial or other information concerning the business and affairs of the Company that is confidential and proprietary to the Company, including without limitation,   
+  
+4 
+
+* * *
+
+(i) information relating to the Company’s past and existing customers and vendors and development of prospective customers and vendors, including specific customer product requirements, pricing arrangements, payments terms, customer lists and other similar information;   
+  
+(ii) inventions, designs, methods, discoveries, works of authorship, creations, improvements or ideas developed or otherwise produced, acquired or used by the Company;   
+  
+(iii) the Company’s proprietary programs, processes or software, consisting of but not limited to, computer programs in source or object code and all related documentation and training materials, including all upgrades, updates, improvements, derivatives and modifications thereof and including programs and documentation in incomplete stages of design or research and development;   
+  
+(iv) the subject matter of the Company’s patents, design patents, copyrights, trade secrets, trademarks, service marks, trade names, trade dress, manuals, operating instructions, training materials, and other industrial property, including such information in incomplete stages of design or research and development; and   
+  
+(v) other confidential and proprietary information or documents relating to the Company’s products, business and marketing plans and techniques, sales and distribution networks and any other information or documents which the Company reasonably regards as being confidential.   
+  
+The Company devotes significant financial, human and other resources to the development of its products, its customer base and the general goodwill associated with its business, and the Company diligently maintains the secrecy and confidentiality of its Confidential Information. Each and every component of the Confidential Information is sufficiently secret to derive economic value from its not being generally known to other persons. While employed by the Company and thereafter, Participant will hold in the strictest confidence and not use in any manner which is detrimental to the Company or disclose to any individual or entity any Confidential Information, except as may be required by the Company in connection with Participant’s employment. 
+
+(b) Non-Solicitation and Non-Compete. For the period beginning on the date hereof and ending twelve (12) months following the termination of employment with the Company, Participant will not directly or indirectly:   
+  
+(i) employ, recruit or solicit for employment any person who is (or was within the six (6) months prior to Participant’s employment termination date) an employee of the Company; or   
+  
+(ii) solicit or encourage any customer, vendor or potential customer or vendor of the Company with whom Participant had contact while employed by the Company to terminate or otherwise alter his, her or its relationship with the Company.   
+  
+(iii) Participant understands that any person or entity that Participant contacted during the twelve (12) months prior to the date of Participant’s termination of employment for the purpose of soliciting sales from such person or entity shall be regarded as a “potential customer” of the Company to whom the Company has a protectible proprietary interest.   
+  
+5 
+
+* * *
+
+(c) Remedies for Violation.  
+  
+(i) Injunctive Action. Participant acknowledges that if he or she violates the terms of this Section 6, the injury that would be suffered by the Company as a result of a breach of the provisions of this Option Agreement (including any provision of Section 6 (a) or (b) hereof) would be irreparable and that an award of monetary damages to the Company for such a breach would be an inadequate remedy. Consequently, the Company will have the right, in addition to any other rights it may have, to obtain injunctive relief to restrain any breach or threatened breach or otherwise to specifically enforce any provision of this Option Agreement, and the Company will not be obligated to post bond or other security in seeking such relief. Without limiting the Company’s rights under this Section 6(c) (or Sections 6(a) or (b) hereof) or any other remedies of the Company, if the Participant breaches any of the provisions of Sections 6(a) or (b) hereof, the Company will have the right to cease making any payments otherwise due to the Participant under this Option Agreement.   
+  
+(ii) Forfeiture of the Option and Repayment. In addition to the rights available to the Company under Section 6(c)(i) hereof, if Participant violates the terms of this Section 6 at any time, Participant, without any further action by the Company or Participant, shall forfeit, as of the first day of any such violation, all right, title and interest to this Option, any Option Shares then owned by Participant and any net proceeds received by Participant pursuant to any sales or transfer of any Option Shares prior to, on or after such date, and the Company shall have the right to issue a stop transfer order and other appropriate instructions to its transfer agent with respect to this Option and the Option Shares, and the Company further shall be entitled to reimbursement from Participant of any fees and expenses (including attorneys’ fees) incurred by or on behalf of the Company in enforcing the Company’s rights under this Section 6. By accepting this Option grant, Participant hereby consents to a deduction from any amounts the Company owes to Participant from time to time (including amounts owed to Participant as wages or other compensation, fringe benefits, or vacation pay, as well as any other amounts owed to Participant by the Company), to the extent of any amounts that Participant owes the Company under this Section 6. In addition to any injunctive relief sought under Section 6(c)(i) hereof and whether or not the Company elects to make any set-off in whole or in part, if the Company does not recover by means of set-off the full amount Participant owes to the Company, calculated as set forth in this Section 6(c)(ii), Participant agrees to immediately pay the unpaid balance to the Company.   
+  
+(d) Enforceability of Restrictive Covenants. The scope and duration of the restrictive covenants contained in this Option Agreement are reasonable and necessary to protect a legitimate, protectible interest of the Company. However, if one or more provisions of this Option Agreement are held to be unenforceable under applicable law to any extent, such provision(s) shall, to that extent, be excluded from this Option Agreement and the balance of the Option Agreement shall be interpreted as if such provision(s) were so excluded to that extent and shall be enforceable in accordance with its terms.   
+  
+(e) Written Acknowledgement by Participant. The Committee, in its sole discretion, may require the Participant, as a condition to the exercise of this Option, to acknowledge in writing that he or she has not engaged, and is not in the process of engaging, in any of the activities described in this Section 6.   
+  
+6 
+
+* * *
+
+7. Miscellaneous Provisions.   
+  
+(a) No Service or Employment Rights. No provision of this Option Agreement or of the Option granted hereunder shall give the Participant any right to continue in the service or employ of the Company or any Subsidiary, create any inference as to the length of employment or service of the Participant, affect the right of the Company or any Subsidiary to terminate the employment or service of the Participant, with or without Cause, or give the Participant any right to participate in any employee welfare or benefit plan or other program (other than the Plan) of the Company or any Subsidiary.   
+  
+(b) Stockholder Rights. Until the Option shall have been duly exercised to purchase such Option Shares and such shares have been officially recorded as issued on the Company’s official stockholder records, no person or entity shall be entitled to vote, receive dividends or be deemed for any purpose the holder of any Option Shares, and adjustments for dividends or otherwise shall be made only if the record date therefor is subsequent to the date such shares are recorded and after the date of exercise and without duplication of any adjustment.   
+  
+(c) Plan Document Governs. The Option is granted pursuant to the Plan, and the Option and this Option Agreement are in all respects governed by the Plan and subject to all of the terms and provisions thereof, whether such terms and provisions are incorporated in this Option Agreement by reference or are expressly cited. Capitalized terms used but not defined herein shall have the meanings ascribed to such terms in the Plan. Any inconsistency between the Option Agreement and the Plan shall be resolved in favor of the Plan. Participant hereby acknowledges receipt of a copy of the Plan.   
+  
+(d) Investment Representation and Agreement. The Committee may require the Participant to furnish to the Company, prior to the issuance of any shares of Common Stock upon the exercise of all or any part of this Option, an agreement (in such form as such Committee may specify) in which the Participant represents that the shares of Common Stock acquired by him or her upon exercise are being acquired for investment and not with a view to the sale or distribution thereof.   
+  
+(e) Beneficiary Designation. The Participant may, from time to time, in accordance with procedures set forth by the Committee, name any beneficiary or beneficiaries (who may be named contingently or successively) to whom any benefit under this Option Agreement is to be paid in case of his or her death before he or she receives any or all of such benefit. Each such designation shall revoke all prior designations by the Participant, shall be in a form prescribed by the Company, and will be effective only when filed by the Participant in writing with the Committee during the Participant’s lifetime. In the absence of any such designation, benefits remaining unpaid at the Participant’s death shall be paid to the Participant’s estate or exercised by the Participant’s estate.   
+  
+(f) Administration. This Option Agreement and the rights of the Participant hereunder are subject to all the terms and conditions of the Plan, as the same may be amended from time to time, as well as to such rules and regulations as the Committee may adopt for administration of the Plan. It is expressly understood that the Committee is authorized to administer, construe, and make all determinations necessary or appropriate to the administration of the Plan and this Option Agreement, all of which shall be binding upon the Participant.   
+  
+(g) No Vested Right In Future Awards. Participant acknowledges and agrees (by executing this Option Agreement) that the granting of Options under this Option Agreement are made on a fully discretionary basis by the Company and that this Option Agreement does not lead to a vested right to further Option awards in the future.   
+  
+7 
+
+* * *
+
+(h) Use Of Personal Data. Participant acknowledges and agrees (by executing this Option Agreement) to the collection, use, processing and transfer of certain personal data as described in this Section 7(h). The Participant understands that he or she is not obliged to consent to such collection, use, processing and transfer of personal data. However, the Participant understands that his or her failure to provide such consent may affect his or her ability to participate in the Plan. The Participant understands that the Company may hold certain personal information about the Participant, including his or her name, salary, nationality, job title, position evaluation rating along with details of all past Awards and current Awards outstanding under the Plan, for the purpose of managing and administering the plan (the “Data”). The Company, or its Subsidiaries, will transfer Data amongst themselves as necessary for the purpose of implementation, administration and management of the Plan. The Company and/or any of it Subsidiaries may further transfer Data to any third parties assisting the Company in the implementation, administration and management of the Plan. These various recipients of Data may be located elsewhere throughout the world. The Participant authorizes these various recipients of Data to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Plan, including any required transfer of such Data as may be required for the subsequent holding of Option Shares on the Participant’s behalf by a broker or other third party with whom the Participant may elect to deposit any Option Shares acquired pursuant to the Plan. The Participant understands that he or she may, at any time, review Data with respect to the Participant and require any necessary amendments to such Data. The Participant also understands that he or she may withdraw the consents to use Data herein by notifying the Company in writing; however, the Participant understands that by withdrawing his or her consents to use Data, that the Participant may affect his or her ability to participate in the Plan.   
+  
+(i) Severability. In the event that any provision of this Option Agreement shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining parts of this Option Agreement, and this Option Agreement shall be construed and enforced as if the illegal or invalid provision had not been included.   
+  
+(j) Waiver; Cumulative Rights. The failure or delay of either party to require performance by the other party of any provision hereof shall not affect its right to require performance of such provision unless and until such performance has been waived in writing. Each and every right hereunder is cumulative and may be exercised in part or in whole from time to time.   
+  
+(k) Notices. Any notice which either party hereto may be required or permitted to give the other shall be in writing and may be delivered personally or by mail, postage prepaid, addressed to the Secretary of the Company, at its then corporate headquarters, and the Participant at the Participant’s address as shown on the Company’s records, or to such other address as the Participant, by notice to the Company, may designate in writing from time to time.   
+  
+(l) Counterparts. This Option Agreement may be signed in two counterparts, each of which shall be an original, but both of which shall constitute but one and the same instrument.   
+  
+(m) Successors and Assigns. This Option Agreement shall inure to the benefit of and be binding upon each successor and assign of the Company. All obligations imposed upon the Participant, and all rights granted to the Company hereunder, shall be binding upon the Participant’s heirs, legal representatives and successors.   
+  
+(n) Governing Law. This Option Agreement and the Option granted hereunder shall be governed by, and construed and enforced in accordance with, the laws of the State of Delaware, without giving effect to provisions thereof regarding conflict of laws.   
+  
+8 
+
+* * *
+
+(o) Entire Agreement. This Option Agreement, together with the Plan, constitute the entire obligation of the parties hereto with respect to the subject matter hereof and shall supersede any prior expressions of intent or understanding with respect to this transaction.   
+  
+(p) Amendment. Any amendment to this Option Agreement shall be in writing and signed by the Company.   
+  
+(q) Headings. The headings contained in this Option Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Option Agreement.   
+  
+IN WITNESS WHEREOF, the Company has caused this Option Agreement to be duly executed by an officer thereunto duly authorized, and the Participant has hereunto set his or her hand, all as of the day and year first above written.   
+  
+ZEBRA TECHNOLOGIES CORPORATION Participant  
+By:  
+Name: Name:  
+Title:  
+  
+9 

@@ -1,0 +1,264 @@
+EXHIBIT 10.1 
+
+FORM OF 
+
+
+
+(2005 Plan Version) 
+
+This Performance Share Award Agreement (this “Agreement”) is entered into as of December 15, 2008 (the “Grant Date”) between GrafTech International Ltd. (the “Corporation”) and  (the “Participant”) pursuant to the GrafTech International Ltd. 2005 Equity Incentive Plan (the “Plan”). 
+
+BACKGROUND 
+
+The Plan allows the Corporation to provide rewards and incentives to employees of the Company by granting them a stock-based award. The Board or the Compensation Committee has determined that it would be in the best interest of the Corporation and its stockholders to grant the Peformance Shares to the Participant under the Plan. 
+
+The Participant agrees to enter into this Agreement with the Corporation. The Participant acknowledges that this Agreement contains, among other things, certain restrictions, including limitations on the Participant’s right to compete against the Corporation and its subsidiaries during and following termination of employment. Accordingly, in consideration of the grant of Perfomance Shares to the Participant under the Plan, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound, the parties agree as follows: 
+
+ARTICLE I 
+
+DEFINITIONS 
+
+Whenever capitalized terms are used in this Agreement, they shall have the meanings set forth in this Agreement or, if not defined in this Agreement, as set forth in the written employment agreement between the Participant and the Company or, if not defined in this Agreement and if not defined in such an employment agreement or there is no such employment agreement, as set forth in the Plan. A copy of the Plan has been made available to the Participant and the terms of the Plan are incorporated herein by reference. 
+
+“Cause” shall mean: 
+
+(i) gross neglect or willful and continuing refusal by the Participant to substantially perform his or her duties or responsiblities for or owed to the Company (other than due to death, Disability or Retirement); 
+
+(ii) breach by the Participant of his or her confidentiality obligations owed to the Company; 
+
+(iii) willful engagement by the Participant in conduct which is demonstrably injurious to the Company (including a breach by the Participant of his or her confidentiality, non-competition, non-disparagement or non-solicitation obligations owed to the Company); or 
+
+(iv) conviction or plea of nolo contendere by the Participant to a felony or a misdemeanor involving dishonesty or financial or economic wrongdoing (such as fraud, embezzlement, insider trading, bribery, theft, price fixing, graft of corrupt payments, perjury or false certification. 
+
+* * *
+
+ARTICLE II 
+
+GRANT OF PERFORMANCE SHARES 
+
+2.1 Grant of Performance Shares. The Participant is hereby granted a Performance Share Award with respect to  shares of Common Stock (the “Target Award”) subject to the adjustments, restrictions, and conditions set forth in this Agreement. References in this Agreement to “Performance Shares” mean the unfunded and unsecured right to receive the shares of Common Stock issuable. 
+
+2.2 Adjustments to Target Award. The number of Shares issuable pursuant to this Award is subject to upward or downward adjustment, as described in Section 3.1, based on the degree to which Performance Measures, as determined by the Committee, are achieved. 
+
+ARTICLE III 
+
+ADJUSTMENTS TO TARGET AWARD AND VESTING OF PERFORMANCE SHARES 
+
+All of the Performance Shares are unvested as of the Grant Date. Subject to Section 7.2, Performance Shares shall vest at such times as described in, and to the extent provided in, Section 3.2 or 3.3, in each case subject to the limitations set forth in Section 3.4. Subject to Section 7.2, all unvested Performance Shares shall be forfeitable as set forth in Sections 3.2 and 3.4 and shall be non-transferable as set forth in Section 4.2. All vested Performance Shares shall become non-forfeitable and transferable at the time they first vest, although: 
+
+(i) transferability may be subject to pre-clearance, blackout, registration and other restrictions under the Company’s insider trading and other compliance policies and procedures; 
+
+(ii) transferability may be restricted under Section 4.3 until all Withholding Requirements (as defined herein) are satisfied; and 
+
+(iii) transfers by executive officers should be reviewed in advance to determine if there would be any potential liability for short-swing profits under Section 16(b) of the Exchange Act. 
+
+3.1 Adjustment to Target Award; Earned Shares. The Target Award for a particular fiscal year of the Company during which specific performance measures are expected to be achieved (each a “Performance Year”) is subject to upward or downward adjustments as follows. By February 28 of each of 2010, 2011, and 2012, one-third of the Target Award will be multiplied by a percentage reflecting the degree to which performance criteria established by the Compensation Committee for such Performance Year have been achieved. The resulting number of Performance Shares (“Earned Shares”) will be set aside as unvested Earned Shares for the Participant as of the date of such determination; provided that the Participant is still employed by the Company on such date. 
+
+2 
+
+* * *
+
+3.2 Vesting and Forfeiture. To the extent not sooner vested and unless previously forfeited pursuant to Section 3.4, and subject to the forfeiture provisions set forth below in this Section 3.2, unvested Performance Shares shall vest as follows: 
+
+(i) All unvested Performance Shares that have become Earned Shares shall vest under this Section at the close of business on February 29, 2012. 
+
+(ii) For any Performance Year in which the minimum threshold Performance Measure was not achieved, one-third of the Target Award shall cease to vest and shall be forfeited as of the last day of such Performance Year. 
+
+(iii) For any Performance Year in which the minimum threshold Performance Measure was achieved but less than the targeted Performance Measure was achieved, the number of Target Award Performance Shares equal to the difference between (a) the Earned Shares for such Performance Year and (b) one-third of the Target Award shall cease to vest and shall be forfeited as of the last day of such Performance Year. 
+
+3.3 Change in Control. Unless previously forfeited pursuant to Section 3.2 or 3.4, and provided Participant is an employee of the Company upon the Change of Control, all unvested Performance Shares shall vest upon the occurrence of a Change in Control (and shall also thereupon be deemed to be vested Earned Shares). 
+
+3.4 Effect of Termination of Employment and Other Events on Vesting; Forfeiture of Unvested Performance Shares. Unless otherwise determined by the Board or the Compensation Committee and subject to Section 7.2, all unvested Performance Shares (including unvested Earned Shares) shall cease to vest and shall be forfeited upon the earliest to occur of: 
+
+(i) the time of notification of the termination of the Participant’s employment by the Company for Cause or Detrimental Conduct; 
+
+(ii) the date the Participant’s employment with the Company terminates for any reason including resignation, Retirement, Disability, or death, but not including mandatory retirement or retirement from the Company at any time after attaining age 65 with at least ten years of employment with the Company (in which event Participant’s Earned Shares as of the date of retirement will vest in accordance with Section 3.2 and 3.3); or 
+
+(iii) the date on which the Board or the Compensation Committee takes such action pursuant to Article V (or such later date as may be specified by the Board or the Compensation Committee). 
+
+3.5 Effective Date of Termination of Employment or Retirement. For purposes hereof, except as otherwise set forth in Section 3.4(i), the date of Disability, resignation, Retirement, or termination of employment means the last date on the Company’s payroll as an active employee, even if a different date is used for administrative convenience in connection with employee retirement, benefit or welfare plans. 
+
+3 
+
+* * *
+
+ARTICLE IV 
+
+PROCEDURES AFFECTING PERFORMANCE SHARES 
+
+4.1 Delivery of Performance Shares. 
+
+(i) The unvested Earned Shares will be delivered to the Participant in book entry or other electronic form by causing the unvested Earned Shares to be credited to an account for the Participant maintained by the Corporation’s transfer agent or as may otherwise be designated from time to time by the Corporation to assist in the administration of the Plan (the “Participant’s Account”). 
+
+(ii) The unvested Earned Shares will be credited to the Participant’s Account within thirty (30) days following the date such Earned Shares are set aside as unvested Earned Shares in accordance with Section 3.1. 
+
+(iii) Such Earned Shares shall be subject to such stop transfer instructions as provided in connection with the Company’s insider trading and other compliance policies and procedures, except to the extent that any such Earned Shares may be sold pursuant to Section 4.3 to satisfy Withholding Requirements. Upon forfeiture of any Performance Shares, the Broker and such transfer agent will be instructed to debit such Performance Shares from the Participant’s Account and return them to the Corporation. 
+
+(iv) Each book entry relating to Performance Shares may otherwise include such restrictive instructions in such forms as the Corporation may deem convenient, expedient, necessary or appropriate relating to the restrictions under this Agreement, applicable securities, tax or other laws or applicable rules of any securities exchange or market. 
+
+4.2 Transfer of Performance Shares. 
+
+(i) Unvested Performance Shares (including unvested Earned Shares) cannot be Transferred to any Person or entity for any purpose without the prior written consent of the Corporation. Any attempt to effect a Transfer of unvested Performance Shares (including unvested Earned Shares) without such consent shall be null and void. 
+
+(ii) To the extent necessary (as determined by the Corporation) to permit resale by the Participant of vested Earned Shares, the Corporation will use reasonable efforts to register the resale of such Earned Shares under the Securities Act, so long as the Corporation is permitted to do so on Form S-3 or S-8 or a similar abbreviated form and subject to the terms and conditions set forth in the Plan and such other reasonable or customary terms and conditions as may be imposed by the Corporation (including those relating to indemnification by the Participant for errors or omissions from information provided by the Participant). 
+
+4.3 Withholding Taxes. 
+
+(i) The Company shall withhold or deduct from any or all payments or amounts due to or held for the Participant, whether due from the Company or held in the Participant’s Account, an amount (the “Withholding Amount”) equal to all taxes (including social security and Medicare, and other governmental charges of any kind, as well as income and other taxes) required to be withheld or deducted with respect to any and all taxable income and other amounts attributable to the Performance Shares, including vested Earned Shares (the “Withholding Requirement”). Alternatively, the Participant may elect to pay the Withholding Amount in cash upon such terms and conditions as are acceptable to the Company. 
+
+4 
+
+* * *
+
+(ii) The Withholding Amount shall be determined by the Company. 
+
+(iii) The timing of withholding or deduction from such payments or amounts shall be determined by the Company; provided, however, that, if such taxes are required to be paid to a tax or other governmental authority before such withholding or deduction is made, then the Company shall pay such taxes when due as agent for the Participant and shall be entitled to reimbursement therefor from such payments or amounts, or otherwise. 
+
+(iv) The Corporation may restrict transfer of any or all vested Earned Shares until all Withholding Requirements are satisfied. 
+
+(v) Unless the Participant has made or makes a timely election pursuant to Section 83(b) of the Code or has paid the Withholding Amount in cash as provided above, the Participant authorizes the Corporation and the Broker to: 
+
+(A) sell, on his or her behalf and for his or her account, from time to time and at any time as the Corporation or the Broker may deem necessary, appropriate, convenient or expedient to satisfy each Withholding Requirement or to reimburse the Company in respect thereof, a sufficient number of vested Earned Shares (as determined by the Corporation or the Broker) so that the net proceeds from such sale equal or exceed the applicable Withholding Amount; and 
+
+(B) use the net proceeds to satisfy such Withholding requirement (with any excess net proceeds to be paid to or deposited in an account of the Participant). 
+
+(vi) If the Participant has made or makes an election pursuant to Section 83(b) of the Code, he or she shall immediately file a copy thereof with the Company and upon demand by the Company make a cash payment to the Company equal to any Withholding Amount in respect thereof. 
+
+(vii) In connection with any sale of vested Earned Shares pursuant to this Section 4.3, the Participant agrees that: 
+
+(A) such sale may be aggregated with sales of restricted stock, performance shares or other securities granted to other participants under the Plan or other plans of the Company; 
+
+(B) such aggregated sales may be made from time to time in one or more installments at any time; 
+
+(C) such aggregated sales may be made over time as the Corporation or the Broker may deem necessary, appropriate, convenient or expedient, with a view toward avoidance or minimization of disruption of the market for the Common Stock, administrative convenience, minimization of costs and expenses or other factors; and 
+
+5 
+
+* * *
+
+(D) the net proceeds from such aggregated sales and the sale prices of the shares sold may be allocated among such vested Earned Shares and other performance shares, restricted stock and other securities and the Participant and such other participants as the Corporation or the Broker may deem reasonable. 
+
+(viii) The Participant understands that: 
+
+(A) different Withholding Requirements may arise at different times based on time of delivery or vesting of Performance Shares, tax elections or other factors; 
+
+(B) different Withholding Requirements may be based on different values attributable to Performance Shares at such times or otherwise based on applicable tax laws, changes in the financial performance or prospects of the Company, changes in market or economic conditions or other factors; 
+
+(C) it may not be practicable or permissible to sell vested Earned Shares to satisfy each Withholding Requirement at the time due because of rules and requirements of the Broker, administrative rules and requirements of the Company, restrictions under the Company’s insider trading and other compliance policies and procedures, potential liability for short-swing profits under Section 16(b) of the Exchange Act, applicable securities, tax or other laws, applicable rules of any securities exchange or market, or other factors; and 
+
+(D) as a result, vested Earned Shares may be sold at times and values that differ, potentially significantly, from those applicable to such Withholding Requirement and that such differences can result in gains or losses, potentially significant, relative to those values and capital gains and losses for tax purposes in addition to the taxes described in Section 4.3(i). 
+
+(ix) The Participant hereby appoints each officer and assistant officer of the Corporation to be the Participant’s true and lawful agent, proxy and attorney-in-fact, with full power of substitution and re-substitution (each, an “attorney-in-fact” and, together, the “attorneys-in-fact”), to take, cause to be taken and authorize the taking of any and all actions (including the giving of instructions to sell and the approval of confirmations), to incur, cause to be incurred and authorize the incurrence of any and all costs and expenses (including brokerage commissions), to undertake, cause to be undertaken and authorize the undertaking of any and all obligations and to execute, acknowledge, file, publish and deliver, cause to be executed, acknowledged, filed, published and delivered and authorize the execution, acknowledgement, filing, publication and delivery of any and all agreements, instruments and documents (including stock powers, account agreements and related documents, and wire transfer instructions) which any such attorney-in-fact may deem necessary, appropriate, convenient or expedient to sell vested earned Shares, on behalf and for the account of the Participant, to generate net proceeds to satisfy any and all Withholding Requirements, to use net proceeds in satisfaction thereof and to otherwise give effect to the intent and purposes of this Section 4.3, all in the name of the Participant, any such attorney-in-fact, the Corporation or any Subsidiary and all at such times, in such manners, in such amounts, on such exchanges or markets, on such terms, through such brokers, dealers and accounts and otherwise as any such attorney-in-fact may determine in his or her sole and absolute discretion, and hereby grants to each attorney-in-fact the full power and authority to do any and all things necessary, convenient, expedient or appropriate in connection therewith. This power of attorney shall not be affected in any manner by reason of the execution, at any time, of other powers of attorney by the Participant in favor of persons other than the attorneys-in-fact named herein and shall not be affected by the subsequent death, disability or incompetence of the Participant. This power of attorney is irrevocable and coupled with an interest and shall remain in effect until all Withholding Requirements have been fully and unconditionally satisfied. All persons dealing with any of the attorneys-in-fact may assume that this power of attorney has not been revoked and may be relied upon. 
+
+6 
+
+* * *
+
+(x) The Participant acknowledges and agrees that neither the Company, the Broker nor any of their respective affiliates, control persons, directors, officers, employees, representatives or agents shall have any liability or obligation for any losses, damages, costs or expenses of any kind or under any theory arising out of or in connection with any action taken or omitted to be taken or any delay in taking any action pursuant to or contemplated by this Section 4.3 (including the determination of any Withholding Amount or the time when any Withholding Requirement is required to be satisfied or any sale of or delay in selling or failure to sell or the price, terms or conditions of sale of any or all of the vested Earned Shares), including any liability for any claim that the Participant could have made more or lost less in connection therewith or for any capital gain or loss due to the difference in time between the triggering of a Withholding Requirement and the resale of vested Earned Shares in respect thereof or for violations of insider trading or other laws or for incurrence of liability for short-swing profits under Section 16(b) of the Exchange Act, except to the extent that a court of competent jurisdiction determines by final and non-appealable judgment that any such losses, damages, costs or expenses resulted from actions taken or omitted to be taken by them in bad faith or from their gross negligence or willful misconduct. References in this Section 4.3 to “selling” and correlative terms include all activities related thereto, including placement and execution of sell orders, selection of brokers and dealers, delivery of share certificates, receipt of proceeds and payment of fees and commissions. 
+
+(xi) The provisions hereof regarding sale of vested Earned Shares to satisfy Withholding Requirements are also intended to constitute a trading plan within the meaning of Rule 10b5-1 under the Securities Act. 
+
+(xii) The Participant accepts this Agreement and the Performance Shares subject to, and agrees to assume, the limitations, risks and responsibilities inherent with respect to the Performance Shares, including those mentioned in this Agreement. 
+
+ARTICLE V 
+
+FORFEITURE 
+
+Notwithstanding anything contained herein to the contrary, if the Participant engages in Detrimental Conduct, then the Compensation Committee or the Board shall have the right, in its sole and good faith judgment, to change the basis or timing on which any or all Performance Shares become Earned Shares, suspend (temporarily or permanently) the vesting of any or all of the unvested Earned Shares, extend the date for such vesting, suspend (temporarily or permanently) the Transferability of any or all of the vested Earned Shares, require the forfeiture of any or all of the Performance Shares (including vested Earned Shares) then held by the Participant or his affiliates or related parties, or take any other actions in respect of any or all of the Performance Shares or this Agreement; provided, that any change to the terms of the Performance Shares shall be effected in a way that causes the Performance Shares to be excluded from the application of, or to comply with, Section 409A. 
+
+7 
+
+* * *
+
+ARTICLE VI 
+
+RESTRICTED ACTIVITIES 
+
+6.1 From the effective date of this Agreement and for a period of two (2) years following (a) voluntary termination of Participant’s employment with the Company or (b) involuntary termination of Participant’s employment with the Company for Cause or Detrimental Conduct, Participant agrees to the following: 
+
+(i) The Participant agrees that the Participant shall not, without the Company’s prior written consent, directly or indirectly, either for himself or herself or on behalf of any other corporation, partnership, company, person, group, or entity, engage in the business of (i) manufacturing, distributing, selling or providing carbon or graphite products, services, material or equipment of the kind or type which are the same as or similar to those manufactured, distributed, or sold by the Company now or in the future while the Participant is an employee of the Company, or (ii) any other business in which the Company directly or indirectly engages now or in the future while the Participant is an employee of the Company. For purposes of this Article VI, the Participant shall be deemed to “engage in the business” if he or she, directly or indirectly, engages or invests in, owns, manages, operates, controls or participates in the ownership, management, operation or control of, is employed by, associated or connected in any manner with, or renders services or advice to, any corporation, partnership, company, person, group or entity engaged in the activities identified above; provided, however, that the Participant may invest in the securities of any enterprise (but without otherwise participating in the activities of such enterprise) if (x) such securities are listed on any international, national or regional securities exchange or market or have been registered under Section 12(g) of the Securities Exchange Act of 1934 and (y) the Participant does not beneficially own (as defined under Rule 13d-3 promulgated under the Securities Exchange Act of 1934) in excess of 5% of the outstanding equity thereof (provided, that the Participant shall be deemed not to beneficially own any securities owned by a registered or unregistered investment company with more than $50 million under management). 
+
+(ii) The provisions set forth in Section 6.1(i) shall apply only to the reasonable and limited geographic area consisting of (i) any state, country, possession, or territory in which the Company directly or indirectly has offices, operations, or customers, or otherwise conducts business; or (ii) during the Participant’s period of employment, any state, country, possession, or territory in which the Company plans to conduct business. 
+
+(iii) The Participant shall not, directly or indirectly, call on, solicit or take away any of the customers or potential customers of the Company on whom the Participant called or with whom the Participant became acquainted or of which the Participant learned during employment with the Company. 
+
+(iv) The Participant shall not, directly or indirectly, solicit for employment any employee of the Company or encourage, induce, attempt to induce, or assist another to induce or attempt to induce any employee of the Company to terminate his or her employment with the Company. 
+
+(v) The Participant shall not interfere, in any manner, with the business, trade, goodwill, sources of supply, or customers of the Company. The Participant shall refrain from making any statements or comments of a defamatory or disparaging nature to any third party regarding the Company, or any of the Company’s officers, directors, policies or products, other than to comply with any law or court, regulatory or governmental investigatory order on request. 
+
+8 
+
+* * *
+
+(vi) The Participant agrees that if a court of competent jurisdiction determines that the length of time, geographic scope or other restrictions, or portion thereof, set forth in this Article VI is overly restrictive and unenforceable, the court may reduce or modify the same to the maximum limitations permitted by law, and as so reduced or modified, the parties hereto agree that the restrictions of this Article VI shall remain in full force and effect. The Participant further agrees that if a court of competent jurisdiction determines that any provision of this Article VI is invalid or against public policy, the remaining provisions of this Article VI and the remainder of this Agreement shall not be affected thereby, and shall remain in full force and effect. 
+
+(vii) The Participant acknowledges that the business of the Company is international in scope and that the restrictions imposed by this Agreement are legitimate, reasonable and necessary to protect the Company’s investment in its businesses and the goodwill thereof. The Participant acknowledges that the scope and duration of the restrictions contained herein are reasonable in light of the time that the Participant has been engaged in the business of the Company, the Participant’s reputation in the markets for the Company’s and the Participant’s relationship with the suppliers and customers of the Company. The Participant further acknowledges that the restrictions contained herein are not burdensome to the Participant in light of the grant of the Performance Shares hereunder. Moreover, the Participant acknowledges that he or she has other means available to him or her for the pursuit of his or her livelihood. Except as otherwise provided herein, this Article VI shall survive the termination of this Agreement. 
+
+6.2 The Participant acknowledges that in the event of any violation by the Participant of the provisions set forth in this Article VI, the Company will sustain serious, irreparable and substantial harm to its business, the extent of which will be difficult to determine and impossible to fully remedy by an action at law for money damages. Accordingly, the Participant agrees that, in the event of such violation or threatened violation by the Participant, the Company shall be entitled to an injunction before trial by any court of competent jurisdiction as a matter of course, in addition to all such other legal and equitable remedies as may be available to the Company. The Participant agrees that no bond needs to be furnished for such injunctive relief. If the Company is required to enforce the provisions set forth in this Article VI by seeking an injunction, the Participant agrees that the relevant time periods set forth in this Article VI shall commence with the entry of the injunction. In addition to any and all of the rights and remedies which the Company may have against the Participant, the Participant will be liable to and pay the Company its court costs and reasonable attorneys’ fees incurred in enforcing the Participant’s covenants hereunder. 
+
+9 
+
+* * *
+
+ARTICLE VII 
+
+MISCELLANEOUS 
+
+7.1 Notices. All notices to a party must be given in writing and shall be deemed to have been duly given when delivered by hand or three days after deposited in the mail, postage prepaid or, in the case of telecopy or email notice, when received, addressed as follows or to such other address as to which the intended receiving party shall have duly given notice to the notifying party hereunder: 
+
+(i) If to the Company, to the following address:   
+  
+GrafTech International Ltd. 
+
+12900 Snow Road 
+
+Parma, OH 44130 
+
+Attn: General Counsel 
+
+Telecopy: (216) 676-2462 
+
+with a copy to: 
+
+GrafTech International Holdings Inc. 
+
+12900 Snow Road 
+
+Parma, OH 44130 
+
+Telecopy: (216) 676-2143 
+
+Attention: Director, Corporate HR 
+
+email: brian.blowes@graftech.com 
+
+(ii) If to the Participant, to his or her most recent primary residential address or business telecopy or email address as shown on the records of the Company.   
+  
+7.2 Amendments and Conflicting Agreements. This Agreement may be amended by a written instrument executed by the parties which specifically states that it is amending this Agreement or by a written instrument executed by the Corporation which so states if such amendment is not adverse to the Participant or relates to administrative matters. Subject to the next sentence, if there is a conflict or inconsistency between this Agreement and the Plan, the Plan shall govern. Notwithstanding anything contained herein or in the Plan to the contrary, to the extent that any severance agreement (including any agreement related to a change in control of the Corporation, however defined) provides rights, terms or conditions that are more favorable to the Participant than those provided in this Agreement or the Plan, such more favorable rights, terms and conditions shall govern. 
+
+7.3 Governing Law and Interpretation. This Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Delaware applicable to contracts made and to be performed therein without regard to the conflicts of law principles thereof. Whenever the word “including” is used herein, it shall be deemed to be followed by the phrase “without limitation”. Unless otherwise specified herein, all determinations, consents, elections and other decisions by the Company, the Board, the Compensation Committee or the Broker may be made, withheld or delayed in its sole and absolute discretion. 
+
+7.4 Internal Revenue Code Section 409A. The parties recognize that certain provisions of this Agreement may be affected by Section 409A and, to the extent there are any ambiguities in the Agreement or the Plan, any such ambiguities shall be construed in a manner that complies with Section 409A. To the extent that the Participant incurs any taxes caused by the Company’s failure to comply with the provisions of Section 409A, the Company shall indemnify the Participant therefore. 
+
+7.5 Disclosure and Use of Information. By signing and returning this Agreement, and as a condition of the grant of Performance Shares, the Participant hereby expressly and unambiguously consents to the collection, use, and transfer of personal data by the Company and by any agent of the Company (“Data Recipients”) for the exclusive purpose of implementing, administering and 
+
+10 
+
+* * *
+
+managing the Participant’s participation in the Plan. Personal data includes the Participant’s name, address, date of birth, social security number, job title, salary, or any shares held in the Corporation. The Participant understands that the Data Recipients are or may be located in his or her country of residence or elsewhere and that he or she may request a list with the names and addresses of any potential Data Recipients by contacting his or her local human resources representative. Further, the Participant understands that personal data will be held as long as is reasonably necessary to implement, administer and manage his or her participation in the Plan, and he or she may, at any time, oppose the processing and transfer of his or her personal data, review the data, request that any necessary amendments be made to it, or withdraw his or her consent by notifying the Company in writing. The Participant further understands that withdrawing consent may affect his or her ability to participate in the Plan. 
+
+7.6 Effect on Employment Rights. Nothing in this Agreement shall be construed to confer upon the Participant the right to be employed by the Company, to interfere in any way with the right and authority of the Company either to increase or decrease the compensation of the Participant at any time, or to terminate any employment or other relationship between the Participant and the Company. 
+
+7.7 Titles. Titles are provided herein for convenience only and are not to serve as a basis for interpretation or construction of this Agreement. 
+
+7.8 Counterparts. This Agreement may be executed in counterparts, which together shall constitute one and the same instrument and which will be deemed effective whether received in original form or by telecopy or other electronic means. 
+
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the parties.   
+  
+PARTICIPANT: GRAFTECH INTERNATIONAL LTD.  
+By:  
+Signed Name:  
+Title:  
+  
+11 

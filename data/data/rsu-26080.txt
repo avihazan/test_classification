@@ -1,0 +1,331 @@
+  
+
+
+  
+
+
+AMENDED AND RESTATED 
+
+
+
+(W. Lance Anderson)
+
+THIS AMENDED AND RESTATED STOCK OPTION AGREEMENT (this “Agreement”), dated this 2nd day of March, 2015, by and between Novation Companies, Inc., a Maryland corporation (formerly known as NovaStar Financial, Inc., the “Company”) and W. Lance Anderson, an individual employee of the Company (the “Optionee”). The Company and the Optionee are sometimes referred to herein individually as a “Party” and collectively as the “Parties”.
+
+WHEREAS, the Compensation Committee (“Committee”) of the Board of Directors of the Company has determined that the Optionee is to be granted an option (the “Option”) to purchase shares of the Company’s common stock, par value $0.01 per share (“Common Stock”), on the terms and conditions set forth herein, and the Board of Directors entered into that certain Stock Option Agreement (the “Existing Option Agreement”) effective March 15, 2011 (the “Date of Grant”);
+
+WHEREAS, as of the date hereof, the Optionee has not exercised the Option, and the Committee desires to amend and restate the Existing Option Agreement regarding accelerated vesting upon a change of control (and other events) of the Company, to amend the exercisability period of the Option after certain types of termination of employment, and to make certain other conforming changes; and
+
+WHEREAS, the Company and Optionee desire to enter into this Agreement for the purpose of memorializing the terms and conditions of the Option.
+
+NOW, THEREFORE, the Parties hereby agree as follows:
+
+1.Number of Shares; Option Price; Adjustment. 
+
+(a)The Option originally entitled the Optionee to purchase 439,000 shares of the Common Stock (the “Option Shares”), at a price (the “Option Price”) of $0.51 per share, which is the closing price of the Common Stock as reported on the Pink Sheets of the OTC on the Date of Grant. As a result of the Company’s recapitalization in 2011, wherein the Company completed the exchange of its outstanding shares of preferred stock for 80,985,600 shares of newly-issued common stock and cash (the “Recapitalization”), the number of Option Shares has increased to 4,234,098, as reflected in board resolutions dated March 1, 2012.
+
+(b)In the event that the Company undergoes or effects any recapitalization, reorganization, merger, consolidation, spin-off, combination, repurchase or share exchange, stock split or stock dividend or other similar corporate transaction or event which affects the shares of Common Stock such that an adjustment is appropriate in order to prevent dilution or enlargement of the rights of Optionee with respect to the Option, then the Board shall make such appropriate adjustments in the number and kind of shares and in the exercise price under this Option to preserve the benefits and potential benefits thereof.
+
+(c)In the event that the Company does not effectuate and close its recapitalization of preferred stock and related transactions as described in the Form S-4 (Registration No. 333-171115), as amended, filed by the Company with the Securities and Exchange Commission, by December 31, 2011, then the number of Option Shares shall be reduced by 198,297 shares, and the number of shares vesting over time shall be adjusted appropriately on a pro-rata basis. 
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+2.Period of Option. The term of the Option and of this Agreement shall commence on the Date of Grant and terminate upon the expiration of ten years from the Date of Grant. Upon termination of the Option, all rights of the Optionee hereunder shall cease.
+
+3.Conditions of Exercise.
+
+(a) Except as otherwise provided herein, the Option shall become vested in and exercisable by the Optionee as follows:
+
+(i)Twenty-five percent (25%) of the Option Shares (which is equal to 109,750 Option Shares, adjusted after the Recapitalization to be 1,058,524.50 Option Shares) on December 31, 2012;
+
+(ii)An additional twenty-five percent (25%) of the Option Shares (which is equal to 109,750 Option Shares, adjusted after the Recapitalization to be 1,058,524.50 Option Shares) on December 31, 2013;
+
+(iii)An additional twenty-five percent (25%) of the Option Shares (which is equal to 109,750 Option Shares, adjusted after the Recapitalization to be 1,058,524.50 Option Shares) on December 31, 2014; and
+
+(iv)An additional twenty-five percent (25%) of the Option Shares (which is equal to 109,750 Option Shares, adjusted after the Recapitalization to be 1,058,524.50 Option Shares) on December 31, 2015.
+
+(b) Notwithstanding the foregoing:
+
+(i) Through December 31, 2014, in no event shall Optionee be permitted to exercise the Option such that, giving effect to such exercise, Optionee would be deemed to own more than 4.9% of the outstanding stock of the Company, as such ownership is calculated for purposes of evaluating an “ownership change” as defined under Section 382 of the Internal Revenue Code of 1986, as amended, and the regulations promulgated thereunder (the “Code”).
+
+(ii) In the event of a termination for death (pursuant to Section 6(a) hereof), Disability (pursuant to Section 6(b) hereof), Good Reason (pursuant to Section 6(d) hereof) or without Cause (pursuant to Section 6(e) hereof), (x) the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full, and (y) the Company may, at its election, pay to the Optionee in an immediate lump sum payment the excess of the value of the shares of Common Stock for which the Option has not yet been exercised over the applicable Option Price payable for such shares (the “Exercise Price Amount”), whereupon such payment shall be deemed in full satisfaction of the Company’s obligations under this Agreement.
+
+(iii) In the event of a Change of Control of the Company, the terms and conditions of Section 7 below shall apply.
+
+(c) The right of the Optionee to purchase shares with respect to which this Option has become exercisable as herein provided may be exercised in whole or in part at any time or from time to time up to ten (l0) years from the Date of Grant, but only during the period in which such Option remains exercisable as herein provided.
+
+  
+
+
+2
+
+* * *
+
+  
+
+
+  
+
+
+4.Nontransferability of Option. The Option and this Agreement shall not be transferable other than by will or by the laws of descent and distribution or pursuant to a “qualified domestic relations order,” as defined in the Employee Retirement Income Security Act of 1974; and except as otherwise provided herein, the Option may be exercised, during the lifetime of the Optionee, only by the Optionee or by the Optionee’s legal representative.
+
+5.Exercise of Option. 
+
+(a) The Option shall be exercised in the following manner: the Optionee, or the person or persons having the right to exercise the Option upon the death or Disability of the Optionee, shall deliver to the Company written notice specifying the number of Option Shares which he, she or it elects to purchase, together with the Exercise Price Amount, which may be delivered in the form of:
+
+(i) cash;
+
+(ii) shares of Common Stock valued at “Fair Market Value”, which for purposes of this Agreement is defined as:
+
+(x) the closing price of the Common Stock on the date of exercise, if the Common Stock is publicly traded (“Publicly Traded”) in that it is either quoted on an interdealer quotation system (such as OTC, Bulletin Board or Pink Sheets) or listed on a stock exchange (such as the New York Stock Exchange), or
+
+(y) if (x) does not apply, the fair market value of the Common Stock on the date of exercise, as reasonably determined by the Company or, if such determination is disputed by Optionee, by an appraiser mutually selected by the Company and Optionee;
+
+(iii) cancellation of any indebtedness owed by the Company to the Optionee; or 
+
+(iv) any combination of the above, the sum of which equals the total Exercise Price Amount.
+
+(b) Notwithstanding Section 5(a), the Optionee may request that the Committee agree that payment of all or any portion of the Exercise Price Amount need not accompany the written notice of exercise, provided that such notice of exercise either (i) requests that the Committee agree that the Company will pay to the Optionee, in an immediate lump sum payment, the excess of the value of the shares of Common Stock for which the Option is then being exercised (at Fair Market Value) over the applicable Exercise Price Amount, after which the number of Option Shares is reduced by the number of shares involved in such exercise or (ii) irrevocably authorizes and directs a third party licensed broker to sell shares of Common Stock (or a sufficient portion of shares) acquired upon exercise of the Option and immediately remit to the Company a sufficient portion of the sale proceeds thereof to pay the otherwise unpaid Exercise Price Amount and any tax withholding resulting from such exercise. Such request shall be promptly considered and may be granted or denied in the sole discretion of the Committee. 
+
+(c) Upon delivery of the notice to exercise and the applicable Exercise Price Amount, the underlying Common Stock for which such exercise applies shall be purchased by the Optionee and promptly delivered to him, provided, however, that the Company may, at its discretion, require the Optionee to provide up to 15 days advance written notice of any exercise of the Option (except in the case of exercise relating to a Change of Control pursuant to Section 7 hereof or termination of Optionee’s employment with 
+
+  
+
+
+3
+
+* * *
+
+  
+
+
+  
+
+
+the Company for Good Reason (pursuant to Section 6(d) hereof) or without Cause (pursuant to Section 6(e) hereof), or where the term of the Option or its exercisability will otherwise expire during such advance notice period).
+
+(d) No shares of Common Stock may be tendered in exercise of this Option if such shares were acquired by Optionee through the exercise of an Incentive Stock Option (within the meaning of Section 422 of the Code) unless (i) such shares have been held by Optionee for at least one year, and (ii) at least two years have elapsed since such Incentive Stock Option was granted.
+
+(e) If the Common Stock is Publicly Traded at the time when the Option is desired to be exercised, the date of exercise must be a trading day applicable to such Common Stock. 
+
+6.Treatment of the Option Upon Termination of Employment. 
+
+(a) Termination by Death. If the Optionee’s employment with the Company terminates by reason of the Optionee’s death, then the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full by the legal representative of the estate or by the legatee of the Optionee under the will of the Optionee, for a period of twelve (12) months or until the expiration of the stated term of such Option, whichever period is shorter.
+
+(b) Termination for Disability. If the Optionee retires from the Company (or his employment with Company is terminated by the Company) for reasons of the Optionee’s Disability (as defined below and determined in good faith by the Board of Directors), then the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full, for a period of twelve (12) months from the date of such termination of employment or until the expiration of the stated term of such Option, whichever period is shorter; provided, however, that if the Optionee dies within such twelve (12) month period and prior to the expiration of the stated term of such Option, such Option may thereafter be exercised for a period of twelve (12) months from the date of death or until the expiration of the stated term of such Option, whichever period is shorter. For purposes of this Agreement, “Disability” shall mean permanent and total disability as determined under the Company’s disability program or policy. If no such disability program or policy exists, then the Optionee shall be considered to be suffering from a “Disability” if, as determined in the good faith judgment of the Board of Directors, the Optionee is unable to materially perform his duties to the Company with reasonable accommodation for an aggregate of at least one-hundred twenty (120) days (whether or not consecutive) during any one hundred eighty (180) consecutive day period.
+
+(c) Termination for Cause. If the Optionee’s employment with the Company is terminated by the Company for “Cause”, as defined below, then the Option shall terminate and no longer be exercisable by the Optionee. For purposes of this Agreement, “Cause” shall mean the existence of, or a good faith belief by the Company (as evidenced by the minutes or resolutions of the Board of Directors) in the existence of, facts which constitute a basis for termination of Optionee’s employment due to Optionee’s:
+
+(i) Failure, in any material respect, to perform his primary duties as Chief Executive Officer in accordance with reasonable standards established by the Company;
+
+(ii) Gross insubordination of a legitimate, material and explicit direction of the Board of Directors or willful breach of important policies and procedures of the Company, in any material respect, that irrevocably impugn the Optionee’s authority or integrity as an officer of the Company;
+
+  
+
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+(iii) Breach of fiduciary duties in any material respect; or
+
+(iv) Conviction or plea of guilty or nolo contendere to a felony or crime involving moral turpitude, misappropriation, embezzlement or fraud.
+
+Notwithstanding the foregoing, a termination of employment of Optionee for Cause due to paragraphs (i), (ii) or (iii) above shall not be considered as having occurred for purposes of this Agreement unless the Company provides written notice to Optionee of the events or conditions constituting Cause promptly (within sixty (60) days following the occurrence or discovery thereof), specifying that the Company believes such events or conditions to constitute Cause, and (if such events or conditions can be remedied) the Optionee has been afforded a period of at least fifteen (15) days following delivery of such notice to remedy the events or conditions constituting Cause and has not done so to the reasonable satisfaction of the Board of Directors (it being acknowledged that Optionee may not exercise the Option during such fifteen-day period). 
+
+(d) Termination for Good Reason. If the Optionee’s employment with the Company is terminated by him for “Good Reason”, as defined below, then the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full, for a period of three (3) years from the effective date of such termination of employment or until the expiration of the stated term of such Option, whichever period is shorter. For purposes of this Agreement, “Good Reason” shall mean the occurrence, without the Optionee’s written consent, of any one or more of the following events:
+
+(i) Except in connection with the Company’s termination of Optionee’s employment for Cause or as a result of Optionee’s death or disability: (i) a material (25% or more) reduction in Optionee’s salary compensation; or (ii) a decrease in the responsibilities or title of Optionee to a level that, on the whole, is materially inconsistent with the Chief Executive Officer position; or
+
+(ii) The Company requires that Optionee relocate more than fifty (50) miles from Kansas City, Missouri, and the Optionee objects to such relocation in writing promptly (within 30 days) after being notified in writing thereof; or
+
+(iii) The Company’s material breach of any of the provisions of this Agreement or of any other material agreement between the Company and Optionee concerning compensation.
+
+Notwithstanding the foregoing, a termination of employment by Optionee for Good Reason shall not be considered as having occurred for purposes of this Agreement unless the Optionee provides written notice to the Company of the events or conditions constituting Good Reason, specifying that the Optionee believes such events or conditions to constitute Good Reason, and (if such events or conditions can be remedied) the Company has been afforded a period of at least fifteen (15) days following delivery of such notice to remedy the events or conditions constituting Good Reason and has not done so to the reasonable satisfaction of the Optionee. 
+
+(e) Termination Without Cause. If the Optionee’s employment with the Company is terminated by the Company without Cause, then the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full, for a period of three (3) years from the effective date of such termination of employment or until the expiration of the stated term of such Option, whichever period is shorter.
+
+(f) Retirement. If the Optionee resigns from the Company after reaching (i) the age of 65 following a term of employment with the Company for a continuous period of 10 years or more or (ii) 
+
+  
+
+
+5
+
+* * *
+
+  
+
+
+  
+
+
+the age of 55 following a term of employment with the Company for a continuous period of 20 years or more (“Retirement”), the then-unvested portion of the Option, if any, shall continue to vest in accordance with its terms without giving any effect to such Retirement. Notwithstanding the foregoing, vesting of the Option after Retirement shall cease (and the unvested portion of the Option shall be forfeited) if, after such Retirement, the Committee determines in good faith that the Optionee has breached any of his obligations to the Company or otherwise taken any willful action that has had a significant adverse effect upon the Company. Upon Retirement, the Option may be exercised for a period of three (3) years (x) after the date of such Retirement, with respect to the amount of the Option vested upon such date or (y) after the date of vesting, with respect to the amount of the Option which is unvested at the time of Retirement but which becomes vested after Retirement, subject in both cases to the expiration of the stated term of such Option.
+
+(g) Other Termination. If the Optionee’s employment with the Company is terminated for any reason other than as described in this Section 6 or Section 7 below, the Option may be exercised to the extent it has become exercisable at the time of such termination, for a period of three (3) months from the date of such termination or until the expiration of the stated term of the Option, whichever period is shorter; provided, however, that if the Optionee dies within such three (3) month period and prior to the expiration of the stated term of such Option, such Option may thereafter be exercised to the extent it has become exercisable for a period of twelve (12) months from the date of death or until the expiration of the stated term of such Option, whoever period is shorter.
+
+7.Impact of Change of Control. In the event of a Change of Control, the provisions of this Section 7 shall apply:
+
+(a) Option Assumed, Continued or Replaced. If and to the extent that this Option (A) is assumed by the successor corporation (or an affiliate of the successor) or continued or (B) is replaced with equity awards that preserve the existing value of this Option at the time of the Change of Control and provide for subsequent payout in accordance with a vesting schedule that is the same or more favorable to the Optionee than the vesting schedule of this Option, then this Option or such substitutes for this Option shall remain outstanding and be governed by their respective terms subject to Section 7(d) below.
+
+(b) Option Not Assumed, Continued or Replaced. If and to the extent that this Option is not assumed, continued or replaced in accordance with Section 7(a) above, then upon the Change of Control, the vesting of the Option shall be accelerated and the full number of then-unexercised Option Shares shall become exercisable in full, for a period of three (3) years from the Closing Date of the Change of Control or until the expiration of the stated term of such Option, whichever period is shorter.
+
+(c) Cash Payment. If and to the extent that this Option is not assumed, continued or replaced in accordance with Section7(a) above, then the Committee, in its sole discretion, may provide for cancellation of this Option at the time of the Change of Control in which case a payment of cash, property or a combination of cash or property shall be made to the Optionee, upon the consummation of the Change of Control, in an amount that is determined by the Committee in its sole discretion to be equivalent to the value of this Option (net of the Option Price) based upon the price per share of Common Stock received or to be received by other stockholders of the Company pursuant to the Change of Control (except that such payment shall be limited as necessary to prevent this Option from being subject to Section 409A of the Code).
+
+(d) Termination without Cause. If and to the extent that (A) this Option is assumed, continued or replaced in accordance with Section 7(a) above, and (B) the Optionee’s employment with, or performance of services for, the Company or its successor is terminated by the Company or its successor 
+
+  
+
+
+6
+
+* * *
+
+  
+
+
+  
+
+
+without Cause within the 18 month period commencing on the closing of the Change of Control, then, as of the date of the Optionee’s termination, the Change of Control treatment in Section 7(b) above shall apply.
+
+(e) Definition of Change of Control. For the purposes of this Option, “Change of Control” shall mean the following with respect to the Company;
+
+(i) if any “person” or “group” as those terms are used in Sections 13(d) and 14(d) of the Securities Exchange Act or any successors thereto, is or becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act or any successor thereto), directly or indirectly, of securities of the Company representing 50% or more of the combined voting power of the Company’s then outstanding securities (provided, that the acquisition of additional securities by any person or group that owns 50% or more of the voting power prior to such acquisition of additional securities shall not be a Change of Control); or
+
+(ii) during any twelve-month period, individuals who at the beginning of such period constitute the board of directors of the Company and any new directors whose election by the board of directors or nomination for election by the Company’s stockholders was approved by at least a majority of the directors then still in office who either were directors at the beginning of the period or whose election was previously so approved, cease for any reason to constitute a majority thereof; or
+
+(iii) the stockholders of the Company approve a merger or consolidation of the Company with any other corporation and such merger or consolidation is consummated, other than a merger or consolidation (A) which would result in all or a portion of the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity) more than 50% of the combined voting power of the voting securities of the Company or such surviving entity outstanding immediately after such merger or consolidation or (B) by which the corporate existence of the Company is not affected and following which the Company’s chief executive officer and directors retain their positions with the Company (and constitute at least a majority of the board of directors); or
+
+(iv) the stockholders of the Company approve a plan of complete liquidation or an agreement for the sale or disposition by the Company of all or substantially all the Company’s assets and such sale or disposition is consummated.
+
+8.Investment Purpose; Restrictions on Transfer; Registration Rights. 
+
+(a) The Optionee represents that, in the event of the exercise of the Option by the Optionee, or any part thereof, he intends to purchase the shares acquired on such exercise for investment and not with a view to resale or other distribution; except that the Committee, at its election, may waive or release this condition in the event the shares acquired on exercise of the Option are registered under the Securities Act of 1933, or upon the happening of any other contingency which the Committee shall determine warrants the waiver or release of this condition. 
+
+(b) The Optionee agrees that the certificates evidencing the shares acquired by him on exercise of all or any part of this Option may bear a restrictive legend, if appropriate, indicating any restrictions on the transfer thereof, which legend may be in such form as the Company shall determine to be proper.
+
+  
+
+
+7
+
+* * *
+
+  
+
+
+  
+
+
+(c) In connection with this Agreement, the Parties are entering into that certain Registration Rights Agreement of even date herewith.
+
+9.Option Not an Incentive Stock Option. It is intended that this Option shall not be treated as an incentive stock option under Section 422 of the Code.
+
+10.Section 409A Requirements. This Option is intended to be exempt from Code Section 409A, and this Agreement shall be interpreted and operated in accordance with this intent. 
+
+11.No Contract of Employment. Nothing contained in this Agreement shall be considered or construed as creating a contract of employment for any specified period of time.
+
+12.Notices. Any notice required or permitted under this Agreement shall be deemed given when delivered personally, or when deposited and mailed by certified mail with postage prepaid, addressed, as appropriate, to the Optionee either at the Optionee’s address set forth below or such other address as the Optionee may designate in writing to the Company, or the Company: Attention: Board of Directors/Corporate Secretary, at the Company’s address or such other address as the Company may designate in writing to the Optionee.
+
+13.No Waiver. Either Party’s failure to enforce at any time any of the provisions of this Agreement or to require at any time any performance by the other Party of any of the provisions hereof shall in no way be construed to be a waiver of such provisions or to affect either the validity of this Agreement, or any part hereof, or the right such Party thereafter to enforce each and every provision in accordance with the terms of this Agreement.
+
+14.Amendments. This Agreement may be amended or modified at any time by an instrument in writing signed by the parties hereto.
+
+15.Entire Agreement. This Agreement supersedes any and all other agreements, either oral or in writing, between the Parties with respect to the subject matter of this Agreement. This Agreement replaces and supersedes the Existing Option Agreement in its entirety.
+
+16.Severability. If any provision of this Agreement shall be invalid or unenforceable to any extent, the remainder of this Agreement and the application of such provisions to other persons or circumstances shall not be affected thereby and shall be enforced to the greatest extent permitted by law.
+
+17.Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Maryland without regard to the principles of conflicts of law which might otherwise apply.
+
+18.Binding Effect. This Agreement shall be binding not only upon the Parties hereto, but also upon their heirs, legal representatives, executors, administrators, successors or assigns, and the Parties hereby agree to execute any instruments and to perform any acts which may be necessary or proper to carry out the purpose of this Agreement.
+
+19.Construction. The headings of the sections and subsections of this Agreement are for reference only and do not limit, expand or otherwise affect the contents of the Agreement.
+
+20.Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed to be an original but all of which together will constitute one and the same instrument. Counterpart 
+
+  
+
+
+8
+
+* * *
+
+  
+
+
+  
+
+
+signature pages to this Agreement transmitted by facsimile transmission, by electronic mail in portable document format (.pdf), or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing an original signature.
+
+[signature page follows]
+
+  
+
+
+9
+
+* * *
+
+  
+
+
+  
+  
+  
+IN WITNESS WHEREOF, the Parties have executed this Agreement on the day and year first above written.  
+  
+COMPANY:
+
+NOVATION COMPANIES, INC.  
+  
+By: /s/ Gregory T. Barmore
+
+Name: Gregory T. Barmore
+
+Title: Chair, Compensation Committee  
+  
+.  
+  
+OPTIONEE:
+
+Signature: /s/ W. Lance Anderson
+
+Address: c/o Novation Companies, Inc.
+
+2114 Central Street, Suite 600
+
+Kansas City, MO 64108  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+[SIGNATURE PAGE TO ANDERSON A&R; STOCK OPTION AGREEMENT]

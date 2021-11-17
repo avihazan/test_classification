@@ -1,0 +1,202 @@
+Exhibit 10.80C 
+
+2001/CC 
+
+This exhibit contains a form of agreement used by the company to grant restricted stock awards under the company’s 2001 Stock Incentive Plan. Readers should note that these are forms of agreements only and particular agreements with employees may contain terms that differ but not in material respects. 
+
+
+
+Name of Grantee (the “Grantee):________________________________________________ 
+
+Date of Restricted Stock Award (the “Award Date”):________________________________ 
+
+Number of Shares Covered by Restricted Stock Award (the “Award Shares”):____________ 
+
+This Restricted Stock Award Agreement (this “Agreement”) is entered into as of the Date of Restricted Stock Award set forth above (the “Award Date”) by and between CSG SYSTEMS INTERNATIONAL, INC., a Delaware corporation (the “Company”), and the Grantee named above (the “Grantee”). 
+
+* * * 
+
+WHEREAS, the Company has adopted a 2001 Stock Incentive Plan (the “Plan”); and 
+
+WHEREAS, pursuant to the Plan, as of the Award Date the Company granted to Grantee a Restricted Stock Award (the “Award”) covering the number of shares of the Common Stock of the Company (the “Common Stock”) set forth above (the “Award Shares”) and is executing this Agreement with Grantee for the purpose of setting forth the terms and conditions of the Award; 
+
+NOW, THEREFORE, in consideration of the premises and the covenants and conditions contained herein, the Company and Grantee agree as follows: 
+
+1. Award of Restricted Shares.   
+  
+(a) The Company hereby confirms the grant of the Award to Grantee as of the Award Date. The Award is subject to all of the terms and conditions of this Agreement. 
+
+(b) Promptly after the execution of this Agreement, the Company will cause the transfer agent for the Common Stock (the “Transfer Agent”) to (i) either establish a separate account in its records in the name of Grantee (the “Restricted Stock Account”) and credit the Award Shares to the Restricted Stock Account as of the Award Date or credit the Award Shares to a previously existing Restricted Stock Account of Grantee as of the Award Date and (ii) confirm such actions to Grantee in writing. 
+
+* * *
+
+2. Vesting of Award Shares.   
+  
+(a) Twenty-five percent (25%) of the Award Shares (rounded to the nearest whole number) automatically will vest in Grantee on each of the first four (4) anniversaries of the Award Date (each such anniversary being referred to in this Agreement as a “Vesting Date”); provided, however, that no Award Shares shall vest in Grantee on a particular Vesting Date unless Grantee has been continuously employed by the Company from the Award Date until such Vesting Date. 
+
+(b) For purposes of this Agreement, a “Termination of Employment” of Grantee means the effective time when the employer-employee relationship between Grantee and the Company terminates for any reason whatsoever. 
+
+(c) In determining the existence of continuous employment of Grantee by the Company or the existence of an employer-employee relationship between Grantee and the Company for purposes of this Agreement, the term “Company” shall include a Subsidiary (as defined in the Plan); and neither a transfer of Grantee from the employ of the Company to the employ of a Subsidiary nor the transfer of Grantee from the employ of a Subsidiary to the employ of the Company or another Subsidiary shall be deemed to be a Termination of Employment of Grantee. 
+
+(d) After the Grantee has become vested in any of the Award Shares and, if applicable, after the cancellation of certain of the Award Shares as provided for in Section 12(b) has occurred, the Company will instruct the Transfer Agent to remove all restrictions on the transfer, assignment, pledge, encumbrance, or other disposition of the then remaining vested Award Shares in the Restricted Stock Account. Grantee thereafter shall be free to deal with and dispose of such remaining vested Award Shares in Grantee’s sole discretion and may request the Transfer Agent to issue a certificate for such remaining vested Award Shares in Grantee’s name free of any restrictions. 
+
+3. Cancellation of Unvested Award Shares.   
+  
+Subject to the provisions of Section 15, if applicable, upon a Termination of Employment of Grantee, all of the rights and interests of Grantee in any of the Award Shares which have not vested in Grantee pursuant to Section 2 prior to such Termination of Employment of Grantee automatically shall completely and forever terminate; and, at the direction of the Company, the Transfer Agent shall remove from the Restricted Stock Account and cancel all of such unvested Award Shares. 
+
+4. Employment.   
+  
+Nothing contained in this Agreement (i) obligates the Company or a Subsidiary to continue to employ Grantee in any capacity whatsoever or (ii) prohibits or restricts the Company or a Subsidiary from terminating the employment of Grantee at any time or for any reason whatsoever. In the event of a Termination of Employment of Grantee, Grantee shall have only the rights set forth in this Agreement with respect to the Award Shares. 
+
+2 
+
+* * *
+
+5. Change in Capitalization.   
+  
+If at any time that any of the Award Shares have not vested in Grantee there is any non-cash dividend of securities or other property or rights to acquire securities or other property, any liquidating dividend of cash and/or property, or any stock dividend or stock split or other change in the character or amount of any of the outstanding securities of the Company, then in such event any and all new, substituted, or additional securities or other property to which Grantee may become entitled by reason of Grantee’s ownership of such unvested Award Shares immediately and automatically shall become subject to this Agreement, shall be delivered to the Transfer Agent or to an independent Escrow Agent selected by the Company to be held by the Transfer Agent or such Escrow Agent pursuant to the terms of this Agreement (including but not limited to the provisions of Sections 3 and 8), and shall have the same status with respect to vesting and transfer as the unvested Award Shares upon which such dividend was paid or with respect to which such new, substituted, or additional securities or other property was distributed. Any cash or cash equivalents received pursuant to the first sentence of this Section 5 shall be invested in conservative short-term interest-bearing securities, and interest earned thereon also shall have the same status with respect to vesting and transfer as the unvested Award Shares with respect to which such cash or cash equivalents were received. Cash dividends (other than liquidating dividends) paid on such unvested Award Shares shall be paid to Grantee and shall not be subject to vesting or to the first sentence of this Section 5. 
+
+6. Representations of Grantee.   
+  
+Grantee hereby represents and warrants to the Company as follows: 
+
+(a) Grantee had full legal power, authority, and capacity to execute and deliver this Agreement and to perform Grantee’s obligations under this Agreement; and this Agreement is a valid and binding obligation of Grantee, enforceable in accordance with its terms, except that the enforcement of this Agreement may be subject to bankruptcy, insolvency, reorganization, moratorium, or other similar laws now or hereafter in effect relating to creditors’ rights generally and to general principles of equity (regardless of whether such enforcement is considered in a proceeding in equity or at law). 
+
+(b) Grantee is aware of the public availability on the Internet at www.sec.gov of the Company’s periodic and other filings made with the United States Securities and Exchange Commission. 
+
+7. Representations and Warranties of the Company.   
+  
+The Company hereby represents and warrants to Grantee as follows: 
+
+(a) The Company is a corporation duly organized, validly existing, and in good standing under the laws of Delaware and has all requisite corporate power and authority to enter into this Agreement, to issue the Award Shares to Grantee, and to perform its obligations under this Agreement. 
+
+3 
+
+* * *
+
+(b) The execution and delivery of this Agreement by the Company have been duly and validly authorized; and all necessary corporate action has been taken to make this Agreement a valid and binding obligation of the Company, enforceable in accordance with its terms, except that the enforcement of this Agreement may be subject to bankruptcy, insolvency, reorganization, moratorium, or other similar laws now or hereafter in effect relating to creditors’ rights generally and to general principles of equity (regardless of whether such enforcement is considered in a proceeding in equity or at law). 
+
+(c) When issued to Grantee as provided for in this Agreement, the Award Shares will be duly and validly issued, fully paid, and non-assessable. 
+
+8. Restriction on Sale or Transfer of Award Shares.   
+  
+None of the Award Shares that have not vested in Grantee pursuant to Section 2 (and no beneficial interest in any of such Award Shares) may be sold, transferred, assigned, pledged, encumbered, or otherwise disposed of in any way (including a transfer by operation of law); and any attempt to make any such sale, transfer, assignment, pledge, encumbrance, or other disposition shall be null and void and of no effect. 
+
+9. Enforcement.   
+  
+The Company and Grantee acknowledge that the Company’s remedy at law for any breach or violation or attempted breach or violation of the provisions of Section 8 will be inadequate and that, in the event of any such breach or violation or attempted breach or violation, the Company shall be entitled to injunctive relief in addition to any other remedy, at law or in equity, to which the Company may be entitled. 
+
+10. Violation of Transfer Provisions.   
+  
+Neither the Company nor the Transfer Agent shall be required to transfer on the stock records of the Company maintained by either of them any Award Shares which have been sold, transferred, assigned, pledged, encumbered, or otherwise disposed of in violation of any of the provisions of this Agreement or to treat as the owner of such Award Shares or accord the right to vote or receive dividends to any purported transferee or pledgee to whom such Award Shares shall have been so sold, transferred, assigned, pledged, encumbered, or otherwise disposed of in violation of any of the provisions of this Agreement. 
+
+11. Section 83(b) Election.   
+  
+Grantee shall have the right to make an election pursuant to Treasury Regulation § 1.83-2 with respect to the Award Shares and, if Grantee makes such election, promptly will furnish to the Company a copy of the form of election Grantee has filed with the Internal Revenue Service for such purpose and evidence that such an election has been made in a timely manner. 
+
+4 
+
+* * *
+
+12. Withholding.   
+  
+(a) Upon Grantee’s making of the election referred to in Section 11 with respect to any of the Award Shares, Grantee shall pay to or provide for the payment to or withholding by the Company of all amounts which the Company is required to withhold from Grantee’s compensation for federal, state, or local tax purposes by reason of or in connection with such election. Notwithstanding any provision of this Agreement to the contrary, neither the Company nor the Transfer Agent shall be obligated to release from the Restricted Stock Account any of the Award Shares with respect to which Grantee has made such election and which have vested in Grantee until Grantee’s obligations under this Section 12 have been satisfied. 
+
+(b) Upon the vesting in Grantee of any of the Award Shares as to which the election referred to in Section 11 was not made by Grantee, the Company shall compute as of the applicable vesting date the amounts which the Company is required to withhold from Grantee’s compensation for federal, state, or local tax purposes by reason of or in connection with such vesting, based upon the Fair Market Value (as defined in the Plan) of such Award Shares. After making such computation, the Company shall direct the Transfer Agent to remove from the Restricted Stock Account and cancel that number of the Award Shares whose Fair Market Value (as defined in the Plan) as of the applicable vesting date is equal to the aggregate of such amounts required to be withheld by the Company; provided, that for such purpose the number of Award Shares to be removed from the Restricted Stock Account and cancelled shall be rounded up to the nearest whole Award Share. After the actions prescribed by the preceding provisions of this Section 12(b) have been taken, the Company when required by law to do so shall pay to the applicable tax authorities in cash the amounts required to have been withheld from Grantee’s compensation by reason of or in connection with the vesting referred to in the first sentence of this Section 12(b), with any excess amount resulting from such rounding being treated as federal income tax withholding; and Grantee shall have (i) no further obligation with respect to such amounts required to be withheld and (ii) no further rights or interests in the Award Shares withdrawn from the Restricted Stock Account and cancelled pursuant to this Section 12(b), unless the Company has miscomputed such amounts or the number of such Award Shares. 
+
+13. Voting and Other Stockholder Rights.   
+  
+Grantee shall have the right to vote with respect to all of the Award Shares which are outstanding and credited to the Restricted Stock Account as of a record date for determining stockholders of the Company entitled to vote, whether or not such Award Shares are vested in Grantee as of such record date. Except as expressly limited or restricted by this Agreement and except as otherwise provided in this Agreement, Grantee shall have all of the rights of a stockholder of the Company with respect to all of the Award Shares which are outstanding and credited to the Restricted Stock Account at a particular time, whether or not such Award Shares are vested in Grantee at such time. 
+
+14. Application of Plan.   
+  
+The relevant provisions of the Plan relating to Restricted Stock Awards and the authority of the Committee under the Plan shall be applicable to this Agreement to the extent that this Agreement does not otherwise expressly address the subject matter of such provisions. 
+
+5 
+
+* * *
+
+15. Change of Control.   
+  
+(a) Notwithstanding the provisions of Section 2(a) and Section 3, all Award Shares which have not previously vested in Grantee pursuant to Section 2(a) automatically shall vest in Grantee upon an involuntary (on the part of Grantee) Termination of Employment of Grantee without Cause after the occurrence of a Change of Control. 
+
+(b) For purposes of this Agreement, a “Change of Control” shall be deemed to have occurred upon the happening of any of the following events: 
+
+(1) The Company is merged or consolidated into another corporation or entity, and immediately after such merger or consolidation becomes effective the holders of a majority of the outstanding shares of voting capital stock of the Company immediately prior to the effectiveness of such merger or consolidation do not own (directly or indirectly) a majority of the outstanding shares of voting capital stock or other equity interests having voting rights of the surviving or resulting corporation or other entity in such merger or consolidation;   
+  
+(2) any person, entity, or group of persons within the meaning of Sections 13(d) or 14(d) of the Securities Exchange Act of 1934 (the “1934 Act”) and the rules promulgated thereunder becomes the beneficial owner (within the meaning of Rule 13d-3 under the 1934 Act) of thirty percent (30%) or more of the outstanding voting capital stock of the Company;   
+  
+(3) the Common Stock of the Company ceases to be publicly traded because of an issuer tender offer or other “going private” transaction (other than a transaction sponsored by the then current management of the Company);   
+  
+(4) the Company dissolves or sells or otherwise disposes of all or substantially all of its property and assets (other than to an entity or group of entities which is then under common majority ownership (directly or indirectly) with the Company);   
+  
+(5)
+
+in one or more substantially concurrent transactions or in a series of related transactions, the Company directly or indirectly disposes of a portion or portions of its business operations (collectively, the   
+  
+6 
+
+* * *
+
+“Sold Business”) other than by ceasing to conduct the Sold Business without its being acquired by a third party (regardless of the entity or entities through which the Company conducted the Sold Business and regardless of whether such disposition is accomplished through a sale of assets, the transfer of ownership of an entity or entities, a merger, or in some other manner) and either (i) the fair market value of the consideration received or to be received by the Company for the Sold Business is equal to at least fifty percent (50%) of the market value of the outstanding Common Stock of the Company determined by multiplying the average of the closing prices for the Common Stock of the Company on the thirty (30) trading days immediately preceding the date of the first public announcement of the proposed disposition of the Sold Business by the average of the numbers of outstanding shares of Common Stock on such thirty (30) trading days or (ii) the revenues of the Sold Business during the most recent four (4) calendar quarters ended prior to the first public announcement of the proposed disposition of the Sold Business represented fifty percent (50%) or more of the total consolidated revenues of the Company during such four (4) calendar quarters; or   
+  
+(6) during any period of two consecutive years or less, individuals who at the beginning of such period constituted the Board of Directors of the Company cease, for any reason, to constitute at least a majority of the Board of Directors of the Company, unless the election or nomination for election of each new director of the Company who took office during such period was approved by a vote of at least seventy-five percent (75%) of the directors of the Company still in office at the time of such election or nomination for election who were directors of the Company at the beginning of such period.   
+  
+(c) Definition of “Cause”. For purposes of this agreement, “Cause” shall mean only (i) the Grantee’s confession or conviction of theft, fraud, embezzlement, or other crime involving dishonesty, (ii) the Grantee’s certification of materially inaccurate financial or other information pertaining to the Company or a Subsidiary (as defined in the Plan) with actual knowledge of such inaccuracies on the part of the Grantee, (iii) the Grantee’s refusal or willful 
+
+7 
+
+* * *
+
+failure to cooperate with an investigation by a governmental agency pertaining to the financial or other business affairs of the Company or a Subsidiary (as defined in the Plan) unless such refusal or willful failure is based upon a written direction of the Board or the written advice of counsel, (iv) the Grantee’s excessive absenteeism (other than by reason of physical injury, disease, or mental illness) without a reasonable justification and failure on the part of the Grantee to cure such absenteeism within twenty (20) days after the Grantee’s receipt of a written notice from the Board or the Chief Executive officer of the Company setting forth the particulars of such absenteeism, (v) material failure by the Grantee to comply with a lawful directive of the Board or the Chief Executive Officer of the Company and failure to cure such non-compliance within twenty (20) days after the Grantee’s receipt of a written notice from the Board or the Chief Executive Officer of the Company setting forth in reasonable detail the particulars of such non-compliance, (vi) a material breach by the Grantee of any of the Grantee’s fiduciary duties to the Company or a Subsidiary (as defined in the Plan) and, if such breach is curable, the Grantee’s failure to cure such breach within twenty (20) days after the Grantee’s receipt of a written notice from the Board or the Chief Executive Officer of the Company setting forth in reasonable detail the particulars of such breach, or (vii) willful misconduct or fraud on the part of the Grantee in the performance of his duties as an employee of the Company or a Subsidiary (as defined in the Plan). 
+
+(d) If the vesting of any Award Shares is accelerated pursuant to Section 15(a) and such accelerated vesting causes Grantee to become liable for any excise tax on “excess parachute payments” (within the meaning of Section 280G of the Internal Revenue Code of 1986, as amended, and any regulations thereunder) and any interest or penalties thereon (such excise tax, interest, and penalties, collectively, the “Tax Penalties”), then the Company promptly shall make a cash payment (the “Cash Payment”) to Grantee in an amount equal to the Tax Penalties. The Company also promptly shall make an additional cash payment to Grantee in an amount rounded to the nearest $100.00 which is equal to any additional income, excise, and other taxes (using the individual tax rates applicable to Grantee for the year for which such Tax Penalties are owed) for which Grantee will be liable as a result of the Grantee’s receipt of the Cash Payment (the additional cash payment provided for in this sentence being referred to as a “Gross-Up Payment”). In addition, Grantee shall be entitled to promptly receive from the Company a further Gross-Up Payment in respect of each prior Gross-Up Payment until the amount of the last Gross-Up Payment is less than $100.00. 
+
+16. General Provisions.   
+  
+(a) No Assignments. Grantee may not sell, transfer, assign, pledge, encumber, or otherwise dispose of any of Grantee’s rights or obligations under this Agreement without the prior written consent of the Company; and any such attempted sale, transfer, assignment, pledge, encumbrance, or other disposition shall be void. 
+
+(b) Notices. All notices, requests, consents, and other communications required or permitted under this Agreement shall be in writing and shall be deemed to have been duly given and made upon personal delivery to the person for whom such item is intended (including by a reputable overnight delivery service which shall be deemed to have effected personal delivery) or upon deposit, postage prepaid, registered or certified mail, return receipt requested, in the United States mail as follows: 
+
+8 
+
+* * *
+
+(i) if to Grantee, addressed to Grantee at Grantee’s address shown on the stockholder records maintained by the Transfer Agent or at such other address as Grantee may specify by written notice to the Transfer Agent, or 
+
+(ii) if to the Company, addressed to the Chief Financial Officer of the Company at the principal office of the Company or at such other address as the Company may specify by written notice to Grantee. 
+
+Each such notice, request, consent, and other communication shall be deemed to have been given upon receipt thereof as set forth above or, if sooner, three (3) business days after deposit as described above. An address for purposes of this Section 16(b) may be changed by giving written notice of such change in the manner provided in this Section 16(b) for giving notice. Unless and until such written notice is received, the addresses referred to in this Section 16(b) shall be deemed to continue in effect for all purposes of this Agreement. 
+
+(c) Choice of Law. This Agreement shall be governed by and construed in accordance with the internal laws, and not the laws of conflicts of laws, of the State of Delaware. 
+
+(d) Severability. The Company and Grantee agree that the provisions of this Agreement are reasonable and shall be binding and enforceable in accordance with their terms and, in any event, that the provisions of this Agreement shall be enforced to the fullest extent permitted by law. If any provision of this Agreement for any reason shall be adjudged to be unenforceable or invalid, then such unenforceable or invalid provision shall not affect the enforceability or validity of the remaining provisions of this Agreement, and the Company and Grantee agree to replace such unenforceable or invalid provision with an enforceable and valid arrangement which in its economic effect shall be as close as possible to the unenforceable or invalid provision. 
+
+(e) Parties in Interest. All of the terms and provisions of this Agreement shall be binding upon, inure to the benefit of, and be enforceable by the respective heirs, personal representatives, successors, and assigns of the Company and the Grantee; provided, that the provisions of this Section 16(e) shall not authorize any sale, transfer, assignment, pledge, encumbrance, or other disposition of the Award Shares which is otherwise prohibited by this Agreement. 
+
+(f) Modification, Amendment, and Waiver. No modification, amendment, or waiver of any provision of this Agreement shall be effective against the Company or Grantee unless such modification, amendment, or waiver is in writing and states that it is intended to modify, amend, or waive a specific provision of this Agreement and, in the case of the Company, such modification, amendment, or waiver has been authorized by the Committee. The failure of the Company or Grantee at any time to enforce any of the provisions of this Agreement shall not be construed as a waiver of such provisions and shall not affect the right of the Company or Grantee thereafter to enforce each and every provision of this Agreement in accordance with its terms. 
+
+(g) Integration. This Agreement constitutes the entire agreement of the Company and Grantee with respect to the subject matter of this Agreement and supersedes all 
+
+9 
+
+* * *
+
+prior negotiations, understandings, and agreements, written or oral, with respect to such subject matter. 
+
+(h) Headings. The headings of the sections and paragraphs of this Agreement have been inserted for convenience of reference only and do not constitute a part of this Agreement. 
+
+(i) Counterparts. This Agreement may be executed in counterparts with the same effect as if both the Company and Grantee had signed the same document. All such counterparts shall be deemed to be an original, shall be construed together, and shall constitute one and the same instrument. 
+
+(j) Further Assurances. The Company and Grantee agree to use their best efforts and act in good faith in carrying out their obligations under this Agreement. The Company and Grantee also agree to execute and deliver such additional documents and to take such further actions as reasonably may be necessary or desirable to carry out the purposes and intent of this Agreement. 
+
+IN WITNESS WHEREOF, the Company and Grantee have executed this Restricted Stock Award Agreement as of the Award Date.   
+  
+COMPANY: GRANTEE:  
+CSG SYSTEMS INTERNATIONAL, INC.,  
+a Delaware corporation  
+(Name)  
+By:  
+Title:  
+  
+10 

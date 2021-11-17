@@ -1,0 +1,266 @@
+EXHIBIT 10.4
+
+SUPERVALU INC.  
+2012 STOCK PLAN  
+
+
+This agreement is made and entered into as of the grant date indicated below (the “Grant Date”), by and between SUPERVALU INC. (the “Company”), and the individual whose name appears below (“Recipient”).
+
+The Company has established the 2012 Stock Plan (the “Plan”), under which key employees of the Company may be granted Awards of Restricted Stock of the Company. Recipient has been selected by the Company to receive an Award of Restricted Stock subject to the provisions of this Restricted Stock Award Agreement (the “Agreement”). Capitalized terms that are used in this Agreement, that are not defined, shall have the meanings ascribed to them in the Plan.
+
+In consideration of the foregoing, the Company and Recipient hereby agree as follows:
+
+1\. Grant. The Company hereby grants to Recipient, subject to Recipient’s acceptance hereof, an Award of Restricted Stock for the number of Shares indicated below, effective as of the Grant Date.
+
+2\. Acceptance of Award of Restricted Stock and Restricted Stock Award Terms and Conditions. The Award of Restricted Stock is subject to and governed by the Restricted Stock Award Terms and Conditions (“Terms and Conditions”) attached hereto, which is incorporated herein and made a part hereof, and the terms and provisions of the Plan. To accept the Award of Restricted Stock, this Agreement must be delivered and accepted through an electronic medium in accordance with procedures established by the Company, or Recipient must sign and return a copy of this Agreement to the Company within sixty (60) days after the Grant Date. By so doing, Recipient acknowledges receipt of the accompanying Terms and Conditions and the Plan, and represents that Recipient has read and understands the same and agrees to be bound by the accompanying Terms and Conditions and the terms and provisions of the Plan. In the event that any provision of this Agreement or the accompanying Terms and Conditions is inconsistent with the terms and provisions of the Plan, the terms and provisions of the Plan shall govern. Any question of administration or interpretation arising under this Agreement or the accompanying Terms and Conditions shall be determined by the Committee administering the Plan, and such determination shall be final, conclusive and binding upon all parties in interest.
+
+3\. Vesting. The Restricted Stock Award shall vest as shown below.
+
+Award Number:
+
+%%OPTION_NUMBER%-%  
+  
+Award Date:
+
+%%OPTION_DATE,’Month DD, YYYY’%-%  
+  
+Number of Shares Vesting:
+
+%%SHARES_PERIOD1,’999,999,999’%-% shares will vest on [merge codes for first vest date]  
+  
+%%SHARES_PERIOD2,’999,999,999’%-% shares will vest on [merge codes for second vest date]  
+  
+SUPERVALU INC.
+
+RECIPIENT:  
+  
+![](g117381ks01i001.jpg)  
+  
+By:  
+  
+Michele A. Murphy  
+Executive Vice President
+
+%%FIRST_NAME%-%%%MIDDLE_NAME%-% %%LAST_NAME%-%  
+  
+Human Resources & Corporate Communications
+
+%%EMPLOYEE_IDENTIFIER%-%  
+  
+* * *
+
+  
+
+
+SUPERVALU INC.
+
+2012 STOCK PLAN  
+RESTRICTED STOCK AWARD TERMS AND CONDITIONS
+
+These Restricted Stock Award Terms and Conditions (“Terms and Conditions”) apply to the Award of Restricted Stock granted under the 2012 Stock Plan (the “Plan”), pursuant to the Restricted Stock Award Agreement (the “Agreement”) to which this document is attached. Capitalized terms that are used in this document, but are not defined, shall have the meanings ascribed to them in the Plan or the attached Agreement. See Section 21 for a list of defined terms.
+
+1\. Award of Restricted Stock. SUPERVALU INC. (the “Company”) hereby grants to you an Award of Restricted Stock for the number of Shares set forth in the attached Agreement. The Award is effective as of the Grant Date.
+
+2\. Rights with Respect to the Shares. With respect to the Shares, you shall be entitled to exercise the rights of a stockholder of the Company’s Common Stock, $0.01 par value (the “Common Stock”), including the right to vote the Shares and the right to receive cash dividends thereon as provided in Section 9 hereof, unless and until the Shares are forfeited pursuant to Section 5 hereof. Your rights with respect to the Shares shall remain forfeitable at all times prior to the date on which such rights vest, and the restrictions with respect to the Shares lapse, in accordance with Section 3, Section 4 or Section 5 hereof.
+
+3\. Vesting. Subject to the Terms and Conditions, the Shares shall vest in full and the restrictions on the Shares shall lapse on the date and in the amount set forth in the attached Agreement if you remain continuously employed by the Company or any of its Affiliates until the vesting date.
+
+4\. Change of Control.
+
+a) If, within two years after a Change of Control you experience an involuntary termination of employment initiated by the Company for reasons other than Cause, or a termination of employment for Good Reason, then you shall become immediately and unconditionally vested in all the Shares and the restrictions with respect to all the Shares shall lapse. If this Award of Restricted Stock is replaced pursuant to subsection (c) below, the protections and rights granted under this subsection (a) shall transfer and apply to such replacement grant.
+
+b) If, in the event of a Change of Control, and to the extent this Award of Restricted Stock is not assumed by a successor corporation (or affiliate thereto) or other successor entity or person, or replaced with an award or grant that, solely in the discretionary judgment of the Committee preserves the existing value of this Award of Restricted Stock at the time of the Change of Control, then you shall become immediately and unconditionally vested in all the Shares and the restrictions with respect to all the Shares shall lapse upon the Change of Control.
+
+c) If in the event of a Change of Control and to the extent that this Award of Restricted Stock is assumed by any successor corporation, affiliate thereof, person or other entity, or is replaced with awards that, solely in the discretionary judgment of the Committee preserve the existing value of this Award of Restricted Stock at the time of the Change of Control and provide for vesting and settlement terms that are at least as favorable to you as the vesting and payout terms applicable to this Award of Restricted Stock, then the assumed Award of Restricted Stock or such substitute therefor shall remain outstanding and be governed by its respective terms.
+
+5\. Forfeiture; Early Vesting in Event of Death or Disability. If you cease to be an employee of the Company or any of its Affiliates prior to the vesting of the Shares pursuant to Section 3 or Section 4 hereof for any reason other than your death or your Disability (as defined below), then your rights to all of the unvested Shares shall be immediately and irrevocably forfeited, including the right to vote such Shares and the right to receive cash dividends on such Shares, unless otherwise determined by the
+
+* * *
+
+  
+
+
+Committee administering the Plan. On the date of your death or the date on which your Disability commences, you or your estate shall become immediately and unconditionally vested in all of the Shares for which vesting has not occurred and the restrictions with respect to all such unvested Shares shall lapse. No transfer by will or the applicable laws of descent and distribution of any Shares which vest by reason of your death shall be effective to bind the Company unless the Committee administering the Plan shall have been furnished with written notice of such transfer and a copy of the will or such other evidence as the Committee may deem necessary to establish the validity of the transfer. For purposes of this Section 5, “Disability” is defined as eligibility for long-term disability payments under the applicable Long-Term Disability Plan of the Company.
+
+6\. Restrictions on Transfer. Except as may otherwise be determined by the Committee, until the Shares vest pursuant to Section 3, Section 4 or Section 5 hereof, none of the Shares may be sold, assigned, transferred, pledged, hypothecated or otherwise disposed of or encumbered by you, and no attempt to transfer the Shares, whether voluntary or involuntary, by operation of law or otherwise, shall vest the transferee with any interest or right in or with respect to the Shares.
+
+7\. Issuance and Custody of Agreement.
+
+a) The Company shall, at its option, cause the Shares to be issued in book entry registration, in your name, or in the form of a certificate registered in your name, which certificate shall be held by the Company. The Shares shall be restricted from transfer and shall be subject to an appropriate stop-transfer order. If any certificate is issued, the certificate shall bear an appropriate legend referring to the restrictions applicable to the Shares.
+
+b) If any certificate is issued, you shall be required to execute and deliver to the Company a stock power relating to the Shares as a condition to the receipt of this Award of Restricted Stock.
+
+c) After Shares vest pursuant to Section 3, Section 4 or Section 5 hereof, and following payment of the applicable withholding taxes pursuant to Section 8 hereof, the Company shall promptly cause such vested Shares (less any Shares withheld to pay taxes), free of the restrictions and/or legend described in Section 7(a) hereof, to be delivered, either by book-entry registration or in the form of a certificate or certificates, registered in your name or in the names of your legal representatives, beneficiaries or heirs, as the case may be.
+
+Only whole Shares shall be issued to you pursuant to a certificate. The value of any fractional Share shall be paid in cash at the time a certificate evidencing such fractional Share would otherwise have been delivered to you hereunder and shall be based on the Fair Market Value of one Share of Common Stock on that date.
+
+8\. Taxes.
+
+a) You acknowledge that you will consult with your personal tax advisor regarding the income tax consequences of the Award of Restricted Stock, the receipt of any payment of cash dividends, the vesting of the Shares and any other matters related to the Terms and Conditions and the attached Agreement. In order to comply with all applicable federal or state income, social security, payroll, withholding or other tax laws or regulations, the Company may take such action, and may require you to take such action, as it deems appropriate to ensure that all applicable federal or state income, social security, payroll, withholding or other taxes, which are your sole and absolute responsibility, are withheld or collected from you.
+
+b) In accordance with the terms of the Plan, and such rules as may be adopted by the Committee administering the Plan, you may elect to satisfy any applicable federal or state income tax withholding obligations arising from the receipt of, or the lapse of restrictions relating to, the Shares by (i) having the Company withhold a portion of the Shares otherwise to
+
+2
+
+* * *
+
+  
+
+
+be delivered by you upon such vesting having a Fair Market Value equal to the amount of federal and state income taxes required to be withheld on such vesting, or (ii) delivering to the Company shares of Common Stock, other than the Shares issuable upon such vesting, having a Fair Market Value equal to such taxes. You may elect to satisfy any federal and state income tax withholding obligations arising prior to the vesting of any Shares pursuant to Section 3, Section 4 or Section 5 hereof by delivering to the Company shares of Common Stock other than the Shares issuable upon such vesting having a Fair Market Value equal to such taxes.
+
+9\. Distributions and Adjustments.
+
+a) If any Shares vest subsequent to any change in the number or character of the Common Stock through any recapitalization, stock split, reverse stock split, reorganization, merger, consolidation, split-up, spin-off, combination, repurchase or exchange of Shares or other securities of the Company, issuance of warrants or other rights to purchase Shares or other securities of the Company or other similar corporate transaction or event that affects the Shares covered by this Award of Restricted Stock, you shall then receive upon such vesting the number and type of securities or other consideration which you would have received if such Shares had vested prior to the event changing the number or character of the outstanding Common Stock.
+
+b) Any additional shares of Common Stock, any other securities of the Company and any other property (except for cash dividends or other cash distributions) distributed with respect to the Shares prior to the date the Shares vest shall be subject to the same restrictions, terms and conditions as the Shares and shall be promptly deposited with the Secretary or the custodian designated by the Secretary to be held in custody in accordance with Section 7(a) hereof. Any cash dividends or other cash distributions payable with respect to the Shares shall be distributed to you at the same time cash dividends or other cash distributions are distributed to stockholders of the Company generally.
+
+10\. Covenants. In consideration of benefits described elsewhere in these Terms and Conditions and the attached Agreement, and in recognition of the fact that, as a result of your employment with the Company or any of its Affiliates, you have had or will have access to and gain knowledge of highly confidential or proprietary information or trade secrets pertaining to the Company or its Affiliates, as well as the customers, suppliers, joint ventures, licensors, licensees, distributors or other persons and entities with whom the Company or any of its Affiliates does business (“Confidential Information”), which the Company or its Affiliates have expended time, resources and money to obtain or develop and which have significant value to the Company and its Affiliates, you agree for the benefit of the Company and its Affiliates, and as a material condition to your receipt of benefits described elsewhere in these Terms and Conditions and the attached Agreement, as follows:
+
+a) Non-Disclosure of Confidential Information. You acknowledge that you will receive access or have received access to Confidential Information about the Company or its Affiliates, that this information was obtained or developed by the Company or its Affiliates at great expense and is zealously guarded by the Company and its Affiliates from unauthorized disclosure, and that your possession of this special knowledge is due solely to your employment with the Company or one or more of its Affiliates. In recognition of the foregoing, you will not at any time during employment or following termination of employment for any reason, disclose, use or otherwise make available to any third party, any Confidential Information relating to the Company’s or any Affiliate’s business, products, services, customers, vendors or suppliers; trade secrets, data, specifications, developments, inventions and research activity; marketing and sales strategies, information and techniques; long and short term plans; existing and prospective client, vendor, supplier and employee lists, contacts and information; financial, personnel and information system information and applications; and any other information concerning the business of the Company or its Affiliates which is not disclosed to the general public or known in the industry, except for disclosure necessary in the course of your duties or with the express
+
+3
+
+* * *
+
+  
+
+
+written consent of the Company. All Confidential Information, including all copies, notes regarding and replications of such Confidential Information will remain the sole property of the Company or its Affiliates, as applicable, and must be returned to the Company or such Affiliates immediately upon termination of your employment.
+
+b) Return of Property. Upon termination of employment with the Company or any of its Affiliates, or at any other time at the request of the Company, you shall deliver to a designated Company representative all records, documents, hardware, software and all other property of the Company or its Affiliates and all copies of such property in your possession. You acknowledge and agree that all such materials are the sole property of the Company or its Affiliates and that you will certify in writing to the Company at the time of delivery, whether upon termination or otherwise, that you have complied with this obligation.
+
+c) Non-Solicitation of Existing or Prospective Customers, Vendors, and Suppliers. You specifically acknowledge that the Confidential Information described in Section 10(a) includes confidential data pertaining to existing and prospective customers, vendors and suppliers of the Company or its Affiliates; that such data is a valuable and unique asset of the business of the Company or its Affiliates; and that the success or failure of their businesses depends upon their ability to establish and maintain close and continuing personal contacts and working relationships with such existing and prospective customers, vendors and suppliers and to develop proposals which are specific to such existing and prospective customers, vendors and suppliers. Therefore, during your employment with the Company or any of its Affiliates and for the twelve (12) months following termination of employment for any reason, you agree that you will not, except on behalf of the Company or its Affiliates, or with the Company’s express written consent, solicit, approach, contact or attempt to solicit, approach or contact, either directly or indirectly, on your own behalf or on behalf of any other person or entity, any existing or prospective customers, vendors or suppliers of the Company or its Affiliates with whom you had contact or about whom you gained Confidential Information during your employment with the Company or its Affiliates for the purpose of obtaining business or engaging in any commercial relationship that would be competitive with the “Business of the Company” (as defined below in Section 10(e)(i)) or cause such customer, supplier or vendor to materially change or terminate its business or commercial relationship with the Company or its Affiliates.
+
+d) Non-Solicitation of Employees. You specifically acknowledge that the Confidential Information described in Section 10(a) also includes confidential data pertaining to employees and agents of the Company or its Affiliates, and you further agree that during your employment with the Company or its Affiliates and for the twelve (12) months following termination of employment for any reason, you will not, directly or indirectly, on your own behalf or on behalf of any other person or entity, solicit, contact, approach, encourage, induce or attempt to solicit, contact, approach, encourage or induce any of the employees or agents of the Company or its Affiliates to terminate their employment or agency with the Company or any of its Affiliates.
+
+e) Non-Competition. You covenant and agree that during your employment with the Company or any of its Affiliates and for the twelve (12) months following termination of employment for any reason, you will not, in any geographic market in which you worked on behalf of the Company or any of its Affiliates, or for which you had any sales, marketing, operational, logistical or other management or oversight responsibility, engage in or carry on, directly or indirectly, as an owner, employee, agent, associate, consultant, partner or in any other capacity, a business competitive with the Business of the Company.
+
+i) The “Business of the Company” shall mean any business or activity involved in grocery or general merchandise retailing and supply chain logistics, including but not limited to grocery distribution, business-to-business portal, retail support services and third-party logistics, of the type provided by the Company or its Affiliates, or presented in concept to you by the Company or its Affiliates at any time during your employment with the Company or any of its Affiliates.
+
+4
+
+* * *
+
+  
+
+
+ii) To “engage in or carry on” shall mean to have ownership in such business (excluding ownership of up to one percent (1%) of the outstanding shares of a publicly-traded company) or to consult, work in, direct or have responsibility for any area of such business, including but not limited to operations, logistics, sales, marketing, finance, recruiting, sourcing, purchasing, information technology or customer service.
+
+f) No Disparaging Statements. You agree that you will not make any disparaging statements about the Company, its Affiliates, directors, officers, agents, employees, products, pricing policies or services.
+
+g) Remedies for Breach of These Covenants. Any breach of the covenants in this Section 10 likely will cause irreparable harm to the Company or its Affiliates for which money damages could not reasonably or adequately compensate the Company or its Affiliates. Accordingly, the Company or any of its Affiliates shall be entitled to all forms of injunctive relief (whether temporary, emergency, preliminary, prospective or permanent) to enforce such covenants, in addition to damages and other available remedies, and you consent to the issuance of such an injunction without the necessity of the Company or any such Affiliate posting a bond or, if a court requires a bond to be posted, with a bond of no greater than $500 in principal amount. In the event that injunctive relief or damages are awarded to Company or any of its Affiliates for any breach by you of this Section 10, you further agree that the Company or such Affiliate shall be entitled to recover its costs and attorneys’ fees necessary to obtain such recovery. In addition, you agree that upon your breach of any covenant in this Section 10, this Award of Restricted Stock shall be immediately and irrevocably forfeited.
+
+h) Enforceability of These Covenants. It is further agreed and understood by you and the Company that if any part, term or provision of these Terms and Conditions and the attached Agreement should be held to be unenforceable, invalid or illegal under any applicable law or rule, the offending term or provision shall be applied to the fullest extent enforceable, valid or lawful under such law or rule, or, if that is not possible, the offending term or provision shall be struck and the remaining provisions of these Terms and Conditions and the attached Agreement shall not be affected or impaired in any way.
+
+11\. Arbitration. You and the Company agree that any controversy, claim or dispute arising out of or relating to the attached Agreement or the breach of any of these Terms and Conditions, or arising out of or relating to your employment relationship with the Company or any of its Affiliates, or the termination of such relationship, shall be resolved by final and binding arbitration under the Employment Arbitration Rules and Mediation Procedures of the American Arbitration Association, or other neutral arbitrator and rules as mutually agreed to by you and the Company, except for claims by the Company relating to your alleged breach of any of the employee covenants set forth in Section 10 above. This agreement to arbitrate specifically includes, but is not limited to, discrimination claims under Title VII of the Civil Rights Act of 1964 and under state and local laws prohibiting employment discrimination. Nothing in this Section 11 shall preclude the Company from pursuing a court action to obtain a temporary restraining order or a preliminary injunction relating to the alleged breach of any of the covenants set forth in Section 10. The agreement to arbitrate shall continue in full force and effect despite the forfeiture of this Award of Restricted Stock or the termination of your employment relationship with the Company or any of its Affiliates. You and the Company agree that any award rendered by the arbitrator must be in writing and include the findings of fact and conclusions of law upon which it is based, shall be final and binding, and that judgment upon the final award may be entered in any court having jurisdiction thereof. The arbitrator may grant any remedy or relief that the arbitrator deems just and equitable, including any remedy or relief that would have been available to you or the Company or any of its Affiliates had the matter been heard in court. All expenses of arbitration, including the required travel and other expenses of the arbitrator and any witnesses, and the costs relating to any proof produced at the direction of the arbitrator, shall be borne equally by you and the Company unless otherwise mutually agreed or unless the arbitrator directs otherwise in the award. The arbitrator’s compensation shall be borne equally by you and the Company unless otherwise mutually agreed or the law provides otherwise.
+
+5
+
+* * *
+
+  
+
+
+12\. Severability. In the event that any portion of these Terms and Conditions and the attached Agreement shall be held to be invalid, the same shall not affect in any respect whatsoever the validity and enforceability of the remainder of these Terms and Conditions and the attached Agreement.
+
+13\. Interpretations. These Terms and Conditions and the attached Agreement are subject in all respects to the Plan. A copy of the Plan is available upon your request. In the event that any provision of these Terms and Conditions or the attached Agreement is inconsistent with the terms of the Plan, the terms and provisions of the Plan shall govern. Any question of administration or interpretation arising under these Terms and Conditions or the attached Agreement shall be determined by the Committee administering the Plan, and such determination shall be final, conclusive and binding upon all parties in interest.
+
+14\. No Right to Employment. Nothing in these Terms and Conditions, the attached Agreement or the Plan shall be construed as giving you the right to be retained as an employee of the Company. In addition, the Company may at any time dismiss you from employment, free from any liability or any claim under these Terms and Conditions and the attached Agreement, unless otherwise expressly provided in these Terms and Conditions and the attached Agreement.
+
+15\. No Rights of Stockholders. You shall have none of the rights and privileges of a stockholder of the Company with respect to the Shares until such Shares have vested pursuant to Section 3, Section 4 or Section 5 hereof, except the right to receive all cash dividends and the right to vote.
+
+16\. Compensation. Any compensation realized from the receipt or payment of (or the lapse of restrictions relating to) this Award of Restricted Stock shall constitute a special long-term incentive payment to you and whether or not it is taken into account as compensation in determining the amount of any benefit under any retirement or other employee benefit plan of the Company or any of its Affiliates will be determined solely under the terms of those benefit plans.
+
+17\. Securities Matters. The Company shall not be required to deliver any Shares until the requirements of any federal or state securities or other laws, rules or regulations (including the rules of any securities exchange) as may be determined by the Company to be applicable are satisfied.
+
+18\. Headings. Headings are given to the sections and subsections of these Terms and Conditions and the attached Agreement solely as a convenience to facilitate reference. Such headings shall not be deemed in any way material or relevant to the construction or interpretation of these Terms and Conditions and the attached Agreement or any provision hereof.
+
+19\. Governing Law. The internal law, and not the law of conflicts, of the State of Delaware will govern all questions concerning the validity, construction and effect of these Terms and Conditions and the attached Agreement.
+
+20\. Notice. For purpose of these Terms and Conditions and the attached Agreement, notices and all other communications provided for in the Agreement, these Terms and Conditions or contemplated by either shall be in writing and shall be deemed to have been duly given when personally delivered or when mailed via United States certified or registered mail, return receipt requested, postage prepaid, and addressed, in the case of the Company, to the Company at:
+
+P.O. Box 990
+
+Minneapolis, MN 55440
+
+Attention: Corporate Secretary
+
+and in the case of you, to you at the most current address shown on your employment records. Either party may designate a different address by giving notice of change of address in the manner provided above, except that notices of change of address shall be effective only upon receipt.
+
+6
+
+* * *
+
+  
+
+
+a) Notice of Termination by Company. Any purported termination of employment of you by the Company (whether for Cause or without Cause) shall be communicated by a Notice of Termination to you. No purported termination of employment of you by the Company shall be effective without a Notice of Termination having been given.
+
+b) Good Reason Notice by You. Any purported termination of employment by you for Good Reason shall be communicated by a Notice of Termination to the Company. Your termination of employment will not be for Good Reason unless (i) you give the Company written notice of the event or circumstance which you claim is the basis for Good Reason within six (6) months of such event or circumstance first occurring and (ii) the Company is given thirty (30) days from its receipt of such notice within which to cure or resolve the event or circumstance so noticed. If the circumstance is cured or resolved within said thirty (30) days, your termination of employment will not be for Good Reason.
+
+21\. Definitions. The following terms, and terms derived from the following terms, shall have the following meanings when used in these Terms and Conditions and the attached Agreement with initial capital letters unless, in the context, it would be unreasonable to do so.
+
+a) Cause shall mean:
+
+i) your continued failure to perform your duties with the Company (other than any such failure resulting from incapacity due to physical or mental illness), after a written demand for substantial performance is delivered to you by the Board or an officer of the Company which specifically identifies the manner in which the Board or the officer believes that you have not substantially performed your duties;
+
+ii) the conviction of, or plea of guilty or nolo contendere to, a felony or the willful engaging by you in conduct which is materially and demonstrably injurious to the Company;
+
+iii) your commission of a material act or material acts of personal dishonesty intended to result in your substantial personal enrichment at the expense of the Company; or
+
+iv) your material violation of Company policies relating to Code of Business Conduct, Equal Employment Opportunities and Harassment or Workplace Violence;
+
+provided, however, that in no event shall Cause exist by virtue of any action taken by you (A) in compliance with express written directions of the Board, the Company’s Chief Executive Officer or the officer to whom you report, or (B) in reliance upon the express written consent of the Company’s counsel.
+
+In each case above, for a termination of employment to be for Cause, you must be provided with a Notice of Termination (as described in Section 20(a)) within six (6) months after the Company has actual knowledge of the act or omission constituting Cause. Whether a termination of employment is for Cause as provided above will be determined by the Company in its sole discretion based on all the facts and circumstances.
+
+b) Change of Control shall be deemed to have occurred upon any of the following events:
+
+i) the acquisition by any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act of beneficial ownership (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of fifty percent (50%) or more of either (A) the then outstanding shares of Common Stock or (B) the combined voting power of the then outstanding voting securities of the Company entitled to vote generally in the election of directors; provided, however, that for purposes of this subsection (i), the following acquisitions shall not constitute a Change of Control: (A) any acquisition directly from the
+
+7
+
+* * *
+
+  
+
+
+Company or (B) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Company or any corporation controlled by the Company;
+
+ii) the consummation of any merger or other business combination of the Company, sale or lease of all or substantially all of the Company’s assets or combination of the foregoing transactions (the “Transactions”) other than a Transaction immediately following which the stockholders of the Company and any trustee or fiduciary of any Company employee benefit plan immediately prior to the Transaction own at least sixty percent (60%) of the voting power, directly or indirectly, of (A) the surviving corporation in any such merger or other business combination; (B) the purchaser or lessee of the Company’s assets or (C) both the surviving corporation and the purchaser or lessee in the event of any combination of Transactions; or
+
+iii) within any 24-month period, the persons who were directors immediately before the beginning of such period (the “Incumbent Directors”) shall cease (for any reason other than death) to constitute at least a majority of the Board or the board of directors of a successor to the Company. For this purpose, any director who was not a director at the beginning of such period shall be deemed to be an Incumbent Director if such director was elected to the Board by, or on the recommendation of or with the approval of, at least three-fourths of the directors who then qualified as Incumbent Directors (so long as such director was not nominated by a person who has expressed an intent to effect a Change of Control or engage in a proxy or other control contest).
+
+c) Change of Control Date shall mean the date on which a Change of Control occurs.
+
+d) Good Reason shall mean any one or more of the following events occurring during the two-year period following the Change of Control Date:
+
+i) your annual base salary is reduced below the amount in effect on the Change of Control Date;
+
+ii) your Target Bonus is reduced below the Target Bonus as it existed on the Change of Control Date;
+
+iii) your title is reduced from the title that you had on the Change of Control Date, or your duties and responsibilities are materially and adversely diminished in comparison to the duties and responsibilities that you had on the Change of Control Date other than in a general reduction of the number or scope of personnel for which you are responsible for supervising which reduction occurs in connection with a restructuring or recapitalization of the Company or the division of the Company in which you work;
+
+iv) the program of long term incentive compensation is materially and adversely diminished in comparison to the program of long term incentive compensation as it existed for you on the Change of Control Date (for purposes of this clause (iv), a reduction of fifteen percent (15%) or more of the target dollar amount of your long term incentive compensation as it existed for you on the Change of Control Date based on your most recent award of long term incentive compensation prior to the Change of Control Date shall be considered to be material and adverse); or
+
+v) you are required to be based at a location more than forty-five (45) miles from the location where you were based and performed services on the Change of Control Date;
+
+provided, however, that any diminution of duties or responsibilities that occurs solely as a result of the fact that the Company ceases to be a public company or that the size of the Company has been reduced as a result of the Change of Control shall not, in and of itself, constitute Good Reason.
+
+8
+
+* * *
+
+  
+
+
+e) Notice of Termination shall mean a written notice which shall indicate the specific provision in these Terms and Conditions relied upon and shall set forth in reasonable detail the facts and circumstances claimed to provide a basis for your termination of employment under the provisions so indicated.
+
+f) Target Bonus shall mean the target amount of bonus established under the annual bonus plan for you for the year in which the termination of employment occurs. When the context requires, it shall also mean the target amount of bonus established for any earlier or later year.
+
+Original Approval:
+
+9
+
+* * *

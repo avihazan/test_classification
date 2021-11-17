@@ -1,0 +1,367 @@
+Exhibit 10.43
+
+
+
+THIS EMPLOYMENT AGREEMENT (the “Agreement”) is made and entered into as of the 21st day of January, 2003 by and between Inamed Corporation, a Delaware corporation (the “Corporation”), and Robert S.Vaters (the “Executive”) (collectively, the “Parties”). The Parties, intending to be legally bound, agree as follows:
+
+1\. DEFINITIONS. In addition to certain terms defined elsewhere in this Agreement, the following terms shall have the following respective meanings:
+
+1.1 “Affiliate” shall mean any Person controlling, controlled by or under common control with, the Corporation.
+
+1.2 “Base Salary” shall mean the salary provided for in Section 2.4 of this Agreement.
+
+1.3 “Board” shall mean the Board of Directors of the Corporation.
+
+1.4 “Cause” shall mean that the Executive:
+
+(a) has been convicted of any felony or any crime involving fraud, theft, embezzlement, dishonesty or moral turpitude;
+
+(b) has engaged in conduct which is materially injurious to the Corporation or its Affiliates, or any of their respective customer or supplier relationships, financially or otherwise;
+
+(c) has substantially and repeatedly failed to perform his duties as required under Section 2 after being provided with written notice of the manner in which he has failed to perform his duties and after being provided thirty (30) days opportunity to remedy such failure; or
+
+(d) in carrying out his duties under this Agreement, has engaged in acts or omissions constituting gross negligence or willful misconduct resulting, in either case, in material harm to the Corporation.
+
+1.5 “Change in Control” shall be deemed to have occurred if:
+
+(a) Any “person”, as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) (other than the Corporation, any trustee or other fiduciary holding securities under an employee benefit plan of the Corporation, or any corporation owned, directly or indirectly, by the stockholders of the Corporation in substantially the same proportions as their ownership of stock of the Corporation), becomes the “beneficial owner” (as defined in Rule 13d-3 under the Exchange Act), directly or indirectly, of securities of the Corporation representing fifty-one percent (51%) or more of the combined voting power of the Corporation’s then outstanding securities; provided, however, that a change in the proportion of Appaloosa
+
+* * *
+
+  
+
+
+Management, L.P’s ownership of stock of the Corporation shall not constitute a Change in Control under this Subsection 1.5(a);
+
+(b) During any period of two (2) consecutive years (not including any period prior to the execution of this Agreement), individuals who at the beginning of such period constitute the Board, and any new director (other than a director(s) designated by a person who has entered into an agreement with the Corporation to effect a transaction described in clause (a), (c) or (d) of this subsection) whose election by the Board or nomination for election by the Corporation’s stockholders was approved by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors at the beginning of the period or whose election or nomination for election was previously so approved, cease for any reason to constitute at least a majority thereof;
+
+(c) The stockholders of the Corporation approve a merger or consolidation of the Corporation with any other corporation, other than
+
+(i) a merger or consolidation which would result in the voting securities of the Corporation outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity) more than fifty (50%) of the combined voting power of the voting securities of the Corporation or such surviving entity outstanding immediately after such merger or consolidation or
+
+(ii) a merger or consolidation effected to implement a recapitalization of the Corporation (or similar transaction) in which no “person “ (as defined above) acquires more than twenty percent (20%) of the combined voting power of the Corporation’s then outstanding securities; or
+
+(d) the stockholders of the Corporation approve an agreement for the sale or disposition by the Corporation of all or substantially all of the Corporation’s assets.
+
+1.6 “Corporation Property” shall mean all items and materials provided by the Corporation to the Executive, or to which the Executive has access, in the course of his employment, including, without limitation, all files, records, documents, drawings, specifications, memoranda, notes, reports, manuals, equipment, computer disks, videotapes, drawings, blueprints and other documents and similar items relating to the Corporation, its Affiliates or their respective customers, whether prepared by the Executive or others, and any and all copies, abstracts and summaries thereof.
+
+1.7 “Competition” shall mean any direct or indirect research on, or development, production, marketing, leasing or selling of, any product, process or service which is the same as, similar to, or in competition with, any line of business or research in which the
+
+2
+
+* * *
+
+  
+
+
+Corporation or any Affiliate is now engaged or hereinafter engages during Executive’s employment.
+
+1.8 “Confidential Information” shall mean all nonpublic and/or proprietary information and trade secrets respecting the business of the Corporation or any Affiliate, including, without limitation, its products, programs, projects, promotions, marketing plans and strategies, business plans or practices, business operations, employees, research and development, intellectual property, software, databases, trademarks, pricing information and accounting and financing data. Confidential Information also includes information concerning the Corporation’s or any Affiliate’s customers or clients, such as their identity, address or any other information kept by the Corporation or any Affiliate concerning its customers whether or not such information has been reduced to documentary form. Confidential Information does not include information that is, or becomes, available to the public unless such availability occurs through an unauthorized act on the part of the Executive. In the course of his employment hereunder, the Executive shall not be provided with confidential information concerning Appaloosa Management, L.P., and no such information shall be deemed to be Confidential Information under this Agreement.
+
+1.9 “Disability” shall mean a physical or mental incapacity that has prevented the Executive from performing the essential functions of his position with the Corporation for a period of one hundred eighty (180) days as determined (a) in accordance with any long-term disability plan provided by the Corporation of which the Executive is a participant, or (b) by the following procedure: The Executive agrees to submit to medical examinations by a licensed healthcare professional selected by the Corporation, in its sole discretion, to determine whether a Disability exists. In addition, the Executive may submit to the Corporation documentation of a Disability, or lack thereof, from a licensed healthcare professional of his choice. Following a determination of a Disability or lack of Disability by the Corporation’s or the Executive’s licensed healthcare professional, the other Party may submit subsequent documentation relating to the existence of a Disability from a licensed healthcare professional selected by such other Party. In the event that the medical opinions of such licensed healthcare professionals conflict, such licensed healthcare professionals shall appoint a third licensed healthcare professional to examine the Executive, and the opinion of such third licensed healthcare professional shall be dispositive.
+
+1.10 “Good Reason” shall mean and exist if, without the Executive’s prior written consent, one or more of the following events occurs:
+
+(a) the Executive is excluded from participation in any employee benefit plan or program offered to other similarly ranked executives of the Corporation or his benefits under such plans or programs are materially reduced;
+
+3
+
+* * *
+
+  
+
+
+(b) during the initial three-year term of this Agreement only, the Executive is asked to relocate to a location other than one in either Santa Barbara County, Ca., or Ventura County, Ca.; or
+
+(c) within 12 months following a Change in Control, the Executive is asked to relocate to a location other than one in either Santa Barbara, County, Ca. or Ventura County, Ca.; or
+
+(d) the Corporation fails to reimburse the Executive for business expenses in accordance with the Corporation’s policies, procedures or practices;
+
+(e) there is a material diminution in the Executive’s title, authority, duties, orresponsibilities, provided, however, that none of the foregoing shall constitute Good Reason if:
+
+(i) the Executive gives the Corporation timely notice of his intent to terminate for Good Reason and the Corporation cures or remedies the reasons cited by the Executive in said notice within thirty (30) days of receipt of said notice, or
+
+(ii) sixty (60) days or more have passed between the Executive learning of the event(s) constituting Good Reason and the Executive’s giving notice that he is terminating his employment for Good Reason.
+
+1.11 “Person” shall mean any individual, firm, partnership, association, trust, company, corporation or other entity.
+
+1.12 “Severance Period” shall mean the period of time for which Base Salary payments are made to the Executive following termination pursuant to sections 6.3 and 7.2 of this Agreement.
+
+2\. SERVICES, COMPENSATION, AND TERM
+
+2.1 Title and Duties. Corporation agrees to employ Executive as Executive Vice President, Chief Financial Officer and Executive agrees to undertake the duties of that position (hereinafter referred to as “Services”). Executive shall perform the duties customarily performed by one holding such position in similar business. Executive shall also render such other duties as may be assigned to him from time to time consistent with his title and duties as Executive Vice President, Chief Financial Officer. Executive will report directly to the President of the Corporation.
+
+2.2 Best Efforts. Executive will serve Corporation faithfully under the direction of its CEO/President and Board of Directors. Executive shall devote his full time and best efforts to performing the Services. Executive shall act at all times in accordance with what he reasonably believes is in the best interest of the Corporation to the best of his ability, experience, and talents. Executive shall devote his time, energy, and skills solely to the business and interests of Inamed Corporation; provided however, that the
+
+4
+
+* * *
+
+  
+
+
+Executive may serve on one board of for profit companies subject to Board of Directors consent and may engage in reasonable charitable, civic and political activities.
+
+2.3 Corporate Authority. Executive will comply with the Corporation’s corporate policies and procedures.
+
+2.4 Compensation. As Executive’s compensation for the Services, Corporation will pay Executive the compensation set forth in the offer letter dated July 29, 2002 ($300,000.00 plus target bonus of 50%) and attached as Exhibit A.
+
+2.5 Stock Options. The Corporation shall grant to the Executive options (the “Options”) to purchase 150,000 shares of the Corporation’s common stock. Subject to the terms and conditions of the corporation’s Option Agreement and the offer letter dated July 29, 2002. In the event of any conflict between this agreement and the Option agreement, this Agreement shall prevail.
+
+2.6 Lock-Up Agreements. The Executive will execute any other documents reasonably required by the Corporation in connection with the Options, including, without limitation, any reasonable lock-up or similar agreements required by the Corporation’s underwriters in connection with any offering of the Corporation’s securities.
+
+2.7 Term. This agreement shall be effective on August 20th, 2002 (the “Effective Date”), and shall continue for a period of three (3) years from the Effective Date; provided, however, that this Agreement shall be extended automatically at the end of the initial term for a one (1) year term and thereafter for successive one (1) year terms if neither Party has advised the other in writing in accordance with Subsection 8.1 at least sixty (60) days prior to the end of the then current term that such term will not be extended for an additional one (1) year term. The initial three (3) year term and each successive one (1) year term (if any) shall be referred to herein as the “Term of Employment”.
+
+3\. DUTY OF LOYALTY.
+
+3.1 Executive’s Position of Trust. As a result of the Executive’s employment, the Executive will have access to Confidential Information.
+
+3.2 Obligations During the Term. The Executive agrees that during the Term of Employment he shall diligently devote his time and efforts to the duties and responsibilities assigned to his by the Corporation, and without prior express written authorization of the Board, the Executive shall not, directly or indirectly, either alone or in concert with others, engage in any of the following activities:
+
+(a) Perform or render any services of a business, professional or commercial nature, relating to services or products competitive with the Corporation, to or for the benefit of himself or any other person or entity, whether for compensation or otherwise, except for personal investments and other activities approved by the Corporation;
+
+5
+
+* * *
+
+  
+
+
+(b) Engage in any activity directly or indirectly in competition with or adverse to the Corporation;
+
+(c) Engage in any activity for purpose of influencing or attempting to influence the Corporation’s customers, either directly or indirectly, to conduct business with any business enterprise in competition with the Corporation; or
+
+(d) Undertake or participate in any planning for or organization of any business activity that is or will be in competition with the Corporation in any field(s) or area(s) in which the Executive has worked or with which the Executive has come into contact, or of which the Executive has gained knowledge during the Term of Employment.
+
+3.3 Post-Employment Obligations. As a condition of the Executive’s having access to Confidential Information, and in consideration of the payments and benefits provided hereunder, the Executive agrees that for a period of twelve (12) months after termination of his employment, or for the duration of a Severance Period, whichever is greater, regardless of the reason, the Executive will not, directly or indirectly, either for himself or for any other person or entity, whether as an agent, consultant, employee, officer, director, investor, partner, shareholder, proprietor or in any other individual or representative capacity (excluding the holding for investment of less that five percent (5%) of the outstanding securities of any corporation which are regularly traded on a recognized stock exchange), do any of the following:
+
+(a) the Executive will not undertake any employment or activity wherein the loyal and complete fulfillment of the duties of that employment or activity would call upon the Executive to make judgments on or otherwise to use any Confidential Information that is covered by this Agreement or the Intellectual Property and Confidentiality Agreement.
+
+(b) Divert or take away (or attempt to divert or take away), any of the Corporation’s present, former or prospective customers, including, but not limited to, those upon whom he called, met with or became acquainted with while engaged as an employee of the Corporation;
+
+(c) Interfere with the contractual or business relationships of the Corporation;
+
+(d) Solicit or attempt to solicit any employees or clients of the Corporation; or
+
+(e) Slander or disparage the Corporation, or undertake any activity which adversely impacts, or is reasonably likely to impact, the goodwill of the Corporation and its business opportunities.
+
+The Parties agree that Article 5 of Exhibit B hereto (as identified in Section 4 below) shall apply only during the Term of Employment and for a period of twelve (12) months thereafter.
+
+6
+
+* * *
+
+  
+
+
+3.4 Corporation Property. The Executive agrees that upon termination of his employment by the Corporation for any reason, or at such earlier time as the Corporation may request, the Executive shall forthwith return to the Corporation all documents and other property in his possession belonging to the Corporation or any of its Affiliates.
+
+3.5 Severability. Each of the covenants of this section shall be construed as separate covenant covering the subject matter in each of the separate counties and states in the United States and governmental subdivisions outside of the United States (collectively, the “Governmental Units”). To the extent that any covenant is determined by a court of competent jurisdiction to be unenforceable in any one or more of said Governmental Units, said covenant shall not be affected with respect to any other Governmental Unit, each covenant with respect to each Governmental Unit being construed as severable and independent.
+
+4\. INTELLECTUAL PROPERTY AND CONFIDENTIALITY AGREEMENT.
+
+The Executive has executed or will concurrently herewith execute the Corporation’s Intellectual Property and Confidentiality Agreement in the form that is attached hereto as Exhibit B, the terms of which are incorporated herein by reference. Nothing in Article 3 of Exhibit B shall prohibit the Executive from removing any Corporation Property from the premises of the Corporation to the extent necessary in the course of the Executive’s performance of his duties hereunder and/or for other legitimate purposes of the Corporation. In addition, the Parties agree that the definition of “Company” in Article 8 of Exhibit B shall not include Appaloosa Management, L.P. or any interest it has in any entity outside of the Corporation and its consolidated group.
+
+5\. TERMINATION.
+
+5.1 Grounds. This Agreement, and the Executive’s employment hereunder, shall terminate upon the occurrence of any of the following events:
+
+(a) Termination by the Corporation for Cause. By the Corporation immediately for Cause;
+
+(b) Termination by the Corporation without Cause or by the Executive with Good Reason and no Change in Control. By the Corporation without Cause, upon thirty (30) days’ prior written notice to the Executive;
+
+(c) Disability. In the event of the Executive’s Disability;
+
+(d) Death. Upon the death of the Executive;
+
+(e) Termination by the Corporation Without Cause or by the Executive with Good Reason After a Change in Control. By the Corporation without cause or by the Executive for Good Reason within twelve (12) months following a Change in Control.
+
+(f) Expiration of the Term of this Agreement following the Corporation’s election not to extend pursuant to Section 2.7.
+
+7
+
+* * *
+
+  
+
+
+6\. TERMINATION PAYMENTS.
+
+6.1 Termination Due to Death or Disability. In the event of a termination due to the Executive’s death or Disability, the Executive or his estate, as the case may be, shall be entitled, in lieu of any other compensation whatsoever, to:
+
+(a) payment of his Base Salary at the rate in effect at the time of his termination until the date of death or Disability;
+
+(b) any annual bonus awarded but not yet paid;
+
+(c) any annual bonus that would have been payable with respect to the year of termination in the absence of the Executive’s death or Disability, pro-rated for the period the Executive worked prior to his death or Disability, provided that the Executive worked at least six (6) months in the year for which the annual bonus is payable;
+
+(d) any deferred compensation or bonuses, including interest or other credits on the deferred amounts, to the extent provided in the plans or programs providing for deferral;
+
+(e) reimbursement of expenses incurred but not paid prior to such termination of employment; and
+
+(f) such rights to other benefits as may be provided in applicable plans and programs of the Corporation, including, without limitation, applicable employee benefit plans and programs, according to the terms and provisions of such plans and programs.
+
+6\. 2 Termination for Cause. In the event that the Corporation terminates the Executive’s employment for Cause, the Executive shall be entitled, in lieu of any other compensation and benefits whatsoever, to:
+
+(a) payment of his Base Salary at the rate in effect at the time of his termination through the date of termination of employment;
+
+(b) any deferred compensation or bonuses, including interest or other credit on the deferred amounts, to the extent provided in the plans or programs providing for deferral; and
+
+(c) such rights to other benefits as may be provided in applicable plans and programs of the Corporation, including, without limitation, applicable employee benefit plans and programs, according to the terms and conditions of such plans and programs.
+
+8
+
+* * *
+
+  
+
+
+6.3 Termination Without Cause, by Executive with Good Reason, or Following Election by the Corporation not to Extend Term. In the event that (1) the Corporation terminates the Executive’s employment hereunder without Cause, (2) the Executive terminates his employment for Good Reason (in the absence of a Change in Control); or (3) this Agreement expires following the Corporation’s election not to extend pursuant to Section 2.7, the Executive shall be entitled to the following payments and benefits:
+
+(a) payment of his Base Salary in effect at the time of termination for a period of twenty four (24) months if terminated during the initial three-year term of this Agreement, and twelve (12) months if terminated thereafter, which shall be paid out in equal bi-weekly installments through the Corporation’s regular payroll practices;
+
+(b) any annual bonus awarded but not yet paid;
+
+(c) any annual bonus that would have been payable with respect to the year of termination, pro-rated for the period the Executive worked prior to such termination, provided that the Executive worked at least six (6) months in the year for which the annual bonus is payable;
+
+(d) any deferred compensation or bonuses, including interest or other credits on the deferred amounts, to the extent provided in the plans or programs providing for deferral; 
+
+(e) reimbursement of expenses incurred but not paid prior to such termination of employment; and
+
+(f) continuation of participation in the Corporation’s group medical, dental and life insurance plans according to the terms and provisions of such plans and programs during the Post-Employment Period for up to twelve (12) months or until the date on which the Executive first becomes eligible for substantially equivalent insurance coverage provided by any other entity following termination of employment by the Corporation, whichever occurs first.
+
+6.4 Termination by Executive Without Good Reason. In the event that the Executive terminates his employment without good reason, the Executive shall be entitled, in lieu of any other compensation and benefits whatsoever, to:
+
+(a) payment of his Base Salary at the rate in effect at the time of his termination through the date of termination of employment;
+
+(b) any deferred compensation or bonuses, including interest or other credit on the deferred amounts, to the extent provided in the plans or programs providing for deferral; and
+
+(c) such rights to other benefits as may be provided in applicable plans and programs of the Corporation, including, without limitation, applicable employee 
+
+9
+
+* * *
+
+  
+
+
+benefit plans and programs, according to the terms and conditions of such plans and programs.
+
+6.5 Non-Duplication of Benefit. Notwithstanding the foregoing, nothing in this Agreement shall result in a duplication of payments or benefits provided under this Section 6, nor shall anything in this Agreement require the Corporation to make any payment or to provide any benefit to the Executive that the Corporation is otherwise required to provide under any other contract, agreement or arrangement.
+
+6.6 General Release. No payments or benefits payable to the Executive upon the termination of his employment pursuant to this Section 6 shall be made to the Executive unless and until he executes a general release in a form satisfactory to the Corporation and such general release becomes effective pursuant to its terms.
+
+7\. CHANGE IN CONTROL.
+
+7.1 Vesting of Stock Options. In the event of a Change in Control, all stock options granted by the Corporation to the Executive shall immediately vest.
+
+7.2 Termination by the Corporation Without Cause or by the Executive for Good Reason After a Change in Control. If within twelve (12) months following a Change in Control, the Executive’s employment is terminated by the Corporation without Cause or by the Executive for Good Reason, the Executive shall be entitled, in lieu of any other compensation and benefits whatsoever under Section 6 or otherwise, to:
+
+(a) payment of his Base Salary at the rate in effect at the time of his termination through the date of termination of employment;
+
+(b) an amount equal to the greater of (i) two (2) times his annual Base Salary at the time of the Change in Control or (ii) two (2) times his annual Base Salary at the time of the termination of his employment, which shall be paid out in equal bi-weekly installments through the Corporation’s regular payroll practices;
+
+(c) any annual bonus awarded but not yet paid or any other incentive compensation plan;
+
+(d) reimbursement of expenses incurred but not paid prior to such termination of employment; and
+
+(e) continuation of participation in the Corporation’s group medical, dental and life insurance plans according to the terms and provisions of such plans and programs during the Post-Employment Period for up to eighteen (18) months or until the date on which the Executive first becomes eligible for substantially equivalent insurance coverage provided by any other entity following termination of employment by the Corporation.
+
+10
+
+* * *
+
+  
+
+
+7.4 Adjustment to Total Payments. If any payment or right accruing to the Executive under this Agreement (without application of this section), either alone or together with other payments or rights accruing to the Executive from the Corporation or an Affiliate (“Total Payments”) would constitute a “parachute payment,” as defined in Section 280G of the Code and regulations thereunder, such payment or right shall be reduced to the largest amount or greatest right that will result in no portion of the amount payable or right accruing under this Agreement being subject to an excise tax under Section 4999 of the Code or being disallowed as a deduction under Section 280G of the Code. The Executive shall cooperate in good faith with the Corporation in providing the necessary information for making a determination of the applicability of Section 280G. The foregoing provisions of this section shall apply only if after reduction for any applicable federal excise tax imposed by Section 4999 of the Code and federal income tax imposed by the Code, the Total Payments accruing to the Executive would be less than the amount of the Total Payments as reduced, if applicable, and after reduction for only federal income taxes.
+
+8\. MISCELLANEOUS.
+
+8.1 Notices. Any written notice required or permitted to be given shall be deemed delivered either when personally delivered or when mailed, registered or certified, postage prepaid with return receipt requested, if to the Executive, addressed to the last residence address of the Executive as shown in the records of the Corporation, and if to the Corporation, addressed to the Chairman of the Board at its principal office in Santa Barbara, California. Mailed notices shall be deemed received two (2) business days after the date of deposit in the mail.
+
+8.2 Remedies.
+
+8.2.1 Equitable Remedies. The Executive acknowledges and agrees any breach, violation or evasion of the terms, conditions and provisions of Sections 3 and 4 above, will result in immediate and irreparable injury and harm to the Corporation and shall entitle the Corporation to injunctive relief, as well as to all other legal or equitable remedies to which the Corporation may be entitled.
+
+8.2.2 Cessation/Reimbursement of Payments. If the Executive violates any provision of Sections 3 or 4, the Corporation may, upon giving written notice to the Executive, immediately cease all payments and benefits that it may be providing to the Executive pursuant to this Agreement, and the Executive may be required to reimburse the Corporation for any payments received from, and the cash value of any benefits provided by, the Corporation between the first day of the violation and the date such notice is given; provided, however, that the foregoing shall be in addition to such other remedies as may be available to the Corporation and shall not be deemed to permit the Executive to forego or waive such payments in order to avoid his obligations under Sections 3 or 4.
+
+11
+
+* * *
+
+  
+
+
+8.3 Partial Invalidity. If any term or provision of this Agreement or the application thereof to any person or circumstance shall be held to be invalid or unenforceable to any extent, the remainder of this Agreement or application of such term or provision to persons or circumstances other than those to which it is held invalid or unenforceable shall not be affected thereby, and each term and provision of the Agreement shall be valid and be enforced to the fullest extent permitted by law.
+
+8.4 Waiver. No waiver of any right hereunder shall be effective for any purpose unless in writing, signed by the Party hereto possessing said right, nor shall any waiver be construed to be a waiver of any subsequent right, term or provision of this Agreement.
+
+8.5 Assignment; Effect on Agreement. It is hereby acknowledged and agreed that the Executive’s rights and obligations under this Agreement are personal in nature and shall not be assigned or delegated. This Agreement shall be binding on and inure to the benefit of the heirs, personal representatives, successors and assigns of the Parties, subject, however, to the restrictions on assignment and delegation contained herein.
+
+8.6 Disputes Resolution and Arbitration.
+
+8.7.1 Any dispute arising in connection with the interpretation or enforcement of the provisions of this Agreement, or its application or validity, will be submitted to arbitration. Such arbitration proceedings shall be instituted in Santa Barbara, California, in accordance with the rules then existing of the American Arbitration Association. This agreement to arbitrate is specifically enforceable.
+
+8.7.2 Any award rendered in any such arbitration proceeding will be final and binding on each of the Parties, and judgment may be entered thereon in any court of competent jurisdiction. The arbitrator shall have the authority to compel the Party that does not substantially prevail in such proceeding to pay the reasonable costs and fees of the prevailing Party (including reasonable and customary legal fees and expenses) to the extent that the arbitrator deems appropriate.
+
+8.7 Exhibits. The terms and conditions of this Agreement shall prevail in the case of any discrepancy or conflict between such terms and conditions and the terms and conditions of any exhibit hereto.
+
+8.8 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+8.9 Entire Agreement. Unless expressly provided to the contrary herein, this Agreement (and the exhibits attached hereto) contains the entire agreement and understanding between the Parties and supersedes all prior agreements and understandings, oral or written. No modification or termination shall be valid unless in writing and signed by both Parties.
+
+12
+
+* * *
+
+  
+
+
+9\. ACKNOWLEDGEMENT. The Executive represents and acknowledges the following:
+
+(a) he has carefully read this Agreement in its entirety;
+
+(b) he understands the terms and conditions contained herein;
+
+(c) he has had the opportunity to review this Agreement, at his discretion, with legal counsel of his own choosing and has not relied on any statement made by the Corporation or its legal counsel as to the meaning of any term or condition contained herein or in deciding whether to enter into this Agreement; and
+
+(d) he is entering into this Agreement knowingly and voluntarily.
+
+IN WITNESS WHEREOF, the Parties hereto have executed this Agreement as of the th day of , 2003.
+
+INAMED CORPORATION
+
+EXECUTIVE  
+  
+By:
+
+/S/ Nicholas L. Teti
+
+By:
+
+/S/ Robert S. Vaters  
+  
+Nicholas L. Teti
+
+Robert S. Vaters  
+  
+Chairman, President and CEO
+
+Chief Financial Officer and Executive Vice President  
+  
+Address:
+
+Address:  
+  
+5540 Ekwill Street, Suite D  
+  
+Santa Barbara, California 93111  
+  
+Date: May 16, 2003
+
+Date: May 16, 2003  
+  
+13
+
+* * *

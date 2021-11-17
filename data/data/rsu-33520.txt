@@ -1,0 +1,211 @@
+![](form10q2q15ex102_image2.gif)
+
+  
+
+
+Exhibit 10.2
+
+
+
+For Grantees Located Inside the United States
+
+Awarded to: participant name
+
+Grant Date: grant date
+
+Number of Target Shares: shares
+
+This Restricted Stock Unit Agreement (the “Agreement”) is made between FLIR Systems, Inc., an Oregon corporation (“the Company”) and you, an employee or consultant of the Company or one of its Subsidiaries (the “Grantee”). 
+
+The Company sponsors the FLIR Systems, Inc. 2011 Stock Incentive Plan (the “Plan”). The Plan governs the terms of the award referenced in this Agreement and controls in the event of any ambiguity between the Plan and this Agreement. A copy of the Plan as amended can be found on the Company intranet or may be obtained by contacting the Company’s Human Resources Department. The terms and provisions of the Plan are incorporated herein by reference. By signing this Agreement, you acknowledge that you have obtained and reviewed a copy of the Plan. When used herein, the capitalized terms that are defined in the Plan shall have the meanings given to them in the Plan, including the term “Committee,” which means the Compensation Committee of the Company’s Board of Directors. 
+
+Your failure to execute this Agreement within 180 days of the Grant Date may result in its cancellation.
+
+In recognition of the value of your contribution to the Company, you and the Company mutually covenant and agree as follows: 
+
+1.Grant. Subject to the terms and conditions of the Plan and this Agreement, the Company grants to you, the Grantee, the right to receive on the vesting date described herein the above stated number of shares of the Company’s common stock (the “Shares”).
+
+2. No Rights as Shareholder Prior to Issuance and Delivery of Shares. Grantee shall not be deemed for any purpose to be a shareholder of the Company as to any Shares subject to this Agreement, including the right to any dividends or dividend equivalents issued over the vesting period, until the Shares have been issued and delivered to Grantee in accordance with the Plan and this Agreement.
+
+3. Vesting. The Shares subject to this Agreement will vest as stated in this Section 3. 
+
+(a) Performance Period. For purposes of this Agreement, the “Performance Period” shall be the period beginning May 1, 2015 and ending April 30, 2018.
+
+(b) Performance Vesting. Subject to (i) Grantee’s continuous service as an employee or consultant with the Company or its Subsidiaries through May 1, 2018 (the “Vesting Date”) or Grantee’s termination of employment and consultancy with the Company and its 
+
+  
+
+
+  
+
+
+* * *
+
+![](form10q2q15ex102_image2.gif)
+
+  
+
+
+Subsidiaries prior to the Vesting Date pursuant to Section 6 of the Agreement and (ii) except as provided in Section 7, the certification by the Committee of the performance level achieved, Grantee shall become vested in the number of Shares that are earned pursuant to this Section 3(b). The number of Shares that are earned under this Agreement shall be a percentage of the number of Target Shares specified at the beginning of this Agreement (the “Target Shares”), determined as follows, based on the TSR of the Company for the Performance Period (the “Company TSR”) as compared to the Target TSR, as defined below:  
+  
+(i)
+
+When Company TSR is less than Target TSR, for each 1.0% that Company TSR is less than Target TSR, the percentage of the Target Shares earned decreases by 10%;  
+  
+(ii)
+
+When Company TSR is equal to Target TSR, 100% of the Target Shares are earned;  
+  
+(iii)
+
+When Company TSR is from 1% to 20% greater than Target TSR, for each 1% that Company TSR is greater than Target TSR, the percentage of the Target Shares earned increases by 2.5%;  
+  
+(iv)
+
+When Company TSR is from 21% to 30% greater than Target TSR, for each 1% that Company TSR is greater than Target TSR, the percentage of the Target Shares earned increases by 5.0%; and  
+  
+(v)
+
+When Company TSR is 30% or more greater than Target TSR, the maximum number of Target Shares are earned.  
+  
+No Shares shall be earned pursuant to this Agreement if the Company TSR is 10 percentage points or more below the Target TSR. The maximum number of Shares earned pursuant to this Agreement shall be 200% of the Target Shares. In the event the Company TSR is negative, the maximum number of Shares that can be earned is capped at an amount equal to the Target Shares.
+
+(c) Definitions. For purposes of this Agreement:
+
+“Comparison Group” means each company that is included in the S&P; 500 as of the date on which the Performance Period begins, excluding any such company that incurs a Specified Corporate Change during the Performance Period. 
+
+“Specified Corporate Change” means that company in the Comparison Group will be deemed to have undergone a “Specified Corporate Change” if it:   
+  
+(i)
+
+ceases to be a domestically domiciled publicly traded company on the New York Stock Exchange or Nasdaq stock exchange; or  
+  
+(ii)
+
+has been acquired by or merged with another company and the company is not the surviving entity (whether by a peer company or otherwise, but not including internal reorganizations), or has sold all or substantially all of its assets; or  
+  
+  
+
+
+  
+
+
+* * *
+
+![](form10q2q15ex102_image2.gif)
+
+  
+  
+  
+(iii)
+
+has reincorporated in a foreign (e.g., non-U.S.) jurisdiction, regardless of whether it is a reporting company in that or another jurisdiction.   
+  
+The Company shall rely on press releases, public filings, website postings, and other reasonably reliable information available regarding a company in making a determination that a Specified Corporate Change has occurred. 
+
+“Target TSR” means the TSR of the company in the Comparison Group that ranks at the 60th percentile among all companies in the Comparison Group.
+
+“TSR” means total shareholder return as applied to the Company and each company in the Comparison Group, which shall reflect the stock price appreciation from the beginning to the end of the Performance Period, plus dividends and distributions made or declared (assuming such dividends or distributions are reinvested in the common stock of the Company or the applicable company in the Comparison Group as of the ex-dividend date) during the Performance Period, expressed as a percentage return. For purposes of computing TSR, the stock price at the beginning of the Performance Period will be the average price of a share of common stock over the 20 trading days prior to the first day of the Performance Period, and the stock price at the end of the Performance Period will be the average price of a share of common stock over the 20 trading days ending on the last day of the Performance Period, adjusted for changes in capital structure as well as dividends paid over the performance period.
+
+4. Payment of Shares. Subject to Sections 6 and 7 of this Agreement, the number of Shares earned and vested pursuant to Section 3(b) and Section 6 shall be issued to Grantee within 2½ months after the Vesting Date or, if later, the date on which the Shares are distributable pursuant to the terms of the Company’s Stock Deferral Plan.
+
+5. Rights of Grantee with Respect to Shares Delivered. Grantee shall enjoy all shareholder rights with respect to Shares that have been issued and delivered and such Shares shall no longer be subject to the terms of the Plan or this Agreement; provided, however, that Grantee shall not sell or otherwise dispose of any such Shares until the earliest to occur of (i) the first anniversary of the date on which the Shares have become vested, (ii) a Corporate Transaction, (iii) Grantee’s death or (iv) a termination of Grantee’s employment due to a Qualifying Disability; provided further that this restriction shall not apply to the withholding of Shares by the Company to satisfy any withholding taxes in accordance with Section 10 of this Agreement.
+
+6. Termination of Service. In the event that Grantee's employment and consultancy with the Company and its Subsidiaries terminates for any reason other than death, a Qualifying Disability or Qualifying Retirement, as such terms are defined in Section 6, the Shares subject to this Agreement shall immediately expire and no additional Shares or payments shall be issued and delivered or paid to Grantee pursuant to this Agreement. The date of termination of Grantee’s employment or consultancy for purposes of the Plan shall be determined by the Committee, in its exclusive discretion, which determination shall be final.
+
+  
+
+
+  
+
+
+* * *
+
+![](form10q2q15ex102_image2.gif)
+
+  
+
+
+7. Death, Qualifying Disability or Retirement. In the event of Grantee’s death or termination of employment and consultancy with the Company and its Subsidiaries as a result of Grantee’s Qualifying Disability, the Shares subject to this Agreement shall become vested and the Company shall issue to Grantee or his or her designated beneficiary, within 2½ months after the Vesting Date, a number of Shares equal to the Shares that are earned pursuant to Section 3(b). Upon such payment the Agreement shall expire and no additional Shares or payments shall be issued and delivered or paid to Grantee pursuant to this Agreement. For purposes of this Agreement, a “Qualifying Disability” shall mean a Disability, as defined below, which the Committee determines is expected to prevent the Grantee from thereafter engaging in any gainful employment. For purposes of this Agreement, a “Disability” shall mean a total and permanent disability as defined in section 22(e)(3) of the Code. The determination of whether Grantee’s Disability is a Qualifying Disability shall be made by the Committee in its sole discretion, and such determination shall be final. 
+
+In the event Grantee’s employment and consultancy with the Company and its Subsidiaries terminates as a result of Grantee’s Qualifying Retirement, the Shares subject to this Agreement shall become vested and the Company shall issue to Grantee or his or her designated beneficiary, within 2½ months after the Vesting Date, a number of Shares equal to the Shares that are earned pursuant to Section 3(b), prorated to reflect the number of days in the Performance Period during which Grantee was employed by the Company or its Subsidiaries. Upon such payment the Agreement shall expire and no additional Shares or payments shall be issued and delivered or paid to Grantee pursuant to this Agreement. For purposes of this Agreement, “Qualifying Retirement” shall mean a voluntary termination of employment and consultancy by Grantee if Grantee is, on the effective date of such termination, at least 60 years of age and has worked for the Company or one of its Subsidiaries for the preceding five (5) years.
+
+8. Corporate Transaction. In the event a Corporate Transaction, as defined in the Plan, occurs during the Performance Period, and Grantee remains employed by the Company or its Subsidiaries until the date of such Corporate Transaction, the Company shall issue to Grantee the greater of (i) the number of Target Shares, without regard to the performance conditions described in Section 3(b), or (ii) the number of Shares that would be earned pursuant to Section 3(b) if the Performance Period ended on the date of the Corporate Transaction; provided that in lieu of issuing such Shares, the Company may, in the sole discretion of the Committee, make a cash payment to Grantee in an amount equal to the Fair Market Value of such number of Shares, determined as of the date of the Corporate Transaction. The Company shall issue such Shares or make such payment not later than one calendar month after the date of the Corporate Transaction. Upon such issuance or payment the Agreement shall expire and no additional Shares or payments shall be issued and delivered or paid to Grantee pursuant to this Agreement. For purposes of clause (ii) above, the value of a share of Company common stock at the end of the Performance Period that is used to determine the Company TSR shall be equal to the Fair Market Value of the consideration payable with respect to a share of Common Stock in the applicable Corporate Transaction.
+
+9. Nontransferability of this Agreement. This Agreement may not be sold, transferred, assigned, pledged, or encumbered and any such attempted action shall be void.
+
+  
+
+
+  
+
+
+* * *
+
+![](form10q2q15ex102_image2.gif)
+
+  
+
+
+10. Withholding Taxes. The vesting and issuance of Shares and the payment of cash to Grantee is a taxable event for which the Company is obligated to withhold taxes. Grantee agrees to pay to the Company an amount sufficient to provide for any federal, state, and local withholding taxes, including FICA taxes, in connection with the issuance and delivery of any Shares by the Company to Grantee. Grantee may satisfy this withholding obligation by electing in writing (i) to transfer from Grantee’s Fidelity cash account an amount sufficient to satisfy the withholding obligation, or (ii) have Company withhold from the Shares otherwise to be delivered to Grantee that number of Shares that would satisfy the withholding obligation. In the absence of a timely election by Grantee, the Committee will use option (ii).
+
+If the Committee withholds Shares to satisfy the withholding obligation, the following rules apply:
+
+(a) The value of the Shares withheld or transferred must equal (or exceed by at most a fractional Share) the minimum withholding obligation.
+
+(b) The value of the Shares withheld or transferred shall be the Fair Market Value determined as of the vesting date.
+
+(c) The election is subject to the consent or disapproval of the Committee.
+
+11. Exclusion of Shares from Compensation. Shares issued and delivered to Grantee pursuant to the Plan will not constitute compensation to Grantee for purposes of any retirement, life insurance or other employee benefit plan of the Company.
+
+12. Termination of Agreement. This Agreement shall terminate when no further Shares may be delivered to Grantee pursuant to this Agreement.
+
+13. Governing Law. This Agreement is governed by, and subject to, the laws of the State of Oregon, as provided in the Plan. 
+
+For purposes of litigating any dispute that arises under this Agreement, the parties hereby submit to and consent to the jurisdiction of the State of Oregon, and agree that such litigation shall be conducted in the appropriate state or federal courts of Oregon.
+
+14. Electronic Delivery and Participation. The Company may, in its sole discretion, decide to deliver any documents related to the award referenced in this Agreement or to participation in the Plan or to future awards that may be granted under the Plan by electronic means or to request Grantee’s consent to participate in the Plan by electronic means. Grantee hereby consents to receive such documents by electronic delivery and to participate in the Plan through an on-line or electronic system established and maintained by the Company or a third party designated by the Company.
+
+15. Severability. The provisions of this Agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable.
+
+  
+
+
+  
+
+
+* * *
+
+![](form10q2q15ex102_image2.gif)
+
+  
+
+
+16. Insider Trading Restrictions. Grantee acknowledges that Grantee may be subject to insider trading restrictions, which may affect his or her ability to acquire or dispose of Shares or rights to Shares (e.g., restricted stock units) acquired under the Plan during such times as Grantee is considered to have “inside information” regarding the Company. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under any applicable Company insider trading policy. Grantee is responsible for ensuring compliance with any applicable restrictions and is advised to consult his or her personal legal advisor on this matter.  
+  
+FLIR SYSTEMS, INC.
+
+GRANTEE  
+  
+![](form10q2q15ex102_image1a01.jpg)  
+  
+Andrew C. Teich
+
+Name  
+  
+President and Chief Executive Officer
+
+Signed Electronically  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+

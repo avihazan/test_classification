@@ -1,0 +1,261 @@
+Exhibit 10.1
+
+  
+
+
+  
+
+
+FORM OF CARNIVAL CORPORATION PERFORMANCE-BASED 
+
+
+
+FOR THE CARNIVAL CORPORATION 2011 STOCK PLAN
+
+THIS [YEAR] PERFORMANCE-BASED RESTRICTED STOCK UNIT AGREEMENT (this “Agreement”), shall apply to the award of performance-based Restricted Stock Units granted to employees of Carnival Corporation, a corporation organized under the laws of the Republic of Panama, (the “Company”) or employees of an Affiliate, on [DATE] under the [PLAN NAME] (the “Plan”) that are evidenced by a Grant Certificate that specifically refers to this Agreement (the “Grant Certificate”).
+
+WHEREAS, the Company has adopted the Plan, pursuant to which restricted stock units may be granted in respect of shares of the Company’s common stock, par value $0.01 per share (“Stock”); and 
+
+WHEREAS, the Compensation Committee of the Company (the “Committee”) has determined that it is in the best interests of the Company and its stockholders to grant the restricted stock units provided for herein to the Participant subject to the terms set forth herein.
+
+NOW, THEREFORE, for and in consideration of the premises and the covenants of the parties contained in this Agreement, and for other good and valuable consideration, the receipt of which is hereby acknowledged, the parties hereto, for themselves, their successors and assigns, hereby agree as follows:
+
+1.Grant of Restricted Stock Units.
+
+(a)Grant. The Company hereby grants to the individual named in the Grant Certificate (the “Participant”) a target number of restricted stock units (the “RSUs”) set forth in Participant’s Grant Certficate (the “Target Amount”), on the terms and conditions set forth in the Grant Certificate, the Plan and this Agreement. Each RSU represents the right to receive payment in respect of one share of Stock as of the Settlement Date (as defined below), to the extent the Participant is vested in such RSUs as of the Settlement Date, subject to the terms of this Agreement, the Grant Certificate and the Plan. The RSUs are subject to the restrictions described herein, including forfeiture under the circumstances described in Section 3 hereof (the “Restrictions”). The Restrictions shall lapse and the RSUs shall vest and become nonforfeitable in accordance with Section 2 and Section 3 hereof. 
+
+(b)Incorporation by Reference, Etc. The provisions of the Plan and the Grant Certificate are hereby incorporated herein by reference. Except as otherwise expressly set forth herein, this Agreement and the Grant Certificate shall be construed in accordance with the provisions of the Plan and any interpretations, amendments, rules and regulations promulgated by the Committee from time to time pursuant to the Plan. Any capitalized terms not otherwise defined in this Agreement or the Grant Certificate shall have the definitions set forth in the Plan. The Committee shall have final authority to interpret and construe the Plan, this Agreement and the Grant Certificate, and to make any and all determinations under them. The Committee’s decision shall be binding and conclusive upon the Participant and his legal representative in respect of any questions arising under the Plan, this Agreement or the Grant Certificate. In the event there is any inconsistency between the provisions of the Plan and this Agreement or the Grant Certificate, the provisions of the Plan shall govern.
+
+  
+
+
+1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+2.Terms and Conditions. 
+
+(a) Performance Target.
+
+(i)Subject to the Participant’s continued employment or service with the Company, a specified percentage of the RSUs shall vest if both (A) the Participant remains in continuous employment or continuous service with the Company through the Settlement Date as defined in Sub-section (b) below, and (B) the Company achieves, at a minimum, the threshold level of performance with respect to the performance goals set forth on Exhibit A (the “Performance Targets”). Unless provided otherwise by the Committee, the Participant shall be deemed to not be in continuous employment or continuous service if the Participant’s status changes from employee to non-employee, or vice-versa. The actual number of RSUs that may vest may range from zero to [MAXIMUM %] of the Target Amount based on the extent to which the Performance Targets are achieved, and may be further adjusted up or down by up to [TSR %] based upon the Company’s Relative Total Shareholder Return (as defined on Exhibit A) at the end of the 3-year performance cycle as set forth on Exhibit A, in accordance with the methodology set out on Exhibit A, subject to a maximum payout cap of [MAXIMUM %]. (I) if the Company does not achieve the threshold level of the Performance Targets as set out on Exhibit A, then no RSUs shall vest and this grant of RSUs shall be cancelled in its entirety, and (II) no vesting shall occur unless and until the Committee certifies that the Performance Targets have been met and determined the Company’s Relative Total Shareholder Return (the “Certification”).
+
+(ii)At any time following the Date of Grant, the Committee shall make adjustments or modifications to the Performance Targets and the calculation of the Performance Targets as it determines, in its sole discretion, are necessary in order to avoid dilution or enlargement of the intended benefits to be provided to the Participant under this Agreement, to reflect the following events: (A) asset write-downs; (B) litigation or claim judgments or settlements; (C) the effect of changes in tax laws, accounting principles, or other laws or regulatory rules affecting reported results; (D) any reorganization and restructuring programs; (E) extraordinary nonrecurring items as described in Accounting Standards Codification Topic 225-20 (or any successor pronouncement thereto) and/or in management’s discussion and analysis of financial condition and results of operations appearing in the Company’s annual report to stockholders for the applicable year; (F) acquisitions or divestitures; (G) foreign exchange gains and losses; (H) discontinued operations and nonrecurring charges; (I) a change in the Company’s fiscal year; and/or (J) any other specific, unusual or nonrecurring events.
+
+(b) Settlement. The obligation to make payments and distributions with respect to RSUs shall be satisfied through the issuance of one share of Stock for each vested RSU, less applicable withholding taxes (the “settlement”), and the settlement of the RSUs may be subject to such conditions, restrictions and contingencies as the Committee shall determine. The RSUs shall be settled as soon as practicable after the end of the three-year performance cycle and Certification (as applicable, the “Settlement Date”), but in no event later than March 15 of the year following the calendar year in which Certification occurs, except as otherwise specified in Section 4(a). Notwithstanding the foregoing, the payment dates set forth in this Section 2(b) have been specified for the purpose of complying with the provisions of Section 409A of the Code (“Section 409A”). To the extent payments are made during the periods permitted under Section 409A (including any applicable periods before or after the specified payment dates set forth in this Section 2(b)), the Company shall be deemed to have satisfied its obligations under the Plan and shall be deemed not to be in breach of its payments obligations hereunder.
+
+  
+
+
+2
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+(c) Dividends and Voting Rights. Subject to the limitation set forth in Exhibit A (8), each RSU subject to this grant shall be credited with dividend equivalents equal to the dividends (including extraordinary dividends if so determined by the Committee) declared and paid to other shareholders of the Company in respect of one share of Stock. Dividend equivalents shall not bear interest. On the Settlement Date, such dividend equivalents in respect of each vested RSU shall be settled by delivery to the Participant of a number of shares of Stock equal to the quotient obtained by dividing (i) the aggregate accumulated value of such dividend equivalents by (ii) the Fair Market Value of a share of Stock on the date that is 14 days prior to the Settlement Date or other applicable vesting date set forth in Section 3(b), rounded down to the nearest whole share, less any applicable withholding taxes. No dividend equivalents shall be accrued for the benefit of the Participant with respect to record dates occurring prior to the Date of Grant, or with respect to record dates occurring on or after the date, if any, on which the Participant has forfeited the RSUs. The Participant shall have no voting rights with respect to the RSUs or any dividend equivalents. 
+
+3.Termination of Employment or Service with the Company.
+
+(a) Termination by the Company for Cause. If the Participant’s employment or service with the Company terminates for Cause, then all outstanding RSUs shall immediately terminate on the date of termination of employment or service.
+
+(b) Death or Disability. If the Participant’s employment or service with the Company terminates due to the Participant’s death or is terminated by the Company due to the Participant’s Disability, then the Participant shall be deemed to have vested on the date of termination in a number of RSUs equal to the product of (i) the Target Amount of RSUs multiplied by (ii) a fraction, the numerator of which is the number of days elapsed during the period commencing on December 1, [PRIOR YEAR] through and including the date of termination, and the denominator of which is the total number of days in the performance cycle, rounded down to the nearest whole RSU, and the remaining unvested portion of the RSUs shall terminate on the date of termination of employment or service. The vested RSUs (and any associated dividend equivalents) shall be settled in accordance with Section 2(b) and 2(c), respectively.
+
+(c) Other Termination. If the Participant’s employment or service with the Company terminates for any reason other than as otherwise described in the foregoing provisions of this Section 3 (whether due to voluntary termination, Retirement, termination by the Company without Cause, or otherwise), then all outstanding RSUs shall immediately terminate on the date of termination of employment or service.
+
+(d) Released RSUs. Following Participant’s termination of employment or service with the Company for any reason, Participant (or Participant’s beneficiary, if applicable) must provide for all Stock underlying released RSUs (including those issued under this Agreement as well as Shares underlying released RSUs issued under any other similar agreement, whether on account of termination or previously released in connection with the vesting terms of such similar agreement) to be liquidated or transferred to a third party broker after all required documentation and tax withholding guidance is received no later than six months following the later of (i) Participant’s date of termination or (ii) the latest Settlement Date or other applicable vesting date (whether under this Agreement or a similar agreement) occurring following Participant’s termination. If Participant (or Participant’s beneficiary, as applicable) fails to liquidate or transfer the Stock prior to the end of the applicable six month period, the Company is hereby authorized and directed by Participant either, in the Company’s discretion: (i) to sell any such remaining Stock on Participant’s (or Participant’s beneficiary’s) behalf on the next trading date following the end of such period on which the Company is not prohibited from selling such Stock; or (ii) to transfer such Shares to the Company’s stock 
+
+  
+
+
+3
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+transfer agent for registration in Participant’s (or Participant’s beneficiary’s) name. The Company will not be responsible for any gain or loss or taxes incurred with respect to the Stock underlying the released RSUs in connection with such liquidation or transfer.
+
+Except as otherwise provided in Section 3(b), in no event shall any RSUs be settled unless and until both (i) at least the threshold Performance Targets are achieved, and (ii) the Certification occurs. 
+
+4.Miscellaneous.
+
+(a) Compliance with Legal Requirements. The granting and settlement of the RSUs, and any other obligations of the Company under this Agreement, shall be subject to all applicable federal, state, local and foreign laws, rules and regulations and to such approvals by any regulatory or governmental agency as may be required. If the settlement of the RSUs would be prohibited by law or the Company’s dealing rules, the settlement shall be delayed until the earliest date on which the settlement would not be so prohibited.
+
+(b) Transferability. Unless otherwise provided by the Committee in writing, the RSUs shall not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant other than by will or the laws of descent and distribution and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company; provided that, the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance.
+
+(c) Tax Withholding. All distributions under the Plan are subject to withholding of all applicable federal, state, local and foreign taxes, and the Committee may condition the settlement of the RSUs on satisfaction of the applicable withholding obligations. The Company, Carnival plc or any Affiliate of the Company or Carnival plc has the right, but not the obligation, to withhold or retain any Shares or other property deliverable to the Participant in connection with the grant of RSUs or from any compensation or other amounts owing to the Participant the amount (in cash, Shares or other property) of any required tax withholding in respect of the Shares and to take such other action as may be necessary in the opinion of the Company to satisfy all obligations for the payment of such taxes.
+
+(d) Clawback/Forfeiture.
+
+(i) In the case of fraud, negligence, intentional or gross misconduct or other wrongdoing on the part of Participant (or any other event or circumstance set forth in any clawback policy implemented by the Company, including, without limitation, any clawback policy adopted to comply with the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection Act and any rules or regulations promulgated thereunder) that results in a material restatement of the Company’s issued financial statements, such Participant will be required to reimburse the Company for all or a portion, as determined by the Committee in its sole discretion, of any income or gain realized on the settlement of the RSUs or the subsequent sale of shares of Stock acquired upon settlement of the RSUs with respect to any fiscal year in which the Company’s financial results are negatively impacted by such restatement. The Participant agrees to and shall be required to repay any such amount to the Company within 30 days after the Company demands repayment. In addition, if the Company is required by law to include an additional “clawback” or “forfeiture” provision to outstanding awards, under the Dodd-Frank Wall Street Reform and Consumer Protection Act or otherwise, then such clawback or forfeiture provision shall also apply to this Agreement as if it had been included on the Date of Grant and the Company shall promptly notify the Participant of such additional provision. In addition, if a Participant has engaged or is engaged in Detrimental Activity after the Participant’s employment or service with the Company or its subsidiaries has 
+
+  
+
+
+4
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+ceased, then the Participant, within 30 days after written demand by the Company, shall return any income or gain realized on the settlement of the RSUs or the subsequent sale of shares of Stock acquired upon settlement of the RSUs.
+
+(ii) For purposes of this Agreement, “Detrimental Activity” means any of the following: (i) unauthorized disclosure of any confidential or proprietary information of the Combined Group, (ii) any activity that would be grounds to terminate the Participant’s employment or service with the Combined Group for Cause, (iii) whether in writing or orally, maligning, denigrating or disparaging the Combined Group or their respective predecessors and successors, or any of the current or former directors, officers, employees, shareholders, partners, members, agents or representatives of any of the foregoing, with respect to any of their respective past or present activities, or otherwise publishing (whether in writing or orally) statements that tend to portray any of the aforementioned persons or entities in an unfavorable light, or (iv) the breach of any noncompetition, nonsolicitation or other agreement containing restrictive covenants, with the Combined Group. For purposes of the preceding sentence the phrase “the Combined Group” shall mean “any member of the Combined Group or any Affiliate”.
+
+(e) No Rights as Stockholder. The Participant shall not be deemed for any purpose to be the owner of any shares of Stock subject to the RSUs. The Company shall not be required to set aside any fund for the payment of the RSUs.
+
+(f) Waiver. Any right of the Company contained in this Agreement may be waived in writing by the Committee. No waiver of any right hereunder by any party shall operate as a waiver of any other right, or as a waiver of the same right with respect to any subsequent occasion for its exercise, or as a waiver of any right to damages. No waiver by any party of any breach of this Agreement shall be held to constitute a waiver of any other breach or a waiver of the continuation of the same breach.
+
+(g) Notices. Any written notices provided for in this Agreement or the Plan shall be in writing and shall be deemed sufficiently given if either hand delivered or if sent by fax or overnight courier, or by postage paid first class mail. Notices sent by mail shall be deemed received three business days after mailing but in no event later than the date of actual receipt. Notices shall be directed, if to the Participant, at the Participant’s address indicated by the Company’s records, or if to the Company, at the Company’s principal executive office.
+
+(h) Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+(i) No Rights to Continued Employment. Nothing in the Plan, the Grant Certificate or in this Agreement shall be construed as giving the Participant any right to be retained, in any position, as an employee, consultant or director of the Company or its Affiliates or shall interfere with or restrict in any way the right of the Company or its Affiliates, which are hereby expressly reserved, to remove, terminate or discharge the Participant at any time for any reason whatsoever. The rights and obligations of the Participant under the terms and conditions of the Participant’s office or employment shall not be affected by this Agreement or the Grant Certificate. The Participant waives all and any rights to compensation and damages in consequence of the termination of the Participant’s office or employment with any member of the Combined Group or any of its Affiliates for any reason whatsoever (whether lawfully or unlawfully) insofar as those rights arise, or may arise, from the Participant’s ceasing to have rights under or the Participant’s entitlement to the RSUs under this Agreement as a result of such termination or from the loss or diminution in value of such 
+
+  
+
+
+5
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+rights or entitlements. In the event of conflict between the terms of this Section 4(i) and the Participant’s terms of employment, this Section will take precedence.
+
+(j) Beneficiary. If no beneficiary designated in a valid will survives the Participant, the Participant’s estate shall be deemed to be the Participant’s beneficiary.
+
+(k) Successors. The terms of this Agreement and the Grant Certificate shall be binding upon and inure to the benefit of the Company and its successors and assigns, and of the Participant and the beneficiaries, executors, administrators, heirs and successors of the Participant.
+
+(l) Entire Agreement. This Agreement, the Grant Certificate and the Plan contain the entire agreement and understanding of the parties hereto with respect to the subject matter contained herein and supersede all prior communications, representations and negotiations in respect thereto. No change, modification or waiver of any provision of this Agreement shall be valid unless the same be in writing and signed by the parties hereto, except for any changes permitted without consent of the Participant in accordance with the Plan.
+
+(m) Governing Law; JURY TRIAL WAIVER. This Agreement and the Grant Certificate shall be construed and interpreted in accordance with the laws of the State of Florida without regard to principles of conflicts of law thereof, or principles of conflicts of laws of any other jurisdiction which could cause the application of the laws of any jurisdiction other than the State of Florida. THE PARTIES EXPRESSLY AND KNOWINGLY WAIVE ANY RIGHT TO A JURY TRIAL IN THE EVENT ANY ACTION ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT AND/OR THE GRANT CERTIFICATE IS LITIGATED OR HEARD IN ANY COURT.
+
+(n) Data Protection. By accepting the grant of the RSUs the Participant agrees and consents:
+
+(i) to the collection, use, processing and transfer by the Company of certain personal information about the Participant, including the Participant’s name, home address and telephone number, date of birth, other employee information, details of the RSUs granted to the Participant, and of Stock issued or transferred to the Participant pursuant to this Agreement (“Data”); and
+
+(ii) to the Company transferring Data to any subsidiary or Affiliate of the Company for the purposes of implementing, administering and managing this Agreement; and
+
+(iii) to the use of such Data by any person for such purposes; and
+
+(iv) to the transfer to and retention of such Data by third parties in connection with such purposes.
+
+(o) Headings. The headings of the Sections hereof are provided for convenience only and are not to serve as a basis for interpretation or construction, and shall not constitute a part, of this Agreement.
+
+  
+
+
+6
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+Exhibit A
+
+  
+
+
+Performance Target and Relative Total Shareholder Return Vesting Matrix
+
+  
+
+
+The percentage of the Target Amount of RSUs that shall vest will be based upon the extent to which the Combined Group’s non-GAAP annual operating income (“OI”), as adjusted for [ANNUAL ADJUSTMENTS] for each of the three fiscal years in the [PERFORMANCE PERIOD DATES] performance cycle (“Performance Cycle”) exceeds the Combined Group’s [ANNUAL BASELINE OI] ([WEIGHT %] weighting); and (ii) the extent to which the Combined Group’s non-GAAP return on invested capital (“ROIC”) at the end of the Performance Cycle compares to the performance goals for such period ([WEIGHT %] weighting); and (iii) as modified at the end of the Performance Cycle for the Company’s Relative Total Shareholder Return, in accordance with this Exhibit. All OI and/or ROIC figures referred to herein along with any figures used to obtain OI and/or ROIC are determined on a non-GAAP basis as set forth herein.
+
+  
+
+
+[PERFORMANCE-BASED CRITERIA FOR AWARD] 
+
+  
+
+
+  
+
+
+7
+
+  
+
+
+  
+

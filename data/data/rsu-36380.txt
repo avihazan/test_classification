@@ -1,0 +1,177 @@
+Exhibit 10.8 
+
+MSC.SOFTWARE CORPORATION 
+
+2006 PERFORMANCE INCENTIVE PLAN 
+
+
+
+THIS INCENTIVE STOCK OPTION AGREEMENT (this “Option Agreement”) dated _____________________ by and between MSC.SOFTWARE CORPORATION, a Delaware corporation (the “Corporation”), and ___________________________ (the “Grantee”) evidences the incentive stock option (the “Option”) granted by the Corporation to the Grantee as to the number of shares of the Corporation’s Common Stock first set forth below.   
+  
+Number of Shares of Common Stock:1
+
+Award Date:   
+Exercise Price per Share:1 $ Expiration Date:1,2  
+Vesting1,2 The Option shall become vested as to 25% of the total number of shares of Common Stock subject to the Option on the first anniversary of the Award Date. The remaining 75% of the total number of shares of Common Stock subject to the Option shall become vested and exercisable as to an additional 25% on and after each of the second, third and fourth anniversaries of the Award Date.  
+  
+The Option is granted under the MSC.Software Corporation 2006 Performance Incentive Plan (the “Plan”) and subject to the Terms and Conditions of Incentive Stock Option (the “Terms”) attached to this Option Agreement (incorporated herein by this reference) and to the Plan. The Option has been granted to the Grantee in addition to, and not in lieu of, any other form of compensation otherwise payable or to be paid to the Grantee. The Option is intended as an incentive stock option within the meaning of Section 422 of the Code (an “ISO”). Capitalized terms are defined in the Plan if not defined herein. The parties agree to the terms of the Option set forth herein. The Grantee acknowledges receipt of a copy of the Terms, the Plan and the Prospectus for the Plan.   
+  
+“GRANTEE”
+
+MSC.SOFTWARE CORPORATION
+
+a Delaware corporation  
+  
+By:  
+Signature  
+Print Name:  
+Print Name  
+Title:  
+  
+CONSENT OF SPOUSE 
+
+In consideration of the Corporation’s execution of this Option Agreement, the undersigned spouse of the Grantee agrees to be bound by all of the terms and provisions hereof and of the Plan.   
+  
+Signature of Spouse
+
+Date  
+  
+* * *
+
+1
+
+Subject to adjustment under Section 7.1 of the Plan.   
+  
+2
+
+Subject to early termination under Section 4 of the Terms and Section 7.4 of the Plan.   
+  
+* * *
+
+TERMS AND CONDITIONS OF INCENTIVE STOCK OPTION 
+
+1\. Vesting; Limits on Exercise.
+
+The Option shall vest and become exercisable in percentage installments of the aggregate number of shares subject to the Option as set forth on the cover page of this Option Agreement. The Option may be exercised only to the extent the Option is vested and exercisable. 
+
+•
+
+Cumulative Exercisability. To the extent that the Option is vested and exercisable, the Grantee has the right to exercise the Option (to the extent not previously exercised), and such right shall continue, until the expiration or earlier termination of the Option.   
+  
+•
+
+No Fractional Shares. Fractional share interests shall be disregarded, but may be cumulated.   
+  
+•
+
+Minimum Exercise. No fewer than 1001 shares of Common Stock may be purchased at any one time, unless the number purchased is the total number at the time exercisable under the Option.   
+  
+•
+
+ISO Value Limit. If the aggregate fair market value of the shares with respect to which ISOs (whether granted under the Option or otherwise) first become exercisable by the Grantee in any calendar year exceeds $100,000, as measured on the applicable Award Dates, the limitations of Section 5.1.2 of the Plan shall apply and to such extent the Option will be rendered a nonqualified stock option.   
+  
+2\. Continuance of Employment/Service Required; No Employment/Service Commitment. 
+
+The vesting schedule requires continued employment or service through each applicable vesting date as a condition to the vesting of the applicable installment of the Option and the rights and benefits under this Option Agreement. Employment or service for only a portion of the vesting period, even if a substantial portion, will not entitle the Grantee to any proportionate vesting or avoid or mitigate a termination of rights and benefits upon or following a termination of employment or services as provided in Section 4 below or under the Plan. 
+
+Nothing contained in this Option Agreement or the Plan constitutes a continued employment or service commitment by the Corporation or any of its Subsidiaries, affects the Grantee’s status, if he or she is an employee, as an employee at will who is subject to termination without cause, confers upon the Grantee any right to remain employed by or in service to the Corporation or any Subsidiary, interferes in any way with the right of the Corporation or any Subsidiary at any time to terminate such employment or service, or affects the right of the Corporation or any Subsidiary to increase or decrease the Grantee’s other compensation. 
+
+* * *
+
+3\. Method of Exercise of Option. 
+
+The Option shall be exercisable by the delivery to the Chief Financial Officer of the Corporation (or such other person as the Administrator may require pursuant to such administrative exercise procedures as the Administrator may implement from time to time) of 
+
+•
+
+a written notice stating the number of shares of Common Stock to be purchased pursuant to the Option or by the completion of such other administrative exercise procedures as the Administrator may require from time to time;   
+  
+•
+
+payment in full for the Exercise Price of the shares to be purchased in cash, check or by electronic funds transfer to the Corporation, or (subject to compliance with all applicable laws, rules, regulations and listing requirements and further subject to such rules as the Administrator may adopt as to any non-cash payment) in shares of Common Stock already owned by the Grantee, valued at their fair market value on the exercise date, provided, however, that any shares initially acquired upon exercise of a stock option or otherwise from the Corporation must have been owned by the Grantee for at least six (6) months before the date of such exercise;   
+  
+•
+
+any written statements or agreements required pursuant to Section 8.1 of the Plan; and   
+  
+•
+
+satisfaction of the tax withholding provisions of Section 8.5 of the Plan.   
+  
+The Administrator also may, but is not required to, authorize a non-cash payment alternative by notice and third party payment in such manner as may be authorized by the Administrator. 
+
+The Option will qualify as an ISO only if it meets all of the applicable requirements of the Code. The Option may be rendered a nonqualified stock option if the Administrator permits the use of one or more of the non-cash payment alternatives referenced above. 
+
+4\. Early Termination of Option. 
+
+4.1 Possible Termination of Option upon Change in Control. The Option is subject to termination in connection with a Change in Control Event or certain similar reorganization events as provided in Section 7.4 of the Plan. 
+
+4.2 Termination of Option upon a Termination of Grantee’s Employment or Services. Subject to earlier termination on the Expiration Date of the Option or pursuant to Section 4.1 above, if the Grantee ceases to be employed by or ceases to provide services to the Corporation or a Subsidiary, the following rules shall apply (the last day that the Grantee is employed by or provides services to the Corporation or a Subsidiary is referred to as the Grantee’s “Severance Date”): 
+
+•
+
+other than as expressly provided below in this Section 4.2, (a) the Grantee will have until the date that is 3 months after his or her Severance Date to exercise the Option (or portion thereof) to the extent that it was vested on the Severance Date, (b) the Option, to the extent not vested on the Severance Date, shall terminate on the Severance Date, and (c) the Option, to the extent exercisable for the 3-month period following the Severance Date and not exercised during such period, shall terminate at the close of business on the last day of the 3-month period;   
+  
+* * *
+
+•
+
+if the termination of the Grantee’s employment or services is the result of the Grantee’s death or Total Disability (as defined below), (a) the Grantee (or his beneficiary or personal representative, as the case may be) will have until the date that is 12 months after the Grantee’s Severance Date to exercise the Option, (b) the Option, to the extent not vested on the Severance Date, shall terminate on the Severance Date, and (c) the Option, to the extent exercisable for the 12-month period following the Severance Date and not exercised during such period, shall terminate at the close of business on the last day of the 12-month period;   
+  
+•
+
+if the Grantee’s employment or services are terminated by the Corporation or a Subsidiary for Cause (as defined below), the Option (whether vested or not) shall terminate on the Severance Date.   
+  
+For purposes of the Option, “Total Disability” means a “permanent and total disability” (within the meaning of Section 22(e)(3) of the Code or as otherwise determined by the Administrator). 
+
+For purposes of the Option, “Cause” means that the Grantee: 
+
+(1) has been negligent in the discharge of his or her duties to the Corporation or any of its Subsidiaries, has refused to perform stated or assigned duties or is incompetent in or (other than by reason of a disability or analogous condition) incapable of performing those duties;   
+  
+(2) has been dishonest or committed or engaged in an act of theft, embezzlement or fraud, a breach of confidentiality, an unauthorized disclosure or use of inside information, customer lists, trade secrets or other confidential information; has breached a fiduciary duty, or willfully and materially violated any other duty, law, rule, regulation or policy of the Corporation, any of its Subsidiaries or any affiliate of the Corporation or any of its Subsidiaries; or has been convicted of a felony or misdemeanor (other than minor traffic violations or similar offenses);   
+  
+(3) has materially breached any of the provisions of any agreement with the Corporation, any of its Subsidiaries or any affiliate of the Corporation or any of its Subsidiaries; or   
+  
+(4) has engaged in unfair competition with, or otherwise acted intentionally in a manner injurious to the reputation, business or assets of, the Corporation, any of its Subsidiaries or any affiliate of the Corporation or any of its Subsidiaries; has improperly induced a vendor or customer to break or terminate any contract with the Corporation, any of its Subsidiaries or any affiliate of the Corporation or any of its Subsidiaries; or has induced a principal for whom the Corporation, any of its Subsidiaries or any affiliate of the Corporation or any of its Subsidiaries acts as agent to terminate such agency relationship.   
+  
+* * *
+
+In all events the Option is subject to earlier termination on the Expiration Date of the Option or as contemplated by Section 4.1. The Administrator shall be the sole judge of whether the Grantee continues to render employment or services for purposes of this Option Agreement. 
+
+Notwithstanding any post-termination exercise period provided for herein or in the Plan, the Option will qualify as an ISO only if it is exercised within the applicable exercise periods for ISOs under, and meets all of the other requirements of, the Code. If the Option is not exercised within the applicable exercise periods for ISOs or does not meet such other requirements, the Option will be rendered a nonqualified stock option. 
+
+5\. Non-Transferability. 
+
+The Option and any other rights of the Grantee under this Option Agreement or the Plan are nontransferable and exercisable only by the Grantee, except as set forth in Section 5.7 of the Plan. 
+
+6\. Notices. 
+
+Any notice to be given under the terms of this Option Agreement shall be in writing and addressed to the Corporation at its principal office to the attention of the Secretary, and to the Grantee at the address last reflected on the Corporation’s payroll records, or at such other address as either party may hereafter designate in writing to the other. Any such notice shall be delivered in person or shall be enclosed in a properly sealed envelope addressed as aforesaid, registered or certified, and deposited (postage and registry or certification fee prepaid) in a post office or branch post office regularly maintained by the United States Government. Any such notice shall be given only when received, but if the Grantee is no longer employed by the Corporation or a Subsidiary, shall be deemed to have been duly given five business days after the date mailed in accordance with the foregoing provisions of this Section 6. 
+
+7\. Plan. 
+
+The Option and all rights of the Grantee under this Option Agreement are subject to the terms and conditions of the Plan, incorporated herein by this reference. The Grantee agrees to be bound by the terms of the Plan and this Option Agreement (including these Terms). The Grantee acknowledges having read and understanding the Plan, the Prospectus for the Plan, and this Option Agreement. Unless otherwise expressly provided in other sections of this Option Agreement, provisions of the Plan that confer discretionary authority on the Board or the Administrator do not and shall not be deemed to create any rights in the Grantee unless such rights are expressly set forth herein or are otherwise in the sole discretion of the Board or the Administrator so conferred by appropriate action of the Board or the Administrator under the Plan after the date hereof. 
+
+8\. Entire Agreement. 
+
+This Option Agreement (including these Terms) and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Option Agreement may be amended pursuant to Section 8.6 of the Plan. Such amendment must be in writing and 
+
+* * *
+
+signed by the Corporation. The Corporation may, however, unilaterally waive any provision hereof in writing to the extent such waiver does not adversely affect the interests of the Grantee hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof. 
+
+9\. Governing Law. 
+
+This Option Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Delaware without regard to conflict of law principles thereunder. 
+
+10\. Effect of this Agreement. 
+
+Subject to the Corporation’s right to terminate the Option pursuant to Section 7.4 of the Plan, this Option Agreement shall be assumed by, be binding upon and inure to the benefit of any successor or successors to the Corporation. 
+
+11\. Counterparts. 
+
+This Option Agreement may be executed simultaneously in any number of counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. 
+
+12\. Section Headings. 
+
+The section headings of this Option Agreement are for convenience of reference only and shall not be deemed to alter or affect any provision hereof. 

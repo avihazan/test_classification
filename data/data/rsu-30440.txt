@@ -1,0 +1,726 @@
+  
+
+
+  
+
+
+Exhibit 10.3
+
+  
+
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+
+
+  
+
+
+PERFORMANCE SHARE AWARD AGREEMENT
+
+  
+
+
+  
+
+
+[date]
+
+  
+
+
+  
+
+
+«name»
+
+«streetaddress»
+
+«citystzip»
+
+  
+
+
+In accordance with the terms of the MDU Resources Group, Inc. Long-Term Performance-Based Incentive Plan (the "Plan"), pursuant to action of the Compensation Committee of the Board of Directors of MDU Resources Group, Inc. (the "Committee"), MDU Resources Group, Inc. (the "Company") hereby grants to you (the "Participant") Performance Shares (the "Award"), subject to the terms and conditions set forth in this Award Agreement (including Annexes A and B hereto and all documents incorporated herein by reference), as set forth below:
+
+  
+  
+  
+Target Award:
+
+«shares» Performance Shares (the "Target Award")  
+  
+Performance Period:
+
+January 1, 20** through December 31, 20** 
+
+[three years](the "Performance Period")  
+  
+Date of Grant:
+
+[**]  
+  
+Dividend Equivalents:
+
+Yes  
+  
+  
+
+
+THESE PERFORMANCE SHARES ARE SUBJECT TO FORFEITURE AS PROVIDED HEREIN. THIS AWARD AND AMOUNTS RECEIVED IN CONNECTION WITH THIS AWARD ARE ALSO SUBJECT TO FORFEITURE, RECAPTURE OR OTHER ACTION IN THE EVENT OF AN ACCOUNTING RESTATEMENT, AS PROVIDED IN THE PLAN.
+
+  
+
+
+Further terms and conditions of the Award are set forth in Annexes A and B hereto, which are integral parts of this Award Agreement.
+
+  
+
+
+  
+
+
+1
+
+  
+
+
+* * *
+
+  
+
+
+All terms, provisions and conditions applicable to the Award set forth in the Plan and not set forth in this Award Agreement are hereby incorporated herein by reference. To the extent any provision hereof is inconsistent with a provision of the Plan, the provisions of the Plan will govern. The Participant hereby acknowledges receipt of a copy of this Award Agreement, including Annexes A and B hereto, and a copy of the Plan and agrees to be bound by all the terms and provisions hereof and thereof.  
+  
+MDU RESOURCES GROUP, INC.  
+  
+  
+
+
+  
+  
+  
+By:  
+  
+Name  
+  
+Title  
+  
+  
+
+
+  
+
+
+Agreed :
+
+  
+
+
+  
+
+
+  
+  
+  
+Participant  
+  
+Attachments:
+
+Annex A  
+  
+Annex B  
+  
+  
+
+
+  
+
+
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+ANNEX A
+
+  
+
+
+TO
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+LONG-TERM PERFORMANCE-BASED INCENTIVE PLAN
+
+  
+
+
+PERFORMANCE SHARE AWARD AGREEMENT
+
+  
+
+
+It is understood and agreed that the Award of Performance Shares evidenced by the Award Agreement to which this is annexed is subject to the following additional terms and conditions.
+
+  
+
+
+1\. Nature of Award. The Target Award represents the opportunity to receive shares of Company common stock, $1.00 par value ("Shares") and Dividend Equivalents on such Shares. The number of Shares that may be earned under this Award shall be determined pursuant to Section 2 hereof. The amount of Dividend Equivalents that may be earned under this Award shall be determined pursuant to Section 4 hereof. Except for Dividend Equivalents, which are paid in cash, Awards will be paid in Shares.
+
+  
+
+
+2A. Determination of Number of Shares Earned.
+
+  
+
+
+Subject to the provisions of Section 2B below, the number of Shares earned, if any, for the Performance Period shall be determined in accordance with the following formula:
+
+  
+
+
+# of Shares = Payout Percentage X Target Award
+
+  
+
+
+The "Payout Percentage" is based on the Company's total shareholder return ("TSR") relative to that of the Peer Group listed on Annex B (the "Percentile Rank") for the Performance Period, determined in accordance with the following table:
+
+  
+  
+  
+Percentile Rank
+
+Payout Percentage
+
+(% of Target Award)  
+  
+75th or higher
+
+200%  
+  
+50th
+
+100%  
+  
+25th
+
+20%  
+  
+less than 25th
+
+0%  
+  
+  
+
+
+If the Company achieves a Percentile Rank between the 25th and 50th percentiles, the Payout Percentage shall be equal to 20%, plus 3.2% for each Percentile Rank whole percentage above the 25th percentile. If the Company achieves a Percentile Ranking between the 50th and 75th percentiles, the Payout Percentage shall be equal to 100%, plus 4.0% for each Percentile Rank whole percentage above the 50th percentile. 
+
+  
+
+
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+If the Company’s TSR for the Performance Period is negative, the number of shares otherwise earned, if any, for the Performance Period will be reduced in accordance with the following table:
+
+  
+  
+  
+TSR
+
+Reduction In Award  
+  
+0% through -5%
+
+50%  
+  
+-5.01% through -10%
+
+60%  
+  
+-10.01% through -15%
+
+70%  
+  
+-15.01% through -20%
+
+80%  
+  
+-20.01% through -25%
+
+90%  
+  
+-25.01% or below
+
+100%  
+  
+  
+
+
+The Percentile Rank of a given company's TSR is defined as the percentage of the Peer Group companies' returns falling at or below the given company's TSR. The formula for calculating the Percentile Rank follows:  
+  
+Percentile Rank = (n - r + 1)/n x 100  
+  
+Where:  
+  
+n =
+
+total number of companies in the Peer Group, including the Company  
+  
+r =
+
+the numeric rank of the Company's TSR relative to the Peer Group, where the highest
+
+return in the group is ranked number 1  
+  
+To illustrate, if the Company's TSR is the third highest in the Peer Group comprised of 23 companies, its Percentile Rank would be 91. The calculation is: (23 - 3 + 1)/23 x 100 = 91.
+
+The Percentile Rank shall be rounded to the nearest whole percentage.
+
+  
+
+
+If the common stock of a company in the Peer Group ceases to be traded during the Performance Period, the company will be deleted from the Peer Group. Percentile Rank will be calculated without regard to the return of the deleted company.
+
+  
+
+
+If the Company or a company in the Peer Group spins off a segment of its business, the shares of the spun-off entity will be treated as a cash dividend that is reinvested in the Company or the company in the Peer Group.
+
+  
+
+
+Total shareholder return is the percentage change in the value of an investment in the common stock of a company from the initial investment made on the last trading day in the calendar year preceding the beginning of the performance period through the last trading day in the final year of the performance period. It is assumed that dividends are reinvested in additional shares of common stock at the frequency paid.
+
+  
+
+
+All Performance Shares that are not earned for the Performance Period shall be forfeited. 
+
+  
+
+
+  
+
+
+4
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+2B. Determination of Number of Shares Earned Upon a Disposition of Fidelity.
+
+  
+
+
+If during the Performance Period (i) not less than 75 percent of the assets as of December 31, 2014 of Fidelity Exploration & Production Company ("Fidelity") as reported in the Company’s Annual Report on Form 10-K for the year ended December 31, 2014 (the "Asset Threshold"), is disposed of or (ii) not less than 100 percent of the common stock of Fidelity owned by WBI Holdings, Inc. as of December 31, 2014 (the "Stock Threshold") is disposed of, in either case in one or more transactions and to a person or persons not consolidated with the Company for SEC reporting purposes, the provisions of this Section 2B shall apply instead of the provisions of Section 2A above.
+
+  
+
+
+The following companies shall be removed from the Peer Group listed on Annex B as of the end of the last day of the month (the "Adjustment Date") immediately preceding the month during which occurs the closing of the last transaction that causes the Asset Threshold or the Stock Threshold, as the case may be, to have been met: Bill Barrett Corporation and SM Energy Company. The Peer Group as so adjusted shall be referred to as the "Adjusted Peer Group."
+
+  
+
+
+The number of Shares earned, if any, for the Performance Period shall be determined in accordance with the following formula:
+
+  
+
+
+# of Shares = Payout Percentage X Target Award
+
+  
+
+
+The "Payout Percentage" is based on the Company's total shareholder return ("TSR") relative to that of the Peer Group and the Adjusted Peer Group (the "Percentile Rank") for the Performance Period, determined in accordance with the following table:
+
+  
+  
+  
+Percentile Rank
+
+Payout Percentage
+
+(% of Target Award)  
+  
+75th or higher
+
+200%  
+  
+50th
+
+100%  
+  
+25th
+
+20%  
+  
+less than 25th
+
+0%  
+  
+  
+
+
+If the Company achieves a Percentile Rank between the 25th and 50th percentiles, the Payout Percentage shall be equal to 20%, plus 3.2% for each Percentile Rank whole percentage above the 25th percentile. If the Company achieves a Percentile Ranking between the 50th and 75th percentiles, the Payout Percentage shall be equal to 100%, plus 4.0% for each Percentile Rank whole percentage above the 50th percentile. 
+
+  
+
+
+  
+
+
+  
+
+
+5
+
+  
+
+
+* * *
+
+  
+
+
+If the Company’s TSR for the entire Performance Period is negative, the number of shares otherwise earned, if any, for the Performance Period will be reduced in accordance with the following table:
+
+  
+  
+  
+TSR
+
+Reduction In Award  
+  
+0% through -5%
+
+50%  
+  
+-5.01% through -10%
+
+60%  
+  
+-10.01% through -15%
+
+70%  
+  
+-15.01% through -20%
+
+80%  
+  
+-20.01% through -25%
+
+90%  
+  
+-25.01% or below
+
+100%  
+  
+  
+
+
+The Percentile Rank of a given company's TSR is defined as the percentage of the Peer Group or Adjusted Peer Group companies' returns falling at or below the given company's TSR. The formula for calculating the Percentile Rank follows:
+
+  
+  
+  
+Percentile Rank = (((n - r + 1)/n x 100) x m/36) + (((na – ra + 1)/na x 100) x ma/36)  
+  
+Where:  
+  
+n =
+
+total number of companies in the Peer Group, including the Company  
+  
+na =
+
+total number of companies in the Adjusted Peer Group, including the Company  
+  
+r =
+
+the numeric rank of the Company's TSR relative to the Peer Group for the period beginning on the first day of the Performance Period and ending on the Adjustment Date, where the highest return in the group is ranked number 1  
+  
+ra =
+
+the numeric rank of the Company's TSR relative to the Adjusted Peer Group for the period beginning on the day after the Adjustment Date and ending on the last day of the Performance Period, where the highest return in the group is ranked number 1  
+  
+m =
+
+the number of whole months in the period beginning on the first day of the Performance Period and ending on the Adjustment Date  
+  
+ma =
+
+36 - m  
+  
+To illustrate, if (i) the Adjustment Date occurs at the end of the 12th month of the Performance Period, (ii) the Company's TSR is the third highest in the Peer Group comprised of 23 companies for the first 12 months of the Performance Period and (iii) the Company’s TSR is the 8th highest in the Adjusted Peer Group comprised of 18 companies for the remaining 24 months of the Performance Period, then the Company’s Percentile Rank for the entire Performance Period would be 71. The calculation is: (23 - 3 + 1)/23 x 100 x 12/36 plus (18 - 8 + 1)/18 x 100 x 24/36 = 71.
+
+  
+
+
+  
+
+
+6
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+The Percentile Rank shall be rounded to the nearest whole percentage.
+
+  
+
+
+If, on or before the Adjustment Date during the Performance Period, the common stock of a company in the Peer Group ceases to be traded, the company will be deleted from the Peer Group and the Adjusted Peer Group. If, after the Adjustment Date during the Performance Period, the common stock of a company in the Adjusted Peer Group ceases to be traded, the company will be deleted from the Adjusted Peer Group. Percentile Rank will be calculated without regard to the return of any company so deleted from the Peer Group and/or the Adjusted Peer Group.
+
+  
+
+
+If, on or before the Adjustment Date during the Performance Period, the Company or a company in the Peer Group spins off a segment of its business, the shares of the spun-off entity will be treated as a cash dividend that is reinvested in the Company or the company in the Peer Group during that period. If, after the Adjustment Date during the Performance Period, the Company or a company in the Adjusted Peer Group spins off a segment of its business, the shares of the spun-off entity will be treated as a cash dividend that is reinvested in the Company or the company in the Adjusted Peer Group during that period. 
+
+  
+
+
+Total shareholder return for the entire performance period is the percentage change in the value of an investment in the common stock of a company from the initial investment made on the last trading day in the calendar year preceding the beginning of the performance period through the last trading day in the final year of the performance period. To the extent total shareholder return is calculated for a portion of the performance period ending on the Adjustment Date, it shall be the percentage change in the value of an investment in the common stock of a company from the initial investment made on the last trading day in the calendar year preceding the beginning of the performance period through the last trading day in the month in which occurs the Adjustment Date. To the extent total shareholder return is calculated for a portion of the performance period beginning on the day after the Adjustment Date, it shall be the percentage change in the value of an investment in the common stock of a company from the initial investment made on the last trading day in the month in which occurs the Adjustment Date through the last trading day in the final year of the performance period. It is assumed that dividends are reinvested in additional shares of common stock at the frequency paid.
+
+  
+
+
+All Performance Shares that are not earned for the Performance Period shall be forfeited. 
+
+  
+
+
+3\. Issuance of Shares and Mandatory Holding Period. Subject to any restrictions on distributions of Shares under the Plan, and subject to Section 6 of this Annex A, the Shares earned under the Award, if any, shall be issued to the Participant as soon as practicable (but no later than the next March 10) following the close of the Performance Period. The Participant shall retain 50% of the net after-tax Shares that are earned under this Award until the earlier of (i) the end of the two-year period commencing on the date any Shares earned under this Award are issued and (ii) the Participant’s termination of employment.
+
+  
+
+
+  
+
+
+  
+
+
+7
+
+  
+
+
+* * *
+
+  
+
+
+4\. Dividend Equivalents. Dividend Equivalents shall be earned with respect to any Shares issued to the Participant pursuant to this Award. The amount of Dividend Equivalents earned shall be equal to the total dividends declared on a Share between the Date of Grant of this Award and the last day of the Performance Period, multiplied by the number of Shares issued to the Participant pursuant to the Award Agreement. Any Dividend Equivalents earned shall be paid in cash to the Participant when the Shares to which they relate are issued or as soon as practicable thereafter, but no later than the next March 10 following the close of the Performance Period. If the Award is forfeited or if no Shares are issued, no Dividend Equivalents shall be paid.
+
+5\. Termination of Employment.
+
+(a) If the Participant's employment with the Company is terminated during the Performance Period (i) for "Cause" (as defined below) at any time or (ii) for any reason other than "Cause" before the Participant, as of the effective date of termination, has reached age 55 and completed 10 "Years of Service" (as defined below), all Performance Shares (and related Dividend Equivalents) shall be forfeited.
+
+(b) If the Participant's employment with the Company is terminated for any reason other than "Cause" after the Participant, as of the effective date of termination, has reached age 55 and completed 10 "Years of Service" (i) during the first year of the Performance Period, all Performance Shares (and related Dividend Equivalents) shall be forfeited; (ii) during the second year of the Performance Period, determination of the Company's Percentile Rank for the Performance Period will be made by the Committee at the end of the Performance Period, and Shares (and related Dividend Equivalents) earned, if any, will be paid based on the Payout Percentage, prorated for the number of full months elapsed from and including the month in which the Performance Period began to and including the month in which the termination of employment occurs; and (iii) during the third year of the Performance Period, determination of the Company's Percentile Rank for the Performance Period will be made by the Committee at the end of the Performance Period, and Shares (and related Dividend Equivalents) earned, if any, will be paid based on the Payout Percentage without prorating.
+
+  
+
+
+(c) For purposes of the Award Agreement, the term "Cause" shall mean the Participant's fraud or dishonesty that has resulted or is likely to result in material economic damage to the Company or a Subsidiary, or the Participant's willful nonfeasance if such nonfeasance is not cured within ten days of written notice from the Company or a Subsidiary, as determined in good faith by a vote of at least two-thirds of the non-employee directors of the Company at a meeting of the Board at which the Participant is provided an opportunity to be heard. For purposes of the Award Agreement, the term "Years of Service" shall mean the years a Participant is employed by the Company and/or a Subsidiary.
+
+  
+
+
+6\. Tax Withholding. Pursuant to Article 16 of the Plan, the Committee shall have the power and the right to deduct or withhold, or require the Participant to remit to the Company, an amount sufficient to satisfy any Federal, state and local taxes (including the Participant's FICA obligations) required by law to be withheld with respect to the Award. The Committee may condition the delivery of Shares upon the Participant's satisfaction of such withholding obligations. The Participant may elect to satisfy all or part of such withholding requirement by tendering previously-owned Shares or by having the Company withhold Shares having a Fair 
+
+  
+
+
+  
+
+
+8
+
+  
+
+
+* * *
+
+  
+
+
+Market Value equal to the minimum statutory withholding that could be imposed on the transaction (based on minimum statutory withholding rates for Federal, state and local tax purposes, as applicable, including payroll taxes, that are applicable to such supplemental taxable income). Such election shall be irrevocable, made in writing, signed by the Participant, and shall be subject to any restrictions or limitations that the Committee, in its sole discretion, deems appropriate.
+
+  
+
+
+7\. Ratification of Actions. By accepting the Award or other benefit under the Plan, the Participant and each person claiming under or through him or her shall be conclusively deemed to have indicated the Participant's acceptance and ratification of, and consent to, any action taken under the Plan or the Award by the Company, its Board of Directors, or the Committee.
+
+  
+
+
+8\. Notices. Any notice hereunder to the Company shall be addressed to its office, 1200 West Century Avenue, P.O. Box 5650, Bismarck, North Dakota 58506; Attention: Corporate Secretary, and any notice hereunder to the Participant shall be addressed to him or her at the address specified on the Award Agreement, subject to the right of either party to designate at any time hereafter in writing some other address.
+
+  
+
+
+9\. Definitions. Capitalized terms not otherwise defined herein or in the Award Agreement shall have the meanings given them in the Plan.
+
+  
+
+
+10\. Governing Law and Severability. To the extent not preempted by Federal law, the Award Agreement will be governed by and construed in accordance with the laws of the State of Delaware, without regard to conflicts of law provisions. In the event any provision of the Award Agreement shall be held illegal or invalid for any reason, the illegality or invalidity shall not affect the remaining parts of the Award Agreement, and the Award Agreement shall be construed and enforced as if the illegal or invalid provision had not been included.
+
+11\. No Rights to Continued Employment. The Award Agreement is not a contract of employment. Nothing in the Plan or in the Award Agreement shall interfere with or limit in any way the right of the Company or any Subsidiary to terminate the Participant's employment at any time, for any reason or no reason, or confer upon the Participant the right to continue in the employ of the Company or a Subsidiary.
+
+  
+
+
+  
+
+
+9
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+ANNEX B
+
+  
+
+
+TO
+
+  
+
+
+MDU RESOURCES GROUP, INC.
+
+LONG-TERM PERFORMANCE-BASED INCENTIVE PLAN
+
+  
+
+
+PERFORMANCE SHARE AWARD AGREEMENT
+
+  
+
+
+PEER GROUP COMPANIES
+
+  
+
+
+  
+
+
+ALLETE, Inc.
+
+Alliant Energy Corporation
+
+Atmos Energy Corporation
+
+Avista Corporation
+
+Bill Barrett Corporation
+
+Black Hills Corporation
+
+EMCOR Group Inc.
+
+Granite Construction Incorporated
+
+IDACORP, Inc.
+
+Integrated Electrical Services, Inc.
+
+Markwest Energy Partners, L.P.
+
+Martin Marietta Materials, Inc.
+
+MYR Group Inc.
+
+National Fuel Gas Company
+
+Northwest Natural Gas Company
+
+NorthWestern Corporation
+
+Quanta Services, Inc.
+
+Questar Corporation
+
+Sterling Construction Company
+
+SM Energy Company
+
+U.S. Concrete, Inc.
+
+Vectren Corporation
+
+Vulcan Materials Company
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+10
+
+  
+

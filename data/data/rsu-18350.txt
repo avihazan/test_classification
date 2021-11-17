@@ -1,0 +1,140 @@
+EXHIBIT 10.2 
+
+VANGUARD HEALTH SYSTEMS, INC. 
+
+
+(Performance Vesting RSU — EBITDA) 
+
+THIS AGREEMENT (the “Agreement”), is made effective as of the _____ day of _____, 201_, (hereinafter called the “Date of Grant”), between Vanguard Health Systems, Inc., a Delaware corporation (hereinafter called the “Company”), and _____ (hereinafter called the “Participant”). 
+
+R E C I T A L S: 
+
+WHEREAS, the Company has adopted the Vanguard Health Systems, Inc. 2011 Stock Incentive Plan, as amended (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and 
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its shareholders to grant the restricted stock units provided for herein (the “RSUs”) to the Participant pursuant to the Plan and the terms set forth herein. 
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties agree as follows: 
+
+1\. Grant of the RSUs. The Company hereby grants to the Participant, on the terms and conditions hereinafter set forth, an opportunity to earn RSUs based on the extent to which the performance goals set forth herein are met, subject to adjustment as set forth in the Plan. The base number (“Base Number”) of RSUs granted hereunder is _____ RSUs. Subject to the vesting terms set forth in Section 2 below, following completion of the Company’s fiscal year ending June 30, 2012 (the “Performance Period”), the Participant shall become eligible to vest in a number of RSUs, if any, determined by multiplying the Base Number of RSUs by a performance multiplier which shall either be zero or range from 50% to 150% (the “Performance Multiplier”), depending on the extent to which the performance goals (the “Performance Goals”) set forth in Annex A hereto are achieved (such product, the “Earned RSUs”). The extent to which Performance Goals have been met shall be determined by the Committee as soon as practicable following the end of the Performance Period. 
+
+2\. Vesting/Form and Timing of Issuance or Transfer. 
+
+(a) Subject to the Participant’s continued Employment with the Company, on each of _____, 201_, _____, 201_, _____, 201_____ and _____, 201_____ (each a “Scheduled Vesting Date”) the Earned RSUs, if any, shall vest with respect to a number of Shares equal to 25% of the Earned RSUs. 
+
+* * *
+
+##### 
+
+(b) If the Participant’s Employment with the Company is terminated for any reason, the RSUs (including, without limitation, any Earned RSUs) shall, to the extent not then vested, be canceled by the Company without consideration and no further Shares shall be delivered hereunder. 
+
+(c) Notwithstanding any other provisions of this Agreement to the contrary, (i) in the event of a Change in Control following the end of the Performance Period, the Earned RSUs, if any, shall, to the extent not then vested and not previously canceled, immediately become fully vested and (ii) in the event of a Change in Control prior to the end of the Performance Period, a number of RSUs equal to the number of RSUs that would have become Earned RSUs if the “target” level Performance Goal were achieved shall, to the extent the RSUs were not previously canceled, immediately become fully vested, in each case, in full satisfaction of the Participant’s rights under this Agreement. The date upon which RSUs become vested upon a Change in Control shall be referred to herein as a “Change of Control Vesting Date”. 
+
+(d) On each Scheduled Vesting Date or on the Change of Control Vesting Date (each a “Vesting Date”), as applicable, the Company shall issue or cause there to be transferred to the Participant, a number of Shares equal to the number of RSUs which became vested on such date; provided that, upon the issuance or transfer of Shares to the Participant, in lieu of a fractional Share, the Participant shall receive a cash payment equal to the Fair Market Value of such fractional Share. 
+
+(e) Upon each issuance or transfer of Shares in accordance with Section 2(d) of this Agreement, a number of RSUs equal to the number of Shares issued or transferred to the Participant (including fractional shares settled in cash) shall be extinguished. 
+
+(f) Notwithstanding the foregoing, the Participant’s entitlement to Shares hereunder upon the occurrence of Vesting Date shall be conditioned upon the Participant’s having become a party to the Company’s Stockholders Agreement, dated as of November 4, 2004, as amended (the “Stockholders Agreement”) prior to such Vesting Date. 
+
+3\. No Right to Continued Employment. The granting of the RSUs evidenced hereby and this Agreement shall impose no obligation on the Company or any Affiliate to continue the Employment of the Participant and shall not lessen or affect the Company’s or its Affiliate’s right to terminate the Employment of such Participant. 
+
+4\. No Rights of a Shareholder. The Participant shall not have any rights as a shareholder of the Company (including any rights to accrual or payment of dividends declared on Shares) until, and accruing only from and after, the Shares in question have been registered in the Company’s register of shareholders effective on the applicable Vesting Date. 
+
+5\. Certificates. Upon transfer of Shares underlying RSUs to the Participant hereunder, the Company shall issue certificates in the Participant’s name for such Shares. However, the Company shall not be liable to the Participant for damages relating to any delays in issuing the certificates to him or her, any loss of the certificates, or any mistakes or errors in the issuance of the certificates themselves. The certificates representing the Shares received by the Participant in connection with the settlement of any RSUs hereunder shall be subject to the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed, and any applicable Federal or state laws, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions. Notwithstanding the foregoing, the Company may elect to recognize the Participant’s ownership through uncertificated book entry. 
+
+2
+
+* * *
+
+##### 
+
+6\. Transferability. The RSUs may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. No such permitted transfer of the RSUs to heirs or legatees of the Participant shall be effective to bind the Company unless the Committee shall have been furnished with written notice thereof and a copy of such evidence as the Committee may deem necessary to establish the validity of the transfer and the acceptance by the transferee or transferees of the terms and conditions hereof. 
+
+7\. Withholding. The Participant may be required to pay to the Company or any Affiliate and the Company shall have the right and is hereby authorized to withhold from any payment due or transfer made under the RSUs or under the Plan or from any compensation or other amount owing to a Participant the amount (in cash, Shares, other securities, other Awards or other property) of any applicable withholding taxes in respect of the RSUs, its settlement or any payment or transfer under or with respect to the RSUs or the Plan and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes. 
+
+8\. Securities Laws. Upon the acquisition of any Shares pursuant to settlement of the RSUs, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement. 
+
+9\. Notices. Any notice necessary under this Agreement shall be addressed to the Company in care of its Secretary at the principal executive office of the Company and to the Participant at the address appearing in the personnel records of the Company for the Participant or to either party at such other address as either party hereto may hereafter designate in writing to the other. Any such notice shall be deemed effective upon receipt thereof by the addressee. 
+
+10\. Choice of Law. THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF THE STATE OF DELAWARE WITHOUT REGARD TO CONFLICTS OF LAWS.
+
+3
+
+* * *
+
+##### 
+
+11\. RSUs and Shares Subject to Plan and Stockholders Agreement. By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan and the Stockholders Agreement. The RSUs (and the Shares issuable thereunder) is subject to the Plan and the Stockholders Agreement. The terms and provisions of the Plan and the Stockholders Agreement as it may be amended from time to time are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan or the Stockholders Agreement, the applicable terms and provisions of the Plan or the Stockholders Agreement, as applicable will govern and prevail. In the event of a conflict between any term or provision of the Plan and any term or provision of the Stockholders Agreement, the applicable terms and provisions of the Stockholders Agreement will govern and prevail. 
+
+12\. Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. 
+
+4
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement.   
+  
+VANGUARD HEALTH SYSTEMS, INC.  
+  
+By:   
+  
+Agreed and acknowledged as  
+of the date first above written: 
+
+5
+
+* * *
+
+##### 
+
+Annex A
+
+FY201_ Target Adjusted EBITDA Performance Goal = $_______________
+
+Determination of Performance Multiplier Based on FY201_ Adjusted EBITDA  
+  
+FY201_ Adjusted EBITDA Percent of Target Performance  
+Performance Goals Adjusted EBITDA Multiplier  
+  
+Below $___________
+
+zero  
+  
+$___________
+
+98 % 50 %  
+  
+$___________
+
+99 % 75 %  
+  
+$___________ (Target)
+
+100 % 100 %  
+  
+$___________
+
+101 % 110 %  
+  
+$___________
+
+102 % 120 %  
+  
+$___________
+
+103 % 130 %  
+  
+$___________
+
+104 % 140 %  
+  
+$___________ or above
+
+105 % 150 %  
+  
+As used herein, “FY201_____Adjusted EBITDA” shall mean the Company’s Adjusted EBITDA for the fiscal year ended June 30, 201_____ as set forth in its Annual Report on Form 10-K filed with the Securities and Exchange Commission, subject to any additional adjustments that the Committee may approve in its sole discretion for the purpose of excluding the impact of items deemed to be unusual, unexpected or non-recurring from the determination of the applicable Performance Multiplier. 
+
+If the actual FY201_____ Adjusted EBITDA falls between two of the stated levels above for which a Performance Multiplier would apply, then the applicable Performance Multiplier shall be determined based on the Performance Goal wholly achieved and not by linear interpolation. For example, if FY201_____ Adjusted EBITDA is $_____, then the applicable Performance Multiplier shall be 120%. 
+
+6

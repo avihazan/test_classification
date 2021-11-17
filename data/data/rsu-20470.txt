@@ -1,0 +1,170 @@
+* * *
+
+Exhibit 10.2
+
+
+
+NON-QUALIFIED STOCK OPTION AGREEMENT
+
+NON-QUALIFIED STOCK OPTION AGREEMENT, dated as of ___________, 200__; between KAYDON CORPORATION, a Delaware corporation (the “Corporation”), and _____________________________ (“Optionee”).
+
+The Kaydon Corporation 1999 Long Term Stock Incentive Plan Committee (the Committee), pursuant to the Corporation’s 1999 Long Term Stock Incentive Plan (the Plan), has granted to the Optionee, on the date of this Agreement, an option under the Plan to purchase an aggregate of __________ shares of Common Stock of the Corporation par value $0.10 per share (“Common Stock”). To evidence the option and to set forth its terms and conditions as provided in the Plan, the Corporation and the Optionee agree as follows.
+
+1\. Confirmation of Grant and Price. The Corporation, by this Agreement, evidences and confirms its grant to the Optionee on the date of this Agreement of an option (the Option) to purchase ___________ shares of Common Stock, at an option price of $______ per share. The Option is subject to all of the provisions of the Plan, whether or not explicitly stated in this Agreement, except that the ability of the Board of Directors or the Committee to amend this Agreement without the consent of Optionee is limited as provided in this Agreement.
+
+2\. Term for Exercise. The Option becomes available for exercise, subject to the provisions of this Agreement, as to the percentage of the aggregate number of shares of Common Stock subject to the Option and on the dates set forth below:
+
+(a) Percentage and Date Schedule
+
+Percentage of Number
+
+Date First Available  
+  
+of Shares
+
+for Exercise  
+  
+20%
+
+One year after the date of grant  
+  
+20%
+
+Two years after the date of grant  
+  
+20%
+
+Three years after the date of grant  
+  
+20%
+
+Four years after the date of grant  
+  
+20%
+
+Five years after the date of grant  
+  
+(b) Later Exercise. The right to purchase is cumulative. If the full number of shares exercisable in any period is not exercised, the balance may be exercised at any time or from time to time after that date, as long as the exercise occurs prior to the expiration or termination of the Option.
+
+(c) Expiration. The Option expires________________, 200__.
+
+3\. Non-Qualified Stock Option. The Option evidenced by this Agreement is not intended to be an incentive stock option as that term is defined in Section 422 of the Internal Revenue Code of 1986, as amended (the Code).
+
+* * *
+
+4\. Who May Exercise. During the lifetime of the Optionee, the Option may be exercised only by the Optionee. If the Optionee dies, the Option may be exercised, to the extent provided in Section 5 hereof, by the Optionee’s estate or a person who acquires the right to exercise the Option by bequest or inheritance or by reason of the death of the Optionee.
+
+5\. Exercise After Termination of Employment. Except as explicitly provided below, no part of an Option may be exercised by an Optionee unless the Optionee is then in the employ of the Corporation or any parent or subsidiary and was continuously so employed since the date of the grant. It is not a termination of employment for purposes of this section if the Optionee transfers employment from the Corporation to any subsidiary or vice versa, or from one subsidiary to another, without an intervening period, if the Optionee is absent on sick leave or is granted a leave of absence (not to exceed one year), or if the Optionee changes status to become a consultant to the Corporation or a subsidiary. Termination will include termination by reason of the fact that an entity employing Optionee is no longer a subsidiary of the Company.
+
+(a) General Rules. Unless governed by a special rule, below, the Option terminates on the earlier of the expiration date specified in Section 2 and the date which is 10 days after the date of termination of employment. Unless acceleration of or continued vesting is specifically provided for in this Section 5 or in an Employment Agreement between Optionee and the Corporation which specifically addresses vesting of stock based awards upon termination, vesting of awards shall cease and no further installments of the Option will become exercisable following termination of employment by the Corporation or any parent or subsidiary and the Option shall be exercisable pursuant to the rules set forth in this Section 5 only with respect to the number of shares of Common Stock as to which the Optionee could have exercised the Option at the date of termination. The Board of Directors or the Committee may, in its discretion, amend this Agreement to accelerate the exercisability of any installments of the Option which were not exercisable at the time of the Optionee’s death.
+
+(b) Exceptions for Involuntary Termination and Disability. In the case of involuntary termination of employment or a Disability within the meaning of the Plan or as defined in any employment agreement between Optionee and the Corporation, the Option terminates on the earlier of the expiration date specified in Section 2 and the date which is three months after the date of termination of employment.
+
+(c) Exception for Death. In the case of death, the Option terminates on the earlier of the expiration date specified in Section 2 and the date which is one year from the date of death.
+
+(d) Exception for Retirement. In the case of termination of employment by reason of retirement at or after age 65, the Option will continue to vest in accordance with the Option vesting schedule in effect on the date of retirement and will continue to be exercisable in accordance with its terms as though the Optionee had continued in employment unless otherwise provided in an Employment Agreement between Optionee and the Company.
+
+2
+
+* * *
+
+(e) Termination following Change in Control. If the Optionee is a party to a Change in Control Compensation Agreement or an Employment Agreement which explicitly provides for acceleration of vesting and exercisability of options upon events of termination following a “Change in Control,” the vesting and exercisability of the Option for terminations following a Change in Control (as defined in such other agreement) will be governed by the terms of such Change in Control Compensation Agreement or Employment Agreement to the extent such provisions are different than or conflict with the provisions of this Agreement. Such acceleration is not subject to cancellation under the Plan and is also irrevocable as long as the Optionee is a party to such a Change in Control Compensation Agreement or Employment Agreement.
+
+Notwithstanding the foregoing, if at any time upon or following termination of employment the Committee determines that reason to terminate the Optionee for cause, as defined in the Plan, exists at the time of termination or existed at such time, the Committee may terminate the unexercised portion of the Option concurrently with or at any time following the termination of employment. Further, nothing in the Plan or in this Agreement confers upon the Optionee any right to continue in the employ of the Corporation or any of its affiliates, or interferes in any way with the right of the Corporation or any of its affiliates to terminate the Optionee’s employment at any time during the Option period or otherwise.
+
+6\. Restrictions on Exercise. The Option may be exercised only with respect to full shares. No fractional shares of Common Stock will be issued.
+
+(a) General Limitation. The Option may not be exercised in whole or in part, and no payment by the Corporation shall be made nor shall any certificates representing shares of Common Stock subject to the Option be delivered, if:
+
+i. Governmental Approval. At any time any requisite approval or consent of any governmental authority of any kind having jurisdiction over the exercise of options has not been effectively secured;
+
+ii. Registration. The shares are not effectively registered under the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended; or
+
+iii. Withholding. Applicable federal, state and local tax withholding requirements are not satisfied (including, any taxes arising under Sections 409A or 4999 of the Code).
+
+(b) Representation. The Corporation may require as a condition to the exercise of the Option in whole or in part at any time that the Optionee or any person exercising the Option after the Optionee’s death in accordance with the provisions of Section 4 (the Holder) represent to the Corporation in writing that the shares are being acquired for the Optionee’s or Holder’s own account for investment only and not with a view to distribution or with any present intention of reselling any.
+
+(c) Hardship. The Option is not exercisable for the period of at least twelve (12) months to the extent provided under the hardship distribution provisions of the Kaydon Corporation Employee Stock Ownership and Thrift Plan or other Corporation or affiliate plan to the extent the Optionee receives a hardship distribution from that plan.
+
+3
+
+* * *
+
+7\. Manner of Exercise. To the extent the Option has become and remains exercisable as provided in this Agreement, and subject to any additional administrative regulations the Committee may from time to time adopt, the Option may be exercised from time to time, in whole or in part, by a signed written notice to the Secretary of the Corporation on a form supplied by the Corporation. The notice must specify the number of shares of Common Stock with respect to which the Option is being exercised and be accompanied by full payment of the option price for the shares.
+
+(a) Payment. Payment must be made in:
+
+i. Cash or Shares. Cash; provided, however, that with the consent of the Committee, payment may be made in whole or in part with (A) shares of Common Stock, represented by certificates duly endorsed to the Corporation or its nominees, valued at fair market value, (B) shares of Common Stock otherwise issuable upon exercise of such Option, valued at fair market value, or other awards or property having a fair market value on the exercise date equal to the exercise price;
+
+ii. Instructions. With the consent of the Committee, by delivering with a properly executed exercise notice irrevocable instructions to a third party to promptly deliver to the Corporation the amount of sale or loan proceeds to pay the exercise price;
+
+iii. Combination. With the consent of the Committee, a combination of the above; or
+
+iv. Other. With the consent of the Committee, other consideration.
+
+(b) Prior Holdings Limitation. The option price may not be paid in shares of Common Stock that have been held by the Optionee for less than six months.
+
+4
+
+* * *
+
+(c) Tax Withholding. Prior to the issuance of shares upon exercise of the Option, Optionee must pay or provide for any applicable federal or state withholding obligations of the Corporation (including any taxes arising under Sections 409A or 4999 of the Code). If the Committee allows, Optionee may provide for payment of withholding taxes upon exercise of the Option by (i) requesting that the Corporation retain shares with a fair market value equal to the minimum amount of taxes required to be withheld or (ii) delivering to the Corporation other shares of Common Stock owned by Optionee for a period of at least six months having a fair market value equal to the minimum amount of taxes required to be withheld. In the case of clause (i) above, the Corporation shall issue the net number of shares to the Optionee by deducting the shares retained from the shares issuable upon exercise. Unless otherwise expressly set forth in a written agreement between the Company and the Optionee, neither the Company nor any of its employees, officers, directors, or service providers shall have any obligation whatsoever to pay such taxes, to prevent the Optionee from incurring them, or to mitigate or protect the Optionee from any such tax liabilities. Nevertheless, if the Company reasonably determines that the Optionee’s receipt of payments or benefits pursuant to Section 6 of the Plan as a result of the Optionee’s cessation of employment with the Company constitutes “nonqualified deferred compensation” within the meaning of Section 409A, payment of such amounts shall not commence until the Optionee incur a “separation from service” within the meaning of Treasury Regulation § 1.409A-1(h) (“Separation from Service”). If, at the time of the Optionee’s Separation from Service, the Optionee is a “specified employee” (under Internal Revenue Code Section 409A), any amount that constitutes “nonqualified deferred compensation” within the meaning of Code Section 409A that becomes payable to the Optionee on account of the Optionee’s Separation from Service (including any amounts payable pursuant to the preceding sentence) will not be paid until after the end of the sixth calendar month beginning after the Optionee’s Separation from Service (the “409A Suspension Period”). Within 14 calendar days after the end of the 409A Suspension Period, the Optionee shall be paid a lump sum payment in cash equal to any payments delayed because of the preceding sentence, without interest. Thereafter, the Optionee shall receive any remaining benefits as if there had not been an earlier delay.
+
+(d) Right to Exercise. In the event that the Option is exercised by a person other than the Optionee in accordance with Section 4, the person must furnish to the Corporation evidence satisfactory to it of the person’s right to exercise the Option.
+
+(e) Other Documents. The Corporation may require the Optionee or any other person exercising the Option to furnish or execute any documents the Corporation deems necessary to evidence the exercise or to comply with any requirements of this Agreement, the Plan, or any law.
+
+8\. Non-Assignability. The Option may not be assigned, transferred or hypothecated by the Optionee or other Holder except as provided below:
+
+(a) Acceptable Assignments. Subject to subsection b., the Option may be assigned by the Optionee:
+
+i. Death. By will or by the laws of descent and distribution to the extent provided in Section 4;
+
+ii. Grantor Trust. To a revocable grantor trust established by the Optionee for the Optionee’s sole benefit during the Optionee’s life, subject to the terms of the Plan; or
+
+iii. Other. To a beneficiary designated by the Optionee in writing on a form approved by the Committee.
+
+(b) Limitation. Notwithstanding those general rules, the Option may not be assigned by Optionee if Optionee is a director or officer of the Corporation or an affiliate for purposes of the securities laws, except as permitted under Rule 16b-3 of those laws.
+
+5
+
+* * *
+
+9\. Rights as Shareholders. The Optionee and any other Holder have no rights as a shareholder with respect to any shares covered by the Option until the issuance of a certificate or certificates to the Optionee or other Holder for the shares upon due exercise of the Option. No adjustment will be made for dividends or other rights for which the record date is prior to the issuance of the certificate or certificates.
+
+10\. Capital and Other Adjustments. Subject to compliance with any restrictions under Code Section 409A, in the event of any change in the number of outstanding shares of Common Stock by reason of any stock dividend, cash dividend (other than a regular, quarterly dividend), stock split, combination or exchange of shares, recapitalization, reclassification, merger, consolidation, reorganization, or other similar transaction, the Committee shall make appropriate adjustment to the number, type and/or option price of shares of Common Stock covered by the Option, by means of a grant of a substitute option or an additional option or otherwise. In addition, in the event of any unusual or nonrecurring event affecting the Corporation, any subsidiary, or the financial statements of the corporation or any subsidiary, or of changes in applicable laws, regulations or accounting principles which has the same affect on option holders as the events described in the preceding sentence, the Committee shall adjust the terms and conditions of, and the criteria included in this Agreement if the Committee determines that such adjustments are appropriate to prevent dilution or enlargement of the benefits or potential benefits of the Option.
+
+11\. Change in Control. In the event of a Change in Control (as defined in the Plan), the Option shall vest, shall become exercisable in full and shall no longer be subject to any restrictions which would prevent immediate exercise. In addition, in that circumstance, the Committee as constituted before the Change in Control may, in its sole discretion:
+
+(a) Purchase. Provide for the purchase of the Option for an amount of cash equal to the amount that could have been attained upon exercise had the Option been exercisable at that time;
+
+(b) Adjust. Adjust the Option as the Committee deems appropriate to reflect the Change in Control; and
+
+(c) Cause Assumption. Cause the Option to be assumed, or replaced with a new option, by the acquiring or surviving corporation after the Change in Control.
+
+12\. Legality. The issuance or delivery of any shares of Common Stock pursuant to an Option may be postponed by the Corporation for any period required to comply with any applicable requirements under the Federal securities laws, any applicable listing requirements of any national securities exchange or any requirements under any other applicable law or regulation. The Corporation is not obligated to issue or deliver any shares if the issuance or delivery constitutes, or in the opinion of counsel to the Corporation may constitute, a violation of any provision of any law or of any regulation of any governmental authority or any national securities exchange.
+
+6
+
+* * *
+
+13\. Notice. Notice to the Secretary of the Corporation shall be deemed given if in writing and delivered to the Secretary of the Corporation at the then principal office of the Corporation in accordance with the Sarbanes–Oxley Accounting/Corporate Responsibility Act of 2002 (such Notice must be delivered in a timely manner in order for the Corporation to meet its reporting requirements).
+
+14\. Amendment. The Board of Directors or the Committee may amend the terms and conditions of this Agreement as provided in the Plan, except that, without the consent of the Optionee, no amendment may impair the rights of the Optionee or Holder relating to the Option or amend Sections 5(e), or 11, or this Section 14 of this Agreement. Notwithstanding that, the Option provided in this Agreement may be canceled in the Committee’s sole discretion, as long as the Optionee is not a party to an effective Change in Control Compensation Agreement or Employment Agreement, as described in Section 5 above, upon payment of the value of the Option to the Optionee or Holder in cash or in another Option, and such value may be determined by the Committee in its sole discretion.
+
+15\. Governing Law. The words “exercise”, “subsidiary”, “outstanding” and any other words or terms used in this Agreement which are defined or used in Section 421, 422 or 425 of the Code have the meanings assigned to them in those Sections, unless the context clearly requires otherwise. In all other respects this Agreement shall be construed and enforced in accordance with, and governed by, the laws of the State of Delaware.
+
+Executed ___ day of _____________, effective as of the date first set forth above.
+
+  
+
+
+KAYDON CORPORATION OPTIONEE  
+  
+By   
+  
+Name:   
+  
+Its:   
+  
+7

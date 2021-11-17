@@ -1,0 +1,398 @@
+Exhibit 10.1
+
+
+
+THIS LOAN AGREEMENT (“Agreement”) is made and entered into this 15th day of August, 2007 (“Closing Date”), by and between Anchor Bank Saint Paul, N.A. (“Lender”) and Ballistic Recovery Systems, Inc., a Minnesota corporation (“Borrower”).
+
+NOW, THEREFORE, Lender and Borrower hereby agree as follows:
+
+ARTICLE I
+
+Loan Commitment
+
+Section 1.01: Subject to the terms and conditions hereinafter set forth, Lender agrees to make Advances, as defined below, to Borrower in an aggregate principal amount which shall not exceed at any given time the amount of Eight Hundred Twenty Thousand and no/100ths Dollars (U.S. $820,000.00) (the “Loan”). For purposes of this Agreement, “Advance” shall mean an advance by Lender to Borrower pursuant to Article II hereof.
+
+Section 1.02: The Advances made by Lender shall be evidenced by and payable with interest thereon in accordance with the terms and conditions of that certain promissory note, of even date herewith, in the maximum principal amount of Eight Hundred Twenty Thousand and no/100ths Dollars (U.S. $820,000.00) (the “Note”).
+
+Section 1.03: The payment of the Advances made under the Note shall be secured by, among other things, (i) that certain Security Agreement, of even date herewith, between Lender and Borrower (the “Asset Security Agreement”), encumbering the assets of Borrower, as more fully described in the Asset Security Agreement; and (ii) that certain Security Agreement, of even date herewith, between Lender and Borrower (the “Airplane Security Agreement”), encumbering that certain Cessna airplane owned by Borrower, as more fully described in the Airplane Security Agreement. The Asset Security Agreement and the Airplane Security Agreement are referred to herein collectively as the “Security Agreements”. All collateral described in the Security Agreements is referred to herein collectively as the “Collateral”.
+
+Section 1.04: This Agreement, the Note, the Security Agreements, and any and all related agreements are collectively referred to herein as the “Loan Documents”.
+
+Section 1.05: Notwithstanding anything to the contrary herein the aggregate balance of all Advances outstanding on the Note and owing hereunder and pursuant to the Loan Documents, shall not, except at the sole discretion of Lender, exceed at any one time the sum of Eight Hundred Twenty Thousand and no/100ths Dollars (U.S. $820,000.00).
+
+Section 1.06: Borrower shall use the proceeds of the Loan for Borrower’s business working capital and to reimburse the repayment of all outstanding indebtedness owing to Charles F. Parsons and Aerospace Marketing, Inc.
+
+ARTICLE II
+
+Advances, Disbursements, and Draw Requests
+
+Section 2.01: Advances. Lender agrees, subject to the conditions set forth in this Agreement, to make Advances to the Borrower from time to time prior to the Maturity Date (as defined in the Note) in an aggregate amount not to exceed Eight Hundred Twenty Thousand and no/100ths Dollars (U.S. $820,000.00). The obligation of Borrower to repay the Advances shall be evidenced by the Note. All Advances are secured by the Loan Documents. Notwithstanding any provision of the Note, interest shall
+
+1
+
+  
+
+
+* * *
+
+  
+
+
+be payable at the rates provided therein only on such amounts as actually have been disbursed by Lender pursuant to this Agreement.
+
+Section 2.02: Requests for Advance. Each time Borrower desires to obtain an Advance, Borrower shall submit, to Lender, a request for such Advance (“Request for Advance”), stating the amount requested and the purpose, in terms sufficiently detailed to Lender in its discretion, for which such Advance is to be used. If a request for an Advance is received by 11:00 o’clock a.m. Minnesota time, then, subject to the remaining terms and conditions of this Agreement, such Advance shall be made on the date the request is received. If a request for an Advance is received after 11:00 o’clock a.m. Minnesota time, then, subject to the remaining terms and conditions of this Agreement, such Advance shall be made on the next business day. All funds so advanced under this Agreement for any purpose shall be deemed advanced hereunder, shall be evidenced by and owing under the Note, and shall be secured by the Loan Documents.
+
+Section 2.03: Advances Without Receipt of Request for Advance. Notwithstanding anything herein to the contrary, Lender shall have the irrevocable right, at any time and from time to time, to make Advances hereunder to pay any and all of the reasonable expenses incurred by Lender or otherwise in connection with this Agreement or in connection with the transactions contemplated by this Agreement, including, without limitation, any and all fees for recording fees, insurance premiums, reasonable attorneys’ fees, and all other fees and costs incurred by Lender pursuant to Article IX of this Agreement or otherwise in connection to the transactions contemplated by this Agreement, all without receipt of a Request for Advance or other authorization from Borrower.
+
+Section 2.04: Payments. All payments of principal and interest made by Borrower with respect to the Note shall be made to Lender at 66 Thompson Avenue East, West St. Paul, Minnesota 55118, and in funds there current not later than 5:00 p.m. Central Standard Time on the date such payment is due, or at such other place and time as Lender may otherwise direct. Any payments received after 5:00 p.m. Central Standard Time (or after the time Lender may otherwise direct) shall be deemed received on the following Business Day. For purposes of this Agreement, a “Business Day” shall mean any day which is not a Saturday, Sunday, or bank holiday.
+
+Section 2.05: Prepayment. Notwithstanding anything in this Agreement to the contrary, Borrower may prepay the unpaid principal balance of the Note without penalty or premium.
+
+Section 2.06: Application. Lender, in its sole discretion, may apply any payment received to any obligation of Borrower that is due and payable.
+
+Section 2.07: Advance Rates. Notwithstanding any language to the contrary in any of the Loan Documents, Advances under the Note shall be governed by a monthly borrowing base requirement that shall consist of a borrowing base certificate with Advances not to exceed (a) seventy five percent (75%) of eligible accounts receivable; (b) sixty five percent (65%) of eligible accounts receivable from certain high concentration customers (which, for purposes of this Agreement, means any customer which generates accounts receivable greater than fifty percent (50%) of the total accounts receivable); (c) fifty percent (50%) of eligible inventory (with a cap of $410,000.00 against total eligible inventory); and (d) fifty percent (50%) of eligible net fixed assets. All of the foregoing (referred to herein as the “borrowing base”) shall be determined by Lender in its sole discretion.
+
+Section 2.07: Definitions. For purposes of this Agreement, the following definitions shall apply:
+
+a. “eligible accounts receivable” shall mean, at any time, accounts receivable of Borrower evidencing indebtedness of persons and/or entities to Borrower for goods actually sold and delivered or services actually performed in the ordinary course of business by Borrower to or for
+
+2
+
+  
+
+
+* * *
+
+  
+
+
+such persons and/or entities, as to which goods or services no notice has been received by Borrower from such persons and/or entities to the effect that such goods or services are not acceptable and which accounts receivable have been outstanding for less than ninety (90) days since their respective due dates (provided that such due dates shall in no event be more than thirty (30) days after receipt by such person and/or entity of an invoice for such accounts receivable), but excluding, however, (i) accounts receivable owing by officers, directors, shareholders, or employees of Borrower; (ii) accounts receivable with respect to which goods are placed on consignment, guaranteed sale, “bill and hold”, or other terms by reason of which the payment by the account debtor may be conditional; (iii) accounts receivable owing by the United States or any agency, department, or instrumentality thereof unless such accounts are freely assignable to Lender under the United States Assignment of Claims Act and Borrower has separately assigned each such account to Lender in compliance with such Act; (iv) accounts receivable owing by any subsidiary or affiliate of Borrower; (v) accounts receivable with respect to which Borrower or any subsidiary or affiliate is liable to the account debtor for goods sold or services provided to Borrower or any subsidiary or affiliate by such account debtor to the extent of Borrower’s or any subsidiary’s or affiliate’s liability to such account debtor; (vi) accounts receivable which are due and payable to Borrower from an account debtor located outside the United States of America; (vii) any accounts receivable as to which the account debtor has claimed any setoff or dispute to the extent of the amount in dispute; (viii) any accounts receivable subject to any lien other than Lender’s perfected, first priority security interest, or those expressly permitted by Lender in writing; (ix) any accounts receivable owing by any person or entity which is insolvent and/or the subject of any bankruptcy, receivership, or other insolvency proceeding; (x) any accounts receivable deemed by the Lender in its sole discretion exercised in good faith uncollectible; (xi) any accounts receivable arising out of progress billings and/or bills for customer deposits; and (xii) all accounts receivable from any account debtor where ten percent (10%) or more of the accounts receivable from such account debtor have been outstanding for more than ninety (90) days since their respective due dates (where such due dates are not more than thirty (30) days after receipt by such person and/or entity of an invoice for such accounts receivable).
+
+b. “eligible inventory” shall mean, at any time, all inventory of raw materials and finished products then owned by (and in the possession or under the control of) Borrower and held for sale or disposition in the ordinary course of Borrower’s business, in which Lender has a perfected, first priority security interest and which are subject to no other liens other than those expressly permitted by Lender in writing, valued at the lower of actual cost or fair market value, but excluding, however, (i) inventory that has been shipped or delivered to a customer on consignment, a sale or return basis, or on the basis of any similar understanding; (ii) inventory with respect to which a claim exists disputing Borrower’s title to or right to possession of such inventory; (iii) inventory that is not in good condition or does not comply with any applicable laws, rules, or regulations or the standards imposed by any governmental authority with respect to its manufacture, use, or sale; and (iv) inventory that Lender, in its sole discretion, has determined to be unmarketable (including, but not limited to, inventory that is held outside of the United States and inventory that is obsolete).
+
+c. “eligible net fixed assets” shall mean, at any time, the net book value of all furniture, fixtures, and equipment (excluding leasehold improvements) of Borrower as set forth on the most recent balance sheet of the Borrower prepared in accordance with generally accepted accounting principles (“GAAP”), consistently applied, in which Lender has a perfected, first priority security interest and which are subject to no other liens other than those expressly permitted by Lender in writing; provided, however, that Lender may, in its sole discretion, add additional eligibility criteria or reserves with respect to “eligible net fixed assets” based upon the results of the most recent collateral audit performed pursuant to Section 5.01(h).
+
+3
+
+  
+
+
+* * *
+
+  
+
+
+d. “borrowing base certificate” means a certificate by an officer of Borrower, in form and substance acceptable to Lender, setting forth the calculation of the borrowing base, including a calculation of each component thereof, all in such detail as shall be reasonably satisfactory to Lender. All calculations of the borrowing base in connection with the preparation of any borrowing base certificate shall originally be made by Borrower and certified to Lender; provided, however, that Lender shall have the right to review and adjust, in the exercise of its reasonable credit judgment, any such calculation (i) to reflect its reasonable estimate of declines in value of any of the collateral described therein, and/or (ii) to the extent that such calculation is not in accordance with this Agreement.
+
+ARTICLE III
+
+Conditions to Lending
+
+Section 3.01: As a condition precedent to the obligation of Lender to make any Advances hereunder, Borrower shall have delivered the following documents to Lender:
+
+a. The Note, duly executed by Borrower;
+
+b. The Security Agreements, duly executed by Borrower and the related Financing Statements covering the collateral described therein;
+
+c. Current audited financial statements of Borrower, prepared in accordance with GAAP, consistently applied, in form and substance acceptable to Lender, for the 2004, 2005, and 2006 calendar years;
+
+d. Certificate or policy for all insurance required to be maintained by Borrower under the Loan Documents;
+
+e. Copy of the resolutions adopted by all of the shareholders and directors of Borrower, authorizing and directing the execution of this Agreement and any documents and instruments incidental thereto;
+
+f. Copies of the Articles of Incorporation, Bylaws, and any Shareholder/Buy-Sell Agreement of Borrower, currently certified as correct by an officer of Borrower;
+
+g. Certificate of Good Standing, or other acceptable evidence establishing Borrower’s good standing, from the Minnesota Secretary of State;
+
+h. Searches for state and federal tax liens, bankruptcies, and judgments against Borrower, in form and substance acceptable to Lender;
+
+i. Landlord waivers, in form and substance acceptable to Lender, from the landlord with respect to any and all leases for which Borrower is a tenant and with respect to any and all locations at which any Collateral (as defined in any of the Loan Documents) is currently located, or will be located during the term of the Loan;
+
+j. A Certification by the Secretary of Borrower, in form and substance acceptable to Lender, certifying that the resolutions of Borrower authorizing Borrower to enter into the Loan and the Loan Documents are truthful and accurate, and that Larry E. Williams, as Chief Executive Officer of Borrower, has been duly authorized and directed to execute the Loan Documents on
+
+4
+
+  
+
+
+* * *
+
+  
+
+
+behalf of Borrower;
+
+k. UCC-3 Financing Statement Amendment terminating the lien held by Charles F. Parsons and Aerospace Marketing, Inc. (including, but not limited to, filing numbers 200518124771 and 20051814270 with the Minnesota Secretary of State); and
+
+l. Borrower agrees to execute and deliver to Lender such other documents as may be reasonably necessary to effectuate the provisions of this Agreement.
+
+Section 3.02: The obligations of Lender to make any Advances hereunder, including, without limitation, the initial Advance, shall be subject to the following additional conditions precedent at the time of each Advance hereunder:
+
+a. No Event of Default hereunder, or event which would constitute an Event of Default upon the giving of notice or the passage of time or both, shall have occurred and be continuing and all representations and warranties made by Borrower under this Agreement shall continue to be true and correct as of the date of such Advance;
+
+b. Borrower shall have provided to Lender such evidence of compliance with any provisions of this Agreement as Lender may reasonably request; and
+
+c. Lender shall have received, from Borrower, (i) a copy of Borrower’s current financial statements, prepared in accordance with GAAP, consistently applied, in form and substance acceptable to Lender, and (ii) Borrower’s borrowing base certificate, in form and substance acceptable to Lender.
+
+ARTICLE IV
+
+Representations and Warranties
+
+Section 4.01: Borrower represents and warrants to Lender as follows:
+
+a. Borrower is a corporation validly existing and in good standing under the laws of the State of Minnesota;
+
+b. Borrower has full power and authority to conduct its business; to own its properties; to enter into this Agreement and the Loan Documents; to borrow the monies hereunder; and to execute, deliver, and perform all of Borrower’s obligations under the Loan Documents and instruments incidental to this Agreement;
+
+c. The execution and delivery of this Agreement and the Loan Documents and instruments incidental thereto have been duly authorized by all necessary persons on behalf of Borrower;
+
+d. This Agreement and the Loan Documents and instruments incidental thereto shall not violate any contract or agreement concerning the operation of Borrower or its Articles of Incorporation, Bylaws, and/or Shareholder/Buy-Sell Agreement, nor result in a breach of the terms or conditions of or constitute a default under or result in the creation or imposition of any lien, charge, or encumbrance upon, any property or assets of Borrower pursuant to any agreement to which it is a party or by which Borrower may be bound;
+
+e. This Agreement and the Loan Documents constitute the legal, binding, and valid obligation of Borrower, and shall be enforceable against Borrower according to their respective
+
+5
+
+  
+
+
+* * *
+
+  
+
+
+terms;
+
+e. Borrower has filed, or caused to be filed, all federal and state income tax returns which are required to be filed, and Borrower has paid or caused to be paid all taxes as shown on said returns or any assessment therefore received by Borrower to the extent such taxes have become due;
+
+f. Except as expressly disclosed in Borrower’s audited financial statements, no actions, suits, or proceedings, including, but not limited to, tax claims or governmental proceedings, are pending or threatened against Borrower, its owners and/or properties before any court or governmental department, commission, board, bureau, agency, or instrumentality, domestic or foreign, and no judgment or order of any court or administrative agency is outstanding against Borrower, its owners and/or properties, which, if determined adversely to Borrower, would have a material adverse effect on the financial conditions, properties, or operations of Borrower;
+
+g. All financial statements and other financial reports and information delivered by Borrower to Lender shall be truthful and in compliance with GAAP, consistently applied;
+
+h. Borrower will not make any distribution, dividend, gift, repayment, loan, transfer, pledge, or other payment of any kind or nature to any shareholder of Borrower or to any other party except as is expressly provided for herein without the prior written consent of Lender.
+
+ARTICLE V
+
+Covenants
+
+Section 5.01: While any part of the credit granted to Borrower hereunder is available and while any part of the principal, interest, or other amounts with respect to the Agreement, the Note, the Security Agreements, or the other Loan Documents remains unpaid, Borrower covenants to Lender as follows:
+
+a. Borrower shall (i) maintain proper books and records in which full, true, and correct entries shall be made of all of its business affairs in accordance with GAAP consistently applied; (ii) permit Lender, its agents or employees, to examine such books and records, and to make copies thereof; and (iii) upon the request of Lender, promptly advise Lender in writing of the location of such books and records;
+
+b. Borrower shall furnish the following, prepared in accordance with GAAP, consistently applied, and in form and substance acceptable to Lender: (i) quarterly financial statements of Borrower prepared and compiled by an independent certified public accountant; (ii) annual financial statements of Borrower prepared and audited by an independent certified public accountant; and (iii) state and federal tax returns of Borrower, along with all schedules attached thereto and copies of any extensions filed in connection therewith;
+
+c. Borrower shall maintain, and provide Lender with written evidence, satisfactory to Lender, of all insurance required under the Loan Documents, including, but not limited to, a Comprehensive General Public Liability policy with a coverage amount not less than One Million and no/100ths Dollars (U.S. $1,000,000.00), naming Lender as an additional insured;
+
+d. All insurance required by subsection c., above, shall (a) be written by a company or companies acceptable to Lender; (b) be subject to Lender’s approval as to form, substance, and amount; (c) provide that the insurer shall give Lender no less than thirty (30) days prior written notice of cancellation, termination, amendment, or non-renewal thereof; and (d) be in an amount
+
+6
+
+  
+
+
+* * *
+
+  
+
+
+sufficient to prevent Borrower from becoming a co-insurer thereunder;
+
+e. No payments of principal shall be made on any debt or other obligation of Borrower that is subordinate to the Loan and the Security Agreements, and no distributions of cash or property shall be made to any shareholder of Borrower;
+
+f. Borrower shall furnish the following, in form and substance acceptable to Lender, on a monthly basis: (i) Borrower’s borrowing base certificate; (ii) Borrower’s accounts receivable listing; (iii) Borrower’s inventory listing;
+
+g. Borrower shall furnish, in form and substance acceptable to Lender, on an annual basis, Borrower’s furniture, fixtures, and equipment listing;
+
+h. Lender shall have the right, at any time and from time to time, to perform, at Borrower’s expense, a collateral audit of Borrower’s Collateral, as defined in the Security Agreements; provided, however, that unless an Event of Default shall have occurred and be continuing, Lender shall have the right to perform or cause to be performed no more than two (2) such collateral audits per calendar year, nor shall the reimbursable costs of such audits exceed Two Thousand Five Hundred and no/100ths Dollars ($2,500.00) per audit;
+
+i. Borrower covenants and agrees that, in the event that Borrower requests an Advance to reimburse the repayment of that certain obligation of Borrower to Charles F. Parsons and Aerospace Marketing, Inc. (the “Parsons Advance”), Borrower will repay the Parsons Advance, on an annual basis, in an amount no less than Five Thousand and no/100ths Dollars ($5,000.00) per year; and
+
+j. Borrower shall maintain (i) a debt to tangible net worth (computed by dividing (a) total debt by (b) total equity minus intangible assets) ratio less than or equal to 1:1, measured as of each fiscal quarter end; (ii) a minimum tangible net worth (computed by subtracting intangible assets from total equity) of Two Million Two Hundred Fifty Thousand and no/100ths Dollars ($2,250,000.00), measured as of September 30, 2006, and increasing, on a quarterly basis, by fifty percent (50%) of Borrower’s net income (determined in accordance with GAAP, consistently applied); and (iii) a debt service coverage ratio (defined herein as (a) net income plus depreciation plus interest plus extraordinary non-cash losses less dividends and distributions less extraordinary non-cash gains; divided by (b) all principal and interest payments) of 1.15:1, measured as of each fiscal year end.
+
+Section 5.02: While any part of the credit granted to Borrower hereunder is available and while any part of the principal or interest on the Note or this Agreement remains unpaid, Borrower shall not, without the prior written consent of Lender, do the following:
+
+a. Create or permit to be created any encumbrance or other lien upon any of the Collateral without the prior written consent of Lender, other than purchase money liens so long as such liens (i) do not result in a violation of Section 5.01(j) above; and (ii) do not exceed Five Hundred Thousand and no/100ths Dollars ($500,000.00) in the aggregate;
+
+b. Enter into any secondary financing which is secured by a lien or other encumbrance against any of the Collateral without the prior written consent of Lender, other than purchase money liens so long as such liens (i) do not result in a violation of Section 5.01(j) above; and (ii) do not exceed Five Hundred Thousand and no/100ths Dollars ($500,000.00) in the aggregate; or
+
+7
+
+  
+
+
+* * *
+
+  
+
+
+c. Sell, assign, exchange, lease, or otherwise transfer the Collateral, other than in the ordinary course of business or as permitted by the Loan Documents, without the prior written consent of Lender.
+
+ARTICLE VI
+
+Indemnity
+
+Section 6.01: Borrower agrees to defend, hold harmless, and indemnify Lender along with its successors, assigns, officers, directors, shareholders, representatives, and attorneys (all of the foregoing, with their respective successors and assigns, “Indemnified Parties”) from and against any and all liability, loss, damages, costs, and expenses of whatever kind or nature, including, but not limited to, reasonable attorneys’ fees, which Indemnified Parties may sustain or incur, arising out of, incidental to, or in connection with the misrepresentation or breach of any term in any of the Loan Documents, whether or not due to any act or omission, including negligence, of Borrower and its agents, employees, or servants. The liability of Borrower hereunder shall not be limited to the extent of insurance carried by or provided by Borrower or subject to any exclusion from coverage in any insurance policy.
+
+Section 6.02: The obligations of Borrower under Section 6.01 shall survive the payment of the Note.
+
+ARTICLE VII
+
+Closing Costs; Fees; and Expenses
+
+Section 7.01: Borrower agrees to pay Lender, in good funds, a loan origination fee (the “Loan Fee”) of Two Thousand Five Hundred and no/100ths Dollars (U.S. $2,500.00). At Closing, Borrower shall pay Lender, in good funds, all of Lender’s reasonable closing costs in connection to the transaction contemplated by this Agreement, including, but not limited to, the Loan Fee, Lender’s attorneys’ fees in the amount of Three Thousand Nine Hundred and no/100ths Dollars (U.S. $3,900.00), and closing costs. In the event that Borrower fails to pay such fees and expenses, Lender may, at its option, advance the same under the Note without further authorization by the Borrower and the payment thereof shall be secured by the Loan Documents.
+
+Section 7.02: Borrower may request to renew the Loan, on an annual basis, upon written notice to Lender no less than thirty (30) days prior to the Maturity Date (or any extension thereof). Any such renewal shall be at Lender’s sole discretion. In the event Lender elects to renew the Loan, Borrower shall pay, upon such renewal, a renewal fee (“Renewal Fee”) in an amount equal to ten (10) basis points on the total amount committed, as of the renewal, under the Note, this Agreement, and the other Loan Documents; provided, however, that Lender may increase the Renewal Fee in the event that Borrower wishes to renew the Loan for an amount greater than the original principal amount of the Loan.
+
+ARTICLE VIII
+
+Events of Default
+
+Section 8.01: Each of the following occurrences shall constitute an event of default (“Event of Default”) under this Agreement:
+
+a. Borrower shall fail to observe or perform any of the terms or conditions to be kept or performed by Borrower under this Agreement, the Note, the Security Agreements, and/or the Loan Documents; provided that (1) Borrower shall have a ten (10) day period in which to cure any monetary default under this Agreement, the Note, the Security Agreements, and/or the Loan Documents, and (2) a thirty (30) day period in which to cure any non-monetary default under this Agreement, the Note, the Security Agreements, and/or the Loan Documents, which period may,
+
+8
+
+  
+
+
+* * *
+
+  
+
+
+in the sole discretion of Lender, be extended in the event that any non-monetary default is not capable of being cured within the thirty (30) day period, provided that Borrower promptly commences the cure process within the thirty (30) day period and diligently pursues the cure process to completion;
+
+b. Any representation or warranty made by Borrower herein is untrue or misleading in any material respect, or any statement, certificate, or report furnished hereunder by or on behalf of Borrower is untrue or misleading in any material respect, each on the date when made or as of which the facts set forth therein are stated or certified;
+
+c. Borrower becomes insolvent or unable to pay its debts as they mature, or makes an assignment for the benefit of creditors, or any proceedings are initiated by or against Borrower, alleging that Borrower is insolvent or unable to pay its debts as they mature or a petition is filed by or against Borrower under any of the provisions of the United States Bankruptcy Code;
+
+d. Borrower shall fail to observe or perform any of the terms or conditions to be kept or performed by Borrower under any other contract or agreement with Lender, now existing or hereafter arising, subject to the cure rights of Borrower provided for therein, if any;
+
+e. Entry of any final judgment against Borrower in excess of Twenty Five Thousand and no/100ths Dollars (U.S. $25,000.00) unless, within thirty (30) days following entry of judgment, said judgment is paid in full or is appealed and enforcement thereof is stayed during the period of appeal;
+
+f. Any Change of Control shall occur. As used herein, “Change of Control” means the occurrence of any of the following events:
+
+(a) Any Person or “group” (as such term is used in Sections 13(d) and 14(d) of the Securities Exchange Act of 1934) is or becomes the “beneficial owner” (as defined in Rules 13d-3 and 13d-5 under the Securities Exchange Act of 1934, except that a Person will be deemed to have “beneficial ownership” of all securities that such Person has the right to acquire, whether such right is exercisable immediately or only after the passage of time), directly or indirectly, of more than ten percent (10%) of the voting power of all classes of voting stock of the Borrower; or
+
+(b) During any consecutive six (6) month period, individuals who at the beginning of such period constituted the board of directors of the Borrower (together with any new directors whose election to such board of directors, or whose nomination for election by the owners of the Borrower, was approved by a vote of two-thirds (2¤3) of the directors then still in office who were either directors at the beginning of such period or whose election or nomination for election was previously so approved) cease for any reason to constitute a majority of the board of directors of the Borrower then in office.
+
+As used herein, the term “Person” shall mean any individual, corporation, partnership, joint venture, limited liability company, association, joint stock company, trust, unincorporated organization or government or any agency or political subdivision thereof;
+
+g. Dissolution, liquidation, merger, consolidation, or similar disposition of Borrower without the prior written consent of Lender;
+
+h. Sale of all or substantially all of the assets of Borrower or a similar disposition without
+
+9
+
+  
+
+
+* * *
+
+  
+
+
+the prior written consent of Lender;
+
+i. Borrower sells, assigns, exchanges, leases, transfers, or otherwise disposes of, or mortgages, hypothecates, creates a security interest in, or otherwise encumbers, all or a part of the Collateral (other than in the ordinary course of business or as otherwise provided in this Agreement or any of the other Loan Documents), whether such transfer or encumbrance is voluntary or involuntary, without the prior written consent of Lender;
+
+j. Commencement of any action or proceeding involving, affecting, or bringing into question the title to, interest in, or lien created by the Security Agreements upon, any material portion of the Collateral; or
+
+k. Execution or attachment shall have been levied against any material portion of the Collateral or any part thereof and shall continue without stay and in effect for a period of more than thirty (30) consecutive days.
+
+ARTICLE IX
+
+Remedies
+
+Section 9.01: Upon the occurrence of an Event of Default, Lender may, at its option, exercise any and all of the following rights and remedies:
+
+a. Lender may immediately discontinue making Advances hereunder to Borrower and terminate Lender’s obligations to Borrower under this Agreement, without notice to Borrower;
+
+b. Lender may declare immediately due and payable the entire unpaid balance owed under this Agreement, the Note, the Security Agreements, and/or the Loan Documents, together with accrued interest thereon, and the same shall thereupon be immediately due and payable without demand, or notice of any kind, all of which are expressly waived by Borrower;
+
+c. Lender may exercise any rights and remedies under the Security Agreements and/or any of the other Loan Documents;
+
+d. Lender may perform in its discretion, but without obligation to do so, any covenants or agreements of Borrower contained in this Agreement, the Note, the Security Agreements, or in any other documents executed in connection with the Loan, and the amounts so expended by Lender, together with interest thereon from the date of advancement at the Default Rate (as defined in the Note), shall be payable by Borrower, upon demand, and the payment thereof shall be considered an Advance under the Note and secured by the Loan Documents;
+
+e. Lender may commence an action to specifically enforce the performance by Borrower of its obligations under this Agreement, the Note, the Security Agreements, or the Loan Documents; and/or
+
+f. Lender may exercise any and all other rights and remedies available at law or in equity;
+
+Section 9.02: The rights and remedies provided Lender herein or otherwise afforded at law or in equity are distinct and cumulative, and any forbearance by Lender in exercising any right or remedy shall not be a waiver of or preclude the exercise of any other right or remedy; and
+
+Section 9.03: In an Event of Default, Borrower, upon demand, agrees to pay all reasonable expenses and
+
+10
+
+  
+
+
+* * *
+
+  
+
+
+costs of collection at any time incurred by Lender under this Agreement, including, but not limited to, reasonable attorneys’ fees, whether or not in connection with a judicial proceeding and whether or not in connection with an original or appellate proceeding.
+
+ARTICLE X
+
+Miscellaneous
+
+Section 10.01: Notice. Any notice provided for in this Agreement shall be in writing and shall be given by mailing such notice to the other party. Any notice to Borrower shall be given by mailing such notice by certified mail to Ballistic Recovery Systems, Inc., Attn: Larry E. Williams, 300 Airport Road, South St. Paul, Minnesota 55075, or to such other address as Borrower may designate by notice to Lender as provided herein. Any notice to Lender shall be given by mailing such notice by certified mail, return receipt requested, to Anchor Bank Saint Paul, N.A., Attn: Gregory W. Drehmel, 66 Thompson Avenue East, West St. Paul 55118, or to such other address as Lender may designate by notice to Borrower as provided herein. Any notice provided for in this Agreement shall be deemed to have been given when postmarked, postage prepaid, certified mail, return receipt requested, and properly addressed to the other party.
+
+Section 10.02: Governing Law; Venue. This Agreement is issued in and shall be governed by the substantive laws of the State of Minnesota, without reference to its conflicts of laws provisions. All disputes and collections relating to this Agreement shall be exclusively venued in any state or federal court in Ramsey County, Minnesota, or in such other court as Lender may designate in its sole discretion, and Borrower specifically consents to the venue and jurisdiction of said courts as chosen by Lender.
+
+Section 10.03: Time of Essence. Time is expressly declared to be of the essence in the performance of Borrower’s obligations to Lender under this Agreement.
+
+Section 10.04: Assignment. Borrower shall not assign its rights under this Agreement without the prior written consent of Lender.
+
+Section 10.05: Binding Effect. This Agreement shall inure to and bind the parties hereto and their respective successors and permitted assigns.
+
+Section 10.06: No Third-Party Rights. This Agreement is made for the sole benefit of Lender, its successors and assigns, and Borrower and its permitted assigns, and no other person shall have any rights or remedies under this Agreement. Lender shall not have any obligation or liability of any kind to any third party by reason of this Agreement or any of Lender’s actions or omissions pursuant thereto. Lender shall have no duty whatsoever for payment of any expenses incurred in connection with the exercise of any right or remedy available to Lender or for the performance or non-performance of any other obligation of Borrower.
+
+Section 10.07: Severability. The provisions of this Agreement shall be severable and the invalidity or unenforceability of anyone or more of the provisions of this Agreement shall not affect the validity and enforceability of the other provisions.
+
+Section 10.08: Amendment and Waiver. No change, addition, or modification of this Agreement shall be valid or binding unless it is in writing and signed by the party to be charged. No waiver of any provision of this Agreement shall be valid unless it is in writing and signed by the party against whom the waiver is sought to be enforced. No valid waiver of any provision of this Agreement shall be deemed a waiver of any other provision of this Agreement.
+
+11
+
+  
+
+
+* * *
+
+  
+
+
+Section 10.09: Headings. Headings are for reference purposes only and shall not be considered in the interpretation of this Agreement.
+
+Section 10.10: WAIVER OF JURY TRIAL. BORROWER ACKNOWLEDGES THAT THE RIGHT TO TRIAL BY JURY IS A CONSTITUTIONAL ONE, BUT THAT IT MAY BE WAIVED AND THAT THE TIME AND EXPENSE REQUIRED FOR TRIAL BY A JURY MAY EXCEED THE TIME AND EXPENSE REQUIRED FOR TRIAL WITHOUT A JURY. BORROWER, AFTER CONSULTING (OR HAVING HAD THE OPPORTUNITY TO CONSULT) WITH COUNSEL OF BORROWER’S CHOICE, KNOWINGLY AND VOLUNTARILY, AND FOR THE MUTUAL BENEFIT OF LENDER AND BORROWER, WAIVES ANY RIGHT TO TRIAL BY JURY IN THE EVENT OF LITIGATION REGARDING THE PERFORMANCE OR ENFORCEMENT OF, OR IN ANY WAY RELATED TO, THIS AGREEMENT, THE NOTE, THE SECURITY AGREEMENTS, THE LOAN DOCUMENTS AND ANY RELATED AGREEMENTS, OR OBLIGATIONS THEREUNDER. BORROWER HAS READ ALL OF THIS AGREEMENT AND UNDERSTANDS ALL OF THE PROVISIONS OF THIS AGREEMENT. BORROWER ALSO AGREES THAT COMPLIANCE BY LENDER WITH THE EXPRESS PROVISIONS OF THIS AGREEMENT SHALL CONSTITUTE GOOD FAITH AND SHALL BE CONSIDERED REASONABLE FOR ALL PURPOSES.
+
+Section 10.11: Counterparts. This Agreement may be executed in several counterparts, each of which shall be deemed an original and all of which shall constitute but a single instrument.
+
+IN WITNESS WHEREOF, Lender and Borrower have entered into this Agreement as of the date first set forth above.
+
+LENDER: Anchor Bank Saint Paul, N.A.  
+  
+By:
+
+;  
+  
+Its:
+
+.  
+  
+BORROWER: Ballistic Recovery Systems, Inc.  
+  
+/s/ Larry E. Williams  
+  
+By: Larry E. Williams;  
+  
+Its: Chief Executive Officer / President.  
+  
+12
+
+  
+
+
+* * *

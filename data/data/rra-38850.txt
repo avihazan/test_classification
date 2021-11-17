@@ -1,0 +1,367 @@
+  
+
+
+  
+
+
+EXHIBIT B
+
+to Subscription Agreement
+
+
+
+REGISTRATION RIGHTS AGREEMENT
+
+THIS REGISTRATION RIGHTS AGREEMENT is made as of the _______________ day of _______________, 2014, by and among EuroSite Power Inc., a Delaware corporation (the “Company”), and each of the holders of the Company’s 4% Senior Convertible Notes due 2018 (the “Notes”) listed on Schedule A hereto, each of which is referred to in this Agreement as a “Noteholder”. The parties hereby agree as follows:
+
+1.Definitions. For purposes of this Agreement:
+
+1.1 “Affiliate” means, with respect to any specified Person, any other Person directly or indirectly controlling or controlled by or under direct or indirect common control with such specified Person. For the purposes of this definition, “control”, when used with respect to any Person, means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms “controlling” and “controlled” have meanings correlative to the foregoing.
+
+1.2 “Common Stock” means shares of the Company’s common stock, par value $0.001 per share.
+
+1.3 “Company” has the meaning given such term in the first paragraph of this Agreement.
+
+1.4 “Damages” means any loss, damage, claim or liability (joint or several) to which a party hereto may become subject under the Securities Act, the Exchange Act, or other federal or state law, insofar as such loss, damage, claim or liability (or any action in respect thereof) arises out of or is based upon (i) any untrue statement or alleged untrue statement of a material fact contained in any registration statement of the Company, including any preliminary prospectus or final prospectus contained therein or any amendments or supplements thereto; (ii) an omission or alleged omission to state therein a material fact required to be stated therein, or necessary to make the statements therein not misleading; or (iii) any violation or alleged violation by the indemnifying party (or any of its agents or Affiliates) of the Securities Act, the Exchange Act, any state securities law, or any rule or regulation promulgated under the Securities Act, the Exchange Act, or any state securities law.
+
+1.5 “Demand Notice” has the meaning given such term in Subsection 2.1.
+
+1.6 “Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+
+1.7 “Form S-3” means such form under the Securities Act as in effect on the date hereof or any registration form under the Securities Act subsequently adopted by the SEC that permits incorporation of substantial information by reference to other documents filed by the Company with the SEC.
+
+1.8 “Holder” means any holder of Registrable Securities who is a party to this Agreement.
+
+1.9 “Initiating Holders” means, collectively, Holders who properly initiate a registration request under this Agreement.
+
+1.10 “Noteholders” has the meaning given such term in the first paragraph of this Agreement.
+
+1.11 “Noteholders Agreement” means the Noteholders Agreement, dated as of the date hereof, among the Company and the initial Noteholders.
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+1.12 “Notes” has the meaning given such term in the first paragraph of this Agreement.
+
+1.13 “Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organization, government or any agency or political subdivision thereof or any other entity.
+
+1.14 “Registrable Securities” means the Common Stock issuable or issued upon conversion of the Notes pursuant to the terms of the Noteholders Agreement, excluding for purposes of Section 2 any shares for which registration rights have terminated pursuant to Subsection 2.8 of this Agreement.
+
+1.15 “SEC” means the Securities and Exchange Commission.
+
+1.16 “Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+
+1.17 “Selling Holder Counsel” has the meaning given such term in Subsection 2.5.
+
+1.18 “Selling Expenses” means all underwriting discounts, selling commissions, and stock transfer taxes applicable to the sale of Registrable Securities, and fees and disbursements of counsel for any Holder, except for the fees and disbursements of the Selling Holder Counsel borne and paid by the Company as provided in Subsection 2.5.
+
+2.Registration Rights. The Company covenants and agrees as follows:
+
+2.1 Demand Registration.
+
+(a) If at any time when the Company is eligible to use a Form S-3 registration statement, the Company receives, prior to the first anniversary of this Agreement, a request from Holders of at least thirty percent (30%) of the Registrable Securities that the Company file a Form S-3 registration statement with respect to outstanding Registrable Securities of such Holders having an anticipated aggregate offering price, net of Selling Expenses, of at least $250,000, then the Company shall (i) within ten (10) days after the date such request is given, give notice thereof (the “Demand Notice”) to all Holders other than the Initiating Holders; and (ii) as soon as practicable, and in any event within thirty (30) days after the date such request is given by the Initiating Holders, file a Form S-3 registration statement under the Securities Act covering all Registrable Securities requested to be included in such registration by any other Holders, as specified by notice given by each such Holder to the Company within twenty (20) days of the date the Demand Notice is given, and in each case, subject to the limitations of Subsection 2.1(b) and Subsection 2.2.
+
+(b) Notwithstanding the foregoing obligations, if the Company furnishes to Holders requesting a registration pursuant to this Subsection 2.1 a certificate signed by the Company’s chief executive officer stating that in the good faith judgment of the Company’s Board of Directors it would be materially detrimental to the Company and its stockholders for such registration statement to be filed and it is therefore necessary to defer the filing of such registration statement, then the Company shall have the right to defer taking action with respect to such filing, and any time periods with respect to filing or effectiveness thereof shall be tolled correspondingly, for a period of not more than sixty (60) days after the request of the Initiating Holders is given; provided, however, that the Company may not invoke this right more than twice.
+
+(c) The Company shall not be obligated to effect, or to take any action to effect, any registration pursuant to Subsection 2.1(a) (i) during the period that is thirty (30) days before the Company’s good faith estimate of the date of filing of, and ending on a date that is thirty (30) days after the effective date of, a Company-initiated registration for a firm commitment underwriting, provided, that the Company is actively employing in good faith commercially reasonable efforts to cause such registration statement to become effective; or (ii) if the Company has effected a registration pursuant to Subsection 2.1(a) within the twelve (12) month period immediately preceding 
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+the date of such request. A registration shall not be counted as “effected” for purposes of this Subsection 2.1(c) until such time as the applicable registration statement has been declared effective by the SEC, unless the Initiating Holders withdraw their request for such registration, elect not to pay the registration expenses therefor, and forfeit their right to one demand registration statement pursuant to Subsection 2.5, in which case such withdrawn registration statement shall be counted as “effected” for purposes of this Subsection 2.1(c).
+
+2.2 Underwriting Requirements. If, pursuant to Subsection 2.1, the Initiating Holders intend to distribute the Registrable Securities covered by their request by means of an underwriting, they shall so advise the Company as a part of their request made pursuant to Subsection 2.1, and the Company shall include such information in the Demand Notice. The underwriter(s) will be selected by the Company and shall be reasonably acceptable to a majority in interest of the Initiating Holders. In such event, the right of any Holder to include such Holder’s Registrable Securities in such registration shall be conditioned upon such Holder’s participation in such underwriting and the inclusion of such Holder’s Registrable Securities in the underwriting to the extent provided herein. All Holders proposing to distribute their securities through such underwriting shall (together with the Company as provided in Subsection 2.3(e)) enter into an underwriting agreement in customary form with the underwriter(s) selected for such underwriting. Notwithstanding any other provision of this Subsection 2.2, if the underwriter(s) advise(s) the Initiating Holders in writing that marketing factors require a limitation on the number of shares to be underwritten, then the Initiating Holders shall so advise all Holders of Registrable Securities that otherwise would be underwritten pursuant hereto, and the number of Registrable Securities that may be included in the underwriting shall be allocated among such Holders of Registrable Securities, including the Initiating Holders, in proportion (as nearly as practicable) to the number of Registrable Securities owned by each Holder or in such other proportion as shall mutually be agreed to by all such selling Holders; provided, however, that the number of Registrable Securities held by the Holders to be included in such underwriting shall not be reduced unless all other securities are first entirely excluded from the underwriting. To facilitate the allocation of shares in accordance with the above provisions, the Company or the underwriters may round the number of shares allocated to any Holder to the nearest 100 shares.
+
+2.3 Obligations of the Company. Whenever required under this Section 2 to effect the registration of any Registrable Securities, the Company shall, as expeditiously as reasonably possible:
+
+(a) prepare and file with the SEC a registration statement with respect to such Registrable Securities and use its commercially reasonable efforts to cause such registration statement to become effective and, upon the request of the Holders of a majority of the Registrable Securities registered thereunder, keep such registration statement effective until the earlier of the distribution contemplated in the registration statement has been completed or until such time as all of the Registrable Securities covered by such registration statement may be resold without restriction under the Securities Act;
+
+(b) prepare and file with the SEC such amendments and supplements to such registration statement, and the prospectus used in connection with such registration statement, as may be necessary to comply with the Securities Act in order to enable the disposition of all securities covered by such registration statement;
+
+(c) furnish to the selling Holders such numbers of copies of a prospectus, including a preliminary prospectus, as required by the Securities Act, and such other documents as the Holders may reasonably request in order to facilitate their disposition of their Registrable Securities;
+
+(d) use its commercially reasonable efforts to register and qualify the securities covered by such registration statement under such other securities or blue-sky laws of such jurisdictions as shall be reasonably requested by the selling Holders; provided that the Company shall not be required to qualify to do business or to file a general consent to service of process in any such states or jurisdictions, unless the Company is already subject to service in such jurisdiction and except as may be required by the Securities Act;
+
+(e) in the event of any underwritten public offering, enter into and perform its obligations under an underwriting agreement, in usual and customary form, with the underwriter(s) of such offering;
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+(f) use its commercially reasonable efforts to cause all such Registrable Securities covered by such registration statement to be listed on a national securities exchange or trading system and each securities exchange and trading system (if any) on which similar securities issued by the Company are then listed;
+
+(g) provide a transfer agent and registrar for all Registrable Securities registered pursuant to this Agreement and provide a CUSIP number for all such Registrable Securities, in each case not later than the effective date of such registration;
+
+(h) promptly make available for inspection by the selling Holders, any underwriter(s) participating in any disposition pursuant to such registration statement, and any attorney or accountant or other agent retained by any such underwriter or selected by the selling Holders, all financial and other records, pertinent corporate documents, and properties of the Company, and cause the Company’s officers, directors, employees, and independent accountants to supply all information reasonably requested by any such seller, underwriter, attorney, accountant, or agent, in each case, as necessary or advisable to verify the accuracy of the information in such registration statement and to conduct appropriate due diligence in connection therewith;
+
+(i) notify each selling Holder, promptly after the Company receives notice thereof, of the time when such registration statement has been declared effective or a supplement to any prospectus forming a part of such registration statement has been filed; and
+
+(j) after such registration statement becomes effective, notify each selling Holder of any request by the SEC that the Company amend or supplement such registration statement or prospectus.
+
+2.4 Furnish Information. It shall be a condition precedent to the obligations of the Company to take any action pursuant to this Section 2 with respect to the Registrable Securities of any selling Holder that such Holder shall furnish to the Company such information regarding itself, the Registrable Securities held by it, and the intended method of disposition of such securities as is reasonably required to effect the registration of such Holder’s Registrable Securities.
+
+2.5 Expenses of Registration. All expenses (other than Selling Expenses) incurred in connection with registrations, filings, or qualifications pursuant to Section 2, including all registration, filing, and qualification fees; printers’ and accounting fees; fees and disbursements of counsel for the Company; and the reasonable fees and disbursements of one counsel for the selling Holders (“Selling Holder Counsel”), shall be borne and paid by the Company; provided, however, that the Company shall not be required to pay for any expenses of any registration proceeding begun pursuant to Subsection 2.1 if the registration request is subsequently withdrawn at the request of the Holders of a majority of the Registrable Securities to be registered (in which case all selling Holders shall bear such expenses pro rata based upon the number of Registrable Securities that were to be included in the withdrawn registration), unless the Holders of a majority of the Registrable Securities agree to forfeit their right to one registration pursuant to Subsection 2.1. All Selling Expenses relating to Registrable Securities registered pursuant to this Section 2 shall be borne and paid by the Holders pro rata on the basis of the number of Registrable Securities registered on their behalf.
+
+2.6 Delay of Registration. No Holder shall have any right to obtain or seek an injunction restraining or otherwise delaying any registration pursuant to this Agreement as the result of any controversy that might arise with respect to the interpretation or implementation of this Section 2.
+
+2.7 Indemnification. If any Registrable Securities are included in a registration statement under this Section 2:
+
+(a) To the extent permitted by law, the Company will indemnify and hold harmless each selling Holder, and the partners, members, officers, directors, and stockholders of each such Holder; legal counsel and accountants for each such Holder; any underwriter (as defined in the Securities Act) for each such Holder; and each Person, if any, who controls such Holder or underwriter within the meaning of the Securities Act or the Exchange 
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Act, against any Damages, and the Company will pay to each such Holder, underwriter, controlling Person, or other aforementioned Person any legal or other expenses reasonably incurred thereby in connection with investigating or defending any claim or proceeding from which Damages may result, as such expenses are incurred; provided, however, that the indemnity agreement contained in this Subsection 2.7(a) shall not apply to amounts paid in settlement of any such claim or proceeding if such settlement is effected without the consent of the Company, which consent shall not be unreasonably withheld, nor shall the Company be liable for any Damages to the extent that they arise out of or are based upon actions or omissions made in reliance upon and in conformity with written information furnished by or on behalf of any such Holder, underwriter, controlling Person, or other aforementioned Person expressly for use in connection with such registration.
+
+(b) To the extent permitted by law, each selling Holder, severally and not jointly, will indemnify and hold harmless the Company, and each of its directors, each of its officers who has signed the registration statement, each Person (if any), who controls the Company within the meaning of the Securities Act, legal counsel and accountants for the Company, any underwriter (as defined in the Securities Act), any other Holder selling securities in such registration statement, and any controlling Person of any such underwriter or other Holder, against any Damages, in each case only to the extent that such Damages arise out of or are based upon actions or omissions made in reliance upon and in conformity with written information furnished by or on behalf of such selling Holder expressly for use in connection with such registration; and each such selling Holder will pay to the Company and each other aforementioned Person any legal or other expenses reasonably incurred thereby in connection with investigating or defending any claim or proceeding from which Damages may result, as such expenses are incurred; provided, however, that the indemnity agreement contained in this Subsection 2.7(b) shall not apply to amounts paid in settlement of any such claim or proceeding if such settlement is effected without the consent of the Holder, which consent shall not be unreasonably withheld; and provided further that in no event shall the aggregate amounts payable by any Holder by way of indemnity or contribution under Subsections 2.7(b) and 2.7(d) exceed the proceeds from the offering received by such Holder (net of any Selling Expenses paid by such Holder), except in the case of fraud or willful misconduct by such Holder.
+
+(c) Promptly after receipt by an indemnified party under this Subsection 2.7 of notice of the commencement of any action (including any governmental action) for which a party may be entitled to indemnification hereunder, such indemnified party will, if a claim in respect thereof is to be made against any indemnifying party under this Subsection 2.7, give the indemnifying party notice of the commencement thereof. The indemnifying party shall have the right to participate in such action and, to the extent the indemnifying party so desires, participate jointly with any other indemnifying party to which notice has been given, and to assume the defense thereof with counsel mutually satisfactory to the parties; provided, however, that an indemnified party (together with all other indemnified parties that may be represented without conflict by one counsel) shall have the right to retain one separate counsel, with the fees and expenses to be paid by the indemnifying party, if representation of such indemnified party by the counsel retained by the indemnifying party would be inappropriate due to actual or potential differing interests between such indemnified party and any other party represented by such counsel in such action.
+
+(d) To provide for just and equitable contribution to joint liability under the Securities Act in any case in which either (i) any party otherwise entitled to indemnification hereunder makes a claim for indemnification pursuant to this Subsection 2.7 but it is judicially determined (by the entry of a final judgment or decree by a court of competent jurisdiction and the expiration of time to appeal or the denial of the last right of appeal) that such indemnification may not be enforced in such case, notwithstanding the fact that this Subsection 2.7 provides for indemnification in such case, or (ii) contribution under the Securities Act may be required on the part of any party hereto for which indemnification is provided under this Subsection 2.7, then, and in each such case, such parties will contribute to the aggregate losses, claims, damages, liabilities, or expenses to which they may be subject (after contribution from others) in such proportion as is appropriate to reflect the relative fault of each of the indemnifying party and the indemnified party in connection with the statements, omissions, or other actions that resulted in such loss, claim, damage, liability, or expense, as well as to reflect any other relevant equitable considerations. The relative fault of the indemnifying party and of the indemnified party shall be determined by reference to, among other things, whether the untrue or allegedly untrue statement of a material fact, or the omission 
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+or alleged omission of a material fact, relates to information supplied by the indemnifying party or by the indemnified party and the parties’ relative intent, knowledge, access to information, and opportunity to correct or prevent such statement or omission; provided, however, that, in any such case, (x) no Holder will be required to contribute any amount in excess of the public offering price of all such Registrable Securities offered and sold by such Holder pursuant to such registration statement, and (y) no Person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) will be entitled to contribution from any Person who was not guilty of such fraudulent misrepresentation; and provided further that in no event shall a Holder’s liability pursuant to this Subsection 2.7(d), when combined with the amounts paid or payable by such Holder pursuant to Subsection 2.7(b), exceed the proceeds from the offering received by such Holder (net of any Selling Expenses paid by such Holder), except in the case of willful misconduct or fraud by such Holder.
+
+(e) Unless otherwise superseded by an underwriting agreement entered into in connection with the underwritten public offering, the obligations of the Company and Holders under this Subsection 2.7 shall survive the completion of any offering of Registrable Securities in a registration under this Section 2, and otherwise shall survive the termination of this Agreement.
+
+2.8 Termination of Registration Rights. The right of any Holder to request registration or inclusion of Registrable Securities in any registration pursuant to Subsection 2.1 shall terminate upon such time as all of such Holder’s Registrable Securities may be resold without restriction under the Securities Act; and
+
+3.Miscellaneous.
+
+3.1 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+3.2 Governing Law and Venue. This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York and, to the extent it involves any United States statute or regulations, in accordance therewith. The parties hereby consent and submit to the exclusive jurisdiction of the state and federal courts in New York City with respect to all disputes arising in connection with this Agreement.
+
+3.3 Counterparts. This Agreement may be executed in two or more counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument. Counterparts may be delivered via facsimile, electronic mail (including pdf) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+
+3.4 Titles and Subtitles. The titles and subtitles used in this Agreement are for convenience only and are not to be considered in construing or interpreting this Agreement.
+
+3.5 Notices. Any demand, authorization notice, request, consent or communication shall be given in writing and shall be deemed effectively given: (i) upon personal delivery to the party to be notified, (ii) when sent by confirmed electronic mail or facsimile if sent during normal business hours of the recipient, and if not so confirmed, then on the next business day, (iii) five days after having been sent by registered or certified mail (or regular mail if registered or certified mail is unavailable in the country of the recipient), (iv) if sent within the U.S., one business day after deposit with a recognized overnight courier, specifying next business day delivery, with written verification of receipt or (v) if sent from the U.S. to an address outside the U.S. or if sent from outside the U.S. to an address within the U.S., five business days after deposit with an internationally recognized courier service if, specifying that delivery be made within five business days with written verification of receipt. All notices and other communications shall be sent if sent to a Holder, to the address, fax number or email address of such Holder set forth on the signature page to this Agreement, as it may subsequently change on the Company’s books by notice from the Holder; and
+
+If to the Company, to: EuroSite Power Inc.
+
+45 First Street
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+Waltham, MA 02451
+
+Attention: Chief Financial Officer
+
+Fax No.: (781) 622-1027
+
+Phone No.: (781) 622-1117
+
+  
+
+
+With a copy to: Sullivan & Worcester LLP
+
+One Post Office Square
+
+Boston, MA 02109
+
+Attention: Edwin L. Miller, Jr.
+
+Fax No.: (617) 338-2880
+
+Phone No.: (617) 338-2800
+
+  
+
+
+Such notices or communications shall be effective when received. If a notice or communication to a Holder is sent in the manner provided above, it is duly given, whether or not the addressee receives it.
+
+The Company by notice to the Holders may designate additional or different addresses for subsequent notices or communications.
+
+Failure to mail a notice or communication to a Holder or any defect in it shall not affect its sufficiency with respect to other Holders.
+
+3.6 Amendments and Waivers. Any term of this Agreement may be amended and the observance of any term of this Agreement may be waived (either generally or in a particular instance, and either retroactively or prospectively) only with the written consent of the Company and the Holders of a majority of the Registrable Securities; and provided further that any provision hereof may be waived by any waiving party on such party’s own behalf, without the consent of any other party. Notwithstanding the foregoing, this Agreement may not be amended or terminated and the observance of any term hereof may not be waived with respect to any Holder without the written consent of such Holder, unless such amendment, termination, or waiver applies to all Holders in the same fashion. The Company shall give prompt notice of any amendment or termination hereof or waiver hereunder to any party hereto that did not consent in writing to such amendment, termination, or waiver. Any amendment, termination, or waiver effected in accordance with this Subsection 3.6 shall be binding on all parties hereto, regardless of whether any such party has consented thereto. No waivers of or exceptions to any term, condition, or provision of this Agreement, in any one or more instances, shall be deemed to be or construed as a further or continuing waiver of any such term, condition, or provision.
+
+3.7 Severability. In case any one or more of the provisions contained in this Agreement is for any reason held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality, or unenforceability shall not affect any other provision of this Agreement, and such invalid, illegal, or unenforceable provision shall be reformed and construed so that it will be valid, legal, and enforceable to the maximum extent permitted by law.
+
+3.8 Aggregation of Stock. All shares of Registrable Securities held or acquired by Affiliates shall be aggregated together for the purpose of determining the availability of any rights under this Agreement and such Affiliated Persons may apportion such rights as among themselves in any manner they deem appropriate.
+
+3.9 Entire Agreement. This Agreement (including any Schedules and Exhibits hereto) constitutes the full and entire understanding and agreement among the parties with respect to the subject matter hereof, and any other written or oral agreement relating to the subject matter hereof existing between the parties is expressly canceled.
+
+[Remainder of Page Intentionally Left Blank]
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+EUROSITE POWER INC.
+
+  
+
+
+  
+
+
+  
+
+
+By:___________________________   
+Name: Gabriel J. Parmese   
+Title: Chief Financial Officer
+
+  
+
+
+NOTEHOLDERS:
+
+  
+
+
+Counterpart signature pages attached
+
+  
+
+
+  
+
+
+  
+
+
+{B1711012; 2}
+
+  
+
+
+CONFIDENTIAL 1
+
+  
+

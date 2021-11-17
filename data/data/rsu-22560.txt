@@ -1,0 +1,162 @@
+EXHIBIT 10.11
+
+
+
+THIS STOCK OPTION AGREEMENT (the “Agreement”) is made effective as of July 20, 2007 (the “Grant Date”) between Whitehall Jewelers, Inc., a Delaware corporation (the “Company”), and Robert B. Nachwalter (the “Participant”). 
+
+R E C I T A L S
+
+WHEREAS, the Company has adopted the 2007 Whitehall Jewelers, Inc. Stock Incentive Plan (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement. A copy of the Plan as presently in effect is attached to this Agreement as Annex A. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan; and 
+
+WHEREAS, the Committee has determined that it would be in the best interests of the Company and its stockholders to grant the stock option award provided for herein to the Participant pursuant to the Plan and the terms set forth herein.
+
+NOW THEREFORE, in consideration of the mutual covenants hereinafter set forth, the parties hereto agree as follows: 
+
+1. Grant of Option. Subject to the terms and conditions of the Plan and the additional terms and conditions set forth in this Agreement, the Company hereby grants to the Participant an option (the “Option”) to purchase 402 Shares (the “Option Shares”) at an option exercise price of $850 per Share (the “Option Price”), which is not less than the Fair Market Value of a Share on the Grant Date; provided, however, if the Company consummates an equity financing on or prior to August 31, 2007 in which it raises at least $25,000,000 in gross proceeds at a per share price in excess of the Option Price (including in connection with any financing pursuant to a reverse merger transaction), then the Option Price shall automatically be increased to the fair market value at such time based upon the price per share at which capital was raised in such financing. This Option is not intended to be an ISO. For the avoidance of doubt, the Option Shares and the Option Price are after giving effect to the Stock Split.
+
+2. Vesting.
+
+(a) Subject to the Participant's continued employment with the Company, the Option Shares shall vest and become nonforfeitable over a three-year period as follows: 14/36ths of the Option Shares are immediately vested on the date hereof and 1/36th of the Option Shares shall vest and become nonforfeitable commencing on August 17, 2007 (the “Initial Monthly Vesting Date”) and on each monthly anniversary of the Initial Monthly Vesting Date until such time as all of the Option Shares shall vest and become nonforfeitable. In the event the above vesting schedule results in the vesting of any fractional Option Shares, such fractional Option Shares shall not be deemed vested hereunder but shall vest and become nonforfeitable when such fractional Option Shares aggregate whole Option Shares.  
+(b) Subject to the Participant's continued employment with the Company, beginning with the Company’s fiscal year 2007 (which ends January 31, 2008), in addition to  
+  
+* * *
+
+the vesting schedule reflected in paragraph (a) above, the Options shall vest and become exercisable according to the following schedule:  
+(i) One-fourth (1/4) of the Options shall vest if EBITDA (as defined below) equals or exceeds $5,000,000 at the end of any fiscal year;  
+(ii) One-half (1/2) of the Options shall vest if EBITDA equals or exceeds $15,000,000 at the end of any fiscal year;  
+(iii) Three-fourths (3/4) of the Options shall vest if EBITDA equals or exceeds $25,000,000 at the end of any fiscal year; and  
+(iv) Any unvested portion of the Options shall vest if EBITDA equals or exceeds $35,000,000 at the end of any fiscal year.  
+For purposes of this Agreement, “EBITDA” shall mean the sum of the Company’s earnings from its operations, after eliminating therefrom all non-cash extraordinary non-recurring items of income (including gains on the sale of assets and earnings from the sale of discontinued business lines) and after all expenses (excluding all extraordinary non-recurring items of expense) and other proper charges, but before payment or provision for interest, taxes, depreciation and amortization in accordance with GAAP, consistent with the Company’s past practices and as determined by the Company’s independent accountants.   
+(c) If the Participant's employment with the Company is terminated for any reason, the Option Shares shall, to the extent not then vested, be forfeited by the Participant without consideration.  
+(d) Notwithstanding any other provision of this Agreement to the contrary, in the event of a Change of Control (as defined in the Employment Agreement) the Option Shares shall, to the extent not then vested and not previously forfeited, immediately become fully vested.  
+  
+3. Repurchase. Any Shares held by the Participant from the exercise of the Options shall be repurchasable by the Company, at its option, within the 120-day period following the termination of, or the voluntary resignation by the Participant of, the Participant’s employment, at (i) 80% of the Fair Market Value on the date of repurchase if such termination is for Cause (as defined in Section 4 below) or due to the Participant’s voluntary resignation of his employment with the Company, or (ii) 100% of Fair Market Value on the date of repurchase if such termination is for a reason other than for Cause or due to the Participant’s voluntary resignation of his employment with the Company, in the case of clauses (i) and (ii), according to the following terms: the repurchase price will be paid by the Company over a 2-year period in equal installments on the first day of each calendar quarter following the repurchase closing; provided, however, payments may be deferred to the extent required to avoid any penalty tax imposed under Section 409A of the Code. Notwithstanding the above, Participant’s obligation to allow the Company to repurchase Shares shall terminate upon the earlier of (x) two years following the grant date of the Options or (y) such time when 50% or more of the outstanding common stock of the Company entitled to vote generally in the election of directors of the Company has been registered for resale.
+
+2
+
+* * *
+
+4. Period of Exercise. Subject to the provisions of the Plan and this Agreement, the Participant may exercise all or any part of the vested Option Shares at any time prior to the earliest to occur of: 
+
+(a) the fifth anniversary of the Grant Date;  
+(b) one year following the date of the Participant’s termination of employment due to death or Disability;  
+(c) ninety days following the date of the Participant’s termination of employment by the Company without Cause or by the Participant for any reason; and  
+(d) the date of the Participant’s termination of employment by the Company for Cause.  
+  
+Notwithstanding the foregoing, the Participant shall not exercise any part of the vested Option Shares for a period of ninety (90) days following the Grant Date.
+
+For purposes of this Agreement, “Cause” shall mean “Cause” as defined in any employment agreement then in effect between the Participant and the Company or if not defined therein or, if there shall be no such agreement then in effect, (i) Participant's engagement in misconduct which is materially injurious to the Company or its Affiliates, (ii) Participant’s continued failure to substantially perform his duties to the Company, (iii) Participant's repeated dishonesty in the performance of his duties to the Company, (iv) Participant's commission of an act or acts constituting any (x) fraud against, or misappropriation or embezzlement from the Company or any of its Affiliates, (y) crime involving moral turpitude, or (z) offense that could result in a jail sentence of at least 30 days or (v) Participant's material breach of any confidentiality or non-competition covenant entered into between the Participant and the Company.
+
+5. Manner of Exercise and Payment. Subject to the terms and conditions of this Agreement and the Plan, this Option may be exercised by delivery of written notice to the Secretary of the Company, at the Company's principal executive office in the form of Annex B. The Participant shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any Shares subject to this Option until this Option shall have been exercised pursuant to the terms of this Agreement and the Participant shall have paid the full Option Price for the number of Shares in respect of which this Option was exercised. The Option Price of the Shares as to which an Option shall be exercised shall be paid to the Company at the time of exercise in (i) cash or its equivalent, (ii) in Shares having a Fair Market Value equal to the aggregate Option Price for the Shares being purchased; provided that such Shares have been held by the Participant for no less than six months (or such other period as established from time to time by the Committee or generally accepted accounting principles), (iii) partly in cash and, partly in such Shares, (iv) “cashless exercise” via a broker, or (v) such other method approved by the Committee.
+
+6. Securities Laws. Upon the acquisition of any Shares pursuant to the exercise of the Option, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement. The Company acknowledges that it is the intention of the Company that the Options are being granted pursuant to and comply with Rule 701 of the Securities Act of 1933, as amended.
+
+7. Legend on Certificate. The certificates representing Shares acquired upon exercise of all or a portion of the Option Shares delivered to the Participant shall be subject to such
+
+3
+
+* * *
+
+stop transfer orders and other restrictions as the Committee may deem advisable under the Plan or the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed, and any applicable Federal or state laws, and the Committee may cause a legend or legends to be put on any such certificate to make appropriate reference to such restrictions. 
+
+8. Option Subject to Plan. By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan. The Option is subject to the Plan. The terms and provisions of the Plan, as it may be amended from time to time, are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan, as applicable will govern and prevail.
+
+9. No Employment or Service Contract. Nothing in this Agreement or in the Plan shall confer upon the Participant any right to continue such Participant's relationship with the Company or a subsidiary or Affiliate thereof, nor shall it give any Participant the right to be retained in the employ of the Company or a subsidiary or Affiliate or interfere with or otherwise restrict in any way the rights of the Company or a subsidiary or Affiliate, which rights are hereby expressly reserved, to terminate any Participant's employment or relationship at any time for any reason, except as may be set forth in an employment or other agreement between the Participant and the Company or a subsidiary or Affiliate of the Company. 
+
+10. Transferability. The Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company. After the death of the Participant, the Option may be exercised by the personal representatives of the Participant as provided in Section 4(b).
+
+11. Withholding. The Company shall have the right to deduct from any distribution of cash to the Participant an amount equal to the federal, state and local income taxes and other amounts as may be required by law to be withheld (the “Withholding Taxes”) with respect to this Option. If the Participant is entitled to receive Shares upon exercise of this Option, the Participant shall pay the Withholding Taxes to the Company in cash or Shares having a Fair Market Value equal to the amount of the Withholding Taxes prior to the issuance of such Shares. 
+
+12. Modification of Award Agreement. This Agreement may be modified, amended, suspended or terminated, and any terms or conditions may be waived, but only by a written instrument executed by the parties hereto. 
+
+13. Entire Agreement. This Agreement and the Plan constitute the entire agreement of the parties with respect to the subject matter hereof, and supersede any prior written or oral agreements (including the terms of the proposed Option grant detailed in the employment agreement, if any, between the Participant and the Company). If there is any inconsistency between the terms of this Agreement and the terms of the Plan, the Plan's terms shall completely supersede and replace the conflicting terms of this Agreement. 
+
+14. Severability. Should any provision of this Agreement be held by a court of competent jurisdiction to be unenforceable or invalid for any reason, the remaining provisions of this
+
+4
+
+* * *
+
+Agreement shall not be affected by such holding and shall continue in full force in accordance with their terms. 
+
+15. Choice of Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware without regard to conflicts of laws principles thereof. 
+
+16. Signature in Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement.
+
+Robert B. Nachwalter  
+[Name of Participant] WHITEHALL JEWELERS, INC.  
+/s/ Robert B. Nachwalter By: /s/ Edward A. Dayoob  
+Signature of Participant Name: Edward Dayoob  
+Title: President and CEO  
+Attachments: Annex A (The Plan)  
+Annex B (Form of Exercise Notice)  
+Dated: July 23, 2007  
+  
+
+
+5
+
+* * *
+
+ANNEX A
+
+WHITEHALL JEWELERS, INC.   
+STOCK INCENTIVE PLAN 
+
+See 2007 Whitehall Jewelers, Inc. Stock Incentive Plan attached as an exhibit to this filing.
+
+* * *
+
+ANNEX B
+
+WHITEHALL JEWELERS, INC.  
+STOCK INCENTIVE PLAN   
+  
+Notice of Exercise of Option
+
+1\. Exercise of Option. Pursuant to the Whitehall Jewelers, Inc. Stock Incentive Plan (the “Plan”) and my Agreement thereunder dated ___________________ (the “Agreement”), I hereby elect to exercise my option (the “Option”) to the extent of ____________ Shares.
+
+2. Delivery of Payment.
+
+(a) I hereby deliver to the Company a cashier's check in the amount of US Dollars $ ____________ in full payment of the purchase price of the Shares determined by multiplying (x) the exercise price per Share as set forth in my Agreement, by (y) the number of Shares as to which I am exercising the Option and in satisfaction of my obligation to remit to the Company an amount sufficient to satisfy any withholding tax obligations of the Company that arise in connection with this exercise, or through such other payment method agreed to by the Company and permitted under the terms of the Plan; or 
+
+(b) I hereby deliver to the Company Shares in accordance with the terms of the Option Agreement having a Fair Market Value equivalent to US Dollars $ __________________ in full amount of the purchase price of the Shares determined by multiplying (x) the exercise price per Share as set forth in my Agreement, by (y) the number of Shares as to which I am exercising the Option and in satisfaction of my obligation to remit to the Company an amount sufficient to satisfy any withholding tax obligations of the Company that arise in connection with this exercise; or 
+
+(c) I hereby shall pay through a “cashless exercise” via a broker the amount equivalent to US Dollars $ __________________ in full amount of the purchase price of the Shares determined by multiplying (x) the exercise price per Share as set forth in my Agreement, by (y) the number of Shares as to which I am exercising the Option and in satisfaction of my obligation to remit to the Company an amount sufficient to satisfy any withholding tax obligations of the Company that arise in connection with this exercise; or 
+
+(d) I hereby deliver to the Company such other payment method agreed to by the Company and permitted under the terms of the Plan in the amount equivalent to US Dollars $ __________________ in full amount of the purchase price of the Shares determined by multiplying (x) the exercise price per Share as set forth in my Agreement, by (y) the number of Shares as to which I am exercising the Option and in satisfaction of my obligation to remit to the Company an amount sufficient to satisfy any withholding tax obligations of the Company that arise in connection with this exercise. 
+
+3\. Representations. In connection with my exercise of the Option, I hereby represent to the Company as follows: 
+
+(a) I am acquiring the Shares solely for investment purposes, with no present intention of distributing or reselling any of the Shares or any interest therein. I acknowledge that the Shares have not been registered under the Securities Act of 1933, as amended.
+
+(b) I am aware of the Company's and its subsidiaries' business affairs and financial condition and have acquired sufficient information about the Company and its subsidiaries to reach an informed and knowledgeable decision to acquire the Shares.
+
+* * *
+
+(c) I understand that the Shares are “restricted securities” under applicable U.S. federal and state securities laws and that, pursuant to these laws, I must hold the Shares indefinitely unless they are registered with the Securities and Exchange Commission and qualified by state authorities, or unless an exemption from such registration and qualification requirements is available. I acknowledge that the Company has no obligation to register or qualify the Shares for resale. I further acknowledge that if an exemption from registration or qualification is available, it may be conditioned on various requirements including, but not limited to, the time and manner of sale, the holding period for the Shares, and requirements relating to the Company which are outside of my control, and which the Company is under no obligation to and may not be able to satisfy. 
+
+(d) I understand that there is no public market for the Shares, that no market may ever develop for them, and that the Shares have not been approved or disapproved by the Securities and Exchange Commission or any other federal, state or other governmental agency. 
+
+(e) I understand that the Shares are subject to certain restrictions on transfer set forth in the Plan. Both the Plan and the Agreement are incorporated herein by reference.
+
+(f) I have consulted my own tax advisors in connection with my exercise of this Option and I am not relying upon the Company for any tax advice.
+
+Submitted by the Optionholder:  
+Date: By:  
+Print Name:  
+Address:  
+Social Security No.  
+Received and Accepted by the Company:  
+WHITEHALL JEWELERS, INC.  
+By:  
+Print Name:  
+Title:  
+  
+Note: If the Option is being exercised on behalf of a deceased Plan Participant, then this Notice must be signed by such Participant's personal representative and must be accompanied by a certificate issued by an appropriate authority evidencing that the individual signing this Notice has been duly appointed and is currently serving as the Participant's personal representative under applicable local law governing decedents' estates. 
+
+2
+
+* * *

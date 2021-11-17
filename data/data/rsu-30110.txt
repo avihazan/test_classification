@@ -1,0 +1,219 @@
+EXHIBIT 10.15
+
+
+
+This STOCK OPTION AGREEMENT (this “Agreement”), dated as of August 17, 2007 (the “Grant Date”), is between Steven J. Miller (the “Optionee”) and Advanced Communications Technologies, Inc., a Florida corporation (the “Company”).
+
+WHEREAS, the Optionee is an employee of the Company; and
+
+WHEREAS, the Company desires to create an incentive for the Optionee to use his best efforts in the performance of his duties to and for the benefit of the Company and its subsidiaries by granting him an option to purchase shares of the Company’s Common Stock.
+
+NOW, THEREFORE, the Optionee and the Company hereby agree as follows:
+
+1\. Definitions. For all purposes of this Agreement, the following terms shall have the meanings set forth below:
+
+“Base EBITDA Targets” means the Base EBITDA targets for the Company’s 2008, 2009 and 2010 fiscal years set forth on Schedule 1 hereto; provided, that if the Company or any of its subsidiaries in any fiscal year enters into any extraordinary transaction, such as a business acquisition or disposition, the Board in the exercise of its sole discretion may, at any time during such fiscal year, adjust upward or downward any such target to take into account such extraordinary transaction.
+
+“Board” means the Board of Directors of the Company.
+
+“Cause” has the meaning specified in the Employment Agreement.
+
+“Code” means the Internal Revenue Code of 1986, as amended.
+
+“Common Stock” means the common stock of the Company, no par value.
+
+“Company” has the meaning specified in the preamble hereto.
+
+“Consolidated Net Income” means, for any period, the net income (or loss) of the Company and its subsidiaries for such period on a consolidated basis, after deducting all operating expenses, provisions for all taxes and reserves (including reserves for deferred income taxes) and all other proper deductions, all determined in accordance with generally accepted accounting principles consistently applied, after eliminating all intercompany items, but excluding from the definition of Consolidated Net Income any extraordinary gains and/or losses and any gains and/or losses from the sale or other disposition of assets other than in the ordinary course of business, all determined in accordance with generally accepted accounting principles consistently applied.
+
+  
+
+
+* * *
+
+  
+
+
+“EBITDA” means, with respect to any fiscal year, the sum of the Consolidated Net Income (as defined in the Employment Agreement) (or loss) of the Company and its subsidiaries for such fiscal year, calculated in accordance with generally accepted accounting principles consistently applied but excluding any extraordinary items of income, plus all amounts deducted in the computation thereof on account of (a) interest expense (net of any interest income), (b) income taxes, (c) depreciation and amortization, (d) charges for stock-based compensation, (e) implementation expenses for Sarbanes-Oxley compliance not to exceed $150,000, (f) expenses incurred to file a Demand Registration Statement on behalf of Investor Stockholders, as defined in that certain Registration Rights Agreement dated August 17, 2007; and (h) H.I.G. Capital L.L.C. management fees accrued or paid during such fiscal year.
+
+“Employment Agreement” means the Employment Agreement, dated as of the date hereof, between the Grantee and the Company.
+
+“Exercise Price” has the meaning specified in Section 2 hereof.
+
+“Family Trust”: means, with respect to any individual, any trust created for the benefit of one or more of such individual’s Related Persons and controlled by such individual or one or more Related Persons.
+
+“Grant Date” has the meaning specified in the preamble hereto.
+
+“Good Reason” has the meaning specified in the Employment Agreement.
+
+“Option” has the meaning specified in Section 2 hereof.
+
+“Optionee” has the meaning specified in the preamble hereto.
+
+“Optioned Shares” has the meaning specified in Section 2 hereof.
+
+“Plan” means the Company’s 2007 Amended and Restated Stock Plan attached hereto as Exhibit A.
+
+“Related Persons”: means, with respect to any individual, such individual’s parents, spouse, children and grandchildren.
+
+“Termination Date” has the meaning specified in Section 4(a) hereof.
+
+“Vested Optioned Shares” has the meaning specified in Section 5 below.
+
+2\. Grant of Option.
+
+(a) Subject to the terms and conditions set forth herein and pursuant to the Plan, the Company grants to the Optionee an option (the “Option”) to purchase from the Company all or any part of (i) 1,942,793,493 shares of Common Stock hereof the “Tenured Optioned Shares”), at a price of $.00075 per Tenured Optioned Share (the “Exercise Price”) and (ii) 1,165,676,096 shares of Common Stock (the “Performance Optioned Shares”, and together with the Tenured Option Shares, the “Optioned Shares”) at a price per Performance Optioned Share equal to the Exercise Price.
+
+* * *
+
+(b) Anything in this Agreement to the contrary notwithstanding, the Option is subject to and entirely contingent upon an amendment to the Articles of Incorporation of the Company (the “Charter Amendment”) to increase the authorized number of shares of Common Stock to an amount sufficient for the grant of restricted stock and options in the maximum number contemplated by the Plan, which Charter Amendment is subject to the approval of the stockholders of the Company.
+
+3\. Character of Option. This Option is not intended to qualify as an incentive option under Section 422 of the Code.
+
+4\. Duration of Option. The Option shall terminate in its entirety on the earliest of (i) the tenth (10th) anniversary of the Grant Date or (ii) such earlier time as the Option may terminate in accordance with the Plan.
+
+5\. Exercise of Option.
+
+(a) At any time after the approval of the Charter Amendment and the effective filing thereof with the Florida Department of State, and prior to the termination of the Option pursuant to Section 4 above, the Optionee shall have the right to exercise the Option for all or a portion of the Optioned Shares which have become “Vested Optioned Shares” as of the date of exercise determined in accordance with this paragraph (a):
+
+(i) Initially, 777,117,397 of the Tenured Optioned Shares shall be considered Vested Optioned Shares. One twelfth (1/12th) of the remaining 1,165,676,096 Tenured Optioned Shares shall become “Vested Optioned Shares” upon the expiration of each three (3) month period after the Grant Date, such that all of the Tenured Optioned Shares shall be Vested Optioned Shares as of and after the third anniversary of the Grant Date, if the Option has not terminated prior to such date.
+
+(ii) Initially, none of the Performance Optioned Shares shall be considered Vested Optioned Shares. In the event that a Base EBITDA Target is met or exceeded for a given fiscal year, one third (1/3rd) of the original number of Performance Optioned Shares shall become “Vested Optioned Shares” upon the completion of the Company’s audited financial statements for such year demonstrating that such Base EBITDA Target has been met or exceeded for such year. In the event that a Base EBITDA Target is not met for either the 2008 or the 2009 fiscal year, such one third (1/3rd) of the original number of Performance Optioned Shares shall not become Vested Optioned Shares unless and until the Company meets the Base EBITDA Target for the following fiscal year.
+
+* * *
+
+(iii) Upon the occurrence of any Change of Control (as defined in the Plan) or any termination by the Company of the Optionee’s employment with the Company without Cause (as defined in the Plan) or by the Executive for Good Reason, all of the Tenured Optioned Shares that are not then vested shall become Vested Optioned Shares.
+
+(iv) Notwithstanding the foregoing, in no event shall any Optioned Shares which have not already become Vested Optioned Shares become Vested Optioned Shares after the termination of the Optionee’s employment with the Company for any reason.
+
+(b) Subject to Section 4 hereof, exercise of the Option may be effected in the manner specified in Section 6 of the Plan.
+
+6\. Transfer of Option. During the Grantee’s lifetime, the Option may be exercised only by the Grantee. Except for a transfer of the Option to the Grantee’s Related Persons or Family Trust by will or operation of law after the Grantee’s death, the Option and all rights granted hereunder may not be transferred, assigned, pledged, or hypothecated (whether by operation of law or otherwise) and shall not be subject to execution, attachment, or similar process. Any transfer of the Option in violation of this Section 6 shall be void and will result in the immediate termination of the Option.
+
+7\. Incorporation of Plan Terms. This Option is granted subject to all of the applicable terms and provisions of the Plan.
+
+8\. Limitation of Rights in Optioned Shares. The Optionee shall not be deemed for any purpose to be a stockholder of the Company with respect to any of the Optioned Shares except to the extent that the Option shall have been exercised with respect thereto and, in addition, a stock certificate therefor shall have been delivered to the Optionee.
+
+9\. Communication. All notices, demands and other communications hereunder shall be in writing or by written telecommunication, and shall be deemed to have been duly given if delivered personally or if mailed by certified mail, return receipt requested, postage prepaid, or if sent by overnight courier, or sent by written telecommunication, as follows:
+
+(a) if to an Optionee, at such address set forth after Optionee’s name on the signature page hereto; and
+
+  
+
+
+* * *
+
+  
+
+
+(b) if to the Company, at:
+
+Advanced Communications Technologies, Inc.
+
+420 Lexington Avenue, Suite 2739
+
+New York, New York 10170
+
+Facsimile: 646.277.1666
+
+Attention: CEO
+
+  
+
+
+Any such notice shall be effective (i) if delivered personally, when received, (ii) if sent by overnight courier, when receipted for, (iii) if mailed, five (5) days after being mailed as described above and (iv) if sent by written telecommunication, when dispatched.
+
+10\. Governing Law. This Agreement and the obligations of the parties hereunder shall be deemed to be a contract under seal and shall for all purposes be governed by and construed in accordance with the internal laws of the State of New York without reference to principles of conflicts of law.
+
+11\. Successors and Assigns. This Agreement shall be binding upon any successor or assign of either the Company or the Optionee, and upon any executor, administrator, trustee, guardian, or other legal representative of the Optionee.
+
+{Remainder of Page Intentionally Left Blank.}
+
+  
+
+
+* * *
+
+  
+
+
+IN WITNESS WHEREOF, the parties have executed this Stock Option Agreement as of the date and year first above written.
+
+THE COMPANY:
+
+ADVANCED COMMUNICATIONS
+
+TECHNOLOGIES, INC.
+
+By: 
+
+* * *
+
+Title:
+
+THE OPTIONEE:
+
+/s/ Steven J. Miller
+
+* * *
+
+Name:
+
+Address: 
+
+  
+
+
+  
+
+
+* * *
+
+Schedule 1
+
+  
+
+
+Base EBITDA Targets
+
+  
+
+
+  
+
+
+Fiscal Year
+
+EBITDA Target  
+  
+2008
+
+$ 6,500,000  
+  
+2009
+
+$ 7,600,000  
+  
+2010
+
+$ 9,500,000  
+  
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit A
+
+Amended 2007 Stock Plan
+
+* * *
+
+  
+

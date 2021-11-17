@@ -1,0 +1,220 @@
+Exhibit 10.2
+
+
+
+This Registration Rights Agreement (this “Agreement”) is made and entered into as of this 24th day of August, 2008 by and among Remedent, Inc., a Nevada corporation (the “Company”), and Den-Mat Holdings, LLC (the “Initial Investor”) pursuant to that certain Distribution, License and Manufacturing Agreement by and among the Company, Remedent, N.V, and Den-Mat Holdings, LLC (the “DLMA”). 
+
+The parties hereby agree as follows: 
+
+1\. Certain Definitions. 
+
+As used in this Agreement, the following terms shall have the following meanings: 
+
+“Affiliate” means, with respect to any person, any other person which directly or indirectly controls, is controlled by, or is under common control with, such person. 
+
+“Business Day” means a day, other than a Saturday or Sunday, on which banks in New York City are open for the general transaction of business. 
+
+“Common Stock” shall mean the Company’s common stock, par value $0.001 per share, and any securities into which such shares may hereinafter be reclassified. 
+
+“Investors” shall mean the registered holders from time to time of the Warrants and/or Registrable Securities. 
+
+“Person” means a person or entity. 
+
+“Prospectus” shall mean the prospectus included in any Registration Statement, as amended or supplemented by any prospectus supplement, with respect to the terms of the offering of any portion of the Registrable Securities covered by such Registration Statement and by all other amendments and supplements to the prospectus, including post-effective amendments and all material incorporated by reference in such prospectus. 
+
+“Register,” “registered” and “registration” refer to a registration made by preparing and filing a Registration Statement in compliance with the 1933 Act (as defined below), and the declaration or ordering of effectiveness of such Registration Statement or document. 
+
+“Registrable Securities” or “Registrable Security” shall mean (i) the Warrant Shares and (ii) any other securities issued or issuable with respect to or in exchange for Registrable Securities; provided, that, a security shall cease to be a Registrable Security upon (A) sale pursuant to a Registration Statement or Rule 144 under the 1933 Act, or (B) such security becoming eligible for sale by the Investors without a volume limitation during a three (3) month period pursuant to Rule 144. 
+
+“Registration Statement” shall mean any registration statement of the Company filed under the 1933 Act that covers the resale of any of the Registrable Securities pursuant to the provisions of this Agreement, amendments and supplements to such Registration Statement, including post-effective amendments, all exhibits and all material incorporated by reference in such Registration Statement. 
+
+“Required Investors” means the Investors holding a majority of the Registrable Securities. 
+
+“SEC” means the U.S. Securities and Exchange Commission. 
+
+“1933 Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder. 
+
+“1934 Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder. 
+
+* * *
+
+##### 
+
+“Warrants” means the warrant to purchase an aggregate of 3,378,379 shares of Common Stock, dated concurrently with this Agreement, issued by the Company to the Initial Investor and any replacement or successor warrants issued in accordance with the terms thereof. 
+
+“Warrant Shares” means the shares of Common Stock issuable upon the exercise of the Warrants. 
+
+2\. Registration. 
+
+(a) Registration Statements. 
+
+(i) Within seventy-five (75) days after the date of this Agreement (the “Filing Deadline”), the Company shall prepare and file with the SEC a Registration Statement on Form S-3 (or, if Form S-3 is not then available to the Company, on such form of registration statement as is then available to effect a registration for resale of the Registrable Securities), covering the resale of the Registrable Securities in an amount at least equal to the Warrant Shares. Such Registration Statement also shall cover, to the extent allowable under the 1933 Act and the rules promulgated thereunder (including Rule 416), such indeterminate number of additional shares of Common Stock resulting from stock splits, stock dividends or similar transactions with respect to the Registrable Securities. The Registration Statement (and each amendment or supplement thereto, and each request for acceleration of effectiveness thereof) shall be provided in accordance with Section 3(c) to counsel for the Initial Investor prior to its filing or other submission. 
+
+(ii) Additional Registrable Securities. Upon any change in the Warrant Price (as defined in the Warrant) such that additional shares of Common Stock become issuable upon the exercise of the Warrants, upon the written demand of any Investor the Company shall prepare and file with the SEC within thirty (30) days after such demand one or more Registration Statements on Form S-3 or amend the Registration Statement filed pursuant to clause (i) above, if such Registration Statement has not previously been declared effective (or, if Form S-3 is not then available to the Company, on such form of registration statement as is then available to effect a registration for resale of such additional shares of Common Stock (the “Additional Shares”)) covering the resale of the Additional Shares, but only to the extent the Additional Shares are not at the time covered by an effective Registration Statement. Such Registration Statement also shall cover, to the extent allowable under the 1933 Act and the rules promulgated thereunder (including Rule 416), such indeterminate number of additional shares of Common Stock resulting from stock splits, stock dividends or similar transactions with respect to the Additional Shares. The Registration Statement (and each amendment or supplement thereto, and each request for acceleration of effectiveness thereof) shall be provided in accordance with Section 3(c) to the Investors’ counsel prior to its filing or other submission. 
+
+(iii) S-3 Qualification. If the Registration Statement is not initially filed on Form S-3, then promptly following the date (the “Qualification Date”) upon which the Company becomes eligible to use a registration statement on Form S-3 to register the Registrable Securities or Additional Shares, as applicable, for resale, but in no event more than thirty (30) days after the Qualification Date (the “Qualification Deadline”), the Company shall file a registration statement on Form S-3 covering the Registrable Securities or Additional Shares, as applicable (or a post-effective amendment on Form S-3 to the then effective Registration Statement) (a “Shelf Registration Statement”) and shall use commercially reasonable efforts to cause such Shelf Registration Statement to be declared effective as promptly as practicable thereafter. 
+
+(b) Expenses. The Company will pay all expenses associated with each registration, including filing and printing fees, the Company’s counsel and accounting fees and expenses, costs associated with clearing the Registrable Securities for sale under applicable state securities laws, listing 
+
+* * *
+
+##### 
+
+fees, fees and expenses of counsel to the Investors and the Investors’ reasonable expenses in connection with the registration, but excluding discounts, commissions, fees of underwriters, selling brokers, dealer managers or similar securities industry professionals with respect to the Registrable Securities being sold. 
+
+(c) Effectiveness. 
+
+(i) The Company shall use commercially reasonable efforts to have the Registration Statement declared effective as soon as practicable. The Registration Statement shall be declared effective by the SEC within (i) five (5) Business Days after the SEC shall have informed the Company that no review of the Registration Statement will be made or (ii) within one hundred thirty five (135) days after the date of this Agreement (one hundred sixty five (165) days if the Registration Statement is reviewed by the SEC), and each Registration Statement covering Additional Shares shall be declared effective by the SEC within ninety (90) days following the time such Registration Statement was required to be filed pursuant to Section 2(a)(ii) (120 days if the Registration Statement is reviewed by the SEC) and any Shelf Registration Statement shall be declared effective by the SEC within ninety (90) days after the Qualification Deadline (120 days if the Registration Statement is reviewed by the SEC). The Company shall notify the Investors by facsimile or e-mail as promptly as practicable, and in any event, within twenty-four (24) hours, after any Registration Statement is declared effective and shall simultaneously provide the Investors with copies of any related Prospectus to be used in connection with the sale or other disposition of the securities covered thereby. 
+
+(ii) For not more than twenty (20) consecutive days or for a total of not more than forty-five (45) days in any twelve (12) month period, the Company may delay the disclosure of material non-public information concerning the Company, by suspending the use of any Prospectus included in any registration contemplated by this Section containing such information, the disclosure of which at the time is not, in the good faith opinion of the Board of Directors of the Company (as set forth in a resolution of the Board of Directors), in the best interests of the Company (an “Allowed Delay”); provided, that the Company shall promptly (a) notify the Investors in writing of the existence of (but in no event, without the prior written consent of an Investor, shall the Company disclose to such Investor any of the facts or circumstances regarding) material non-public information giving rise to an Allowed Delay, (b) advise the Investors in writing to cease all sales under the Registration Statement until the end of the Allowed Delay and (c) use commercially reasonable efforts to terminate an Allowed Delay as promptly as practicable. 
+
+3\. Company Obligations. The Company will use commercially reasonable efforts to effect the registration of the Registrable Securities in accordance with the terms hereof, and pursuant thereto the Company will, as expeditiously as possible: 
+
+(a) use commercially reasonable efforts to cause such Registration Statement to become effective and to remain continuously effective for a period that will terminate upon the earlier of (i) the date on which all Registrable Securities covered by such Registration Statement as amended from time to time cease to be Registrable Securities (the “Effectiveness Period”) and advise the Investors in writing when the Effectiveness Period has expired; 
+
+(b) prepare and file with the SEC such amendments and post-effective amendments to the Registration Statement and the Prospectus as may be necessary to keep the Registration Statement effective for the Effectiveness Period and to comply with the provisions of the 1933 Act and the 1934 Act with respect to the distribution of all of the Registrable Securities covered thereby; 
+
+(c) provide copies to and permit counsel designated by the Investors and acceptable to the Company to review each Registration Statement no fewer than five (5) business days prior to its 
+
+* * *
+
+##### 
+
+filing with the SEC and each amendment and supplement thereto no fewer than three (3) Business Days prior to its filing with the SEC, and not file any document to which such counsel reasonably objects; 
+
+(d) furnish to the Investors’ legal counsel (i) promptly after the same is prepared and publicly distributed, filed with the SEC or received by the Company (but not later than two (2) Business Days after the filing date, receipt date or sending date, as the case may be) one (1) copy of any Registration Statement and any amendment thereto, each preliminary prospectus and Prospectus and each amendment or supplement thereto, and each letter written by or on behalf of the Company to the SEC or the staff of the SEC, and each item of correspondence from the SEC or the staff of the SEC, in each case relating to such Registration Statement (other than any portion of any thereof which contains information for which the Company has sought confidential treatment), and (ii) such number of copies of a Prospectus, including a preliminary prospectus, and all amendments and supplements thereto and such other documents as each Investor may reasonably request in order to facilitate the disposition of the Registrable Securities owned by such Investor that are covered by the related Registration Statement; 
+
+(e) use commercially reasonable efforts to (i) prevent the issuance of any stop order or other suspension of effectiveness and, (ii) if such order is issued, obtain the withdrawal of any such order at the earliest possible moment; 
+
+(f) prior to any public offering of Registrable Securities, use commercially reasonable efforts to register or qualify or cooperate with the Investors and their counsel in connection with the registration or qualification of such Registrable Securities for offer and sale under the securities or blue sky laws of such jurisdictions requested by the Investors and do any and all other commercially reasonable acts or things necessary or advisable to enable the distribution in such jurisdictions of the Registrable Securities covered by the Registration Statement; provided, however, that the Company shall not be required in connection therewith or as a condition thereto to (i) qualify to do business in any jurisdiction where it would not otherwise be required to qualify but for this Section 3(f), (ii) subject itself to general taxation in any jurisdiction where it would not otherwise be so subject but for this Section 3(f), or (iii) file a general consent to service of process in any such jurisdiction; 
+
+(g) use commercially reasonable efforts to cause all Registrable Securities covered by a Registration Statement to be listed on each securities exchange, interdealer quotation system or other market on which similar securities issued by the Company are then listed; 
+
+(h) immediately notify the Investors, at any time when a Prospectus relating to Registrable Securities is required to be delivered under the 1933 Act, upon discovery that, or upon the happening of any event as a result of which, the Prospectus included in a Registration Statement, as then in effect, includes an untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing, and at the request of any such holder, promptly prepare and furnish to such holder a reasonable number of copies of a supplement to or an amendment of such Prospectus as may be necessary so that, as thereafter delivered to the purchasers of such Registrable Securities, such Prospectus shall not include an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing; and 
+
+(i) otherwise use commercially reasonable efforts to comply with all applicable rules and regulations of the SEC under the 1933 Act and the 1934 Act, take such other actions as may be reasonably necessary to facilitate the registration of the Registrable Securities hereunder; and make available to its security holders, as soon as reasonably practicable, but not later than the Availability Date (as defined below), an earnings statement covering a period of at least twelve (12) months, beginning after the effective date of each Registration Statement, which earnings statement shall satisfy the 
+
+* * *
+
+##### 
+
+provisions of Section 11(a) of the 1933 Act, including Rule 158 promulgated thereunder (for the purpose of this subsection 3(i), “Availability Date” means the 45th day following the end of the fourth fiscal quarter that includes the effective date of such Registration Statement, except that, if such fourth fiscal quarter is the last quarter of the Company’s fiscal year, “Availability Date” means the 90th day after the end of such fourth fiscal quarter). 
+
+(j) With a view to making available to the Investors the benefits of Rule 144 (or its successor rule) and any other rule or regulation of the SEC that may at any time permit the Investors to sell shares of Common Stock to the public without registration, the Company covenants and agrees to: (i) make and keep public information available, as those terms are understood and defined in Rule 144, until the earlier of (A) six (6) months after such date as all of the Registrable Securities cease to be Registrable Securities or (B) such date as all of the Registrable Securities shall have been resold; (ii) file with the SEC in a timely manner all reports and other documents required of the Company under the 1934 Act; and (iii) furnish to each Investor upon request, as long as such Investor owns any Registrable Securities, (A) a written statement by the Company that it has complied with the reporting requirements of the 1934 Act, (B) a copy of the Company’s most recent Annual Report on Form 10-KSB or successor form or Quarterly Report on Form 10-QSB or successor form, and (C) such other information as may be reasonably requested in order to avail such Investor of any rule or regulation of the SEC that permits the selling of any such Registrable Securities without registration. 
+
+4\. Due Diligence Review; Information. The Company shall make available, during normal business hours, for inspection and review by the Investors, advisors to and representatives of the Investors (who may or may not be affiliated with the Investors and who are reasonably acceptable to the Company), all financial and other records, all SEC filings, and all other corporate documents and properties of the Company as may be reasonably necessary for the purpose of such review, and cause the Company’s officers, directors and employees, within a reasonable time period, to supply all such information reasonably requested by the Investors or any such representative, advisor or underwriter in connection with such Registration Statement (including, without limitation, in response to all questions and other inquiries reasonably made or submitted by any of them), prior to and from time to time after the filing and effectiveness of the Registration Statement for the sole purpose of enabling the Investors and such representatives, advisors and underwriters and their respective accountants and attorneys to conduct initial and ongoing due diligence with respect to the Company and the accuracy of such Registration Statement. 
+
+The Company shall not disclose material nonpublic information to the Investors, or to advisors to or representatives of the Investors, unless prior to disclosure of such information the Company identifies such information as being material nonpublic information and provides the Investors, such advisors and representatives with the opportunity to accept or refuse to accept such material nonpublic information for review and any Investor wishing to obtain such information enters into an appropriate confidentiality agreement with the Company with respect thereto. 
+
+5\. Obligations of the Investors. 
+
+(a) Each Investor shall furnish in writing to the Company such information regarding itself, the Registrable Securities held by it and the intended method of disposition of the Registrable Securities held by it, as shall be reasonably required to effect the registration of such Registrable Securities and shall execute such documents in connection with such registration as the Company may reasonably request. At least five (5) Business Days prior to the first anticipated filing date of any Registration Statement, the Company shall notify each Investor of the information the Company requires from such Investor if such Investor elects to have any of the Registrable Securities included in the Registration Statement. An Investor shall provide such information to the Company at least two (2) Business Days prior to the first anticipated filing date of such Registration Statement if such Investor 
+
+* * *
+
+##### 
+
+elects to have any of the Registrable Securities included in the Registration Statement. For so long as the Initial Investor is the only Investor, the Company may delay the filing of the Registration Statement until such information is furnished by the Initial Investor, and the Filing Deadline, the thirty (30) day period referred to in Section 2(a)(ii) and the ninety (90) day, one hundred twenty (120) day, one hundred thirty-five (135) day and one hundred sixty-five (165) day periods referred to in Section 2(c) and the Qualification Deadline shall be extended for a period equivalent to the period of such delay. 
+
+(b) Each Investor, by its acceptance of the Registrable Securities agrees to cooperate with the Company as reasonably requested by the Company in connection with the preparation and filing of a Registration Statement hereunder, unless such Investor has notified the Company in writing of its election to exclude all of its Registrable Securities from such Registration Statement. 
+
+(c) Each Investor agrees that, upon receipt of any notice from the Company of either (i) the commencement of an Allowed Delay pursuant to Section 2(c)(ii) or (ii) the happening of an event pursuant to Section 3(h) hereof, such Investor will immediately discontinue disposition of Registrable Securities pursuant to the Registration Statement covering such Registrable Securities, until the Investor’s receipt of the copies of the supplemented or amended prospectus filed with the SEC and until any related post-effective amendment is declared effective and, if so directed by the Company, the Investor shall deliver to the Company (at the expense of the Company) or destroy (and deliver to the Company a certificate of destruction) all copies in the Investor’s possession of the Prospectus covering the Registrable Securities current at the time of receipt of such notice. 
+
+6\. Indemnification. 
+
+(a) Indemnification by the Company. The Company will indemnify and hold harmless each Investor and its officers, directors, members, managers, employees and agents, successors and assigns, and each other ‘person’, if any, who controls such Investor within the meaning of the 1933 Act, against any losses, claims, damages or liabilities, joint or several, to which any of them may become subject under the 1933 Act or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of, relate to or are based upon: (i) any untrue statement or alleged untrue statement of any material fact contained in any Registration Statement, any preliminary prospectus or final prospectus contained therein, or any amendment or supplement thereof; (ii) any blue sky application or other document executed by the Company or based upon written information furnished by the Company filed in any state or other jurisdiction in order to qualify any or all of the Registrable Securities under the securities laws thereof (any such application, document or information herein called a "Blue Sky Application"); (iii) the omission or alleged omission to state in a Registration Statement or Blue Sky Application a material fact required to be stated therein or necessary to make the statements therein not misleading; (iv) any violation by the Company or its agents of any rule or regulation promulgated under the 1933 Act applicable to the Company or its agents and relating to action or inaction required of the Company in connection with the registration of the Registrable Securities and the other actions contemplated by this Agreement; or (v) any failure to register or qualify the Registrable Securities included in any such Registration in any state where the Company or its agents has affirmatively undertaken or agreed in writing that the Company will undertake such registration or qualification on an Investor’s behalf, and the Company will reimburse such Investor, and each such officer, director or member and each such controlling person, as incurred, for any legal or other expenses reasonably incurred by them in connection with investigating or defending any such loss, claim, damage, liability or action; provided, however, that the Company will not be liable in any such case if and to the extent that any such loss, claim, damage or liability arises out of or is based upon an untrue statement or alleged untrue statement or omission or alleged omission so made in conformity with information furnished by such Investor or any such controlling person in writing specifically for use in such Registration Statement or Prospectus. 
+
+* * *
+
+##### 
+
+(b) Indemnification by the Investors. Each Investor agrees, severally but not jointly, to indemnify and hold harmless, to the fullest extent permitted by law, the Company, its directors, officers, employees, stockholders and each ‘person’ who controls the Company (within the meaning of the 1933 Act) against any losses, claims, damages, liabilities and expense (including reasonable attorney fees) resulting from any untrue statement of a material fact or any omission of a material fact required to be stated in the Registration Statement or Prospectus or preliminary prospectus or amendment or supplement thereto or necessary to make the statements therein not misleading, to the extent, but only to the extent that such untrue statement or omission is contained in any information furnished in writing by such Investor to the Company specifically for inclusion in such Registration Statement or Prospectus or amendment or supplement thereto; provided, however, that the obligations of such Investor hereunder shall not apply to amounts paid in settlement of any such claims, losses, damages or liabilities (or actions in respect thereof) if such settlement is effected without the consent of such Investor (which consent shall not be unreasonably withheld); and provided that in no event shall the liability of an Investor be greater in amount than the dollar amount of the proceeds (net of all commissions and similar payments incurred in connection with the sale of Registrable Securities and net of all expenses paid by such Investor in connection with any claim relating to this Section 6 and the amount of any damages such Investor has otherwise been required to pay by reason of such untrue statement or omission) received by such Investor upon the sale of the Registrable Securities included in the Registration Statement giving rise to such indemnification obligation. 
+
+(c) Conduct of Indemnification Proceedings. Any Person entitled to indemnification hereunder shall (i) give notice to the indemnifying party of any claim with respect to which it seeks indemnification promptly after such Person has actual knowledge of any claim as to which indemnity may be sought and (ii) permit such indemnifying party to assume the defense of such claim and any litigation resulting therefrom with counsel reasonably satisfactory to the indemnified party; provided that any Person entitled to indemnification hereunder shall have the right to employ separate counsel and to participate in the defense of such claim, but the fees and expenses of such counsel shall be at the expense of such person unless (a) the indemnifying party has agreed to pay such fees or expenses, or (b) the indemnifying party shall have failed to assume the defense of such claim and employ counsel reasonably satisfactory to such person or (c) in the reasonable judgment of any such person, based upon written advice of its counsel, a conflict of interest exists between such Person and the indemnifying party with respect to such claims (in which case, if the Person notifies the indemnifying party in writing that such Person elects to employ separate counsel at the expense of the indemnifying party, the indemnifying party shall not have the right to assume the defense of such claim on behalf of such Person); and provided, further, that the failure of any indemnified party to give notice as provided herein shall not relieve the indemnifying party of its obligations hereunder, except to the extent that such failure to give notice shall materially adversely affect the indemnifying party in the defense of any such claim or litigation. It is understood that the indemnifying party shall not, in connection with any proceeding in the same jurisdiction, be liable for fees or expenses of more than one separate firm of attorneys at any time for all such indemnified parties. No indemnifying party will, except with the consent of the indemnified party, consent to entry of any judgment or enter into any settlement that does not include as an unconditional term thereof the giving by the claimant or plaintiff to such indemnified party of a release from all liability in respect of such claim or litigation. Each indemnified party shall furnish such information regarding itself or the claim in question as an indemnifying party may reasonably request in writing and as shall be reasonably required in connection with defense of such claim and litigation resulting therefrom. 
+
+(d) Contribution. If for any reason the indemnification provided for in the preceding paragraphs (a) and (b) is unavailable to an indemnified party or insufficient to hold it harmless, other than as expressly specified therein, then the indemnifying party shall contribute to the amount paid or payable by the indemnified party as a result of such loss, claim, damage or liability in such proportion as is appropriate to reflect the relative fault of the indemnified party and the indemnifying party, as well as any 
+
+* * *
+
+##### 
+
+other relevant equitable considerations. No person guilty of fraudulent misrepresentation within the meaning of Section 11(f) of the 1933 Act shall be entitled to contribution from any person not guilty of such fraudulent misrepresentation. In no event shall the contribution obligation of a holder of Registrable Securities be greater in amount than the dollar amount of the proceeds (net of all commissions and similar payments incurred in connection with the sale of Registrable Securities and net of all expenses paid by such holder in connection with any claim relating to this Section 6 and the amount of any damages such holder has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission) received by it upon the sale of the Registrable Securities giving rise to such contribution obligation. 
+
+7\. Miscellaneous. 
+
+(a) Amendments and Waivers. This Agreement may be amended only by a writing signed by the Company and the Required Investors. The Company may take any action herein prohibited, or omit to perform any act herein required to be performed by it, only if the Company shall have obtained the written consent to such amendment, action or omission to act, of the Required Investors. 
+
+(b) Notices. Unless otherwise provided, any notice required or permitted under this Agreement shall be given in writing and shall be deemed effectively given as hereinafter described (i) if given by personal delivery, then such notice shall be deemed given upon such delivery, (ii) if given by mail, then such notice shall be deemed given upon the earlier of (A) receipt of such notice by the recipient or (B) three days after such notice is deposited in first class mail, postage prepaid, and (iii) if given by an internationally recognized overnight air courier, then such notice shall be deemed given one business day after delivery to such carrier. All notices shall be addressed as follows: if to the Initial Investor, at its address as set forth in the Company’s books and records and, if to the Company, at the address as follows, or at such other address as the Initial Investor or the Company may designate by notice to the other given in accordance with this Section 7(b): 
+
+If to the Company: 
+
+Remedent, Inc.  
+Xavier de Cocklaan 42  
+9831, Deurle, Belgium  
+Attention: Robin List, Chief Executive Officer 
+
+(c) Assignments and Transfers by Investors. The provisions of this Agreement shall be binding upon and inure to the benefit of the Required Investors and their respective successors and assigns. An Investor may transfer or assign, in whole or from time to time in part, to one or more Persons its rights hereunder in connection with the transfer of Registrable Securities by such Investor to such Person, provided that such Investor complies with all laws applicable thereto and provides written notice of assignment to the Company promptly after such assignment is effected. 
+
+(d) Assignments and Transfers by the Company. This Agreement may not be assigned by the Company (whether by operation of law or otherwise) without the prior written consent of the Required Investors, provided, however, that the Company may assign its rights and delegate its duties hereunder to any surviving or successor corporation in connection with a merger or consolidation of the Company with another corporation, or a sale, transfer or other disposition of all or substantially all of the Company’s assets to another corporation, without the prior written consent of the Required Investors, 
+
+* * *
+
+##### 
+
+after notice duly given by the Company to each Investor and written confirmation from such surviving or successor corporation of its acceptance of the obligations of the Company under this Agreement. 
+
+(e) Benefits of the Agreement. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective permitted successors and assigns of the parties. Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except the Persons referred to in Section 6 as being entitled to indemnification are intended to be third party beneficiaries of this Agreement. 
+
+(f) Counterparts. This Agreement may be executed in one or more counterparts, all of which will be considered one and the same agreement and will become effective when one or more counterparts have been signed by each party and delivered to the other party, regardless of whether both parties have executed the same counterpart. Counterparts may be delivered via facsimile, electronic mail (including pdf) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes. 
+
+(g) Titles and Subtitles. The titles and subtitles used in this Agreement are used for convenience only and are not to be considered in construing or interpreting this Agreement. 
+
+(h) Severability. Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof but shall be interpreted as if it were written so as to be enforceable to the maximum extent permitted by applicable law, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. To the extent permitted by applicable law, the parties hereby waive any provision of law which renders any provisions hereof prohibited or unenforceable in any respect. 
+
+(i) Further Assurances. The parties shall execute and deliver all such further instruments and documents and take all such other actions as may reasonably be required to carry out the transactions contemplated hereby and to evidence the fulfillment of the agreements herein contained. 
+
+(j) Entire Agreement. This Agreement is intended by the parties as a final expression of their agreement and intended to be a complete and exclusive statement of the agreement and understanding of the parties hereto in respect of the subject matter contained herein. This Agreement supersedes all prior agreements and understandings between the parties with respect to such subject matter. 
+
+(k) Governing Law. THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES SHALL BE GOVERNED BY, CONSTRUED AND ENFORCED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ANY CHOICE OR CONFLICT OF LAW RULE THAT WOULD CAUSE THE APPLICATION OR THE LAWS OF ANY JURISDICTION OTHER THAN THE INTERNAL LAWS OF THE STATE OF NEW YORK TO THE RIGHTS AND DUTIES OF THE PARTIES. 
+
+(l) Consent to Jurisdiction. 
+
+(i) EACH OF THE PARTIES IRREVOCABLY AND UNCONDITIONALLY SUBMITS, FOR ITSELF AND ITS PROPERTIES AND ASSETS, TO THE EXCLUSIVE JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK IN THE COUNTY OF NEW YORK OR THE UNITED STATED OF AMERICA FOR THE SOUTHERN 
+
+* * *
+
+##### 
+
+DISTRICT OF NEW YORK AND ANY APPELLATE COURT THEREFROM (COLLECTIVELY, THE “NEW YORK COURTS”), IN ANY PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR FOR RECOGNITION OR ENFORCEMENT OF ANY JUDGMENT RELATING THERETO, AND EACH OF THE PARTIES IRREVOCABLY AND UNCONDITIONALLY AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH PROCEEDING SHALL BE HEARD AND DETERMINED IN THE NEW YORK COURTS. EACH OF THE PARTIES AGREES THAT A FINAL JUDGMENT IN ANY SUCH PROCEEDING SHALL BE CONCLUSIVE AND MAY BE ENFORCED IN OTHER JURISDICTIONS BY SUIT ON THE JUDGMENT OR IN ANY OTHER MANNER PROVIDED BY LAW. 
+
+(ii) EACH OF THE PARTIES IRREVOCABLY AND UNCONDITIONALLY WAIVES, TO THE FULLEST EXTENT IT MAY LEGALLY AND EFFECTIVELY DO SO, ANY OBJECTION WHICH IT MAY NOW OR HEREAFTER HAVE TO THE LAYING OF VENUE OF ANY PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY IN ANY OF THE NEW YORK COURTS. EACH OF THE PARTIES IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH PROCEEDING IN ANY OF THE NEW YORK COURTS. 
+
+(m) Waiver of Jury Trial. EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES, AND THEREFORE IT HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY. 
+
+[remainder of page intentionally left blank; signature page follows]
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the Company and the Investor, by their respective authorized representatives set forth below, have signed this Agreement as of the Effective Date.   
+  
+REMEDENT, INC.
+
+DEN-MAT HOLDINGS, LLC  
+  
+the “Company” 
+
+the “Initial Investor”  
+  
+By: /s/ 
+
+By: /s/  
+  
+Name: Guy De Vreese 
+
+Name: Nicholas Teti  
+  
+Title: Chairman of the Board 
+
+Title: Chief Executive Officer

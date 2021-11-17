@@ -1,0 +1,113 @@
+Exhibit 10.2 
+
+CORINTHIAN COLLEGES, INC. 
+
+2003 PERFORMANCE AWARD PLAN 
+
+
+  
+Recipients Name: «Employee»  
+Number of Stock Units: «Number_of_Stock_Units»1  
+Vesting Schedule: One-third of the Stock Units subject to the Award will vest on each of the first three anniversary dates of Award Date; provided however, that (1) if the Participant remains as Chairman of the Board of Directors of the Corporation for at least one year after the Award Date and thereafter resigns from such position, any remaining unvested Stock Units subject to the Award shall immediately vest upon the Participant’s retirement from the Board, and (2) if a Change in Control Event (as defined in the Plan) occurs, any remaining unvested Stock Units subject to the award shall vest upon (or, as necessary to give effect to such acceleration, immediately prior to, such event).1  
+Award Date: November  , 2010  
+  
+1
+
+All share and unit numbers are subject to adjustment, and the Stock Units are subject to acceleration and termination prior to vesting, as provided herein.   
+  
+THIS RESTRICTED STOCK UNIT AWARD AGREEMENT (this “Agreement”) is by and between CORINTHIAN COLLEGES, INC., a Delaware corporation (the “Corporation”), and the director named above (the “Participant”), and is delivered under the Corinthian Colleges, Inc. 2003 Performance Award Plan (the “Plan”). 
+
+W I T N E S S E T H
+
+WHEREAS, the Compensation Committee of the Board of Directors has approved, and the Corporation has granted, effective as of the Award Date, to the Participant with reference to services rendered to the Company, a restricted stock unit award under the Plan (the “Stock Unit Award” or “Award”), upon the terms and conditions set forth herein and in the Plan. 
+
+NOW THEREFORE, in consideration of services rendered by the Participant and the mutual promises made herein and the mutual benefits to be derived therefrom, the parties agree as follows: 
+
+1\. Defined Terms. Capitalized terms used herein and not otherwise defined herein shall have the meaning assigned to such terms in the Plan. 
+
+1 
+
+* * *
+
+2\. Grant. Subject to the terms of this Agreement and the Plan, the Corporation grants to the Participant a Stock Unit Award with respect to an aggregate number of Stock Units set forth above. As used herein, the term “Stock Unit” means a non-voting unit of measurement which is deemed for bookkeeping purposes to be equivalent to one outstanding share of Common Stock of the Corporation (subject to adjustment as provided in Section 9 hereof) solely for purposes of the Award. The Stock Units shall be used solely as a device for the determination of the payment to eventually be made to the Participant if such Stock Units vest pursuant to this Agreement. The Stock Units shall not be treated as property or as a trust fund of any kind. 
+
+3\. Vesting. The Stock Units subject to the Award shall vest in installments as set forth in the “Vesting Schedule” set forth above, subject to earlier termination or acceleration and subject to adjustment as provided herein. 
+
+4\. Continuance of Employment Required. Except as otherwise expressly provided on the first page of this Agreement, the vesting schedule applicable to the Stock Units requires continued employment or service through each applicable vesting date as a condition to the vesting of the applicable installment of the award and the rights and benefits under this Agreement. Employment or service for only a portion of the vesting period, even if a substantial portion, will not entitle the Participant to any proportionate vesting or avoid or mitigate a termination of rights and benefits upon or following a termination of employment or services as provided in Section 8 below or under the Plan. 
+
+5\. Dividend and Voting Rights.
+
+(a) Limitations on Rights Associated with Units. The Participant shall have no rights as a stockholder of the Corporation, no dividend rights (except as expressly provided in Section 5(b) hereof with respect to Dividend Equivalents) and no voting rights with respect to the Stock Units or any shares of Common Stock underlying or issuable in respect of such Stock Units, until such shares of Common Stock are actually delivered to and held of record by the Participant. No adjustments will be made for dividends or other rights of a holder for which the record date is prior to the date of delivery of such shares. 
+
+(b) Dividend Equivalent Distributions. As of any date that the Corporation pays an ordinary cash dividend on its Common Stock, the Corporation shall credit the Participant with an amount equal to (i) the per-share cash dividend paid by the Corporation on its Common Stock on such date, multiplied by (ii) the total number of Stock Units (with such total number adjusted pursuant to Section 6.3 of the Plan) subject to the Award as of the related dividend payment record date. Any amount credited pursuant to the foregoing provisions of this Section 5(b) shall be payable to the Participant in cash (without interest), subject to the same vesting, timing of payment and other terms, conditions and restrictions as the original Stock Units to which such amount relates. No crediting of dividend equivalents shall be made pursuant to this Section 5(b) with respect to any Stock Units which, as of such record date, have either been paid pursuant to Section 7 or terminated pursuant to Section 8. 
+
+6\. Restrictions on Transfer. Prior to the time the Stock Units are vested and paid, neither the Stock Units comprising the Award nor any other rights of the Participant under this Agreement or the Plan may be transferred, except as expressly provided in Section 1.8 of the Plan. No specific exception to the general transfer prohibitions set forth in Section 1.8 of the Plan has been authorized by the Administrator. 
+
+2 
+
+* * *
+
+7\. Timing and Manner of Payment with Respect to Stock Units. So long as the applicable portion of the total Award has vested (or vests in connection with the applicable event, as the case may be) pursuant to page 1 of this Agreement, (i) 50% of the number of Stock Units subject to this Award shall be paid on or as soon as administratively practical following the second anniversary of the Award Date (and in all events not more than 30 days after such second anniversary date), and (ii) 50% of the number of Stock Units subject to this Award on or as soon as administratively practical following the third anniversary of the Award Date (and in all events not more than 30 days after third anniversary date); provided, however, that any Stock Units remaining subject to the Award shall be paid upon a Change in Control Event to the extent such an event occurs prior to the applicable payment date set forth above and such event constitutes a change in the ownership or effective control of the Corporation or a change in the ownership of a substantial portion of the assets of the Corporation within the meaning of Treasury Regulation Section 1.409A-3. A vested Stock Unit shall be paid by the Corporation delivering to the Participant a share of Common Stock (either by delivering one or more certificates for the shares deliverable with respect to vested Stock Units or by entering such shares in book entry form, as determined by the Corporation in its discretion). The Corporation’s obligation to deliver shares of Common Stock or otherwise make payment with respect to vested Stock Units is subject to the condition precedent that the Participant or other person entitled under the Plan to receive any shares with respect to the vested Stock Units deliver to the Corporation any representations or other documents or assurances required pursuant to Section 6.4 of the Plan. The Participant shall have no further rights with respect to any Stock Units that are paid or that terminate pursuant to Section 8. 
+
+8\. Effect of Termination of Services.
+
+(a) Termination of Employment Generally. The Participant’s Stock Units shall terminate in the event the Participant ceases to serve as Chairman of the Corporation’s Board of Directors prior to the first anniversary of the Award Date (unless a Change in Control Event occurs after the Award Date and prior to or effective in connection with such cessation from service), regardless of the reason for the Participant’s cessation of service in such capacity. 
+
+(b) Termination of Stock Units. If any Stock Units are extinguished hereunder, such unvested, extinguished Stock Units shall, without payment of any consideration by the Corporation or any Subsidiary, automatically terminate and be cancelled without any other action by the Participant, or the Participant’s beneficiary, as the case may be. 
+
+9\. Adjustments Upon Specified Events. Upon the occurrence of certain events relating to the Corporation’s stock contemplated by Section 6.3.1 of the Plan (including, without limitation, an extraordinary cash dividend on such stock), the Administrator shall make adjustments in accordance with such section in the number of Stock Units then outstanding and the number and kind of securities that may be issued in respect of the Award. No such adjustment shall be made with respect to any ordinary cash dividend for which dividend equivalents are paid pursuant to Section 5(b). 
+
+3 
+
+* * *
+
+10\. Tax Withholding. Subject to Section 6.4 of the Plan, upon any distribution of shares of Common Stock in respect of the Stock Units, the Corporation shall automatically reduce the number of shares to be delivered by (or otherwise reacquire) the appropriate number of whole shares, valued at their then Fair Market Value (as determined in accordance with the Plan), to satisfy any withholding obligations of the Corporation or its Subsidiaries with respect to such distribution of shares at the minimum applicable withholding rates. In the event that the Corporation cannot legally satisfy such withholding obligations by such reduction of shares, or in the event of a cash payment or any other withholding event in respect of the Stock Units, the Corporation (or a Subsidiary) shall be entitled to require a cash payment by or on behalf of the Participant and/or to deduct from other compensation payable to the Participant any sums required by federal, state or local tax law to be withheld with respect to such distribution or payment. 
+
+11\. Notices. Any notice to be given under the terms of this Agreement shall be in writing and addressed to the Corporation at its principal office to the attention of the Secretary, and to the Participant at the Participant’s last address reflected on the Corporation’s records, or at such other address as either party may hereafter designate in writing to the other. Any such notice shall be given only when received, but if the Participant is no longer an employee of the Corporation, shall be deemed to have been duly given by the Corporation when enclosed in a properly sealed envelope addressed as aforesaid, registered or certified, and deposited (postage and registry or certification fee prepaid) in a post office or branch post office regularly maintained by the United States Government. 
+
+12\. Plan. The Award and all rights of the Participant under this Agreement are subject to the terms and conditions of the provisions of the Plan, incorporated herein by reference. The Participant agrees to be bound by the terms of the Plan and this Agreement. The Participant acknowledges having read and understanding the Plan, the Prospectus for the Plan, and this Agreement. Unless otherwise expressly provided in other sections of this Agreement, provisions of the Plan that confer discretionary authority on the Board or the Administrator do not (and shall not be deemed to) create any rights in the Participant unless such rights are expressly set forth herein or are otherwise in the sole discretion of the Board or the Administrator so conferred by appropriate action of the Board or the Administrator under the Plan after the date hereof. 
+
+13\. No Service Commitment by Company. Nothing contained in this Agreement or the Plan constitutes an employment or service commitment by the Corporation or any of its Subsidiaries, confers upon the Participant any right to remain employed by or in service to the Corporation or any Subsidiary, interferes in any way with the right of the Corporation or any Subsidiary at any time to terminate such employment or service, or affects the right of the Corporation or any Subsidiary to increase or decrease the Participant’s other compensation. 
+
+14. Limitation on Participant’s Rights. Participation in the Plan confers no rights or interests other than as herein provided. This Agreement creates only a contractual obligation on the part of the Corporation as to amounts payable and shall not be construed as creating a trust. The Plan, in and of itself, has no assets. The Participant shall have only the rights of a general unsecured creditor of the Corporation with respect to amounts credited and benefits payable, if any, with respect to the Stock Units, and rights no greater than the right to receive the Common Stock (subject to adjustments) as a general unsecured creditor with respect to Stock Units, as and when payable hereunder. 
+
+4 
+
+* * *
+
+15\. Entire Agreement. This Agreement and the Plan together constitute the entire agreement and supersede all prior understandings and agreements, written or oral, of the parties hereto with respect to the subject matter hereof. The Plan and this Agreement may be amended pursuant to Section 6.6 of the Plan. Such amendment must be in writing and signed by the Corporation. The Corporation may, however, unilaterally waive any provision hereof in writing to the extent such waiver does not adversely affect the interests of the Participant hereunder, but no such waiver shall operate as or be construed to be a subsequent waiver of the same provision or a waiver of any other provision hereof.
+
+17\. Governing Law. This Agreement shall be governed by and construed and enforced in accordance with the laws of the State of Delaware without regard to conflict of law principles thereunder.
+
+18\. Effect of this Agreement. This Agreement shall be assumed by, be binding upon and inure to the benefit of any successor or successors to the Corporation. 
+
+19\. Construction. It is intended that the terms of the Award will not result in the imposition of any tax liability pursuant to Section 409A of the Code. This Agreement shall be construed and interpreted consistent with that intent. 
+
+20\. Counterparts. This Agreement may be executed simultaneously in any number of counterparts, each of which shall be deemed an original but all of which together shall constitute one and the same instrument. 
+
+21\. Section Headings. The section headings of this Agreement are for convenience of reference only and shall not be deemed to alter or affect any provision hereof. 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Award Date set forth above. By the Participant’s execution of this Agreement, the Participant agrees to the terms and conditions hereof and of the Plan.   
+  
+CORINTHIAN COLLEGES, INC.
+
+a Delaware corporation
+
+PARTICIPANT  
+By:  
+  
+Print Name:
+
+Stan A. Mortensen
+
+Signature  
+  
+Its:
+
+EVP and General Counsel
+
+Address  
+  
+City, State, Zip Code  
+  
+5 

@@ -1,0 +1,118 @@
+EXHIBIT 10.17 
+
+[EMP NAME] 
+
+[SS#] 
+
+FORM OF 
+
+
+
+UNDER THE HEALTH NET, INC. 
+
+1998 STOCK OPTION PLAN 
+
+Agreement made as of [DATE] (the “Grant Date”), between Health Net, Inc., a Delaware corporation (the “Company”), and [EMP NAME], an employee of the Company or a Subsidiary of the Company (the “Optionee”). 
+
+Pursuant to the Health Net, Inc. 1998 Stock Option Plan (the “Plan”), an appropriate executive officer of the Company empowered by the Compensation and Stock Option Committee of the Board of Directors of the Company (the “Committee”) has determined that the Optionee is to be granted, on the terms and conditions set forth herein, a nonqualified stock option (the “Option”) to purchase shares of Class A Common Stock of the Company, par value $.001 per share (the “Common Stock”), and hereby grants such Option. Capitalized terms used but not defined herein shall have the meanings set forth in the Plan. 
+
+1\. Number of Shares and Option Price. The Option is to purchase [# OF OPTIONS] shares of Common Stock (the “Option Shares”) at a price of [GRANT PRICE] per share (the “Option Price”), which is equal to the Fair Market Value of the Option Shares as of the date hereof. 
+
+2\. Exercise of Option. The Option shall become exercisable in cumulative installments on the dates (the “Vesting Dates”) one year after the Grant Date to the extent of 25% of the Option Shares covered by the Option, and on each subsequent anniversary of the Grant Date to the extent of an additional 25% of the Option Shares covered by the Option, until the Option has become exercisable as to all of the Option Shares. The Option may be exercised only to purchase whole shares, and in no case may a fraction of a share be purchased. 
+
+3\. Term of Option and Termination of Employment. 
+
+(a) General Term. The term of the Option and this Option Agreement shall commence on the date hereof. The right of the Optionee to exercise the Option with respect to any Option Shares, to purchase any such Option Shares and all other rights of the Optionee with respect to any such Option Shares shall terminate on the tenth anniversary of the Grant Date, unless the Option has been earlier terminated as provided either in paragraphs (b) through (h) below or under the Plan. 
+
+1 
+
+* * *
+
+(b) Death of Optionee. If the Optionee shall die prior to the exercise of the Option, then: 
+
+(i) if the Optionee dies while employed by an Employer (as defined in the Plan), then the Option (subject to subsection (h) below) may be exercised by the legatee(s) or personal representative of the Optionee at any time within one year after the Optionee’s death; 
+
+(ii) if the Optionee’s employment with the Employer was terminated due to a Disability (as defined in the Plan) and the Optionee dies within one year after termination of employment, then the Option (subject to subsection (h) below) may be exercised by the legatee(s) or personal representative of the Optionee any time during the remainder of the period during which the Optionee would have been able to exercise the Option pursuant to subsection (c) below had the Optionee not died; 
+
+(iii) if the Optionee retires pursuant to any retirement plan of the Employer or in the absence of any such plan, pursuant to the Committee’s discretionary determination that such termination of employment shall be treated as retirement for purposes of the Plan and this Option Agreement, and the Optionee dies during the period after retirement when the Option was still exercisable by the Optionee, then the Option (subject to subsection (h) below) may be exercised by the legatee(s) or personal representative of the Optionee at any time during the remainder of the period during which the Optionee would have been able to exercise the Option pursuant to subsection (d) below had the Optionee not died; and 
+
+(iv) if the Optionee dies within three months after termination of employment by the Employer without Cause, as determined pursuant to Subsection 3(f), and clauses (ii) and (iii) above are not applicable, then the Option (subject to subsection (h) below) may be exercised by the legatee(s) or personal representative of the Optionee at any time within one year after the Optionee’s death. 
+
+(c) Disability. If the Optionee’s employment with the Employer shall terminate prior to the exercise of the Option as a result of a Disability, then the Option (subject to subsection (h) below) may be exercised by the Optionee (or his or her personal representative) at any time within one year after the Optionee’s termination of employment. 
+
+(d) Retirement. If the Optionee’s employment with the Employer shall terminate prior to the exercise of the Option as a result of retirement pursuant to any retirement plan of the Employer or in the absence of any such plan, pursuant to the Committee’s discretionary determination that such termination of employment shall be treated as retirement for purposes of the Plan and this Option Agreement, then the Option (subject to subsection (h) below) may be exercised at any time within one year after the Optionee’s termination of employment. 
+
+2 
+
+* * *
+
+(e) Termination by the Employer for Cause. If the Optionee’s employment with the Employer shall be terminated by the Employer prior to the exercise of the Option for Cause then the Option shall immediately terminate. For purposes of this Agreement, “Cause” shall have the meaning set forth in the Plan except that, if such termination occurs within 12 months after a Change in Control (as such term is defined in Section 6.8 of the Plan), termination for Cause shall only mean (i) a felony charge or conviction for fraud, misappropriation, embezzlement, a crime of moral turpitude or any other crime involving activities that could reasonably be deemed to impair an Optionee’s ability to perform his or her employment duties or responsibilities or (ii) a material wrongful act of the Optionee in performing his or her employment duties or responsibilities for any reason other than illness or incapacity that results in material damage to the Company, which wrongful act was committed after the Change in Control without the concurrence or approval of either the Optionee’s superior or an authorized representative of an entity other than the Company that is a party to a transaction underlying the Change in Control. 
+
+(f) Termination by the Employer Without Cause. If prior to the exercise of the Option, the Optionee’s employment with the Employer shall be terminated by the Employer without Cause, then the Option (subject to subsection (h) below) held by the Optionee may be exercised at any time within three months after the Optionee’s termination of employment. For purposes of this Option Agreement, if the Subsidiary by which the Optionee is employed ceases to be a Subsidiary, whether through a sale by the Company of all or a portion of the stock or assets of such Subsidiary, a merger or otherwise (a “Subsidiary Transaction”), the Optionee’s employment with the Employer shall be deemed to have been terminated by the Employer without Cause as of the effective date of such Subsidiary Transaction. 
+
+(g) Termination for Other Reason. If prior to the exercise of the Option, the Optionee’s employment with the Employer shall be terminated for any reason other than as set forth in paragraphs (b) through (f) above, then the Option (subject to subsection (h) below) held by the Optionee may be exercised at any time within one month after the Optionee’s termination of employment. 
+
+(h) Post-Termination exercisability. Notwithstanding any other provision of this Section 3 to the contrary, following termination of employment of the Optionee for any reason: (i) the Option shall be exercisable during any of the post-employment periods described in subparagraphs (b) through (g) of this Section 3 if and only to the extent the Option was exercisable (i.e., vested) at the time of such termination of employment and (2) no portion of the Option shall be exercisable following the tenth anniversary of the Grant Date. 
+
+4\. Employment/Association with Company Competitor. If within 6 months after any termination of the Optionee’s employment with an Employer, the Optionee undertakes any employment or activity (including, but not limited to, consulting services) with a Competitor (as defined below) in the geographical area in which the Optionee performed services for the Employer (the “Market Area”), where the loyal and complete fulfillment of the duties of the 
+
+3 
+
+* * *
+
+competitive employment or activity would call upon the Optionee to reveal, to make judgments on or otherwise use any confidential business information or trade secrets of the business of the Company or any Subsidiary to which the Optionee had access during his or her employment with the Employer, then: 
+
+(a) the Option shall immediately terminate; and 
+
+(b) the Optionee shall promptly pay to the Company an amount of cash equal to the Gain Realized (as defined below) on any Option Shares acquired during the Restricted Period (as defined below). 
+
+For the purposes of this Section 4: “Restricted Period” shall refer to the period of time commencing ninety days prior to such termination of the Optionee’s employment and ending six months after such termination; “Gain Realized” shall equal the difference between (i) the Option Price applicable to the Option Shares and (ii) the greater of the Fair Market Value (as defined in the Plan) of the Option Shares (x) on the date of acquisition of such Option Shares or (y) on the date such competitive activity with a Competitor was commenced by the Optionee; and “Competitor” shall refer to any health maintenance organization or insurance company that provides managed health care or related services similar to those provided by the Company or any Subsidiary. It is hereby further agreed that if any court of competent jurisdiction shall determine that the restrictions imposed in this Section 4 are unreasonable (including, but not limited to, the definition of Market Area or Competitor or the time period during which this provision is applicable), the parties hereto hereby agree to any restrictions that such court would find to be reasonable under the circumstances. 
+
+5\. Notices. Any notice required or permitted under the Plan shall be deemed given when delivered personally, or when deposited in a United States Post Office, postage prepaid, addressed, as appropriate, to the Optionee either at the last known address set forth in the records of the Company or such other address as the Optionee may designate in writing to the Company. 
+
+6\. Failure to Enforce Not a Waiver. The failure of the Company to enforce at any time any provision of this Option Agreement or the Plan shall in no way be construed to be a waiver of such provision or of any other provision hereof. 
+
+7\. Incorporation of Plan; Entire Agreement. The Plan is hereby incorporated by reference and made a part hereof, and the Option and this Option Agreement are subject to all terms and conditions of the Plan. This Option Agreement and the Plan, taken together, constitutes the entire agreement between the parties relating to or effecting the Option, and no promises, terms, conditions or obligations other than those contained in this Option Agreement or the Plan shall be valid or binding. Any prior agreements, statements or promises, either oral or written, made by any party or agent of any party relating to or effecting the Option that are not contained in the Option Agreement or the Plan are of no force or effect. 
+
+4 
+
+* * *
+
+8\. Rights of a Stockholder. The Optionee shall have no rights as a stockholder with respect to any Option Shares unless and until certificates for shares of Common Stock are issued to the Optionee. 
+
+9\. Change of Control. Section 6.8 of the Plan provides for the acceleration of exercisability of Options in the event of a Change in Control, as such term is defined in the Plan. The Optionee hereby acknowledges that the Committee retains the right to determine whether the acceleration of exercisability provided for in said Section 6.8 shall have occurred with respect to the Option (notwithstanding the provisions of such Section 6.8) in those instances (unless otherwise determined by the Board) in which (A) the holders of the Common Stock immediately prior to a Consummated Transaction or Control Purchase (as defined in the Plan) own more than 50% of the voting common stock of the surviving corporation immediately after such Consummated Transaction or Control Purchase, (B) the holders of all classes of common stock of the Company immediately prior to a Consummated Transaction or Control Purchase own more than 50% of the total equity of the surviving corporation immediately after such Consummated Transaction or Control Purchase, (C) the Consummated Transaction or Control Purchase does not result in a Board Change and (D) the Consummated Transaction or Control Purchase does not result in a substantial change in the executive officers of the Company. 
+
+10\. Rights to Terminate Employment. Nothing in the Plan or in this Agreement shall confer upon the Optionee the right to continue in the employment of an Employer or affect any right which an Employer may have to terminate the employment of the Optionee. The Optionee specifically acknowledges that the Employer intends to review Optionee’s performance from time to time, and that the Company and/or the Employer has the right to terminate Optionee’s employment at any time, including a time in close proximity to a Vesting Date, for any reason, with or without cause. The Optionee acknowledges that upon his or her termination of employment with an Employer for any reason, the Option shall be exercisable only to the extent it is exercisable on the effective date of the Optionee’s termination of employment and only within the period following such termination as is set forth in this Agreement. 
+
+11\. Amendment. The Board may terminate or amend the Plan at any time; provided, however, that the termination or any modification or amendment of the Plan shall not, without the consent of the Optionee, affect the rights of the Optionee under this Agreement. 
+
+12\. Compliance with Applicable Law. The Option is subject to the condition that if the listing, registration or qualification of the shares subject to the Option upon any securities exchange or under any law, or the consent or approval of any governmental body, or the taking of any other action, is necessary or desirable as a condition of, or in connection with, the purchase or delivery of shares hereunder, the Option may not be exercised, in whole or in part, unless such listing, registration, qualification, consent or approval shall have been effected or obtained, free of any conditions not acceptable to the Company. The Company agrees to use reasonable efforts to effect or obtain any such listing, registration, qualification, consent or approval. 
+
+5 
+
+* * *
+
+13\. Decisions of Board or Committee. The Board of Directors or the Committee shall have the right to resolve all questions which may arise in connection with the Option or its exercise. Any interpretation, determination or other action made or taken by the Board of Directors or the Committee regarding the Plan or this Agreement shall be final, binding and conclusive. 
+
+14\. Failure to Execute Agreement. This Agreement and the Option granted hereunder is subject to the Optionee returning a counter-signed copy of this Agreement to the designated representative of the Company on or before 60 days after the date of its distribution to the Optionee. In the event that the Optionee fails to so return a counter-signed copy of this Agreement within such 60 day period, then this Agreement and the Option granted hereunder shall automatically become null and void and shall have no further force or effect. 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Option Agreement as of the date and year set forth above.   
+  
+Health Net, Inc.  
+  
+By:
+
+* * *  
+  
+Name: Jay M. Gellert  
+  
+Title: President and Chief Executive Officer  
+  
+THE UNDERSIGNED OPTIONEE HEREBY EXPRESSLY ACKNOWLEDGES AND AGREES THAT (I) HE/SHE IS AN EMPLOYEE AT WILL AND MAY BE TERMINATED BY THE EMPLOYER AT ANY TIME, WITH OR WITHOUT CAUSE, (II) THE OPTION MAY NOT BE EXERCISED WITH RESPECT TO ANY OPTION SHARES THAT ARE NOT VESTED ON THE DATE OF ANY SUCH TERMINATION AND (III) THE OPTION MAY BE EXERCISED WITH RESPECT TO OPTION SHARES THAT ARE VESTED ON THE DATE OF ANY SUCH TERMINATION ONLY TO THE EXTENT EXPRESSLY PROVIDED IN THIS AGREEMENT.  
+The undersigned hereby accepts and agrees to all the terms and provisions of the foregoing Option Agreement and to all the terms and provisions of the Health Net, Inc. 1998 Stock Option Plan incorporated by reference herein.  
+  
+* * *
+
+Signature of Optionee Date  
+  
+6 

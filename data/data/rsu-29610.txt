@@ -1,0 +1,162 @@
+EXHIBIT 10.01 
+
+
+
+PERFORMANCE UNIT AWARD AGREEMENT 
+
+THIS AGREEMENT (the “Agreement”), effective as of the __ day of [month, Year X], by and between ITT Corporation (the “Company”) and name (the “Participant”), WITNESSETH:
+
+WHEREAS, the Participant is now employed by the Company or an Affiliate of the Company, and in recognition of the Participant’s valued services, the Company, through the Compensation and Personnel Committee of its Board of Directors (the “Committee”), desires to provide an opportunity for the Participant to receive a performance-based long-term incentive award, pursuant to the provisions of the ITT Corporation 2011 Omnibus Incentive Plan, as approved by the Board of Directors on February 23, 2011 and effective May 11, 2011 (the “Plan”). 
+
+NOW, THEREFORE, in consideration of the terms and conditions set forth in this Agreement and the provisions of the Plan, which is incorporated herein as part of this Agreement and which provides definitions for capitalized terms not otherwise defined herein, and any administrative rules and regulations related to the Plan as may be adopted by the Committee, the parties hereto hereby agree as follows: 
+
+1.
+
+Grant of Award and Performance Period. In accordance with, and subject to, the terms and conditions of the Plan and this Agreement, the Company hereby grants to the Participant this performance unit award (the “Award”). A performance unit corresponds to the right to receive one Share, subject to the terms of the Award. The target number of performance units subject to this Award is  (the “Target Units”). The actual number of performance units that will be settled under this Award will depend upon the achievement of certain performance goals described in Section 2 of this Agreement during the Performance Period, which for this Award commences January 1, [Year X] and ends December 31, [Year X + 2].   
+  
+2.
+
+Terms and Conditions. It is understood and agreed that this Award is subject to the following terms and conditions:   
+  
+(a)
+
+Determination of Performance Unit Award Payout. The “Performance Unit Award Payout” shall be the sum of the TSR Unit Payout and the ROIC Unit Payout, each as described below.   
+  
+(i)
+
+TSR Unit Payout. 50% of the Target Units shall be “TSR Target Units.” The performance units paid out with respect to the TSR Target Units shall be determined in accordance with the following formula:   
+  
+TSR Unit Payout = Payout Factor X TSR Target Units 
+
+The “Payout Factor” is based on the Company’s Total Shareholder Return (defined and measured as described below, the “TSR”) for the Performance Period relative to the TSR for each company in the S&P; Mid-Cap Capital Goods Index (“Peer Group”), determined in accordance with the following table:   
+  
+If Company’s TSR rank against the
+
+S&P; Mid-Cap Capital Goods Index is
+
+TSR Payout Factor
+
+(% of TSR Target Units)  
+  
+less than the 35th percentile
+
+0%  
+  
+at the 35th percentile
+
+50%  
+  
+at the 50th percentile
+
+100%  
+  
+at the 80th percentile or more
+
+200%  
+  
+Actual results between the 35th percentile and the 80th percentile numbers shown above are interpolated.  
+  
+* * *
+
+Relative Total Shareholder Return 
+
+The term “Total Shareholder Return” for a particular Performance Period means the rate of return (expressed as a percentage) achieved with respect to the common stock of the Company and the common stock of each company in the Peer Group for such Performance Period. Total Shareholder Return includes the sum of two components: 
+
+• The cumulative percentage change in the common stock price from the beginning of the Performance Period to the end of the Performance Period measured as the change between the average closing price of such common stock for the trading days occurring in the month ending December 31, [Year X – 1] and the month ending December 31, [Year X + 2]; and 
+
+• All dividends paid and any other extraordinary shareholder actions paid with respect to a share of common stock during such Performance Period are accumulated and divided by the average closing prices for the trading days occurring in the month ending December 31, [Year X – 1]. 
+
+(ii)
+
+ROIC Unit Payout. 50% of the Target Units shall be “ROIC Target Units.” The performance units paid out with respect to the ROIC Target Units shall be determined in accordance with the following formula:   
+  
+ROIC Unit Payout = Payout Factor X ROIC Target Units 
+
+The “Payout Factor” is based on the Return on Invested Capital (“ROIC”). ROIC refers to a percentage calculated by dividing (A) the after-tax earnings before the deduction of interest, tax and amortization expenses (“EBITA”), excluding special items, by (B) total assets (excluding asbestos receivable) less non-interest bearing current liabilities, as of December 31, [Year X + 2]. The “Payout Factor” is determined in accordance with the following table:   
+  
+Return on Invested Capital
+
+ROIC Payout Factor
+
+(% of ROIC Target Units)  
+  
+TBD%
+
+50%  
+  
+TBD%
+
+100%  
+  
+TBD%
+
+200%  
+  
+Actual results between the ROIC values shown above are interpolated.  
+  
+* * *
+
+(b)
+
+Form and Timing of Payment of Award. Except as provided in subsection 2(d), payment with respect to an earned Performance Unit Award shall be made as soon as practicable (but not later than March 15th) in the calendar year following the close of the Performance Period. Payment shall be made in Shares in an amount equal to the Performance Unit Award Payout, as determined under subsection 2(a).   
+  
+(c)
+
+Effect of Termination of Employment. Except as otherwise provided below, if the Participant’s employment with the Company or an Affiliate of the Company is terminated for any reason prior to the end of the Performance Period, any Award subject to this Agreement shall be immediately forfeited.   
+  
+(i)
+
+Termination due to Death or Disability. If the Participant’s termination of employment is due to death or Disability (as defined below), the Award shall vest and will be payable at the time and in the form as provided in subsection 2(b) above and shall be based on the performance criteria set forth in subsection 2(a) above as measured for the entire Performance Period.   
+  
+(ii)
+
+Termination due to Retirement or Termination by the Company for Other than Cause. If the Participant’s termination of employment is due to Retirement (as defined below) or if the Participant’s employment is terminated by the Company (or an Affiliate of the Company, as the case may be) for other than cause (as determined by the Committee), a prorated portion of the Award shall vest (see “Prorated Vesting Upon Retirement or Termination by the Company for Other than Cause” below) and will be payable at the time and in the form as provided in subsection 2(b) above. For purposes of this subsection 2(c)(ii), the Participant shall be considered employed during any period in which the Participant is receiving severance pay, and the date of the termination of the Participant’s employment shall be the last day of any such severance pay period.   
+  
+(iii)
+
+Retirement. For purposes of this Agreement, the term “Retirement” shall mean any termination of the Participant’s employment after (A) the date the Participant attains age 55 and completes 10 or more years of Effective Service (as such term is defined in the ITT Corporation Retirement Savings Plan for Salaried Employees) or, if earlier, (B) the date the Participant attains age 65.   
+  
+(iv)
+
+Disability. For purposes of this Agreement, the term “Disability” shall mean the complete and permanent inability of the Participant to perform all of his or her duties under the terms of his or her employment, as determined by the Committee upon the basis of such evidence, including independent medical reports and data, as the Committee deems appropriate or necessary.   
+  
+(v)
+
+Prorated Vesting upon Retirement or Termination by the Company for Other than Cause. The prorated portion of the Award that vests due to termination of the Participant’s employment due to Retirement or by the Company for other than cause shall be determined by multiplying (i) the Performance Unit Award Payout determined pursuant to subsection 2(a) above for the entire Performance Period, by (ii) a fraction, the numerator of which is the number of full months the Participant has been continually employed since the beginning of the Performance Period and the denominator of which is 36. For this purpose, full months of employment shall be based on monthly anniversaries of the commencement of the Performance Period.   
+  
+* * *
+
+(d)
+
+Acceleration Event. Notwithstanding anything in the Plan to the contrary, upon the occurrence of an Acceleration Event during the Performance Period, (i) a prorated portion of the Award shall vest based on actual performance through the date of the Acceleration Event (such prorated portion to be determined as provided below in this subsection 2(d)) and shall be paid within 30 days following the Acceleration Event and (ii) the remaining portion of the Award (such remaining portion to be determined as provided below in this subsection 2(d)) shall vest and shall be paid within 30 days following the Acceleration Event. The prorated portion of the Award that vests pursuant to subpart (i) in the prior sentence due to the Acceleration Event shall be determined by multiplying (A) the Performance Unit Award Payout determined pursuant to subsection 2(a) above for the period beginning on the first day of the Performance Period and ending on the date preceding the date on which the Acceleration Event occurs (the “Prorated Period”), by (B) a fraction, the numerator of which is the number of calendar days in the Prorated Period and the denominator of which is 1,095. The remaining portion of the Award that vests pursuant to subpart (ii) in the first sentence of this subsection 2(d) due to the Acceleration Event shall be determined by multiplying (A) the Target Units by (B) a fraction, the numerator of which is the number of calendar days remaining in the Performance Period as of the date of the Acceleration Event (including day of the Acceleration Event) and the denominator of which is 1,095.   
+  
+(e)
+
+Tax Withholding. Payments with respect to Awards under the Plan shall be subject to applicable tax withholding obligations as described in Article 15 of the Plan, or, if the Plan is amended, successor provisions.   
+  
+(f)
+
+No Shareholder Rights. The Participant shall not be entitled to any rights or privileges of ownership of Shares with respect to this Award unless and until a Share is actually delivered to the Participant in settlement of this Award pursuant to this Agreement.   
+  
+(g)
+
+Participant Bound by Plan and Rules. The Participant hereby acknowledges receipt of a copy of the Plan and this Agreement and agrees to be bound by the terms and provisions thereof. The Participant agrees to be bound by any rules and regulations for administering the Plan as may be adopted by the Committee prior to the settlement of the Award subject to this Agreement. Capitalized terms used herein and not otherwise defined shall be as defined in the Plan.   
+  
+(h)
+
+Governing Law. This Agreement is issued in White Plains, New York, and shall be governed and construed in accordance with the laws of the State of New York, excluding any conflicts or choice of law rule or principle that might otherwise refer construction or interpretation of this Agreement to the substantive law of another jurisdiction.   
+  
+* * *
+
+IN WITNESS WHEREOF, the Company has caused this instrument to be executed by its Chief Executive Officer, President or a Vice President, as of the  day of [month, Year X].   
+  
+Agreed to: ITT Corporation  
+By:  
+  
+Name:  
+Title:  
+  
+Participant  
+Dated:
+
+Dated: [date]

@@ -1,0 +1,163 @@
+Exhibit 10.53
+
+REVEN HOUSING REIT, INC.
+
+
+
+FOR
+
+Chad M. Carpenter
+
+1. Award of Restricted Stock. The Committee hereby grants, as of October 16, 2014 (the “Date of Grant”), to Chad M. Carpenter, 5,500,000 restricted shares of the Company’s Common Stock, par value $0.001 per share (collectively the "Restricted Stock"). The Restricted Stock shall be subject to the terms, provisions and restrictions set forth in this Agreement and the Company’s Amended and Restated 2012 Incentive Compensation Plan (the “Plan”), which is incorporated herein for all purposes. As a condition to entering into this Agreement, and as a condition to the issuance of any Shares (or any other securities of the Company), the Recipient agrees to be bound by all of the terms and conditions herein and in the Plan. Unless otherwise provided herein, terms used herein that are defined in the Plan and not defined herein shall have the meanings attributable thereto in the Plan.
+
+2. Vesting of Restricted Stock.
+
+(a) General Vesting. The shares of Restricted Stock shall become vested in the following amounts, at the following times and upon the following conditions, provided that the Continuous Service of the Recipient continues through and on the applicable Vesting Date:
+
+Number of Shares of Restricted Stock Vesting Date  
+1,375,000 The date upon which the Company consummates an equity raise of at least $25 million (or any lesser amount if the equity raise is a registered public offering).  
+1,650,000 After the first Vesting Date, the earlier to occur of: (i) the date the Company raises an additional $50 million in an equity financing or a series of equity financings; or (ii) the date the Company consummates portfolio acquisition(s) of an aggregate amount of $100 million commencing August 1, 2014.   
+  
+Number of Shares of Restricted Stock Vesting Date  
+1,925,000 After the second Vesting Date, the earlier to occur of: (i) the date the Company raises an additional $150 million in an equity financing or a series of equity financings; or (ii) the date the Company consummates additional portfolio acquisition(s) of an aggregate amount of $300 million.  
+550,000 The date upon which the Company makes cash distributions to stockholders at a rate of at least $0.01 per share annualized over any four (4) consecutive fiscal quarters.  
+  
+For vesting conditions relating to equity raises, any investment either directly by Allied Fortune, entities under management of Allied Fortune, or investors introduced to or otherwise referred to the Company by Allied Fortune (including Xiaofan Bai and his associates) (collectively, the “Allied Investors”) shall not be counted towards the dollar thresholds; provided, however, unless such Allied Investors’ investments are in a public offering.
+
+Except as otherwise provided in Sections 2(b), 2(c), 2(d), and 4 hereof, there shall be no proportionate or partial vesting of shares of Restricted Stock in or during the months, days or periods prior to each Vesting Date, and all vesting of shares of Restricted Stock shall occur only on the applicable Vesting Date.
+
+(b) Acceleration of Vesting Upon Change in Control. In the event that a Change in Control of the Company occurs during the Recipient's Continuous Service, the shares of Restricted Stock subject to this Agreement shall become immediately vested as of the date of the Change in Control.
+
+(c) Acceleration of Vesting at Company Discretion. Notwithstanding any other term or provision of this Agreement, the Board or the Committee shall be authorized, in its sole discretion, based upon its review and evaluation of the performance of the Recipient and of the Company, to accelerate the vesting of any shares of Restricted Stock under this Agreement, at such times and upon such terms and conditions as the Board or the Committee shall deem advisable.
+
+(d) Definitions. For purposes of this Agreement, the following terms shall have the meanings indicated:
+
+2  
+  
+(i) “Change in Control” means the occurrence of any of the following:
+
+(A) The acquisition by any Person of Beneficial Ownership (within the meaning of Rule 13d-3 promulgated under the Exchange Act) of more than fifty percent (50%) of either (A) the then outstanding shares of common stock of the Company (the “Outstanding Company Common Stock”) or (B) the combined voting power of the then outstanding voting securities of the Company entitled to vote generally in the election of directors (the “Outstanding Company Voting Securities) (the foregoing Beneficial Ownership hereinafter being referred to as a "Controlling Interest"); provided, however, that for purposes of this Section 2(d)(i), the following acquisitions shall not constitute or result in a Change of Control: (1) any acquisition directly from the Company; (2) any acquisition by the Company; (3) any acquisition by any Person that as of the Date of Grant owns Beneficial Ownership of a Controlling Interest; (4) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by the Company; or (5) any acquisition by any corporation pursuant to a transaction which complies with clauses (1), (2) and (3) of subsection (C) below; or
+
+(B) During any period of two (2) consecutive years (not including any period prior to the Date of Grant) individuals who constitute the Board on the Date of Grant (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that any individual becoming a director subsequent to the Date of Grant whose election, or nomination for election by the Company’s shareholders, was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, for this purpose, any such individual whose initial assumption of office occurs as a result of an actual or threatened election contest with respect to the election or removal of directors or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board; or
+
+(C) Consummation of a reorganization, merger, statutory share exchange or consolidation or similar corporate transaction involving the Company, a sale or other disposition of all or substantially all of the assets of the Company, or the acquisition of assets or stock of another entity by the Company (each a “Business Combination”), in each case, unless, following such Business Combination, (1) all or substantially all of the individuals and entities who were the Beneficial Owners, respectively, of the Outstanding Company Common Stock and Outstanding Company Voting Securities immediately prior to such Business Combination beneficially own, directly or indirectly, more than fifty percent (50%) of the then outstanding shares of common stock and the combined voting power of the then outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the corporation resulting from such Business Combination (including, without limitation, a corporation which as a result of such transaction owns the Company or all or substantially all of the Company’s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination of the Outstanding Company Common Stock and Outstanding Company Voting Securities, as the case may be, (2) no Person (excluding any employee benefit plan (or related trust) of the Company or such corporation resulting from such Business Combination or any Person that as of the Date of Grant owns Beneficial Ownership of a Controlling Interest) beneficially owns, directly or indirectly, fifty percent (50%) or more of the then outstanding shares of common stock of the corporation resulting from such Business Combination or the combined voting power of the then outstanding voting securities of such corporation except to the extent that such ownership existed prior to the Business Combination and (3) at least a majority of the members of the Board of Directors of the corporation resulting from such Business Combination were members of the Incumbent Board at the time of the execution of the initial agreement, or of the action of the Board, providing for such Business Combination; or
+
+3  
+  
+(D) Approval by the shareholders of the Company of a complete liquidation or dissolution of the Company.
+
+(ii) “Consultant” means any person (other than an Employee or a Director, solely with respect to rendering services in such person’s capacity as a Director) who is engaged by the Company to render consulting or advisory services to the Company.
+
+(iii) “Continuous Service” means the continuous service to the Company, without interruption or termination, in any capacity of Employee, Director or Consultant. Continuous Service shall not be considered interrupted in the case of (A) any approved leave of absence, (B) transfers among the Company, or any successor, in any capacity of Employee, Director or Consultant, or (C) any change in status as long as the individual remains in the service of the Company in any capacity of Employee, Director or Consultant. An approved leave of absence shall include sick leave, disability leave, military leave, or any other authorized personal leave.
+
+(iv) “Director” means a member of the Board.
+
+(v) “Employee” means any person, including an Officer or Director, who is an employee of the Company. The payment of a Director’s normal compensation and fee (as applicable to all Directors or Committee members, as the case may be) by the Company shall not be sufficient to constitute “employment” by the Company.
+
+(vi) “Non-Vested Shares” means any portion of the Restricted Stock subject to this Agreement that has not become vested pursuant to this Section 2.
+
+(vii) “Person” shall have the meaning ascribed to such term in Section 3(a)(9) of the Securities Exchange Act of 1934 and used in Sections 13(d) and 14(d) thereof, and shall include a “group” as defined in Section 13(d) thereof.
+
+(viii) “Vested Shares” means any portion of the Restricted Stock subject to this Agreement that is and has become vested pursuant to this Section 2.
+
+3. Delivery of Restricted Stock. 
+
+(a) Issuance of Stock Certificates and Legends. One or more stock certificates evidencing the Restricted Stock shall be issued in the name of the Recipient but shall be held and retained by the Records Administrator of the Company until the date (the “Applicable Date”) on which the shares (or a portion thereof) subject to this Restricted Stock award become Vested Shares pursuant to Section 2 hereof, subject to the provisions of Section 4 hereof. All such stock certificates shall bear the following legends, along with such other legends that the Board or the Committee shall deem necessary and appropriate or which are otherwise required or indicated pursuant to any applicable stockholders agreement:
+
+4  
+  
+THE SHARES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO SUBSTANTIAL VESTING AND OTHER RESTRICTIONS AS SET FORTH IN THE RESTRICTED STOCK AGREEMENT BETWEEN THE ISSUER AND THE ORIGINAL HOLDER OF THE SHARES, A COPY OF WHICH MAY BE OBTAINED AT THE PRINCIPAL OFFICE OF THE ISSUER. SUCH RESTRICTIONS ARE BINDING ON TRANSFEREES OF THESE SHARES, AND INCLUDE VESTING CONDITIONS WHICH MAY RESULT IN THE COMPLETE FORFEITURE OF THE SHARES.
+
+(b) Stock Powers. The Recipient shall deposit with the Company stock powers or other instruments of transfer or assignment, duly endorsed in blank with signature(s) guaranteed, corresponding to each certificate representing shares of Restricted Stock until such shares become Vested Shares. If the Recipient shall fail to provide the Company with any such stock power or other instrument of transfer or assignment, the Recipient hereby irrevocably appoints the Secretary of the Company as his attorney-in-fact, with full power of appointment and substitution, to execute and deliver any such power or other instrument which may be necessary to effectuate the transfer of the Restricted Stock (or assignment of distributions thereon) on the books and records of the Company.
+
+(c) Delivery of Stock Certificates. On or after each Applicable Date, upon written request to the Company by the Recipient, the Company shall promptly cause a new certificate or certificates to be issued for and with respect to all shares that become Vested Shares on that Applicable Date, which certificate(s) shall be delivered to the Recipient as soon as administratively practicable after the date of receipt by the Company of the Recipient's written request. The new certificate or certificates shall continue to bear those legends and endorsements that the Company shall deem necessary or appropriate (including those relating to restrictions on transferability and/or obligations and restrictions under the Securities Laws).
+
+(d) Issuance Without Certificates. If the Company is authorized to issue Shares without certificates, then the Company may, in the discretion of the Committee, issue Shares pursuant to this Agreement without certificates, in which case any references in this Agreement to certificates shall instead refer to whatever evidence may be issued to reflect the Recipient’s ownership of the Shares subject to the terms and conditions of this Agreement.
+
+4. Forfeiture of Non-Vested Shares. If the Recipient’s Continuous Service with the Company is terminated for any reason, any Shares of Restricted Stock that are not Vested Shares, and that do not become Vested Shares pursuant to Section 2 hereof as a result of such termination, shall be forfeited immediately upon such termination of Continuous Service and revert back to the Company without any payment to the Recipient. The Committee shall have the power and authority to enforce on behalf of the Company any rights of the Company under this Agreement in the event of the Recipient’s forfeiture of Non-Vested Shares pursuant to this Section 4.
+
+5  
+  
+5. Rights with Respect to Restricted Stock.
+
+(a) General. Except as otherwise provided in this Agreement, the Recipient shall have, with respect to all of the shares of Restricted Stock, whether Vested Shares or Non-Vested Shares, all of the rights of a holder of shares of common stock of the Company, including without limitation (i) the right to vote such Restricted Stock, (ii) the right to receive dividends, if any, as may be declared on the Restricted Stock from time to time, and (iii) the rights available to all holders of shares of common stock of the Company upon any merger, consolidation, reorganization, liquidation or dissolution, stock split-up, stock dividend or recapitalization undertaken by the Company; provided, however, that all of such rights shall be subject to the terms, provisions, conditions and restrictions set forth in this Agreement (including without limitation conditions under which all such rights shall be forfeited). Any Shares issued to the Recipient as a dividend with respect to shares of Restricted Stock shall have the same status and bear the same legend as the shares of Restricted Stock and shall be held by the Company, if the shares of Restricted Stock that such dividend is attributed to is being so held, unless otherwise determined by the Committee.
+
+(b) Adjustments to Shares. If at any time while this Agreement is in effect (or Shares granted hereunder shall be or remain unvested while Recipient’s Continuous Service continues and has not yet terminated or ceased for any reason), there shall be any increase or decrease in the number of issued and outstanding Shares of the Company through the declaration of a stock dividend or through any recapitalization resulting in a stock split-up, combination or exchange of such Shares, then and in that event, the Board or the Committee shall make any adjustments it deems fair and appropriate, in view of such change, in the number of shares of Restricted Stock then subject to this Agreement in order to equitably provide that the Recipient’s economic situation is the same as prior to the change. If any such adjustment shall result in a fractional Share, such fraction shall be disregarded.
+
+(c) No Restrictions on Certain Transactions. Notwithstanding any term or provision of this Agreement to the contrary, the existence of this Agreement, or of any outstanding Restricted Stock awarded hereunder, shall not affect in any manner the right, power or authority of the Company to make, authorize or consummate: (i) any or all adjustments, recapitalizations, reorganizations or other changes in the Company's capital structure or its business; (ii) any merger, consolidation or similar transaction by or of the Company; (iii) any offer, issue or sale by the Company of any capital stock of the Company, including any equity or debt securities, or preferred or preference stock that would rank prior to or on parity with the Restricted Stock and/or that would include, have or possess other rights, benefits and/or preferences superior to those that the Restricted Stock includes, has or possesses, or any warrants, options or rights with respect to any of the foregoing; (iv) the dissolution or liquidation of the Company; (v) any sale, transfer or assignment of all or any part of the stock, assets or business of the Company; or (vi) any other corporate transaction, act or proceeding (whether of a similar character or otherwise).
+
+6  
+  
+6. Transferability. Unless otherwise determined by the Committee, the shares of Restricted Stock are not transferable unless and until they become Vested Shares in accordance with this Agreement, otherwise than by will or under the applicable laws of descent and distribution. The terms of this Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Recipient. Except as otherwise permitted pursuant to the first sentence of this Section, any attempt to effect a Transfer of any shares of Restricted Stock prior to the date on which the shares become Vested Shares shall be void ab initio. For purposes of this Agreement, “Transfer” shall mean any sale, transfer, encumbrance, gift, donation, assignment, pledge, hypothecation, or other disposition, whether similar or dissimilar to those previously enumerated, whether voluntary or involuntary, and including, but not limited to, any disposition by operation of law, by court order, by judicial process, or by foreclosure, levy or attachment.
+
+7. Tax Matters; Section 83(b) Election.
+
+(a) Section 83(b) Election. If the Recipient properly elects, within thirty (30) days of the Date of Grant, to include in gross income for federal income tax purposes an amount equal to the fair market value (as of the Date of Grant) of the Restricted Stock pursuant to Section 83(b) of the Internal Revenue Code of 1986, as amended (the “Code”), the Recipient shall make arrangements satisfactory to the Company to pay to the Company any federal, state or local income taxes required to be withheld with respect to the Restricted Stock. If the Recipient shall fail to make such tax payments as are required, the Company shall, to the extent permitted by law, have the right to deduct from any payment of any kind (including without limitation, the withholding of any Shares that otherwise would be issued to the Recipient under this Agreement) otherwise due to the Recipient any federal, state or local taxes of any kind required by law to be withheld with respect to the Restricted Stock.
+
+(b) No Section 83(b) Election. If the Recipient does not properly make the election described in paragraph 7(a) above, the Recipient shall, no later than the date or dates as of which the restrictions referred to in this Agreement hereof shall lapse, pay to the Company, or make arrangements satisfactory to the Committee for payment of, any federal, state or local taxes of any kind required by law to be withheld with respect to the Restricted Stock (including without limitation the vesting thereof), and the Company shall, to the extent permitted by law, have the right to deduct from any payment of any kind (including without limitation, the withholding of any Shares that otherwise would be distributed to the Recipient under this Agreement) otherwise due to Recipient any federal, state, or local taxes of any kind required by law to be withheld with respect to the Restricted Stock.
+
+(c) Satisfaction of Withholding Requirements. The Recipient may satisfy the withholding requirements with respect to the Restricted Stock pursuant to any one or combination of the following methods:
+
+(i) payment in cash; or
+
+(ii) if and to the extent permitted by the Committee, payment by surrendering unrestricted previously held Shares which have a value equal to the required withholding amount or the withholding of Shares that otherwise would be deliverable to the Recipient pursuant to this Award. The Recipient may surrender Shares either by attestation or by delivery of a certificate or certificates for shares duly endorsed for transfer to the Company, and if required with medallion level signature guarantee by a member firm of a national stock exchange, by a national or state bank (or guaranteed or notarized in such other manner as the Committee may require).
+
+7  
+  
+(d) Recipient’s Responsibilities for Tax Consequences. Tax consequences on the Recipient (including without limitation federal, state, local and foreign income tax consequences) with respect to the Restricted Stock (including without limitation the grant, vesting and/or forfeiture thereof) are the sole responsibility of the Recipient. The Recipient shall consult with his or her own personal accountant(s) and/or tax advisor(s) regarding these matters, the making of a Section 83(b) election, and the Recipient’s filing, withholding and payment (or tax liability) obligations.
+
+8. Amendment, Modification & Assignment; Non-Transferability. This Agreement may only be modified or amended in a writing signed by the parties hereto. No promises, assurances, commitments, agreements, undertakings or representations, whether oral, written, electronic or otherwise, and whether express or implied, with respect to the subject matter hereof, have been made by either party which are not set forth expressly in this Agreement. Unless otherwise consented to in writing by the Company, in its sole discretion, this Agreement (and Recipient’s rights hereunder) may not be assigned, and the obligations of Recipient hereunder may not be delegated, in whole or in part. The rights and obligations created hereunder shall be binding on the Recipient and his heirs and legal representatives and on the successors and assigns of the Company.
+
+9. Complete Agreement. This Agreement (together with those agreements and documents expressly referred to herein, for the purposes referred to herein) embody the complete and entire agreement and understanding between the parties with respect to the subject matter hereof, and supersede any and all prior promises, assurances, commitments, agreements, undertakings or representations, whether oral, written, electronic or otherwise, and whether express or implied, which may relate to the subject matter hereof in any way.
+
+10. Miscellaneous.
+
+(a) No Right to (Continued) Employment or Service. This Agreement and the grant of Restricted Stock hereunder shall not confer, or be construed to confer, upon the Recipient any right to employment or service, or continued employment or service, with the Company.
+
+(b) No Limit on Other Compensation Arrangements. Nothing contained in this Agreement shall preclude the Company from adopting or continuing in effect other or additional compensation plans, agreements or arrangements, and any such plans, agreements and arrangements may be either generally applicable or applicable only in specific cases or to specific persons.
+
+(c) Severability. If any term or provision of this Agreement is or becomes or is deemed to be invalid, illegal or unenforceable in any jurisdiction or under any applicable law, rule or regulation, then such provision shall be construed or deemed amended to conform to applicable law (or if such provision cannot be so construed or deemed amended without materially altering the purpose or intent of this Agreement and the grant of Restricted Stock hereunder, such provision shall be stricken as to such jurisdiction and the remainder of this Agreement and the award hereunder shall remain in full force and effect).
+
+8  
+  
+(d) No Trust or Fund Created. Neither this Agreement nor the grant of Restricted Stock hereunder shall create or be construed to create a trust or separate fund of any kind or a fiduciary relationship between the Company and the Recipient or any other person. To the extent that the Recipient or any other person acquires a right to receive payments from the Company pursuant to this Agreement, such right shall be no greater than the right of any unsecured general creditor of the Company.
+
+(e) Law Governing. This Agreement shall be governed by and construed and enforced in accordance with the internal laws of the State of California (without reference to the conflict of laws rules or principles thereof).
+
+(f) Interpretation. The Recipient accepts the Restricted Stock subject to all of the terms, provisions and restrictions of this Agreement and the Plan. The undersigned Recipient hereby accepts as binding, conclusive and final all decisions or interpretations of the Board or the Committee upon any questions arising under this Agreement or the Plan.
+
+(g) Headings. Section, paragraph and other headings and captions are provided solely as a convenience to facilitate reference. Such headings and captions shall not be deemed in any way material or relevant to the construction, meaning or interpretation of this Agreement or any term or provision hereof.
+
+(h) Notices. Any notice under this Agreement shall be in writing and shall be deemed to have been duly given when delivered personally or when deposited in the United States mail, registered, postage prepaid, and addressed, in the case of the Company, to the Company’s President at 7911 Herschel Avenue, Suite 201, La Jolla, California 92037, or if the Company should move its principal office, to such principal office, and, in the case of the Recipient, to the Recipient’s last permanent address as shown on the Company’s records, subject to the right of either party to designate some other address at any time hereafter in a notice satisfying the requirements of this Section.
+
+(i) Section 409A.
+
+(a) It is intended that the Restricted Stock awarded pursuant to this Agreement be exempt from Section 409A of the Code (“Section 409A”) because it is believed that the Agreement does not provide for a deferral of compensation and accordingly that the Agreement does not constitute a nonqualified deferred compensation plan within the meaning of Section 409A. The provisions of this Agreement shall be interpreted in a manner consistent with this intention, and the provisions of this Agreement may not be amended, adjusted, assumed or substituted for, converted or otherwise modified without the Recipient’s prior written consent if and to the extent that the Company believes or reasonably should believe that such amendment, adjustment, assumption or substitution, conversion or modification would cause the award to violate the requirements of Section 409A.
+
+9  
+  
+(b) In the event that either the Company or the Recipient believes, at any time, that any benefit or right under this Agreement is subject to Section 409A, and does not comply with the requirements of Section 409A, it shall promptly advise the other and the Company and the Recipient shall negotiate reasonably and in good faith to amend the terms of such benefits and rights, if such an amendment may be made in a commercially reasonable manner, such that they comply with Section 409A with the most limited possible economic affect on the Recipient and on the Company.
+
+(c) Notwithstanding the foregoing, the Company does not make any representation to the Recipient that the shares of Restricted Stock awarded pursuant to this Agreement are exempt from, or satisfies, the requirements of Section 409A, and the Company shall have no liability or other obligation to indemnify or hold harmless the Recipient or any Beneficiary for any tax, additional tax, interest or penalties that the Recipient or any Beneficiary may incur in the event that any provision of this Agreement, or any amendment or modification thereof or any other action taken with respect thereto that either is consented to by the Recipient or that the Company reasonably believes should not result in a violation of Section 409A, is deemed to violate any of the requirements of Section 409A.
+
+(j) Non-Waiver of Breach. The waiver by any party hereto of the other party's prompt and complete performance, or breach or violation, of any term or provision of this Agreement shall be effected solely in a writing signed by such party, and shall not operate nor be construed as a waiver of any subsequent breach or violation, and the waiver by any party hereto to exercise any right or remedy which he or it may possess shall not operate nor be construed as the waiver of such right or remedy by such party, or as a bar to the exercise of such right or remedy by such party, upon the occurrence of any subsequent breach or violation.
+
+(k) Counterparts. This Agreement may be executed in two or more separate counterparts, each of which shall be an original, and all of which together shall constitute one and the same agreement.
+
+10  
+  
+IN WITNESS WHEREOF, the parties hereto, intending to be legally bound, have executed this Agreement as of the date first written above.
+
+REVEN HOUSING REIT, INC.  
+By:  /s/ Thad L. Meyer  
+Thad L. Meyer  
+Chief Financial Officer  
+  
+Agreed and Accepted:
+
+RECIPIENT:
+
+By:  /s/ Chad M. Carpenter  
+Chad M. Carpenter  
+  
+11

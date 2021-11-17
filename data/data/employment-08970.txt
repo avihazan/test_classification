@@ -1,0 +1,596 @@
+* * *
+
+Exhibit 10.33
+
+  
+
+
+ANGELICA CORPORATION
+
+  
+
+
+
+
+  
+
+
+  
+
+
+This agreement (this “Agreement”) has been entered into this 23rd day of November, 2005, by and between Angelica Corporation, a Missouri corporation (the “Company”), and W. Russell Watson, an individual (the “Employee”).
+
+  
+
+
+WHEREAS, the Board of Directors of the Company has determined that it is in the best interests of the Company and its stockholders to retain the Employee in the employ of the Company as Senior Vice President, East Business Unit of the Company’s Textile Services business operations as of the Effective Date (as defined below); and
+
+  
+
+
+WHEREAS, this Agreement contains the terms and conditions that have been negotiated by the Company and the Employee as an inducement to the Employee to continue in the employment of the Company and as an incentive to reinforce and encourage the continued attention and dedication of the Employee to the Company and its business throughout the Employment Period (as defined below), even in the face of a potential Change in Control; 
+
+  
+
+
+NOW THEREFORE, in consideration of the mutual promises herein contained, the parties hereby agree as follows: 
+
+Section 1: Definitions and Construction.
+
+  
+
+
+1.1 Definitions. For purposes of this Agreement, the following words and phrases, whether or not capitalized, shall have the meanings specified below, unless the context plainly requires a different meaning.
+
+1.1(a) “Accrued Obligations” has the meaning set forth in Section 4.1(a) of this Agreement.
+
+1.1(b) “Annual Bonus” has the meaning set forth in Section 2.4(b) of this Agreement.
+
+  
+
+
+1.1(c) “Annual Base Salary” has the meaning set forth in Section 2.4(a) of this Agreement.
+
+  
+
+
+1.1(d) “Board” means the Board of Directors of the Company.
+
+  
+
+
+1.1(e) “Cause” has the meaning set forth in Section 3.3 of this Agreement.
+
+1
+
+* * *
+
+1.1(f) “Change in Control” means:
+
+  
+
+
+(i) The acquisition by any individual, entity or group, or a Person (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act) of ownership of 25% or more of either (a) the then outstanding shares of common stock of the Company (the “Outstanding Company Common Stock”) or (b) the combined voting power of the then outstanding voting securities of the Company entitled to vote generally in the election of directors (the “Outstanding Company Voting Securities”); or
+
+  
+
+
+(ii) Individuals who, as of the date hereof, constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, that any individual becoming a director subsequent to the date hereof whose election, or nomination for election, by the Company's stockholders was approved by a vote of at least a majority of the directors then comprising the Incumbent Board shall be considered as though such individual were a member of the Incumbent Board, but excluding, as a member of the Incumbent Board, any such individual whose initial assumption of office occurs as a result of either an actual or threatened election contest (as such terms are used in Rule l4a-11 of Regulation l4A promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of a Person other than the Board; or
+
+  
+
+
+(iii) Approval by the stockholders of the Company of a reorganization, merger or consolidation, in each case, unless, following such reorganization, merger or consolidation, (1) more than 50% of, respectively, the then outstanding shares of common stock of the corporation resulting from such reorganization, merger or consolidation and the combined voting power of the then outstanding voting securities of such corporation entitled to vote generally in the election of directors is then beneficially owned, directly or indirectly, by all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Outstanding Company Common Stock and Outstanding Company Voting Securities immediately prior to such reorganization, merger or consolidation in substantially the same proportions as their ownership, immediately prior to such reorganization, merger or consolidation, of the Outstanding Company Common Stock and Outstanding Company Voting Securities, as the case may be, (2) no Person beneficially owns, directly or indirectly, 25% or more of, respectively, the then outstanding shares of common stock of the corporation resulting from such reorganization, merger or consolidation or the combined voting power of the then outstanding voting securities of such corporation, entitled to vote generally in the election of directors, and (3) at least a majority of the members of the board of directors of
+
+  
+
+
+2
+
+* * *
+
+the corporation resulting from such reorganization, merger or consolidation were members of the Incumbent Board at the time of the execution of the initial agreement providing for such reorganization, merger or consolidation; or
+
+(iv) Approval by the stockholders of the Company of (a) a complete liquidation or dissolution of the Company or (b) the sale or other disposition of all or substantially all of the assets of the Company, other than to a corporation, with respect to which following such sale or other disposition, (1) more than 50% of, respectively, the then outstanding shares of common stock of such corporation and the combined voting power of the then outstanding voting securities of such corporation entitled to vote generally in the election of directors is then beneficially owned, directly or indirectly, by all or substantially all of the individuals and entities who were the beneficial owners, respectively, of the Outstanding Company Common Stock and Outstanding Company Voting Securities immediately prior to such sale or other disposition in substantially the same proportion as their ownership, immediately prior to such sale or other disposition, of the Outstanding Company Common Stock and Outstanding Company Voting Securities, as the case may be, (2) no Person beneficially owns, directly or indirectly, 25% or more of, respectively, the then outstanding shares of common stock of such corporation and the combined voting power of the then outstanding voting securities of such corporation entitled to vote generally in the election of directors and (3) at least a majority of the members of the board of directors of such corporation were members of the Incumbent Board at the time of the execution of the initial agreement or action of the Board providing for such sale or other disposition of assets of the Company.
+
+  
+
+
+1.1(g)  “Change in Control Date” means the date that a Change in Control first occurs. 
+
+  
+
+
+1.1(h) “Company” has the meaning set forth in the first paragraph of this Agreement and, with regard to successors, in Section 6.2 of this Agreement.
+
+  
+
+
+1.1(i) “Date of Termination” has the meaning set forth in Section 3.8 of this Agreement.
+
+  
+
+
+1.1(j) “Disability” has the meaning set forth in Section 3.2 of this Agreement.
+
+  
+
+
+1.1(k) “Disability Effective Date” has the meaning set forth in Section 3.2 of this Agreement.
+
+  
+
+
+1.1(l) “Effective Date” means the date of this Agreement.
+
+3
+
+* * *
+
+1.1(m) “Employment Period” means the period beginning on the Effective Date and ending on the Date of Termination.
+
+  
+
+
+1.1(n) “Exchange Act” means the Securities Exchange Act of 1934, as amended.
+
+  
+
+
+1.1(o) “Good Reason” has the meaning set forth in Section 3.4 of this Agreement.
+
+  
+
+
+1.1(p) “Incumbent Board” has the meaning set forth in Section 1.1(f)(ii) of this Agreement.
+
+  
+
+
+1.1(q) “Notice of Termination” has the meaning set forth in Section 3.7 of this Agreement.
+
+  
+
+
+1.1(r) “Other Benefits” has the meaning set forth in Section 4.3 of this Agreement.
+
+  
+
+
+1.1(s) “Outstanding Company Common Stock” has the meaning set forth in Section 1.1(f)(i) of this Agreement.
+
+  
+
+
+1.1(t) “Outstanding Company Voting Securities” has the meaning set forth in Section 1.1(f)(i) of this Agreement.
+
+  
+
+
+1.1(u) “Person” means any “person” within the meaning of Sections 13(d) and 14(d) of the Exchange Act.
+
+1.2 Gender and Number. When appropriate, pronouns in this Agreement used in the masculine gender include the feminine gender, words in the singular include the plural, and words in the plural include the singular.
+
+  
+
+
+1.3 Headings. All headings in this Agreement are included solely for ease of reference and do not bear on the interpretation of the text. Accordingly, as used in this Agreement, the terms “Article” and “Section” mean the text that accompanies the specified Article or Section of the Agreement.
+
+  
+
+
+1.4 Applicable Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Missouri, without reference to its conflict of law principles.
+
+  
+
+
+Section 2: Terms and Conditions of Employment.
+
+  
+
+
+2.1 Period of Employment; Term of Agreement. The Employee shall remain in the employ of the Company throughout the Employment Period in accordance with the terms and provisions of this Agreement. Either party to this Agreement may terminate the Employment Period (and the Employee’s employment with the Company) at any time by giving the other party a Notice of
+
+4
+
+* * *
+
+Termination, subject only to the obligation of the Company to pay the benefits to the Employee as specified in Section 4 of this Agreement. The term of this Agreement shall begin as of the Effective Date and shall end on the Date of Termination. 
+
+  
+
+
+2.2 Positions and Duties.
+
+  
+
+
+2.2(a) Throughout the Employment Period, the Employee shall serve as Senior Vice President, East Business Unit of the Company’s Textile Services business, subject to the reasonable directions of the principal executive officer of the Textile Services business and the principal executive officer of the Company. The Employee shall have such authority and shall perform such duties as shall be specified by the principal executive officer of the Textile Services business and the principal executive officer of the Company from time to time. 
+
+  
+
+
+2.2(b) Throughout the Employment Period (but excluding any periods of vacation and sick leave to which the Employee is entitled), the Employee shall devote reasonable attention and time during normal business hours to the business and affairs of the Company and shall use his reasonable best efforts to perform faithfully and efficiently such responsibilities as are assigned to him under or in accordance with this Agreement; provided that, it shall not be a violation of this Section 2.2(b) for the Employee to (i) serve on corporate, civic or charitable boards or committees, (ii) deliver lectures or fulfill speaking engagements, or (iii) manage personal investments, so long as such activities do not significantly interfere with the performance of the Employee's responsibilities as an employee of the Company in accordance with this Agreement or violate the Company's conflict of interest policy as is in effect at such times. 
+
+  
+
+
+2.3 Situs of Employment. Throughout the Employment Period, the Employee's services shall be performed at the Company’s divisional headquarters offices located in the greater Atlanta, Georgia metropolitan area.
+
+  
+
+
+2.4 Compensation.
+
+  
+
+
+2.4(a) Annual Base Salary. The Employee will initially receive an annual base salary (“Annual Base Salary”) of One Hundred Seventy Thousand Dollars ($170,000.00), which shall be paid in equal or substantially equal semi-monthly installments. During the Employment Period, the Annual Base Salary payable to the Employee shall be reviewed at least once annually and shall be increased at the discretion of the Company but shall not be reduced without the consent of the Employee. 
+
+5
+
+* * *
+
+2.4(b) Annual Incentive Bonuses. In addition to Annual Base Salary, the Employee will be entitled to earn an incentive bonus on an annual basis (the “Annual Bonus”) during the Employment Period. The Board will set, on or before the 90th day of such fiscal year, the criteria which will be required to be achieved by the Employee during the fiscal year to earn all or a specified percentage of his Annual Bonus. The maximum Annual Bonus that the Employee may earn is 60%, and the target bonus is 30%, of the Employee’s salary paid during the fiscal year. If a Change in Control occurs, the Employee will receive a lump-sum payment on or before the Change in Control Date equal to the Employee’s maximum Annual Bonus, prorated with the numerator being the number of months in the fiscal year to the Change in Control Date (including the month in which the Change in Control occurs as a full month) and the denominator being 12. This payment will be in lieu of any right of the Employee to receive an Annual Bonus for the fiscal year in which the Change in Control occurs. 
+
+  
+
+
+2.4(c) Long-Term Incentive Plan Awards. The Employee will be entitled to earn long-term incentive bonus awards payable in accordance with a plan established by the Board or the Compensation and Organization Committee (the “Long-Term Bonus”). The Employee will be eligible to earn a Long-Term Bonus during the Employment Period on the basis of the achievement of performance goals during a three-year performance period. The Board will set, on or before the 90th day of such fiscal year, the performance goals to be achieved during the performance period that is then commencing in order for the Employee to earn all or a specified portion of his Long-Term Bonus. The Long-Term Bonus amount that may be earned by the Employee will be set at 35% of the Employee’s then-current Annual Base Salary. 
+
+  
+
+
+2.4(d) Savings and Deferred Compensation Plans. Throughout the Employment Period, the Employee shall be entitled to participate in all savings, deferred compensation and retirement plans generally available to other peer officers of the Company, including the Company’s 401(k) Plan.
+
+  
+
+
+2.4(e) Welfare Benefit Plans. Throughout the Employment Period, the Employee and/or the Employee's family, as the case may be, shall be eligible for participation in and shall receive all benefits under welfare benefit plans, practices, policies and programs provided by the Company (including, without limitation, medical, prescription, dental, disability, salary continuance, employee life, group life, accidental death and travel accident insurance plans and programs) to the extent generally available to other peer employees of the Company.
+
+  
+
+
+2.4(f) Business Expenses. Throughout the Employment Period, the Employee shall be entitled to receive prompt reimbursement for all reasonable business expenses incurred by the Employee in the conduct of the business of the Company (including travel and entertainment expenses) in accordance with the policies, practices and
+
+6
+
+* * *
+
+procedures generally applicable within the Company. 
+
+  
+
+
+2.4(g) Office and Furnishings. Throughout the Employment Period, the Employee shall be entitled to an office or offices of a size and with furnishings and other appointments commensurate with his office, duties and responsibilities with the Company. 
+
+  
+
+
+2.4(h) Vacation. Throughout the Employment Period, the Employee shall be entitled to paid vacation equal to three (3) weeks per year. 
+
+  
+
+
+Section 3: Termination of Employment.
+
+  
+
+
+3.1 Death. The Employee's employment shall terminate automatically upon the Employee's death during the Employment Period.
+
+  
+
+
+3.2 Disability. If the Company determines in good faith that the Disability of the Employee has occurred during the Employment Period (pursuant to the definition of Disability set forth below), the Company may give to the Employee written notice in accordance with Section 7.2 of its intention to terminate the Employee's employment. In such event, the Employee's employment with the Company shall terminate effective on the thirtieth (30th) day after receipt of such notice by the Employee (the “Disability Effective Date”), provided that, within the thirty (30) days after such receipt, the Employee shall not have returned to full-time performance of the Employee's duties. For purposes of this Agreement, “Disability” shall mean that the Employee has been unable to perform the services required of the Employee under this Agreement on a full-time basis for a period of one hundred eighty (180) consecutive regular business days by reason of a physical and/or mental condition. “Disability” shall be deemed to exist when certified by a physician selected by the Company and acceptable to the Employee or the Employee's legal representative (such agreement as to acceptability not to be withheld unreasonably). The Employee will submit to such medical or psychiatric examinations and tests as such physician deems necessary to make any such Disability determination.
+
+  
+
+
+3.3 Termination for Cause. The Company may terminate the Employee's employment during the Employment Period for “Cause,” which shall mean termination based upon: (a) the Employee's willful and continued failure to substantially perform his duties with the Company (other than as a result of incapacity due to physical or mental condition), after a written demand for substantial performance is delivered to the Employee by the Company, which specifically identifies the manner in which the Employee has not substantially performed his duties, (b) the Employee's commission of an act constituting a criminal offense involving moral turpitude, dishonesty, or breach of trust, or (c) the Employee's material breach of any provision of this Agreement. For purposes of this Section 3.3, no act or failure to act on the Employee's part shall be considered “willful” unless done or omitted to be done without good faith on the part of the Employee and without the Employee’s reasonable belief that the act or omission was in the best interest of the Company. 
+
+  
+
+
+3.4 Good Reason. The Employee may terminate his employment with the Company during
+
+7
+
+* * *
+
+the Employment Period for “Good Reason,” which shall mean:
+
+  
+
+
+3.4(a) the assignment to the Employee of any duties inconsistent in any respect with the Employee's position (including status, offices, titles and reporting requirements), authority, duties or responsibilities as contemplated by Section 2.2(a) or any other action by the Company which results in a diminution in such position, authority, duties or responsibilities, excluding for this purpose any action not taken in bad faith by the Company and which the Company remedies promptly after receipt of notice thereof given by the Employee;
+
+  
+
+
+3.4(b) (i) the failure by the Company to continue in effect any benefit or compensation plan, stock ownership plan, life insurance plan, health and accident plan or disability plan to which the Employee is entitled as specified in Section 2.4, provided that the Company may amend, modify or replace any such plan or plans as long as the Employee is entitled to benefits under the amended, modified or replaced plan or plans that are substantially similar to those of the plan or plans so amended, modified or replaced, (ii) the taking of any action by the Company which would adversely affect the Employee's participation in, or materially reduce the Employee's benefits under, any plans described in Section 2.4, or deprive the Employee of any benefits enjoyed by the Employee as described in Section 2.4(f) and (g), or (iii) the failure by the Company to provide the Employee with paid vacation to which the Employee is entitled as described in Section 2.4(h); 
+
+  
+
+
+3.4(c) the Company's requiring the Employee to be based at any office or location other than that described in Section 2.3;
+
+  
+
+
+3.4(d) a material breach by the Company of any provision of this Agreement;
+
+  
+
+
+3.4(e) any purported termination by the Company of the Employee's employment otherwise than as expressly permitted by this Agreement; or
+
+  
+
+
+3.4(f) in connection with a Change in Control, the failure of a successor of the Company to expressly assume and agree to perform this Agreement pursuant to the provisions of Section 6.2 of this Agreement prior to the Change in Control Date; provided, however, that a termination of employment by the Employee: (A) subsequent to an express assumption and agreement to perform this Agreement by such successor on or after the Change in Control Date, or (B) subsequent to a date that is two years after a Change in Control Date, shall not be deemed to be for “Good Reason” under this subsection. 
+
+8
+
+* * *
+
+For purposes of this Section, any good faith determination of “Good Reason” made by the Employee shall be conclusive unless and until such determination is overturned by a court of competent jurisdiction.
+
+  
+
+
+3.5 Voluntary Termination by the Employee. The Employee may voluntarily terminate his employment with the Company for any reason or for no reason at any time during the Employment Period.
+
+  
+
+
+3.6 Termination by the Company without Cause. The Company may terminate the Employee’s employment with the Company for any reason or for no reason, without citing Cause, at any time during the Employment Period, subject to the provisions of Section 4 of this Agreement. 
+
+  
+
+
+3.7 Notice of Termination. Any termination by the Company or by the Employee shall be communicated by Notice of Termination given in accordance with Section 7.2 to the other party. For purposes of this Agreement, a “Notice of Termination” means a written notice which (i) indicates the specific termination provision in this Agreement relied upon, (ii) to the extent applicable, sets forth in reasonable detail the facts and circumstances claimed to provide a basis for termination of the Employee's employment under the provision so indicated, and (iii) if the Date of Termination (as defined in Section 3.8 hereof) is other than the date of receipt of such notice, specifies the Date of Termination. The failure by the Employee or the Company to set forth in the Notice of Termination any fact or circumstance which contributes to a showing of Good Reason or Cause shall not waive any right of the Employee or the Company hereunder or preclude the Employee or the Company from asserting such fact or circumstance in enforcing the Employee's or the Company's rights hereunder.
+
+  
+
+
+3.8 Date of Termination. “Date of Termination” means (i) if the Employee's employment is terminated by the Company for Cause or any other reason, the date of receipt by the Employee of the Notice of Termination or any later date specified therein, as the case may be, (ii) if the Employee's employment is terminated by reason of death or Disability, the date of death of the Employee or the Disability Effective Date, as the case may be, or (iii) if the Employee's employment is terminated by the Employee for Good Reason, the date specified in the Notice of Termination which date shall not be more than thirty (30) or less than fifteen (15) days after the receipt of such notice; or (iv) if the Employee’s employment is terminated by the Employee voluntarily (either prior to or after a Change in Control Date), the date that is specified in the Notice of Termination. 
+
+  
+
+
+Section 4: Certain Benefits Upon Termination.
+
+  
+
+
+4.1 Termination Without Cause or For Good Reason Not in Connection with a Change in Control. If, prior to a Change in Control Date during the Employment Period (except in the event that one of the following terminations of employment occurs within the six-month period prior to the earlier of (a) a Change in Control Date or (b) the execution of a definitive agreement or contract that eventually results in a Change in Control, which shall result in the payment of severance benefits set forth in Section 4.2 of this Agreement), (i) the Company shall terminate the Employee's employment without Cause, or
+
+9
+
+* * *
+
+(ii) the Employee shall terminate his employment for Good Reason, the Employee shall be entitled to the payment of the benefits provided below: 
+
+  
+
+
+4.1(a) Accrued Obligations. Within thirty (30) days after the Date of Termination, the Company shall pay to the Employee the sum of (i) the Employee's Annual Base Salary through the Date of Termination to the extent not previously paid, (ii) the accrued benefit payable to the Employee under any compensation plan, program or arrangement in which the Employee is a participant subject to the computation of benefits provisions of such plan, program or arrangement, and (iii) any accrued vacation pay; in each case to the extent not previously paid (the “Accrued Obligations”).
+
+  
+
+
+4.1(b) Annual Base Salary Continuation. For a period of twelve (12) months beginning in the month immediately subsequent to the month in which the Date of Termination occurs, the Company shall pay to the Employee, on a semi-monthly basis consistent with its then-existing payroll practices, an amount equal to one/twenty-fourth (1/24th) of the Employee’s then-current Annual Base Salary; provided, however, that during months seven (7) through twelve (12) of such period, the amount of such payments shall be reduced by the amounts, if any, earned by the Employee during such months as a result of self-employment and/or employment with another employer. As a condition of payment during months seven through twelve, the Employee agrees to provide the Company with verification, reasonably acceptable to the Company, substantiating the amounts of any such earnings or the Employee’s lack of other employment, as the case may be. The Company at any time may elect to pay the balance of such payments then remaining in a lump sum, without discount.
+
+  
+
+
+4.2 Benefits Upon Termination without Cause or for Good Reason in Connection with a Change in Control. If (a) a Change in Control occurs during the Employment Period and within two (2) years after the Change in Control Date (i) the Company shall terminate the Employee's employment without Cause, or (ii) the Employee shall terminate employment with the Company for Good Reason, or, alternatively, (b) if one of the above-described terminations of employment occurs within the six-month period prior to the earlier of (i) a Change in Control Date or (ii) the execution of a definitive agreement or contract that eventually results in a Change in Control, then the Employee shall become entitled to the payment of the benefits as provided below as of either (y) the Date of Termination, in the case where the sequence of the requisite events is as set forth in subsection (a) above or (z) the Change in Control Date, in the case where the sequence of the requisite events occurred as set forth in subsection (b) above (the relevant date for purposes of entitlement to the benefits as set forth in this Section 4.2 is hereinafter referred to as the “Entitlement Date”):
+
+4.2(a) Accrued Obligations. Within thirty (30) days after the Entitlement Date, the Company shall pay to the Employee the Accrued Obligations.
+
+  
+
+
+4.2(b) Severance Amount. Within thirty (30) days after the Entitlement Date, the Company shall pay to the Employee as severance pay in a lump sum, in cash, an amount
+
+10
+
+* * *
+
+equal to one (1) times an amount equal to the Employee’s then-current Annual Base Salary.
+
+4.2(c) Stock Options and Restricted Stock. To the extent not otherwise provided for under the terms of the Company's stock-based compensation plans or the Employee's award or grant agreements, all stock options and restricted stock held by the Employee that have not expired in accordance with their respective terms shall fully vest as of the Entitlement Date.
+
+4.3 Death. If the Employee's employment is terminated by reason of the Employee's death during the Employment Period (either prior or subsequent to the Change in Control Date), this Agreement shall terminate without further obligations to the Employee's legal representatives under this Agreement, other than for (i) payment of Accrued Obligations (which shall be paid to the Employee's estate or beneficiary, as applicable, in a lump sum in cash within thirty (30) days of the Date of Termination) and (ii) the timely payment or provision of such other benefits required to be paid or provided by the Company to the Employee or the Employee’s family under any plan, program, policy, practice, contract or agreement of the Company generally provided to other peer employees and their families (“Other Benefits”), including all such benefits payable in the event of death.
+
+  
+
+
+4.4 Disability. If the Employee's employment is terminated by reason of the Employee's Disability during the Employment Period (either prior or subsequent to a Change in Control), this Agreement shall terminate without further obligations to the Employee, other than for (i) payment of Accrued Obligations (which shall be paid to the Employee in a lump sum in cash within thirty (30) days of the Date of Termination) and (ii) the timely payment or provision of Other Benefits including all such benefits payable in the event of Disability. 
+
+  
+
+
+4.5 Termination for Any Other Reasons. If the Employee's employment shall be terminated for Cause or by the Employee voluntarily (either prior or subsequent to a Change in Control Date), this Agreement shall terminate without further obligations to the Employee other than the obligation to pay to the Employee the Accrued Obligations. In such case, all of the Employee’s Accrued Obligations shall be paid to the Employee in a lump sum in cash within thirty (30) days of the Date of Termination.
+
+  
+
+
+4.6 Entire Agreement; Prior Agreements and Benefits under Other Plans Superceded. This Agreement is the entire agreement of the parties on the subject matter contained herein and shall supercede all prior agreements, arrangements and understandings that the Employee and the Company may have had with respect to the Employee’s employment with the Company and the payment of benefits by the Company to the Employee in the event of a termination of the Employee’s employment, either prior to or in conjunction with a Change in Control, including that certain Employment Agreement dated the 30th day of September, 2004. The benefits payable pursuant to this Agreement are in lieu of and in substitution for any termination benefits payable by the Company in conjunction with any other plan, program, policy, practice, contract or agreement that the Company may have had either in the past, currently or in the future.
+
+  
+
+
+11
+
+* * *
+
+4.7 Full Settlement. The parties agree that the Company's obligation to make the payments provided for in this Agreement and otherwise to perform its obligations hereunder are intended to be in full settlement of all claims that the Employee may have against the Company with respect to the termination of the Employee’s employment with the Company and the Employee may be required to execute and deliver an agreement to this effect prior to receipt of any payments under this Agreement. The payments to be made by the Company or any other obligation that the Company is required to perform pursuant to this Agreement shall not be affected by any set-off, counterclaim, recoupment, defense or other claim, right or action which the Company may have against the Employee or others. In no event shall the Employee be obligated to seek other employment or take any other action by way of mitigation of the amounts payable to the Employee under any of the provisions of this Agreement and, except as provided in Section 4.1(b), such amounts shall not be reduced whether or not the Employee obtains other employment. To the extent the Employee prevails in any contest with respect to the validity or enforceability of, or liability under, any provision of this Agreement or any guarantee of performance thereof (including as a result of any contest by the Employee regarding the amount of any payment pursuant to this Agreement), the Company agrees to pay promptly, to the full extent permitted by law, all legal fees and expenses which the Employee may reasonably incur as a result of any such contest, plus in each case interest on any delayed payment at the applicable Federal rate provided for in Code Section 7872(f)(2)(A). 
+
+  
+
+
+4.8 Resolution of Disputes. If there shall be any dispute between the Company and the Employee (i) as to whether any termination of the Employee's employment was for Cause, or (ii) as to whether any termination of the Employee’s employment for Good Reason was made in good faith, then, unless and until there is a final, non-appealable judgment by a court of competent jurisdiction declaring that such termination was for Cause or that the determination by the Employee of the existence of Good Reason was not made in good faith, the Company shall pay all amounts, and provide all benefits, to the Employee and/or the Employee's family or other beneficiaries, as the case may be, that the Company would be required to pay or provide pursuant to Section 4.1 or 4.2 as though such termination was without Cause or for Good Reason, as the case may be; provided, however, that the Company shall not be required to pay any disputed amounts pursuant to this Section 4.8 except upon receipt of an undertaking by or on behalf of the Employee to repay all such amounts to which the Employee is ultimately adjudged by such court not to be entitled.
+
+  
+
+
+Section 5: Non-Competition.
+
+  
+
+
+5.1 Non-Compete Agreement.
+
+  
+
+
+5.1(a) During the period beginning on the Date of Termination and ending one (1) year thereafter, the Employee shall not, without prior written approval of the principal executive officer of the Company, become a partner, officer, director, stockholder, advisor, employee, consultant, agent, salesman or otherwise of any business enterprise in substantial direct competition (as defined in Section 5.1(b)) with the Company or any of its subsidiaries in the United States or in any other country in which the Company does
+
+12
+
+* * *
+
+business on the Date of Termination; provided that, if the Employee’s employment is terminated for Good Reason, then the Employee will not be subject to the restrictions of this Section 5.1(a). This restriction will not limit the Employee’s right to invest in five percent (5%) or less of the outstanding capital stock or other equity securities of any corporation, the stock or securities of which are publicly traded on a national stock exchange.
+
+  
+
+
+5.1(b) For purposes of Section 5.1, a business enterprise with which the Employee becomes associated shall be considered in substantial direct competition, if such entity competes with the Company or its subsidiaries in any business in which the Company or any of its subsidiaries is engaged and is within the Company's or the subsidiary’s market area as of the Date of Termination.
+
+  
+
+
+5.1(c)  During the period beginning on the date the Employment Period terminates and ending one (1) year thereafter, the Employee shall not directly or indirectly solicit the employment of, recruit, employ, hire, cause to be employed or hired, entice away or establish a business relationship with, (i) any then current employee of the Company or any of its subsidiaries or (ii) any person who was employed by the Company or any of its subsidiaries during the six (6) months immediately prior to the date that the Employee first solicits such person. 
+
+  
+
+
+5.2 Confidential Information. The Employee shall hold in a fiduciary capacity for the benefit of the Company all secret or confidential information, knowledge or data relating to the Company or any of its affiliated companies, and their respective businesses, which shall have been obtained by the Employee during the Employee's employment by the Company and which shall not be or become public knowledge (other than by acts by the Employee or representatives of the Employee in violation of this Agreement). After termination of the Employee's employment with the Company, the Employee shall not, without the prior written consent of the Company, or as may otherwise be required by law or legal process, communicate or divulge any such information, knowledge or data to anyone other than the Company and those designated by it. In no event shall an asserted violation of the provisions of this Section constitute a basis for deferring or withholding any amounts otherwise payable to the Employee under this Agreement.
+
+  
+
+
+Section 6:  Successors.
+
+  
+
+
+6.1 Successors of Employee. This Agreement is personal to the Employee and, without the prior written consent of the Company, the rights (but not the obligations) shall not be assignable by the Employee otherwise than by will or the laws of descent and distribution. This Agreement shall inure to the benefit of and be enforceable by the Employee's legal representatives.
+
+  
+
+
+6.2 Successors of Company. The Company will require any successor (whether direct or indirect, by purchase, merger, consolidation or otherwise) to all or substantially all of the business and/or assets of the Company to assume expressly and agree to perform this Agreement in the same manner and
+
+13
+
+* * *
+
+to the same extent that the Company would be required to perform it if no such succession had taken place. Failure of the Company to obtain such agreement prior to the effectiveness of any such succession shall be a breach of this Agreement and shall entitle the Employee to terminate this Agreement at his option on or after the Change in Control Date for Good Reason. As used in this Agreement, “Company” shall mean the Company as hereinbefore defined and any successor to its business and/or assets which assumes and agrees to perform this Agreement by operation of law, or otherwise. 
+
+  
+
+
+Section 7: Miscellaneous.
+
+  
+
+
+7.1 Other Agreements. The Board may, from time to time in the future, provide other incentive programs and bonus arrangements to the Employee with respect to the occurrence of a Change in Control that will be in addition to the benefits required to be paid in the designated circumstances in connection with the occurrence of a Change in Control. Such additional incentive programs and/or bonus arrangements will affect or abrogate the benefits to be paid under this Agreement only in the manner and to the extent explicitly agreed to by the Employee in any such subsequent program or arrangement.
+
+  
+
+
+7.2 Notice. For purposes of this Agreement, notices and all other communications provided for in the Agreement shall be in writing and shall be deemed to have been duly given when delivered or mailed by certified or registered mail, return receipt requested, postage prepaid, addressed to the respective addresses as set forth below; provided that all notices to the Company shall be directed to such other address as one party may have furnished to the other in writing in accordance herewith, except that notice of change of address shall be effective only upon receipt.
+
+  
+
+
+Notice to Employee:
+
+  
+
+
+W. Russell Watson
+
+4290 Woodward Way
+
+Cumming, Georgia 30041
+
+Notice to Company:
+
+Angelica Corporation
+
+424 South Woods Mill Road
+
+Chesterfield, Missouri 63017-3406
+
+Attention: General Counsel
+
+  
+
+
+7.3 Validity. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement.
+
+14
+
+* * *
+
+7.4 Withholding. The Company may withhold from any amounts payable under this Agreement such Federal, state or local taxes as shall be required to be withheld pursuant to any applicable law or regulation.
+
+  
+
+
+7.5 Waiver. The Employee's or the Company's failure to insist upon strict compliance with any provision hereof or any other provision of this Agreement or the failure to assert any right the Employee or the Company may have hereunder, including, without limitation, the right of the Employee to terminate employment for Good Reason pursuant to Section 3.4 shall not be deemed to be a waiver of such provision or right or any other provision or right of this Agreement.
+
+IN WITNESS WHEREOF, the Employee and, the Company, pursuant to the authorization from its Board, have caused this Agreement to be executed in its name on its behalf, all as of the day and year first above written.
+
+  
+
+
+  
+
+
+“Employee”
+
+  
+
+
+  
+
+
+  
+
+
+/s/ W. R. Watson 
+
+W. Russell Watson
+
+  
+
+
+“Company”
+
+  
+
+
+ANGELICA CORPORATION
+
+  
+
+
+  
+
+
+  
+
+
+By /s/ Stephen M. O’Hara 
+
+Name: Stephen M. O’Hara
+
+Title: CEO
+
+15

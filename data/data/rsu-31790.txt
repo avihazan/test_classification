@@ -1,0 +1,83 @@
+Exhibit 10.1
+
+
+
+Restricted Stock Agreement, dated as of [ ] (this "Agreement"), between INDUSTRIAL SERVICES OF AMERICA, INC., a Florida corporation (the "Company"), and [ ] ("Participant").
+
+The Company has adopted the Industrial Services of America, Inc. Long Term Incentive Plan (the "Plan"), the terms of which are incorporated by reference, except to the extent this Agreement or the attached "Schedule A" to this Agreement provide for a different definition or term. In the case of any conflict between this Agreement and the Plan, the provisions of the Plan shall control. A copy of the Plan is available upon request by the Participant from the Secretary of the Company.
+
+In accordance with its authority under Sections 3, 4 and 6 of the Plan, the Board of Directors of the Company, with the exclusion of the employee-directors (the "Committee"), has adopted a resolution granting the Participant an Award of Restricted Stock (the "Restricted Stock") under the Plan on the terms and conditions set forth in this Agreement and in the Plan.
+
+The Company makes no representations or warranties as to the federal, state, local or foreign income, estate or other tax consequences to the Participant of the grant of the Restricted Stock under this Agreement.
+
+1\. (a) The number of shares of Restricted Stock is set forth on Schedule A to this Agreement and is subject to adjustment as provided in Paragraph 5 below.
+
+(b) Unless the Restricted Stock is previously forfeited pursuant to the Plan or this Agreement, the Restricted Stock shall vest as described in this Paragraph 1(b), unless a different vesting schedule is specified on Schedule A.
+
+(i) The Restricted Stock will be divided into three equal tranches.
+
+(ii) The first tranche will vest on the first anniversary of the grant date specified on Schedule A.
+
+(iii) The second tranche will become eligible for vesting one day after the first anniversary of the grant date, and will vest on the second anniversary of the grant date.
+
+(iv) The third tranche will become eligible for vesting one day after the second anniversary of the grant date, and will vest on the third anniversary of the grant date. 
+
+(c) If not specified on Schedule A, in the Plan or elsewhere herein, the unvested portion of the Restricted Stock will be cancelled and forfeited as follows:
+
+(i) If the Participant's employment with the Company is terminated for Cause, the unvested portion of the Restricted Stock will be cancelled and forfeited on the date of the Participant's termination of employment with the Company;
+
+(ii) If the Participant's employment with the Company is terminated other than for Cause, and other than on account of the Participant's death or Disability, the unvested portion of the Restricted Stock will be cancelled and forfeited on the date of the Participant's termination of employment with the Company; and
+
+(iii) If the Participant's employment with the Company is terminated on account of the Participant's death or Disability, all of the Restricted Stock shall vest on the date of the Participant's termination of employment with the Company.
+
+"Cause" for purposes of this Paragraph 1(c) means: (i) the Participant's conviction of or plea of guilty or nolo contendere to a crime constituting a felony under the laws of the United States or any State thereof or any other jurisdiction in which the Company conducts business; (ii) the Participant's willful misconduct in the performance of his or her duties to the Company and failure to cure such breach within 30 days following written notice thereof from the Company; (iii) the Participant's willful failure or refusal to follow directions from the Board (or direct reporting executive) and failure to cure such breach within 30 days following written notice thereof from the Board; or (iv) the Participant's breach of fiduciary duty to the Company for personal profit. Any failure by the Company to notify the Participant after the first occurrence of an event constituting Cause shall not preclude any subsequent occurrences of such event (or a similar event) from constituting Cause.
+
+"Disability" for purposes of this Paragraph 1(c) means the Participant's physical or mental condition resulting from any medically determinable physical or mental impairment that renders the Participant incapable of engaging in any substantial gainful employment and that can be expected to result in death or that has lasted or can be expected to last for a continuous period of not less than 365 days. Notwithstanding the foregoing, the Participant shall not be deemed to be disabled as a result of any condition that: (i) was contracted, suffered, or incurred while the Participant was engaged in, or resulted from the Participant having engaged in, a felonious activity; (ii) resulted from an intentionally self-inflicted injury or an addiction to drugs, alcohol, or substances which are not administered under the direction of a licensed physician as part of a medical treatment plan; or (iii) resulted from service in the Armed Forces of the United States for which the Participant received or is receiving a Disability benefit or pension from the United States, or from service in the armed forces of any other country irrespective of any Disability benefit or pension. The Disability of the Participant and the date on which the Participant ceases to be employed by reason of Disability shall be determined by the Company, in accordance with uniform principles consistently applied, on the basis of such evidence as the Committee and the Corporation deem necessary and desirable, and its good faith determination shall be conclusive for all purposes of the Plan. The Committee or the Company shall have the right to require the Participant to submit to an examination by a physician or physicians and to submit to such reexaminations as the Committee or the Company shall require in order to make a determination concerning the Participant's physical or mental condition; provided, however, that the Participant may not be required to undergo a medical examination more often than once each 180 days. If the Participant engages in any occupation or employment (except for rehabilitation as determined by the Committee) for remuneration or profit, which activity would be inconsistent with the finding of Disability, or if the Committee, on the recommendation of the Company, determines on the basis of a medical examination that the Participant no longer has a Disability, or if the Participant refuses to submit to any medical examination properly requested by the Committee or the Company, then in any such event, the Participant shall be deemed to have recovered from such Disability. 
+
+(d) Except for the potential forfeitability of the Restricted Stock before the lapse of restrictions set forth in Paragraph 1(c) above, the Participant has all rights of a stockholder (including voting and dividend rights) commencing on the date of the Company's book entry evidencing the grant of Restricted Stock under this Agreement. With respect to any dividends that are paid with respect to the Restricted Stock between the date of this Agreement and any applicable vesting date, such dividends (whether payable in cash or shares) shall be subject to the same restrictions as the Restricted Stock, including any forfeiture provisions described in this paragraph 1.
+
+2\. Nothing in the Plan or in this Agreement confers on the Participant any right to continue as an employee of or service provider to the Company, or otherwise limits the right of the Company, which right is expressly reserved, to discharge the Participant from employment or service at any time for any reason whatsoever, with or without Cause, except to the extent expressly provided otherwise in a written employment agreement between the Participant and the Company. No person or entity shall be entitled to vote, receive dividends or be deemed for any purpose the holder with respect to any unvested portion of the Restricted Stock.
+
+3\. Unless specifically permitted on Schedule A, the Restricted Stock shall not be subject in any manner to transfer (except by will or the laws of descent and distribution), sale, exchange, assignment, anticipation, pledge or encumbrance.
+
+4\. If the Company shall become obligated to withhold an amount on account of any tax imposed as a result of the vesting of the Restricted Stock, including, without limitation, any federal, state, local or other income tax, or any FICA, state disability insurance tax or other employment tax (the "Withholding Liability"), then the Participant shall, on the vesting date, pay the Withholding Liability to the Company. Payment shall be by check payable to the Company; provided, however, that with the consent of the Committee, payment may instead be made by delivery to the Company of a certificate or certificates representing Shares duly endorsed or accompanied by a duly executed stock power(s), which delivery effectively transfers to the Company good and valid title to such Shares, free and clear of any pledge, commitment, lien, claim or other encumbrance (such Shares to be valued on the basis of the fair market value thereof on the date of such payment); provided, further, that the Company is not then prohibited from purchasing or acquiring such Shares. The Participant consents to the Company withholding the full amount of the Withholding Liability from any compensation or other amounts otherwise payable to the Participant if the Participant does not pay the Withholding Liability to the Company on the vesting date, and the Participant agrees that the withholding and payment of any such amount by the Company to the relevant taxing authority shall constitute full satisfaction of the Company's obligation to pay such compensation or other amounts to the Participant.
+
+5\. In the event of any stock dividend, reclassification, subdivision or combination, or similar transaction affecting the Restricted Stock covered by this Award, the rights of the Participant will be adjusted as provided in Section 4.2(e) of the Plan. Nothing contained in this Agreement shall be construed to affect in any way the right or power of the Company to make any adjustment, reclassification, reorganization or changes to its capital or business structure or to merge or to consolidate or to dissolve, liquidate or transfer all or any part of its business or assets.
+
+6\. The Restricted Stock shall become fully vested in connection with a Change in Control. For purposes of the foregoing, a "Change in Control" generally has the meaning given to such term under the Plan. Except as otherwise described above, a Participant would be entitled to immediate vesting in the event of a Change in Control only if he were an employee, director or consultant on the effective date of such accelerated vesting.
+
+7\. In no event will the value, at any time, of the Restricted Stock or any other payment or right to payment under this Agreement be included as compensation or earnings for purposes of any other compensation, retirement, or benefit plan offered to employees of, or other service providers to, the Company unless otherwise specifically provided for in such plan.
+
+8\. The Board intends to comply with Code Section 409A, or an exclusion from Code Section 409A coverage, with regard to the Award of Restricted Stock under this Agreement, and all provisions of the Plan and this Agreement shall be interpreted accordingly. In the event that any provision of the Plan or of this Agreement is determined by the Company to be subject to and not in compliance with Code Section 409A, the Company may amend the Plan or Award to correct such non-compliance to the extent permitted under any guidance, procedure, or other method promulgated by the Internal Revenue Service now or in the future that provides for such correction as a means to avoid or mitigate any taxes, interest, or penalties that otherwise would be incurred by the Participant on account of such non-compliance. In no event shall the Company be liable for any additional tax, interest or penalty that may be imposed on a Participant by Code Section 409A or damages for failing to comply with Code Section 409A.
+
+9\. This Agreement shall be construed and enforced in accordance with the laws of the State of Florida, without reference to principles regarding conflicts of law. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective heirs, personal representatives, successors or assigns, as the case may be.
+
+IN WITNESS WHEREOF, the parties have witnessed this Agreement to be duly executed and delivered as of the date first above written.
+
+INDUSTRIAL SERVICES OF AMERICA, INC.  
+  
+By:  
+  
+Participant
+
+Name:  
+  
+Title:  
+  
+* * *
+
+SCHEDULE A
+
+Name of Participant:  
+  
+Grant Date:  
+  
+Number of Shares of Restricted Stock in Award:  
+  
+Vesting Schedule:
+
+Shares of Restricted Stock will vest as prescribed in 1(b) herein unless a different schedule is specified in this Schedule A.  
+  
+* * *
+
+* * *

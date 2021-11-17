@@ -1,0 +1,149 @@
+Exhibit 10.12 
+
+
+
+Approved February 11, 2008 
+
+MAX CAPITAL GROUP LTD. 
+
+RESTRICTED STOCK UNIT AGREEMENT 
+
+This Restricted Stock Unit Agreement (the “Agreement”) is effective as of the _____ day of _________, 2___ (the “Grant Date”) by and between Max Capital Group Ltd. (the “Company”), and _______________ (the “Grantee”). 
+
+WHEREAS, the Company may grant awards of restricted Common Stock units pursuant to the Company’s 2000 Stock Incentive Plan, as amended, (the “Plan”); and 
+
+WHEREAS, the Company has determined that it is in the best interests of the Company and its shareholders to grant the award of restricted Common Stock units provided for herein (the “Award”), to the Grantee in recognition of the Grantee’s service to the Company, in partial consideration for the Grantee’s employment with the Company and in partial consideration for the Grantee’s agreement to comply with the Company’s policies as set forth on Exhibit A attached hereto, such grant to be subject to the terms set forth herein. 
+
+NOW, THEREFORE, in consideration for the mutual covenants hereinafter set forth, the parties hereto agree as follows: 
+
+1. Basis for Award. This Award is made under the Plan pursuant to Section 8 thereof for services to be rendered to the Company by the Grantee.   
+  
+2. Restricted Stock Units Awarded.   
+  
+(a) The Company hereby awards to the Grantee, in the aggregate, ___________ restricted Common Stock units (“Restricted Stock Units”), which shall be subject to the terms of the Plan and this Agreement.   
+  
+(b) The Restricted Stock Units shall be credited to a separate account maintained for the Grantee on the books of the Company (the “Account”). On any given date, the value of each Restricted Stock Unit comprising the Award shall equal the Fair Market Value of one share of Common Stock. The Award shall vest and settle in accordance with Section 3 hereof.   
+  
+3. Vesting and Settlement.  
+  
+(a)
+
+Except as otherwise provided in the Plan and this Agreement, the Restricted Stock Units shall vest and become non-forfeitable on ______ (the “Vesting Date”); provided, that, the Grantee is then employed by the Company or any of its Subsidiaries. If the Grantee’s employment is terminated at any time prior to the Vesting Date, the unvested Restricted Stock Units subject to the Award shall automatically be forfeited upon such termination of employment, unless otherwise provided in Section 3(b) or Section 3(c). On the Vesting Date, the Company shall settle the Restricted Stock Units and as a result thereof (i) issue and deliver to the   
+  
+1 
+
+* * *
+
+Grantee one share of Common Stock for each such Restricted Stock Unit (the “RSU Shares”) (and upon such settlement, the Restricted Stock Units shall cease to be credited to the Account) and (ii) enter the Grantee’s name as a stockholder of record with respect to the RSU Shares on the books of the Company.   
+  
+(b) Pro Rata Vesting. In the event of the Grantee’s death or if the Grantee’s employment is terminated by the Company or any of its Subsidiaries for Disability (as defined below) or without Cause (as defined in the Plan) or by the Grantee for Good Reason (as defined below), a pro rata portion of the Restricted Stock Units shall vest and be settled in accordance with the last sentence of Section 3(a) as of the date of such termination, and all other unvested Restricted Stock Units shall immediately terminate and be forfeited. The pro rata portion of the Restricted Stock Units that vests shall be calculated by multiplying the number of Restricted Stock Units by a fraction, the numerator of which shall equal the number of consecutive days the Grantee is employed by the Company or any of its Subsidiaries from the Grant Date to the date of termination, and the denominator of which shall equal _____ (rounded to the nearest whole number).   
+  
+For purposes of this Agreement, “Disability” shall mean termination upon thirty (30) days’ notice in the event that the Grantee suffers a mental or physical disability that shall have prevented him/her from performing his/her material duties for a period of at least 120 consecutive days or 180 non-consecutive days within any 365 day period; provided, that, the Grantee shall not have returned to full-time performance of his/her duties within 30 days following receipt of such notice. The Grantee shall have “Good Reason” to terminate his/her employment within thirty (30) days after the Grantee has knowledge of the occurrence, without the Grantee’s written consent, of one of the following events that has not been cured, if curable, within thirty (30) days after a notice of termination has been given by the Grantee to the Company or its Subsidiary, as applicable: (i) any material and adverse change to the Grantee’s duties or authority which are inconsistent with his/her title and position, (ii) a material diminution of the Grantee’s title or position; or (iii) a reduction of the Grantee’s base salary; or (iv) any other reason which the Company determines in its sole discretion is Good Reason; provided, however, that, if termination for “Good Reason” is defined in the Grantee’s employment agreement, the definition in the employment agreement shall apply for purposes of this Section 3. 
+
+(c) Full Vesting. Upon the Grantee’s Retirement, vesting (and settlement) shall continue according to the schedule set forth in Section 3(a) as if the Grantee were still employed; provided, that, during the period following Retirement and prior to the Vesting Date, the Grantee does not enter into any employment, consulting, service or similar arrangements or accept any directorship that has not been pre-approved by the Committee in its sole discretion. In the event that the Grantee does enter into any such employment, consulting, service or similar arrangement or accepts any unapproved directorship, all unvested Restricted Stock Units shall be immediately forfeited. For purposes of this Agreement, “Retirement” shall be defined as when the Grantee retires from the Company or a Subsidiary, as applicable, if the sum of the Grantee’s age and years of service as an employee of the Company and its Subsidiaries equals at least 55.   
+  
+2 
+
+* * *
+
+(d) Change in Control. Upon the occurrence of a “Change in Control” (as defined in the Plan), all unvested Restricted Stock Units shall automatically become vested and shall be settled in accordance with the last sentence of Section 3(a).   
+  
+4. Dividend Equivalents. If the Company pays a cash dividend on its outstanding Common Stock for which the Record Date (for purposes of this Agreement, the “Record Date” is the date on which shareholders of record are determined for purposes of paying the cash dividend on Common Stock) occurs after the Grant Date, the Grantee shall receive a cash payment equal to the amount of the ordinary cash dividend paid by the Company on a single share of Common Stock multiplied by the number of Restricted Stock Units awarded under this Agreement that are unvested and unpaid as of such Record Date. Payments pursuant to this Section 4 are subject to tax withholding.   
+  
+5. Restrictions. The Award granted hereunder may not be sold, pledged or otherwise transferred (other than by will or the laws of descent and distribution or as otherwise permitted by the Committee) and may not be subject to lien, garnishment, attachment or other legal process. The Grantee acknowledges and agrees that, with respect to each Restricted Stock Unit credited to his/her Account, the Grantee has no voting rights with respect to the Company unless and until such Restricted Stock Unit is settled in RSU Shares pursuant to Section 3(a) hereof.   
+  
+6. Compliance with Laws and Regulations. The issuance and transfer of RSU Shares shall be subject to compliance by the Company and the Grantee with all applicable requirements of securities laws and with all applicable requirements of any stock exchange on which the Company’s Common Stock may be listed at the time of such issuance or transfer. Prior to the issuance of any RSU Shares, the Company may require that the Grantee (or the Grantee’s legal representative upon the Grantee’s death or Disability) enter into such written representations, warranties and agreements as the Company may reasonably request in order to comply with applicable securities laws or with this Agreement.   
+  
+7. No Right to Continued Employment or Additional Awards. By signing below, the Grantee acknowledges and agrees that the Award he/she has been awarded under the Plan, and any other awards the Company may grant in the future to the Grantee, even if such awards are made repeatedly or regularly, and regardless of their amount, (a) are wholly discretionary, are not a term or condition of employment and do not form part of a contract of employment, or any other working arrangement, between the Grantee and the Company or any Subsidiary, as applicable, (b) do not create any contractual entitlement to receive future awards or to continued employment, and (c) do not form part of salary or remuneration for purposes of determining pension payments or any other purposes, including, without limitation, termination indemnities, severance, resignation, redundancy, bonuses, long-term service awards, pension or retirement benefits, or similar payments, except as otherwise required by applicable law.   
+  
+3 
+
+* * *
+
+8. General Assets. All amounts credited to the Grantee’s Account under this Agreement shall continue for all purposes to be part of the general assets of the Company. The Grantee’s interest in the Account shall make the Grantee only a general, unsecured creditor of the Company.   
+  
+9. Rights as Shareholder. Upon and following the Vesting Date, the Grantee shall be the record owner of the RSU Shares unless and until such shares are sold or otherwise disposed of, and as record owner shall be entitled to all rights of a shareholder of the Company (including voting rights). Prior to the Vesting Date, the Grantee shall not be deemed for any purpose to be the owner of the shares of Common Stock underlying the Restricted Stock Units subject to the Award.   
+  
+10. Governing Law. This Agreement shall be governed by the laws of the state of New York without regard to conflict of law principles.   
+  
+11. Plan. Except as otherwise provided herein, or unless the context clearly indicates otherwise, capitalized terms herein which are defined in the Plan have the same definitions as provided in the Plan. The terms and provisions of the Plan are incorporated herein by reference, and the Grantee hereby acknowledges receiving a copy of the Plan. In the event of a conflict or inconsistency between the terms and provisions of the Plan and the provisions of this Agreement, the Plan shall govern and control.   
+  
+12. Policies. By accepting this Award and as a condition thereof, the Grantee agrees to comply with the Company’s policies that are attached hereto as Exhibit A.   
+  
+13. Interpretation. Any dispute regarding the interpretation of this Agreement shall be submitted by the Grantee or the Company to the Committee for review. The resolution of such a dispute by the Committee shall be binding on the Company and the Grantee.   
+  
+13. Tax Withholding. Upon settlement of the Award in accordance with Section 3(a) hereof, the Grantee shall recognize taxable income in respect of the Award and the Company or a Subsidiary, as applicable, shall report such income to the appropriate taxing authorities in respect of the Award as it determines to be necessary and appropriate. The Company shall have the right to deduct from any payment to be made pursuant to the Plan the amount of any taxes required by law to be withheld therefrom, or to require the Grantee to pay to the Company or a Subsidiary, as applicable in cash such amount required to be withheld prior to the issuance or delivery of any shares of Common Stock. At the discretion of the Committee, such taxes may be paid by (a) delivering previously owned shares of Common Stock or (b) having the Company retain shares which would otherwise be delivered upon exercise or payment of Awards or (c) any combination of a cash payment or the methods set forth in (a) and (b) above.   
+  
+14. Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision shall be severable and enforceable to the extent permitted by law.   
+  
+15.
+
+Data Privacy. In order to facilitate the administration of the Grantee’s participation in the Plan, it will be necessary for the Company to collect, hold, and process certain   
+  
+4 
+
+* * *
+
+personal information about the Grantee. As a condition of the Award, the Grantee consents to the Company collecting, holding and processing personal data and transferring such data to third parties (collectively, the “Data Recipients”) insofar as is reasonably necessary to implement, administer and manage the Grantee’s participation in the Plan.   
+  
+(a) The Data Recipients will treat the Grantee’s personal data as private and confidential and will not disclose such data for purposes other than the management and administration of the Grantee’s participation in the Plan and will take reasonable measures to keep the Grantee’s personal data private, confidential, accurate and current.   
+  
+(b) Where the transfer is to a destination outside the European Economic Area, the Company shall take reasonable steps to ensure that the Grantee’s personal data continues to be adequately protected and securely held. Nonetheless, by signing below, the Grantee acknowledges that personal information about the Grantee may be transferred to a country that does not offer the same level of data protection as the Republic of Ireland.   
+  
+(c) The Grantee may, at any time, view his/her personal data, require any necessary corrections to it or withdraw the consents herein in writing by contacting the Company.   
+  
+16. Entire Agreement. This Agreement and the Plan contain the entire agreement between the parties hereto with respect to the subject matter contained herein and supersede all prior communications, representations and negotiations in respect thereto. No change, modification or waiver of any provision of this Agreement shall be valid unless in writing and signed by the parties hereto.   
+  
+17. Counterparts. This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.   
+  
+[SIGNATURE PAGE FOLLOWS] 
+
+5 
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have signed this Agreement as of the date first above written.   
+  
+MAX CAPITAL GROUP LTD.  
+By:  
+Name:  
+Title:  
+Date:  
+GRANTEE  
+By:  
+Name:  
+Date:  
+  
+6 
+
+* * *
+
+EXHIBIT A 
+
+Acknowledgements. The Grantee acknowledges that (i) as a result of his/her employment by the Company or its affiliate, the Grantee has obtained and will obtain Confidential Information (as defined below) including substantial trade secrets; (ii) the Confidential Information has been developed and created by the Company and/or any of its affiliates (the “Group”) at substantial expense and the Confidential Information constitutes valuable proprietary assets; (iii) the Group will suffer substantial damage which will be difficult to compute if, during his/her employment or thereafter, he/she should solicit or interfere with the Group’s employees, clients or customers (collectively, “customers”) or should divulge Confidential Information relating to the business of the Group; (iv) the provisions of this Exhibit A are reasonable and necessary for the protection of the business of the Group; and (v) the Company would not have hired or continued to employ the Grantee, nor would the Company have granted the restricted stock award as set forth in the related restricted stock unit award agreement (the “RSU Agreement”) unless the Grantee agreed to be bound by the covenants below. 
+
+Confidentiality. In consideration of the Grantee’s continued employment with the Group and the benefits provided for in the RSU Agreement, the Grantee agrees not to, at any time, either during his/her employment or thereafter, divulge, use, publish or in any other manner reveal, directly or indirectly, to any person, firm, corporation or any other form of business organization or arrangement, and to keep in the strictest confidence any Confidential Information, except (i) as may be necessary to the performance of Grantee’s duties to the Group, (ii) with the Group’s express written consent, (iii) to the extent that any such information is in or becomes in the public domain other than as a result of Grantee’s breach of any of his/her obligations under this Exhibit A, or (iv) where required to be disclosed by court order, subpoena or other government process and in such event, Grantee shall cooperate with the Group in attempting to keep such information confidential to the maximum extent possible. Upon the request of the Group, Grantee agrees to promptly deliver to the Group the originals and all copies, in whatever medium, of all such Confidential Information. 
+
+“Confidential Information” means any and all confidential and/or proprietary trade secrets, knowledge, data, or information of the Group including, without limitation, any: (A) drawings, inventions, methodologies, mask works, ideas, processes, formulas, source and object codes, data, programs, software source documents, works of authorship, know-how, improvements, discoveries, developments, designs and techniques, and all other work product of the Group, whether or not patentable or registrable under trademark, copyright, patent or similar laws; (B) information regarding plans for research, development, new service offerings and/or products, marketing, advertising and selling, distribution, business plans and strategies, business forecasts, budgets and unpublished financial statements, licenses, prices and costs, suppliers, customers, customer history, customer preferences, or distribution arrangements; (C) any information regarding the skills or compensation of employees, suppliers, agents, and/or independent contractors of the Group; (D) concepts and ideas relating to the development and distribution of content in any medium or to the current, future and proposed products or services of the Group; (E) information about the Group’s investment program, trading methodology, or portfolio holdings; or (F) any other information, data or the like that is labeled confidential or described as confidential. 
+
+7 
+
+* * *
+
+Non-Disparagement. In consideration of the Grantee’s continued employment with the Group and the benefits provided for in the RSU Agreement, the Grantee acknowledges and agrees that he/she will not defame or publicly criticize the services, business, integrity, veracity or personal or professional reputation of the Group, including its officers, directors, partners, executives or agents, in either a professional or personal manner at any time during or following his/her employment. 
+
+Post-Employment Property. In consideration of the Grantee’s continued employment with the Group and the benefits provided for in the RSU Agreement, the Grantee agrees that any work of authorship, invention, design, discovery, development, technique, improvement, source code, hardware, device, data, apparatus, practice, process, method or other work product whatever (whether patentable or subject to copyright, or not, and hereinafter collectively called “discovery”) related to the business of the Group that the Grantee, either solely or in collaboration with others, has made or may make, discover, invent, develop, perfect, or reduce to practice during his or her employment, whether or not during regular business hours and created, conceived or prepared on the Group’s premises or otherwise shall be the sole and complete property of the Group. More particularly, and without limiting the foregoing, the Grantee agrees that all of the foregoing and any (i) inventions (whether patentable or not, and without regard to whether any patent therefor is ever sought), (ii) marks, names, or logos (whether or not registrable as trade or service marks, and without regard to whether registration therefor is ever sought), (iii) works of authorship (without regard to whether any claim of copyright therein is ever registered), and (iv) trade secrets, ideas, and concepts ((i) — (iv) collectively, “Intellectual Property Products”) created, conceived, or prepared on the Group’s premises or otherwise, whether or not during normal business hours, shall perpetually and throughout the world be the exclusive property of the Group, as shall all tangible media (including, but not limited to, papers, computer media of all types, and models) in which such Intellectual Property Products shall be recorded or otherwise fixed. The Grantee further agrees promptly to disclose in writing and deliver to the Group all Intellectual Property Products created during his or her engagement by the Group, whether or not during normal business hours. The Grantee agrees that all works of authorship created by the Grantee during his/her engagement by the Group shall be works made for hire of which the Group is the author and owner of copyright. To the extent that any competent decision-making authority should ever determine that any work of authorship created by the Grantee during his/her engagement by the Group is not a work made for hire, by accepting the Award, the Grantee assigns all right, title and interest in the copyright therein, in perpetuity and throughout the world, to the Group. To the extent that this Exhibit A does not otherwise serve to grant or otherwise vest in the Group all rights in any Intellectual Property Product created by the Grantee during his/her engagement by the Group, by accepting the Award, the Grantee assigns all right, title and interest therein, in perpetuity and throughout the world, to the Group. The Grantee agrees to execute, immediately upon the Group’s reasonable request and without charge, any further assignments, applications, conveyances or other instruments, at any time, whether or not the Grantee is engaged by the Group at the time such request is made, in order to permit the Group and/or its respective assigns to protect, perfect, register, record, maintain, or enhance their rights in any Intellectual Property Product; provided, that, the Group shall bear the cost of any such assignments, applications or 
+
+8 
+
+* * *
+
+consequences. Upon termination of the Grantee’s employment by the Group for any reason whatsoever, and at any earlier time the Group so requests, the Grantee will immediately deliver to the custody of the person designated by the Group all originals and copies of any documents and other property of the Group in the Grantee’s possession, under the Grantee’s control or to which he/she may have access. 
+
+Non-Solicitation of Employees. In consideration of the Grantee’s continued employment with the Group and the benefits provided for in the RSU Agreement, the Grantee covenants and agrees that during his/her employment and for a period of one (1) year thereafter, he/she shall not, without the prior written permission of the Group, directly or indirectly solicit, employ, retain, or have or cause any other person or entity to solicit, employ, or retain, any person who (i) is employed or is providing services to the Group at the time of the Grantee’s termination of employment or (ii) is or was providing services to the Group within the twelve (12) month period before or after the Grantee’s termination of employment. During the Grantee’s employment and for a period of one (1) year thereafter, the Grantee also shall not request or cause any employee of the Group to breach or threaten to breach any terms of said employee’s agreements with the Group or to terminate such employee’s employment with the Group. 
+
+Non-Solicitation of Clients and Customers. In consideration of the Grantee’s continued employment with the Group and the benefits provided for in the RSU Agreement, the Grantee covenants and agrees that during his/her employment and for a period of one (1) year thereafter, the Grantee will not, for himself/herself, or in conjunction with any other person, firm, partnership, corporation or other form of business organization or arrangement (whether as a shareholder, partner, member, lender, principal, agent, director, officer, manager, trustee, representative, employee or consultant, except the Grantee may be a passive investor in a business so long as the Grantee’s interest therein is less than two percent (2%)), directly or indirectly: (i) solicit work from any persons or entities who the Grantee knows or should know (xx) are current clients or customers of the Group, (yy) were customers or clients of the Group during the twelve (12) months preceding the Grantee’s termination, or (zz) were actively being pursued by the Group during the last six (6) months of the Grantee’s employment; (ii) request or cause any clients or customers to cancel or terminate any business relationship with the Group involving services or activities which were directly or indirectly the Grantee’s responsibility during the Grantee’s employment; or (iii) pursue any project that the Grantee knows or should know the Group is actively pursuing (or was actively pursuing within six (6) months of the Grantee’s termination). 
+
+Enforcement. If the Grantee commits a breach, or threatens to commit a breach, of any of the provisions of this Exhibit A, the Company shall have the right and remedy to have the provisions specifically enforced by any court having jurisdiction, without posting a bond, it being acknowledged and agreed by the Grantee that the services being rendered hereunder to the Goup are of a special, unique and extraordinary character and that any such breach or threatened breach will cause irreparable injury to the Group and that money damages will not provide an adequate remedy to the Group. Such right and remedy shall be in addition to, and not in lieu of, any other rights and remedies available to the Company at law or in equity. Accordingly, the Grantee consents to the issuance of an injunction, whether preliminary or permanent, consistent with the terms of this Exhibit A. 
+
+9 

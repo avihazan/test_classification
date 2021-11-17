@@ -1,0 +1,164 @@
+EXHIBIT 10.3 
+
+MKS INSTRUMENTS, INC. 
+
+
+
+Granted Under the 2014 Stock Incentive Plan 
+
+AGREEMENT made «Grant Date» (the “Grant Date”), between MKS Instruments, Inc., a Massachusetts corporation (the “Company”), and «Participant Name» (the “Participant”). 
+
+For valuable consideration, receipt of which is acknowledged, the parties hereto agree as follows: 
+
+1\. General. The Company hereby grants to the Participant restricted stock units (“RSUs”) with respect to the number of shares set forth in Exhibit A hereto (the “Shares”) of common stock, no par value, of the Company (“Common Stock”), subject to the terms and conditions set forth in this Agreement and in the Company’s 2014 Stock Incentive Plan (the “Plan”). The RSUs represent a promise by the Company to deliver Shares upon vesting. 
+
+(a) Definitions. 
+
+(i) “Code” means the U.S. Internal Revenue Code of 1986, as amended. 
+
+(ii) “Determination Date” (if applicable) is defined in Exhibit A hereto. 
+
+(iii) “Disability” means disability as defined in Section 216(i)(1) of the U.S. Social Security Act. 
+
+(iv) “Employ” or “employment” with the Company includes employment with a parent or subsidiary of the Company as defined in Code Section 424(e) or (f), during the time in which such entity is a parent or subsidiary of the Company. 
+
+(v) “Forfeiture” means any forfeiture of RSUs pursuant to Section 2. 
+
+(vi) “Retirement” means a voluntary termination of employment by the Participant after he or she is at least age sixty (60) and has at least ten (10) Years of Service with the Company. A Participant’s termination shall not be deemed to be on account of Retirement unless he or she provides the Company with notice of the Retirement at least sixty (60) days in advance of his or her proposed termination date and assists in the orderly transition of duties as requested by the Company. The Company may waive such advance notice requirement in its sole discretion. 
+
+(vii) “Vesting Date” is defined on Exhibit A hereto. 
+
+(viii) “Years of Service” means the total number of years of employment since Participant’s original date of employment with the Company; provided, however, that if the Participant left or was terminated from employment with the Company and was then rehired, any previous employment period shall be included in the Years of Service only if (A) the Participant’s absence from employment with the Company did not exceed five (5) years and (B) the total number of days employed by the Company exceeds the total number of days that the Participant was absent from employment. 
+
+* * *
+
+(b) Vesting Period. Subject to the terms and conditions of this Agreement (including the Forfeiture provisions described in Section 2 below), the RSUs shall vest according to the terms set forth in Exhibit A. As soon as practicable after each applicable Vesting Date, but no later than thirty (30) days following the Vesting Date, the Company shall instruct its transfer agent to deposit the Shares subject to the RSUs into the Participant’s existing equity account at Fidelity Stock Plan Services, LLC, or such other broker with which the Company has established a relationship (“Broker”), subject to payment in accordance with Section 6 of all applicable [withholding]1 taxes. Notwithstanding the above, the Shares may be distributed following the date contemplated in this Section 1(b) solely to the extent permitted or required under Code Section 409A and regulations thereunder (“Section 409A”). 
+
+2\. Forfeiture.
+
+(a) Cessation of Employment. In the event that the Participant ceases to be employed by the Company for any reason or no reason (except for death, Disability or Retirement), with or without cause, prior to a Vesting Date, all of the Participant’s unvested RSUs shall automatically be forfeited as of such cessation. For purposes hereof, employment shall not be considered as having ceased during any bona fide leave of absence if such leave of absence has been approved in writing by the Company. However, in the event of any leave of absence, the Company may, in its sole discretion, suspend vesting of the RSUs, subject to applicable law and the provisions of Section 409A. The vesting of the RSUs shall not be affected by any change in the type of employment the Participant has with the Company so long as the Participant continuously maintains employment. In the event that the Participant ceases to be employed by the Company by reason of death, Disability or Retirement prior to a Vesting Date, then all of the Participant’s unforfeited RSUs shall become immediately and fully vested (subject to any performance criteria in Exhibit A) and shall no longer be subject to the Forfeiture provisions under this Agreement and the Shares subject to such RSUs shall be delivered to the Participant as soon as practicable (but no later than thirty (30) days) following the Participant’s termination date, provided, however, that, if such death, Disability or Retirement occurs prior to the Determination Date, if any, then the number of RSUs to be so vested shall be determined, and become vested, on the Determination Date, and the Shares subject to such vested portion of the RSUs shall be delivered to the Participant as soon as practicable (but no later than thirty (30) days) following such Determination Date. 
+
+(b) [Change in Control2. Notwithstanding the foregoing, if, prior to any Vesting Date, and within two years after the effectiveness of a Change in Control (as defined below), the Participant is (i) terminated by the Company without Cause (as defined below) or (ii) terminates his employment for Good Reason (as defined below), then, all (or, in the case of a performance-based RSU that is still subject to performance criteria per Exhibit A, the Target Number of RSUs (as defined on Exhibit A, if applicable) of the Participant’s unforfeited RSUs shall become immediately and fully vested and shall no longer be subject to the Forfeiture provisions under this Agreement. For purposes of this section “Change in Control” means the first to occur of any of the following events: (I) any “person” (as that term is used in Section 13 and 14(d)(2) of the Securities Exchange Act of 1934 (“Exchange Act”)) becomes the beneficial owner (as that term is used in Section 13(d) of the Exchange Act), directly or indirectly, of fifty percent (50%) or more of the Company’s capital 
+
+1 Delete for employees outside of the United States.   
+2
+
+Only certain of the Company’s officers and other employees designated by the Compensation Committee of the Board of Directors will be entitled to acceleration of vesting upon a Change in Control.   
+  
+2 
+
+* * *
+
+stock entitled to vote in the election of directors; (II) the shareholders of the Company approve any consolidation or merger of the Company, other than a consolidation or merger of the Company in which the holders of the common stock of the Company immediately prior to the consolidation or merger hold more than fifty percent (50%) of the common stock of the surviving corporation immediately after the consolidation or merger; or (III) the shareholders of the Company approve the sale or transfer of all or substantially all of the assets of the Company to parties that are not within a “controlled group of corporations” (as defined in Code Section 1563) in which the Company is a member. For purposes of this Agreement, “Cause” shall mean conviction for the commission of a felony, willful failure by the Participant to perform his responsibilities to the Company, or willful misconduct by the Participant. For purposes of this section, “Good Reason” shall mean termination of the Participant’s employment by the Participant within 90 days following (I) a material diminution in the Participant’s positions, duties and responsibilities from those described in the Participant’s Employment Agreement, (II) a material reduction in the Participant’s base salary (other than a reduction which is part of a general salary reduction program affecting senior executives of the Company), (III) a material reduction in the aggregate value of the pension and welfare benefits provided to the Participant from those in effect prior to the Change in Control (other than a reduction which is proportionate to the reductions applicable to other senior executives pursuant to a cost-saving plan that includes all senior executives), (IV) a material breach of any provision of the Participant’s Employment Agreement by the Company or (V) the Company’s requiring the Participant to be based at a location that creates for the Participant a one way commute in excess of 60 miles from his primary residence, except for required travel on the Company’s business to an extent substantially consistent with the business travel obligations of the Participant under the Participant’s Employment Agreement. Notwithstanding the foregoing, a termination shall not be treated as a termination for Good Reason (I) if the Participant shall have consented in writing to the occurrence of the event giving rise to the claim of termination for Good Reason or (II) unless the Participant shall have delivered a written notice to the Company within thirty (30) days of his having actual knowledge of the occurrence of one of such events stating that he intends to terminate his employment for Good Reason and specifying the factual basis for such termination, and such event, if capable of being cured, shall not have been cured within thirty (30) days of the receipt of such notice.]2
+
+(c) Clawback. In the event that (i) the Participant is, at any time during the period beginning on the Grant Date and ending on the Vesting Date (or, if later, on the Determination Date) an “executive officer” of the Company (as defined in Rule 3b-7 under the Exchange Act) and (ii) the RSUs are (or were at any time) subject to performance criteria per Exhibit A, then the RSUs (and any Shares issued under the RSUs) shall be subject to potential cancellation, recoupment, rescission, payback or other action in accordance with the terms of any applicable Company clawback policy (the “Clawback Policy”) or any applicable law, as may be in effect from time to time. The Participant hereby acknowledges and consents to the Company’s application, implementation and enforcement of (i) any applicable Clawback Policy as may be in effect from time to time and (ii) any provision of applicable law relating to cancellation, recoupment, rescission or payment of compensation, and agrees that the Company may take such actions as may be necessary to effectuate the Clawback Policy without further consideration or action. 
+
+3\. Restrictions on Transfer. The Participant shall not sell, assign, transfer, pledge, hypothecate or otherwise dispose of, by operation of law or otherwise (collectively “transfer”) any RSUs, or any interest therein; provided that the Participant may transfer the RSUs to the extent necessary to fulfill a domestic relations order (as defined in Section 414(p)(1)(B) of the Code). 
+
+3 
+
+* * *
+
+4\. Provisions of the Plan. This Agreement is subject to the provisions of the Plan, a copy of which is furnished to the Participant with this Agreement. 
+
+5\. Section 409A. To the extent the Participant is or becomes subject to U.S. Federal income taxation, the RSUs and payments made pursuant to this Agreement are intended to comply with or qualify for an exemption from the requirements of Section 409A and this Agreement shall be construed consistently therewith. Neither the Company nor the Participant shall have any right to accelerate or defer payment under this Agreement except to the extent specifically permitted or required by Section 409A. Terms defined in the Agreement shall have the meanings given such terms under Section 409A if and to the extent required to comply with Section 409A, including that references to “termination of employment” shall be considered to be references to a “separation from service” as defined under Section 409A. Notwithstanding any other provision of this Agreement, the Company reserves the right, to the extent it deems necessary or advisable, in its sole discretion, to unilaterally amend the Plan and/or this Agreement to ensure that all awards hereunder qualify for exemption from or otherwise comply with Section 409A; provided, however, that the Company makes no undertaking to preclude Section 409A from applying to this Award or to guarantee compliance therewith. Any payments described in this Section 5 that are due within the “short term deferral period” as defined in Section 409A shall not be treated as deferred compensation unless applicable law requires otherwise. If and to the extent any portion of any payment, compensation or other benefit provided to the Participant in connection with his or her employment termination is determined to constitute “nonqualified deferred compensation” within the meaning of Section 409A and the Participant is a specified employee as defined in Section 409A(2)(B)(i) of the Code, as determined by the Company in accordance with its procedures, by which determination the Participant hereby agrees that he or she is bound, such portion of the payment, compensation or other benefit shall not be paid before the day that is six months plus one day after the date of separation from service (as determined under Section 409A (the “New Payment Date”)), except as Section 409A may then permit. The aggregate of any payments that otherwise would have been paid to the Participant during the period between the date of separation from service and the New Payment Date shall be paid to the Participant in a lump sum on the New Payment Date, and any remaining payments will be paid on their original schedule. Notwithstanding the foregoing, the Company, its affiliates, directors, officers and agents shall have no liability to a Participant, or any other party, if the RSU that is intended to be exempt from, or compliant with, Section 409A is not so exempt or compliant, or for any action taken by the Company’s Board of Directors, a committee thereof or its delegates. 
+
+6\. Withholding Taxes3. 
+
+3 This section is applicable to employees who are located in the United States. For employees located outside of the United States, Section 6 shall read as follows:   
+  
+4 
+
+* * *
+
+(a) The Company’s obligation to deliver Shares to the Participant upon the vesting of RSUs shall be subject to the satisfaction of all income tax (including federal, state and local taxes), social insurance, payroll tax, payment on account or other tax related withholding requirements (“Withholding Taxes”). In order to satisfy all Withholding Taxes of the Participant’s RSUs, the Participant agrees to the following: 
+
+(b) The Participant hereby elects to satisfy all Withholding Taxes obligation that may arise through the retention by the Company of Shares. Accordingly, the Participant hereby instructs the Company, with no further action by the Participant, to deduct and retain from the number of Shares to which the Participant is entitled from the RSUs then vested or scheduled to vest such number of Shares as is equal to the value of the Withholding Taxes. The fair market value of such surrendered Shares will be based on the closing price of the Company’s Common Stock on the respective vesting date, provided, however, that if such date is not a trading day, the Company shall use the closing price on the first trading day following such date. 
+
+(c) Participant has reviewed with the Participant’s own tax advisors the federal, state, local and foreign tax consequences of this equity award and the transactions contemplated by this Agreement. The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the Participant (and not the Company) shall be responsible for the Participant’s own tax liability that may arise as a result of this equity award or the transactions contemplated by this Agreement. 
+
+(d) The Participant represents to the Company that, as of the date hereof, he/she is not aware of any material nonpublic information about the Company or the Common Stock. The Participant and the Company have structured this Agreement to constitute a “binding contract” relating to the retention by the Company of Common Stock pursuant to this Section 6, consistent with the affirmative defense to liability under Section 10(b) of the Securities Exchange Act of 1934 under Rule 10b5-1(c) promulgated under such Act.
+
+7\. Nature of the Grant. In signing this Agreement, the Participant acknowledges that: 
+
+(a) The Plan is established voluntarily by the Company, it is discretionary in nature and may be modified, amended, suspended or terminated by the Company at any time, except to the extent otherwise provided in the Plan and this Agreement. 
+
+6\. Taxes. 
+
+(a) The Company’s obligation to deliver Shares to the Participant upon the vesting of the RSUs shall be subject to the satisfaction of all income tax, social insurance, payroll tax or other tax related requirements. 
+
+(b) The Participant has reviewed with the Participant’s own tax advisors the tax consequences of this equity award and the transactions contemplated by this Agreement. The Participant is relying solely on such advisors and not on any statements or representations of the Company or any of its agents. The Participant understands that the Participant (and not the Company) shall be responsible for the Participant’s own tax liability that may arise as a result of this equity award or the transactions contemplated by this Agreement. 
+
+5 
+
+* * *
+
+(b) The grant of RSUs is voluntary and occasional and does not create any contractual or other right to receive future awards of RSUs, or benefits in lieu of RSUs even if RSUs have been awarded repeatedly in the past. 
+
+(c) All decisions with respect to future grants of RSUs, if any, will be at the sole discretion of the Company. 
+
+(d) The Participant’s participation in the Plan is voluntary. 
+
+(e) RSUs are not part of normal or expected compensation or salary for any purpose, including, but not limited to, calculation of any wage payment, severance, redundancy, or other end of service payments, bonuses, long-service awards, pension or retirement benefits or similar payments and in no event should be considered as compensation for, or relating in any way to, past services for the Company or the Participant’s employer or arising under any employment agreement. 
+
+(f) No voting or dividend or distribution rights apply with respect to the RSUs. 
+
+(g) The future value of the underlying Shares is unknown and cannot be predicted with certainty. 
+
+(h) If the Participant receives Shares upon vesting, the value of such Shares acquired on vesting of RSUs may increase or decrease in value. 
+
+(i) In consideration of the grant of RSUs, no claim or entitlement to compensation or damages arises from termination of the RSUs or diminution in value of the RSUs or Shares received upon vesting of RSUs resulting from termination of the Participant’s employment by the Company or the Participant’s employer (for any reason whatsoever and whether or not in breach of local labor laws) and the Participant irrevocably releases the Company and his or her employer from any such claim that may arise; if, notwithstanding the foregoing, any such claim is found by a court of competent jurisdiction to have arisen, then, by signing this Agreement, the Participant shall be deemed irrevocably to have waived his or her entitlement to pursue such claim. 
+
+(j) If the Participant ceases to be an employee (whether or not in breach of local labor laws), the Participant’s right to receive RSUs and vest under the Plan, if any, will terminate effective as of the date that the Participant is no longer actively employed by the Company and will not be extended by any notice period mandated under local law (e.g., active employment would not include a period of “garden leave” or similar period pursuant to local law); the Committee shall have the exclusive discretion to determine when the Participant is no longer actively employed for purposes of the Plan. 
+
+8\. Data Privacy Notice and Consent. The Participant hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of his or her personal data as described in this paragraph, by and among, as applicable, the Participant’s employer and the Company and its subsidiaries and affiliates for, among other purposes, implementing, administering and managing the Participant’s participation in the Plan. The 
+
+6 
+
+* * *
+
+Participant understands that the Company and its subsidiaries hold certain personal information about the Participant, including the Participant’s name, home address and telephone number, date of birth, social security number or identification number, salary, nationality, job title, any Shares or directorships held in the Company, details of all options or any other entitlement to Shares awarded, canceled, exercised, vested, unvested or outstanding in the Participant’s favor, for the purpose of managing and administering the Plan (“Data”). The Participant further understands that the Company and/or its subsidiaries will transfer Data amongst themselves as necessary for employment purposes, including implementation, administration and management of the Participant’s participation in the Plan, and that the Company and/or any of its subsidiaries may each further transfer Data to Broker or such other stock plan service provider or other third parties assisting the Company with processing of Data. The Participant understands that these recipients may be located in the United States, and that the recipient’s country may have different data privacy laws and protections than in the Participant’s country. The Participant authorizes them to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes described in this section, including any requisite transfer to Broker or such other stock plan service provider or other third party as may be required for the administration of the Plan and/or the subsequent holding of Shares of stock on the Participant’s behalf. The Participant understands that he or she may, at any time, request access to the Data, request any necessary amendments to it or refuse or withdraw the consents herein, in any case without cost, by contacting in writing his or her local human resources representative. The Participant understands, however, that withdrawal of consent may affect the Participant’s ability to participate in or realize benefits from the Plan. For more information on the consequences of refusal to consent or withdrawal of consent, the Participant understands that he or she may contact his or her local human resources representative. 
+
+9\. Miscellaneous. 
+
+(a) No Rights to Employment. The Participant acknowledges and agrees that the vesting of the RSUs pursuant to Section 1 and Exhibit A hereof is earned only in accordance with the terms of such sections. The Participant further acknowledges and agrees that the transactions contemplated hereunder and the vesting schedule set forth herein do not constitute an express or implied promise of continued engagement as an employee for the vesting period, for any other period, or at all. 
+
+(b) Severability. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law. 
+
+(c) Waiver. Any provision for the benefit of the Company contained in this Agreement may be waived, either generally or in any particular instance, by the Board of Directors of the Company or its delegate. 
+
+(d) Binding Effect. This Agreement shall be binding upon and inure to the benefit of the Company and the Participant and their respective heirs, executors, administrators, legal representatives, successors and assigns, subject to the restrictions on transfer set forth in Section 3 of this Agreement. 
+
+7 
+
+* * *
+
+(e) Notice. All notices required or permitted hereunder shall be in writing and deemed effectively given upon personal delivery or five days after deposit in the United States Post Office, by registered or certified mail, postage prepaid, addressed to the other party hereto at the address shown beneath his or its respective signature to this Agreement, or at such other address or addresses as either party shall designate to the other in accordance with this Section 9(e). 
+
+(f) Pronouns. Whenever the context may require, any pronouns used in this Agreement shall include the corresponding masculine, feminine or neuter forms, and the singular form of nouns and pronouns shall include the plural, and vice versa. 
+
+(g) Language. If the Participant has received this Agreement or any other document related to the Plan translated into a language other than English and if the translated version is different than the English version, the English version will control. 
+
+(h) Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to participation in the Plan, RSUs granted under the Plan or future RSUs that may be granted under the Plan by electronic means or to request the Participant’s consent to participate in the Plan by electronic means. The Participant hereby consents to receive such documents by electronic delivery and, if requested, to agree to participate in the Plan through an on-line or electronic system established and maintained by the Company or another third party designated by the Company. 
+
+(i) Entire Agreement. This Agreement and the Plan constitute the entire agreement between the parties, and supersedes all prior agreements and understandings, relating to the subject matter of this Agreement. 
+
+(j) Amendment. Except as provided in Section 5, this Agreement may be amended or modified only by a written instrument executed by both the Company and the Participant. 
+
+(k) Governing Law. This Agreement shall be construed, interpreted and enforced in accordance with the internal laws of the Commonwealth of Massachusetts without regard to any applicable conflicts of laws. 
+
+(l) The Participant’s Acknowledgments. The Participant acknowledges that he or she: (i) has read this Agreement; (ii) has been represented in the preparation, negotiation, and execution of this Agreement by legal counsel of the Participant’s own choice or has voluntarily declined to seek such counsel; (iii) understands the terms and consequences of this Agreement; and (iv) is fully aware of the legal and binding effect of this Agreement. 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.   
+  
+MKS INSTRUMENTS, INC.  
+By:  
+  
+Name:  
+Title:  
+2 Tech Drive  
+Andover, MA 01810  
+«Electronic Signature»  
+Participant’s Signature  
+  
+8 

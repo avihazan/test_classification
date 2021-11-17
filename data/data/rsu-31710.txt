@@ -1,0 +1,214 @@
+Exhibit 10(tt)-4
+
+PPL CORPORATION
+
+2012 STOCK INCENTIVE PLAN
+
+  
+
+
+
+
+  
+
+
+THIS AGREEMENT (the “Agreement”), is made effective as of the date set forth on the signature page hereto, (hereinafter called the “Date of Grant”), between PPL Corporation, a Pennsylvania corporation (hereinafter called the “Company”), and the individual set forth on the signature page hereto (hereinafter called the “Participant”), pursuant to the PPL Corporation 2012 Stock Incentive Plan (the “Plan”), which Plan is incorporated herein by reference and made a part of this Agreement.
+
+1. Grant of the Option.
+
+The Company hereby grants to the Participant the right and option (the “Option”) to purchase, on the terms and conditions hereinafter set forth, all or any part of an aggregate of the number of Shares set forth on the signature page hereto, subject to adjustment as set forth in the Plan. The purchase price of the Shares subject to the Option shall be the Option Price set forth on the signature page hereto (the “Option Price”). The Option is intended to be a non-qualified stock option, and is not intended to be treated as an option that complies with Section 422 of the Internal Revenue Code of 1986, as amended.
+
+2. Definitions. Whenever the following terms are used in this Agreement, they shall have the meanings set forth below. Capitalized terms not otherwise defined herein shall have the same meanings as in the Plan.
+
+(a) “Cause” shall mean “Cause” as defined in any employment, severance, or similar agreement then in effect between the Participant and any of the Company or its Affiliates, or, if no such agreement containing a definition of “Cause” is then in effect or if such term is not defined therein, “Cause” shall mean (i) Participant’s engagement in misconduct which is materially injurious to the Company or its Affiliates, (ii) Participant’s insubordination after clear and lawful direction , (iii) Participant’s commission of a felony in the performance of duties to the Company , (iv) Participant’s commission of an act or acts constituting any fraud against, or embezzlement from the Company or any of its Affiliates, (v) Participant’s material breach of any confidentiality or non-competition covenant entered into between the Participant and the Company, or (vi) Participant’s employment with a competitor while employed by the Company. The determination of the existence of Cause shall be made by the Committee in good faith, which determination shall be conclusive for purposes of this Agreement.
+
+(b) “Good Reason” shall mean “Good Reason” or such similar concept as defined in any employment, severance, or similar agreement then in effect between the Participant and any of the Company or its Affiliates, or, if no such agreement containing a definition of “Good Reason” is then in effect or if such term is not defined therein, “Good Reason” shall mean without the Participant’s consent, (i) a change caused by the Company in the Participant’s duties and responsibilities which is materially inconsistent with the Participant’s position at the applicable entity that is a member of the Company Group, (ii) a material reduction in the Participant’s annual base salary, annual incentive compensation opportunity or other employee benefits (excluding any such reduction that is part of a plan to reduce annual base salaries, annual incentive compensation opportunities or other employee benefits of comparably situated employees of any entity that is a member of the Company Group generally), or (iii) a relocation of the Participant’s principal place of employment to a location that is more than 50 miles from the Participant’s current principal place of employment; provided that, notwithstanding anything to the contrary in the foregoing, the Participant shall only have “Good Reason” to terminate employment following the applicable entity’s failure to remedy the act which is alleged to constitute “Good Reason” within thirty (30) days following such entity’s receipt of written notice from the Participant specifying such act, so long as such notice is provided within sixty (60) days after such event has first occurred.
+
+(c) “Retirement” shall mean the Participant’s termination of Employment at a time when the Participant is eligible to commence monthly retirement benefits under the Company’s Retirement Plan, or, if the Participant is not a participant in the Company’s Retirement Plan, under any other defined benefit pension plan (whether or not tax qualified) maintained by the Company Group, or, if the Participant is not covered by any defined benefit pension plan, then Retirement shall mean the Participant’s termination of Employment at or after age 55.
+
+3\. Vesting.
+
+(a) Subject to the Participant’s continued Employment through the applicable vesting date, the Option shall vest and become exercisable at the time(s) set forth on the signature page hereto.
+
+(b) Notwithstanding the foregoing, in the event of a termination of the Participant’s Employment by the Company and its Affiliates without Cause or by the Participant with Good Reason during the 24 month period following a Change in Control (a “CIC Termination”), the Option shall, to the extent not then vested or previously forfeited or cancelled, become fully vested and exercisable effective as of such termination date.
+
+(c) Subject to Section 3(b) above, if the Participant’s Employment with the Company is terminated for any reason other than death, Disability, or Retirement, the vested portion of the Option shall remain exercisable for the period set forth in Section 4(a), and the unvested portion of the Option shall immediately terminate. In the event of Participant’s Retirement, all unvested Options then held by the Participant shall become vested and exercisable on the date of Retirement, except where a separation program or policy provides improved retirement benefits , in which case the express terms of such program or policy concerning exercise of Options shall control. In the event of the Participant’s termination of Employment due to death or Disability, all unvested Options then held by the Participant shall remain outstanding and shall become vested and exercisable at the same time as originally scheduled pursuant to this Agreement (as if the Participant remained in Employment through such dates)
+
+4\. Exercise of Option.
+
+(a) Period of Exercise. Subject to the provisions of the Plan and this Agreement, the Participant may exercise all or any part of the Option at any time prior to the earliest to occur of:
+
+(i) the Participant’s termination of Employment by the Company or any of its Affiliates for Cause;
+
+(ii) 60 days following the date of the Participant’s termination of Employment for any reason other than due to a CIC Termination or the Participant’s death, Disability or Retirement (or termination for Cause);
+
+(iii) three years and 60 days following the date of the Participant’s termination of Employment due to death, Disability or a CIC Termination;
+
+(iv) five years following the date of the Participant’s termination of employment due to Retirement; and
+
+(v) the tenth anniversary of the Date of Grant.
+
+(b) Method of Exercise.
+
+(i) Subject to Section 4(a), the Option may be exercised by delivering to the Company at its principal office written notice of intent to so exercise; provided that, the Option may be exercised with respect to whole Shares only. Such notice shall specify the number of Shares for which the Option is being exercised and shall be accompanied by payment in full of the Option Price. The payment of the Option Price may be made at the election of the Participant (A) in cash or its equivalent (e.g., by check), (B) to the extent permitted by the Committee, in Shares having a Fair Market Value equal to the aggregate Option Price for the Shares being purchased and satisfying such other requirements as may be imposed by the Committee; provided, that such Shares have been held by the Participant for no less than six months (or such other period as established from time to time by the Committee in order to avoid adverse accounting treatment applying generally accepted accounting principles), (C) partly in cash and, to the extent permitted by the Committee, partly in such Shares, (D) if there is a public market for the Shares at such time, through the delivery of irrevocable instructions to a broker to sell Shares obtained upon the exercise of the Option and to deliver promptly to the Company an amount out of the proceeds of such Sale equal to the aggregate option price for the Shares being purchased, or (E) to the extent permitted by the Committee, through a “net settlement” as described in Section 6(c) of the Plan.
+
+Participant shall not have any rights to dividends or other rights of a stockholder with respect to Shares subject to an Option until the Participant has given written notice of exercise of the Option, paid in full for such Shares and, if applicable, has satisfied any other conditions imposed by the Committee pursuant to the Plan. Participant shall also have no right to a dividend equivalent payment or unit of value with respect to any outstanding Options.
+
+(ii) Notwithstanding any other provision of the Plan or this Agreement to the contrary, the Option may not be exercised prior to the completion of any registration or qualification of the Option or the Shares under applicable state and federal securities or other laws, or under any ruling or regulation of any governmental body or national securities exchange that the Committee shall in its sole discretion determine to be necessary or advisable.
+
+(iii) Upon the Company’s determination that the Option has been validly exercised as to any of the Shares, the Company shall issue certificates in the Participant’s name for such Shares. However, the Company shall not be liable to the Participant for damages relating to any delays in issuing the certificates to him, any loss of the certificates, or any mistakes or errors in the issuance of the certificates or in the certificates themselves. Notwithstanding the foregoing, the Company may elect to recognize the Participant’s ownership through uncertificated book entry.
+
+(iv) In the event of the Participant’s death, the Option shall remain exercisable by the Participant’s executor or administrator, or the person or persons to whom the Participant’s rights under this Agreement shall pass by will or by the laws of descent and distribution as the case may be, to the extent set forth in Section 4(a) above. Any heir or legatee of the Participant shall take rights herein granted subject to the terms and conditions hereof.
+
+5\. No Right to Continued Employment.
+
+The granting of the Option evidenced hereby and this Agreement shall impose no obligation on the Company or any Affiliate to continue the Employment of the Participant and shall not lessen or affect the Company’s or its Affiliate’s right to terminate the Employment of such Participant.
+
+6\. Legend on Certificates.
+
+Unless the Company issues the Shares in uncertificated form, the certificates representing the Shares purchased by exercise of the Option shall be subject to the rules, regulations, and other requirements of the Securities and Exchange Commission, any stock exchange upon which such Shares are listed, and any applicable Federal or state laws, and the Committee may cause a legend or legends to be put on any such certificates to make appropriate reference to such restrictions.
+
+7\. Transferability.
+
+The Option may not be assigned, alienated, pledged, attached, sold or otherwise transferred or encumbered by the Participant otherwise than by will or by the laws of descent and distribution, and any such purported assignment, alienation, pledge, attachment, sale, transfer or encumbrance shall be void and unenforceable against the Company or any Affiliate; provided that the designation of a beneficiary shall not constitute an assignment, alienation, pledge, attachment, sale, transfer or encumbrance. No such permitted transfer of the Option to heirs or legatees of the Participant shall be effective to bind the Company unless the Committee shall have been furnished with written notice thereof and a copy of such evidence as the Committee may deem necessary to establish the validity of the transfer and the acceptance by the transferee or transferees of the terms and conditions hereof. During the Participant’s lifetime, the Option is exercisable only by the Participant.
+
+8\. Withholding.
+
+The Participant may be required to pay to the Company or any Affiliate and the Company shall have the right and is hereby authorized to withhold (including from payroll or any other amounts payable to the Participant), any applicable withholding taxes in respect of the Option, its exercise or any payment or transfer under or with respect to the Option and to take such other action as may be necessary in the opinion of the Committee to satisfy all obligations for the payment of such withholding taxes; provided, however, that no amounts shall be withheld in excess of the Company’s statutory minimum withholding liability. Without limiting the generality of the foregoing, to the extent permitted by the Committee, the Participant may satisfy, in whole or in part, the foregoing withholding liability by delivery of Shares held by the Participant (which are fully vested and not subject to any pledge or other security interest) or by having the Company withhold from the number of Shares otherwise deliverable to the Participant hereunder Shares with a Fair Market Value not in excess of the statutory minimum withholding liability. The Participant further agrees to make adequate provision for any sums required to satisfy all applicable federal, state, local and foreign tax withholding obligations of the Company which may arise in connection with the Option.
+
+9\. Securities Laws.
+
+Upon the acquisition of any Shares pursuant to the exercise of the Option, the Participant will make or enter into such written representations, warranties and agreements as the Committee may reasonably request in order to comply with applicable securities laws or with this Agreement.
+
+10\. Notices.
+
+Any notice necessary under this Agreement shall be addressed to the Company in care of its Secretary at the principal executive office of the Company and to the Participant at the address appearing in the personnel records of the Company for the Participant or to either party at such other address as either party hereto may hereafter designate in writing to the other. Any such notice shall be deemed effective upon receipt thereof by the addressee.
+
+11\. Choice of Law.
+
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Pennsylvania without regard to conflicts of laws.
+
+12\. Option Subject to Plan.
+
+By entering into this Agreement the Participant agrees and acknowledges that the Participant has received and read a copy of the Plan. The Option is subject to the Plan. The terms and provisions of the Plan, as they may be amended from time to time, are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail.
+
+13\. Signature in Counterparts.
+
+* * *
+
+This Agreement may be signed in counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+
+[Signatures on next page.]
+
+  
+
+
+  
+
+
+Sincerely,
+
+PPL Corporation
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+By: /s/ William H. Spence 
+
+William H. Spence
+
+President & CEO
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+* * *
+
+Exhibit A
+
+PPL CORPORATION 
+
+2012 STOCK INCENTIVE PLAN /
+
+INCENTIVE COMPENSATION PLAN FOR KEY EMPLOYEES
+
+  
+
+
+STOCK OPTION AGREEMENT
+
+Non-qualified Stock Option Grant
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Granted to:
+
+Participant Name  
+  
+Empl ID:
+
+Employee ID Number  
+  
+Grant Date:
+
+Date of Grant  
+  
+Date Options Expire:
+
+Date of Expiration  
+  
+Stock Options Awarded:
+
+Number of Options Awarded  
+  
+Option Price: $
+
+Option (Grant) Price  
+  
+  
+
+
+Stock options provide the holder the right to purchase PPL common stock as they become vested. The options vest over a period of three years – one third at the end of each anniversary of the grant date. The dates of vesting and number of options vested on those dates can be viewed in your Fidelity stock plan account at Fidelity NetBenefits.
+
+  
+
+
+  
+
+
+  
+

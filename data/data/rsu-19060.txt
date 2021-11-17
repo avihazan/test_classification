@@ -1,0 +1,125 @@
+##### 
+
+EXHIBIT 10.1(G)
+
+COMPUTER NETWORK TECHNOLOGY CORPORATION  
+1992 STOCK AWARD PLAN  
+
+(DIRECTOR)
+
+THIS AGREEMENT made as of the  day of  , between Computer Network Technology Corporation, a Minnesota corporation (the “Company”) and  the “Director”), 
+
+W I T N E S S E T H:
+
+WHEREAS, the Computer Network Technology Corporation 1992 Stock Award Plan (the “Plan”) permits the Company to make stock based awards to Directors; and 
+
+WHEREAS, the Board of Directors of CNT (the “Board”) has determined to make an award of Restricted Stock Units to the Director, such stock based award to be governed by the terms of the Plan and this Agreement; 
+
+NOW, THEREFORE, in consideration of the premises and the covenants and agreements contained herein, and for other good and valuable consideration, the parties agree as follows: 
+
+1. Definitions and Construction.  
+  
+1.1 Definitions. Unless otherwise defined in this Agreement or the Deferred Stock Award Election Form made available by the Company (“Election Form”), defined terms not explicitly defined in this Agreement but defined in the Plan shall have the same definitions as in the Plan. 
+
+1.2 Construction. Captions and titles contained herein are for convenience only and shall not affect the meaning or interpretation of any provision of this Agreement. Except when otherwise indicated by the context, the singular shall include the plural and the plural shall include the singular. Use of the term “or” is not intended to be exclusive, unless the context clearly requires otherwise. 
+
+2. Grant of Restricted Stock Units.  
+  
+2.1 Subject to the terms and conditions of the Plan and of this Agreement (and subject to execution of this Agreement by Director), the Company has granted to Director  Restricted Stock Units (“RSUs”) effective  (“Date of Grant”). Such RSUs are subject to the terms and restrictions provided for in this Agreement. 
+
+2.2 No RSUs may be sold, transferred, pledged, hypothecated or otherwise encumbered or disposed of until such RSUs have vested in Director in accordance with all terms and conditions of this Agreement and Common Shares issued for such RSUs. The RSUs shall remain restricted and 
+
+* * *
+
+##### 
+
+subject to forfeiture by Director to the Company unless and until such RSUs have vested in Director in accordance with all terms and conditions of this Agreement and settled in Common Shares. 
+
+3\. Normal Vesting. For purposes of this Agreement, the term “Employment” and similar terms shall include the providing of services to the Company, or an Affiliate thereof, in the capacity of Director. If the Director remains continuously employed by the Company or an Affiliate thereof, then the RSUs will vest in accordance with the following schedule:   
+  
+Date
+
+* * *
+
+Number of RSUs Becoming Vested
+
+* * *  
+  
+4. Accelerated Vesting. Notwithstanding paragraph 3, above:  
+  
+4.1 In the event of a Fundamental Change, if (i) the Fundamental Change involves a merger, consolidation or statutory share exchange, unless appropriate provision shall be made for the protection of the RSUs by the substitution of appropriate RSUs or restricted stock of the corporation surviving any such merger or consolidation or, if appropriate, the parent corporation of the Company or such surviving corporation, or (ii) the Fundamental Change involves the dissolution or liquidation of the Company, then the Board shall declare at least 20 days prior to the occurrence of the Fundamental Change, and provide written notice to the Director of the declaration, that all conditions, limitations and restrictions relating to the RSUs are cancelled and terminated effective as of the actual closing of the Fundamental Change and that the RSUs shall after such closing be and remain unrestricted and subject to settlement; 
+
+4.2 The RSUs shall vest immediately upon the occurrence of an Event; and 
+
+4.3 The RSUs shall vest immediately upon the death of the Director while employed by the Company. 
+
+5. Settlement of the RSUs.  
+  
+5.1 No Additional Payment Required. The Director shall not be required to make any additional payment of consideration upon settlement of an RSU. 
+
+5.2 Issuance of Shares of Stock. Subject to the provisions of paragraph 5.4 below, the Company shall issue to the Director a number of whole Common Shares equal to the number of vested RSUs then held by the Director rounded down to the nearest whole number, on a date (the “Settlement Date”) within thirty (30) days following the earliest of (a)  (the “Original Settlement Date”), unless the Director has elected a Deferred Settlement Date or Dates for such RSUs as defined in the Election Form; (b) the Deferred Settlement Date or Dates (as defined by the Director in the Election Form), (c) the date of a Fundamental Change unless appropriate provision has been made for protection of the RSUs under paragraph 4.1; (d) an Event; or (e) the Director’s death. Such Common Shares shall not be subject to any restriction on transfer other than any such restriction as may be required pursuant to paragraph 5.4 or any applicable law, rule 
+
+* * *
+
+##### 
+
+or regulation. On the Settlement Date, the Company shall pay to the Director cash in lieu of any fractional Common Share represented by a fractional RSU subject to this Award in an amount equal to the Fair Market Value on the earliest date specified in (a) through (e) above of such fractional Common Share. 
+
+5.3 Certificate Registration. The certificate for the shares as to which the RSU is settled shall be registered in the name of the Director, or, if applicable, in the names of the heirs of the Director. 
+
+5.4 Restrictions on Grant of the RSU and Issuance of Shares. The grant of the RSUs and issuance of Common Shares upon settlement of the RSUs shall be subject to compliance with all applicable requirements of federal, state or foreign law with respect to such securities, including requirements as amended after grant of the RSU. No Common Shares may be issued hereunder if the issuance of such shares would constitute a violation of any applicable federal, state or foreign securities laws or other law or regulations or the requirements of any stock exchange or market system upon which the Common Stock may then be listed. The inability of the Company to obtain from any regulatory body having jurisdiction the authority, if any, deemed by the Company’s legal counsel to be necessary to the lawful issuance and sale of any shares subject to the RSU shall relieve the Company of any liability in respect of the failure to issue or sell such shares as to which such requisite authority shall not have been obtained. As a condition to the settlement of the RSU, the Company may require the Director to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the company. 
+
+5.5 Fractional Shares. The Company shall not be required to issue fractional shares upon the settlement of an RSU. 
+
+6\. Dividend Equivalent Rights. Effective on the date of payment of cash dividends on the Common Shares occurring on and after the Date of Grant and before the Settlement Date, the number of RSUs subject to this grant shall be increased by such additional whole and/or fractional RSUs determined by the following formula: 
+
+X = (AxB)/C 
+
+where, 
+
+“X” is the number of whole and/or fractional RSUs to be credited with respect to the grant; 
+
+“A” is the amount of cash dividends paid on one Common Share; 
+
+“B” is the number of whole and fractional RSUs subject to this grant as of the cash dividend record date but immediately prior to the application of this paragraph; and 
+
+* * *
+
+##### 
+
+“C” is the Fair Market Value of a Common Share on the cash dividend payment date. 
+
+Such additional RSUs shall be subject to the same terms and conditions and shall be settled in the same manner and at the same time as the RSUs originally subject to this grant. 
+
+7\. Forfeiture. If the Director’s employment with the Company, or an Affiliate thereof, is terminated, other than by reason of the Director’s death, then any RSUs that have not previously vested shall be forfeited by Director to the Company. Director shall thereafter have no right, title or interest whatever in such RSUs. 
+
+8\. The Board; Adjustments. The Board, in its sole and absolute discretion, shall determine any terms and conditions relating to this grant. The Board may modify this grant, in its sole and absolute discretion, to adjust the number or type of securities subject hereto in the event of a reorganization, merger, consolidation, recapitalization, liquidation, reclassification, stock dividend, stock split, combination of shares, rights offering, or extraordinary dividend or divestiture (including a spin-off), or any other change in the corporate structure or Common Shares of the Company. 
+
+9\. Employment. This Agreement shall not give the Director any right to continued employment with the Company or any Affiliate, and the Company or any Affiliate may treat the Director without regard to the effect it may have upon the Director or any RSUs under this Agreement. 
+
+10\. Rights as a Stockholder, Director, Director or Consultant. The Director shall have no rights as a stockholder with respect to any shares which may be issued in settlement of this grant until the date of the issuance of a certificate for such shares (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company). No adjustment shall be made for dividends, distributions or other rights for which the record date is prior to the date such certificate is issued, except as provided in paragraph 8 or pursuant to the Dividend Equivalent Rights of paragraph 6. 
+
+11\. Legends. The Company may at any time place legends referencing any applicable federal, state or foreign securities law restrictions on all certificates representing shares of stock issued pursuant to this Agreement. The Director shall, at the request of the Company, promptly present to the Company any and all certificates representing shares acquired pursuant to this grant in the possession of the Director in order to carry out the provisions of this paragraph. 
+
+12\. Interpretation of This Agreement. All decisions and interpretations made by the Board with regard to any question arising under this Agreement or the Plan shall be binding and conclusive upon the Company, any Affiliate and the Director. In the event that there is any inconsistency between the provisions of this Agreement and the Plan, the provisions of the Plan shall govern. 
+
+13\. Miscellaneous. This Agreement is entered into pursuant to the Plan and is subject to all of the terms and conditions contained in the Plan. A copy of the Plan is on file with the Company; and, by acceptance hereof, the Director agrees and accepts this Agreement subject to the terms of the Plan. This Agreement shall be binding upon and inure to the benefit of any successor of the Company. This Agreement shall be governed by and construed in accordance with the laws of the State of Minnesota. This Agreement contains all terms and conditions with respect to the subject matter hereof and no amendment, 
+
+* * *
+
+##### 
+
+modification or other change hereto shall be of any force or effect unless and until set forth in a writing executed by the Director and the Company. 
+
+IN WITNESS WHEREOF, the Director has executed this Agreement and the Company has caused this Agreement to be executed by its duly authorized officer, all as of the day and year first above written.   
+COMPUTER NETWORK TECHNOLOGY CORPORATION  
+  
+By 
+
+* * *  
+  
+Its Director of Compensation and Benefits   
+  
+* * *
+
+Director 

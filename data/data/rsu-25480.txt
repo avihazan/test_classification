@@ -1,0 +1,156 @@
+Exhibit 99.3
+
+![](mipslogo.jpg)
+
+
+
+STOCK OPTION AGREEMENT   
+under the   
+MIPS TECHNOLOGIES, INC.  
+1998 LONG-TERM INCENTIVE PLAN
+
+This Stock Option Agreement (the “Option Agreement”) together with the accompanying Notice of Stock Option Grant (the “Notice”) which is incorporated herein by reference, constitutes the Award Document pursuant to which the Administrator of the MIPS Technologies, Inc. 1998 Long-Term Incentive Plan (the “Plan”) has granted to the Optionee named in the attached Notice an option (the “Option”) to purchase the total number of shares of Common Stock as set forth in the Notice at the exercise price per share set forth in the Notice, subject to the terms and conditions of the Plan, which is incorporated herein by this reference, and the Award Document. Terms defined in the Plan but not in the Award Document shall have the meanings set forth in the Plan. In the event of any conflict between the terms and conditions of the Plan and the terms and conditions of the Award Document, the terms and conditions of the Plan (including but not limited to Section 16) shall prevail. Any dispute regarding the interpretation of the Award Document and/or the Plan shall be submitted by the Optionee or the Company to the Committee for review. The resolution of such a dispute by the Committee shall be final and binding on the Company and the Optionee.
+
+1\. Nature of the Option. The Notice shall designate the Option as either an Incentive Stock Option ("ISO") or a Nonqualified Stock Option ("NSO"). If designated in the Notice as an Incentive Stock Option ("ISO"), this Option is intended to qualify as an incentive stock option under Section 422 of the Code. However, if this Option is intended to be an ISO, to the extent that it exceeds the $100,000 rule of Section 422(d) of the Code or may not otherwise be designated as an ISO, the excess shall be treated as an NSO. 
+
+2\. Exercise of Option. 
+
+(a) Right to Exercise. This Option is exercisable, in whole or in part, during its term in accordance with the Vesting Schedule set out in the Notice and the applicable provisions of the Plan and this Option Agreement. In the event of certain types of leaves of absence, your vesting may be suspended for a period of time. 
+
+(b) Method of Exercise. This Option shall be exercisable by written notice in the form provided by the Company and signed by the Optionee and delivered to the Company’s Stock Administration Department, or by using the electronic exercise methods approved from time to time by the Company’s Stock Administration Department. The current exercise procedures and the appropriate exercise documentation are available on the Company’s internal web site and from the Company’s Stock Administration Department. The exercise notice shall state the number of shares in respect of which the Option is being exercised (the “Exercised Shares”) and shall be accompanied by payment of the aggregate exercise price (the “Exercise Price”). The Option shall be deemed to be exercised upon receipt by the Company of such exercise notice accompanied by the Exercise Price. 
+
+(c) Transfer of Shares. No shares shall be issued pursuant to the exercise of this Option unless such issuance and exercise complies with applicable laws. Assuming such compliance, for income tax purposes the Exercised Shares shall be considered transferred to the Optionee on the date the Option is exercised with respect to such Exercised Shares. 
+
+3\. Method of Payment. Unless otherwise determined by the Committee, payment of the Exercise Price may only be made by one of the following methods, or a combination thereof, at the election of the Optionee: (a) cash; (b) check; or (c) consideration received by the Company under a “cashless exercise” program implemented by the Company in connection with the Plan. 
+
+4\. Rights as Shareholder. Until the issuance (as evidenced by the appropriate entry on the books of the Company or of a duly authorized transfer agent of the Company) of the shares, no right to vote or receive dividends or any other rights as a shareholder shall exist with respect to the Common Stock subject to this Option, notwithstanding the exercise of the Option. The shares so acquired shall be issued to the Optionee as soon as practicable after exercise of the Option. No adjustment will be made for a dividend or other right for which the record date is prior to the date of issuance, except as provided in Section 15 of the Plan. 
+
+5\. Post-Termination Exercise Period. Subject to Section 6 below, unless otherwise determined by the Committee, if Optionee ceases to serve as an Employee or Consultant (whichever was applicable at date of grant), the Optionee may, but only within three (3) months after the date the Optionee ceases to be such an Employee or Consultant, exercise this Option to the extent that the Optionee was entitled to exercise it at the date of such termination (but in no event later than the expiration of the term of such Option as set forth in Section 8 below); provided that if as of the date of termination the Optionee is considered by the Company to be an executive officer for the purposes of the Company's filings under the Exchange Act, this Option, to the extent that the Optionee was entitled to exercise it at the date of such termination, may be exercised within twelve (12) months after the date Optionee ceases to be an Employee or Consultant (but in no event later than the expiration of the term of such Option as set forth in Section 8 below). To the extent that Optionee was not entitled to exercise this Option at the date of such termination, and to the extent the Optionee does not exercise this Option within the time specified herein, the Option shall terminate. Any ISO that is not exercised within three (3) months after Optionee ceases to be an Employee, other than due to Optionee's death or disability (as defined in Section 22(e)(3) of the Code), will become an NSO.
+
+If Optionee's status changes from that of an Employee to that of a Consultant (and the Committee agrees this Option shall continue) or the Employee is on certain types of leaves of absence, any ISO granted under this Option will become an NSO to the extent it is not exercised within three (3) months after the date the Optionee ceased to be an Employee or after the 91st day following the commencement of such a leave of absence. 
+
+6\. Death or Disability of Optionee. If Optionee ceases to serve as an Employee or Consultant as a result of death or disability (as defined in Section 22(e)(3) of the Code), this Option shall immediately become fully vested and exercisable. The Option shall remain exercisable for twelve (12) months following the Optionee’s death or disability (but in no event later than the expiration of the term of such Option as set forth in Section 8 below). 
+
+7\. Non-Transferability of Option. Unless otherwise determined by the Committee, this Option may not be transferred in any manner otherwise than by will or by the laws of descent or distribution and may be exercised during the lifetime of Optionee only by the Optionee. The terms of the Plan, the Notice and this Option Agreement shall be binding upon the executors, administrators, heirs, successors and assigns of the Optionee. 
+
+8\. Term of Option. Unless earlier terminated as provided herein, this Option may be exercised only during a term of seven (7) years (five (5) years if Optionee owns, immediately before this Option is granted, stock representing more than ten percent (10%) of the total combined voting power of all classes of stock of the Company) from the Date of Grant of this Option, and may be exercised during such term only in accordance with the terms of the Plan, the Notice and this Option Agreement. 
+
+9\. Tax Consequences and Notice of Disqualifying Disposition of ISO Shares. THERE ARE POTENTIAL TAX CONSEQUENCES ASSOCIATED WITH THE GRANT, VESTING AND EXERCISE OF THIS OPTION. THE OPTIONEE SHOULD CONSULT A TAX ADVISER UPON RECEIVING AND BEFORE EXERCISING THIS OPTION OR DISPOSING OF THE SHARES. THE OPTIONEE UNDERSTANDS AND AGREES THAT THE COMPANY MAY WITHHOLD FROM HIS OR HER COMPENSATION OR COLLECT FROM OPTIONEE ANY AMOUNTS REQUIRED TO BE WITHHELD UNDER APPLICABLE LAWS AND MAY REFUSE TO HONOR THE EXERCISE AND REFUSE TO DELIVER EXERCISED SHARES IF SUCH WITHHOLDING AND TAX AMOUNTS ARE NOT DELIVERED AT THE TIME OF EXERCISE. In addition, if the Optionee sells or otherwise disposes of any of the Exercised Shares acquired pursuant to an ISO on or before the later of (i) two years after the Date of Grant of this Option, or (ii) one year after the exercise date, the Optionee shall immediately notify the Company in writing of such disposition. The Optionee agrees that the Optionee may be subject to income tax withholding by the Company on the compensation income recognized from such early disposition of Exercised Shares acquired pursuant to an ISO by payment in cash or out of the current earnings paid to the Optionee. 
+
+10\. Adjustments. All references to the number of shares, the exercise price per share, and other terms in this Option Agreement may be appropriately adjusted, in the discretion of the Committee, as provided in the Plan. 
+
+11\. No Guarantee of Continued Service. OPTIONEE ACKNOWLEDGES AND AGREES THAT THE VESTING OF SHARES PURSUANT TO THE VESTING SCHEDULE SET FORTH IN THE NOTICE IS EARNED ONLY BY CONTINUING AS AN EMPLOYEE OR CONSULTANT AT THE WILL OF THE COMPANY, ITS PARENT OR A SUBSIDIARY (AND NOT THROUGH THE ACT OF BEING HIRED, BEING GRANTED AN OPTION OR PURCHASING SHARES HEREUNDER). OPTIONEE FURTHER ACKNOWLEDGES AND AGREES THAT THE PLAN AND THE AWARD DOCUMENT, THE TRANSACTIONS CONTEMPLATED HEREUNDER AND THE VESTING SCHEDULE DO NOT CONSTITUTE AN EXPRESS OR IMPLIED PROMISE OF CONTINUED ENGAGEMENT AS AN EMPLOYEE OR CONSULTANT FOR THE VESTING PERIOD, FOR ANY PERIOD, OR AT ALL, AND SHALL NOT INTERFERE WITH OPTIONEE’S RIGHT OR THE RIGHT OF THE COMPANY, ITS PARENT OR A SUBSIDIARY TO TERMINATE OPTIONEE’S RELATIONSHIP AS AN EMPLOYEE OR CONSULTANT AT ANY TIME, WITH OR WITHOUT CAUSE. 
+
+12\. Change in Control. In the event of a Change in Control, this Option shall automatically become exercisable in full when and if, within twenty-four (24) months after a Change in Control, (i) the Optionee is involuntarily terminated as an Employee by the Company or a Subsidiary without Cause or (ii) the Optionee voluntarily resigns as an Employee of the Company or a Subsidiary for Good Reason. 
+
+13\. No Restriction on Right of Company to Effect Corporate Changes. The Award Document shall not affect or restrict in any way the right or power of the Company or the stockholders of the Company to make or authorize any adjustment, recapitalization, reorganization or other change in the Company’s capital structure or its business, any merger or consolidation of the Company, any issuance of stock or of stock options, warrants or rights to purchase stock or of bonds, debentures, preferred or prior preference stocks whose rights are superior to or affect the Common Stock or the rights thereof or which are convertible into or exchangeable for Common Stock, or the dissolution or liquidation of the Company, or any sale or transfer of all or any part of its assets or business, or any other corporate act or proceeding, whether of a similar character or otherwise. 
+
+14\. Venue. All disputes, controversies, claims, actions or causes of action arising out of the Award Document between the parties hereto shall be brought, heard and adjudicated by the state and federal courts located in the State of California, with venue in the County of Santa Clara. Each of the parties hereto hereby consents to personal jurisdiction by such courts located in the State of California in connection with any such dispute, controversy, claim, action or cause of action, and each of the parties hereto consents to service of process by any means authorized by federal law or the law of the State of California, as applicable. 
+
+15\. Entire Agreement; Governing Law. The Plan, the Notice and this Option Agreement constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Optionee with respect to the subject matter hereof, and except as provided in Section 16 of the Plan, may not be modified adversely to the Optionee’s interest except by means of a writing signed by the Company and Optionee. This Option Agreement is governed by the internal substantive laws, but not the choice of law rules, of the State of Delaware. 
+
+* * *
+
+![](mipslogo.jpg)
+
+NOTICE OF STOCK OPTION GRANT  
+Form for Employee New Hires and Promotions
+
+Optionee: <> <> <>
+
+The Compensation and Nominating Committee of the Board of Directors of MIPS Technologies, Inc. (the “Company”), has awarded you an option (the “Option”) effective as of the Date of Grant set forth below to purchase the number of shares of the Company’s common stock (the “Common Stock”) set forth below under the MIPS Technologies, Inc. 1998 Long-Term Incentive Plan (the “Plan”), subject to the terms and conditions of the Plan and this Award Document, which is comprised of this Notice of Stock Option Grant and the attached Stock Option Agreement. 
+
+Summary of Option Terms  
+  
+Option Grant Number: <>  
+Date of Grant: <>  
+Type of Option: <>  
+Exercise Price per Share: <>  
+Number of Shares Granted: <>  
+Vesting Commencement Date: <>  
+Expiration Date: <> Unless earlier terminated as provided in this Award Document or in the Plan.  
+  
+Vesting Schedule: One-third (1/3) of the shares subject to this Option shall vest twelve (12) months after the Vesting Commencement Date, and one thirty-sixth (1/36) of the shares subject to this Option shall vest on each monthly anniversary of the Vesting Commencement Date thereafter, subject to the Optionee continuing to be an employee or consultant unless otherwise provided in this Award Document. 
+
+The actual vesting dates and vesting periods for this Option are reflected below: 
+
+Total Shares Vesting  
+in Period
+
+* * *
+
+Vesting Frequency
+
+* * *
+
+Period End  
+Date
+
+* * *  
+  
+<> <> <>  
+<> <> <>  
+<> <> <>  
+<> <> <>  
+<> <> <>  
+<> <> <>  
+  
+By your signature and the signature of the Company’s representative below, you and the Company agree that this Option is granted under and governed by the terms and conditions of the Plan and this Award Document, that this Option is granted for no consideration other than your services and your agreements set forth in this Award Document. Optionee hereby agrees to comply with the terms and conditions of the Plan and this Award Document and accepts as binding, conclusive and final all decisions or interpretations of the Committee upon any questions relating to the Plan and/or this Award Document.   
+  
+MIPS TECHNOLOGIES, INC OPTIONEE  
+By:_____________________________________________ By:_____________________________________________  
+Name:  
+Date: Date:  
+  
+Please return one fully executed original of this Award Document to the Stock Administration Department, Attention: _________________. The copy is for your files. 
+
+* * *
+
+![](mipslogo.jpg)
+
+NOTICE OF STOCK OPTION GRANT  
+Form for Employee Renewals
+
+Optionee: <> <> <> 
+
+The Compensation and Nominating Committee of the Board of Directors of MIPS Technologies, Inc. (the "Company"), has awarded you an option (the "Option") effective as of the Date of Grant set forth below to purchase the number of shares of the Company's common stock (the "Common Stock") set forth below under the MIPS Technologies, Inc. 1998 Long-Term Incentive Plan (the "Plan"), subject to the terms and conditions of the Plan and this Award Document, which is comprised of this Notice of Stock Option Grant and the attached Stock Option Agreement. 
+
+Summary of Option Terms  
+  
+Option Grant Number: <>  
+Date of Grant: <>  
+Type of Option: <>  
+Exercise Price per Share: <>  
+Number of Shares Granted: <>  
+Vesting Commencement Date: <>  
+Expiration Date: <> Unless earlier terminated as provided in this Award Document or in the Plan.  
+  
+Vesting Schedule: This option will vest over thirty-six (36) months at a rate of one thirty-sixth (1/36) per month beginning with the first monthly anniversary of the Vesting Commencement Date, subject to the Optionee continuing to be an employee unless otherwise provided in this Award Document. 
+
+The actual vesting dates and vesting periods for this Option are reflected below: 
+
+Total Shares Vesting  
+in Period
+
+* * *
+
+Vesting Frequency
+
+* * *
+
+Period End  
+Date
+
+* * *  
+  
+<> <> <>  
+<> <> <>  
+  
+By your signature and the signature of the Company’s representative below, you and the Company agree that this Option is granted under and governed by the terms and conditions of the Plan and this Award Document, that this Option is granted for no consideration other than your services and your agreements set forth in this Award Document. Optionee hereby agrees to comply with the terms and conditions of the Plan and this Award Document and accepts as binding, conclusive and final all decisions or interpretations of the Committee upon any questions relating to the Plan and/or this Award Document.   
+  
+MIPS TECHNOLOGIES, INC OPTIONEE  
+By:_____________________________________________ By:_____________________________________________  
+Name:  
+Date: Date:  
+  
+Please return one fully executed original of this Award Document to the Stock Administration Department, Attention: _________________. The copy is for your files. 

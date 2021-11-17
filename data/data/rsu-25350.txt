@@ -1,0 +1,177 @@
+Exhibit 10.4
+
+MSC INDUSTRIAL DIRECT CO., INC
+
+2015 OMNIBUS INCENTIVE PLAN
+
+
+
+This RESTRICTED STOCK UNIT AGREEMENT (this “Agreement”) is entered into on the date set forth on the signature page hereto, by and between MSC Industrial Direct Co., Inc. (the “Company”) and [ASSOCIATE NAME] (the “Participant”). The Company and the Participant may hereinafter each be referred to as a “Party” and collectively as the “Parties.” 
+
+WHEREAS, the Parties desire to enter into this Agreement for the purpose of establishing the terms and conditions of restricted stock units that have been granted to the Participant.
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants and agreements set forth in this Agreement, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows:
+
+1. Definitions.Capitalized terms used but not defined herein shall have the meanings given to such terms in the Company’s 2015 Omnibus Incentive Plan (the “Plan”).  
+  
+2. Grant of Award. The Participant is hereby awarded (the “Award”) [INSERT #] restricted stock units (“RSUs”) issued under the Plan, evidencing the grant thereof by the Compensation Committee of the Board of Directors of the Company on ________, 20__ (the “Award Date”), and the Participant hereby accepts the Award, in each case, on the terms and subject to the conditions set forth in this Agreement.  
+  
+3. Vesting Dates. Subject to Sections 7, 8, 9, 11 and 13 below, the applicable percentage of the RSUs shall vest on each “Vesting Date” in accordance with the following schedule, provided that the Participant remains an associate of, or in the service of, the Company (or a Subsidiary) during the entire period commencing on the Award Date and ending on the applicable Vesting Date:  
+  
+Vesting Date
+
+Percentage of RSUs Vested  
+  
+_________, 201_
+
+20%  
+  
+_________, 201_
+
+40%  
+  
+_________, 201_
+
+60%  
+  
+_________, 201_
+
+80%  
+  
+_________, 201_
+
+100%  
+  
+* * *
+
+4. Settlement; Rights as a Shareholder. Upon vesting, each RSU shall be converted into the right to receive one share of the Company’s Class A Common Stock, par value $.001 per share (a “Share”) upon settlement. Settlement of vested RSUs shall be made promptly following the date such RSUs shall have vested and in any case within sixty (60) days following the date of vesting, provided that the Participant shall not be permitted, directly or indirectly, to designate the year of settlement. Any fractional share upon vesting shall be used to satisfy the Company’s withholding obligation.  
+  
+Unless and until such time as Shares are issued in settlement of vested RSUs, the Participant shall have no ownership of the Shares allocated to the RSUs and, subject to the provisions of Section 5, shall have no rights as a shareholder with respect to such Shares. Upon settlement, the Company shall cause the Company’s transfer agent to issue a certificate or certificates for the Shares in the name of the Participant, or to make a book entry record of such issuance, and the Participant shall thereupon have all rights as a shareholder with respect to such Shares, including the right to vote such Shares and to receive all dividends and other distributions paid with respect to such Shares. The Company may place on the certificates representing the Shares such legend or legends as the Company may deem appropriate and the Company may place a stop transfer order with respect to such Shares with the transfer agent(s) for the Shares.
+
+5. Dividend Equivalents. Any dividends paid in cash on Shares prior to vesting of the RSUs shall be credited to the Participant as additional RSUs, as if the RSUs then held by the Participant had been converted to Shares. The amount of such credit, which may be in whole and/or fractional RSUs (carried to three decimals), shall be determined based on the Fair Market Value of Shares on the date of payment of such dividend. All such additional RSUs credited to the Participant shall be subject to the same vesting requirements applicable to the RSUs underlying the Award and shall be settled in accordance with, and at the time of, settlement of vested RSUs pursuant to this Agreement.   
+  
+6. No Transfer. This Award and the RSUs are non-transferable and may not be assigned, pledged or hypothecated and shall not be subject to execution, attachment or similar process. Upon any attempt to effect any such disposition, or upon the levy of any such process, the Award shall immediately become null and void and the RSUs shall be forfeited.  
+  
+7. Termination of Employment or Provision of Services by Reason of Death, Disability or Retirement. If the Participant’s employment with or provision of services for the Company and its Subsidiaries terminates by reason of death, Disability or Retirement, the RSUs shall fully vest and any forfeiture restrictions on this Award shall lapse on the date of such death, Disability or termination of employment by reason of Retirement. For purposes of this Agreement, “Disability” shall mean (as determined by the Committee in its sole discretion) any mental or physical illness that would qualify the Participant for a disability under any long-term disability plan maintained by the Company or any Subsidiary that is applicable to such Participant, provided that if necessary for the Award to satisfy Section 409A of the Code, a “Disability” must also be a disability within the meaning of Section 409A; and “Retirement” shall mean termination of employment or provision of services without Cause, death or Disability on or after age 65 with 5 years of service.  
+  
+-2-
+
+* * *
+
+8. Other Termination of Employment or Provision of Services. If the Participant’s employment or provision of services (including as a Non-Executive Director) is terminated for any reason other than death, Disability or Retirement, this Award and the RSUs represented by this Award that have not yet vested as of such date shall be forfeited to the Company forthwith and all rights of the Participant under this Award and such unvested RSUs represented by this Award shall immediately terminate. For purposes of this Award, the termination date shall be the last day of employment and shall not be extended by any actual or deemed period of notice of termination, whether under statute, common law, contract or otherwise. For purposes of this Award, the Participant’s employment with or provision of services shall be deemed to have terminated if the entity for which the Participant is providing services ceases to be a Subsidiary. In addition, the Participant’s service or employment will be deemed to have terminated for Cause, if after the Participant’s service or employment has terminated, facts and circumstances are discovered that would have justified a termination for Cause (and any Shares that may have been issued upon settlement of vested RSUs after the occurrence of the conduct that would have justified a termination for Cause shall be subject to recoupment by the Company, and if such Shares are no longer held by the Participant, then the Participant shall pay to the Company a sum equal to the Fair Market Value of the Shares at the time such Shares were issued).  Any determination of Cause shall be made by the Committee, in its sole discretion. For purposes of this Agreement (other than for purposes of determinations made under Article 11 of the Plan), “Cause” shall mean (i) the willful and continued failure by the Participant to substantially perform his or her duties with the Company and its Subsidiaries (other than any such failure resulting from his or her incapacity due to physical or mental illness), (ii) the engaging by the Participant in conduct which is demonstrably and materially injurious to the Company or its Subsidiaries, monetarily or otherwise, (iii) the engaging by Participant in fraud, breach of fiduciary duty, dishonesty, misappropriation or other actions that cause damage to the property or business of the Company or its Subsidiaries, or (iv) the Participant’s conviction of, or entering a plea of nolo contendere to, a felony.   
+  
+9. Withholding Taxes. No later than the date as of which an amount first becomes includible in the gross income of the Participant for income tax purposes with respect to the Award granted hereunder, the Participant shall make arrangements satisfactory to the Company regarding the payment of any federal, state, local or foreign taxes of any kind required by law to be withheld with respect to such amount. Unless the Participant elects, with respect to each particular vesting event, to satisfy his or her withholding obligation with a cash payment in accordance with rules established by the Committee, the Participant shall be deemed to have, and by his or her signature hereto hereby does, instruct the Company to satisfy the Company’s minimum statutory withholding obligations with Shares that are to be delivered upon settlement of the RSUs. Changes to this instruction to pay withholding obligations in Shares (i.e., to make arrangements to pay withholding obligations in cash) can only be made during the “trading window” prior to the vesting event under the Company’s Insider Trading Policy. Notwithstanding any provision herein to the contrary, in the event an Award becomes subject to FICA taxes at a time when the Award would not otherwise vest pursuant to Section 3, the Company shall (and without providing the Participant with an election) settle a sufficient number of RSUs determined based on the Fair Market Value on the date of settlement that does not exceed the applicable minimum statutory withholding tax obligation with respect to such FICA taxes and any federal, state or local income taxes that may apply as a result of such accelerated settlement of RSUs and the Company shall withhold such amounts to satisfy such FICA and any 
+
+-3-  
+  
+* * *
+
+related income tax liability; provided, however, that any such accelerated settlement of RSUs shall be made only to the extent permitted under Treasury Regulations section 1.409A-3(j)(4)(vi).  
+  
+The obligations of the Company under the Plan shall be conditional on such payment arrangements, and the Company and its Subsidiaries shall, to the extent permitted by law, have the right to deduct any such taxes from any payment otherwise due to the Participant. The Committee may establish such procedures as it deems appropriate for the settlement of withholding obligations with Shares. The Participant should consult his or her own tax advisor for more information concerning the tax consequences of the grant and settlement of RSUs under this Agreement.
+
+10. Death of Participant. If any of the RSUs shall vest upon the death of the Participant, any Shares to be delivered upon settlement shall be registered in the name of the estate of the Participant unless the Company shall have theretofore received in writing a beneficiary designation, in which event they shall be registered in the name of the designated beneficiary.  
+  
+11. Special Forfeiture and Repayment Provisions.  
+  
+(a) If the Participant, while providing services to the Company or any Subsidiary, or after cessation of such service, violates a confidentiality, non-competition or non-solicitation covenant or agreement, as determined by the Committee in its sole discretion, then (i) this Award and the RSUs represented by this Award that have not yet vested as of such date shall be forfeited to the Company forthwith and all rights of the Participant under this Award and such unvested RSUs represented by this Award shall immediately terminate, and (ii) if any RSUs have vested within the twelve (12)-month period immediately preceding the date of the earliest violation by the Participant (or following the date of the earliest violation), then, upon the Company’s demand, the Participant shall immediately deliver to the Company certificate(s) for the number of Shares delivered upon settlement of such RSUs or, if any shares have been sold, the Participant shall immediately remit to the Company, in cash, the proceeds of any such sale(s). Notwithstanding the foregoing, in the event of a Change in Control, the Company’s right to cancel the Award or to require forfeiture or repayment, as provided above, shall terminate without prejudice to any rights that the Company otherwise may have under applicable law.   
+  
+(b) The Participant hereby acknowledges and agrees that the restrictions contained in this Section 11 are being made for the benefit of the Company in consideration of the Participant’s receipt of the Award. The Participant further acknowledges and agrees that the receipt of the Award is a voluntary action on the part of the Participant and that the Company is unwilling to provide the Award to the Participant without including the restrictions contained herein.  
+  
+(c) The Participant hereby consents to a deduction from, and set-off against, any amounts owed to the Participant by the Company or its Subsidiaries from time to time to the extent of any amounts owed to the Company by the Participant hereunder.  
+  
+-4-
+
+* * *
+
+(d) The forfeiture and repayment provisions of this Award are in addition to, and not in lieu of, any other remedies that the Company may have in the event of a violation by the Participant of any confidentiality, non-competition or non-solicitation covenant in any agreement between the Participant and the Company or any of its Subsidiaries.   
+  
+12. Incentive Compensation Recoupment Policy. The Participant hereby further agrees that the Participant shall be subject to any clawback, recoupment or other similar policy that the Company adopts, including the Company’s Executive Incentive Compensation Recoupment Policy, and acknowledges and agrees that the Award, the Shares issued and/or amounts paid or to be paid hereunder and/or amounts received with respect to any sale of such Shares, shall be subject to potential cancellation, recoupment, rescission, payback or other action in accordance with the terms of such policy. The Participant agrees and consents to the Company’s application, implementation and enforcement of (i) any such policy established by the Company that may apply to the Participant and (ii) any provision of applicable law relating to cancellation, rescission, payback or recoupment of compensation, and expressly agrees that the Company may take such actions as are necessary to effectuate such policy or applicable law without further consent or action being required by the Participant. To the extent that the terms of this Agreement and such policy conflict, then the terms of such policy shall prevail.  
+  
+13. Change in Control. The provisions of the Plan applicable to a Change in Control shall apply to this Award, and the Committee may take such actions as it deems appropriate pursuant to the Plan.  
+  
+14. Nature of Grant.  In accepting this Award, the Participant acknowledges and agrees that:  
+  
+(a) the Plan is established voluntarily by the Company, is discretionary in nature and may be amended, suspended or terminated by the Company at any time;  
+  
+(b) the grant of this Award is voluntary and occasional and does not create any contractual or other right to receive future grants of Awards, or benefits in lieu of Awards, even if Awards have been granted repeatedly in the past;  
+  
+(c) all decisions with respect to future grants of Awards, if any, will be at the sole discretion of the Company;  
+  
+(d) the Participant’s participation in the Plan is voluntary;  
+  
+(e) the Participant’s participation in the Plan shall not create a right to further employment with the Company or any Subsidiary and shall not interfere with the ability of the Company or any Subsidiary to terminate the Participant’s employment relationship at any time;  
+  
+(f) this Award is an extraordinary item that does not constitute compensation of any kind for services of any kind rendered to the Company or any Subsidiary and is outside the scope of the Participant’s employment or service contract, if any;  
+  
+(g) the future value of the Shares underlying this Award is unknown and cannot be predicted with certainty;  
+  
+-5-
+
+* * *
+
+(h) no claim or entitlement to compensation or damages shall arise from the forfeiture of unvested RSUs under the Award resulting from the Participant’s termination of service (for any reason whatsoever and whether or not in breach of local labor laws), and in consideration of this Award to which the Participant is otherwise not entitled, the Participant irrevocably agrees never to institute any claim against the Company and/or any Subsidiary, waives the Participant’s ability, if any, to bring any such claim, and releases the Company and/or any Subsidiary from any such claim; if, notwithstanding the foregoing, any such claim is allowed by a court of competent jurisdiction, then, by participating in the Plan, the Participant shall be deemed irrevocably to have agreed not to pursue such claim and agrees to execute any and all documents necessary to request dismissal or withdrawal of such claims; and  
+  
+(i) for a Participant residing outside of the U.S.A:  
+  
+(A) this Award and any Shares acquired under the Plan are not intended to replace any pension rights or compensation;  
+  
+(B) this Award is not part of normal or expected compensation or salary for any purposes, including, but not limited to, calculating any severance, resignation, termination, redundancy, end of service payments, dismissal, bonuses, long-service awards, pension or retirement or welfare benefits or similar payments and in no event should be considered as compensation for, or relating in any way to past services for the Company or any Subsidiary; and  
+  
+(C) in the event of the Participant’s termination of service (whether or not in breach of local labor laws), the Participant’s right to vest under the Plan, if any, will terminate effective as of the date of termination of service; and the Committee shall have the exclusive discretion to determine when the Participant is no longer actively providing service for purposes of this Award.  
+  
+15. Effect of Amendment of Plan; Amendment of Agreement. No discontinuation, modification, or amendment of the Plan may, without the express written consent of the Participant, adversely affect the rights of the Participant under this Award, except as expressly provided under the Plan.  
+  
+This Agreement may be amended as provided under the Plan, but except as provided thereunder any such amendment shall not adversely affect Participant’s rights hereunder without Participant’s consent. 
+
+16. No Limitation on Rights of the Company; Adjustment of Award. The grant of this Award shall not in any way affect the right or power of the Company to make adjustments, reclassifications, or changes in its capital or business structure or to merge, consolidate, dissolve, liquidate, sell, or transfer all or any part of its business or assets. The number and kind of shares subject to this Award and other related terms shall be adjusted by the Committee in accordance with Section 12.2 of the Plan.   
+  
+17. Compliance with Applicable Law. Notwithstanding anything herein to the contrary, the Company shall not be obligated to issue or deliver or cause to be issued or delivered any certificates for Shares, unless and until the Company is advised by its counsel that the 
+
+-6-  
+  
+* * *
+
+issuance and delivery of such certificates is in compliance with all applicable laws, regulations of governmental authority, and the requirements of any exchange upon which Shares are traded. The Company shall in no event be obligated to register any securities pursuant to the Securities Act of 1933 (as now in effect or as hereafter amended) or to take any other action in order to cause the issuance and delivery of such certificates to comply with any such law, regulation or requirement. The Company may require, as a condition of the issuance and delivery of such certificates and in order to ensure compliance with such laws, regulations, and requirements, that the Participant makes such covenants, agreements, and representations as the Company, in its sole discretion, considers necessary or desirable.  
+  
+18. Agreement Not a Contract of Employment or Other Relationship. This Agreement is not a contract of employment, and the terms of employment of the Participant or other relationship of the Participant with the Company or any of its Subsidiaries shall not be affected in any way by this Agreement except as specifically provided herein. The execution of this Agreement shall not be construed as conferring any legal rights upon the Participant for a continuation of an employment or other relationship with the Company or any of its Subsidiaries, nor shall it interfere with the right of the Company or any of its Subsidiaries to discharge the Participant and to treat him or her without regard to the effect which such treatment might have upon him or her as a Participant.  
+  
+19. Data Privacy. As a condition of acceptance of this Award, the Participant explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of personal data as described in this Section 19 by and among, as applicable, the Company and its Subsidiaries for the exclusive purpose of implementing, administering and managing the Participant’s participation in the Plan. The Participant understands that the Company and its Subsidiaries hold certain personal information about the Participant, including the Participant’s name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares of stock or directorships held in the Company or any Subsidiary, details of all Awards or any other entitlement to Shares awarded, canceled, exercised, vested, unvested or outstanding in the Participant’s favor (the “Data”), for the purpose of implementing, managing and administering the Plan. The Participant further understands that the Company and its Subsidiaries may transfer the Data amongst themselves as necessary for the purpose of implementation, management and administration of the Participant’s participation in the Plan, and that the Company and its Subsidiaries may each further transfer the Data to any third parties assisting the Company in the implementation, management, and administration of the Plan. The Participant understands that these recipients may be located in the Participant’s country, or elsewhere, and that the recipient’s country may have different data privacy laws and protections than the Participant’s country. The Participant understands that he or she may request a list with the names and addresses of any potential recipients of the Data by contacting his or her local human resources representative. The Participant, through participation in the Plan and acceptance of an Award under the Plan, authorizes such recipients to receive, possess, use, retain and transfer the Data, in electronic or other form, for the purposes of implementing, administering and managing the Participant’s participation in the Plan, including any requisite transfer of such Data as may be required to a broker or other third party with whom the Participant may elect to deposit any Shares. The Participant understands that the Data will be held only as long as is necessary to implement, manage, and administer the Participant’s participation in the Plan. The Participant understands that if he or she resides 
+
+-7-  
+  
+* * *
+
+outside the United States, he or she may, at any time, view the Data, request additional information about the storage and processing of the Data, require any necessary amendments to the Data, or refuse or withdraw the consents herein in writing, in any case without cost, by contacting in writing his or her local human resources representative. Further, the Participant understands that he or she is providing the consents herein on a purely voluntary basis. If the Participant does not consent, or if the Participant later seeks to revoke his or her consent, the Participant’s employment status and position with the Company or its Subsidiary will not be affected; the only adverse consequence of refusing or withdrawing the Participant’s consent is that the Company would not be able to grant the Participant Awards or administer or maintain such Awards. Therefore, the Participant understands that refusing or withdrawing the Participant’s consent may affect his or her ability to participate in the Plan. For more information on the consequences of refusal to consent or withdrawal of consent, the Participant understands that he or she may contact his or her local human resources representative.  
+  
+20. Notices. Any notice or other communication required or permitted hereunder shall be in writing and shall be delivered personally or sent by certified, registered, or express mail, postage prepaid, return receipt requested, or by a reputable overnight delivery service. Any such notice shall be deemed given when received by the intended recipient.  
+  
+21. Governing Law. Except to the extent preempted by Federal law, this Agreement shall be construed and enforced in accordance with, and governed by, the laws of the State of New York without regard to any principles thereof relating to the conflicts of laws that would result in the application of the laws of any other jurisdiction. The parties agree that the state and federal courts located in the State of New York, County of Suffolk, shall have exclusive jurisdiction in any action, suit or proceeding based on or arising out of this Agreement and the parties hereby: (a) submit to the personal jurisdiction of such courts; (b) consent to service of process in connection with any action, suit or proceeding; (c) agree that venue is proper and convenient in such forum; (d) waive any other requirement (whether imposed by statute, rule of court or otherwise) with respect to personal jurisdiction, subject matter jurisdiction, venue, or service of process; and (e) waive the right, if any, to a jury trial.  
+  
+22. Acknowledgment; Interpretation of Agreement and Plan. The Participant acknowledges receipt of a copy of the Plan, and represents that the Participant is familiar with the terms and provisions thereof, and hereby accepts this Award subject to all the terms and provisions of this Agreement and of the Plan. The Participant hereby agrees to accept as binding, conclusive and final all decisions or interpretations of the Committee with respect to any questions arising under this Agreement or the Plan.  
+  
+23. Entire Agreement. The Plan and this Agreement constitute the entire agreement and understanding of the parties with respect to the subject matter of this Agreement, and supersede all prior understandings and agreements, whether oral or written, between the parties hereto with respect to the specific subject matter hereof. To the extent any provisions of the Agreement are inconsistent or in conflict with any terms or provisions of the Plan, the Plan shall govern.  
+  
+-8-
+
+* * *
+
+IN WITNESS WHEREOF, the Company and the Participant have duly executed this Agreement as of the ___ day of ______, 20__.
+
+MSC INDUSTRIAL DIRECT CO., INC.
+
+By: ________________________________
+
+Name: Nancy Coco
+
+Title: Sr. Compensation Analyst
+
+PARTICIPANT:
+
+By: ________________________________
+
+Name: 
+
+-9-
+
+* * *

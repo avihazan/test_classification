@@ -1,0 +1,137 @@
+Exhibit 10.2
+
+
+
+This Stock Option Agreement (this "Agreement") is made and entered into as of April 30, 2015 by and between Intellinetics, Inc., a Nevada corporation (the "Company") and Murray Gross (the "Director").
+
+Grant Date: April 30, 2015  
+Exercise Price per Share: $0.75  
+Number of Option Shares: 640,000  
+Expiration Date: April 29, 2025  
+  
+1.Grant of Option.  
+  
+1.1 Grant; Type of Option. The Company hereby grants to the Director an option (the "Option") to purchase the total number of shares of Common Stock of the Company equal to the number of Option Shares set forth above, at the Exercise Price set forth above. The Option is being granted pursuant to the terms of the Intellinetics, Inc. 2015 Equity Incentive Plan (the "Plan"). The Option is intended to be a Non-qualified Stock Option and not an Incentive Stock Option within the meaning of Section 422 of the Internal Revenue Code.
+
+1.2 Consideration; Subject to Plan. The grant of the Option is made in consideration of the services to be rendered by the Director to the Company and is subject to the terms and conditions of the Plan. Capitalized terms used but not defined herein will have the meaning ascribed to them in the Plan.
+
+2.Exercise Period; Vesting.  
+  
+2.1 Vesting Schedule. The Option will become vested and exercisable with respect to the shares in accordance with the following schedule until the Option is 100% vested.  
+  
+Date Number of Unvested  
+Options Number of Vested  
+Options  
+Date of Grant 240,000 400,000  
+Date at which the Company first reports two consecutive fiscal quarters with revenues of One Million Dollars ($1,000,000) each  0 640,000  
+  
+The unvested portion of the Option will not be exercisable on or after the Director's termination of Continuous Service.
+
+2.2 Expiration. The Option will expire on the Expiration Date set forth above, or earlier as provided in this Agreement or the Plan.
+
+3.Termination of Continuous Service.  
+  
+3.1 Termination of Continuous Service for a Reason Other Than Retirement, Disability, Death or Removal From the Board for Cause. If the Director's Continuous Service is terminated for any reason other than Retirement (as defined below), Disability, death or removal from the Board for Cause, the Director may exercise the vested portion of the Option, but only within such period of time ending on the earlier of (a) the date three months following the termination of the Director's Continuous Service or (b) the Expiration Date.
+
+3.2 Termination Due to Retirement. If the Director's Continuous Service terminates as a result of the Director's Retirement, the Director may exercise the vested portion of the Option, but only within such period of time ending on the earlier of (a) the date one year following the Director's termination of Continuous Service or (b) the Expiration Date. For purposes of this Agreement, the term "Retirement" means voluntary termination of membership on the Board after reaching age 65 or after reaching age 55 if the Director's age plus years of service as a non-employee Director of the Company is 65 or more.
+
+3.3 Termination Due to Disability. If the Director's Continuous Service terminates as a result of the Director's Disability, the Director may exercise the vested portion of the Option, but only within such period of time ending on the earlier of (a) the date one year following the Director's termination of Continuous Service or (b) the Expiration Date.
+
+2  
+  
+3.4 Termination Due to Death. If the Director's Continuous Service terminates as a result of the Director's death, or the Director dies within the period following termination of the Director's Continuous Service during which the vested portion of the Option remains exercisable, the vested portion of the Option may be exercised by the Director's estate, by a person who acquired the right to exercise the Option by bequest or inheritance or by the person designated to exercise the Option upon the Director's death, but only within the time period ending on the earlier of (a) the date one year following the Director's death or (b) the Expiration Date.
+
+3.5 Removal From the Board for Cause. If the Director is removed from the Board for Cause, the Option (whether vested or unvested) shall immediately terminate and cease to be exercisable.
+
+3.6 Extension of Termination Date. If following the Director's termination of Continuous Service for any reason the exercise of the Option is prohibited because the exercise of the Option would violate the registration requirements under the Securities Act or any other state or federal securities law or the rules of any securities exchange or interdealer quotation system, then the expiration of the Option shall be tolled until the date that is thirty (30) days after the end of the period during which the exercise of the Option would be in violation of such registration or other securities requirements.
+
+4.Manner of Exercise.  
+  
+4.1 Election to Exercise. To exercise the Option, the Director (or in the case of exercise after the Director's death or incapacity, the Director's executor, administrator, heir or legatee, as the case may be) must deliver to the Company an executed stock option exercise agreement in such form as is approved by the Committee from time to time (the "Exercise Agreement"), which shall set forth, inter alia:
+
+(a) the Director's election to exercise the Option;
+
+(b) the number of shares of Common Stock being purchased;
+
+(c) any restrictions imposed on the shares; and
+
+(d) any representations, warranties and agreements regarding the Director's investment intent and access to information as may be required by the Company to comply with applicable securities laws.
+
+If someone other than the Director exercises the Option, then such person must submit documentation reasonably acceptable to the Company verifying that such person has the legal right to exercise the Option.
+
+3  
+  
+4.2 Payment of Exercise Price. The entire Exercise Price of the Option shall be payable in full at the time of exercise to the extent permitted by applicable statutes and regulations, either:
+
+(a) in cash or by certified or bank check at the time the Option is exercised;
+
+(b) by delivery to the Company of other shares of Common Stock, duly endorsed for transfer to the Company, with a Fair Market Value on the date of delivery equal to the Exercise Price (or portion thereof) due for the number of shares being acquired, or by means of attestation whereby the Director identifies for delivery specific shares that have a Fair Market Value on the date of attestation equal to the Exercise Price (or portion thereof) and receives a number of shares equal to the difference between the number of shares thereby purchased and the number of identified attestation shares (a "Stock for Stock Exchange");
+
+(c) through a "cashless exercise program" established with a broker;
+
+(d) by reducing the number of shares otherwise deliverable upon exercise of such Option by a number of shares with an aggregate Fair Market Value equal to the aggregate Exercise Price at the time of exercise;
+
+(e) by any combination of the foregoing methods; or
+
+(f) in any other form of legal consideration that may be acceptable to the Committee.
+
+4.3 Withholding. As a condition to the issuance of any shares of Common Stock subject to the Option, the Company may withhold, or require the Director to pay or reimburse the Company for, any taxes which the Company determines are required to be withheld under federal, state or local law in connection with the exercise of the Option.
+
+4.4 Issuance of Shares. Provided that the Exercise Agreement and payment are in form and substance satisfactory to the Company, the Company shall issue the shares of Common Stock registered in the name of the Director, the Director's authorized assignee, or the Director's legal representative, and shall deliver certificates representing the shares with the appropriate legends affixed thereto.
+
+5\. No Right to Continued Service on the Board; No Rights as Shareholder. Neither the Plan nor this Agreement shall confer upon the Director any right to be retained as a Director of the Company. Further, nothing in the Plan or this Agreement shall be construed to limit the discretion of the Company to terminate the Director's Continuous Service at any time. The Director shall not have any rights as a shareholder with respect to any shares of Common Stock subject to the Option prior to the date of exercise of the Option.
+
+4  
+  
+6\. Transferability. The Option is not transferable by the Director other than to a designated beneficiary upon the Director's death or by will or the laws of descent and distribution, and is exercisable during the Director's lifetime only by him or her. No assignment or transfer of the Option, or the rights represented thereby, whether voluntary or involuntary, by operation of law or otherwise (except to a designated beneficiary upon death or by will or the laws of descent or distribution) will vest in the assignee or transferee any interest or right herein whatsoever, but immediately upon such assignment or transfer the Option will terminate and become of no further effect.
+
+7.Change in Control.  
+  
+7.1 Acceleration of Vesting. In the event of a Change in Control, notwithstanding any provision of the Plan or this Agreement to the contrary, the Option shall become immediately vested and exercisable with respect to 100% of the shares subject to the Option. To the extent practicable, such acceleration of vesting and exercisability shall occur in a manner and at a time which allows the Director the ability to participate in the Change in Control with respect to the shares of Common Stock subject to the Option.
+
+7.2 Cash-out. In the event of a Change in Control, the Committee may, in its discretion and upon at least ten (10) days' advance notice to the Director, cancel the Option and pay to the Director the value of the Option based upon the price per share of Common Stock received or to be received by other shareholders of the Company in the event. Notwithstanding the foregoing, if at the time of a Change in Control the Exercise Price of the Option equals or exceeds the price paid for a share of Common Stock in connection with the Change in Control, the Committee may cancel the Option without the payment of consideration therefor.
+
+8\. Adjustments. The shares of Common Stock subject to the Option may be adjusted or terminated in any manner as contemplated by Section 11 of the Plan.
+
+9\. Tax Liability and Withholding. Notwithstanding any action the Company takes with respect to any or all income tax, social insurance, payroll tax, or other tax-related withholding ("Tax-Related Items"), the ultimate liability for all Tax-Related Items is and remains the Director's responsibility and the Company: (a) makes no representations or undertakings regarding the treatment of any Tax-Related Items in connection with the grant, vesting, or exercise of the Option or the subsequent sale of any shares acquired on exercise; and (b) does not commit to structure the Option to reduce or eliminate the Director's liability for Tax-Related Items.
+
+10\. Compliance with Law. The exercise of the Option and the issuance and transfer of shares of Common Stock shall be subject to compliance by the Company and the Director with all applicable requirements of federal and state securities laws and with all applicable requirements of any stock exchange on which the Company's shares of Common Stock may be listed. No shares of Common Stock shall be issued pursuant to this Option unless and until any then applicable requirements of state or federal laws and regulatory agencies have been fully complied with to the satisfaction of the Company and its counsel. The Director understands that the Company is under no obligation to register the shares of Common Stock with the Securities and Exchange Commission, any state securities commission or any stock exchange to effect such compliance.
+
+5  
+  
+11\. Notices. Any notice required to be delivered to the Company under this Agreement shall be in writing and addressed to the Chief Financial Officer of the Company at the Company's principal corporate offices. Any notice required to be delivered to the Director under this Agreement shall be in writing and addressed to the Director at the Director's address as shown in the records of the Company. Either party may designate another address in writing (or by such other method approved by the Company) from time to time.
+
+12\. Governing Law. This Agreement will be construed and interpreted in accordance with the laws of the State of Ohio without regard to conflict of law principles.
+
+13\. Interpretation. Any dispute regarding the interpretation of this Agreement shall be submitted by the Director or the Company to the Committee (excluding the Director if he serves on the Committee) for review. The resolution of such dispute by the Committee shall be final and binding on the Director and the Company.
+
+14\. Options Subject to Plan. This Agreement is subject to the Plan as approved by the Company's shareholders. The terms and provisions of the Plan as it may be amended from time to time are hereby incorporated herein by reference. In the event of a conflict between any term or provision contained herein and a term or provision of the Plan, the applicable terms and provisions of the Plan will govern and prevail.
+
+15\. Successors and Assigns. The Company may assign any of its rights under this Agreement. This Agreement will be binding upon and inure to the benefit of the successors and assigns of the Company. Subject to the restrictions on transfer set forth herein, this Agreement will be binding upon the Director and the Director's beneficiaries, executors, administrators and the person(s) to whom the Option may be transferred by will or the laws of descent or distribution.
+
+16\. Severability. The invalidity or unenforceability of any provision of the Plan or this Agreement shall not affect the validity or enforceability of any other provision of the Plan or this Agreement, and each provision of the Plan and this Agreement shall be severable and enforceable to the extent permitted by law.
+
+17\. Discretionary Nature of Plan. The Plan is discretionary and may be amended, cancelled or terminated by the Company at any time, in its discretion. The grant of the Option in this Agreement does not create any contractual right or other right to receive any Options or other Awards in the future. Future Awards, if any, will be at the sole discretion of the Company. Any amendment, modification, or termination of the Plan shall not constitute a change or impairment of the terms and conditions of the Director's membership on the Board.
+
+6  
+  
+18\. Amendment. The Committee has the right to amend, alter, suspend, discontinue or cancel the Option, prospectively or retroactively; provided, that, no such amendment shall adversely affect the Director's material rights under this Agreement without the Director's consent.
+
+19\. Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original but all of which together will constitute one and the same instrument. Counterpart signature pages to this Agreement transmitted by facsimile transmission, by electronic mail in portable document format (.pdf), or by any other electronic means intended to preserve the original graphic and pictorial appearance of a document, will have the same effect as physical delivery of the paper document bearing an original signature.
+
+20\. Acceptance. The Director hereby acknowledges receipt of a copy of the Plan and this Agreement. The Director has read and understands the terms and provisions thereof, and accepts the Option subject to all of the terms and conditions of the Plan and this Agreement. The Director acknowledges that there may be adverse tax consequences upon exercise of the Option or disposition of the underlying shares and that the Director should consult a tax advisor prior to such exercise or disposition.
+
+[SIGNATURE PAGE FOLLOWS]
+
+7  
+  
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+
+Intellinetics, Inc.  
+By: /s/ Matthew L. Chretien  
+Name:  
+Title:  
+Murray Gross  
+By: /s/ Murray Gross  
+  
+8

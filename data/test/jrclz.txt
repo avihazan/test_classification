@@ -1,0 +1,200 @@
+Exhibit 10.31 
+
+OWENS & MINOR, INC. 
+
+
+
+THIS PERFORMANCE SHARE AWARD AGREEMENT (“Agreement”) dated as of between Owens & Minor, Inc., a Virginia corporation (the “Company”), and (“Participant”) is made pursuant to and subject to the provisions of the Company’s 2005 Stock Incentive Plan (the “Plan”). All capitalized terms used in this Agreement that are not otherwise defined shall have the same meanings given to them in the Plan. 
+
+1\. Grant of Performance Share Award. In accordance with the Plan, on (the “Date of Grant”), the Company granted to the Participant, subject to the terms and conditions of the Plan and the terms and conditions set forth in this Agreement, [insert applicable number of target shares] Performance Shares, subject to adjustment as provided in Section 2 (the “Performance Shares”). The Participant will earn the Performance Shares to the extent that the requirements of Section 2 are satisfied. The Company will issue shares of Common Stock in accordance with Section 3 in settlement of the Performance Shares, if any, that the Participant earns in accordance with Section 2, which shares of Common Stock (the “Restricted Stock”) will be further subject to the vesting and forfeiture provisions described in Section 4 (except as otherwise specifically provided in Section 3(b)). 
+
+2\. Earning Performance Shares. This Section 2 determines the number of Performance Shares that the Participant may earn under this Agreement. 
+
+(a) The Participant will earn Performance Shares based on achievement by the Company of the Performance Metrics (defined below) for fiscal years and . The number of Performance Shares earned by the Participant will be determined based upon the following formula, the terms of which are further defined below:   
+  
+(Weighted Performance Multiple) x (Target Shares)
+
+The Weighted Performance Multiple will be determined based on the following Performance Metrics and the definitions below:   
+  
+Performance Metrics *
+
+Weight Metric  
+Target Interval  
+  
+Change in Consolidated Operating Earnings
+
+50 %  $ **  $ **   
+  
+Change in Domestic Operating Earnings
+
+30 %  $ **  $ **   
+  
+International Average Return on Invested Capital
+
+20 %  %  %   
+  
+* International metrics will be measured in Euros. Consolidation of International segment results reported in Euros to Consolidated results reported in U.S. dollars will be performed using a fixed exchange rate.   
+** In millions.   
+  
+* * *
+
+Definitions:
+
+“Average Invested Capital” means the average of the beginning and ending invested capital for fiscal years and , where “invested capital” means total assets less non-interest bearing liabilities and cash. 
+
+“Change in Consolidated Operating Earnings” means, relative to Consolidated Operating Earnings in , the aggregate increase or decrease in Consolidated Operating Earnings during fiscal years and . 
+
+“Change in Domestic Operating Earnings” means, relative to Domestic Operating Earnings in , the aggregate increase or decrease in Domestic Operating Earnings during fiscal years and . 
+
+“Consolidated Operating Earnings” means the consolidated operating earnings presented in the Company’s consolidated audited income statement for the applicable year, adjusted to eliminate or exclude the effects of unusual or non-recurring items, including but not limited to, the effect of accounting and/or tax changes; tangible and intangible asset impairment charges; fees, expenses and charges associated with debt and/or equity financing transactions and merger and acquisition activity (including the purchase or sale of a business unit or its assets); gains/losses from asset sales not made in the ordinary course of business; retirement plan gains/losses; and gains/losses or charges associated with material litigation, regulatory, tax or insurance settlements. Adjustments to Consolidated Operating Earnings for purposes of determining any Performance Shares earned hereunder shall be taken into account only to the extent that they are separately identified or quantified in the Company’s consolidated audited financial statements, the notes to the consolidated financial statements, “Management’s Discussion and Analysis” in the Company’s Annual Report on Form 10-K or in other Company filings with the Securities and Exchange Commission. In addition to and notwithstanding the foregoing, the Committee may make any adjustments in its discretion that would reduce Operating Earnings for purposes of determining the number of Performance Shares earned hereunder. 
+
+“Domestic Operating Earnings” means the domestic operating earnings presented in the Company’s consolidated audited income statement for the applicable year, adjusted as provided in the definition of Consolidated Operating Earnings. 
+
+“International Average Return on Invested Capital” means, solely with respect to the business conducted through the Company’s international operations during fiscal years and , Operating Earnings After Tax divided by Average Invested Capital. 
+
+“International Operating Earnings” means the international operating earnings presented in the Company’s consolidated audited income statement for the applicable year, adjusted as provided in the definition of Consolidated Operating Earnings. 
+
+2 
+
+* * *
+
+“Interval” means, with respect to any Performance Metric, the applicable Interval specified in the table above. 
+
+“Metric Target” means, with respect to any Performance Metric, the applicable Metric Target specified in the table above. 
+
+“Operating Earnings After Tax” means (International Operating Earnings) x (1-the normalized effective [income] tax rate for the Company’s international segment, as determined by the Company’s tax department). 
+
+“Performance Metric” means each of (i) Change in Consolidated Operating Earnings; (ii) Change in Domestic Operating Earnings and (iii) Movianto Average Return on Invested Capital. 
+
+“Performance Multiple” means the following linear equation for each Performance Metric: ((actual performance result achieved during fiscal years and - the Metric Target) ÷ (Interval)) + 1. 
+
+“Target Shares” means [insert applicable number of target shares]. 
+
+“Weight” means, with respect to any Performance Metric, the applicable Weight specified in the table above. 
+
+“Weighted Performance Multiple” means the weighted average of the Performance Multiples for each Performance Metric (based on the Weight for each such metric in the table above), the maximum of which shall be capped at two (2) and the minimum of which shall be zero. 
+
+(b) Effect of Termination Prior to Issuance of Restricted Stock. Except as provided in subparagraphs (c), (d) and (e), no Performance Shares will be earned if the Participant’s employment with, and service to, the Company and its Affiliates terminates or is terminated before or the date on which Restricted Stock is issued as provided in Section 3(b). 
+
+(c) Death or Disability. This subparagraph (c) applies if the Participant’s employment with, and service to, the Company and its Affiliates terminates before January 1, 2015 or the date on which Restricted Stock is issued as provided in Section 3(b), on account of the Participant’s death or permanent and total disability (as defined in Section 22(e)(3) of the Code). In the event of the Participant’s death prior to January 1, 2015 or the date on which Restricted Stock is issued as provided in Section 3(b), the number of Performance Shares earned by the Participant shall equal the number determined in accordance with subparagraph (a). In the event the Participant’s employment terminates before or the date on which Restricted Stock is issued as provided in Section 3(b) due to permanent and total disability, the number of Performance Shares earned by the Participant shall equal the number determined in 
+
+3 
+
+* * *
+
+accordance with subparagraph (a) multiplied by a fraction. The numerator of the fraction shall be the number of whole months that the Participant was employed by, or providing services to, the Company or an Affiliate during the 24-month period beginning and ending (including any period that the Participant was absent from work for illness, injury or short term disability prior to termination of employment) and the denominator shall be 24. 
+
+(d) Retirement. This subparagraph (d) applies if the Participant’s employment with, and service to, the Company and its Affiliates terminates before or the date on which Restricted Stock is issued as provided in Section 3(b), on account of the Participant’s retirement (defined below). In the event of the Participant’s retirement before or the date on which Restricted Stock is issued as provided in Section 3(b), the number of Performance Shares earned by the Participant shall equal the number determined in accordance with subparagraph (a) multiplied by a fraction. The numerator of the fraction shall be the number of whole months that the Participant was employed by, or providing services to, the Company or an Affiliate during the 24-month period beginning and ending and the denominator shall be 24. For purposes of this Section 2(d), retirement shall mean severance from the employment of the Company and its Affiliates (i) at or after the attainment of age 55 and after completing a number of years of service (the total years of service credited to Participant for purposes of determining vested or nontransferable interest in a defined benefit pension plan maintained by the Company or an Affiliate which satisfies the requirements of Section 401(a) of the Code) that, when added to Participant’s age at the time of severance from employment, equals at least 65 or (ii) at or after the attainment of age 65. 
+
+(e) Change in Control. The Participant will earn the number of Performance Shares equal to Target Shares if there is a Change in Control before or the date on which Restricted Stock is issued as provided in Section 3(b). 
+
+3\. Settlement of Performance Shares. The Performance Shares will be settled in accordance with this Section 3. 
+
+(a) Committee Certification. As soon as practicable after December 31, (but no later than March 15, ), the Committee will determine the number of Performance Shares that are earned under the provisions of Section 2. The Committee’s determination shall be set forth in writing, as part of the minutes of a meeting of the Committee, by unanimous consent or otherwise. Notwithstanding the preceding sentences, a written determination of the Committee shall not be required in the case of Performance Shares that are earned pursuant to the provisions of Section 2(e). 
+
+(b) Issuance of Restricted Stock. As soon as practicable after the Committee’s certification under subparagraph (a) (but no later than March 15, ), the Committee shall issue shares of Restricted Stock under the Plan in settlement of the Performance Shares earned by the Participant. The number of shares of Restricted Stock issued shall equal the number of Performance Shares earned by the Participant. Notwithstanding the preceding sentences, (i) if the Performance Shares are earned 
+
+4 
+
+* * *
+
+pursuant to the provisions of Section 2(c) or 2(d), such Performance Shares shall be settled in shares of Common Stock that are not subject to the restrictions set forth in Section 4 and (ii) if the Performance Shares are earned pursuant to the provisions of Section 2(e), the number of shares of Restricted Stock indicated in Section 2(e) shall be issued to the Participant on the Control Change Date, and such shares of Restricted Stock shall otherwise be treated as provided in Section 4(c)(vi). 
+
+(c) Registration, etc. Shares of Restricted Stock issued in settlement of the Performance Shares shall be registered in the name of the Participant on the stock transfer books of the Company but shall be held by the Company (or its transfer agent) during the Restricted Period (defined below). The Company’s Secretary and its General Counsel shall serve as attorney-in-fact for Participant during the Restricted Period with full power and authority in Participant’s name to assign and convey to the Company any shares of Restricted Stock that Participant forfeits under Section 4(c) or that are recovered under Section 5. Each certificate representing shares of Restricted Stock may bear a legend referring to the risk of forfeiture of the shares and stating that such shares are nontransferable until all restrictions have been satisfied and the legend has been removed. 
+
+(d) Dividends. Upon issuance of shares of Restricted Stock in settlement of the Performance Shares earned by the Participant, the Company shall pay Participant in cash the amount of any dividends that would have been paid on the Performance Shares prior to settlement if the Performance Shares had been actual shares of Restricted Stock outstanding during the period from January 1, through December 31, . No dividends will be paid on the Performance Shares if Restricted Stock is not earned and issued hereunder. 
+
+4\. Terms of Restricted Stock. The shares of Restricted Stock issued in settlement of the Performance Shares are subject to the following terms and conditions: 
+
+(a) Restricted Period. Until (the “Restricted Period”) or the lapse of restrictions as provided in subparagraph (c) hereof, the Restricted Stock shall be subject to the following restrictions: 
+
+(i) Participant shall not be entitled to receive the certificate or certificates evidencing the Restricted Stock; 
+
+(ii) Shares of Restricted Stock may not be sold, transferred, assigned, pledged, conveyed, hypothecated or otherwise disposed of; and 
+
+(iii) Shares of Restricted Stock may be forfeited immediately as provided in subparagraph (c) hereof. 
+
+(b) Distribution of Restricted Stock. If Participant remains in the continuous employment of the Company or an Affiliate during the entire Restricted Period and otherwise does not forfeit such shares pursuant to subparagraph (c) hereof, all restrictions applicable to the shares of Restricted Stock shall lapse upon expiration 
+
+5 
+
+* * *
+
+of the Restricted Period and a certificate or certificates representing the shares of Common Stock that were granted to Participant in the form of shares of Restricted Stock shall be delivered to Participant. 
+
+(c) Lapse of Restrictions or Forfeiture.   
+  
+(i) Death. If Participant’s employment with the Company and its Affiliates is terminated before the expiration of the Restricted Period by reason of Participant’s death, all restrictions applicable to the shares of Restricted Stock shall immediately lapse on the date of Participant’s death and the certificate or certificates representing the shares of Common Stock shall be delivered to Participant’s estate.   
+  
+(ii) Disability. If Participant’s employment with the Company and its Affiliates is terminated before the expiration of the Restricted Period by reason of “total and permanent disability” (as such term is defined in Section 22(e)(3) of the Code), all restrictions on a pro rata number of shares of Restricted Stock shall lapse. The “pro rata number” shall be the number of shares of Restricted Stock multiplied by a fraction, the numerator of which is the number of months (including a fractional month) of Participant’s employment after the Date of Grant and the denominator of which is 36. The certificate or certificates representing the shares of Common Stock upon which the restrictions have lapsed shall be delivered to Participant.   
+  
+(iii) Retirement. If Participant’s employment with the Company and its Affiliates is terminated before the expiration of the Restricted Period by reason of retirement (defined below), all shares of Restricted Stock shall be forfeited immediately and all rights of Participant to such shares shall terminate immediately without further obligation on the part of the Company. Notwithstanding the foregoing, if Participant’s service to the Company or an Affiliate continues from and after the date of retirement through (i) membership on the Board, (ii) a written consulting services arrangement with the Company or an Affiliate or (iii) at the Company’s discretion, a written confidentiality and non-solicitation agreement with the Company (“Post-Retirement Service”), shares of Restricted Stock shall not be forfeited but shall continue to be held by the Company until the earlier of (i) the end of the Restricted Period at which time such shares shall be delivered to the Participant or (ii) the date Participant ceases to provide Post-Retirement Service at which time such shares shall be forfeited. For purposes of this subparagraph 4(c)(iii), retirement shall mean severance from the employment of the Company and its Affiliates (i) at or after the attainment of age 55 and after completing a number of years of service (the total years of service credited to Participant for purposes of determining vested or nontransferable interest in a defined benefit pension plan maintained by the Company or an Affiliate which satisfies the requirements of Section 401(a) of the Code) that, when added to Participant’s age at the time of severance from employment, equals at least 65 or (ii) at or after the attainment of age 65.   
+  
+6 
+
+* * *
+
+(iv) Termination of Employment by Company or Affiliate.   
+  
+(a) With Cause. If the Company or an Affiliate terminates Participant’s employment with the Company and its Affiliates with “cause,” all shares of Restricted Stock shall be forfeited immediately and all rights of Participant to such shares shall terminate immediately without further obligation on the part of the Company. For purposes of this Agreement, “cause” means: (i) misappropriation, theft or embezzlement of funds or property from the Company or an Affiliate or securing or attempting to secure personally any profit in connection with any transaction entered into on behalf of the Company or an Affiliate, (ii) conviction of, or entry of a plea of “nolo contendere” with respect to, a felony which, in the reasonable opinion of the Company, is likely to cause material harm to the Company’s or an Affiliate’s business, customer or supplier relations, financial condition or prospects, (iii) violation of the Company’s Code of Honor or any successor code of conduct; or (iv) failure to substantially perform (other than by reason of illness or temporary disability, regardless of whether such temporary disability is or becomes a total and permanent disability (as defined in subparagraph 4(c)(ii) above), or by reason of approved leave of absence) the duties of Participant’s job.   
+  
+(b) Without Cause. If Participant’s employment with the Company and its Affiliates is terminated by the Company or an Affiliate without “cause,” all restrictions on a pro rata number of shares of Restricted Stock shall lapse. The “pro rata number” shall be the number of shares of Restricted Stock multiplied by a fraction, the numerator of which is the number of months (including a fractional month) of Participant’s employment after the Date of Grant and the denominator of which is 36. The certificate or certificates representing the shares of Common Stock upon which the restrictions have lapsed shall be delivered to Participant.   
+  
+(v) Termination of Employment by Participant. If Participant resigns from employment with the Company and its Affiliates before the expiration of the Restricted Period, without regard to the reason for such resignation (other than death, disability or retirement as provided in subsections (i), (ii) and (iii) above), all of the shares of Restricted Stock shall be forfeited immediately and all rights of Participant to such shares shall terminate immediately without further obligation on the part of the Company.   
+  
+(vi) Change in Control.   
+  
+(a)
+
+If, upon a Change in Control, (i) the Restricted Stock is assumed by, or a substitute award granted by, the surviving entity (together with its Related Entities, the “Surviving Entity”) in the Change in Control (such assumed or substituted award to be of the same type of award as this Restricted Stock with a value as of the Control Change Date substantially equal to the value of this   
+  
+7 
+
+* * *
+
+Restricted Stock) and (ii) within 24 months of the Control Change Date, Participant’s employment with the Surviving Entity is terminated by the Surviving Entity without Cause (defined below) or by Participant for Good Reason (defined below), all restrictions applicable to the shares of Restricted Stock shall immediately lapse on the date of employment termination and the certificate or certificates representing the shares of Common Stock upon which the restrictions have lapsed shall be delivered to Participant.   
+  
+(b) For purposes of this subsection 4(c)(vi), “Cause” shall mean (i) the willful and continued failure by Participant to substantially perform his or her duties with the Surviving Entity (other than any such failure resulting from Participant’s incapacity due to physical or mental illness) after a written demand for substantial performance is delivered to Participant by the Surviving Entity, which demand specifically identifies the manner in which the Surviving Entity believes that Participant has not substantially performed his or her duties, or (ii) the willful engaging by Participant in conduct which is demonstrably and materially injurious to the Surviving Entity, monetarily or otherwise. For purposes of this paragraph, no act, or failure to act, on Participant’s part shall be deemed “willful” unless done, or omitted to be done, not in good faith and without reasonable belief that the action or omission was in the best interest of the Surviving Entity.   
+  
+(c) For purposes of this subparagraph 4(c)(vi), “Good Reason” shall have the meaning given to such term in the Executive Severance Agreement between Participant and the Company effective [January 1, 2011, as such agreement from time to time may be amended, modified, extended or replaced by a successor agreement or plan.   
+  
+(d) If, upon a Change in Control, the Restricted Stock is not assumed by, or a substitute award granted by, the Surviving Entity in the Change in Control as provided in subparagraph 4(c)(vi)(a) above, all restrictions applicable to the shares of Restricted Stock shall immediately lapse on the Control Change Date and the certificate or certificates representing the shares of Common Stock upon which the restrictions have lapsed shall be delivered to Participant.   
+  
+5\. Recoupment Policy. Notwithstanding any other provision in this Agreement to the contrary, the Stock Award and underlying Restricted Stock granted under this Agreement are subject to recoupment by the Company in accordance with the Company’s Policy on Recoupment of Executive Incentive Compensation in effect on the date of this Agreement, as such policy is interpreted and applied by the Company’s board of directors. 
+
+6\. Nontransferability. The Performance Shares are nontransferable except by will or by the laws of descent and distribution. Shares of Restricted Stock issued in settlement of the Performance Shares cannot be transferred before the Restricted Period lapses except by will or by the laws of descent and distribution. 
+
+8 
+
+* * *
+
+7\. Shareholder Rights. Except as otherwise specifically provided herein, the Participant shall not have any rights as a shareholder of the Company with respect to the Performance Shares. Upon the issuance of shares of Restricted Stock in settlement of the Performance Shares, the Participant shall have all of the rights of a shareholder of the Company with respect to those shares, including the right to vote the shares and to receive, free of all restrictions, ordinary cash dividends. Stock received as a dividend on, or in connection with a stock split of any shares of Restricted Stock issued in settlement of the Performance Shares shall be subject to the same vesting restrictions as the underlying shares of Restricted Stock. The Participant’s right to receive any extraordinary dividends or distributions with respect to shares of Restricted Stock issued in settlement of the Performance Shares shall be at the sole discretion of the Committee, but in the event of any such extraordinary event, the Committee shall take action appropriate to preserve the value of, and to prevent the unintended enhancement of value in, such shares of Restricted Stock. 
+
+8\. Withholding. The Participant shall pay the Company any amount of taxes as may be necessary in the opinion of the Company to satisfy tax withholding required under the laws of any country, state, province, city or other jurisdiction, including but not limited to income taxes, capital gains taxes, transfer taxes, and social security contributions. In lieu thereof, the Company shall have the right to retain, from the shares of Restricted Stock to be issued under Section 3, the number of shares of Restricted Stock with Fair Market Value equal to the minimum amount required to be withheld. In any event, the Company shall have the right to deduct from all amounts paid to a Participant in cash (whether under the Plan or otherwise) any taxes required to be withheld. The Participant shall promptly notify the Company of any election made pursuant of Section 83(b) of the Code. 
+
+9\. No Right to Continued Employment. The award and settlement of the Performance Shares does not give Participant any right with respect to continuance of employment by the Company or an Affiliate, nor shall it interfere in any way with the right of the Company or an Affiliate to terminate his or her employment at any time. 
+
+10\. Change in Capital Structure. The number of Performance Shares and the performance criteria in Section 2 (or, after any settlement of the Performance Shares, the number of shares of Restricted Stock) shall be adjusted as the Committee determines is equitably required in the event the Company effects one or more stock dividends, stock split-ups subdivisions or consolidations of shares, other similar changes in capitalization or such other events as are described in the Plan. 
+
+11\. Governing Law. This Agreement shall be governed by the laws of the Commonwealth of Virginia. 
+
+12\. Conflicts. In the event of any conflict between the provisions of the Plan as in effect on the Date of Grant and the provisions of this Agreement, the provisions of the Plan shall govern. All references herein to the Plan shall mean the plan as in effect on the Date of Grant. 
+
+9 
+
+* * *
+
+13\. Participant Bound by Plan. Participant hereby acknowledges that a copy of the Plan has been made available to him or her and he or she agrees to be bound by all the terms and provisions of the Plan. 
+
+14\. Binding Effect. Subject to the limitations stated above and in the Plan, this Agreement shall be binding upon Participant and his or her successors in interest and the successors of the Company. 
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.   
+  
+OWENS & MINOR, INC.  
+By:  
+  
+President & Chief Executive Officer  
+  
+Participant  
+  
+10 

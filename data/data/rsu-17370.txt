@@ -1,0 +1,412 @@
+Exhibit 10.3
+
+  
+
+
+  
+
+
+XERIUM TECHNOLOGIES, INC.
+
+
+
+(Employment Inducement Award) 
+
+Dated as of August 15, 2012
+
+THIS OPTION AGREEMENT is made by and between Xerium Technologies, Inc. (the “Company”) and Harold C. Bevis (the “Employee”).
+
+WHEREAS, the Employee has entered into an employment agreement, executed and effective as of the date hereof, by and between the Employee and the Company (the “Employment Agreement”); and
+
+WHEREAS, in accordance with the terms of the Employment Agreement, the Committee desires to award a nonqualified stock option to the Employee as an “employment inducement award” (within the meaning of Rule 303A.08 of the New York Stock Exchange Listed Company Manual).
+
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein, and for other good and valuable consideration, the parties agree as follows:  
+  
+1.
+
+The Option Award. In accordance with the employment inducement award exception to the shareholder approval requirements of the New York Stock Exchange (the “NYSE”) set forth in Rule 303A.00 of the New York Stock Exchange Listed Company Manual, the Company hereby grants to the Employee a nonqualified stock option (the “Option”) to acquire 781,701 shares of the Common Stock of the Company (the “Shares”) at the Option Price per Share of $4.00, the Fair Market Value on the date of the grant (the “Option Price”). It is understood that the grant of such Option is not made pursuant to the Company’s 2010 Equity Incentive Plan (the “Plan”) or any other equity-based incentive plan of the Company or its Affiliates; provided, however, that, unless inconsistent with the express terms of this Agreement, this Agreement shall be interpreted, and the Option shall be administered, consistent with the provisions of the Plan, the terms of which are herein incorporated by reference. The Option shall be exercisable, only to the extent that such Option is Vested, as provided in this Agreement. The Employee’s rights to the Option are subject to the restrictions described in this Agreement and the Plan in addition to such other restrictions, if any, as may be imposed by law. The future value of such Shares is unknown and cannot be predicted with certainty. If such Shares do not increase in value, the Option will have no value.  
+  
+2.
+
+Definitions. The following definitions will apply for purposes of this Agreement. Capitalized terms not defined in this Agreement shall have the same meaning as in the Plan, including without limitation the following terms: “Affiliate”; “Committee”; and “Covered Transaction”.  
+  
+(a)
+
+“Agreement” means this Option Agreement by and between the Company and the Employee.  
+  
+(b)
+
+“Award” means the grant of the Option in accordance with this Agreement.   
+  
+(c)
+
+“Cause” has the meaning ascribed to it in the Employment Agreement (as in effect on the date hereof).   
+  
+  
+
+
+1
+
+  
+
+
+* * *
+
+  
+  
+  
+(d)
+
+“Change of Control” has the meaning ascribed to it in the Employment Agreement (as in effect on the date hereof).   
+  
+(e)
+
+“Change of Control Termination” means a termination of the Employee’s employment with the Company or a member of the Company Group that occurs within three (3) months prior to or two (2) years following a Change of Control as a result of (x) termination by a member of the Company Group without Cause or (y) a Good Reason Termination.   
+  
+(f)
+
+“Common Stock” means the common stock of the Company, $0.001 par value.   
+  
+(g)
+
+“Company Group” means the Company together with its Affiliates.   
+  
+(h)
+
+“Fair Market Value” means, on the applicable date, or if the applicable date is not a date on which the NYSE is open the next preceding date on which the NYSE was open, the last sale price with respect to such Common Stock reported on the NYSE or, if on any such date such Common Stock is not quoted by NYSE, the average of the closing bid and asked prices with respect to such Common Stock, as furnished by a professional market maker making a market in such Common Stock selected by the Committee in good faith; or, if no such market maker is available, the fair market value of such Common Stock as of such day as determined in good faith by the Committee.   
+  
+(i)
+
+“Good Reason Termination” shall mean a termination of employment by the Employee with “Good Reason,” as such term is defined in the Employment Agreement (as in effect on the date hereof), where the Employee provides notice of the Good Reason event within 90 days of its occurrence and provides the Company at least 30 days to cure such matter.   
+  
+(j)
+
+“Grant Date” means August 15, 2012.   
+  
+(k)
+
+“Pro Rata Portion” shall mean the product of (x) a fraction, the numerator of which is, as of the time of measurement, the number of months (rounded down to the nearest whole number) occurring since the most recently occurring Vesting Date (or the Grant Date if a Vesting Date has not yet occurred) and the denominator of which is 12 and (y) (i) if the time of measurement is prior to the first Vesting Date, 33.33% of the portion of the Option not previously Vested; (ii) if the time of measurement is between the first and second Vesting Dates, 50% of the portion of the Option not previously Vested; or (iii) if the time of measurement is between the second and third Vesting Dates, 100% of the portion of the Option not previously Vested.  
+  
+(l)
+
+“Vested” means that portion of the Award to which the Employee has a nonforfeitable right.   
+  
+(m)
+
+“Vesting Dates” means the dates set forth in Section 3 of this Agreement.  
+  
+3.
+
+Term of Option. Subject to earlier termination under Section 7 hereof, the term of the Option shall be ten (10) years (the “Term”).   
+  
+  
+
+
+2
+
+  
+
+
+* * *
+
+  
+  
+  
+4.
+
+Vesting. Subject to Sections 5 and 6 below, the Employee shall not have the right to exercise the Option until the date the applicable portion of the Option becomes Vested based on the following schedule:   
+  
+  
+Vesting Date
+
+Portion of Option   
+Vested on Vesting Date  
+  
+August 15, 2014
+
+33.33%  
+  
+August 15, 2015
+
+33.33%  
+  
+August 15, 2016
+
+33.34%  
+  
+5.
+
+Change of Control. In the event of a Change of Control, the Option shall become fully Vested immediately prior to the closing of the Change of Control.   
+  
+6.
+
+Termination of Employment.  
+  
+(a)
+
+Resignation or Termination by the Company. If the Employee ceases to be employed by the Company Group prior to a Vesting Date as a result of resignation, dismissal or any other reason, then the portion of the Option that has not previously Vested shall be forfeited automatically; provided that (i) in the event of a termination by a member of the Company Group without Cause or a Good Reason Termination, a portion of the Award equal to the Pro Rata Portion as of the time of termination shall Vest immediately prior to such termination and (ii) in the event that the Employee’s employment termination is a Change of Control Termination, then the entire portion of the Award (or any substitute award) that is then not Vested shall become Vested on the date of termination.   
+  
+(b)
+
+Meaning of termination of employment. If the Company or a member of the Company Group provides Employee a written notice of termination of employment but the termination of employment is not effective for a period of more than thirty (30) days due to applicable law or contractual arrangements between a member of the Company Group and the Employee, for the purposes of this Award, including without limitation Section 6(a) hereof, the Employee’s employment shall be deemed terminated and the Employee shall be deemed ceased to be employed by the Company Group on the date that is thirty (30) days from the date of such notice instead of the actual date of termination.  
+  
+7.
+
+Termination of Option. The Option may not be exercised to any extent by anyone after the first to occur of the following events:  
+  
+(a)
+
+The expiration of the Term of the Option;   
+  
+(b)
+
+In the event of a termination of the Employee’s employment by the Company Group without Cause or a Good Reason Termination, one hundred twenty (120) days following the date of such a termination of service;  
+  
+(c)
+
+The date the Company Group terminates the Employee’s employment for Cause; or  
+  
+  
+
+
+3
+
+  
+
+
+* * *
+
+  
+  
+  
+(d)
+
+Twelve (12) months following the Employee’s termination of employment with the Company Group by reason of the Employee’s death or Disability.  
+  
+8.
+
+Exercise of Option. The Option may be exercised in whole or in part by delivery of an exercise notice in the form attached hereto (the “Exercise Notice”) which shall state the election to exercise the Option and set forth the number of Shares with respect to which the Option is being exercised. The Exercise Notice shall be accompanied by payment of an amount equal to the aggregate Option Price as to all exercised Shares. Payment of such amount shall be made in one or any combination of the following forms: (i) in cash or its equivalent, (ii) through a “net exercise” such that, without the payment of any funds, the Employee may exercise the Option and receive the net number of Shares equal to (x) the number of Shares as to which the Option is being exercised, multiplied by (y) a fraction, the numerator of which is the Fair Market Value per Share on the date less the Option Price per Share, and the denominator of which is such Fair Market Value per Share, rounded down to the nearest whole number, or (iii) in any other method approved or accepted by the Committee in its sole discretion. The Option shall be deemed to be exercised upon receipt by the Company of such fully executed Exercise Notice accompanied by the aggregate Option Price.   
+  
+9.
+
+Non-Transferability of Option. This Option may not be transferred in any manner otherwise than by will or the laws of descent and distribution and, during the Employee’s lifetime, may only be exercised by the Employee, provided that the Committee may permit transfers to the Employee’s family members or to certain entities controlled by the Employee or his or her family members. Any such permitted transferee shall be subject to all the terms and conditions of the Plan and Agreement, including the provisions relating to the termination of the right to exercise the Option.   
+  
+10.
+
+Miscellaneous.  
+  
+(a)
+
+Adjustments Based on Certain Changes in the Common Stock. In the event of any stock split, reverse stock split, stock dividend, recapitalization or similar change affecting the Common Stock, the Award shall be equitably adjusted in a manner that would not constitute a modification within the meaning of Treasury Regulation Section 1.409A-1(a)(5)(v).  
+  
+(b)
+
+No Rights as Stockholder. The Award shall not be interpreted to bestow upon the Employee any equity interest or ownership in the Company or any Affiliate or any rights as a stockholder.  
+  
+(c)
+
+No Assignment. No right or benefit or payment under the Award shall be subject to assignment or other transfer nor shall it be liable or subject in any manner to attachment, garnishment or execution except as otherwise provided herein.  
+  
+(d)
+
+Withholding. The Employee is responsible for payment of any taxes required by law to be withheld by the Company with respect to an Award. To facilitate that payment, the Company will, to the extent permitted by law, retain from the number of shares of Common Stock issued to the Employee on exercise that number of shares necessary for payment of the minimum tax withholding amount, valued at their Fair Market Value on the business day most immediately preceding the date of retention. To the extent the Company’s withholding obligation cannot   
+  
+  
+
+
+4
+
+  
+
+
+* * *
+
+  
+
+
+be satisfied by means of share withholding, the Company may, to the extent permitted by law, deduct any such tax obligations from any payment of any kind due to the Employee.  
+  
+(e)
+
+Employment Rights. This Agreement shall not create any right of the Employee to continued employment with the Company or its Affiliates or limit the right of Company or its Affiliates to terminate the Employee’s employment at any time and shall not create any right of the Employee to employment with the Company or any of its Affiliates. Except to the extent required by applicable law that cannot be waived, the loss of the Award shall not constitute an element of damages in the event of termination of the Employee’s employment even if the termination is determined to be in violation of an obligation of the Company or its Affiliates to the Employee by contract or otherwise.  
+  
+(f)
+
+Unfunded Status. The obligations of the Company hereunder shall be contractual only. The Employee shall rely solely on the unsecured promise of the Company and nothing herein shall be construed to give the Employee or any other person or persons any right, title, interest or claim in or to any specific asset, fund, reserve, account or property of any kind whatsoever owned by the Company or any Affiliate.  
+  
+(g)
+
+Severability. Any term or provision of this Agreement that is invalid or unenforceable in any situation in any jurisdiction will not affect the validity or enforceability of the remaining terms and provisions hereof or the validity or enforceability of the offending term or provision in any other situation or in any other jurisdiction. In the event that any provision hereof would, under applicable law, be invalid or unenforceable in any respect, such provision will be construed by modifying or limiting it so as to be valid and enforceable to the maximum extent compatible with, and possible under, applicable law.  
+  
+(h)
+
+Governing Law. This Agreement and all actions arising in whole or in part under or in connection herewith, will be governed by and construed in accordance with the domestic substantive laws of the State of Delaware, without giving effect to any choice or conflict of law provision or rule that would cause the application of the laws of any other jurisdiction.  
+  
+(i)
+
+409A. The Award shall be construed and administered consistent with the intent that it be at all times in compliance with, or exempt from, the requirements of Section 409A of the Internal Revenue Code and the regulations thereunder.  
+  
+(j)
+
+Amendment. This Agreement may be amended only by mutual written agreement of the parties.  
+  
+  
+
+
+[THE REMAINDER OF THIS PAGE LEFT BLANK INTENTIONALLY]
+
+  
+
+
+5
+
+  
+
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the undersigned have executed this Option Agreement as of the date first written above. 
+
+  
+
+
+  
+
+
+XERIUM TECHNOLOGIES, INC.
+
+  
+
+
+  
+
+
+  
+
+
+By: /s/ James F. Wilson 
+
+Name: James F. Wilson 
+
+Title: Chairman of the Board 
+
+  
+
+
+EMPLOYEE
+
+  
+
+
+  
+
+
+By:  Harold C. Bevis 
+
+Harold C. Bevis
+
+  
+
+
+  
+
+
+6
+
+  
+
+
+* * *
+
+  
+
+
+FORM OF EXERCISE NOTICE
+
+  
+
+
+(to be executed only upon exercise of Option)
+
+  
+
+
+Date: _____________
+
+  
+
+
+TO: Xerium Technologies, Inc. (the “Company”)
+
+RE: Election to Purchase Common Stock
+
+  
+
+
+The undersigned irrevocably elects to exercise the number of Options set forth below and directs that the shares of Common Stock delivered upon exercise of such Options be registered or placed in the name and at the address specified below and delivered thereto.   
+  
+Number of Options  
+  
+Social Security Number or 
+
+Other Identifying Number:  
+  
+Name  
+  
+Street Address:  
+  
+City, State and Zip Code:  
+  
+  
+
+
+  
+
+
+  
+
+
+Submitted by: Accepted by:
+
+  
+
+
+EMPLOYEE XERIUM TECHNOLOGIES, INC.
+
+  
+
+
+  
+
+
+_____________________________ By:__________________________________ 
+
+(Signature) Name: ______________________________
+
+Name:________________________ Title: _______________________________
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+7
+
+  
+

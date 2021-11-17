@@ -1,0 +1,196 @@
+* * *
+
+Exhibit 10.2
+
+[Amended and Restated Form of Grant for Employees under Plan]
+
+SEITEL, INC.
+
+
+
+THIS RESTRICTED STOCK AGREEMENT (this "Agreement") is made and entered into by and between Seitel, Inc., a Delaware corporation (the "Company"), and [Name of Employee] ("Grantee"), effective as of the grant date shown in Appendix A attached hereto pursuant to the Seitel, Inc. 2004 Stock Option Plan (the "Plan"). The Plan is incorporated by reference herein in its entirety. Capitalized terms not otherwise defined in this Agreement shall have the meaning given such terms as defined in the Plan.
+
+WHEREAS, Grantee is an employee of the Company and in connection with such employment, the Committee on behalf of the Company has authorized a grant to Grantee a number of restricted shares of the Company's Stock, par value $.01 per share (the "Common Stock"), effective [Date], in the amount indicated on Appendix A and which is pursuant to and shall be subject to the terms and conditions of this Agreement and the Plan, with a view to increasing Grantee's interest in the Company's welfare and growth; and
+
+WHEREAS, Grantee desires to receive shares of the Common Stock as Restricted Stock pursuant to this Agreement in connection with his employment.
+
+NOW, THEREFORE, in consideration of the premises, mutual covenants and agreements contained herein, and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto, intending to be legally bound hereby, agree as follows:
+
+1\. Grant of Common Stock. Subject to the restrictions, forfeiture provisions and other terms and conditions set forth herein (a) the Company hereby grants to Grantee the number of shares of Common Stock ("Restricted Shares") as set out in Appendix A hereto, and (b) subject to the terms hereof, Grantee shall have and may exercise rights and privileges of ownership of such Restricted Shares, including, without limitation, the voting rights of such shares and the right to receive dividends declared in respect thereof. This Agreement and the grant of Restricted Shares are subject to administration by and the rules and procedures established by the Committee under the Plan.
+
+2\. Transfer Restrictions; Vesting.
+
+(a) Generally. Grantee shall not sell, assign, transfer, exchange, pledge, encumber, gift, devise, hypothecate or otherwise dispose of (collectively, "Transfer") any Restricted Shares prior to their vesting in accordance with the Vesting Dates set out in Appendix A. Further, even after such Restricted Shares become vested, such vested Restricted Shares may not be sold or otherwise disposed of in any manner which would constitute a violation of any applicable federal or state securities laws or other applicable law, rules of any exchange on which the Company's securities are traded or listed, or Company rules or policies as determined by Company in its sole discretion. Restricted Shares shall vest as of each of the Vesting Dates set out in Appendix A provided that Grantee remains employed with the Company through the Vesting Date, except as may otherwise be provided herein.
+
+(b) Dividends, etc. If the Company (i) declares a dividend or makes a distribution on Common Stock in shares of Common Stock or (ii) subdivides or reclassifies outstanding shares of Common Stock into a greater number of shares of Common Stock or (iii) combines or reclassifies outstanding shares of Common Stock into a smaller number of shares of Common Stock, then the number of shares of Grantee's Common Stock subject to the transfer restrictions in this Agreement shall be proportionally increased or reduced as to prevent enlargement or dilution of Grantee's rights and duties hereunder. The determination of the Company's Board of Directors regarding such adjustment should be final and binding.
+
+3\. Vesting on Change in Control. Notwithstanding the provisions in Section 2, on the date immediately preceding the date of a Change in Control (as defined below), the Restricted Shares shall be 100% vested. For purposes of this Agreement, a "Change in Control" shall mean the occurrence of any of the following events:
+
+(a) any Person (other than the Company, any trustee or other fiduciary holding securities under any employee benefit plan of the Company, or any company owned, directly or indirectly, by the stockholders of the Company immediately prior to the occurrence with respect to which the evaluation is being made in substantially the same proportions as their ownership of the common stock of the Company) acquires securities of the Company and immediately thereafter is the Beneficial Owner (except that a Person shall be deemed to be the Beneficial Owner of all shares that any such Person has the right to acquire pursuant to any agreement or arrangement or upon exercise of conversion rights, warrants or options or otherwise, without regard to the 60-day period referred to in Rule 13d-3 under the Securities Exchange Act of 1934 (the "Exchange Act"), directly or indirectly, of securities of the Company representing 50% or more of the combined voting power of the Company's then outstanding securities (except that an acquisition of original issue securities directly from the Company shall not be deemed an acquisition for purposes of this clause (a));
+
+(b) during any period of two consecutive years, individuals who at the beginning of such period constitute the Board, and any new director (other than a director designated by a person who has entered into an agreement with the Company to effect a transaction described in clause (a), (c), or (d) of this paragraph) whose election by the Board or nomination for election by the Company's stockholders was approved by a vote of at least two thirds of the directors then still in office who either were directors at the beginning of the two-year period or whose election or nomination for election was previously so approved but excluding for this purpose any such new director whose initial assumption of office occurs as a result of either an actual or threatened election contest (as such terms are used in Rule 14a-11 of Regulation 14A promulgated under the Exchange Act) or other actual or threatened solicitation of proxies or consents by or on behalf of an individual, corporation, partnership, group, associate or other entity or Person other than the Board, cease for any reason to constitute at least a majority of the Board; 
+
+(c) the consummation of a merger or consolidation of the Company with any other entity, other than  (i) a merger or consolidation which would result in the voting securities of the Company outstanding immediately prior thereto continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving or resulting entity) more than 50% of the combined voting power of the surviving or resulting entity outstanding immediately after such merger or consolidation or (ii) a merger or consolidation in which no premium is intended to be paid to any shareholder participating in the merger or consolidation;
+
+(d) the stockholders of the Company approve a plan or agreement for the sale or disposition of all or substantially all of the consolidated assets of the Company (other than such a sale or disposition immediately after which such assets will be owned directly or indirectly by the stockholders of the Company, in substantially the same proportions as their ownership of the common stock of the Company immediately prior to such sale or disposition) in which case the Board shall determine the effective date of the Change in Control resulting therefrom; or
+
+(e) any other event occurs which the Board determines, in its discretion, would materially alter the structure of the Company or its ownership.
+
+(f) "Beneficial Owner" shall have the meaning ascribed to such term in Rule 13d-3 under the Exchange Act and any successor to such Rule.
+
+(g) "Person" shall have the meaning ascribed to such term in Section 3(a)(9) of the Exchange Act and used in Sections 13(d) and 14(d) thereof, and shall include a "group" as defined in Section 13(d) thereof.
+
+4\. Forfeiture.
+
+(a) Termination of Service. If Grantee's employment with the Company is terminated by the Company or Grantee for any reason, other than on account of Grantee's death or "Permanent Disability" (as defined in Section 22(e)(3) of the Internal Revenue Code of 1986, as amended) then Grantee shall immediately forfeit all Restricted Shares which are unvested unless the Committee, in its sole discretion, determines that any or all of such unvested Restricted Shares shall not be so forfeited..
+
+(b) Death or Permanent Disability. In the event of Grantee's death or Permanent Disability the Restricted Shares shall be 100% vested.
+
+(c) Forfeited Shares.  Any Restricted Shares forfeited under this Section 4 shall automatically revert to the Company and become canceled and such shares shall be again subject to the Plan as provided in Section 4 of the Plan. Any certificate(s) representing Restricted Shares which include forfeited shares shall only represent that number of Restricted Shares which have not been forfeited hereunder. Upon the Company's request, Grantee agrees for himself and any other holder(s) to tender to the Company any certificate(s) representing Restricted Shares which include forfeited shares for a new certificate representing the unforfeited number of Restricted Shares.
+
+5\. Issuance of Certificate.
+
+(a) The Company shall cause to be issued a stock certificate, registered in the name of the Grantee, evidencing the Restricted Shares upon receipt of a stock power duly endorsed in blank with respect to such shares. Each such stock certificate shall bear the following legend:
+
+THE TRANSFERABILITY OF THIS CERTIFICATE AND THE SHARES OF STOCK REPRESENTED HEREBY ARE SUBJECT TO THE RESTRICTIONS, TERMS AND CONDITIONS (INCLUDING FORFEITURE AND RESTRICTIONS AGAINST TRANSFER) CONTAINED IN THE RESTRICTED STOCK AGREEMENT ENTERED INTO BETWEEN THE REGISTERED OWNER OF SUCH SHARES AND SEITEL, INC. COPIES OF THE RESTRICTED STOCK AGREEMENT ARE ON FILE IN THE OFFICE OF THE SECRETARY OF SEITEL, INC., LOCATED AT 10811 S. WESTVIEW CIRCLE DRIVE, SUITE 100, BLDG. C, HOUSTON, TEXAS 77043.
+
+Such legend shall not be removed from the certificate evidencing Restricted Shares until such time as the restrictions thereon have lapsed.
+
+(b) The certificate issued pursuant to this Section 5, together with the stock powers relating to the Restricted Shares evidenced by such certificate, shall be held by the Company. The Company may issue to the Grantee a receipt evidencing the certificates held by it which are registered in the name of the Grantee.
+
+6\. Miscellaneous.
+
+(a) Certain Transfers Void. Any purported transfer of Restricted Shares in breach of any provision of this Agreement shall be void and ineffectual, and shall not operate to transfer any interest or title in the purported transferee.
+
+(b) No Fractional Shares. All provisions of this Agreement concern whole shares of Common Stock. If the application of any provision hereunder would yield a fractional share, the value of such fractional share shall be paid to the Grantee in cash.
+
+(c) Not an Agreement for Continued Employment or Services. This Agreement shall not, and no provision of this Agreement shall be construed or interpreted to, create any right of Grantee to continue employment with or provide services to the Company, Company affiliates, parent, subsidiary or their affiliates. 
+
+(d) Dispute Resolution.
+
+(i) Arbitration. All disputes and controversies of every kind and nature between any parties hereto arising out of or in connection with this Agreement or the transactions described herein as to the construction, validity, interpretation or meaning, performance, non-performance, enforcement, operation or breach, shall be submitted to arbitration pursuant to the following procedures:
+
+(1) After a dispute or controversy arises, any party may, in a written notice delivered to the other parties to the dispute, demand such arbitration. Such notice shall designate the name of the arbitrator (who shall be an impartial person) appointed by such party demanding arbitration, together with a statement of the matter in controversy.
+
+(2) Within 30 days after receipt of such demand, the other parties shall, in a written notice delivered to the first party, name such parties' arbitrator (who shall be an impartial person). If such parties fail to name an arbitrator, then the second arbitrator shall be named by the American Arbitration Association (the "AAA"). The two arbitrators so selected shall name a third arbitrator (who shall be an impartial person) within 30 days, or in lieu of such agreement on a third arbitrator by the two arbitrators so appointed, the third arbitrator shall be appointed by the AAA. If any arbitrator appointed hereunder shall die, resign, refuse or become unable to act before an arbitration decision is rendered, then the vacancy shall be filled by the method set forth in this Section for the original appointment of such arbitrator.
+
+(3) Each party shall bear its own arbitration costs and expenses. The arbitration hearing shall be held in Houston, Texas at a location designated by a majority of the arbitrators. The Commercial Arbitration Rules of the American Arbitration Association shall be incorporated by reference at such hearing and the substantive laws of the State of Texas (excluding conflict of laws provisions) shall apply.
+
+(4) The arbitration hearing shall be concluded within ten (10) days unless otherwise ordered by the arbitrators and the written award thereon shall be made within fifteen (15) days after the close of submission of evidence. An award rendered by a majority of the arbitrators appointed pursuant to this Agreement shall be final and binding on all parties to the proceeding, shall resolve the question of costs of the arbitrators and all related matters, and judgment on such award may be entered and enforced by either party in any court of competent jurisdiction.
+
+(5) Except as set forth in Section 6(e)(ii), the parties stipulate that the provisions of this Section shall be a complete defense to any suit, action or proceeding instituted in any federal, state or local court or before any administrative tribunal with respect to any controversy or dispute arising out of this Agreement or the transactions described herein. The arbitration provisions hereof shall, with respect to such controversy or dispute, survive the termination or expiration of this Agreement.
+
+No party to an arbitration may disclose the existence or results of any arbitration hereunder without the prior written consent of the other parties; nor will any party to an arbitration disclose to any third party any confidential information disclosed by any other party to an arbitration in the course of an arbitration hereunder without the prior written consent of such other party.
+
+(ii) Emergency Relief. Notwithstanding anything in this Section 6(d) to the contrary, any party may seek from a court any provisional remedy that may be necessary to protect any rights or property of such party pending the establishment of the arbitral tribunal or its determination of the merits of the controversy or to enforce a party's rights under Section 6(d).
+
+(e) Notices. Any notice, instruction, authorization, request or demand required hereunder shall be in writing, and shall be delivered either by personal in-hand delivery, by telecopy or similar facsimile means, by certified or registered mail, return receipt requested, or by courier or delivery service, addressed to the Company at the address indicated beneath its signature on the execution page of this Agreement, and to Grantee at his address indicated herewith, or at such other address and number as a party shall have previously designated by written notice given to the other party in the manner herein set forth. Notices shall be deemed given when received, if sent by facsimile means (confirmation of such receipt by confirmed facsimile transmission being deemed receipt of communications sent by facsimile means), and when delivered and receipted for (or upon the date of attempted delivery where delivery is refused), if hand-delivered, sent by express courier or delivery service, or sent by certified or registered mail, return receipt requested.
+
+(f) Amendment and Waiver. This Agreement may be amended, modified or superseded only by written instrument executed by the Company and Grantee. Any waiver of the terms or conditions hereof shall be made only by a written instrument executed and delivered by the party waiving compliance. Any amendment or waiver agreed to by the Company shall be effective only if executed and delivered by a duly authorized executive officer of the Company. The failure of any party at any time or times to require performance of any provisions hereof shall in no manner effect the right to enforce the same. No waiver by any party of any term or condition in this Agreement, or breach thereof, in one or more instances shall be deemed a continuing waiver of any such condition or breach, a waiver of any other condition, or the breach of any other term or condition.
+
+(g) Independent Legal and Tax Advice. The Grantee has been advised and Grantee hereby acknowledges that he has been advised to obtain independent legal and tax advice regarding this grant of the Restricted Shares and the disposition of such shares, including, without limitation, the election available under Section 83(b) of the Internal Revenue Code.
+
+(h) Governing Law and Severability. This Agreement shall be governed by the internal laws, and not the laws of conflict, of the State of Delaware. The invalidity of any provision of this Agreement shall not affect any other provision of this Agreement which shall remain in full force and effect.
+
+(i) Successors and Assigns. Subject to the limitations which this Agreement imposes upon transferability of Restricted Shares, this Agreement shall bind, be enforceable by and inure to the benefit of the Company and its successors and assigns, and Grantee, and, upon his death, on his estate and beneficiaries thereof (whether by will or the laws of descent and distribution).
+
+(j) Community Property. Each spouse individually is bound by, and such spouse's interest, if any, in any shares is subject to, the terms of this Agreement. Nothing in this Agreement shall create a community property interest where none otherwise exists.
+
+(k) Entire Agreement. This Agreement supersedes any and all other prior understandings and agreements, either oral or in writing, between the parties with respect to the subject matter hereof and constitute the sole and only agreements between the parties with respect to the said subject matter. All prior negotiations and agreements between the parties with respect to the subject matter hereof are merged into this Agreement. Each party to this Agreement acknowledges that no representations, inducements, promises, or agreements, orally or otherwise, have been made by any party or by anyone acting on behalf of any party, which are not embodied in this Agreement and that any agreement, statement or promise that is not contained in this Agreement shall not be valid or binding or of any force or effect.
+
+(l) Compliance with Other Laws and Regulations. This Agreement, the grant of Restricted Shares and issuance of Common Stock shall be subject to all applicable federal and state laws, rules, regulations and applicable rules and regulations of any exchanges on which such securities are traded or listed, and Company rules or policies. Any determination in this connection by the Committee shall be final, binding and conclusive on the parties hereto and on any third parties, including any individual or entity.
+
+(m) Tax Requirements.
+
+(i) Tax Withholding. This grant under this Agreement is subject to and the Company shall have the power and the right to deduct or withhold, or require the Grantee to remit to the Company, an amount sufficient to satisfy federal, state, and local taxes, domestic or foreign, required by law or regulation to be withheld with respect to any taxable event arising as a result of the Plan and this Agreement.
+
+(ii) Share Withholding. With respect to tax withholding required upon any taxable event arising as a result of this Agreement, Grantee may elect, subject to the approval of the Committee in its discretion, to satisfy the withholding requirement, in whole or in part, by having the Company withhold shares of Stock having a Fair Market Value on the date the tax is to be determined equal to the statutory total tax which could be imposed on the transaction. All such elections shall be made in writing, signed by the Grantee, and shall be subject to any restrictions or limitations that the Committee, in its discretion, deems appropriate. Any fraction of a share of Stock required to satisfy such obligation shall be disregarded and the amount due shall instead be paid in cash by the Grantee.
+
+(n) Grantee's Address. 
+
+Grantee's address of record is: _________________________________
+
+_________________________________
+
+_________________________________
+
+Grantee shall be responsible to notify the Company of any changes to his address.
+
+[Signature page follows]
+
+* * *
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed on the date first above written.
+
+COMPANY:
+
+SEITEL, INC.
+
+By:
+
+Name:
+
+Title:
+
+Address: Seitel, Inc.
+
+10811 S. Westview Circle Drive, 
+
+Suite 100, Bldg. C
+
+Houston, TX 77043
+
+Facsimile: (713) 881-2815
+
+Attention: Secretary
+
+GRANTEE:
+
+Signature
+
+Printed Name
+
+* * *
+
+  
+
+
+APPENDIX A TO
+
+RESTRICTED STOCK AGREEMENT
+
+Grantee's Name: [Name] 
+
+Grant Date:
+
+Number of
+
+Restricted Shares Granted  
+  
+__________________
+
+__________________  
+  
+Vesting Dates:
+
+Date
+
+Number of
+
+Restricted Shares Granted  
+  
+__________________
+
+33.3%  
+  
+__________________
+
+33.3%  
+  
+__________________
+
+33.4%  
+  
+Note: All vesting is subject to the terms and conditions of the Agreement.
+
+* * *

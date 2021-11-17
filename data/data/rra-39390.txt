@@ -1,0 +1,150 @@
+Exhibit 10.3
+
+
+
+REGISTRATION RIGHTS AGREEMENT made this 29th day of June, 2009 by and between The Amacore Group, Inc., a Delaware corporation (the “Company”), and Vicis Capital Master Fund, a trust formed under the laws of the Cayman Islands (the “Holder”), a series of the Vicis Capital Master Trust, a trust formed under the laws of the Cayman Islands.
+
+R E C I T A L S:
+
+WHEREAS, simultaneously herewith, the Company and the Holder are entering into a Preferred Stock Purchase Agreement (the “Purchase Agreement”) pursuant to which the Company is issuing to the Holder: (1) 450 shares of its Series L Convertible Preferred Stock, par value $.001 per share (the “Acquired Shares”), which are convertible into shares of the Company’s Class A Common Stock, par value $.001 per share (“Class A Common Stock”), and (2) a warrant to purchase an aggregate of 50,625,000 shares of the Company’s Class A Common Stock (the “Warrant”).
+
+WHEREAS, the execution and delivery of this Agreement is a condition to the closing of the Purchase Agreement.
+
+NOW THEREFORE, in consideration of the agreements set forth herein the parties agree as follows:
+
+1\. Definitions. As used in this Agreement, the following terms shall have the following respective meanings:
+
+(a) “Common Stock” means the Class A Common Stock, $.001 par value per share, of the Company and any equity securities issued or issuable with respect to the Class A Common Stock in connection with a reclassification, recapitalization, merger, consolidation or other reorganization.
+
+(b) “Conversion Shares” means the shares of Common Stock or other equity securities issued or issuable upon conversion of the Acquired Shares.
+
+(c) “Exchange Act” means the Securities Exchange Act of 1934, as amended, or any similar Federal statute, and the rules and regulations of the Commission issued under such Act, as they each may, from time to time, are in effect.
+
+(d) “Holder” shall have the meaning set forth in the Preamble and any of such Holder’s successors or assigns.
+
+(e) “Person” means any individual, corporation, limited liability company, limited or general partnership, joint venture, association, joint-stock company, trust, unincorporated organization or government or any agency or political subdivisions thereof.
+
+(f) “Registration Statement” means a registration statement filed by the Company with the Commission for a public offering and sale of securities of the Company (other than a registration statement on Form S-8 or Form S-4, or their successors, or any other form for a limited purpose, or any registration statement covering only securities proposed to be issued in exchange for securities or assets of another corporation or in connection with a merger, consolidation or acquisition).
+
+* * *
+
+(g) “Registration Expenses” means the expenses described in Section 4.
+
+(h) “Registrable Securities” means any (i) Conversion Shares, (ii) Warrant Shares, and (iii) shares of Common Stock issued or issuable, directly or indirectly, with respect to the Common Stock referenced above. As to any particular Registrable Securities, such securities shall cease to be Registrable Securities when (x) a registration statement with respect to the sale of such securities shall have been declared effective under the Securities Act and such securities shall have been disposed of in accordance with such registration statement, or (y) such securities shall have been sold (other than in a privately negotiated sale) pursuant to Rule 144 (or any successor provision) under the Securities Act, or (z) the Acquired Shares have been redeemed in full.
+
+(i) “SEC” means the Securities and Exchange Commission.
+
+(j) “Securities Act” means the Securities Act of 1933, as amended, or any similar Federal statute, and the rules and regulations of the Commission issued under such Act, as they each may from time to time, be in effect.
+
+(k) “Warrant Shares” means the shares of Common Stock or other equity securities issued or issuable upon exercise of the Warrant.
+
+2\. Piggyback Registration. If, at any time, the Company proposes or is required to register any of its equity securities or securities convertible or exchangeable for equity securities under the Securities Act pursuant to a Registration Statement, whether or not for its own account, the Company shall give prompt written notice of its intention to do so to each Holder of record of Registrable Securities. Upon the written request of any Holder, made within 10 days following the receipt of any such written notice (which request shall specify the maximum number of Registrable Securities intended to be disposed of by such Holder and the intended method of distribution thereof), the Company shall use its best efforts to cause all such Registrable Securities, each Holder of which have so requested the registration thereof, to be registered under the Securities Act (with the securities which the Company at the time proposes to register) to permit the sale or other disposition by each Holder (in accordance with the intended method of distribution thereof) of the Registrable Securities to be so registered. There is no limitation on the number of piggyback registrations pursuant to the preceding sentence which the Company is obligated to effect.
+
+3\. Registration Procedures.
+
+(a) If and whenever the Company is required by the provisions of this Agreement to use its best efforts to effect the registration of any of the Registrable Securities under the Securities Act, the Company shall:
+
+(i) file with the Commission a Registration Statement with respect to such Registrable Securities and use its best efforts to cause that Registration Statement to become and remain effective;
+
+2
+
+* * *
+
+(ii) as expeditiously as possible prepare and file with the Commission any amendments and supplements to the Registration Statement and the prospectus included in the Registration Statement as may be necessary to keep the Registration Statement effective for a period of not less than nine months from the effective date;
+
+(iii) as expeditiously as possible furnish to Holder such reasonable numbers of copies of the prospectus, including a preliminary prospectus, in conformity with the requirements of the Securities Act, and such other documents as the selling Stockholder may reasonably request in order to facilitate the public sale or other disposition of the Registrable Securities owned by the selling Stockholder and promptly notify the selling stockholder at any time when a prospectus is required to be delivered under the Securities Act, of the happening of any event as a result of which the prospectus would include an untrue statement of material fact or omit to state any material fact required to be stated therein or necessary to make the statements therein not misleading in light of the circumstances then existing; and
+
+(iv) as expeditiously as possible use its best efforts to register or qualify the Registrable Securities covered by the Registration Statement under the securities or Blue Sky laws of such states as the selling stockholders shall reasonably request, and do any and all other acts and things that may be necessary or desirable to enable the selling stockholders to consummate the public sale or other disposition in such states of the Registrable Securities owned by the selling stockholder; provided, however, that the Company shall not be required in connection with this Section 3(a) to qualify as a foreign corporation or execute a general consent to service of process in any jurisdiction.
+
+(b) If the Company has delivered preliminary or final prospectuses to the Holder and, after having done so, the prospectus is amended to comply with the requirements of the Securities Act, the Company shall promptly notify the Holder and, if requested, the Holder shall immediately cease making offers of Registrable Securities and return all prospectuses to the Company. The Company shall promptly provide the Holder with revised prospectuses and, following receipt of the revised prospectuses, the Holder shall be free to resume making offers of the Registrable Securities.
+
+4\. Allocation of Expenses. The Company will pay all Registration Expenses of all registrations under this Agreement. For purposes of this Section, the term “Registration Expenses” shall mean all expenses incurred by the Company in complying with this Agreement, including, without limitation, all registration and filing fees, exchange listing fees, printing expenses, fees and disbursements of counsel for the Company state Blue Sky fees and expenses, and the expense of any special audits incident to or required by any such registration, but excluding underwriting discounts, selling commissions and the fees and expenses of Holder's own counsel.
+
+5\. Indemnification and Contribution.
+
+(a) In the event of any registration of any of the Registrable Securities under the Securities Act pursuant to this Agreement, the Company will indemnify and hold harmless the seller of such Registrable Securities, and its directors and officers, each underwriter of such Registrable Securities, and each other person, if any, who controls such seller or underwriter within the meaning of the Securities Act or the Exchange Act against any losses, claims, damages or liabilities, joint or several, to which such seller, underwriter or controlling person may become subject under the Securities Act, the Exchange Act, state securities or Blue Sky laws or otherwise, in so far as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon any untrue statement or alleged untrue statement of any material fact contained in any Registration Statement under which such Registrable Securities were registered under the Securities Act, any preliminary prospectus or final prospectus contained in the Registration Statement, or any amendment or supplement to such Registration Statement, and any document incorporated therein by reference or arise out of or are based upon the omission or alleged omission to state a material fact required to be stated therein or necessary to make the statements therein not misleading; and the Company will reimburse such seller, underwriter and each such controlling person for any legal or any other expenses reasonably incurred by such seller, underwriter or controlling person in connection with investigating or defending any such loss, claim, damage, liability or action; provided, however, that the Company will not be liable in any such case to the extent that any such loss, claim, damage or liability arises out of or is based upon any untrue statement or omission made in such Registration Statement, preliminary prospectus or prospectus, or any such amendment or supplement, in reliance upon and in conformity with information furnished to the Company, in writing, by or on behalf of such seller, underwriter or controlling person specifically for use in the preparation thereof.
+
+3
+
+* * *
+
+(b) In the event of any registration of any of the Registrable Securities under the Securities Act pursuant to this Agreement, each seller of Registrable Securities, severally and not jointly, will indemnify and hold harmless the Company, each of its directors, and officers and each underwriter (if any) and each person, if any, who controls the Company or any such underwriter within the meaning of the Securities Act or the Exchange Act, against any losses, claims, damages or liabilities, joint or several, to which the Company, such directors and officers, underwriters or controlling person may become subject under the Securities Act, Exchange Act, state securities or Blue Sky laws or otherwise, insofar as such losses, claims, damages or liabilities (or actions in respect thereof) arise out of or are based upon any untrue statement or alleged untrue statement of a material fact contained in any Registration Statement under which such Registrable Securities were registered under the Securities Act, any preliminary prospectus or final prospectus contained in the Registration Statement, or any amendment or supplement to the Registration Statement, or arise out of or are based upon any omission or alleged omission to state a material fact required to be stated therein or necessary to make the statements therein not misleading, if the statement or omission was made in reliance upon and in conformity with information furnished in writing to the Company by or on behalf of such seller, specifically for use in connection with the preparation of such Registration Statement, prospectus, amendment or supplement; provided, however, that the obligations of such seller hereunder shall be limited to an amount equal to the net proceeds to such seller from Registrable Securities sold as contemplated herein.
+
+(c) Each party entitled to Indemnification under this Section 5 (the “Indemnified Party”) shall give notice to the party required to provide indemnification (the “Indemnifying Party”) promptly after such Indemnified Party has actual knowledge of any claim as to which indemnity may be sought, and shall permit the Indemnifying Party to assume the defense of any such claim or any litigation resulting therefrom; providing, that counsel for the Indemnifying Party, who shall conduct the defense of such claim or litigation, shall be approved by the Indemnified Party (whose approval shall not be unreasonably withheld); and, provided, further, that the failure of any Indemnified Party to give notice as provided herein shall not relieve the Indemnifying Party of its obligations under this Agreement, except to the extent the Indemnifying Party is actually prejudiced by the failure to give notice. The Indemnified Party may participate in such defense at such party's expense; provided, however, that the Indemnifying Party shall pay such expense if representation of such Indemnified Party by the counsel retained by the Indemnifying Party would be inappropriate due to actual or potential differing interests between the Indemnified Party and any other party represented by such counsel in such proceeding. No Indemnifying Party, in the defense of any such claim or litigation shall, except with the consent of each Indemnified Party, consent to entry of any judgment or enter into any settlement which does not include as an unconditional term thereof the giving by the claimant or plaintiff to such Indemnified Party of a release from all liability in respect of such claim or litigation, and no Indemnified Party shall consent to entry of any judgment or settle such claim or litigation without the prior written consent of the Indemnifying Party.
+
+4
+
+* * *
+
+(d) If the indemnification provided for herein is unavailable to or insufficient to hold harmless an Indemnified Party hereunder, then each Indemnifying Party shall contribute to the amount paid or payable by such Indemnified Party as a result of the losses, claims, damages or liabilities (or actions or proceedings in respect thereof) referred to herein in such proportion as is appropriate to reflect the relative fault of the Indemnifying Party on the one hand and the Indemnified Party on the other in connection with the statements, omissions, actions, or inactions which resulted in such losses, claims, damages or liabilities. The relative fault of the Indemnifying Party and the Indemnified Party shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Indemnifying Party or the Indemnified Party, any action or inaction by any such party, and the parties' relative intent, knowledge, access to information, and opportunity to correct or prevent such statement, omission, action, or inaction. No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation. Promptly after receipt by an Indemnified Party hereunder of written notice of the commencement of any action, suit, proceeding, investigation, or threat thereof with respect to which a claim for contribution may be made against an Indemnifying Party hereunder, such Indemnified Party shall, if a claim for contribution in respect thereto is to be made against an Indemnifying Party, give written notice to the Indemnifying Party of the commencement thereof (if the notice specified herein has not been given with respect to such action); provided, however, that the failure to so notify the Indemnifying Party shall not relieve it from any obligation to provide contribution which it may have to any Indemnified Party hereunder, except to the extent that the Indemnifying Party is actually prejudiced by the failure to give notice. The parties hereto agree that it would not be just and equitable if contribution pursuant hereto were determined by pro rata allocation or by any other method of allocation which does not take account of equitable considerations referred to herein.
+
+(e) The parties hereto agree that it would not be just and equitable if contribution pursuant to this Section 5 were determined by pro rata allocation or by any other method of allocation that does not take into account the equitable considerations referred to in the immediately preceding paragraph. Notwithstanding the provisions of this Section 5, contribution by any seller of Registrable Securities shall be limited in amount to the net amount of proceeds received by such seller from the sale of such Registrable Securities pursuant to such Registration Statement.
+
+5
+
+* * *
+
+(f) If indemnification is available hereunder, the Indemnifying Parties shall indemnify each Indemnified Party to the fullest extent provided herein, without regard to the relative fault of said Indemnifying Party or Indemnified Party or any other equitable consideration provided for herein. The provisions hereof shall be in addition to any other rights to indemnification or contribution which any Indemnified Party may have pursuant to law or contract, shall remain in full force and effect regardless of any investigation made by or on behalf of any Indemnified Party, and shall survive the transfer of securities by any such party.
+
+6\. Underwritten Offering.
+
+(a) In the case of any registration effected pursuant to this Agreement, the Company shall have the right to designate the managing underwriter in any underwritten offering with the consent of the Holder, which shall not be unreasonably withheld.
+
+(b) In the event that Registrable Securities are sold pursuant to a Registration Statement in an underwritten offering, the Company agrees to enter into an underwriting agreement containing customary representations and warranties with respect to the business and operations of an issuer of the securities being registered and customary covenants and agreements to be performed by such issuer, including without limitation customary provisions with respect to indemnification by the Company of the underwriters of such offering.
+
+7\. SEC Reports. With a view to making available to the Holder the benefits of Rule 144 promulgated under the Securities Act or any other similar rule or regulation of the SEC that may at any time permit the Holder to sell securities of the Company to the public without registration ("Rule 144"), the Company agrees to: (a) make and keep public information available, as those terms are understood and defined in Rule 144; (b) file with the SEC in a timely manner all reports and other documents required of the Company under the Securities Act and the Exchange Act so long as the Company remains subject to such requirements and the filing of such reports and other documents is required for the applicable provisions of Rule 144; (c) furnish to each Holder so long as such Holder owns Registrable Securities, promptly upon request, (i) a written statement by the Company, if true, that it has complied with the reporting requirements of Rule 144, the Securities Act and the Exchange Act, (ii) a copy of the most recent annual or quarterly report of the Company and such other reports and documents so filed by the Company, and (iii) such other information as may be reasonably requested to permit the Holder to sell such securities pursuant to Rule 144 without registration; and (d) so long as the Holder owns any Registrable Securities, if the Company is not required to file reports and other documents under the Securities Act and the Exchange Act, it will make available other information as required by, and so long as necessary to permit sales of Registrable Securities pursuant to, Rule 144.
+
+8\. Governing Law. This Agreement and the rights of the parties hereunder shall be governed in all respects by the laws of the State of New York wherein the terms of this Agreement were negotiated, without regard to the conflicts of laws thereof.
+
+6
+
+* * *
+
+9\. Consent to Jurisdiction; Waiver of Jury Trial. EACH OF THE PARTIES TO THIS AGREEMENT HEREBY IRREVOCABLY AND UNCONDITIONALLY SUBMITS TO THE EXCLUSIVE JURISDICTION OF THE STATE AND FEDERAL COURTS LOCATED THE STATE AND COUNTY OF NEW YORK FOR PURPOSES OF ALL LEGAL PROCEEDINGS ARISING OUT OF OR RELATING TO THIS AGREEMENT AND THE TRANSACTION DOCUMENTS. EACH OF THE PARTIES TO THIS AGREEMENT IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY OBJECTION WHICH SUCH PARTY MAY NOW OR HEREAFTER HAVE TO THE LAYING OF THE VENUE OF ANY SUCH PROCEEDING BROUGHT IN ANY SUCH COURTS AND ANY CLAIM THAT ANY SUCH PROCEEDING BROUGHT IN ANY SUCH COURTS HAS BEEN BROUGHT IN AN INCONVENIENT FORUM. EACH OF THE PARTIES HERETO IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY RIGHT TO TRIAL BY JURY IN ANY SUCH LEGAL PROCEEDING. EACH OF THE PARTIES TO THIS AGREEMENT HEREBY CONSENTS TO SERVICE OF PROCESS BY NOTICE IN THE MANNER SPECIFIED IN SECTION 7.6 OF THE PURCHASE AGREEMENT AND IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY LAW, ANY OBJECTION SUCH PARTY MAY NOW OR HEREAFTER HAVE TO SERVICE OF PROCESS IN SUCH MANNER.
+
+10\. Amendment. This Agreement may not be amended, discharged or terminated (or any provision hereof waived) without the written consent of the Company and the Holder.
+
+11\. Successors and Assigns. Except as otherwise expressly provided herein, the provisions hereof shall inure to the benefit of, and be binding upon and enforceable by and against, the successors, assigns, heirs, executors and administrators of the parties hereto. The Holder may assign its rights hereunder, and the Company may not assign its rights or obligations hereunder without the consent of the Holder or any of its successors, assigns, heirs, executors and administrators.
+
+12\. Further Assurances. The parties agree to execute and deliver all such further documents, agreements and instruments and take such other and further action as may be necessary or appropriate to carry out the purposes and intent of this Agreement.
+
+13\. Counterparts. This Agreement may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument.
+
+14\. Liquidated Damages. The Company agrees that the Holder will suffer damages if the Registration Statement is not filed and declared effective by the United States Securities and Exchange Commission (the “Commission”) at least 90 days prior to July 15, 2011 (the “Maturity Date”) or if the Registration Statement is not maintained in the manner contemplated herein. The Company and the Holder further agree that it would not be feasible to ascertain the extent of such damages with precision. Accordingly, if (a) the Registration Statement is not filed and declared effective by the SEC at least 90 days prior to the Maturity Date, or (b) after being declared effective, the Registration Statement ceases to be effective at any time prior to the nine month anniversary of the effectiveness date (any such failure or breach being referred to as an “Event” and the date on which such Event occurs being referred to as “Event Date”), the Company shall pay in cash as liquidated damages and not as a penalty to the Holder an amount equal to two percent (2.0%) of the aggregate stated value of the Acquired Shares then held by such Holder for each calendar month or portion thereof thereafter from the Event Date until the applicable Event is cured. Liquidated damages payable by the Company pursuant to this Section shall be payable on the first (1st) Business Day of each thirty (30) day period following the Event Date.
+
+  
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+  
+
+
+7
+
+* * *
+
+IN WITNESS WHEREOF, the parties hereto have hereunto set their hands to this instrument, as of the date first above written.
+
+THE AMACORE GROUP, INC.  
+  
+By: 
+
+/s/ Jay Shafer  
+Jay Shafer  
+Chief Executive Officer  
+HOLDER:  
+VICIS CAPITAL MASTER FUND  
+  
+By: Vicis Capital LLC  
+  
+/s/ Chris Phillips  
+Chris Phillips  
+Managing Director  
+  
+  
+
+
+8
+
+* * *

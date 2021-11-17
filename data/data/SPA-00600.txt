@@ -1,0 +1,386 @@
+##### 
+
+Exhibit 99.2 
+
+
+
+Dated as of December 5, 2006
+
+by and among
+
+HALOZYME THERAPEUTICS, INC.
+
+and
+
+ROCHE FINANCE LTD
+
+* * *
+
+#####   
+  
+Page  
+Article I Purchase and Sale of Common Stock 1  
+  
+Section 1.1 Purchase and Sale of Common Stock 1  
+  
+Section 1.2 Purchase Price and Closing 1  
+Article II Representations and Warranties 2  
+  
+Section 2.1 Representations and Warranties of the Company 2  
+  
+Section 2.2 Representations and Warranties of the Purchaser 6  
+Article III Covenants 7  
+  
+Section 3.1 Compliance 7  
+  
+Section 3.2 Use of Proceeds 7  
+  
+Section 3.3 Press Release 7  
+  
+Section 3.4 Short Selling 7  
+Article IV Conditions 8  
+  
+Section 4.1 Conditions Precedent to the Obligation of the Company to Sell the Shares 8  
+  
+Section 4.2 Conditions Precedent to the Obligation of the Purchaser to Purchase the Shares 8  
+Article V Miscellaneous 10  
+  
+Section 5.1 Fees and Expenses 10  
+  
+Section 5.2 Specific Performance; Consent to Jurisdiction 10  
+  
+Section 5.3 Entire Agreement; Amendment 10  
+  
+Section 5.4 Notices 10  
+  
+Section 5.5 Waivers 11  
+  
+Section 5.6 Headings 11  
+  
+Section 5.7 Successors and Assigns 11  
+  
+Section 5.8 No Third Party Beneficiaries 12  
+  
+Section 5.9 Counterparts 12  
+  
+Section 5.10 Severability 12  
+  
+Section 5.11 Further Assurances 12  
+  
+i 
+
+* * *
+
+##### 
+
+STOCK PURCHASE AGREEMENT
+
+This STOCK PURCHASE AGREEMENT (this “Agreement”), dated as of December 5, 2006, is entered into by and between Halozyme Therapeutics, Inc., a Nevada corporation (the “Company”), and Roche Finance Ltd, a Swiss company (the “Purchaser”), for the purchase and sale of 3,385,000 shares of the Company’s Common Stock, par value $.001 per share (the “Shares”). 
+
+WHEREAS, this Agreement is being entered into in connection with the execution of that certain License and Collaboration Agreement between the Company and Purchaser dated as of the date hereof (the “License Agreement”); and 
+
+WHEREAS, this Agreement, and the transaction contemplated hereby, is a material inducement for the parties to enter into the collaborative relationship established by the License Agreement. 
+
+NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants herein contained, the parties hereby agree as follows: 
+
+ARTICLE I
+
+Purchase and Sale of Common Stock
+
+Section 1.1 Purchase and Sale of Common Stock. Upon the following terms and conditions, the Company shall issue and sell to the Purchaser, and the Purchaser shall purchase from the Company, 3,385,000 shares of Common Stock at a price per share of $3.27 (the “Per Share Purchase Price”), for an aggregate purchase price of $11,068,950 as determined herein (the “Purchase Price”). The parties agree that the Per Share Purchase Price shall equal the higher of (i) 125% of the average closing price of the Company’s Common Stock as reported by the American Stock Exchange (“AMEX”) over the ninety (90) trading days immediately preceding, but not including, the date of this Agreement, or (ii) the closing price of the Company’s Common Stock as reported by AMEX for the trading day immediately preceding the date of this Agreement. At the Closing, the parties agree to execute a Registration Rights Agreement in the form attached hereto as Exhibit A (the “Rights Agreement”). 
+
+Section 1.2 Purchase Price and Closing. Subject to the terms and conditions hereof, the Company agrees to issue and sell to the Purchaser and, in consideration of and in express reliance upon the representations, warranties, covenants, terms and conditions of this Agreement, the Purchaser agrees to purchase the Shares. The closing of the purchase and sale of the Shares to be acquired by the Purchaser from the Company under this Agreement shall take place at the offices of the Company’s counsel, DLA Piper US LLP (the “Closing”) at 9:00 AM, San Diego time (i) on the effective date of the license granted under the License Agreement, provided, that all of the conditions set forth in Article IV hereof and applicable to the Closing shall have been fulfilled or waived in accordance herewith, or (ii) at such other time and place or on such date as the Purchaser and the Company may agree upon (the “Closing Date”). Subject to the terms and conditions of this Agreement, at the Closing the Company shall deliver or cause to be delivered to the Purchaser a certificate registered in the name of the Purchaser representing the number of Shares Purchaser is purchasing pursuant to the terms hereof. At the Closing, the Purchaser shall deliver the Purchase Price by wire transfer to an account designated by the Company. 
+
+* * *
+
+##### 
+
+ARTICLE II
+
+Representations and Warranties
+
+Section 2.1 Representations and Warranties of the Company. The Company hereby represents and warrants to the Purchaser as follows: 
+
+(a) Organization, Good Standing and Power. The Company is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Nevada and has the requisite corporate power to own, lease and operate its properties and assets and to conduct its business as it is now being conducted and as described in the documents filed by the Company with the Securities and Exchange Commission (the “Commission”) pursuant to the reporting requirements of the Securities Exchange Act of 1934, as amended (the “Exchange Act”) (all of the foregoing including filings incorporated by reference therein being referred to herein as the “Commission Documents”), since the end of its most recently completed fiscal year through the date hereof, including, without limitation, its most recent report on Form 10-Q. Other than wholly owned subsidiary Halozyme, Inc., a California corporation (the “Subsidiary”), the Company does not own securities of any kind in any other entity. The Company and the Subsidiary are qualified to do business as foreign corporations and are in good standing in every jurisdiction in which the nature of the business conducted or property owned by them makes such qualification necessary, except for any jurisdiction(s) (alone or in the aggregate) in which the failure to be so qualified will not have a Material Adverse Effect. For the purposes of this Agreement, “Material Adverse Effect” means any effect on the business, operations, properties or financial condition of the Company and its Subsidiary that is material and adverse to the Company and its Subsidiary, taken as a whole, and any condition, circumstance or situation that would prohibit the Company from entering into and performing any of its obligations hereunder. 
+
+(b) Authorization; Enforcement. The Company has the requisite corporate power and authority to enter into and perform this Agreement and to issue and sell the Shares in accordance with the terms hereof. The execution, delivery and performance of this Agreement by the Company and the consummation by it of the transactions contemplated hereby have been duly and validly authorized by all necessary corporate action, and no further consent or authorization of the Company, its Board of Directors or stockholders is required. When executed and delivered by the Company, this Agreement shall constitute a valid and binding obligation of the Company enforceable against the Company in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, reorganization, moratorium, liquidation, conservatorship, receivership or similar laws relating to, or affecting generally the enforcement of, creditor’s rights and remedies or by other equitable principles of general application. 
+
+(c) Issuance of Shares. The Shares have been duly authorized by all necessary corporate action and, when paid for and issued in accordance with the terms hereof, will be validly issued, fully paid and nonassessable and free and clear of all liens, encumbrances and rights of refusal of any kind (other than restrictions on transfer under applicable securities laws) and the holder of the Shares shall be entitled to all rights accorded to a holder of Common Stock. 
+
+2
+
+* * *
+
+##### 
+
+(d) No Conflicts; Governmental Approvals. The execution, delivery and performance of the Agreement by the Company and the consummation by the Company of the transactions contemplated hereby do not and will not (i) violate any provision of the Company’s Articles of Incorporation (the “Articles”) or Bylaws (the “Bylaws”), each as amended to date, or the Subsidiary’s comparable charter documents, (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, mortgage, deed of trust, indenture, note, bond, license, lease agreement, instrument or obligation to which the Company or its Subsidiary is a party or by which the Company or its Subsidiary’s respective properties or assets are bound, or (iii) result in a violation of any federal, state, local or foreign statute, rule, regulation, order, judgment or decree (including federal and state securities laws and regulations) applicable to the Company or its Subsidiary or by which any property or asset of the Company or its Subsidiary are bound or affected, except for such conflicts, defaults, terminations, amendments, acceleration, cancellations and violations as would not, individually or in the aggregate, have a Material Adverse Effect. Neither the Company nor its Subsidiary is required under federal, state, foreign or local law, rule or regulation to obtain any consent, authorization or order of, or make any filing or registration with, any court or governmental agency in order for it to execute, deliver or perform any of its obligations under this Agreement or issue and sell the Shares in accordance with the terms hereof (other than any filings, consents and approvals which may be required to be made by the Company under applicable state and federal securities laws, rules or regulations prior to or subsequent to the Closing). 
+
+(e) Commission Documents, Financial Statements. The Common Stock of the Company is registered pursuant to Section 12(g) of the Exchange Act. During the two year period preceding the Closing Date, the Company has timely filed all reports, schedules, forms, statements and other documents required to be filed by it with the Commission pursuant to the reporting requirements of the Exchange Act. At the times of their respective filing, all such reports, schedules, forms, statements and other documents complied in all material respects with the requirements of the Exchange Act and the rules and regulations of the Commission promulgated thereunder and other federal, state and local laws, rules and regulations applicable to such documents. At the times of their respective filings, such reports, schedules, forms, statements and other documents did not contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. As of their respective dates, the financial statements of the Company included in the Commission Documents complied in all material respects with applicable accounting requirements and the published rules and regulations of the Commission or other applicable rules and regulations with respect thereto. Such financial statements have been prepared in accordance with generally accepted accounting principles applied on a consistent basis during the periods involved (except (i) as may be otherwise indicated in such financial statements or the notes thereto or (ii) in the case of unaudited interim statements, to the extent they may not include footnotes or may be condensed or summary statements), and fairly present in all material respects the consolidated financial position of the Company as of the dates thereof and the results of operations and cash flows for the periods then ended (subject, in the case of unaudited statements, to normal year-end audit adjustments). 
+
+3
+
+* * *
+
+##### 
+
+(f) No Material Adverse Change. Except as disclosed in the Commission Documents, since September 30, 2006, neither the Company nor its Subsidiary has (i) experienced or suffered any Material Adverse Effect, (ii) incurred any liabilities, obligations, claims or losses (whether liquidated or unliquidated, secured or unsecured, absolute, accrued, contingent or otherwise) other than those incurred in the ordinary course of the Company’s or its Subsidiary’s respective businesses or (iii) declared, made or paid any dividend or distribution of any kind on their capital stock. 
+
+(g) No Undisclosed Events or Circumstances. Except as disclosed in the Commission Documents, since September 30, 2006, except for the consummation of the transactions contemplated herein, to the Company’s knowledge, no event or circumstance has occurred or exists with respect to the Company or its Subsidiary or their respective businesses, properties, operations or financial condition, which, under applicable law, rule or regulation, requires public disclosure or announcement by the Company but which has not been so publicly announced or disclosed. 
+
+(h) Disclosure; Non-Public Information. Neither this Agreement nor any other documents, certificates or instruments furnished to the Purchaser by or on behalf of the Company or its Subsidiary in connection with the transactions contemplated by this Agreement contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made herein or therein, in the light of the circumstances under which they were made herein or therein, not misleading. Except with respect to the material terms and conditions of the transaction contemplated by this Agreement, which shall be publicly disclosed by the Company pursuant to applicable law, the Company confirms that neither it nor any person acting on its behalf has provided the Purchaser with any information that the Company believes constitutes material, non-public information. 
+
+(i) Litigation. No action, suit, proceeding or investigation is currently pending or, to the knowledge of the Company, has been threatened in writing against the Company that: (i) concerns or questions the validity of this Agreement; (ii) concerns or questions the right of the Company to enter into this Agreement; or (iii) is reasonably likely to have a Material Adverse Effect. The Company is neither a party to nor subject to the provisions of any order, writ, injunction, judgment or decree of any court or government agency or instrumentality. There is no action, suit, proceeding or investigation by the Company currently pending or that the Company intends to initiate. 
+
+(j) Compliance. Except for defaults or violations which are not reasonably likely to have a Material Adverse Effect, neither the Company nor its Subsidiary (i) is in default under or in violation of (and no event has occurred that has not been waived that, with notice or lapse of time or both, would result in a default by the Company or its Subsidiary under), nor has the Company or its Subsidiary received notice of a claim that it is in default under or that it is in violation of, any indenture, loan or credit agreement or any other agreement or instrument to which it is a party or by which it or any of its properties is bound (whether or not such default or violation has been waived), (ii) is in violation of any order of any court, arbitrator or 
+
+4
+
+* * *
+
+##### 
+
+governmental body, or (iii) is or has been in violation of any statute, rule or regulation of any governmental authority, including without limitation all foreign, federal, state and local laws applicable to its business. 
+
+(k) Patents and Other Proprietary Rights. 
+
+(i) Each of the Company and its Subsidiary has entered into agreements with each of its officers, employees and consultants involved in research and development work, including development of the Company’s and its Subsidiary’s products and technology providing the Company or its Subsidiary, to the extent permitted by law, with title and ownership to patents, patent applications, trade secrets and inventions conceived, developed, reduced to practice by such person, solely or jointly with other of such persons, during the period of employment by the Company or its Subsidiary. The Company is not aware that any of its or its Subsidiary’s employees or consultants is in violation thereof.¶ 
+
+(ii) To the knowledge of the Company, the Company or its Subsidiary owns or possesses adequate licenses or other rights to use all patents, patent applications, trademarks, trademark applications, trade secrets, service marks, trade names, copyrights, inventions, drawings, designs, customer lists, proprietary know-how or information, or other rights with respect thereto (collectively referred to as “Company Proprietary Rights”), used in the business of the Company or its Subsidiary, and the Company Proprietary Rights are to the knowledge of the Company sufficient to conduct its or its Subsidiary’s business as it has been conducted and is now being conducted, without any known conflicts with, or infringement of, the rights of others.¶ 
+
+(iii) To the knowledge of the Company, there are no facts or alleged facts which would reasonably serve as a basis for any claim that the Company or its Subsidiary does not have the right to use, free of any rights or claims of others, all Company Proprietary Rights in the development, manufacture, use, sale or other disposition of any or all products or services presently used, furnished or sold in the business of the Company or its Subsidiary, subject to the terms, conditions and restrictions in any license agreement related to any Company Proprietary Rights.¶ 
+
+(iv) Neither the Company nor its Subsidiary has received any written communications alleging that the Company or its Subsidiary has violated or, by conducting its business as proposed, would violate any of the patents, trademarks, service marks, trade names, domain names, copyrights, trade secrets or other proprietary rights or processes of any other person or entity 
+
+(l) Environmental Regulations. Except for failures which are not reasonably likely to have a Material Adverse Effect, as of the date hereof each of the Company and its Subsidiary has met all applicable local, state, federal and national environmental regulations and has disposed of its waste products and effluents, if any, and/or has caused others to dispose of such waste products and effluents, if any, in accordance with all applicable state, local, federal and national environmental regulations and in such a manner that, to the knowledge of the Company or its Subsidiary: (a) no harm has resulted or will likely result to any of its respective employees or properties or to any other person or entities or their properties, and (b) neither the Company nor its Subsidiary has incurred any liability with respect thereto. 
+
+5
+
+* * *
+
+##### 
+
+Section 2.2 Representations and Warranties of the Purchaser. The Purchaser hereby represents and warrants to the Company as follows: 
+
+(a) Purchaser Sophistication. The Purchaser represents and warrants to, and covenants with, the Company that (a) the Purchaser is knowledgeable, sophisticated and experienced in making, and is qualified to make decisions with respect to, investments in shares presenting an investment decision like that involved in the purchase of the Shares, including investments in securities issued by the Company and investments in comparable companies, and has requested, received, reviewed and considered all information it deemed relevant in making an informed decision to purchase the Shares and (b) the Purchaser, in connection with its decision to purchase the Shares, relied only upon the Company’s regular reports on Forms 10-KSB, 10-Q and 8-K as filed by the Company with the Commission, other publicly available information, and the representations and warranties of the Company contained herein. 
+
+(b) Authorization and Power. The Purchaser has the requisite power and authority to enter into and perform this Agreement and to purchase the Shares being sold to it hereunder. The execution, delivery and performance of this Agreement by the Purchaser and the consummation by it of the transactions contemplated hereby have been duly authorized by all necessary corporate action, and no further consent or authorization of such Purchaser or its Board of Directors or stockholders is required. When executed and delivered by the Purchaser, this Agreement shall constitute a valid and binding obligation of the Purchaser enforceable against the Purchaser in accordance with its terms, except as such enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium, liquidation, conservatorship, receivership or similar laws relating to, or affecting generally the enforcement of, creditor’s rights and remedies or by other equitable principles of general application. 
+
+(c) No Conflict. The execution, delivery and performance of this Agreement by the Purchaser and the consummation by the Purchaser of the transactions contemplated hereby do not and will not (i) violate any provision of the Purchaser’s charter or organizational documents, (ii) conflict with, or constitute a default (or an event which with notice or lapse of time or both would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, any agreement, mortgage, deed of trust, indenture, note, bond, license, lease agreement, instrument or obligation to which the Purchaser is a party or by which the Purchaser’s respective properties or assets are bound, or (iii) result in a violation of any federal, state, local or foreign statute, rule, regulation, order, judgment or decree (including federal and state securities laws and regulations) applicable to the Purchaser or by which any property or asset of the Purchaser are bound or affected, except, in all cases, other than violations pursuant to clauses (i) or (iii) (with respect to federal and state securities laws) above, for such conflicts, defaults, terminations, amendments, acceleration, cancellations and violations as would not, individually or in the aggregate, materially and adversely affect the Purchaser’s ability to perform its obligations under the Agreement. 
+
+6
+
+* * *
+
+##### 
+
+(d) Restricted Shares. The Purchaser acknowledges that the Shares are restricted securities and must be held indefinitely unless subsequently registered under the Securities Act or the Company receives an opinion of counsel satisfactory to the Company that such registration is not required. The Purchaser is aware of the provisions of Rule 144 promulgated under the Securities Act which permit limited resale of stock purchased in a private placement subject to the satisfaction of certain conditions, including, among other things, the existence of a public market for the stock, the availability of certain current public information about the Company, the resale occurring not less than one year after a party has purchased and paid for the stock to be sold, the sale being through a “broker’s transaction” or a transaction directly with a “market maker” and the number of shares of the stock being sold during any three-month period not exceeding specified limitations. The Purchaser further acknowledges and understands that the Company may not be satisfying the current public information requirement of Rule 144 at the time the Purchaser wishes to sell the Securities and, if so, the Purchaser would be precluded from selling the Securities under Rule 144 even if the one year minimum holding period has been satisfied. 
+
+(e) Short Sales. The Purchaser represents, warrants and agrees that it has not engaged in any short selling of the Company’s securities, or established or increased any “put equivalent position” as defined in Rule 16(a)-1(h) under the Securities Exchange Act of 1934 with respect to the Company’s securities, within the past 30 trading days. 
+
+ARTICLE III
+
+Covenants
+
+Section 3.1 Compliance. The Company shall use commercially reasonable efforts to (i) cause its Common Stock to continue to be registered under Section 12(g) of the Exchange Act, file all periodic reports thereunder and continue the listing or trading of its Common Stock on AMEX or any successor market in good standing and (ii) to satisfy the current public information requirement of Rule 144 at all times during which the Purchaser holds any Securities. 
+
+Section 3.2 Use of Proceeds. The Company shall apply the proceeds from the sale of the Shares to ongoing operations, or for such other uses as determined by the Company’s Board of Directors. 
+
+Section 3.3 Press Release. The Company and the Purchaser agree that the Company and the Purchaser shall issue a joint press release announcing the transaction contemplated by this Agreement prior to the opening of the financial markets in New York City on the business day immediately after the date hereof. 
+
+Section 3.4 Short Selling. For so long as Purchaser owns any of the Shares, neither the Purchaser nor any of its affiliates shall engage in any short selling of the Company’s securities, or establish or increase any “put equivalent position” as defined in Rule 16(a)-1(h) under the Securities Exchange Act of 1934 with respect to the Company’s securities. 
+
+7
+
+* * *
+
+##### 
+
+ARTICLE IV
+
+Conditions
+
+Section 4.1 Conditions Precedent to the Obligation of the Company to Sell the Shares. The obligation hereunder of the Company to issue and sell the Shares to the Purchaser at the Closing Date is subject to the satisfaction or waiver, at or before the Closing of the conditions set forth below. These conditions are for the Company’s sole benefit and may be waived by the Company at any time in its sole discretion. 
+
+(a) Accuracy of the Purchaser’s Representations and Warranties. The representations and warranties of the Purchaser shall be true and correct in all material respects as of the date when made and as of the Closing Date as though made at that time, except for representations and warranties that are expressly made as of a particular date, which shall be true and correct in all material respects as of such date. 
+
+(b) Performance by the Purchaser. The Purchaser shall have performed, satisfied and complied in all material respects with all covenants, agreements and conditions required by this Agreement to be performed, satisfied or complied with by the Purchaser at or prior to the Closing Date. 
+
+(c) No Injunction. No statute, rule, regulation, executive order, decree, ruling or injunction shall have been enacted, entered, promulgated or endorsed by any court or governmental authority of competent jurisdiction which prohibits the consummation of any of the transactions contemplated by this Agreement. 
+
+(d) Approval of Additional Share Listing Application. The Company shall have received approval from AMEX of an additional share listing application for the Shares. 
+
+(e) Regulatory Approvals. Purchaser and the Company shall have timely obtained from each governmental entity all approvals, waivers and consents, necessary for consummation of or in connection with the transactions contemplated by this Agreement, including, without limitation, such approvals, waivers and consents as may be required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. 
+
+(f) Execution of License Agreement. On the Closing Date, each party to the License Agreement shall have delivered its signature to the License Agreement to the other party. 
+
+(g) Delivery of Purchase Price. The Purchase Price for the Shares shall have been delivered to the Company on the Closing Date. 
+
+Section 4.2 Conditions Precedent to the Obligation of the Purchaser to Purchase the Shares. The obligation hereunder of the Purchaser to purchase the Shares and consummate the transactions contemplated by this Agreement is subject to the satisfaction or waiver, at or before the Closing Date, of each of the conditions set forth below. These conditions are for the Purchaser’s sole benefit and may be waived by the Purchaser at any time in their sole discretion. 
+
+8
+
+* * *
+
+##### 
+
+(a) Accuracy of the Company’s Representations and Warranties. Each of the representations and warranties of the Company in this Agreement shall be true and correct in all material respects as of the Closing Date, except for representations and warranties that speak as of a particular date, which shall be true and correct in all material respects as of such date. 
+
+(b) Performance by the Company. The Company shall have performed, satisfied and complied in all material respects with all covenants, agreements and conditions required by this Agreement to be performed, satisfied or complied with by the Company at or prior to the Closing Date. 
+
+(c) No Suspension, Etc. Trading in the Common Stock shall not have been suspended by the Commission or AMEX. The Company shall have received approval from AMEX of an additional share listing application for the Shares. 
+
+(d) No Injunction. No statute, rule, regulation, executive order, decree, ruling or injunction shall have been enacted, entered, promulgated or endorsed by any court or governmental authority of competent jurisdiction which prohibits the consummation of any of the transactions contemplated by this Agreement. 
+
+(e) Regulatory Approvals. Purchaser and the Company shall have timely obtained from each governmental entity all approvals, waivers and consents, necessary for consummation of or in connection with the transactions contemplated by this Agreement, including, without limitation, such approvals, waivers and consents as may be required under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. 
+
+(f) No Proceedings or Litigation. No action, suit or proceeding before any arbitrator or any governmental authority shall have been commenced, and no investigation by any governmental authority shall have been threatened in writing against the Company or any Subsidiary, or any of the officers, directors or affiliates of the Company or any Subsidiary seeking to restrain, prevent or change the transactions contemplated by this Agreement, or seeking damages in connection with such transactions. 
+
+(g) Execution of License Agreement. On the Closing Date, each party shall have delivered its signature to the License Agreement to the other party and the license granted thereunder shall be fully effective. 
+
+(h) Shares. At the Closing, the Company shall have delivered to the Purchaser a duly executed certificate representing the Shares being acquired by the Purchaser at the Closing. 
+
+(i) Execution of Rights Agreement. On the Closing Date, each party shall have delivered its signature to the Rights Agreement to the other party, and such agreement shall be in full force and effect as of such date. 
+
+(j) Officer’s Certificate. On the Closing Date, the Company shall have delivered to the Purchaser a certificate signed by an executive officer on behalf of the Company (the “Officer’s Certificate”), dated as of the Closing Date, confirming the accuracy of the Company’s representations, warranties and covenants as of the Closing Date and confirming the 
+
+9
+
+* * *
+
+##### 
+
+compliance by the Company with the conditions precedent set forth in paragraphs (a) and (b) of this Section 4.2 as of the Closing Date, provided, however, that any inaccuracies in such representations and warranties identified on such Officer’s Certificate will be disregarded by the Purchaser if the circumstances giving rise to all such inaccuracies (considered collectively) do not constitute a Material Adverse Effect on the Company. 
+
+ARTICLE V
+
+Miscellaneous
+
+Section 5.1 Fees and Expenses. Each party shall pay the fees and expenses of its advisors, counsel, accountants and other experts, if any, and all other expenses, incurred by such party incident to the negotiation, preparation, execution, delivery and performance of this Agreement. 
+
+Section 5.2 Specific Performance; Consent to Jurisdiction. 
+
+(a) The Company and the Purchaser acknowledge and agree that irreparable damage would occur in the event that any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly agreed that the parties shall be entitled to an injunction or injunctions to prevent or cure breaches of the provisions of this Agreement and to enforce specifically the terms and provisions hereof, this being in addition to any other remedy to which any of them may be entitled by law or equity. 
+
+(b) The parties agree that this Agreement, and any disputes arising under this Agreement, will be governed by and construed in accordance with the laws of the state of California, without giving effect to any conflict of laws principles to the contrary. The parties irrevocably consent to personal jurisdiction in the state and federal courts of the state of California, and the exclusive venue for any such action shall be a state or federal court located in California. The Company and the Purchaser consent to process being served in any such suit, action or proceeding by mailing a copy thereof to such party at the address in effect for notices to it under this Agreement and agrees that such service shall constitute good and sufficient service of process and notice thereof. Nothing in this Section 5.2 shall affect or limit any right to serve process in any other manner permitted by law. The Company and the Purchaser hereby agree that the prevailing party in any suit, action or proceeding arising out of or relating to this Agreement shall be entitled to reimbursement for reasonable legal fees from the non-prevailing party. 
+
+Section 5.3 Entire Agreement; Amendment. This Agreement contains the entire understanding and agreement of the parties with respect to the matters covered hereby and, except as specifically set forth herein, neither the Company nor the Purchaser makes any representation, warranty, covenant or undertaking with respect to such matters, and they supersede all prior understandings and agreements with respect to said subject matter, all of which are merged herein. No provision of this Agreement may be waived or amended other than by a written instrument signed by the Company and the Purchaser. 
+
+10
+
+* * *
+
+##### 
+
+Section 5.4 Notices. Any notice, demand, request, waiver or other communication required or permitted to be given hereunder shall be in writing and shall be effective (a) upon delivery by telecopy or facsimile at the address or number designated below (if delivered on a business day during normal business hours where such notice is to be received), or the first business day following such delivery (if delivered other than on a business day during normal business hours where such notice is to be received) or (b) on the second business day following the date of mailing by express courier service, fully prepaid, addressed to such address, or upon actual receipt of such mailing, whichever shall first occur. The addresses for such communications shall be:   
+  
+If to the Company: 
+
+Halozyme Therapeutics, Inc.  
+  
+11588 Sorrento Valley Road  
+  
+Suite 17  
+  
+San Diego, CA 92121  
+  
+Attention: President and Chief Executive Officer  
+  
+Tel. No.: (858) 794-8889  
+  
+Fax No.: (858) 259-2539  
+  
+with copies (which copies shall not constitute notice to the Company) to: 
+
+DLA Piper US LLP  
+  
+4365 Executive Drive, Suite 1100  
+  
+San Diego, California 92121  
+  
+Attention: Doug Rein  
+  
+Tel. No.: (858) 677-1400  
+  
+Fax No.: (858) 677-1401  
+  
+If to the Purchaser:  
+  
+Roche Finance Ltd  
+  
+Grenzacherstrasse 124  
+  
+CH-4070  
+  
+Basel, Switzerland  
+  
+Attn: CFD  
+  
+Tel No. 011 41 61 688 4652  
+  
+Fax No. 011 41 61 688 4169  
+  
+with copies (which copies shall not constitute notice to the Purchaser ) to: 
+
+Hoffmann-La Roche Inc.  
+  
+340 Kingsland Street  
+  
+Nutley, New Jersey 07110-1199  
+  
+Attention: General Counsel  
+  
+Tel. No.: 973-235-2165  
+  
+Fax No.: 973-235-3500  
+  
+Any party hereto may from time to time change its address for notices by giving written notice of such changed address to the other party hereto. 
+
+11
+
+* * *
+
+##### 
+
+Section 5.5 Waivers. No waiver by either party of any default with respect to any provision, condition or requirement of this Agreement shall be deemed to be a continuing waiver in the future or a waiver of any other provision, condition or requirement hereof, nor shall any delay or omission of any party to exercise any right hereunder in any manner impair the exercise of any such right accruing to it thereafter. 
+
+Section 5.6 Headings. The article, section and subsection headings in this Agreement are for convenience only and shall not constitute a part of this Agreement for any other purpose and shall not be deemed to limit or affect any of the provisions hereof. 
+
+Section 5.7 Successors and Assigns. This Agreement shall be binding upon and inure to the benefit of the parties and their successors and assigns. After the Closing, the assignment by a party to this Agreement of any rights hereunder shall not affect the obligations of such party under this Agreement. 
+
+Section 5.8 No Third Party Beneficiaries. This Agreement is intended for the benefit of the parties hereto and their respective permitted successors and assigns and is not for the benefit of, nor may any provision hereof be enforced by, any other person. 
+
+Section 5.9 Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed shall be deemed to be an original and, all of which taken together shall constitute one and the same Agreement. In the event that any signature is delivered by facsimile transmission, such signature shall create a valid binding obligation of the party executing (or on whose behalf such signature is executed) the same with the same force and effect as if such facsimile signature were the original thereof. 
+
+Section 5.10 Severability. The provisions of this Agreement are severable and, in the event that any court of competent jurisdiction shall determine that any one or more of the provisions or part of the provisions contained in this Agreement shall, for any reason, be held to be invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect any other provision or part of a provision of this Agreement and this Agreement shall be reformed and construed as if such invalid or illegal or unenforceable provision, or part of such provision, had never been contained herein, so that such provisions would be valid, legal and enforceable to the maximum extent possible. 
+
+Section 5.11 Further Assurances. From and after the date of this Agreement, upon the request of the Purchaser or the Company, the Company and the Purchaser shall execute and deliver such instruments, documents and other writings as may be reasonably necessary or desirable to confirm and carry out and to effectuate fully the intent and purposes of this Agreement. 
+
+12
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Stock Purchase Agreement to be duly executed by their respective authorized officers as of the date first above written.   
+  
+HALOZYME THERAPEUTICS, INC.  
+  
+By:  /s/ Jonathan Lim   
+Name:  Jonathan Lim   
+Title:  President and Chief Executive Officer   
+ROCHE FINANCE LTD  
+  
+By:  /s/ Schraub   
+Name:  Schraub   
+Title:  Authorized Signator   
+By:  /s/ Kradenmann   
+Name:  Kradenmann   
+Title:  Authorized Signator   
+  
+* * *
+
+#####   
+  
+EXHIBIT A
+
+Registration Rights Agreement 

@@ -1,0 +1,238 @@
+Exhibit 10.3
+
+EXECUTION VERSION 
+
+AMH HOLDINGS II, INC.  
+
+
+This Stock Option Award Agreement (this “Agreement”), dated September 7, 2010, is made between AMH Holdings II, Inc. (the “Company”) and Thomas Chieffe (the “Optionee”). All capitalized terms used herein that are not defined herein shall have the respective meanings given to such terms in the AMH Holdings II, Inc. 2004 Stock Option Plan (the “Plan”). 
+
+W I T N E S S E T H : 
+
+1\. Grant of Option. Pursuant to the provisions of the Plan, the Company hereby grants to the Optionee, subject to the terms and conditions of the Plan and subject further to the terms and conditions herein set forth, the right and option to purchase from the Company all or any part of an aggregate of 13,824 shares of the Class B, Series II (Non-Voting) Common Stock of the Company, $0.01 par value per share (“Stock”), at a per share purchase price equal to $1.00 (the “Option”), such Option to be exercisable as hereinafter provided; provided, however, that if and when the holders thereof shall have exercised their right to convert all, but not less than all, of the shares of preferred stock of the Company into common stock of the Company (the “Conversion”), then the number of shares of Stock set forth in this Section 1 shall be adjusted by the Committee as provided in Schedule I attached hereto, in accordance with Section 10(b) of the Plan. The Option shall not be treated as an “incentive stock option,” as defined in Section 422 of the Code. 
+
+2\. Terms and Conditions. It is understood and agreed that the Option evidenced hereby is subject to the following terms and conditions: 
+
+(a) Expiration Date. The Option shall expire ten (10) years after the date indicated above. 
+
+(b) Exercise of Option. (i) Subject to the other terms of this Agreement and the Plan, the Option will become exercisable with respect to the shares of Stock set forth in Section 1 of this Agreement only upon the occurrence of a Liquidity Event, and upon the occurrence of a Liquidity Event, the Optionee must exercise the Option with respect to all shares of Stock set forth in Section 1 of this Agreement. 
+
+(ii) Any exercise of all or any part of the Option shall be accompanied by Notice to the Company and shall only be effective upon delivery to the Company of (x) the consideration required pursuant to Section 2(c) below and (y) an executed joinder to the Stockholders Agreement (as defined below) pursuant to Section 6.5 therein. Upon the valid exercise of the Option, a certificate (or certificates) for the number of shares of Stock with respect to which the Option is exercised shall be issued in the name of the Optionee, subject to the other terms and conditions of this Agreement and the Plan. 
+
+* * *
+
+##### 
+
+(c) Consideration. At the time of any exercise of the Option, the purchase price of the shares of Stock as to which the Option shall be exercised shall be paid to the Company (i) in United States dollars by personal check, bank draft or money order; (ii) if permitted by applicable law and approved by the Committee, with Common Stock already owned by the Optionee, and purchased or held for the requisite period of time as necessary to avoid a charge to the Company’s or any Affiliate’s earnings for financial reporting purposes, having a total Fair Market Value on the date of such exercise of the Option equal to such purchase price of the shares of Stock for which the Option is so exercised; or (iii) a combination of the consideration provided for in the foregoing clauses (i) through (ii). 
+
+(d) Exercise Upon Death, Disability or Termination of Employment. The Option shall terminate upon the termination, for any reason, of the Optionee’s employment with the Company or an Affiliate, and no shares of Stock may thereafter be purchased under the Option except as follows: 
+
+(i) In the event of the death of the Optionee while an employee of the Company or an Affiliate, the Option, to the extent the Option would be exercisable in accordance with Section 2(b) hereof as of the date of his death, may be exercised after his death by his designated beneficiary, his heir, the legal representative of the Optionee’s estate or by the legatee of the Optionee under his last will until the earlier of (A) the calendar year in which such death occurs or (B) 2-1/2 months after such death occurs (or, if earlier, the expiration of the stated period of the Option). 
+
+(ii) If the Optionee’s employment with the Company or an Affiliate shall terminate by reason of Disability, the Option, to the extent exercisable in accordance with Section 2(b) hereof as of the date of such termination of employment, may be exercised after such termination until the earlier of (A) the calendar year in which such Disability occurs or (B) 2-1/2 months after such Disability occurs (or, if earlier, the expiration of the stated period of the Option). 
+
+(iii) If the Optionee voluntarily terminates his employment with the Company or an Affiliate, or the Company or such Affiliate terminates the Optionee’s employment without “Cause” (within the meaning of the employment agreement between Associated Materials Incorporated, an indirect wholly-owned subsidiary of the Company, and the Optionee (the “Employment Agreement”), or, if no such employment agreement is in effect, as determined by the Committee in its discretion), the Option, to the extent exercisable in accordance with Section 2(b) hereof as of the date of such termination, may thereafter be exercised until the earlier of (A) the calendar year in which such termination occurs or (B) 2-1/2 months after such termination occurs (or, if earlier, the expiration of the stated period of the Option). For purposes of this Agreement, “termination of employment” means the Optionee’s “separation from service” as defined in Section 409A of the Code. 
+
+(iv) If the Optionee’s employment is terminated by the Company or an Affiliate for Cause, the Option shall automatically, without any further action required by the Company, terminate on the date of such termination of employment and no shares of Stock may thereafter be purchased under the Option. 
+
+2
+
+* * *
+
+##### 
+
+Notwithstanding the foregoing, the Option may be exercised during the time periods specified above only if a Liquidity Event occurs during the period before the Option expires. 
+
+(e) Nontransferability. The Option shall not be transferable by the Optionee except that the Optionee may transfer the Option to (a) his or her spouse, child, estate, personal representative, heir or successor, (b) a trust for the benefit of the Optionee or his or her spouse, child or heir, or (c) a partnership or limited liability company the partners or members of which consist solely of the Optionee and/or his or her spouse, child, heir, and/or successor (each, a “Permitted Transferee”) and the Option is exercisable, during the Optionee’s lifetime, only by him or her or a Permitted Transferee, or, in the event of the Optionee’s death or Disability, his or her executor, guardian or legal representative. More particularly (but without limiting the generality of the foregoing), the Option may not be assigned, transferred (except as aforesaid), pledged or hypothecated in any way (whether by operation of law or otherwise), and shall not be subject to execution, attachment or similar process. Any assignment, transfer, pledge, hypothecation or other disposition of the Option contrary to the provisions hereof, and the levy of any attachment or similar process upon the Option that would otherwise effect a change in the ownership of the Option, shall terminate the Option; provided, however, that, in the case of the involuntary levy of any attachment or similar involuntary process upon the Option, the Optionee shall have thirty (30) days after notice thereof to cure such levy or process before the Option terminates. This Agreement shall be binding on and enforceable against any person who is a Permitted Transferee of the Option. 
+
+(f) Withholding Taxes. At the time of receipt of Stock upon the exercise of all or any part of the Option, the Optionee shall be required to pay to the Company in cash (or make other arrangements, in accordance with Section 9 of the Plan, for the satisfaction of) any taxes of any kind required by law to be withheld with respect to such Stock. In no event shall Stock be delivered to the Optionee until the Optionee has paid to the Company in cash, or made arrangements satisfactory to the Company regarding the payment of, the amount of any taxes of any kind required by law to be withheld with respect to the Stock subject to the Option, and the Company shall have the right to deduct any such taxes from any payment of any kind otherwise due to the Optionee. 
+
+(g) No Rights as Stockholder. Neither the Optionee nor any other person shall become the beneficial owner of the shares of Stock subject to the Option, nor have any rights to dividends or other rights as a stockholder with respect to any such shares, until the Optionee has exercised the Option in accordance with the provisions hereof and of the Plan. 
+
+(h) No Right to Continued Employment. Neither the Option nor any terms contained in this Agreement shall confer upon the Optionee any express or implied right to be retained in the service of the Company or an Affiliate for any period or at all, nor restrict in any way the right of the Company or any Affiliate, which right is hereby expressly reserved, to terminate his employment at any time with or without cause. The Optionee acknowledges and agrees that any right to exercise the Option is earned only by continuing as an employee of the Company and the Affiliates, or satisfaction of any other applicable terms and conditions contained in this Agreement and the Plan, and not through the act of being hired, being granted the Option or acquiring shares of Stock hereunder. 
+
+3
+
+* * *
+
+##### 
+
+(i) Inconsistency with Plan. Notwithstanding any provision herein to the contrary, the Option provides the Optionee with no greater rights or claims than are specifically provided for under the Plan. If and to the extent that any provision contained in this Agreement conflicts with the Plan, the Plan shall govern. 
+
+(j) Compliance with Laws, Regulations and Stockholders Agreement. The Option and the obligation of the Company to sell and deliver shares of Stock hereunder shall be subject in all respects to (i) all applicable Federal and state laws, rules and regulations; (ii) any registration, qualification, approvals or other requirements imposed by any government or regulatory agency or body which the Committee shall, in its sole discretion, determine to be necessary or applicable; and (iii) the terms, conditions and limitations of the Stockholders Agreement, dated as of December 22, 2004, by and among the Company, Harvest Partners III, L.P., Harvest Partners III Beteiligungsgesellschaft Bürgerlichen Rechts (mit Haftungsbeschränkung), Harvest Partners IV, L.P., and Harvest Partners IV GmbH & Co. KG (collectively, the “Harvest Funds”), and AM Holding Limited, AM Equity Limited, AM Investments Limited, Associated Equity Limited and Associated Investments Limited, and the other parties named therein (as such agreement may be amended from time to time, the “Stockholders Agreement”). Moreover, the Option may not be exercised if its exercise, or the receipt of shares of Stock pursuant thereto, would be contrary to applicable law. If at any time the Company shall determine, in its discretion, that the listing, registration or qualification of shares of Stock upon any national securities exchange or under any state or Federal law, or the consent or approval of any governmental regulatory body, is necessary or desirable, the Company shall not be required to deliver any certificates for shares of Stock to the Optionee or any other person unless and until such listing, registration, qualification, consent or approval shall have been effected or obtained, or otherwise provided for, free of any conditions not acceptable to the Company. 
+
+3\. Investment Representation. If at the time of exercise of all or part of the Option the Stock is not registered under the Securities Act and/or there is no current prospectus in effect under the Securities Act with respect to the Stock, the Optionee shall execute, prior to the issuance of any shares of Stock to the Optionee by the Company, an agreement (in such form as the Committee may specify) in which the Optionee, among other things, represents, warrants and agrees that the Optionee is purchasing or acquiring the shares acquired under this Agreement for the Optionee’s own account, for investment only and not with a view to the resale or distribution thereof, that the Optionee has knowledge and experience in financial and business matters, that the Optionee is capable of evaluating the merits and risks of owning any shares of Stock purchased or acquired under this Agreement, that the Optionee is a person who is able to bear the economic risk of such ownership and that any subsequent offer for sale or distribution of any of such shares shall be made only pursuant to (i) a registration statement on an appropriate form under the Securities Act, which registration statement has become effective and is current with regard to the shares being offered or sold, or (ii) a specific exemption from the registration requirements of the Securities Act, it being understood that to the extent any such exemption is claimed, the Optionee shall, prior to any offer for sale or sale of such shares, obtain a prior favorable written opinion, in form and substance satisfactory to the Committee, from counsel for or approved by the Committee, as to the applicability of such exemption thereto. 
+
+4
+
+* * *
+
+##### 
+
+4\. Lock-Up Period. In the event and to the extent requested by the managing underwriter or, if the securities of the Company are not being disposed of in an underwritten public offering pursuant to an effective registration statement filed with the Securities and Exchange Commission, if requested by the Company, the Optionee agrees not to offer, pledge, lend, sell, contract to sell, make any short sale of, grant any option, right or warrant for the purchase of, enter into any swap, hedging or other arrangement that transfers to another, in whole or in part, any of the economic consequences of ownership of, or otherwise transfer or dispose, directly or indirectly, of any securities of the Company (each such action, a “Transfer”), other than those securities included in such registration pursuant to the Stockholders Agreement for the thirty (30) days prior to and the ninety days (90) days (one hundred and eighty (180) days in the case of the initial public offering of the common stock of the Company pursuant to an effective registration statement filed with the Securities Exchange Commission) after the effectiveness of the registration statement pursuant to which such public offering shall be made (or such shorter period of time as is sufficient and appropriate, in the opinion of the managing underwriter or, as the case may be, the Company in order to complete the sale and distribution of the securities included in such public offering; provided that in no event shall such shorter period of time with respect to the Optionee be shorter than any such period for any other stockholder of the Company); provided that the limitations contained in this Section 4 shall not apply to the extent the Optionee is prohibited by applicable law from so withholding such securities from sale during such period. 
+
+5\. Company’s Right to Purchase Stock. (a) (i) Upon termination under any circumstances of the Optionee’s employment with the Company or an Affiliate, the Company shall have the right, but not the obligation, to purchase any or all of the shares of Stock which have been purchased by the Optionee, or any person permitted to exercise the Option under Section 2(d) hereof, pursuant to exercise of the Option (“Option Stock”), and which the Optionee, such other person, or any permitted donee of such Stock, under Section 6 hereof, then holds by delivering written notice (the “Repurchase Notice”) to the Optionee and/or such donee of Option Stock or other person permitted to exercise the Option, as applicable, within sixty (60) calendar days after the last date on which the Option may be exercised in accordance with Section 2(d) hereof at the purchase price determined in accordance with subparagraph (ii) or (iii), as applicable, of this Section 5(a); provided, however, that if any Option Stock has been held by the Optionee or such donee or other person, as the case may be, for six (6) months or less at any time the Company is entitled to exercise its right to purchase such Option Stock under this Section 5(a)(i) but for this proviso, the Company may exercise such right to purchase such Option Stock within sixty (60) calendar days after such Option Stock has first been held by the Optionee or such donee or other person for greater than six (6) months. 
+
+(ii) If such termination of the Optionee’s employment is by the Company or an Affiliate other than for Cause, the purchase price to be paid by the Company for any shares of Option Stock to be purchased by the Company pursuant to this Section 5(a) shall be the fair market value of such shares of Option Stock as of the date the Company purchases such shares in accordance with this Section 5, as determined in good faith by the Committee (without discount for lack of marketability or minority interest), based upon a customary appraisal prepared by an independent appraisal company, or such other reasonable valuation method as the Committee shall select and apply as of the given date. 
+
+5
+
+* * *
+
+##### 
+
+(iii) If such termination of the Optionee’s employment is by the Company or an Affiliate for Cause, or is by the Optionee, the purchase price to be paid by the Company for any shares of Option Stock to be purchased by the Company pursuant to this Section 5(a) shall be the lesser of: (A) the fair market value (as determined by the Committee in accordance with subparagraph (ii) of this Section 5(a)) of such shares of Option Stock as of the date the Company purchases such shares in accordance with this Section 5 and (B) the purchase price set forth in Section 1 hereof for such shares of Option Stock. 
+
+(b) If the Company shall elect to exercise its right to purchase any Option Stock under this Section 5, the closing of such purchase by the Company shall take place no later than forty-five (45) days after the exercise of such right, which time in the case of the death of the Optionee may be extended to provide for probate of the Optionee’s estate. On the date scheduled for such closing, the price for the shares of Option Stock to be purchased by the Company, determined in accordance with paragraph (a) of this Section 5, shall be paid by the Company by check or checks to the record holder of such shares against delivery of a certificate or certificates representing the purchased shares in proper form for transfer. Notwithstanding the immediately preceding sentence to the contrary, the Company may pay such price for the shares of Option Stock to be purchased by the Company, in whole or in part, by offsetting amounts outstanding under any indebtedness or obligations owed by the Optionee or any other person permitted to exercise the Option under Section 2(d) hereof to the Company or any Affiliate. In connection with such closing, such record holder shall warrant in writing to the Company good and marketable title to Option Stock, free and clear of all claims, liens, charges, encumbrances and security interests of any nature whatsoever except those under this Agreement. Notwithstanding anything to the contrary contained herein, all repurchases of Option Stock by the Company will be subject to applicable restrictions contained under Delaware law and in the Company’s and any Affiliate’s debt and equity financing agreements. If any such restrictions prohibit the Company’s purchase of Option Stock pursuant to this Section 5 which the Company is otherwise entitled to make, the Company may make such purchases as soon as it is permitted to do so under such restrictions, and all restrictions on the transfer of Option Stock in effect on the date such Company purchase right arose shall remain in effect until fifteen (15) days after the end of the period in which the Company is permitted to make such purchases. 
+
+(c) None of the shares of Option Stock shall be transferred on the Company’s books nor shall the Company recognize any such purported Transfer of any such shares or any interest therein unless and until all applicable provisions of Sections 4, 5 and 6 of this Agreement have been complied with in all respects. The certificates evidencing shares of Option Stock shall bear the legend required in the Stockholders Agreement, as well as the legend to the following effect: 
+
+“The shares represented by this certificate are subject to certain restrictions against transfer set forth in a Stockholders Agreement, dated as of December 22, 2004, by and among AMH Holdings II, Inc. (the “Company”), Harvest Partners III, L.P., Harvest Partners III Beteiligungsgesellschaft Bürgerlichen Rechts (mit Haftungsbeschränkung), Harvest Partners IV, L.P., and Harvest Partners IV GmbH & Co. KG, and AM Holding Limited, AM Equity Limited, AM Investments Limited, Associated Equity Limited and Associated Investments Limited, and the other parties named therein (as such agreement may be amended from time to time), and a Stock Option Award Agreement between the stockholder to whom the shares were originally issued and the Company, dated September 8, 2010, as may be amended from time to time. Such shares are also subject to a call option of the Company as described in Section 5 of such Stock Option Award Agreement.” 
+
+6
+
+* * *
+
+##### 
+
+(d) The parties agree that irreparable damage would occur in the event that any of the provisions of this Section 5 were not performed in accordance with their specific terms or were otherwise breached. Accordingly, the parties shall be entitled to an injunction or injunctions to prevent breaches of this Section 5 and to enforce specifically the terms and provisions of this Section 5, in addition to any other remedy to which they are entitled at law or in equity. 
+
+6\. Restrictions on Transfer of Option Stock. The Optionee shall not Transfer shares of Option Stock received by the Optionee (or any interest or right in such shares) except: (a) to the Company, to the extent permitted under the Stockholders Agreement; (b) pursuant to a registration statement filed pursuant to the Securities Act or, at any time after an initial public offering of the Company, pursuant to Rule 144 under the Securities Act in an unsolicited brokerage transaction to the public; or (c) as otherwise permitted under the Stockholders Agreement. 
+
+7\. Certain Other Representations and Covenants of the Optionee. The Optionee hereby acknowledges receipt of a copy of the Plan and the Stockholders Agreement, and represents that he is familiar with the terms and provisions thereof. The Optionee hereby represents and acknowledges that he has reviewed the Plan, this Agreement and the Stockholders Agreement in their entirety, has had an opportunity to obtain the advice of counsel prior to executing this Agreement and the Stockholders Agreement, and fully understands all provisions of the Plan, this Agreement and the Stockholders Agreement. The Optionee hereby agrees to be bound by all of the terms and provisions of the Plan, this Agreement and the Stockholders Agreement, including the terms and provisions adopted after the granting of the Option but prior to the complete exercise hereof, subject to the last paragraph of Section 13 of the Plan as in effect on the date hereof. The Optionee hereby agrees to accept as binding, conclusive and final all decisions and interpretations of the Committee or the Board made in good faith upon any questions arising under the Plan, this Agreement, the Stockholders Agreement or otherwise relating to the Option. 
+
+8\. Forfeiture. Notwithstanding any other provisions of this Agreement to the contrary, in the event of a breach by the Optionee of any of the Optionee’s covenants set forth in the Employment Agreement, or in the event that the Optionee’s employment is terminated by the Company or an Affiliate for Cause, then the Option shall thereupon automatically terminate and cease to thereafter be exercisable with respect to any shares of Stock without any further action required by the Company. 
+
+7
+
+* * *
+
+##### 
+
+9\. Notices. Any Notice or other communication required or permitted hereunder shall be in writing and in accordance with the Plan, and shall deemed to have been duly given if delivered in person or by facsimile or sent by nationally-recognized overnight courier or first class registered or certified mail, return receipt requested, postage prepaid, to the other party at the following addresses (or at such other address as shall be given in writing by either party to the other): 
+
+If to the Company to: 
+
+AMH Holdings II, Inc.  
+3737 State Road  
+Cuyahoga Falls, Ohio 44223  
+Attention: Chief Financial Officer  
+Facsimile: (330) 922-2312 
+
+with copies (which shall not constitute notice) to: 
+
+Harvest Partners, Inc.  
+280 Park Avenue, 33rd Floor  
+New York, New York 10017  
+Attention: Ira D. Kleinman 
+
+Christopher D. Whalen 
+
+Facsimile: (212) 812-0100 
+
+and 
+
+White & Case LLP  
+1155 Avenue of the Americas  
+New York, New York 10036  
+Attention: John Reiss, Esq. 
+
+Oliver C. Brahmst, Esq. 
+
+Facsimile: (212) 354-8113 
+
+a copy (which shall not constitute notice) to: 
+
+Investcorp Management Services Limited  
+c/o Investcorp Bank B.S.C.  
+P.O. Box 5340  
+Investcorp House  
+Manama, Bahrain  
+Attention: Gary S. Long  
+Facsimile: 011-973-536-541 
+
+with a copy (which shall not constitute notice) to: 
+
+Gibson, Dunn & Crutcher LLP  
+200 Park Avenue  
+New York, New York 10166  
+Attention: William M. Rustum  
+Facsimile: (212) 351-4035 
+
+8
+
+* * *
+
+##### 
+
+If to the Optionee to the address set forth below his signature hereon. 
+
+10\. Governing Law. The validity, interpretation, construction and performance of this Agreement shall be governed by the laws of the State of New York applicable to contracts executed and to be performed entirely within such state, without regard to the conflict of law provisions thereof. 
+
+11\. Severability. If any of the provisions of this Agreement should be deemed unenforceable, the remaining provisions shall remain in full force and effect. 
+
+12\. Modification. Except as otherwise permitted by the Plan, this Agreement may not be modified or amended, nor may any provision hereof be waived, in any way except in writing signed by the parties hereto. 
+
+13\. Counterparts. This Agreement has been executed in two counterparts, each of which shall constitute one and the same instrument. 
+
+[signature page follows] 
+
+9
+
+* * *
+
+##### 
+
+IN WITNESS WHEREOF, AMH Holdings II, Inc. has caused this Agreement to be executed by a duly authorized officer and the Optionee has executed this Agreement, both as of the day and year first written above.   
+  
+AMH HOLDINGS II, INC.  
+  
+Date: September 7, 2010  By:  /s/ Stephen E. Graham   
+Name:  Stephen E. Graham   
+Title:  Chief Financial Officer   
+Date: September 7, 2010  /s/ Thomas Chieffe   
+Thomas Chieffe   
+9515 Nighthawk  
+Chagrin Falls, OH 44023   
+  
+10
+
+* * *
+
+##### 
+
+Schedule I
+
+Adjustment Upon Conversion
+
+Upon the occurrence of the Conversion, the Committee shall cause the number of shares of Stock subject to the Option, as set forth in Section 1 of this Agreement, to be adjusted to be such number of shares of Stock as would result in the Optionee receiving in connection with a Liquidity Event that occurs within two business days of the Conversion (or, if the Conversion does not occur within two business days of a Liquidity Event, assuming that a Liquidity Event were to occur immediately after such adjustment in which 100% of the common stock of the Company is sold for an amount equal to the aggregate fair market value thereof (as determined by the Committee in its sole discretion)), proceeds from such Liquidity Event (or assumed Liquidity Event) equal to the Optionee’s Pro Rata Portion of the Aggregate Option Amount, less the aggregate exercise price payable by the Optionee upon the exercise of the Option. 
+
+For purposes of such adjustment: 
+
+In calculating the proceeds from the Liquidity Event above, the Committee shall assume the full exercise of all stock options outstanding under the Plan, as well as all stock options outstanding under a plan of any direct or indirect subsidiary of the Company; 
+
+“Aggregate Net Cash Proceeds” shall mean the amount of cash proceeds distributable to the holders of common stock of the Company (assuming the issuance of all Aggregate Outstanding Option Shares) in connection with a Liquidity Event (or an assumed Liquidity Event), net of any transaction costs that reduce the proceeds distributable to the stockholders but including any proceeds placed into escrow for potential distribution to such stockholders. 
+
+“Aggregate Outstanding Option Shares” shall mean the total number of shares of Stock, as determined by the Committee, that are subject to all options granted under the Plan and outstanding, exercisable and “in-the-money” at the time of such Liquidity Event (or assumed Liquidity Event). 
+
+“Aggregate Option Amount” shall mean 14.3% of (x) the Aggregate Net Cash Proceeds, minus (y) $150,000,000, plus (z) the aggregate exercise price payable in respect of Aggregate Outstanding Option Shares. 
+
+“Pro Rata Portion” shall mean the quotient obtained by dividing the number of shares of stock subject to the Option by the Aggregate Outstanding Option Shares, in each case before giving effect to the adjustment contemplated by this Schedule I. 
+
+Schedule I-1
+
+* * *
+
+##### 
+
+Such adjustments and determinations shall be made by the Committee in its discretion, in a manner intended not to subject the Option to Code Section 409A, and shall be final, conclusive and binding on the Optionee and all other persons. 
+
+A “Liquidity Event” shall mean an Approved Sale that closes no later than December 31, 2010. 
+
+An “Approved Sale” shall mean a transaction that results in a bona fide, unaffiliated direct or indirect change of economic beneficial ownership of the Company, Associated Materials, LLC (“Associated”) or their businesses of greater than 50%, whether pursuant to the sale of the stock of the Company or Associated, the sale of the assets of Associated and its subsidiaries (if combined with a distribution of net proceeds to stockholders), or a merger, consolidation or other reorganization (other than a sale of stock by a Current Investor to another Current Investor or in connection with a Consolidation Transaction). 
+
+“Current Investors” means the stockholders of the Company as of the date hereof. 
+
+“Consolidation Transaction” means a transaction or series of related transactions (including mergers, reorganizations, liquidations, share exchanges and/or consolidations involving the Associated and one or more of its subsidiaries) effected to implement a reorganization of Associated and one or more of its subsidiaries (or similar transactions) that does not result in a material change in beneficial ownership of the voting securities of Associated or its successor. 
+
+Schedule I-2

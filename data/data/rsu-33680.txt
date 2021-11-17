@@ -1,0 +1,120 @@
+Exhibit 10.26 
+
+FORM 
+
+
+
+This Restricted Stock Agreement (this “Restricted Stock Agreement”) is made and entered into as of [DATE OF GRANT] (the “Date of Grant”), by and between Health Net, Inc., a Delaware corporation (the “Company”), and [NAME] (the “Recipient”). 
+
+WHEREAS, the Compensation Committee (the “Committee”) of the Board of Directors (the “Board”) of the Company has approved the grant of Restricted Stock, as hereinafter defined, to the Recipient as set forth below under the Company’s [NAME OF PLAN] (the “Plan”). Capitalized terms used but not defined herein shall have the meanings set forth in the Plan. 
+
+NOW, THEREFORE, in consideration of the covenants and agreements herein contained and intending to be legally bound hereby, the parties agree as follows: 
+
+1\. Grant of Restricted Stock. The Company hereby grants to the Recipient [NUMBER OF SHARES] restricted shares (the “Restricted Stock”) of the Common Stock, par value $.001 per share (the “Common Stock”) of the Company, subject to all of the terms and conditions of this Restricted Stock Agreement. As a condition of the effectiveness of this grant, the Recipient shall pay to the Company as soon as practicable the par value for each share of Restricted Stock subject to this grant in such consideration as determined by the Committee in its sole discretion. The Recipient’s grant and record of share ownership shall be kept on the books of the Company, until the restrictions on transfer have lapsed pursuant to Sections 2 or 3 below. Shares that have become vested pursuant to Sections 2 or 3 below may be evidenced by stock certificates, at the request of the Recipient, which certificates shall be registered in the name of the Recipient and delivered to Recipient within ten (10) days of such request. 
+
+2\. Lapse of Restrictions. Except as otherwise provided in Section 3 or 11 hereof, the restrictions on transfer set forth in Section 4 hereof shall lapse (the “Vesting Date”) with respect to all shares of the Restricted Stock on the [NUMBER] anniversary of the Grant Date. 
+
+3\. Termination of Service. 
+
+(a) If prior to the Vesting Date, the Recipient’s employment or service with the Company is terminated (a “Termination Event”) by either the Recipient or the Company for any reason, then all shares of Restricted Stock not yet vested shall be immediately forfeited at such time, and the Company shall return to the Recipient an amount equal to the par value of the Restricted Stock which was paid by the Recipient to the Company as described in Section 1 above. 
+
+(b) If the Recipient violates the terms of Section 5 of this Agreement (a “Breach Event”), in addition to being subject to all remedies in law or equity that the Company may assert, then at any time thereafter the Company, in its sole and absolute discretion, may, with respect to any Restricted Stock that has vested within six (6) months of the Recipient’s termination of employment: (i) to the extent that the Restricted Stock is beneficially 
+
+* * *
+
+owned by the Recipient, reacquire from the Recipient, in return for an amount equal to the par value of the Restricted Stock which was paid by the Recipient to the Company as described in Section 1 above, any or all of the shares of Restricted Stock; and (ii) to the extent that the Restricted Stock has been sold, assigned or otherwise transferred by the Recipient, recover from the Recipient an amount equal to the Gain Realized (as defined in Section 5 below) from such sale, assignment or transfer. 
+
+(c) Upon the occurrence of a Breach Event, the Company may elect to purchase all or any portion of the Restricted Stock pursuant to this Section 3 by delivery of written notice (the “Repurchase Notice”) to the Recipient within ninety (90) days after the occurrence of such Breach Event. 
+
+4\. Restrictions on Transfer. Unless earlier vested pursuant to Section 2 above, shares of Restricted Stock may not be transferred or otherwise disposed of by the Recipient prior to [DATE], including by way of sale, assignment, transfer, pledge or otherwise except by will or the laws of descent and distribution. 
+
+5\. Employment/Association with Company Competitor. The Recipient hereby agrees that, during (i) the six-month period following a termination of the Recipient’s employment with an Employer that entitles the Recipient to receive severance benefits under an agreement with or the policy of the Company or (ii) the twelve-month period following a termination of the Recipient’s employment with an Employer that does not entitle the Recipient to receive such severance benefits (the period referred to in either clause (i) or (ii), the “Noncompetition Period”), the Recipient shall not undertake any employment or activity (including, but not limited to, consulting services) with a Competitor (as defined below), where the loyal and complete fulfillment of the duties of the competitive employment or activity would call upon the Recipient to reveal, to make judgments on or otherwise use any confidential business information or trade secrets of the business of the Company or any Subsidiary to which the Recipient had access during the Recipient’s employment with the Employer. In addition, the Recipient agrees that, during the Noncompetition Period applicable to the Recipient following termination of employment with the Employer, the Recipient shall not, directly or indirectly, solicit, interfere with, hire, offer to hire or induce any person, who is or was an employee of the Company or any of its Subsidiaries during the 12 month period prior to the date of such termination of employment, to discontinue his or her relationship with the Company or any of its Subsidiaries or to accept employment by, or enter into a business relationship with, the Recipient or any other entity or person. In the event that the Recipient breaches the covenants set forth in this first paragraph of Section 5, it shall be considered a Breach Event under Section 3 above. 
+
+For purposes of this Section 5: “Gain Realized” shall equal the difference between (x) the par value paid by the Recipient for the Restricted Stock and (y) the greater of the Fair Market Value (as defined in the Plan) of the Common Stock representing the Restricted Stock (I) on the date of transfer of such Restricted Stock or (II) on the date such competitive activity with a Competitor was commenced by the Recipient; and “Competitor” shall refer to any health maintenance organization or insurance company that provides managed health care or related services similar to those provided by the Company or any Subsidiary. 
+
+It is hereby further agreed that if any court of competent jurisdiction shall determine that the restrictions imposed in this Section 5 are unreasonable (including, but not limited to, the definition of Market Area or Competitor or the time period during which this provision is applicable), the parties hereto hereby agree to any restrictions that such court would find to be reasonable under the circumstances. 
+
+* * *
+
+The Recipient acknowledges that the services to be rendered by the Recipient to the Company are of a special and unique character, which gives this Agreement a peculiar value to the Company, the loss of which may not be reasonably or adequately compensated for by damages in an action at law, and that a material breach or threatened breach by the Recipient of any of the provisions contained in this Section 5 will cause the Company irreparable injury. Recipient therefore agrees that the Company may be entitled, in addition to the remedies set forth above in this Section 5 and any other right or remedy, to a temporary, preliminary and permanent injunction, without the necessity of proving the inadequacy of monetary damages or the posting of any bond or security, enjoining or restraining Recipient from any such violations or threatened violations. 
+
+5A. Compensation Recovery (Clawback). In the event that Recipient is subject to the Company’s Compensation Recovery Policy, as such policy may be amended from time to time (the “Compensation Recovery Policy”), notwithstanding anything in this Restricted Stock Agreement to the contrary, any Restricted Stock granted hereunder shall be subject to the terms and conditions of the Compensation Recovery Policy. 
+
+6\. Rights as a Stockholder. The Company shall hold in escrow all dividends, if any, that are paid with respect to the shares of Restricted Stock until all restrictions on such shares have lapsed. Recipient agrees that the right to vote any shares for which the restrictions on transfer set forth in Section 4 hereof have not yet lapsed (the “Unvested Shares”) will be held by the Company and, accordingly, the Employee shall execute an Irrevocable Proxy in favor of the Company for all shares of Restricted Stock in the form supplied by the Company. 
+
+7\. Notices. Any notice or communication given hereunder shall be in writing and shall be given electronically (e.g., email) or by fax or first class mail, certified or registered with return receipt requested, and shall be deemed to have been duly given three (3) days after mailing or twenty-four (24) hours after transmission of an email or a fax to the following addresses:   
+  
+To the Recipient at:
+
+[NAME]  
+[ADDRESS]  
+[EMAIL ADDRESS]  
+  
+To the Company at:
+
+Health Net, Inc.  
+21650 Oxnard Street  
+Woodland Hills, California 91367  
+Attention: General Counsel  
+  
+or to such other address as any party may have furnished to the other in writing in accordance herewith, except that notices of change of address shall be effective only upon receipt. 
+
+* * *
+
+8\. Securities Laws Requirements. The Company shall not be obligated to transfer any shares of Common Stock from the Recipient to another party, if such transfer, in the opinion of counsel for the Company, would violate the Securities Act of 1933, as amended from time to time (the “Securities Act”) (or any other federal or state statutes having similar requirements as may be in effect at that time). Further, the Company may require as a condition of transfer of any shares to the Recipient that the Recipient furnish a written representation that he or she is holding the shares for investment and not with a view to resale or distribution to the public. The Company either has or will file an appropriate Registration Statement on Form S-8 (or other applicable form), and has taken or will take such actions as necessary to keep the information therein current from time to time, in order to register the Restricted Stock under the Securities Act and shall use its commercially reasonable efforts to cause such Registration Statement to become effective and to maintain the effectiveness of such registration. 
+
+9\. Protections Against Violations of Restricted Stock Agreement. No purported sale, assignment, mortgage, hypothecation, transfer, pledge, encumbrance, gift, transfer in trust (voting or other) or other disposition of, or creation of a security interest in or lien on, any of the shares of Restricted Stock by any holder thereof in violation of the provisions of this Restricted Stock Agreement or the Certificate of Incorporation or the By-Laws of the Company, shall be valid, and the Company will not transfer any of said shares of Restricted Stock on its books nor will any of said shares of Restricted Stock be entitled to vote, nor will any dividends be paid thereon, unless and until there has been full compliance with said provisions to the satisfaction of the Company. The foregoing restrictions are in addition to and not in lieu of any other remedies, legal or equitable, available to enforce said provisions. 
+
+10\. Taxes. The Recipient understands that he or she (and not the Company) shall be responsible for any tax obligation that may arise as a result of the transactions contemplated by this Restricted Stock Agreement and shall pay to the Company the amount determined by the Company to be such tax obligation at the time such tax obligation arises. If the Recipient fails to make such payment, the number of shares necessary to satisfy the tax obligations shall be forfeited. The Recipient shall promptly notify the Company of any election made pursuant to Section 83(b) of the Code. 
+
+THE RECIPIENT ACKNOWLEDGES THAT IT IS THE RECIPIENT’S SOLE RESPONSIBILITY AND NOT THE COMPANY’S TO FILE TIMELY THE ELECTION UNDER SECTION 83(b) OF THE CODE, IN THE EVENT THAT THE RECIPIENT DESIRES TO MAKE THE ELECTION. 
+
+11\. Change of Control. Notwithstanding the provisions of Section 3 hereof, in the event that (i) there shall occur a Change in Control (as defined in the Plan) and (ii) the employment of the Recipient shall be terminated within the two year period following the Change in Control but prior to the Vesting Date either (A) by the Company without Cause or (B) under circumstances which entitle the Recipient to Change in Control severance benefits under an effective employment agreement between the Recipient and the Company or the Company’s Safety Net Security Program, each share of Restricted Stock shall become fully vested and the date of such vesting shall be deemed to be the Vesting Date hereunder. For purposes of this Section 11, “Cause” shall have the meaning set forth in the Plan. 
+
+* * *
+
+12\. Failure to Enforce Not a Waiver. The failure of the Company to enforce at any time any provision of this Restricted Stock Agreement shall in no way be construed to be a waiver of such provision or of any other provision hereof. 
+
+13\. Governing Law. This Restricted Stock Agreement shall be governed by and construed according to the laws of the State of Delaware without regard to its principles of conflict of laws. 
+
+14\. Amendments. This Restricted Stock Agreement may be amended or modified at any time by the Committee; provided, however, that the amendment or modification of this Restricted Stock Agreement shall not, without the consent of the Recipient, adversely affect the rights of the Recipient under this Restricted Stock Agreement. The Board may terminate or amend the Plan at any time; provided, however, that the termination or any modification or amendment of the Plan shall not, without the consent of the Recipient, impair the rights of the Recipient under this Restricted Stock Agreement. 
+
+15\. Survival of Terms. This Restricted Stock Agreement shall apply to and bind the Recipient and the Company and their respective permitted assignees and transferees, heirs, legatees, executors, administrators and legal successors. 
+
+16\. Agreement Not a Contract for Services; Rights to Terminate Employment. Neither the grant of the Restricted Stock, this Restricted Stock Agreement nor any other action taken pursuant to this Restricted Stock Agreement shall constitute or be evidence of any agreement or understanding, express or implied, that the Recipient has a right to continue to provide services as an officer, director, employee or consultant of the Company and/or the Employer for any period of time or at any specific rate of compensation. Nothing in the Plan or in this Restricted Stock Agreement shall confer upon the Recipient the right to continue in the employment of an Employer or affect any right which an Employer may have to terminate the employment of the Recipient. The Recipient specifically acknowledges that the Employer intends to review the Recipient’s performance from time to time, and that the Company and/or the Employer has the right to terminate the Recipient’s employment at any time, including a time in close proximity to the Vesting Date, for any reason, with or without cause. The Recipient acknowledges that upon his or her termination of employment with an Employer for any reason, then all shares of Restricted Stock not yet vested shall be immediately forfeited at such time, and the Company shall return to the Recipient an amount equal to the par value of the Restricted Stock which was paid by the Recipient to the Company as is set forth in Section 3 of this Restricted Stock Agreement. 
+
+17\. Decisions of Board or Committee. The Board or the Committee shall have the right to resolve all questions which may arise in connection with the Restricted Stock. Any interpretation, determination or other action made or taken by the Board or the Committee regarding the Restricted Stock, the Plan or this Restricted Stock Agreement shall be final, binding and conclusive. 
+
+18\. Failure to Execute Agreement. This Restricted Stock Agreement and the Restricted Stock granted hereunder are subject to the Recipient returning a counter-signed copy of this Restricted Stock Agreement to the designated representative of the Company on or before the 75th day after the Date of Grant (except as otherwise determined by the Compensation and 
+
+* * *
+
+Benefits Committee of the Company or a subcommittee thereof in its sole discretion). In the event that the Recipient fails to so return a counter-signed copy of this Agreement within such period, then this Restricted Stock Agreement and the Restricted Stock granted hereunder shall automatically become null and void and shall have no further force or effect. Electronic acceptance of this Restricted Stock Agreement shall constitute an execution of the Restricted Stock Agreement by the Recipient and a return of the counter-signed copy to the Company for purposes of this Section 18. 
+
+IN WITNESS WHEREOF, the parties hereto have executed and delivered this Restricted Stock Agreement on the day and year first above written.   
+  
+Health Net, Inc.  
+  
+Name:  
+Title:  
+THE UNDERSIGNED RECIPIENT HEREBY EXPRESSLY ACKNOWLEDGES AND AGREES THAT HE/SHE IS AN EMPLOYEE AT WILL AND MAY BE TERMINATED BY THE EMPLOYER AT ANY TIME, WITH OR WITHOUT CAUSE.  
+The undersigned hereby accepts and agrees to all the terms and provisions of the foregoing Restricted Stock Agreement and to all the terms and provisions of the Health Net, Inc. [PLAN NAME], as amended to date, incorporated by reference herein.  
+Recipient:  
+  
+[NAME]  
+  
+* * *
+
+IRREVOCABLE PROXY 
+
+I, the undersigned, hereby irrevocably authorize and empower [ ], the [ ] of Health Net, Inc. (the “Company”), and [ ], the [ ] of the Company, or each of their successors in the event either of them is no longer serving the Company in such capacity, (collectively, the “Proxies”) to represent me with respect to any and all shares of Restricted Stock (as such term is defined in the Restricted Stock Agreement (the “Restricted Stock Agreement”) by and between the Company and the undersigned) that are not yet vested, at any and all general meetings of the shareholders of the Company. 
+
+The Proxies are irrevocably authorized and empowered to receive, in my stead, any and all notices of and invitations to the Company’s general meetings, and to participate in all such general meetings; and the Proxies are authorized and empowered to vote all such unvested shares in such manner as the Proxies shall, in their sole discretion, deem to be in the best interests of the Company. 
+
+This proxy shall remain in full force and effect until the shares of Restricted Stock granted to me pursuant to the Restricted Stock Agreement have vested in accordance with the terms of the Restricted Stock Agreement, unless otherwise determined by the Company in writing. 
+
+NAME: 
+
+DATE: 
+
+SIGNATURE: 

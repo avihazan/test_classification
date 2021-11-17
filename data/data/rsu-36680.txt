@@ -1,0 +1,78 @@
+Exhibit 99.4 
+
+ACME PACKET, INC. 
+
+
+
+(Form of RSU Agreement for Executives) 
+
+This RESTRICTED STOCK UNIT AGREEMENT, dated as of [ ] (this “Agreement”), is between ACME PACKET, INC., a Delaware corporation (the “Company”), and [ ] (the “Grantee”). Capitalized terms used herein without definition shall have the meaning ascribed to such terms in the Company’s 2006 Equity Incentive Plan, a copy of which is attached hereto as Exhibit A (the “Plan”). 
+
+1\. Grant of Restricted Stock Unit Award. Pursuant to the Plan, the Company grants to the Grantee a total of [ ] Restricted Stock Units (the “Units”), subject to adjustment pursuant to Section 8 of the Plan. Subject to, and in accordance with, the provisions of Section 2 below, each Unit entitles Grantee to receive from the Company one (1) share of Common Stock in accordance with the terms of this Agreement and the Plan. This Award is granted as of [ ] (the “Grant Date”). As used herein, the term “Vesting Start Date” shall mean [ ]. 
+
+2\. Settlement of Units. 
+
+(a) Settlement. On the fifth business day after the day on which any Units are no longer subject to risk of forfeiture pursuant to, and in accordance with, Section 3 below, the Company shall deliver or cause to be delivered to Grantee a stock certificate registered in the name of Grantee in respect of the shares of Common Stock subject to such Units. 
+
+(b) Other Lapse or Termination of Risk of Forfeiture. With respect to any Units that remain subject to risk of forfeiture under Section 3 on the fifth business day after the day on which such risk of forfeiture shall have lapsed or terminated pursuant to, and in accordance with, the provisions of Section 4 below, the Company shall deliver or cause to be delivered to Grantee a stock certificate registered in the name of Grantee in respect of the shares of Common Stock subject to those Units in respect of which such risk of forfeiture shall have so lapsed or terminated. 
+
+(c) Effect of Settlement. Upon delivery of a stock certificate to the Grantee pursuant to the provisions of this Section 2, the corresponding portion of the Units being settled shall be satisfied in full and Grantee shall have no further rights with respect thereto. 
+
+3\. Forfeiture; Lapse of Risk of Forfeiture. Subject to the other provisions of this Section 3 and to the provisions of Section 4 below, the Units shall be forfeited (without any settlement thereof pursuant to Section 2(a) above) if the Grantee’s association with the Company or any of its Affiliates as an employee, director or consultant ends for any reason or no reason, regardless of whether the end of such 
+
+* * *
+
+-2- 
+
+association is effected by the Company, any such Affiliate or the Grantee (whether voluntarily or involuntarily, including because an entity with which the Grantee has any such association ceases to be an Affiliate of the Company), and immediately following the end of any such association, the Grantee is not associated with the Company or any of its Affiliates as an employee, director or consultant, or if the Grantee dies; provided, however, that military or sick leave or other bona fide leave shall not be deemed a termination of employment, if it does not exceed the longer of ninety (90) days or the period during which the absent original grantee’s reemployment rights, if any, are guaranteed by statute or by contract. Notwithstanding the foregoing provisions of this Section 3 to the contrary, (i) 100% of the Units shall be forfeited if the employment of the Grantee with the Company terminates for any reason at any time prior to the one year anniversary of the Vesting Start Date (the date of such first anniversary, the “First Vesting Date”), (ii) 25% of the Units shall no longer be subject to forfeiture if the Grantee continues to be employed by the Company on the First Vesting Date, (iii) of the remaining 75% of the Units, 6.25% of the applicable Units shall no longer be subject to forfeiture per each applicable three-month period thereafter that the Grantee remains an employee of the Company, with the first such lapse in the risk of forfeiture lapsing on the first three-month anniversary of the First Vesting Date, and an additional of such lapses in the risk of forfeiture lapsing on each subsequent three-month anniversary of the First Vesting Date thereafter, such that the risk of forfeiture will have lapsed with respect to 100% of the applicable Units on the three-year anniversary of the First Vesting Date, with each such lapse in the risk of forfeiture being as nearly equal as practicable (as determined by the Company in its reasonable discretion); provided, however, that the foregoing provisions of this sentence shall only operate to release Units from risk of forfeiture under this Section 3 until and including the date that the Grantee has no association with the Company or any of its Affiliates as an employee, director or consultant. 
+
+4\. Acceleration or Other Termination of Risk of Forfeiture. 
+
+(a) Upon Election by the Board or the Compensation Committee. Notwithstanding anything in Section 3 above to the contrary, the Board or the Compensation Committee may, at any time and in its discretion in accordance with the provisions of Section 7.3(a) of the Plan, cause any or all Units that remain subject to a risk of forfeiture under Section 3 hereof to cease to be subject to such risk of forfeiture. 
+
+(b) Upon Termination of Employment Following a Change of Control. Notwithstanding anything in Section 3 above to the contrary but subject to the provisions of Section 4(c) below, in the event that (i) a Change of Control occurs prior to the time that all of the Units shall no longer be subject to any risk of forfeiture under Section 3, (ii) the Grantee is an employee of the Company or any of its Affiliates immediately prior to such Change of Control, and (iii) either (A) the Grantee voluntarily terminates his employment with the Company and all of its Affiliates following (x) any material adverse change (without Grantee’s written consent) in the authorities, duties or responsibilities of Grantee’s employment with the Company or any of its Affiliates that occurs as a result of, or after, such Change of Control or (y) any relocation of the Grantee 
+
+* * *
+
+-3- 
+
+(without his written consent) by the Company or any of its Affiliates after such Change of Control to a location that increases Grantee’s commute prior to such relocation by more than fifty (50) miles or (B) the Company or any of its Affiliates terminates the Grantee’s employment with the Company and all of its Affiliates for any reason or no reason (other than Cause, as such term is defined in Section 4(d) below), in the case of any of the foregoing clauses (A) or (B) if the applicable termination of employment occurs at any time within 365 days after the occurrence of such Change of Control, then one hundred percent (100%) of such Units that are, immediately prior to any such termination of employment by Grantee or by the Company or any of its Affiliates, still subject to risk of forfeiture under Section 3 shall, immediately following any such termination of employment by Grantee or by the Company or any of its Affiliates, no longer be subject to any risk of forfeiture under Section 3 above, as applicable. In the case of those Units that are, immediately prior to any such termination of employment by Grantee or by the Company or any of its Affiliates, still subject to risk of forfeiture under Section 3, the foregoing provisions of this Section 4(b) shall be implemented ratably across all of such Units regardless of the date when each of such Units would have otherwise no longer been subject to risk of forfeiture under Section 3 above. 
+
+(c) Continuation of Employment by Successor. If the Grantee is an employee of the Company or any of its Affiliates immediately prior to a Change of Control, then employment of the Grantee following such Change of Control by any person or entity that is the successor or acquiror of the Company as a result of such Change of Control or that is the parent company or affiliate of such successor or acquiror (in either case, the “Successor Employer”) shall be treated under this Agreement as if the Grantee continued to be employed by the Company, and in such context any reference in this Agreement to the Company shall be deemed to be a reference to the Successor Employer. 
+
+(d) Definition of Cause. For purposes of this Agreement, the term “Cause” shall mean (i) if the Grantee is convicted of, or pleads guilty or no contest to, a felony or any crime involving moral turpitude, deceit, dishonesty or fraud; (ii) any act of embezzlement, theft, sexual harassment, discrimination, fraud or other acts of a criminal nature by the Grantee in his dealings with the Company, any of its Affiliates or any of their respective employees or representatives, as determined by the Board of Directors of the Company; (iii) the breach by the Grantee of any material term of an agreement with the Company or any of its Affiliates, including covenants not to compete and provisions relating to confidential information and intellectual property rights; or (iv) any failure by the Grantee to comply with a specific directive given by the Company’s executive officers or Board of Directors which failure has not been cured within 30 days after written notice from the Company. 
+
+5\. Dividends. Grantee shall not be entitled to receive payments equivalent to any dividends declared with respect to Common Stock underlying the Units. 
+
+6\. Transfer of Units. Other than as expressly permitted by the provisions of Section 7.3(e) of the Plan, the Units may not be transferred except by will or the laws of descent and distribution and, during the lifetime of the Grantee, may be exercised only by the Grantee. 
+
+* * *
+
+-4- 
+
+7\. Tax Withholding. Pursuant to Section 9.7 of the Plan, the Company has the right to require the Grantee to remit to the Company an amount sufficient to satisfy federal, state, local or other withholding tax requirements if, when, and to the extent required by law (whether so required to secure for the Company an otherwise available tax deduction or otherwise) prior to the delivery of any certificate or certificates for such shares issuable upon settlement of the Units. The obligations of the Company under this Agreement and the Plan shall be conditional on satisfaction of all such withholding obligations and the Company shall, to the extent permitted by law, have the right to deduct any such taxes from any payment of any kind otherwise due to the recipient of an Award. However, in such cases Grantee may elect, subject to the approval of the Committee, acting in its sole discretion, to satisfy any applicable withholding requirement, in whole or in part, by having the Company withhold shares to satisfy their tax obligations. Grantee may only elect to have shares of Common Stock withheld having a Market Value on the date the tax is to be determined equal to the minimum statutory total tax which could be imposed on the transaction. All elections shall be irrevocable, made in writing, signed by the Grantee, and shall be subject to any restrictions or limitations that the Committee deems appropriate. 
+
+8\. Incorporation of Plan Terms. The Units are granted subject to all of the applicable terms and provisions of the Plan, including, but not limited to, the limitations on the Company’s obligation to deliver shares of Common Stock upon termination of the restrictions set forth in Section 9.1 (Violation of Law), Section 9.2 (Corporate Restrictions on Rights in Stock), and Section 9.3 (Investment Representations). 
+
+9\. Miscellaneous. This Agreement shall be construed and enforced in accordance with the internal, substantive laws of The Commonwealth of Massachusetts and shall be binding upon and inure to the benefit of any successor or assign of the Company and any executor, administrator, trustee, guardian, or other legal representative of the Grantee. 
+
+[The remainder of this page is intentionally left blank.] 
+
+* * *
+
+-5- 
+
+IN WITNESS WHEREOF, the parties have executed this Restricted Stock Unit Agreement as a sealed instrument as of the date first above written.   
+  
+ACME PACKET, INC. GRANTEE  
+By:  
+  
+Name:  
+Title:  
+Grantee’s Address:  
+  
+* * *
+
+Exhibit A 
+
+2006 EQUITY INCENTIVE PLAN

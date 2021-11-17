@@ -1,0 +1,366 @@
+EXHIBIT 10.2
+
+CIMAREX ENERGY CO.
+
+1700 Lincoln Street, Suite 1800
+
+Denver, Colorado 80203-4518
+
+* * *
+
+NOTICE OF GRANT OF PERFORMANCE STOCK AWARD
+
+
+
+* * *
+
+Name:
+
+Plan: 2011 Equity Incentive Plan  
+  
+Address:
+
+ID: [Participant ID #]  
+  
+City:  
+  
+State:  
+  
+Zip Code:  
+  
+No. Shares Granted:
+
+Date of Grant:  
+  
+Restriction Period Ends: 3 years from date of grant  
+  
+By accepting this agreement online, you and Cimarex Energy Co. (the “Company”) agree that this Performance Stock Award is granted under and governed by the terms and conditions of the Company’s 2011 Equity Incentive Plan (the “Plan”) and the Award Agreement (the “Agreement”), both of which are attached and made a part of this document. In the event of a conflict between the terms and conditions of the Plan and the terms and conditions of the Agreement, the terms and conditions of the Plan will prevail.
+
+* * *
+
+  
+
+
+AWARD AGREEMENT
+
+1. Grant of Restricted Stock. Pursuant to the Plan and subject to the terms and conditions of this Agreement, you are granted the shares of restricted stock (“Restricted Stock”) as set forth in the foregoing Notice of Grant. Upon the Company’s achievement of pre-determined objectives for a specified performance period, some or all of the shares of Restricted Stock will vest (the “Vested Shares”). Prior to the end of the Performance Period (as defined in Paragraph 3), the Restricted Stock may be evidenced in the manner the Company deems appropriate, including, without limitation, a book-entry registration or issuance of a stock certificate or certificates. At the end of the Performance Period the shares will be disposed of as provided in Paragraph 7.
+
+2. Voting Rights and Ordinary Cash Dividends. Prior to the end of the Performance Period you are entitled to the voting rights of a holder of the Company’s common stock.
+
+During the Performance Period, you will receive dividends for each dividend record date occurring during the Performance Period on 50% of the shares that are subject to this grant (which represents the minimum number of shares payable under this award, as shown on Appendix A to this Agreement). With respect to the remaining number of shares subject to this grant, the Company will accrue dividends on those shares for each dividend record date occurring during the Performance Period. At the end of the Performance Period, the number of shares to be paid to you will be calculated in accordance with paragraph 4 of this Agreement. At that time you will receive the dividends accrued by the Company that are attributable to the shares paid to you in accordance with such calculation. Any dividends that are accrued on shares that are forfeited as a result of the calculation described in paragraph 4, will also be forfeited and returned to the Company’s general funds.
+
+3. Performance Period. Except as provided in Paragraphs 5 and 6, the “Performance Period” shall be the three-year period beginning with the Date of Grant as provided in the foregoing Notice of Award and ending on the December 31 immediately prior to the third anniversary of the Date of Grant. You may not sell, assign, transfer by gift or otherwise, pledge, hypothecate or otherwise dispose of, by operation of law or otherwise, any of the shares of Restricted Stock prior to expiration of the Performance Period.
+
+4. Performance Goals. The number of Vested Shares will be determined at the end of the Performance Period and will be based upon the Company’s stock price performance relative to that of a defined peer group. The peer group will be comprised of the exploration and production companies included in the S&P; 400 Oil and Gas Exploration index and the S&P; 500 Oil and Gas Exploration index, or any successor index, as of the last day of the Performance Period (“Peer Group”). The calculation of the exact number of Vested Shares to be issued shall be determined as follows:
+
+a. The calculated percentage difference between (i) and (ii), below:
+
+(i) the average (rounded to the second decimal place) of the per share closing price of the Company’s common stock and of each company in the Peer Group over 30 trading days preceding the beginning of the Performance Period, and
+
+(ii) the average (rounded to the second decimal place) of the per share closing price of the Company’s common stock and of each company in the Peer Group over 30 trading days preceding the end of the Performance Period.
+
+* * *
+
+  
+
+
+b. After determination of the percentage difference as provided in 4.a., the Company and the companies in the Peer Group will be ranked from the highest percentage to the lowest percentage.
+
+c. The Company’s relative performance percentile will be calculated by subtracting the Company’s absolute rank from the total number of companies in the Peer Group and dividing the result by the total number of companies in the Peer Group.
+
+d. The result obtained in 4.c. will serve as the basis for the percentage of Vested Shares to be held by you. The applicable percentages are set forth on Appendix A to this Agreement.
+
+5. Termination of Employment.
+
+a. Death or Disability. If your employment with the Company terminates on account of death or disability (as defined below) prior to the end of the Performance Period, you will receive the number of Vested Shares calculated in accordance with paragraph 4, except that the end of the Performance Period will be the date of death or disability.
+
+You will be considered disabled if you are (i) unable to engage in any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, or (ii) by reason of any medically determinable physical or mental impairment which can be expected to result in death or can be expected to last for a continuous period of not less than 12 months, receiving income replacement benefits for a period of not less than three months under an accident and health plan covering employees of Cimarex.
+
+b. Other Terminations. If your employment is terminated, voluntarily or involuntarily, for any reason other than death or disability prior to the end of the Performance Period, your Restricted Stock will be forfeited.
+
+6. Change of Control. Upon the occurrence of a Change of Control Event, as defined in the Plan, you will receive the number of Vested Shares calculated in accordance with paragraph 4, except that the end of the Performance Period shall be the date of the Change of Control Event.
+
+7. Removal of Restrictions. Upon expiration of the Performance Period, the Company will deliver to you the number of Vested Shares computed in accordance with this Agreement. In conformity with its insider trading policy, Cimarex may elect to electronically deliver the shares to your account at a brokerage firm selected by the Company. You shall forfeit and assign to the Company, without any consideration, any shares of Restricted Stock to which you are not entitled at the end of the Performance Period.
+
+8. Withholding Taxes. Unless you make other arrangements with the Company, the Company will withhold a number of Vested Shares having a Fair Market Value (as defined in the Plan) on the date of payment equal to the minimum statutory total tax that could be withheld on the transaction. You may also make arrangements with the Company to pay the amount of taxes required by law or to deliver to the Company previously owned shares of common stock having a Fair Market Value on the date of payment equal to the minimum statutory total tax. In no event shall any form of payment made by you be permitted if it would result in an accounting charge with respect to shares delivered to pay such taxes, unless otherwise approved by the Company’s Compensation and Governance Committee.
+
+* * *
+
+  
+
+
+9. Effect of Prohibited Transfer. If any transfer of Restricted Stock is made or attempted to be made contrary to the terms of this Agreement, the Company will have the right to acquire, without the payment of any consideration, such shares from you or your transferee, at any time before or after a prohibited transfer. In addition to any other legal or equitable remedies it may have, the Company may enforce its rights to specific performance to the extent permitted by law and may exercise such other equitable remedies then available to it. The Company may refuse for any purpose to recognize any transferee who receives shares contrary to the provisions of this Agreement as a stockholder and may retain and/or recover all dividends on such shares that were paid or payable subsequent to the date on which the prohibited transfer was made or attempted.
+
+10. Miscellaneous.
+
+(a) Adjustments. Article IX of the Plan provides for certain adjustments to the number of shares of Common Stock covered by the Restricted Stock and other changes in connection with a reorganization or other changes to the Common Stock.
+
+(b) Change of Control. Section 5.2 of the Plan describes the actions that may be taken by the Committee with respect to the Restricted Stock upon the occurrence of a Change of Control Event.
+
+(c) Restrictions on Common Stock. Any shares of Common Stock acquired by you are subject to the Company’s Insider Trading Policy and may be subject to other restrictions on resale. Any sale or other disposition of shares by you must be made in compliance with the Company’s Insider Trading Policy, in effect from time to time, securities law and other applicable legal requirements.
+
+(d) Electronic Delivery. The Company may, in its sole discretion, decide to deliver any documents related to Restricted Stock awarded under the Plan or future Restricted Stock that may be awarded under the Plan by electronic means. You hereby consent to receive such documents by electronic delivery and agree to participate in the Plan through any on-line or electronic system established and maintained by the Company or another third party designated by the Company.
+
+(e) Amendment or Modifications to the Agreement. This Agreement constitutes the entire understanding of the parties on the subjects covered. You expressly warrant that you are not accepting this Agreement in reliance on any promises, representations, or inducements other than those contained herein. Modifications to this Agreement or the Plan may only be made in writing and signed by a duly authorized officer of the Company. Notwithstanding anything to the contrary in the Plan or this Agreement, the Company reserves the right to revise this Agreement as it deems necessary or advisable, in its sole discretion and without your consent, to comply with Section 409A of the Code or to otherwise avoid imposition of any additional tax or income recognition under Section 409A of the Code in connection with this Option.
+
+(f) Amendment or Termination of the Plan. By accepting this Performance Award, you expressly warrant that you have received the Restricted Stock under the Plan, and have received, read and are familiar with the terms of the Plan. You understand that the Plan is discretionary in nature and that it may be amended, suspended or terminated by the Company at any time.
+
+(g) Defined Terms. Capitalized terms have the meaning set forth in the Plan or herein, as the case may be.
+
+(h) Compliance with Securities Laws. This Agreement shall be subject to the requirement that if at any time counsel to the Company determines that the listing, registration or
+
+* * *
+
+  
+
+
+qualification of the shares of subject to the Restricted Stock upon any securities exchange or under any state or federal law, or the consent or approval of any governmental or regulatory body, is necessary as a condition of, or in connection with, the issuance or purchase of such shares thereunder, the Restricted Stock may not be awarded unless such listing, registration, qualification, consent or approval shall have been effected or obtained on conditions acceptable to the Committee. Nothing herein shall be deemed to require the Company to apply for, obtain, or keep current, any such listing, registration or qualification.
+
+(i) Construction; Severability. The section headings contained herein are for reference purposes only and shall not in any way affect the meaning or interpretation of this Agreement. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of any other provision of this Agreement, and each other provision of this Agreement shall be severable and enforceable to the extent permitted by law.
+
+(j) Waiver. Any provision contained in this Agreement may be waived, either generally or in any particular instance, by the Committee appointed under the Plan, but only to the extent permitted under the Plan.
+
+(k) Binding Effect. Subject to the limits on the transferability of the Restricted Stock, this Agreement shall be binding upon and inure to the benefit of the Company and you and their respective heirs, executors, administrators, legal representatives, successors and assigns.
+
+(l) No Right to Continued Employment. Nothing contained in this Agreement or the Plan shall be construed as giving you any right to remain employed by (or provide other service to) the Company, any Subsidiary or any Affiliated Entity. The Company reserves the right to terminate your employment (or other service) at any time.
+
+(m) Notices. Any notice required or permitted to be given under this Agreement shall be in writing and shall be delivered electronically, personally or mailed (U.S. Mail) by the Company to you at your then current address as maintained by the Company or such other address as you may advise the Company in writing. Any such notice shall be deemed to have been given as of the second day after deposit in the United States mails, postage prepaid, properly addressed as set forth in this paragraph, in the case of a mailed notice, or as of the date delivered in the case of electronic or personal delivery.
+
+(n) Governing Law. This Agreement and the Plan shall be governed by and construed in accordance with the laws of the State of Delaware except as superseded by applicable Federal law.
+
+Attachments:
+
+2011 Equity Incentive Plan  
+Plan Prospectus  
+Insider Trading Policy
+
+[REST OF THE PAGE IS LEFT BLANK INTENTIONALLY]
+
+* * *
+
+  
+
+
+Appendix A
+
+Cimarex Energy Co.
+
+Performance Award Agreement
+
+Performance  
+Percentile
+
+Percent of Target  
+Award
+
+Performance  
+Percentile
+
+Percent of Target  
+Award  
+  
+75% & greater
+
+100%
+
+49%
+
+74%  
+  
+74%
+
+99%
+
+48%
+
+73%  
+  
+73%
+
+98%
+
+47%
+
+72%  
+  
+72%
+
+97%
+
+46%
+
+71%  
+  
+71%
+
+96%
+
+45%
+
+70%  
+  
+70%
+
+95%
+
+44%
+
+69%  
+  
+69%
+
+94%
+
+43%
+
+68%  
+  
+68%
+
+93%
+
+42%
+
+67%  
+  
+67%
+
+92%
+
+41%
+
+66%  
+  
+66%
+
+91%
+
+40%
+
+65%  
+  
+65%
+
+90%
+
+39%
+
+64%  
+  
+64%
+
+89%
+
+38%
+
+63%  
+  
+63%
+
+88%
+
+37%
+
+62%  
+  
+62%
+
+87%
+
+36%
+
+61%  
+  
+61%
+
+86%
+
+35%
+
+60%  
+  
+60%
+
+85%
+
+34%
+
+59%  
+  
+59%
+
+84%
+
+33%
+
+58%  
+  
+58%
+
+83%
+
+32%
+
+57%  
+  
+57%
+
+82%
+
+31%
+
+56%  
+  
+56%
+
+81%
+
+30%
+
+55%  
+  
+55%
+
+80%
+
+29%
+
+54%  
+  
+54%
+
+79%
+
+28%
+
+53%  
+  
+53%
+
+78%
+
+27%
+
+52%  
+  
+52%
+
+77%
+
+26%
+
+51%  
+  
+51%
+
+76%
+
+25% & less
+
+50%  
+  
+50%
+
+75%  
+  
+* * *

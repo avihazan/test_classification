@@ -1,0 +1,146 @@
+FIRST AMENDMENT
+
+TO
+
+
+
+DATED AS OF FEBRUARY 18, 2013
+
+AMONG
+
+EMERALD OIL, INC.,  
+as Borrower,
+
+The guarantors PARTY HERETO,
+
+Wells Fargo Bank, N.A.,  
+as Administrative Agent,
+
+and
+
+The Lenders Party Hereto
+
+SOLE BOOKRUNNER AND SOLE LEAD ARRANGER
+
+WELLS FARGO SECURITIES LLC  
+  
+FIRST AMENDMENT TO CREDIT AGREEMENT
+
+This First Amendment to Credit Agreement (this “First Amendment”) dated as of February 18, 2013, is among Emerald Oil, Inc., a Montana corporation (the “Borrower”), each of the undersigned guarantors (the “Guarantors”), each Lender (as defined below) party hereto, and Wells Fargo Bank, N.A., as administrative agent for the Lenders (in such capacity, together with its successors and assigns, the “Administrative Agent”).
+
+RECITALS
+
+A. The Borrower, the Administrative Agent and the banks and other financial institutions from time to time party thereto (together with their respective successors and assigns in such capacity, each as a “Lender”) have entered into that certain Credit Agreement dated as of November 20, 2012 (as amended, restated, modified or supplemented from time to time until the date hereof, the “Credit Agreement”).
+
+B. The Borrower has requested and each Lender has agreed to amend certain provisions of the Credit Agreement.
+
+C. NOW, THEREFORE, to induce the Administrative Agent and the Lenders to enter into this First Amendment and in consideration of the premises and the mutual covenants herein contained, for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Section 1\. Definitions. Unless otherwise defined in this First Amendment, each capitalized term used in this First Amendment has the meaning assigned to such term in the Credit Agreement. Unless otherwise indicated, all section references in this First Amendment refer to sections of the Credit Agreement.
+
+Section 2\. Amendments to Credit Agreement.
+
+2.1 Section 1.02.
+
+(a) Section 1.02 is hereby amended by deleting the defined terms “Agreement”, “Change of Control”, “Debt” and “Preferred Stock Agreement” in their entirety and replacing them with the following respective terms:
+
+‘“Agreement’ means this Credit Agreement, including the Schedules and Exhibits hereto, as amended by the First Amendment to Credit Agreement dated as of February 18, 2013, as the same may be amended, amended and restated, supplemented or modified from time to time.
+
+‘Change in Control’ means (a) the acquisition of ownership, directly or indirectly, beneficially or of record, by any Person or group (within the meaning of the Securities Exchange Act of 1934 and the rules of the SEC thereunder as in effect on the date hereof), of Equity Interests representing more than 35% of the ordinary voting power represented by the issued and outstanding Equity Interests of the Borrower (determined on a fully diluted basis), (b) the board of directors of the Borrower shall cease to consist of a majority of Continuing Directors or (c) a “Change of Control” as such term is defined in the Preferred Stock Agreement.
+
+1  
+  
+‘Debt’ means, for any Person, the sum of the following (without duplication): (a) all obligations of such Person for borrowed money or evidenced by bonds, bankers’ acceptances, debentures, notes or other similar instruments; (b) all obligations of such Person (whether contingent or otherwise) in respect of letters of credit, surety or other bonds and similar instruments; (c) all accounts payable and all accrued expenses, liabilities or other obligations of such Person to pay the deferred purchase price of Property or services (excluding accounts payable and accrued expenses, liabilities or other obligations to pay the deferred purchase price of Property or services, from time to time incurred in the ordinary course of business which are not greater than ninety (90) days past the date of invoice or delinquent or which are being contested in good faith by appropriate action and for which adequate reserves have been maintained in accordance with GAAP); (d) all obligations under Capital Leases; (e) all obligations under Synthetic Leases; (f) all Debt (as defined in the other clauses of this definition) of others secured by (or for which the holder of such Debt has an existing right, contingent or otherwise, to be secured by) a Lien on any Property of such Person, whether or not such Debt is assumed by such Person; (g) all Debt (as defined in the other clauses of this definition) of others guaranteed by such Person or in which such Person otherwise assures a creditor against loss of the Debt (howsoever such assurance shall be made) to the extent of the lesser of the amount of such Debt and the maximum stated amount of such guarantee or assurance against loss; (h) all obligations or undertakings of such Person to maintain or cause to be maintained the financial position or covenants of others or to purchase the Debt or Property of others; (i) obligations to deliver commodities, goods or services, including Hydrocarbons, in consideration of one or more advance payments, other than gas balancing arrangements in the ordinary course of business; (j) obligations to pay for goods or services even if such goods or services are not actually received or utilized by such Person; (k) any Debt of a partnership for which such Person is liable either by agreement, by operation of law or by a Governmental Requirement but only to the extent of such liability; (l) Disqualified Capital Stock; and (m) the undischarged balance of any production payment created by such Person or for the creation of which such Person directly or indirectly received payment; provided however, that any portion of the Preferred Stock and the Warrant Shares required by GAAP (as in effect on the First Amendment Effective Date) to be classified as debt on the balance sheet of the Borrower shall not be “Debt”. The Debt of any Person shall include all obligations of such Person of the character described above to the extent such Person remains legally liable in respect thereof notwithstanding that any such obligation is not included as a liability of such Person under GAAP.
+
+2  
+  
+‘Preferred Stock Agreement’ means that certain securities purchase agreement entered into among the Borrower, WDE Emerald Holdings LLC and White Deer Energy Fl L.P. dated as of February 1, 2013.”
+
+(b) Section 1.02 is hereby amended by amending the defined term “Disqualified Capital Stock” by inserting the phrase “and the Warrant Shares” after the phrase “the Preferred Stock” in the last sentence of such definition.
+
+(c) Section 1.02 is hereby amended by adding the following defined term in the appropriate alphabetical order:
+
+“First Amendment” means that certain First Amendment to Credit Agreement among the Borrower, the Administrative Agent and the Lenders dated as of February 18, 2013.
+
+“First Amendment Effective Date” has the meaning assigned such term in the First Amendment.
+
+‘Warrant Agreement’ means that certain Warrant to purchase 5,114,633 shares of Common Stock at an initial price of $5.77 per share, issued by the Borrower to WDE Emerald Holdings LLC and White Deer Energy Fl L.P.
+
+‘Warrant Shares’ means shares issued or issuable upon exercise of the Warrant Agreement.”
+
+2.2 Section 8.17. Section 8.17 is hereby amended and restated in its entirety to read as follows:
+
+“Section 8.17 Preferred Stock. The Borrower may amend the Preferred Stock Agreement the Warrant Agreement or any other agreement or condition relating to any such Preferred Stock or Warrant Shares or contained in any instrument or agreement relating thereto from time to time provided that any such amendment which would (a) increase the number of Preferred Shares or Warrants issuable thereunder, (b) alter any redemption requirement or (c) materially affect the Loans, the priority of the Liens and security interests of the Administrative Agent in the collateral and Oil and Gas Properties, the Credit Documents or any Credit Party, must be approved by all of the Lenders.”
+
+2.3 Section 9.02. Section 9.02(f) is hereby amended and restated in its entirety to read as follows:
+
+“(f) [Reserved].”
+
+2.4 Section 9.04. Section 9.04(iv) is hereby amended and restated in its entirety to read as follows:
+
+3  
+  
+“(iv) so long as no Default, Event of Default or Borrowing Base Deficiency is occurring or would result therefrom, the Borrower may make dividends with respect to the Preferred Stock at a rate of no more than 10% per annum either by (A) issuing additional Preferred Stock or (B) in cash.”
+
+2.5 Section 10.01(l). Section 10.01(l) is hereby amended and restated in its entirety to read as follows:
+
+“(l) the Borrower or any other Loan Party shall (i) fail to make any payment in an amount of $250,000 or more (whether in the form of an exchange or redemption or a dividend) in respect of any Preferred Stock or Warrant Shares, when and as the same shall become due and payable or (ii) default in the observance or performance of any material covenant or agreement in the Preferred Stock Agreement, the Warrant Agreement or any other agreement or condition relating to any such Preferred Stock or Warrant Shares or contained in any instrument or agreement relating thereto and such failure shall continued unremedied for any applicable grace period contained in the Preferred Stock Agreement, the Warrant Agreement or such other instrument or agreement relating thereto, as applicable.”
+
+2.6 Section 12.02. Section 12.02(a) is hereby amended by numbering the second paragraph thereof 12.02(b) and deleting the last sentence of such paragraph and replacing in its entirety to read as follows:
+
+“Notwithstanding the foregoing, the Borrower and the Administrative Agent may amend this Agreement or any other Loan Document without the consent of the Lenders in order to correct, amend or cure any ambiguity, inconsistency or defect or correct any typographical error or other manifest error in any Loan Document.”
+
+Section 3\. Effectiveness. This First Amendment shall become effective on the first date on which each of the conditions set forth in this Section 3 is satisfied (the “First Amendment Effective Date”):
+
+3.1 The Administrative Agent shall have received duly executed counterparts (in such number as may be requested by the Administrative Agent) of this First Amendment from the Borrower, each Guarantor and each Lender.
+
+3.2 The Borrower shall have paid all fees and other amounts due and payable on or prior to the First Amendment Effective Date to the extent invoiced, all reasonable out-of-pocket expenses required to be reimbursed or paid by the Borrower under the Credit Agreement.
+
+3.3 The Administrative Agent shall be reasonably satisfied with the terms and conditions of the Preferred Stock Agreement.
+
+3.4 No Default or Event of Default shall have occurred and be continuing as of the date hereof, after giving effect to the terms of this First Amendment.
+
+4  
+  
+Section 4\. Governing Law. THIS FIRST AMENDMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+
+Section 5\. Miscellaneous. (a) On and after the effectiveness of this First Amendment, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in each other Loan Document to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement as amended or otherwise modified by this First Amendment; (b) the execution, delivery and effectiveness of this First Amendment shall not, except as expressly provided herein, operate as a waiver of any default of the Borrower or any right, power or remedy of the Administrative Agent or the Lenders under any of the Loan Documents, nor constitute a waiver of any provision of any of the Loan Documents; (c) this First Amendment may be executed in any number of counterparts, all of which taken together shall constitute one and the same instrument and any of the parties hereto may execute this Agreement by signing any such counterpart; and (d) delivery of an executed counterpart of a signature page to this First Amendment by telecopier or electronic mail shall be effective as delivery of a manually executed counterpart of this First Amendment.
+
+Section 6\. Ratification and Affirmation; Representations and Warranties. The Borrower and each Guarantor hereby (a) acknowledges the terms of this First Amendment; (b) ratifies and affirms its obligations under, and acknowledges, renews and extends its continued liability under, each Loan Document to which it is a party and agrees that each Loan Document to which it is a party remains in full force and effect, except as expressly amended or modified hereby and (c) represents and warrants to the Lenders that as of the First Amendment Effective Date, after giving effect to the terms of this First Amendment: (i) all of the representations and warranties contained in each Loan Document to which it is a party are true and correct in all material respects (unless already qualified by materiality in which case such applicable representation and warranty shall be true and correct), except to the extent any such representations and warranties are expressly limited to an earlier date, in which case, such representations and warranties shall continue to be true and correct in all material respects (unless already qualified by materiality in which case such applicable representation and warranty shall be true and correct) as of such specified earlier date, and (ii) no Default or Event of Default has occurred and is continuing.
+
+Section 7\. Loan Document. This First Amendment is a Loan Document as defined and described in the Credit Agreement and all of the terms and provisions of the Credit Agreement relating to Loan Documents shall apply hereto.
+
+Section 8\.  No Oral Agreements. THE CREDIT AGREEMENT AND THE OTHER LOAN DOCUMENTS, INCLUDING THIS FIRST AMENDMENT, embody the entire agreement and understanding between the parties and supersede all other agreements and understandings between such parties relating to the subject matter hereof and thereof AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES. THERE ARE NO UNWRITTEN ORAL AGREEMENTS BETWEEN THE PARTIES.
+
+[Signature Pages Follow]
+
+5  
+  
+IN WITNESS WHEREOF, the parties hereto have caused this First Amendment to be executed by their officers thereunto duly authorized as of the date first above written.
+
+BORROWER: EMERALD OIL, INC., a Montana corporation  
+By: /s/ Paul Wiesner  
+Name: Paul Wiesner  
+Title: Chief Financial Officer  
+  
+GUARANTOR: EMERALD OIL NORTH AMERICA, INC., f/k/a Emerald Oil, Inc., a Delaware corporation  
+EMERALD WB LLC  
+EMERALD GRB LLC  
+EMERALD TR LLC  
+EMERALD HEATH LLC  
+By: /s/ Paul Wiesner  
+Name: Paul Wiesner  
+Title: Chief Financial Officer, for and on behalf of each of the foregoing Guarantors  
+  
+Signature Page
+
+Emerald oil, inc – First Amendment  
+  
+ADMINISTRATIVE AGENT AND LENDER: WELLS FARGO BANK, N.A., as Administrative Agent and as a Lender  
+By: /s/ Suzanne F. Ridenhour  
+Name: Suzanne F. Ridenhour  
+Title:  Director  
+  
+Signature Page
+
+Emerald oil, inc – First Amendment

@@ -1,0 +1,189 @@
+Exhibit 10.16
+
+
+
+  
+
+
+AGREEMENT made as of the 4th day of December, 2013, by and between Mojo Organics, Inc., a Delaware corpora­tion (the “Company”), and (the “Holder”).
+
+  
+
+
+WHEREAS, on December 4, 2013, pursuant to the Company 2012 Long-Term Incentive Equity Plan (the “Plan”), the Company’s Board of Directors (“Board”) determined to issue to the Holder, in consideration of  , [l] shares of common stock of the Company, $.001 par value (“Shares”), conditioned upon the Holder’s acceptance thereof upon the terms and conditions set forth in this Agreement; and
+
+  
+
+
+WHEREAS, the Holder desires to acquire the Shares on the terms and conditions set forth in this Agreement;
+
+  
+
+
+IT IS AGREED:
+
+  
+
+
+1\. Grant of Restricted Shares.
+
+  
+
+
+(i) The Company hereby issues to the Holder [l] Shares on the terms and conditions set forth herein. All of the Shares shall be subject to forfeiture during the period terminating December 4, 2014 (“Restriction Period”). The Shares shall be represented by one stock certificate (“Restricted Stock Certificate”) registered in the name of the Holder, which certificate shall bear the legends set forth in Sections 5(v) and 5(vi) of this Agreement. The Restricted Stock Certificate shall be deposited by the Holder with the Company, together with stock powers endorsed in blank, which will permit transfer to the Company of all or any portion of the Shares represented by such certificates (the “Restricted Shares”) that shall be forfeited or shall not become vested in accordance with the terms of this Agreement.
+
+  
+
+
+(ii) After issuance, the Restricted Shares shall constitute issued and outstanding shares of Common Stock for all corporate purposes unless and until forfeited in accordance with the terms hereof. The Holder shall have the right to vote such Restricted Shares, to receive and retain all cash dividends as the Board may, in its sole discretion, pay on such Restricted Shares, and to exercise all of the rights, powers and privileges of a holder of Common Stock with respect to such Restricted Shares, except that (a) the Holder shall not be entitled to delivery of the Restricted Stock Certificate until the Restricted Shares represented by the Restricted Stock Certificate vest in accordance with subparagraph (iii) below; and (b) other than cash dividends as the Board, in its sole discretion, distributes, the Company will retain custody of all distributions (“Retained Distributions”) made or declared with respect to the Restricted Shares (and such Retained Distributions will be subject to the same restrictions, terms and conditions as applicable to the Restricted Shares) until such time, if ever, as the Restricted Shares with respect to which such Retained Distributions shall have been distributed have become vested.
+
+  
+
+
+(iii) On December 4, 2014, if the Holder is still employed by the Company, the Restricted Shares and the Retained Distributions with respect thereto shall become vested. After the date that any of the Restricted Shares become vested, upon the request of the Holder the Company shall promptly instruct its transfer agent to issue and deliver to the Holder a new certificate for the Shares that have vested, which certificate shall not bear the legend set forth in Section 5(vi). If, at any time prior to the vesting of the Restricted Shares in accordance with this Section 1(iii), the Holder’s [employment/relationship] with the Company is terminated, then the Restricted Shares that have not then vested (and the Retained Distributions with respect thereto) shall be forfeited to the Company and the Holder shall not thereafter have any rights with respect to such Restricted Shares. Notwithstanding the foregoing, if Holder’s [employment/relationship] with the Company is terminated at any time other than by the Company for “cause” or by the Holder without “good reason” [(each as defined in the Holder’s employment agreement with the Company)], then all of the Restricted Shares shall automatically vest. [As used herein, “Cause” shall mean: (a) the refusal or failure by Holder to carry out specific reasonable directions of the person Holder reports to or the Board of Directors which are of a material nature and consistent with Holder’s position or the refusal or failure by Holder to perform a reasonable material part of Holder’s duties to the Company; (b) fraud or dishonest action by Holder in his relations with the Company or any of its subsidiaries or affiliates (“dishonest ” for these purposes shall mean Holder knowingly making a material misstatement or omission for Holder’s personal benefit); or (c) the conviction of Holder of a felony under federal or state law. Notwithstanding the foregoing, no “Cause” for termination shall be deemed to exist with respect to Holder’s acts described in clause (a) above, unless the Company shall have given written notice to Holder within a period not to exceed seven (7) calendar days of the Company’s knowledge of the initial existence of the occurrence, specifying the “Cause” with reasonable particularity and, within seven (7) calendar days after such notice, Holder shall not have cured or eliminated the problem or thing giving rise to such “Cause;” provided, however, no more than two cure periods need be provided during any twelve-month period. As used herein, “Good Reason” shall mean the occurrence of any of the following circumstances without Holder’s prior written consent: (a) material breach of this Agreement by the Company; (b) a failure by the Company to make any payment to Holder when due, unless the payment is not material or is being contested by the Company, in good faith; or (c) a liquidation, bankruptcy or receivership of the Company. Notwithstanding the foregoing, no “Good Reason” shall be deemed to exist with respect to the Company ’s acts described in clauses (a) or (b) above, unless Holder shall have given written notice to the Company within a period not to exceed seven (7) calendar days of Holder’s knowledge of the initial existence of the occurrence, specifying the “Good Reason” with reasonable particularity and, within seven (7) calendar days after such notice, the Company shall not have cured or eliminated the problem or thing giving rise to such “Good Reason”; provided, however, that no more than two cure periods shall be provided during any twelve-month period.]
+
+1
+
+* * *
+
+(iv) Nothing in this Agreement shall confer on the Holder any right to continue in the employ of, or other relationship with, the Company (or with any parent, subsidiary or affiliate of the Company) or limit in any way the right of the Company (or of any parent, subsidiary or affiliate of the Company) to terminate the Holder’s [employment or other] relationship with the Company (or with any parent, subsidiary or affiliate of the Company) at any time, with or without cause.
+
+  
+
+
+2\. Withholding Tax. Not later than the date as of which an amount first becomes includible in the gross income of the Holder for federal income tax purposes with respect to the Shares, the Holder shall pay to the Com­pany, or make arrangements satisfactory to the Board, regarding the payment of, any federal, state and local taxes of any kind required by law to be withheld or paid with respect to such amount. In the event the Holder is no longer employed by the Company on the date any shares vest in accordance with Section 1 above, the Company shall have the right to withhold from the Shares such a number of Shares having a Fair Market Value (as defined below) on the date of withholding equal to the minimum amount (and not any greater amount) required to be withheld for tax purposes. The obligations of the Company pursuant to this Agreement shall be conditional upon such pay­ment or arrangements with the Company and the Company shall, to the extent permitted by law, have the right to deduct any such taxes from any payment of any kind otherwise due to the Holder from the Company. Solely for purposes of this section, “Fair Market Value” means as of any given date: (i) if the Shares are listed on a national securities exchange or The Nasdaq Stock Market, LLC (“Nasdaq”), the last sale price of the Shares in the principal trading market for the Shares on such date, as reported by the exchange or Nasdaq, as the case may be; (ii) if the Shares are not listed on a national securities exchange or Nasdaq, but are traded in the over-the-counter market, the closing bid price for the Shares on such date, as reported by the OTC Bulletin Board or Pink Sheets, LLC or similar publisher of such quotations; and (iii) if the fair market value of the Shares cannot be determined pursuant to clause (i) or (ii) above, such price as the Board shall determine, in good faith.
+
+2
+
+* * *
+
+3\. Nonassignability of Restricted Shares. The Restricted Shares shall not be assignable or transferable until they have vested.
+
+  
+
+
+4\. Company Representations. The Company hereby represents and warrants to the Holder that:
+
+  
+
+
+(i) the Company, by appropriate and all required action, is duly authorized to enter into this Agreement and consummate all of the transactions contemplated hereunder; and
+
+  
+
+
+(ii) the Shares, when issued and delivered by the Company to the Holder in accordance with the terms and conditions hereof, will be duly and validly issued and fully paid and non-assessable.
+
+  
+
+
+5\. Holder Representations. The Holder hereby represents and warrants to the Company that:
+
+  
+
+
+(i) he is acquiring the Shares for his own account and not with a view towards the distribution thereof;
+
+  
+
+
+(ii) he understands that he must bear the economic risk of the invest­ment in the Shares, which cannot be sold by him unless they are registered under the Securities Act of 1933, as amended (“Securities Act”), or an exemption therefrom is available thereunder and that the Company is under no obli­gation to register the Shares for sale under the Securities Act;
+
+  
+
+
+(iii) in his position with the Company, he has had both the opportunity to ask questions and receive answers from the officers and directors of the Company and all persons act­ing on its behalf concerning the terms and conditions of the offer made hereunder and to obtain any additional informa­tion to the extent the Company possesses or may possess such infor­mation or can acquire it without unreasonable effort or expense;
+
+  
+
+
+(iv) he is aware that the Company shall place stop transfer orders with its transfer agent against the transfer of the Shares in the absence of registration under the Securities Act or an exemption therefrom as provided herein; and
+
+  
+
+
+(v) the certificates evidencing the Shares shall bear the following legend:
+
+  
+
+
+“THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE BEEN ACQUIRED FOR INVESTMENT. THE SHARES MAY NOT BE SOLD OR TRANSFERRED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933, AS AMENDED, OR AN EXEMPTION THEREFROM UNDER SAID ACT.”
+
+  
+
+
+(vi) the certificates evidencing the Restricted Shares shall also bear the following legend:
+
+  
+
+
+“THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE BEEN ACQUIRED PURSUANT TO A RESTRICTED STOCK AGREEMENT, A COPY OF WHICH IS ON FILE WITH THE COMPANY, AND MAY NOT BE TRANSFERRED, PLEDGED OR DISPOSED OF EXCEPT IN ACCORDANCE WITH THE TERMS AND CONDITIONS THEREOF.”
+
+3
+
+* * *
+
+6\. Restriction on Transfer of Shares. Anything in this Agreement to the contrary notwithstanding, the Holder hereby agrees that he shall not sell, transfer by any means or otherwise dispose of the Shares acquired by him without registration under the Securities Act, or in the event that they are not so registered, unless (i) an exemption from the Securities Act registra­tion requirements is avail­able thereunder, and (ii) the Holder has furnished the Company with notice of such proposed transfer and the Company’s legal coun­sel, in its reasonable opinion, shall deem such proposed transfer to be so exempt. Further, the Holder agrees that he shall abide by all of the Company’s policies in effect at the time the Shares vest and thereafter, including the Company’s Insider Trading Policy, with respect to the ownership and trading of the Company’s securities.
+
+  
+
+
+7\. Miscellaneous.
+
+  
+
+
+7.1. Notices. All notices, requests, deliv­eries, payments, demands and other communications that are required or permitted to be given under this Agreement shall be in writing and shall be either delivered personally or sent by regis­tered or certified mail, or by private courier, return receipt requested, postage prepaid to the Company at its principal executive office and to the Holder at his address set forth below, or to such other address as either party shall have specified by notice in writing to the other. Notice shall be deemed duly given hereunder when delivered or mailed as provided herein.
+
+  
+
+
+7.2. Waiver. The waiver by any party hereto of a breach of any provision of this Agreement shall not operate or be construed as a waiver of any other or subsequent breach.
+
+7.3. Entire Agreement. This Agreement consti­tute the entire agreement between the parties with respect to the subject matter hereof. This Agreement may not be amended except by writing executed by the Holder and the Company.
+
+  
+
+
+7.4. Binding Effect; Successors. This Agree­ment shall inure to the benefit of and be binding upon the parties hereto and, to the extent not prohibited herein, their respective heirs, successors, assigns and representatives. Nothing in this Agreement, expressed or implied, is intended to confer on any per­son other than the parties hereto and as provided above, their respective heirs, successors, assigns and representatives any rights, remedies, obligations or liabilities.
+
+  
+
+
+7.5. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Delaware (without regard to choice of law provisions).
+
+  
+
+
+7.6. Headings. The headings contained herein are for the sole purpose of convenience of reference, and shall not in any way limit or affect the meaning or interpretation of any of the terms or provisions of this Agreement.
+
+4
+
+* * *
+
+  
+
+
+  
+
+
+IN WITNESS WHEREOF, the parties hereto have signed this Agreement as of the day and year first above written.
+
+  
+
+
+HOLDER:  MOJO ORGANICS, INC.  
+By:   
+  
+Name:
+
+Name:  
+Title:  
+Address of Holder:  
+  
+  
+
+
+5
+
+* * *

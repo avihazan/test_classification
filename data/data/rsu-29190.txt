@@ -1,0 +1,285 @@
+Exhibit 10.11 
+
+EVERYWARE GLOBAL, INC. 
+
+
+
+[ ], 2012 
+
+[ ] 
+
+[ ] 
+
+[ ] 
+
+Re: EveryWare Global, Inc. (the “Company”)   
+  
+Grant of Nonqualified Stock Option
+
+Dear [ ]: 
+
+The Company is pleased to advise you that its Board of Directors (the “Board”) has granted to you a stock option (an “Option”), as provided below, under the 2012 EveryWare Global, Inc. Stock Option Plan (the “Plan”), a copy of which is attached hereto and incorporated herein by reference. The Option has been granted, and the Option Shares will be issued, pursuant to a “compensatory benefit plan” within the meaning of such term under Rule 701 of the Securities Act of 1933, as amended. 
+
+1\. Definitions. Each capitalized term used, but not defined, herein has the meaning ascribed to such term in the Plan and for the purposes of this Agreement, the following terms have the meanings set forth below: 
+
+“Company” shall mean EveryWare Global, Inc., a Delaware corporation, and (except to the extent the context requires otherwise) any subsidiary corporation of EveryWare Global, Inc., as such term is defined in Section 424(f) of the Code. 
+
+“Equity Securities” means (i) capital stock or other equity interests in the Company, (ii) obligations, evidences of indebtedness, or other securities or interests convertible or exchangeable into capital stock of the Company or other equity interests in the Company, and (iii) warrants, options, or other rights to purchase or otherwise acquire capital stock or other equity interests in the Company. 
+
+“MCP Investors” means, collectively, Monomoy Capital Partners, L.P., a Delaware limited partnership, MCP Supplemental Fund, L.P., a Delaware limited partnership, Monomoy Executive Co-Investment Fund, L.P., a Delaware limited partnership, Monomoy Capital Partners II, L.P., a Delaware limited partnership, and MCP Supplemental Fund II, L.P., a Delaware limited partnership. 
+
+“Net Sponsor Inflows” means all Sponsor Inflows less all Sponsor Outflows. 
+
+“Option Shares” shall mean (i) all shares of Class B Common Stock issued or issuable upon the exercise of the Option and (ii) all shares of Class B Common Stock issued with 
+
+* * *
+
+respect to the Class B Common Stock referred to in clause (i) above by way of stock dividend or stock split or in connection with any conversion, merger, consolidation or recapitalization or other reorganization affecting the Class B Common Stock. Option Shares shall continue to be Option Shares in the hands of any holder other than you (except for the Company or purchasers pursuant to a public offering under the Securities Act), and each such transferee thereof shall succeed to the rights and obligations of a holder of Option Shares hereunder. 
+
+“Sponsor Inflows” means, without duplication, as of the date of consummation of a Change of Control, all cash (excluding management fees and expense reimbursements and similar payments and amounts payable in respect of indebtedness) received by the MCP Investors with respect to or in exchange for Equity Securities (whether such payments are received from the Company or any third party) from the Effective Date (as defined in the Plan) through the date of consummation of such Change of Control. Notwithstanding the foregoing, if Equity Securities are converted into equity securities of another Person (including pursuant to any merger, recapitalization, reorganization or other similar transaction), such other equity securities shall not be treated as Sponsor Inflows and shall be treated as Equity Securities for all purposes of the definition of “Sponsor Inflows.” 
+
+“Sponsor Outflows” means, without duplication, as of the date of consummation of a Change of Control, all cash payments made and the fair market value of all other property contributed by (or on behalf of) the MCP Investors (on a cumulative basis) with respect to (including any contribution to the capital of the Company or any of its Subsidiaries) or in exchange for any Equity Securities (whether such payments are made to the Company or any third party on behalf of the Company) from the Effective Date through the date of consummation of such Change of Control. 
+
+“Type I Option Shares” means any Option Shares issuable upon exercise of the Type I Option. 
+
+“Type II Option Shares” means any Option Shares issuable upon exercise of the Type II Option. 
+
+2\. Option. 
+
+(a) Terms. Your Option is for the purchase of up to [ ] shares of Class B Common Stock at a price per share of $[ ] (the “Exercise Price”), payable upon exercise as set forth in Section 2(b) below and vesting as set forth in Section 3 below. Your Option shall expire at the close of business on the date that is ten (10) years following the date hereof (the “Expiration Date”), subject to earlier expiration as provided in Section 3(c) below or upon termination of your employment as provided in Section 4(b) below. Your Option to purchase [ ] shares of Class B Common Stock is referred to herein as your “Type I Option” and your option to purchase [ ] shares of Class B Common Stock is referred to herein as your “Type II Option.” Your Option is not intended to be an “incentive stock option” within the meaning of Section 422 of the Code. 
+
+(b) Payment of Option Price. Subject to Section 3 below, your Option may be exercised in whole or in part upon payment of an amount (the “Option Price”) equal to the 
+
+-2- 
+
+* * *
+
+product of (i) the Exercise Price multiplied by (ii) the number of Option Shares to be acquired. Payment shall be made in cash (including check, bank draft or money order) or, in the discretion of the Committee, by delivery of a promissory note (if in accordance with policies approved by the Board) or via cashless exercise in accordance with the Plan. 
+
+3\. Exercisability/Vesting. Your Option may be exercised only to the extent it has become vested. Your Type I Option is subject to vesting based upon your continued employment with the Company. Your Type II Option is subject to vesting based upon your continued employment with the Company and upon the achievement of certain performance hurdles as further described in this Section 3. 
+
+(a) Type I Option Vesting. Your Type I Option shall vest and become exercisable with respect to 20% of your Option Shares (rounded to the nearest whole share) upon each of the first five anniversaries of the date hereof, if and only if you are at such time, and have been, continuously employed by the Company since the date hereof. 
+
+(b) Type II Option Vesting. Your Type II Option shall vest and become exercisable upon the consummation of a Change of Control in accordance with the following schedule, provided that you are and have been continuously employed by the Company or its Subsidiaries as of the date of such event.   
+  
+Net Sponsor Inflows Range
+
+Cumulative Percentage  
+of Type II Shares that  
+Vest if Net Sponsor  
+Inflows Fall within  
+Corresponding Range  
+  
+Less than $151,549,000.01
+
+0 %   
+  
+$151,549,000.01 to $189,590,999.99
+
+30 %   
+  
+$189,591,000.00 to $225,309,999.99
+
+65 %   
+  
+Greater than $225,309,999.99
+
+100 %   
+  
+For the avoidance of doubt, each tranche of Type II Options corresponding to a particular dollar range of Net Sponsor Inflows shall vest in full only upon the achievement of the applicable minimum Net Sponsor Inflows in such range and shall not be subject to any proportionate, pro rata or ‘straight-line’ vesting. 
+
+(c) Effect on Vesting in Case of Employment Termination. Notwithstanding Sections 3(a) and 3(b) above, the following special vesting rules shall apply if your employment with the Company terminates prior to the Expiration Date: 
+
+(i) Death, Disability, Retirement. Unless otherwise determined by the Committee, if you die or become subject to any Disability while an employee of the Company or if you retire (with the approval of the Committee or the Board), then your Option shall be vested and become fully exercisable with respect to that portion of your Option that was vested and exercisable on the date of your death, Disability or retirement. Any portion of your Option that was not vested and exercisable on the date of your death, Disability or retirement shall expire and be forfeited. 
+
+-3- 
+
+* * *
+
+(ii) Other Termination of Employment. Unless otherwise determined by the Committee, if your employment terminates for any reason other than your death, Disability, retirement (with the approval of the Committee or the Board), resignation or discharge for Cause, then your Option shall be vested and fully exercisable with respect to that portion of your Option that was vested and exercisable on the date your employment with the Company ceased, and any portion of your Option that was not vested and exercisable on such date shall expire and be forfeited. If you resign or are discharged for Cause, all of your Option not previously exercised shall immediately expire and be forfeited whether vested and exercisable or not. 
+
+(d) Acceleration of Vesting on Change of Control. If you have been continuously employed by the Company from the date of this Agreement until a Change of Control, any portion of your outstanding Type I Option which has not become vested at the date of such event shall immediately vest and become exercisable simultaneously with the consummation of the Change of Control, notwithstanding that the Change of Control may have transpired prior to the applicable anniversary date. In any event, any portion of your Option (including any portion of your Type II Option) which has not been become vested and been exercised prior to or in connection with the Change of Control shall expire and be forfeited, unless otherwise determined by the Committee or the Board. 
+
+(e) Upon exercise of your Option, the Company will deliver certificates representing the Option Shares with respect to which your Option is exercised. Kirkland & Ellis LLP will act as custodian and hold all such certificates on your behalf. 
+
+4\. Expiration of Option. 
+
+(a) Normal Expiration. In no event shall any part of your Option be exercisable after the Expiration Date set forth in Section 2(a) above. 
+
+(b) Early Expiration Upon Termination of Employment. Any portion of your Option that was not vested and exercisable as of the date your employment with the Company terminated shall expire and be forfeited on such date, and, any portion of your Option that was vested and exercisable as of the date your employment with the Company terminated shall expire and be forfeited within the time frames set forth in the Plan. 
+
+5\. Procedure for Exercise. You may exercise all or any portion of your Option, to the extent it has vested and is exercisable, at any time and from time to time prior to its expiration, by delivering written notice to the Company (to the attention of the Company’s Secretary) and your written acknowledgement that you have reviewed and have been afforded an opportunity to ask questions of management of the Company with respect to all financial and other information provided to you regarding the Company, together with payment of the Option Price in accordance with the provisions of Section 2(b) above. As a condition to any exercise of your Option, you shall permit the Company to deliver to you all financial and other information regarding the Company it believes necessary to enable you to make an informed investment decision, and you shall make all customary investment representations which the Company requires. 
+
+-4- 
+
+* * *
+
+6\. Stockholders Agreement. Upon exercise of the Option, you shall be deemed to have become party to and joined the Company’s Stockholders Agreement dated as of March 23, 2012, and you hereby agree to become a party thereto and bound thereby. 
+
+7\. Securities Laws Restrictions and Other Restrictions on Transfer of Option Shares. You represent and warrant that when you exercise your Option you shall be purchasing Option Shares for your own account and not on behalf of others. You understand and acknowledge that federal and state securities laws govern and restrict your right to offer, sell or otherwise dispose of any Option Shares unless your offer, sale or other disposition thereof is registered or qualified under the Securities Act and applicable state securities laws, or in the opinion of the Company’s counsel, such offer, sale or other disposition is exempt from registration or qualification thereunder. You agree that you shall not offer, sell or otherwise dispose of any Option Shares in any manner which would: (i) require the Company to file any registration statement with the Securities and Exchange Commission (or any similar filing under state law) or to amend or supplement any such filing or (ii) violate or cause the Company to violate the Securities Act, the rules and regulations promulgated thereunder or any other state or federal law. You further understand that the certificates for any Option Shares you purchase shall bear such legends as the Company deems necessary or desirable in connection with the Securities Act or other rules, regulations or laws. 
+
+8\. Non-Transferability of Option. Your Option is personal to you and is not transferable by you other than by will or the laws of descent and distribution. During your lifetime only you (or your guardian or legal representative) may exercise your Option. In the event of your death, your Option may be exercised only (i) by the executor or administrator of your estate or the person or persons to whom your rights under the Option shall pass by will or the laws of descent and distribution and (ii) to the extent that you were entitled hereunder at the date of your death. 
+
+9\. Conformity with Plan. Your Option is intended to conform in all respects with, and is subject to all applicable provisions of, the Plan (which is incorporated herein by reference). Inconsistencies between this Agreement and the Plan shall be resolved in accordance with the terms of the Plan. By executing and returning the enclosed copy of this Agreement, you acknowledge your receipt of this Agreement and the Plan and agree to be bound by all of the terms of this Agreement and the Plan. 
+
+10\. Rights of Participants. Nothing in this Agreement shall interfere with or limit in any way the right of the Company to terminate your employment at any time (with or without Cause), nor confer upon you any right to continue in the employ of the Company for any period of time or to continue your present (or any other) rate of compensation, and in the event of your termination of employment (including, but not limited to, termination by the Company without Cause), any portion of your Option that was not previously vested and exercisable shall expire and be forfeited. Nothing in this Agreement shall confer upon you any right to be selected again as a Plan participant, and nothing in the Plan or this Agreement shall provide for any adjustment to the number of Option Shares subject to your Option upon the occurrence of subsequent events except as provided in Section 12 below. 
+
+-5- 
+
+* * *
+
+11\. Withholding of Taxes. The Company shall be entitled, if necessary or desirable, to withhold from you any amounts due and payable by the Company to you (or secure payment from you in lieu of withholding) the amount of any withholding or other tax due from the Company with respect to any Option Shares issuable hereunder, and the Company may defer such issuance unless indemnified by you to its satisfaction. 
+
+12\. Adjustments. In the event of a reorganization, recapitalization, stock dividend or stock split, or combination or other change in the shares of Class B Common Stock, the Board or the Committee may, make such adjustments in the number and type of shares authorized by the Plan, the number and type of shares covered by your Option and the Exercise Price specified herein as may be determined to be appropriate and equitable, in order to prevent the dilution or enlargement of rights under your Option. 
+
+13\. Right to Purchase Option Shares Upon Your Termination of Employment. 
+
+(a) Repurchase of Option Shares. If your employment with the Company shall terminate, including upon your death, Disability, resignation or termination with or without Cause (the date on which such termination occurs being referred to as the “Termination Date”), then the Company shall have the option to repurchase all or any part of the Option Shares issued or issuable upon exercise of your Option, whether held by you or by one or more of your transferees, at the price determined in accordance with the provisions of Section 14 hereof (the “Repurchase Option”). 
+
+(b) Repurchase by Company. The Board may elect to cause the Company to purchase all or any portion of the Option Shares by delivery of written notice (the “Repurchase Notice”) to you or any other holders of the Option Shares within 60 days after the Termination Date for any Option Shares issued at least 181 days prior to the Termination Date (or in the case of Option Shares issued 180 days or less prior to the Termination Date or at any time after such Termination Date, within 60 days after the date that is 181 days following the date of the issuance of such Option Shares). The Repurchase Notice shall set forth the number of Option Shares to be acquired from you and such other holder(s), the aggregate consideration to be paid for such shares and the time and place for the closing of the transaction. The number of Option Shares to be repurchased by the Company shall first be satisfied to the extent possible from the Option Shares held by you at the time of delivery of the Repurchase Notice. If the number of Option Shares then held by you is less than the total number of Option Shares the Company has elected to purchase, then the Company shall purchase the remaining shares elected to be purchased from the other holders thereof, pro rata according to the number of shares held by each such holder at the time of delivery of such Repurchase Notice (determined as close as practical to the nearest whole share). 
+
+(c) Assignment of Repurchase Option. The Company may assign the Repurchase Option to one or more third parties (including to one or more of the Company’s stockholders). 
+
+(d) Closing of Repurchase of Option Shares. The closing of the purchase of Option Shares pursuant to this Section 13 shall take place on the date designated by the Company in the Repurchase Notice, which date shall not be more than 30 days nor less than five days after the delivery of the Repurchase Notice. At the closing, the purchaser or purchasers 
+
+-6- 
+
+* * *
+
+shall pay the purchase price in the manner specified in Section 14(b) and you and any other holders of Option Shares being purchased shall deliver the certificate or certificates representing such shares to the purchaser or purchasers or their nominees, accompanied by duly executed stock powers. Any purchaser of Option Shares under this Section 13 shall be entitled to receive customary representations and warranties from you and any other selling holders of Option Shares regarding the sale of such shares (including representations and warranties regarding good title to such shares, free and clear of any liens or encumbrances) and to require all sellers’ signatures to be guaranteed by a national bank or nationally recognized securities broker. 
+
+(e) Applicability of Repurchase Option. It is agreed and understood that the Repurchase Option shall apply with respect to the Option Shares issued or issuable pursuant hereto and not with respect to any other shares of capital stock of the Company held by you (provided that you acknowledge that there exist other repurchase rights relating to other shares of capital stock of the Company that may be held by you). 
+
+(f) The Repurchase Option contained in this Section 13 shall terminate upon the initial public offering of securities of the Company. 
+
+14\. Purchase Price for Option Shares. 
+
+(a) Purchase Price. The purchase price per share to be paid for the Option Shares purchased by the Company pursuant to Section 13 shall be (i) the lower of the Exercise Price thereof and the Fair Market Value thereof as of the date of the delivery of the Repurchase Notice (as defined in Section 13(b)) (taking into account any unpaid applicable Exercise Price), in the event of the termination of your employment for Cause, and (ii) the Fair Market Value thereof as of the date of the delivery of the Repurchase Notice (taking into account any unpaid applicable Exercise Price) in the event of any other termination of employment. 
+
+(b) Manner of Payment. If the Company elects to purchase all or any part of the Option Shares, including Option Shares held by one or more transferees, the Company shall pay for such shares by first offsetting amounts outstanding under any bona fide debts owed by you to the Company (or one or more of your transferees, other than the Company); upon full repayment of such bona fide debts, the Company will make payment in the aggregate amount of the remaining purchase price for such Option Shares, at its option, (i) by a check or wire transfer of funds or (ii) if pursuant to Section 14(c) below, the Company is prohibited from paying cash to repurchase the Option Shares, then by a subordinated note or notes payable in up to three annual installments beginning on the date of the closing of such purchase and bearing interest (payable quarterly) at a rate per annum equal to the prime rate as published in The Wall Street Journal on the business day immediately preceding the date of the closing of such purchase. 
+
+(c) Restrictions on Repurchase. Notwithstanding anything to the contrary contained in this Agreement, all repurchases of Option Shares (and any payments of principal or interest with respect to the subordinated note(s) referenced in Section 14(b)) by the Company shall be subject to applicable restrictions contained in the Delaware General Corporation Law and in the Company’s and its Subsidiaries’ debt and equity financing agreements. If any such restrictions prohibit the repurchase of Option Shares hereunder which the Company is otherwise entitled or required to make, the Company may make such repurchases as soon as it is permitted to do so under such restrictions. 
+
+-7- 
+
+* * *
+
+15\. Restrictions on Transfer. 
+
+(a) Restrictive Legend. The certificates representing the Option Shares shall bear the following legend: 
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE WERE ORIGINALLY ISSUED ON [ ], 2012, HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE “ACT”), OR UNDER ANY STATE SECURITIES LAWS AND MAY NOT BE SOLD OR TRANSFERRED IN THE ABSENCE OF AN EFFECTIVE REGISTRATION STATEMENT UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS OR AN EXEMPTION FROM REGISTRATION THEREUNDER. THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE ALSO SUBJECT TO ADDITIONAL RESTRICTIONS ON TRANSFER, CERTAIN REPURCHASE OPTIONS AND CERTAIN OTHER AGREEMENTS SET FORTH IN AN OPTION AGREEMENT BETWEEN THE COMPANY AND [ ] DATED AS OF [ ], 2012, A COPY OF WHICH MAY BE OBTAINED BY THE HOLDER HEREOF AT THE COMPANY’S PRINCIPAL PLACE OF BUSINESS WITHOUT CHARGE.” 
+
+(b) Opinion of Counsel. You may not sell, transfer or dispose of any Option Shares (except pursuant to an effective registration statement under the Securities Act) without first delivering to the Company an opinion of counsel reasonably acceptable in form and substance to the Company that registration under the Securities Act or any applicable state securities law is not required in connection with such transfer. 
+
+(c) Holdback. You agree not to effect any public sale or distribution of any equity securities of the Company, or any securities convertible into or exchangeable or exercisable for such securities, during the seven days prior to and the 180 days after the effectiveness of any underwritten initial public offering or 90 days following the effectiveness of any follow-on offer, except as part of such underwritten public offering or if otherwise permitted by the Company. 
+
+16\. Remedies. The parties hereto shall be entitled to enforce their rights under this Agreement specifically, to recover damages by reason of any breach of any provision of this Agreement and to exercise all other rights existing in their favor. The parties hereto acknowledge and agree that money damages would not be an adequate remedy for any breach of the provisions of this Agreement and that any party hereto shall be entitled to specific performance and/or injunctive relief (without posting bond or other security) from any court of law or equity of competent jurisdiction in order to enforce or prevent any violation of the provisions of this Agreement. 
+
+-8- 
+
+* * *
+
+17\. Amendment. Except as otherwise provided herein or in the Plan, no provision of this Agreement may be amended or waived except with the prior written consent of you and the Company. 
+
+18\. Successors and Assigns. Except as otherwise expressly provided herein, all covenants and agreements contained in this Agreement by or on behalf of any of the parties hereto shall bind and inure to the benefit of the respective successors and permitted assigns of the parties hereto whether so expressed or not. 
+
+19\. Severability. Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be effective and valid under applicable law, but if any provision of this Agreement is held to be prohibited by or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement. 
+
+20\. Counterparts. This Agreement may be executed simultaneously in two or more counterparts, each of which shall constitute an original, but all of which taken together shall constitute one and the same Agreement. 
+
+21\. Descriptive Headings. The descriptive headings of this Agreement are inserted for convenience only and do not constitute a part of this Agreement. 
+
+22\. Governing Law. All questions concerning the construction, validity and interpretation of this Agreement shall be governed by the internal law, and not the law of conflicts, of Delaware. 
+
+23\. Notices. All notices, demands or other communications to be given or delivered under or by reason of the provisions of this Agreement shall be in writing and shall be deemed to have been given when delivered personally or mailed by certified or registered mail, return receipt requested and postage prepaid, to the recipient. Such notices, demands and other communications shall be sent to you and to the Company at the addresses indicated below: 
+
+If to the Optionee: 
+
+[ ] 
+
+[ ] 
+
+[ ] 
+
+If to the Company: 
+
+EveryWare Global, Inc. 
+
+c/o Monomoy Capital Partners, L.P. 
+
+142 West 57th Street, 17th Floor 
+
+New York, NY 10019 
+
+Attention: Daniel Collin 
+
+Andrea Cipriani 
+
+Telephone No.: (212) 699-4000 
+
+Telecopy No.: (212) 699-4010 
+
+-9- 
+
+* * *
+
+with a copy (which shall not constitute notice) to: 
+
+Kirkland & Ellis LLP 
+
+300 North LaSalle Street 
+
+Chicago, Illinois 60654 
+
+Attention: Richard W. Porter, P.C. 
+
+Kevin L. Morris 
+
+Telephone No.: (312) 862-2000 
+
+Telecopy No.: (312) 862-2200 
+
+or to such other address or to the attention of such other person as the recipient party has specified by prior written notice to the sending party. 
+
+24\. Entire Agreement. This Agreement and the Plan constitute the entire understanding between you and the Company, and supersedes all other agreements, whether written or oral, with respect to the acquisition by you of Class B Common Stock of the Company. 
+
+* * * * * 
+
+-10- 
+
+* * *
+
+Please execute the extra copy of this Agreement in the space below and return it to the Company’s Secretary at its executive offices to confirm your understanding and acceptance of the agreements contained in this Agreement.   
+  
+Very truly yours,  
+EVERYWARE GLOBAL, INC.  
+By:  
+  
+Name:  
+  
+Title:  
+  
+Enclosures: (1) Copy of the Plan  
+(2) Stockholders Agreement  
+  
+The undersigned hereby acknowledges having read this Agreement and the Plan and hereby agrees to be bound by all provisions set forth herein and in the Plan.   
+  
+Dated as of OPTIONEE  
+, 2012  
+  
+Name: [ ]  
+  
+* * *
+
+[Provision for Community Property Jurisdiction] 
+
+CONSENT 
+
+The undersigned spouse of hereby acknowledges that I have read the foregoing Stock Option Agreement and that I understand its contents. I am aware that the Agreement provides for the repurchase of my spouse’s shares of Class B Common Stock under certain circumstances and imposes other restrictions on the transfer of such Class B Common Stock. I agree that my spouse’s interest in the Class B Common Stock is subject to this Agreement and any interest I may have in such Class B Common Stock shall be irrevocably bound by this Agreement and further that the my community property interest, if any, shall be similarly bound by this Agreement.   
+  
+Spouse  
+  
+Witness  
+  
+12 

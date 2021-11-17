@@ -1,0 +1,351 @@
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+GOOGLE INC.
+
+2012 STOCK PLAN
+
+
+
+  
+
+
+This Stock Option Agreement (the “Option Agreement”) is entered into as of [DATE] (the “Grant Date”) by and between [NAME] (the “Optionee”) and Google Inc. (“Google”, and together with its Subsidiaries, the “Company”).
+
+I.GRANT OF AWARD
+
+Google has granted the Optionee an option to purchase shares of Capital Stock (the “Option”), subject to the terms and conditions of the Plan and this Option Agreement, including any special terms and conditions for the jurisdiction in which the Optionee resides contained in Exhibit B or any other appendix hereto (the “Appendix”). Certain details of the Option, specifically the number of shares of Capital Stock subject to the Option (the “Option Shares”), the exercise price per Option Share, the vesting schedule of the Option, and the Option’s designation as an ISO or non-qualified Option (collectively, the “Option Details”) are accessible to the Optionee through the Optionee’s brokerage account and the Option Details are hereby incorporated into this Option Agreement by reference. Capitalized terms used but not otherwise defined in this Option Agreement shall have the meanings given to such terms in the Plan.
+
+II. TERMS OF OPTION
+
+1\. Vesting and Exercisability of Option. 
+
+(a) In General. Except as otherwise provided in subsection (b) below, the Option will vest and become exercisable with respect to the Option Shares in accordance with the vesting schedule set forth in the Option Details, subject to the Optionee’s continued employment with, or service to, the Company on each applicable vesting date. In the event the Optionee ceases to be employed by, or ceases to provide services to, the Company for any reason except his or her death (as set forth in subsection (b) below), if applicable, then the Option will be forfeited with respect to the then unvested Option Shares effective as of the date that the Optionee ceases to be employed by, or ceases to provide services to, the Company (the “Termination Date”) and the Optionee will have no further rights to the Option with respect such unvested Option Shares.
+
+(b) Death of Optionee. In the event that the Optionee ceases to be employed by, or ceases to provide services to, the Company as a result of the Optionee’s death, then (i) the Option shall immediately vest and become exercisable with respect to all of the Option Shares as of the Termination Date; provided, that, if the Optionee is a director or executive officer (within the meaning of Section 16 of the Exchange Act and the regulations thereunder) of Google (each, a “Section 16 Person”) as of the Grant Date and/or as of the Optionee’s death, then such vesting acceleration shall not be applicable and the Option shall be forfeited with respect to the then unvested Option Shares effective as of the Termination Date, and (ii) after the Termination Date, the Option will be exercisable with respect to the vested Option Shares for the period specified in Section 2(b) below and may be exercised by the Optionee’s designated beneficiary, provided that such beneficiary has been designated prior to the Optionee’s death; in the absence of any such effective designation, the Option may be exercised by the administrator or executor of the Optionee’s estate. Any such administrator or executor must furnish Google with (A) written notice of his or her status as transferee, (B) a copy of the will and/or such evidence as the Committee may deem necessary to establish the validity of the transfer, and (C) an agreement by the transferee to comply with all the terms and conditions of the Option that are or would be applicable to the Optionee and to be bound by the acknowledgments made by the Optionee hereunder.
+
+2\. Exercise Period.
+
+  
+
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+(a) Term of Option. Subject to earlier expiration upon the Optionee’s termination of employment with, or service to, the Company as provided in subsection (b) below, the Option will expire on the [tenth] anniversary of the Grant Date (such day, the “Expiration Date”). 
+
+(b) Post-Termination Exercise Period. Upon the Optionee’s termination of employment with, or service to, the Company for any reason other than the Optionee’s death or Disability, the Option may be exercised with respect to the vested Option Shares for three (3) months following the Termination Date. For this purpose, “Disability” shall mean total and permanent disability as defined in the U.S. Department of Treasury Regulation section 1.409A-3(i)(4)(i)(A), provided that the Committee in its discretion may determine whether a total and permanent disability exists. Upon the Optionee’s termination of employment with, or service to, the Company by reason of the Optionee’s death or Disability, the Option may be exercised with respect to the vested Option Shares for twelve (12) months following the Termination Date. Notwithstanding the foregoing, in no event shall the Option be exercisable after the Expiration Date.
+
+3\. Exercise of Option. The Option may be exercised with respect to the vested Option Shares, in whole or in part; provided, however that no partial exercise of the Option shall be for an aggregate Exercise Price of less than $1,000.
+
+(a) Method of Exercise. The Option is exercisable by delivery of an electronic or physical exercise notice, in the form attached hereto as Exhibit A or such other form as permitted by the Committee from time to time and communicated to the Optionee (the “Exercise Notice”), which shall state the election to exercise the Option, the number of Option Shares in respect of which the Option is being exercised (the “Exercised Shares”), and such other representations and agreements as may be required by the Committee pursuant to the provisions of the Plan. If the Exercise Notice is not completed and delivered electronically through the Optionee’s brokerage account, then the Exercise Notice shall be delivered to the Stock Administration department of Google by e-mail or mail at the addresses shown below and shall be accompanied by payment of the aggregate Exercise Price as to all Exercised Shares. 
+
+Google Inc.
+
+Attn: Stock Administration
+
+1600 Amphitheatre Parkway
+
+Mountain View, CA 94043
+
+(650) 253-0000
+
+Stock-admin@google.com
+
+(b) Method of Payment. Payment of the aggregate Exercise Price shall be by any of the following methods, or a combination thereof, at the election of the Optionee:
+
+(i) cash; or
+
+(ii) check; or
+
+(iii) consideration received by Google under a formal cashless exercise program implemented by Google in connection with the Plan.
+
+4\. Limited Transferability of Option. The Option may not be transferred in any manner other than (i) by will or by the laws of descent or distribution, or (ii) pursuant to Google’s Award Transfer Program and in accordance with such procedures as the Board of Directors (in its discretion) may specify with respect to the administration and operation of such Award Transfer Program. The Option may be exercised during the lifetime of the Optionee only by the Optionee or a valid transferee (which shall include specifically any financial institution, or other entity selected by the Board of Directors, pursuant to the Award Transfer Program). The terms of the Plan and the Option Agreement, including the Appendix, shall be binding upon all valid transferees of the Optionee and in order to effect a valid transfer, the transferee (which shall include specifically any financial institution, or other entity selected by the Board of Directors, pursuant to the Award Transfer Program) shall, if required by the Board of Directors in its discretion, execute an agreement reflecting such terms and conditions as the Board of Directors deems necessary to facilitate such transfer. 
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+5\. Type of Option. If designated in the Option Details as an ISO, this Option is intended to qualify as an “incentive stock option” under Section 422 of the Code, but to the extent that the Option, or a portion thereof, fails for any reason to meet requirements of an “incentive stock option”, then it shall be treated as a non-qualified Option for all purposes under the Plan and this Option Agreement.
+
+6\. Leave of Absence; Reduced Schedule. Vesting of the Option during (i) any leave of absence of the Optionee and (ii) any period during which the Optionee works a reduced schedule, shall be subject to the terms and conditions of the Leaves of Absence and Award Vesting Policy, as in effect on the Grant Date. 
+
+7\. Taxes.
+
+(a) Liability for Tax-Related Items. The Optionee acknowledges that the Optionee is ultimately liable and responsible for any and all income taxes (including federal, state and local income taxes), social insurance, payroll taxes and other tax-related withholding (the “Tax-Related Items”) arising in connection with the Option, regardless of any action the Company takes with respect to such Tax-Related Items. The Optionee further acknowledges that the Company (i) does not make any representation or undertaking regarding the treatment of any Tax-Related Item in connection with any aspect of the Option, including the grant, vesting, exercise and valid transfer of the Option, or the subsequent sale of the Exercised Shares and (ii) does not commit, and is under no obligation, to structure the terms of the Option or any aspect of the Option to reduce or eliminate the Optionee’s liability for Tax-Related Items or achieve any particular tax result. 
+
+(b) Payment of Withholding Taxes. Notwithstanding any contrary provision of this Option Agreement, no Exercised Shares shall be issued, and no sales proceeds shall be delivered, unless and until satisfactory arrangements (as determined by the Committee) have been made by the Optionee with respect to the payment of any taxes which the Company determines must be withheld with respect to such Exercised Shares or such sales proceeds; provided, that if the Optionee fails to make satisfactory arrangements with respect to such taxes by the end of the calendar year in which the applicable exercise or transfer in the Award Transfer Program occurred, then the Option shall be forfeited with respect to the Exercised Shares or the sales proceeds and Google shall not be required to issue the Exercised Shares or deliver the sales proceeds.
+
+(i) Exercise. Upon exercise of the Option, or a portion thereof, the Committee may use any method permitted by the Plan to satisfy the federal, state and local withholding tax requirements attributable to the Option, or portion thereof, being exercised. 
+
+(ii) Transfer. Upon transfer of the Option, or a portion thereof, in the Award Transfer Program, the Committee may use any method permitted by the Plan to satisfy the federal, state and local withholding tax requirements attributable to the Option, or portion thereof, being transferred.
+
+(iii) No fractional Exercised Shares shall be issued under this Option Agreement and all fractional shares shall be rounded down to the nearest whole share with a cash payment in respect thereof.
+
+8\. Rights as Stockholder. Neither the Optionee nor any person claiming under or through the Optionee will have any of the rights or privileges of a stockholder of Google in respect of any Option Shares unless and until such shares of Capital Stock have been issued on the records of Google or its transfer agents or registrars. After such issuance, the Optionee will have all the rights as a stockholder of Google with respect to such shares of Capital Stock. 
+
+9\. No Special Employment Rights; No Right to Future Awards. Nothing contained in this Option Agreement shall confer upon the Optionee any right with respect to the continuation of his or her employment by, or service to, the Company or interfere in any way with the right of the Company at any time to terminate such employment or service or to increase or decrease the compensation of the Optionee from the rate in existence at the Grant Date. The grant of the Option is at the sole discretion of Google and does not create any contractual or other right to receive future awards of stock options, or 
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+benefits in lieu of stock options, even if stock options have been awarded to the Optionee repeatedly in the past.
+
+10\. Modification; Entire Agreement; Waiver. No modification of any provision of this Option Agreement which reduces the Optionee’s rights hereunder will be valid unless the same is agreed to in writing by the parties hereto. This Option Agreement, including the Appendix and the Option Details, together with the Plan and the Exercise Notice, represent the entire agreement between the parties with respect to the Option. The failure of Google to enforce at any time any provision of this Option Agreement will in no way be construed to be a waiver of such provision or of any other provision hereof. Google reserves the right, however, to the extent that Google deems necessary or advisable in its sole discretion, to unilaterally alter or modify the terms of the Option set forth in this Option Agreement in order to ensure that the Option qualifies for exemption from the requirements of Section 409A of the Internal Revenue Code of 1986, as amended, and the regulations promulgated thereunder (“Section 409A”); provided, however that the Company makes no representations that the Option will be exempt from the requirements of Section 409A. 
+
+11\. Binding Agreement. Subject to the limitation on the transferability of the Option contained herein, this Option Agreement will be binding upon and inure to the benefit of the heirs, legatees, legal representatives, successors and assigns of the parties hereto.
+
+12\. Additional Conditions to Issuance of Shares of Capital Stock. Google shall not be required to issue any shares of Capital Stock hereunder prior to fulfillment of all the following conditions: (a) the completion of any registration or other qualification of such shares of Capital Stock under any federal or state law or under the rulings or regulations of the Securities and Exchange Commission or any other governmental regulatory body, or under any stock exchange on which the shares of Capital Stock are listed for trading, which the Committee shall, in its absolute discretion, deem necessary or advisable; (b) the obtaining of any approval or other clearance from any federal or state governmental agency, which the Committee shall, in its absolute discretion, determine to be necessary or advisable; and (c) the lapse of such reasonable period of time not to exceed thirty (30) days following the applicable exercise date as the Committee may establish from time to time for reasons of administrative convenience.
+
+13\. Plan Governs. This Option Agreement is subject in all respects to all terms and provisions of the Plan and the Plan document is hereby incorporated into this Option Agreement. In the event of a conflict between one or more provisions of this Option Agreement and one or more provisions of the Plan, the provisions of the Plan will control. 
+
+14\. Policy Against Insider Trading. By accepting the Option, the Optionee acknowledges that (a) a copy of Google’s Policy Against Insider Trading (the “Trading Policy”) has been made available to the Optionee, (b) the Optionee has had an opportunity to review the Trading Policy and (c) the Optionee is bound by all the terms and conditions of the Trading Policy.
+
+15\. Committee Authority. The Committee has full discretionary authority to administer the Plan, including discretionary authority to interpret and construe any and all provisions of the Plan and this Option Agreement and to adopt and amend from time to time such rules and regulations for the administration of the Plan as the Committee may deem necessary or appropriate. All actions taken and all interpretations and determinations made by the Committee will be final and binding upon the Optionee, the Company and all other interested persons. 
+
+16\. Captions. Captions provided herein are for convenience only and shall not affect the scope, meaning, intent or interpretation of the provisions of this Option Agreement.
+
+17\. Severability. In the event that any provision in this Option Agreement is held to be invalid or unenforceable for any reason, such provision will be severable from, and such invalidity or unenforceability will not be construed to have any effect on, the remaining provisions of this Option Agreement.
+
+18\. Governing Law. This Option Agreement shall be construed and administered in accordance with the laws of the State of New York without regard to its conflict of law principles.
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+19\. Section 409A Compliance. It is intended that the Plan and the Option Agreement comply with, or be exempt from, the requirements of Section 409A and any related guidance promulgated with respect to such Section by the U.S. Department of the Treasury or the Internal Revenue Service. Accordingly, to the maximum extent permitted, this Option Agreement shall be interpreted and administered to be in compliance therewith or exempt therefrom. Notwithstanding anything contained herein to the contrary, to the extent required in order to avoid accelerated taxation and/or tax penalties under Section 409A, the Optionee shall not be considered to have terminated employment with, or service to, the Company for purposes of this Option Agreement until the Optionee would be considered to have incurred a “separation from service” from the Company within the meaning of Section 409A. Each amount to be paid or benefit to be provided pursuant to this Option shall be construed as a separate identified payment for purposes of Section 409A. 
+
+20\. Employee Data Privacy. 
+
+(a) The Optionee hereby explicitly and unambiguously consents to the collection, use and transfer, in electronic or other form, of his or her personal data as described in this Option Agreement by and among, as applicable, the Company and its Subsidiaries and affiliates for the exclusive purpose of implementing, administering and managing the Optionee’s participation in the Plan.
+
+(b) The Optionee understands that the Company may hold certain personal information about him or her, including, but not limited to, the Optionee’s name, home address and telephone number, date of birth, social insurance number or other identification number, salary, nationality, job title, any shares of Capital Stock or directorships held in the Company, details of all entitlement to shares of Capital Stock awarded, canceled, exercised, vested, unvested or outstanding in Optionee’s favor, for the purpose of implementing, administering and managing the Plan (“Data”). 
+
+(c) The Optionee understands that Data will be transferred to Charles Schwab & Co., Inc., Morgan Stanley Smith Barney, LLC, and/or such other third parties as may be selected by the Company in the future to assist the Company with the implementation, administration and management of the Plan, that these recipients may be located in the Optionee’s country or elsewhere, and that the recipient’s country may have different data privacy laws and protections than the Optionee’s country. The Optionee understands that he or she may request a list with the names and addresses of any potential recipients of the Data by contacting the Optionee’s local human resources representative. 
+
+(d) The Optionee authorizes the Company, Charles Schwab & Co., Inc., Morgan Stanley Smith Barney, LLC, and any other possible recipients which may assist the Company (presently or in the future) with implementing, administering and managing the Plan to receive, possess, use, retain and transfer the Data, in electronic or other form, for the sole purpose of implementing, administering and managing the Optionee’s participation in the Plan, including any requisite transfer of such Data as may be required to a broker or other third party with whom the Optionee may elect to deposit any shares of Capital Stock acquired upon settlement of the Options. The Optionee understands that Data will be held only as long as is necessary to implement, administer and manage the Optionee’s participation in the Plan. The Optionee understands that the Optionee may, at any time, view Data, request additional information about the storage and processing of Data, require any necessary amendments to Data or refuse or withdraw the consents herein, in any case without cost, by contacting in writing the Optionee’s local human resources representative. The Optionee understands, however, that refusing or withdrawing consent may affect the Optionee’s ability to participate in the Plan. For more information on the consequences of the refusal to consent or withdrawal of consent, the Optionee understands that he or she may contact his or her local human resources representative.
+
+21\. Appendix. Notwithstanding any provisions in this Option Agreement, if the Optionee resides outside of the United States, certain additional general terms and conditions set forth in the Appendix will apply to the Optionee. In addition, the Option shall be subject to any special terms and conditions set forth in the Appendix for the jurisdiction in which the Optionee resides. If the Optionee relocates from the United States to a country outside the United States or relocates between the the jurisdictions specified in the Appendix, the additional general and special terms and conditions, as applicable, will apply to the Optionee, to the extent that Google determines that the application of such 
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+terms and conditions is necessary or advisable in order to comply with local law or facilitate the administration of the Plan. The Appendix constitutes part of this Option Agreement.
+
+22\. Acceptance. The Optionee must accept the Option and agree to the terms and conditions of the Option as set forth in the Plan and this Option Agreement (including the Option Details and the Appendix), by electronically accepting this Option Agreement immediately following the Grant Date. 
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+
+
+EXHIBIT A
+
+GOOGLE INC.
+
+2012 STOCK PLAN
+
+EXERCISE NOTICE
+
+  
+
+
+Google Inc.
+
+1600 Amphitheatre Parkway
+
+Mountain View, California 94043 USA
+
+Attention: Stock Administration
+
+  
+
+
+1\. Exercise of Option. Effective as of today, ________________, _____, the undersigned (“Purchaser”) hereby elects to purchase ______________ shares (the “Shares”) of Capital Stock under and pursuant to the stock option granted to Purchaser (the “Option”) pursuant to the Google Inc. 2012 Stock Plan (the “Plan”) and the Stock Option Agreement dated, _____ (the “Option Agreement”). The purchase price for the Shares shall be $_____, as required by the Option Agreement.
+
+2\. Delivery of Payment. Purchaser herewith delivers to Google Inc. (“Google”) the full purchase price for the Shares by (circle one):
+
+(c) cash; 
+
+(d) check; or
+
+(e) consideration received by Google under a formal cashless exercise program implemented by Google in connection with the Plan.
+
+3\. Representations of Purchaser. Purchaser acknowledges that Purchaser has received, read and understood the Plan and the Option Agreement and agrees to abide by and be bound by their terms and conditions.
+
+4\. Rights as Stockholder. Until the issuance (as evidenced by the appropriate entry on the books of Google or its transfer agents or registrars) of the Shares, the Optionee shall not have any rights as a stockholder with respect to the shares of Capital Stock subject to the Option, notwithstanding the exercise of the Option. The Shares acquired upon exercise of the Option shall be issued to the Optionee as soon as practicable after exercise of the Option. 
+
+5\. Tax Consultation. Purchaser understands that Purchaser may suffer adverse tax consequences as a result of Purchaser's purchase or disposition of the Shares. Purchaser represents that Purchaser has consulted with any tax consultants Purchaser deems advisable in connection with the purchase or disposition of the Shares and that Purchaser is not relying on Google for any tax advice.
+
+6\.  HSR Consultation and Filing Fee. Purchaser understands that by exercising the Option, Purchaser may trigger reporting obligations pursuant to the requirements of the Hart-Scott-Rodino (HSR) Act and that the determination of whether the reporting obligations are triggered depends upon the Participant’s individual circumstances, including the value of the Capital Stock held by the Participant at the time of exercise. If, in opinion of the Purchaser’s legal counsel, an HSR reporting obligation will be triggered by the exercise of the Participant’s Option granted pursuant to this Agreement, and Google’s own legal counsel confirms that a reporting obligation will in fact be triggered, then Google will pay the applicable filing fees directly to the Federal Trade Commission will make a payment to the Participant that is sufficient to put the Participant in the same after-tax position that the Participant would have been in had Google not paid the filing fees on the Participant’s behalf. Notwithstanding the foregoing, the Participant agrees and acknowledges that the Participant is not relying on Google or Google’s legal counsel for any HSR-related advice.
+
+  
+
+
+* * *
+
+  
+
+
+Exhibit 10.22
+
+  
+
+
+  
+  
+  
+  
+
+
+Submitted by:
+
+PURCHASER
+
+  
+
+
+__________________________________
+
+Signature
+
+__________________________________
+
+Print Name
+
+  
+
+
+Address:
+
+___________________________________
+
+___________________________________
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+Accepted by:
+
+GOOGLE INC.
+
+  
+
+
+By: ____________________________________
+
+Name:
+
+____________________________________
+
+Title:
+
+  
+
+
+  
+
+
+_____________________________________
+
+Date Received  
+  
+  
+
+
+  
+
