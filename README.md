@@ -23,7 +23,4 @@
  1.  `data.zip` - The raw contracts, classified by their filename
  1.  `test_data.zip` - Unlabeled contracts
 
-## Leaderboard
-is available at http://goren.ml/uattcontract
-
 A minimum accuracy of 90% is required
